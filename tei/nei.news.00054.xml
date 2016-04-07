@@ -2,118 +2,115 @@
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.news.00054">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title type="main">[?r] and Scientist</title>
-<author></author>
-<principal>Gossin, Pamela</principal>
-</titleStmt>
-<editionStmt>
-<edition>
-<date>2013</date>
-</edition>
-</editionStmt>
-<publicationStmt>
-<authority>The Papers of John G. Neihardt</authority>
-<publisher>University of Nebraska-Lincoln</publisher>
-<distributor>
-<name>Center for Digital Research in the Humanities</name>
-<address>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">[?r] and Scientist</title>
+				<author></author>
+				<principal>Gossin, Pamela</principal>
+			</titleStmt>
+			<editionStmt>
+				<edition>
+					<date>2013</date>
+				</edition>
+			</editionStmt>
+			<publicationStmt>
+				<authority>The Papers of John G. Neihardt</authority>
+				<publisher>University of Nebraska-Lincoln</publisher>
+				<distributor>
+					<name>Center for Digital Research in the Humanities</name>
+					<address>
 <addrLine>319 Love Library</addrLine>
 <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 <addrLine>cdrh@unlnotes.unl.edu</addrLine>
 </address>
-</distributor>
-<pubPlace>Lincoln, Nebraska</pubPlace> 
-<address>
+				</distributor>
+				<pubPlace>Lincoln, Nebraska</pubPlace> 
+				<address>
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.news.00054</idno>
-<availability>
-<p></p>
-</availability>
-</publicationStmt>
-
-<notesStmt><note></note></notesStmt>
-
-<sourceDesc>
-<bibl>
-<author></author>
-<title level="a" type="main">[?r] and Scientist</title>
-<title level="a" type="sub">book review, <hi rend="italic">Luther Burbank: His Religion of Humanity</hi> By Frederick W. Clampett. Macmillan.</title>
-<title level="j">St. Louis Post-Dispatch</title>
-<note type="day">Thursday</note>
-<date when="1927-01-27">January 27, 1927</date>
-<biblScope type="pp"></biblScope>
-<extent> pages</extent>
-
-</bibl>
-
-
-</sourceDesc>
-</fileDesc>
-
-<encodingDesc>
-<editorialDecl>
-<correction>
-<p></p>
-</correction>
-<normalization>
-<p></p>
-</normalization>
-</editorialDecl>
-</encodingDesc>
-
-<profileDesc>
-<textClass>
+				<idno>nei.news.00054</idno>
+				<availability>
+					<p></p>
+				</availability>
+			</publicationStmt>
+			
+			<notesStmt><note></note></notesStmt>
+			
+			<sourceDesc>
+				<bibl>
+					<author></author>
+					<title level="a" type="main">[?r] and Scientist</title>
+					<title level="a" type="sub">book review, <hi rend="italic">Luther Burbank: His Religion of Humanity</hi> By Frederick W. Clampett. Macmillan.</title>
+					<title level="j">St. Louis Post-Dispatch</title>
+					<note type="day">Thursday</note>
+					<date when="1927-01-27">January 27, 1927</date>
+					<biblScope type="pp"></biblScope>
+					<extent> pages</extent>
+					
+				</bibl>
+				
+				
+			</sourceDesc>
+		</fileDesc>
+		
+		<encodingDesc>
+			<editorialDecl>
+				<correction>
+					<p></p>
+				</correction>
+				<normalization>
+					<p></p>
+				</normalization>
+			</editorialDecl>
+		</encodingDesc>
+		
+		<profileDesc>
+			<textClass>
 <keywords scheme="original" n="category">
 <term>Essays and Reviews</term>
 </keywords>
 <keywords scheme="original" n="subcategory">
 <term>Review</term>
 </keywords>
-<keywords scheme="original" n="topic">
-<term>Nature and Environment</term>
-</keywords>
-<keywords scheme="original" n="subtopic">
-<term>Philosophy and Politics of Nature</term>
-</keywords>
-<keywords scheme="lcsh" n="keywords">
-<term>"the plant wizard"</term>
-<term>religious attitude</term>
-<term>Vegetable(s)</term>
-<term>infidel</term>
-</keywords>
-<keywords scheme="lcsh" n="people">
-<term>Clampett, Frederick W. (William)</term>
-<term>Burbank, Luther, 1849-1926</term>
-<term>Jordan, David Starr, 1851-1931</term>
-</keywords>
-<keywords scheme="lcsh" n="places">
-<term></term>
-</keywords>
-<keywords scheme="lcsh" n="works">
-<term>Luther Burbank: His Religion of Humanity</term>
-</keywords>
-</textClass>
-</profileDesc>
-
-<revisionDesc>
-<change when="2012"><name xml:id="hv">Vahle, Hannah</name> Initial Encoding</change>
-<change when="2013"><name xml:id="jag">Gavran, Julie A.</name> <name xml:id="mhs">Stephens, Melissa H.</name> <name xml:id="wjs">Szendrey, William J.</name> Transcription</change>
-
-</revisionDesc>
-</teiHeader>
-
-<text>
-<body>
-
-<div1 type="article">
-
-<pb />
+				<keywords scheme="original" n="topic">
+					<term></term>
+				</keywords>
+				<keywords scheme="lcsh" n="keywords">
+					<term>"the plant wizard"</term>
+					<term>religious attitude</term>
+					<term>Vegetable(s)</term>
+					<term>infidel</term>
+				</keywords>
+				<keywords scheme="lcsh" n="people">
+					<term>Clampett, Frederick W. (William)</term>
+					<term>Burbank, Luther, 1849-1926</term>
+					<term>Jordan, David Starr, 1851-1931</term>
+				</keywords>
+				<keywords scheme="lcsh" n="places">
+					<term></term>
+				</keywords>
+				<keywords scheme="lcsh" n="works">
+					<term>Luther Burbank: His Religion of Humanity</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		
+		<revisionDesc>
+			<change when="2012"><name xml:id="hv">Vahle, Hannah</name> Initial Encoding</change>
+			<change when="2013"><name xml:id="jag">Gavran, Julie A.</name> <name xml:id="mhs">Stephens, Melissa H.</name> <name xml:id="wjs">Szendrey, William J.</name> Transcription</change>
+			
+		</revisionDesc>
+	</teiHeader>
+	
+	<text>
+		<body>
+			
+			<div1 type="article">
+				
+				<pb />
 
 <head>[ ? r ] and Scientist</head>
 <head type="sub"><hi rend="italic">Luther Burbank: His Religion of Humanity.</hi>  By Frederick W. Clampett. Macmillan.</head>
@@ -125,7 +122,7 @@
 
 <p>Frederick W. Clampett, the author, is a veteran clergyman of the Pacific Coast and an old friend of Burbank.  An introductory note and an epilogue are by David Starr Jordan, himself a great scientist and one of the finest spirits of our time.  Dr Jordan was intimately acquainted with Burbank for 30 years.
 </p>
-</div1>
-</body>
-</text>
+			</div1>
+		</body>
+	</text>
 </TEI>
