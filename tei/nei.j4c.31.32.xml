@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.31.32">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to Mari Sandoz, March 9, 1961</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2016</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4c.31.32</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Mari Sandoz</title>
+                    <date when="1961-03-09">March 9, 1961</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 hand-written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>South Pass Pete</term><!-- possibly Peter R. Decker, http://viaf.org/viaf/36225033 -->
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+<term type="from">Columbia (Mo.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term>The Hitching Post</term>
+<term>The Westerners Brand Book</term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Sandoz, Mari, 1896-1966</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="lkw">Weakly, Laura K.</name> Metadata Encoding</change>
+            <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4c.31.32" />
+                <fw type="curatorial">32</fw>
+                
+                <fw type="letterhead">
+                <hi rend="caps">UNIVERSITY OF MISSOURI</hi>
+                    <lb/>
+                <hi rend="caps">COLUMBIA</hi>
+                    <lb/>
+                
+                
+                
+                <hi rend="caps">COLLEGE OF ARTS AND SCIENCE</hi>
+                    <lb/>
+                <hi rend="caps">DEPARTMENT OF ENGLISH</hi>
+                </fw>
+                <opener>
+                    <dateline>
+                209 <hi rend="underline">Jesse</hi> Hall
+                
+                
+                3-9-'61</dateline>
+                
+                
+                
+                <salute>Dear Mari Sandoz:</salute>
+                </opener>
+                <p>I've recently received the Brand Book of the <hi rend="caps">N. Y.</hi> Westerners and it reminds me that I did not thank you for that generous letter of yours regarding my <hi rend="underline">talk</hi> at the annual dinner. I thank you now, dear lady. It meant much to me.</p>
+                
+                <p>Did you note what was said of me in The Hitching Post? Who is "South Pass Pete"? He (or she?) does write well.</p>
+                
+                <p>I've been surprised to note that no mention has been made of the annual dinner and my talk. It seems a bit odd. Certainly the crowd was with me, if I know crowds; and I've known hundreds upon hundreds of them.</p>
+               
+                <p>Anyway I greatly appreciate your kindess, and I hope I may have the privilege of meeting you again before too long.</p>
+               <closer>
+               <salute>Sincerely,</salute> <signed>John Neihardt</signed>
+               </closer>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>
