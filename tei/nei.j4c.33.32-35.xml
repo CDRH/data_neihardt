@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.33.32-35">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to Donald F. Danker, September 20, 1961</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2016</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4c.33.32-35</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Donald F. Danker</title>
+                    <date when="1961-09-20">September 20, 1961</date>
+                    <extent>4 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Omaha Public Library</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>4 hand-written pages</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>4 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>North, Luther Heddon, 1846-1935</term>
+<term>Custer, George A. (George Armstrong), 1839-1876</term>
+<term>Red Cloud, 1822-1909</term>
+<term>Neihardt, Mona Martinsen</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term type="from">Columbia (Mo.)</term>
+<term>Black Hills (S.D.)</term>
+<term>Nebraska</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term>Man of the Plains</term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Danker, Donald F. (Donald Floyd)</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="lkw">Weakly, Laura K.</name> Metadata Encoding</change>
+            <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4c.33.32-35_0001" />
+                
+              
+              <fw type="letterhead">  
+                Skyrim Farm                                   <hi rend="caps">JOHN G. NEIHARDT</hi>
+                  <lb/>
+                Route 7
+                  <lb/>
+                Columbia, Mo.  
+              </fw>
+                
+                <note type="curatorial">Omaha Pub Lib Coll.</note>
+                <fw type="curatorial">32</fw>
+                
+                <opener>
+                <dateline>Sep. 20, '61</dateline>
+                
+                
+                <salute>Dear Mr. Danker:</salute>
+                </opener>
+                <p>I've been having some bully adventures with Luther North, thanks to you &#8212; and I mean many thanks!! That's not only a fascinating book, but it is often illuminating. For instance, that vivid picture of Custer during the Black Hills expedition. In one brief close-up a lot of character is revealed.</p>
+                
+                <p>I'm looking forward to seeing you again.</p>
+                    
+                    <note type="authorial">(over)</note>
+                    <pb facs="nei.j4c.33.32-35_0002"/>
+                    <fw type="curatorial">33</fw>
+                    
+                    <p>The iron pots that came from Red Cloud's camp are safe in the basement. I'm glad you people want them for the Nebraska society.</p>
+                <closer>
+                <salute>Kindest thoughts,</salute>
+                
+                <signed>John Neihardt</signed>
+                </closer>
+                
+                <pb facs="nei.j4c.33.32-35_0003"/>
+                <fw type="authorial">-5-</fw>
+                
+                <postscript>
+                <opener><hi rend="caps">P. S.</hi></opener>
+                
+                <p>I see that I signed off too soon! It's fine to know that your Study will be published! I hope they have not continued to insist upon the limitation to Nebraska's boundaries! Or were you able to break out in spite of them? The Cycle covers a lot of country.</p>
+                    
+                    <p>Mona &amp; I have been having, and still are having, a perfectly lovely time. I'm her caster and we've been turning out some pieces of hers for sale. Famous-Barr in St. Louis is handling one piece &amp; will handle others. I'm just about to make the
+                    
+                    <note type="authorial">(over)</note>
+                        <fw type="curatorial">34</fw>
+                        <pb facs="nei.j4c.33.32-35_0004"/>
+                        <fw type="authorial">P.S-2</fw>
+                    
+                    rubber mould for a lamp, which consists of the kneeling figure of a darling little girl holding a ball in her lap. The ball is a round electric bulb! Really charming!</p>
+                    
+                <p>In addition, I've plied my lapidary craft, making some rings in rock crystal set with gems. Also, I've done some work in steel &amp; wood &#8212; notably a ceremonial carving knife, the handle &amp; sheath set with laboratory rubies. Looks as thought it <hi rend="underline">grew</hi> and wasn't made at all! I'd rather do lapidary work than anything I know about.</p>
+                <closer>
+                    <salute>Well, signing off again!</salute>
+                <signed>Jno.</signed>
+                </closer>
+                </postscript>
+                    
+                    <fw type="curatorial">35</fw>
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>
