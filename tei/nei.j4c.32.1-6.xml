@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.32.1-6">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to Lucile Aly, March 1, 1961</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2016</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4c.32.1-6</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note>attached envelope has a 1968 postmark</note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Lucile Aly</title>
+                    <date when="1961-04-01">April 1, 1961</date>
+                    <extent>11 pages, plus envelope</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>11 hand-written pages, plus envelope</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>11 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Bryan, William Jennings, 1860-1925</term>
+<term>Mckinley, William, 1843-1901</term>
+<term>Atherton, Lewis Eldon</term>
+<term>Lambert</term>
+<term>Parker, Ralph Halsted, 1909-1990</term>
+<term>Mott, Frank Luther, 1886-1964</term>
+<term>Lemmon, Clarence Eugene, 1888-1963</term>
+<term>Dahlman, James Charles, 1856-1930</term>
+<term>Cabanné, Antoine, 1827-</term><!-- or Cabney -->
+<term>Cabanné, Jean Pierre, 1773-1841</term><!-- or John P. -->
+<term>Marsh, Grant Prince, 1834-1916</term>
+<term>Reno, Marcus A. (Marcus Albert), 1835-1889</term>
+<term>Custer, George A. (George Armstrong), 1839-1876</term>
+<term>Tibbles, Thomas Henry, 1840-1928</term>
+<term>Tibbles, Susette La Flesche, 1854-1903</term>
+<term>Sandoz, Mari, 1896-1966</term>
+<term>Picotte, Susan LaFlesche, 1865-1915</term>
+<term>Lemly, Henry Rowan, 1851-1925</term>
+<term>Gompers, Samuel, 1850-1924</term>
+<term>Darrow, Clarence, 1857-1938</term>
+<term>Tveitmoe, O. A. (Olaf A.)</term>
+<term>Johanson, Anton, 1858-1929</term>
+<term>McNamara, James B. (James Barnabas), 1882-1941</term>
+<term>McNamara, John J., 1876-1941</term>
+<term>Bennett, Mildred R.</term>
+<term>Cather, Willa, 1873-1947</term>
+<term>Hanson, Joseph Mills, 1876-</term>
+<term>Lockwood, James Booth, 1852-1884</term>
+<term>Brainard, David L. (David Legge), 1856-1946</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term type="from">Columbia (Mo.)</term>
+<term>Eugene (Ore.)</term>
+<term>Omaha (Neb.)</term>
+<term>Bancroft (Neb.)</term>
+<term>St. Louis (Mo.</term>
+<term>Fort Atkinson (Neb.)</term>
+<term>Nebraska</term>
+<term>Fort Lincoln (Kan.)</term>
+<term>Red Cloud (Neb.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term>The Song of the Indian Wars</term>
+<term>Omaha World-Herald</term>
+<term>The Conquest of the Missouri</term>
+<term>Buckskin and Blanket Days</term>
+<term>Farthest North: Or, the Life and Explorations of Lieutenant James Booth Lockwood, of the Greely Arctic Expedition</term>
+<term>The outpost of the lost: An Arctic adventure</term>
+<term>Battle-Cry</term>
+<term>The World of Willa Cather</term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Aly, Lucile Folse, 1913-</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="lkw">Weakly, Laura K.</name> Metadata Encoding</change>
+            <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4c.32.1-6_0001a" />
+             <note type="curatorial">124- 6</note>   
+    
+                <fw type="letterhead">
+                Skyrim Farm      <hi rend="caps">JOHN G. NEIHARDT</hi>      <note type="curatorial">Aly Collection</note>
+                <lb/>
+                Route 7
+                <lb/>
+                Columbia, Mo.
+                </fw>
+                
+                <opener>
+                <dateline>4-1-'61</dateline>
+                
+                
+                <salute>Dear Lucile:</salute>
+                </opener>
+                <p>I thought I would write you a lovely letter, so I take my pen in hand and hope you are the same.</p>
+                
+                <p>I think and think of your coming for the dinner, and it almost seems <choice><sic>improble</sic><corr>improbable</corr></choice>; yet I believe it is quite true. Hurrah for Bryan! And a beautiful new dress too! Hurrah for McKinley and Remember the Maine! It seems we'll have quite a time at the dinner. Atherton tells me you will speak. Hurrah! I know it will be mighty good. Atherton and I agreed on that. You 
+                    <hi rend="underline">do</hi> do such a bully job, dear Lady,
+                    
+                    <pb facs="nei.j4c.32.1-6_0001b"/>
+                    <fw type="authorial">-2-</fw>
+                    
+                    when you talk. I was never so well introduced to an audience as when you did it in Eugene &#8212; I <hi rend="italic">felt really</hi> introduced, and you did it so smoothly and apparently without effort.</p>
+                
+                <p>I think you are an awfully nice Lady!</p>
+                
+                <p>Tuesday afternoon (<unclear>last</unclear>) Lambert (in charge of television) and Librarian Parker, and I had a conference. (Sounds important) We planned our panel program for April 16. This is in connection with the library and 
+                    <hi rend="caps">MSS</hi> gift, and flattering things will be said about this poor old man. Dr Mott, Dr. Lemon, Dr.
+                    
+                    <fw type="curatorial">1</fw>
+                    <pb facs="nei.j4c.32.1-6_0002a"/>
+                    <fw type="authorial">-3-</fw>
+                    
+                    Parker, Dr. Lambert, and old Doc Neihardt will be the principals. It's to be on April 16 at 5:30 <hi rend="caps">P. M.</hi></p>
+                
+                <p>Here are some points that occur to me &#8212; biographical data:
+                    Do you know about "Jim" Dahlman, the Cowboy Mayor of Omaha, and how he presided at an overflow meeting (really a sort of men's meeting) at the Omaha Library when I read 
+                    <hi rend="underline">The Indian Wars</hi>? It <hi rend="underline">was</hi> quite an event, and must have been reported in the World-Herald.</p>
+                
+                <p>Have I told you about old Antoine Cabanne,
+                    
+                    <pb facs="nei.j4c.32.1-6_0002b"/>
+                    <fw type="authorial">-4-</fw>
+                    
+                    my <del>haf</del> half-breed friend in Bancroft? He was the son of the aristocratic Jean P. Cabanne of St. Louis and an Omaha woman. He and I were great friends back near the beginning of the century. He boasted that he was "the first white child born in Nebraska". He <hi rend="underline">was</hi>, having been born at old Fort Atkinson, but he was hardly "white", except in character. What a gallant man the utterly unlettered old man was! When he met my women on the street, he swept the sidewalk with his hat and bowed double. It was the old French aristocrat
+                    
+                    <fw type="curatorial">2</fw>
+                    <pb facs="nei.j4c.32.1-6_0003a"/>
+                        
+                        <fw type="letterhead">
+                            Skyrim Farm      <hi rend="caps">JOHN G. NEIHARDT</hi>  
+                            <lb/>
+                            Route 7
+                            <lb/>
+                            Columbia, Mo.
+                        </fw>
+                    
+                    <fw type="authorial">5.</fw> in him. He learned <del/> it from his daddy, who once actually took <del>him</del> him to St. Louis for a visit with the 
+                    <hi rend="underline">white</hi> family there. (Old Jean P. had two families, a white one and an up river brown one). Antoine had been a steamboat engineer in the great years of Upper Mo. River steamboating. I learned much from him.</p>
+                
+                <p>And how much did I tell you of Capt. Grant P. Marsh, who brought the wounded of Reno's command down to Fort Lincoln after the Custer Fight?
+                    
+                    <pb facs="nei.j4c.32.1-6_0003b"/>
+                    <fw type="authorial">-6-</fw>
+                    
+                    I got a book published about him &#8212; <hi rend="underline">Hanson's Conquest of the Missouri</hi>, a Western classic. He &amp; I hit it off beautifully. I was his deck-hand on the steamer <del><unclear>Expansion</unclear></del> Expansion when he was hauling material up to Crane Creek irrigation dam<del>.</del> <add>on the Yellowstone.</add> He told me a great deal, and he knew everybody who was anybody <del/> in that <del/> country in the great days.</p>
+                
+                <p>And how much have I told you about my friendship with T. H. Tibbles? I sat up alone with him the night his famous
+                    
+                    <fw type="curatorial">3</fw>
+                    <pb facs="nei.j4c.32.1-6_0004a"/>
+                    <fw type="authorial">-7-</fw>
+                    
+                    Omaha Indian wife, Bright Eyes, lay dead. That was a weird and wonderful <del/> night. This is quite a story. Mari Sandoz has urged me to write it up, but I'll tell it to you, &amp; you can use it to advantage. Have you seen "Buckskin <hi rend="underline">and Blanket Days</hi>" by Tibbles? He told me just about all that's in the book the night we sat up with Bright Eyes. (I can still see her beautiful Indian face when we took the wet cloths off
+                    
+                    <pb facs="nei.j4c.32.1-6_0004b"/>
+                    <fw type="authorial">-8-</fw>
+                    
+                    to "have another look at her". Bright Eyes was <del><unclear>the</unclear></del> a sister of Susan La Flesche Picotte, the M. D., and a real friend of mine, as you know</p>
+                
+                <p>Do you know about Major Lemly <del>and</del> and The Order of Indian Wars of the U. S.? And did I ever tell you about Brainerd of "Lockwood and Brainerd's farthest north?" You should see his <hi rend="underline">Outpost of the Lost</hi>. I had a fine <del><unclear>in</unclear></del> contact with him at the Army &amp; Navy <del>Club</del> Club
+                    
+                    <fw type="curatorial">4</fw>
+                    <pb facs="nei.j4c.32.1-6_0005a"/>
+                    
+                    <fw type="letterhead">
+                        Skyrim Farm      <hi rend="caps">JOHN G. NEIHARDT</hi>  
+                        <lb/>
+                        Route 7
+                        <lb/>
+                        Columbia, Mo.
+                    </fw>
+                    <fw type="authorial">-9-</fw>
+                    
+                    in Washington. He was a member of the Order of Indian Wars.</p>
+                
+                <p>And do you know about Gompers? Darrow, Tveitmoe, and Johansen? They <del/> used my Battle Cry in the famous McNamara case.</p>
+                
+                <p>I just happened to think of these people, and wondered if I'd told you about them. I must make notes as I think of people and incidents.</p>
+               
+                <p>I've been reading Mrs. Bennett's <hi rend="underline"><add>The</add> World of Willa Cather</hi>. It's a good job, but yours will be far far 
+                    
+                    <pb facs="nei.j4c.32.1-6_0005b"/>
+                    <fw type="authorial">-10-</fw>
+                    
+                    <hi rend="underline">more</hi> <hi rend="italic">meaningful</hi>. I know Mrs. Bennett quite well. She lives in Red Cloud and has spent years in studying Willa's life, her relatives, her experiences there in the early days. <del>She</del> <add>Mrs. Bennett</add> and her teacher sister from California made a sort of pilgrimage here two years ago. If you should read her book about Willa Cather, you'd like it, but you'd be <hi rend="underline">greatly encouraged too</hi>.</p>
+            
+                <p>No more now. But didn't I tell you I would write you a lovely letter? Well, this is it, isn't it?</p>
+                <closer>
+                <salute>Same old thoughts &amp; feelings for you and yours.</salute>
+                
+                <signed>John N.</signed></closer> <note type="authorial">(Inside)</note>
+                
+                <fw type="curatorial">5</fw>
+                <pb facs="nei.j4c.32.1-6_0005b"/>
+                
+                <postscript>
+                <p>Mrs. Bennett's Willa Cather book is not an organic creation. It's chief merit is in the material collected and its value in showing that Willa's youthful experiences in Red Cloud, Nebraska (1883-1896) furnished the substance and inspiration for her writing.</p>
+                    
+                    <p>I was immensely pleased in comparing your work and Mrs. <hi rend="caps">B</hi>'s, altho' I <hi rend="underline">do</hi> respect the latter for what it really is &#8212; and occasionally I admire too.</p>
+                </postscript>
+                
+                
+            </div1>
+            
+            <!--
+            
+            <div1 type="envelope">
+                <pb facs="nei.j4c.32.1-6_0006b"/>
+                
+                <note type="authorial">_____
+                                        Air<hi rend="underline">Mail</hi></note>
+                <ab type="postmark">COLUM<unclear cert="high">BIA</unclear>, MO 6520<unclear/> APR 16 <unclear/> PM <unclear>1968</unclear></ab>
+                <figure>
+                    <figDesc>Stamp</figDesc>
+                    <p>FRANKLIN D. ROOSEVELT 
+                        U.S. POSTAGE</p>
+                </figure>
+                
+                <ab type="address">
+                    <address>
+                <addrLine>Dr. Lucile Aly,</addrLine>
+                <addrLine>1138 22nd Ave., East,</addrLine>
+                <addrLine>Eugene,</addrLine>
+                <addrLine>Oregon.</addrLine>
+                    </address>
+                </ab>
+                
+                <fw type="curatorial">6</fw>
+            </div1> -->
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>
