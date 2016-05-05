@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.35.14-20_0001-7">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, February 6, 1962</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2016</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4c.35.14-20_0001-7</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
+                    <date when="1962-02-06">February 6, 1962</date>
+                    <extent>10 pages, plus envelope</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>10 hand-written pages, plus envelope</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>10 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Wied, Maximilian, Prinz von, 1782-1867</term>
+<term>Hamilton, James A.</term>
+<term>Reedy</term><!-- possibly Reedy, William Marion, 1862-1920 -->
+<term>Knife</term>
+<term>Red Leaf</term>
+<term>Iron Hawk</term>
+<term>Fire Thunder</term>
+<term>Beard, Dewey ca. 1862-1955</term>
+<term>Yellow Horse</term>
+<term>Standing Bear, Luther, 1868?-1939</term>
+<term>Godfrey, Edward Settle, 1843-1932</term>
+<term>Brainard, David L. (David Legge), 1856-1946</term>
+<term>Lockwood, James Booth, 1852-1884</term>
+<term>Black Elk, Benjamin, ?-1973</term>
+<term>Skilling, Edna</term>
+<term>Christ</term><!-- Professor -->
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term type="from">Columbia (Mo.)</term>
+                    <term type="to">Eugene (Ore.)</term>
+                    <term>St. Louis (Mo.)</term>
+<term>Fort Union (N.D.)</term>
+<term>Scotland</term>
+<term>Bancroft (Neb.)</term>
+<term>Omaha (Neb.)</term>
+<term>New York</term>
+<term>Washington</term>
+<term>South Dakota</term>
+<term>Portland (Ore.)</term>
+<term>Vermillion (S.D.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term>Travels in the Interiors of North America 1832-1834</term>
+<term>William Henry Ashley, Fur Trader and Famous Leader of "Ashley's Hundred" Trappers and Mountain Men</term>
+<term>The Song of the Indian Wars</term>
+<term>The Death of Crazy Horse</term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Aly, Lucile Folse, 1913-</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="lkw">Weakly, Laura K.</name> Metadata Encoding</change>
+            <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4c.35.14-20_0001a" />
+                <note type="curatorial">154-6</note>
+                
+                
+                <opener>
+                <dateline>Skyrim, Feb. 6, '62</dateline>
+                
+                
+                
+                <salute>Dear Lucile,</salute>
+                </opener>
+                <p>I want to write to you, but I don't see very well, as I broke my glasses in St. <hi rend="caps">L.</hi> last Saturday and am wearing a discarded set. Should have new lenses late this week. When I was putting stuff into my bag for the St. <hi rend="caps">L.</hi> trip, I was suddenly moved to hunt up my old glasses &amp; put them in the bag. I wondered why I should do this but thought perhaps there was some reason for wanting to do it.
+                    
+                    <pb facs="nei.j4c.35.14-20_0001b"/>
+                    <fw type="authorial">-2-</fw>
+                    
+                    Next day, while doing some research in Jefferson Memorial, I broke my glasses. Queer! I never before took discarded glasses with me on a trip.</p>
+                
+                <p>Maximillian in his <hi rend="underline">Travels</hi> (the 1830's) says that James Hamilton of Fort Union had written a complete Life of Hugh Glass &amp; that he <del/> read the <hi rend="caps">MSS</hi>. Where is it? No one seems ever to have mentioned it again. I was reading Hamilton's letters in the <del/> Jefferson
+                    
+                    <fw type="curatorial">14</fw>
+                    <pb facs="nei.j4c.35.14-20_0002a"/>
+                    <fw type="authorial">-3</fw>
+                    
+                    Memorial collection. No results! Did the man die in St. <hi rend="caps">L.</hi>? If so, where is the <hi rend="caps">MS</hi>? Did he go back to Scotland? Who knows? And <hi rend="italic">why</hi> has <hi rend="italic">no one</hi> ever mentioned the Glass biography? (You may know I <hi rend="underline">own</hi> the first English (1843) edition of Maximilian. It's very rare.)</p>
+              
+                <p>Saturday night, <hi rend="underline">precious lady</hi>, I thought and thought of you &amp; your lecture. I do wish I could have heard. Please <hi rend="underline">do</hi> tell me about the audience response. And I know you were
+                    
+                    <pb facs="nei.j4c.35.14-20_0002b"/>
+                    <fw type="authorial">-4-</fw>
+                    
+                    beautiful in your purple dress (and the purple heart). But you would be, and are, beautiful, in a kitchen apron. If I were not a poor old man I could not say such things, could I? (That's a rhetorical question. No reply expected!)</p> 
+              
+                <p>I began reading "Ashleys Hundred" to my new Epic America class yesterday. Had to "approximate" the printed words but I know the stuff and did rather well, I thought. What a fine group of young people!!</p>
+                    
+                    <fw type="curatorial">15</fw>
+                    <pb facs="nei.j4c.35.14-20_0003a"/>
+                    <fw type="authorial"><del>-<unclear/>-</del>-5-</fw>
+                    
+                    <p>I did <hi rend="underline">not</hi> know Reedy personally. Never even corresponded with him. But, as you know, he believed in my stuff enthusiastically. In those days I never got farther from Bancroft than Omaha &#8212; except when I went to <del/> New York in 1907.</p>
+                
+                <p>I'll write about Indians more later. But <hi rend="underline">most</hi> of the Indian contacts I had before and while I was writing <hi rend="underline">Indian Wars</hi> <del><unclear>was</unclear></del> were 
+                        <hi rend="italic">in <del><unclear>groups many</unclear></del> groups</hi>. I recall at
+                        
+                        <pb facs="nei.j4c.35..14-20_0003b"/>
+                        <fw type="authorial"><del/>-6-</fw>
+                        
+                        the moment Knife, Red Leaf, Iron Hawk, Fire Thunder, Dewey Beard, Yellow Horse, Standing Bear etc.</p>
+                
+                    <p>My doggie is unbelievably beautiful, loving, and dear. Jacques is the registered name, and she is a little boy dog! My goodness gracious!! When I came home Sunday <add>(from St. <hi rend="caps">L.</hi>)</add>, he was <hi rend="triple underline">so</hi> <hi rend="underline">excited</hi> &#8212; <del/> arfing sharply &amp; wiggling in all directions at once &#8212; that he peed his pants!!
+                        
+                        <fw type="curatorial">16</fw>
+                        <pb facs="nei.j4c.35.14-20_0004a"/>
+                        <fw type="authorial"><del/>-7-</fw>
+                        
+                        Right now he is untying my shoe strings, and I must stop &amp; give him a good spanking. (I <hi rend="underline">did</hi>!) He is curly and golden, but will be pure white when big. Big! He is a <hi rend="underline">toy</hi> poodle and only relatively can he ever grow big. I love my precious little woman doggie, Yo-Yo, bless her faithful little heart! But I'm grateful
+                        
+                        <pb facs="nei.j4c.35.14-20_0004b"/>
+                        <fw type="authorial"><del/>-8-</fw>
+                        
+                        for this little fellow's love.</p>
+                
+                    <p>Kiss Perky for me, please. And tell her about Jacques. <hi rend="underline">How</hi> she'd love him!</p>
+                
+                <p>Yes, I met Godfrey at the Army &amp; Navy Club in Washington &amp; had a fine talk. Met a number of others &#8212; <hi rend="underline">companions</hi> of the Order of Indian Wars. Did I tell you about Brainerd (of Lockwood and Brainerds <del/> farthest north)? He was an Indian fighter &amp; we had a good time together, more later.</p>
+                    
+                <p>You are always very dear.</p> <closer><signed>John N.</signed></closer>
+                    
+                    <fw type="curatorial">17</fw>
+                    <pb facs="nei.j4c.35.14-20_0005"/>
+                    
+                    <postscript>
+                    <opener><hi rend="caps">P. S.</hi></opener>
+                    
+                    <p>I'll leave for the Uni of So Dak on next Tuesday, the 13th. Will fly, returning on Sunday the 18th. Ben Black Elk will be on the campus with me, and we will do The Death of Crazy Horse, he giving the Sioux Death Chant!!! <note type="authorial"><hi rend="underline">This as background to my reading</hi>.</note> My god, that should be a <hi rend="underline">knockout</hi>! It will be recorded.</p>
+                    
+                    <note type="authorial">(over)</note>
+                    
+                        <fw type="curatorial">18</fw>
+                        <pb facs="nei.j4c.35.14-20_0006"/>
+                    <fw type="authorial">-9-</fw>
+                    
+                    <p>So you went to Portland, past the Sleeping Buffaloes, and you did not take me! But I do hope you <del><unclear>could</unclear></del><add>could</add> take Edna Skillings. That is <del>like you</del> like you, bless your heart!</p>
+                    <closer>
+                    <salute>Forever and ever, amen!</salute>
+                    
+                    <signed>John</signed>
+                    </closer>
+                    
+                        <postscript><p>Say something nice to me while I'm in Vermillion, So. Dak, English Dept., <hi rend="caps">U.</hi> of So Dak. c/o Prof Christ.</p> <closer><signed>Jno.</signed></closer></postscript>
+                    </postscript>
+                    
+                    <fw type="curatorial">19</fw>
+            </div1>
+            
+            
+            
+            <div1 type="envelope">
+                <pb facs="nei.j4c.35.14-20_0007"/>
+                    
+                <ab type="return">    
+                    John Neihardt     
+                    Route 7
+                    <hi rend="underline">Columbia</hi>, Mo.
+                </ab>
+                
+                <ab type="postmark">COLUMBIA, <unclear cert="high">MO.</unclear> FEB <unclear>8</unclear> 23<unclear cert="high">0</unclear>PM <unclear cert="high">1</unclear>962</ab>
+                    <figure>
+                        <figDesc>7 Cent Stamp</figDesc>
+                        <p>US AIR MAIL 7¢</p>
+                    </figure>
+                
+                <ab type="address">
+                    <address>
+                    <addrLine>Dr. Lucile Aly</addrLine>
+                    <addrLine>1138 22nd Ave., East,</addrLine>
+                    <addrLine>Eugene,</addrLine>
+                    <addrLine>Oregon.</addrLine>
+                    </address>
+                </ab>
+                
+                <fw type="curatorial">20</fw>
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>
