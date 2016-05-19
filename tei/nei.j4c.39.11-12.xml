@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.39.11-12">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to Lucile Aly, February 5, 1963</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2016</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4c.39.11-12</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Lucile Aly</title>
+                    <date when="1963-02-05">February 5, 1963</date>
+                    <extent>4 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>4 hand-written pages</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>4 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+<term>Dickinson, Leon T. (Leon Townsend), 1912-</term>
+<term>Bennett</term>
+<term>Ghose</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>California</term>
+<term>Texas</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+<date when="1963-02-05"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Aly, Lucile Folse, 1913-</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+            <particDesc><person role="recipient"><persName>Aly, Lucile Folse, 1913-</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="lkw">Weakly, Laura K.</name> Metadata Encoding</change>
+            <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4c.39.11-12_0001a" />
+              
+              <note type="curatorial">185-3</note>  
+              
+                <opener>
+               <dateline>Skyrim, Feb. 5, '63</dateline>
+                
+                
+                
+                <salute><hi rend="underline">Dear Lucile</hi>:</salute>
+                </opener>
+                <p>I don't want to think you are sick, so I'm telling myself you are head-over-heels in work. And I'll bet you are. <add>Anyway, your last letter still makes the best of reading.</add></p> 
+                
+                <p>I enclose a note I received from our Chairman, Dickinson. If it's a matter of recommendations from my colleagues and our President, I should receive a very, very large Fulbright grant!~</p>
+                
+                <pb facs="nei.j4c.39.11-12_0001b"/>
+                <fw type="authorial">-2-</fw>                   <note type="curatorial">Aly Collection</note>
+                
+                <p>I've just heard from Mrs. Bennett that she has been reading your dissertation in microfilm, and she says it's "perfectly fascinating". She says the microfilm hurts her eyes and she can read only "30 pages an hour", <add>but she was almost through.</add> She comments on the "tremendous amount of work" you've done on the dissertation and how much you must have done since. What pleases me is that people who read your 
+                    
+                    <fw type="curatorial">11</fw>
+                    <pb facs="nei.j4c.39.11-12_0002a"/>
+                    <fw type="authorial">-3-</fw>
+                    
+                    dissertation are greatly impressed. Dr. Ghose read it last week. He wanted material for articles in Indian periodicals. <del>She</del> He will be lecturing in California this spring. I wish he could see you.</p>
+              
+                <p>I ve just bought two sweet little high-bred Hackney mares. Both are chestnuts in color, and one has <del/> light mane and tail. She is a sweetheart - only 46 inches tall. 
+                    
+                    <pb facs="nei.j4c.39.11-12_0002b"/>
+                    <fw type="authorial">-4</fw>
+                    
+                    I tried to kiss her when she arrived today - her nose is <hi rend="underline">so</hi> soft and kissable. But she put me in my place. Evidently her mama told her never <hi rend="underline">never</hi> to kiss strange men! The other mare is an inch <del>or two</del> taller - also a chestnut, not quite so pretty, but a sweet girlie anyway. I'll raise some colts with my stallion, Lockburn Lucifer. (The little chestnut daddy sold for $8,000 in Texas!)</p>
+                
+                <closer>
+                <salute><hi rend="underline">Same old</hi> <hi rend="double underline">affection</hi>, <hi rend="double underline">dear</hi> <hi rend="underline">lady</hi>!</salute>
+                
+                <signed>John</signed>
+                </closer>
+                
+                <fw type="curatorial">12</fw>
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

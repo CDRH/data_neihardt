@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.37.7-9">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to Lucile, Bower, and Stewart Aly, August 5, 1962</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2016</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4c.37.7-9</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Lucile, Bower, and Stewart Aly</title>
+                    <date when="1962-08-05">August 5, 1962</date>
+                    <extent>4 pages, plus envelope</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>4 hand-written pages, plus envelope</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>4 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+<term type="to">Eugene (Ore.)</term>
+<term type="from">Columbia (Mo.)</term>
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName>Columbia (Mo.)</placeName>
+<date when="1962-08-05"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Aly, Bower, 1903-1977</persName>
+<persName>Aly, Lucile Folse, 1913-</persName>
+<persName>Aly, Stewart</persName>
+<placeName>Eugene (Ore.)</placeName>
+</correspAction>
+</correspDesc>
+
+            <particDesc><person role="recipient"><persName>Aly, Lucile, Bower, and Stewart</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="lkw">Weakly, Laura K.</name> Metadata Encoding</change>
+            <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4c.37.7-9_0001a" />
+                
+                <note type="curatorial">Aly Collection</note>
+                <note>169-12</note>
+                
+                <opener>
+                    <dateline>Skyrim, Aug. <del>7</del><add>5</add>, 6'2</dateline>
+                
+                    <salute>Dear Lucile, Bower, and Stewart:</salute>
+                </opener>
+                <p><hi rend="underline">I want a biscuit</hi> (1)! What I really mean is that I'm a bit homesick for the House of Happiness.</p>
+                
+                <p>I had a fine, fast trip home &#8212; cloudless weather, and perfect peace at 37000 feet toward Heaven. I ate one lunch and ruined the other so that no one else could have it.</p>
+                
+                <p>So much affection waiting here for poor old Gaki &#8212; more than anyone deserves!</p>
+                    
+                    <note type="authorial"><milestone unit="section"/><ab>_______________________________________________________________________________________________________</ab>
+                    
+                    (1) Even more than I want an elephant! &#8212; Author</note>
+                    
+                    <pb facs="nei.j4c.37.7-9_0001b"/>
+                    
+                    <fw type="authorial">-2-</fw>
+                    
+                    <p>I called Hiddy from <hi rend="caps">K. C.</hi> and there was a car-load<sic>carload</sic> of welcomers. Old Jacques made like the animated pretzel you mentioned, Lucile; and it was a half hour before he became <del><unclear>come</unclear></del> calm.</p>
+               
+                <p>This evening at 7:30 I must read lyrics for the Missouri Home Economics Extension Club Council <del/> in the auditorium of the Medical Center. I did this stunt for the same organization last year, and this is a requested
+                    
+                    <fw type="curatorial">7</fw>
+                    <pb facs="nei.j4c.37.7-9_0002a"/>
+                    <fw type="curatorial">-3-</fw> 
+                    
+                    "return engagement". They want the same thing again.</p>
+                
+                <p>My new suit has been resting at Sears all this time. Alice thought Enid was mailing it to me, and Enid thought Alice was doing the job! (I must send you a lovely picture of me all dressed up!)</p>
+                
+                <p>I'm at Skryim, as you see; but Alice stayed here with Erica overnight to look after horses, most of which are
+                    
+                    <pb facs="nei.j4c.37.7-9_0002b"/>
+                    <fw type="authorial">-4-</fw>
+                    
+                    at the Christian stables. Since you saw Hiddy's letter about winnings, Alice <del/><add>won</add> the championship <add>in the</add> Junior Five-Gaited Stake <hi rend="underline">at Mexico</hi>! It's a big win against the big stables. The horse she rode was <hi rend="underline">Prince Charming, barely</hi> four years old &#8212; trained by Alice.</p>
+                
+                <p>Pet dear Perkie<sic>Perky</sic> for her Gaki.</p>
+                
+                <p><hi rend="underline">And do know that you are all very dear to me</hi>.</p>
+                
+                <p>&#8212; And <hi rend="underline">thanks, thanks</hi>!!</p>
+                <closer>                   
+                    <signed>John N.</signed>
+                </closer>
+                
+                <fw type="curatorial">8</fw>
+                
+            </div1>
+            
+            
+            <div1 type="envelope">
+                
+                <pb facs="nei.j4c.37.7-9_0003a"/>
+                <fw type="curatorial">9</fw>
+                
+                <ab type="return">
+                John Neihardt
+                Route 7 
+                <hi rend="underline">Columbia</hi>, Mo.</ab>
+                
+                <ab type="postmark">COLUMBIA, MO AUG 5 330 PM 1962</ab>
+                        <note type="authorial">____
+                                                Air<hi rend="underline">Mail</hi></note>
+                <figure>
+                    <figDesc>7 Cent Stamp</figDesc>
+                    <p>US AIR MAIL 7¢</p>
+                </figure>
+                
+                <ab type="address">
+                    <address>
+                        <addrLine>Dr. Lucile Aly,</addrLine>
+                        <addrLine><del>Ro</del>1138 22nd Ave., East,</addrLine>
+                        <addrLine>Eugene,</addrLine>
+                        <addrLine>Oregon.</addrLine>
+                    </address>
+                </ab>
+                
+                <note type="authorial">(over)</note>
+                
+                <pb facs="nei.j4c.37.7-9_0003b"/>
+                
+                <note type="authorial">Knox College asks permission to copy my Seymour letters for you. - Jno.</note>
+                
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

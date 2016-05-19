@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.37.24-30">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to Lucile Aly, September 5, 1962</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2016</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4c.37.24-30</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Lucile Aly</title>
+                    <date when="1962-05-09">September 5, 1962</date>
+                    <extent>12 pages, plus envelope</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>12 hand-written pages, plus envelope</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>12 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Babbitt, Irving, 1865-1933</term>
+<term>Myers, F. W. H. (Frederic William Henry), 1843-1901</term>
+<term>Garland, Hamlin, 1860-1940</term>
+<term>Sinclair, Upton, 1878-1968</term>
+<term>House, Julius T. (Julius Temple)</term>
+<term>Vining, Roscoe H.</term>
+<term>Monroe, Harriet, 1860-1936</term>
+<term>Cather, Willa, 1873-1947</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+<term type="to">Eugene (Ore.)</term>
+<term type="from">Columbia (Mo.)</term>
+                    <term>Lincoln (Neb.)</term>
+<term>Montgomery (W. Va.)</term>
+<term>Red Cloud (Neb.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term>The Heritage of the Plains</term>
+<term>Black Elk Speaks</term>
+<term>Son of the Middle Border</term>
+<term>The Song of Hugh Glass</term>
+<term>Present-day American Literature</term>
+<term>Minneapolis Journal</term>
+                </keywords>
+            </textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName>Columbia (Mo.)</placeName>
+<date when="1962-05-09"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Aly, Lucile Folse, 1913-</persName>
+<placeName>Eugene (Ore.)</placeName>
+</correspAction>
+</correspDesc>
+            <particDesc><person role="recipient"><persName>Aly, Lucile Folse, 1913-</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="lkw">Weakly, Laura K.</name> Metadata Encoding</change>
+            <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4c.37.24-30_0001a" />
+                
+                <note type="curatorial">174-6               Aly Collection</note>
+                
+                <opener>
+                <dateline>Skyrim, Sep. 5, 62</dateline>
+                
+                <salute>Precious Lady:</salute>
+                </opener>
+                <p>That <hi rend="underline">was</hi> rather a lovely letter, coming from a mere biographer!</p>
+                
+                <p>I'm back, as you can infer from the above, if you are as clever as I think you are. I refer to the fact that I was in Lincoln 10 days, <hi rend="underline">doing very important things remarkably well</hi>!! For instance, we completed the <hi rend="caps">TV</hi> series of three programs on <hi rend="underline">The Heritage of the Plains</hi> for the National Educational Television Center of <hi rend="caps">N. Y.</hi>. It <hi rend="underline">was quite</hi> a chore. I think
+                    
+                    <pb facs="nei.j4c.37.24-30_0001b"/>
+                    <fw type="authorial">-2-</fw>
+                    
+                    people will like the series. It's quite original. I was <hi rend="double underline">host</hi>. They doubled my pay and said it wasn't enough but all they had &#8212; I get $300 and all expenses. It's a non-profit affair, you know, and the series cost $15,000 to produce. On the 29th I'm to talk on Black Elk for the annual dinner of the State Historical Society in Lincoln. ($250 and all expenses) Thus I shall be able to buy some groceries for my little dog, <del/>
+                    
+                    <fw type="curatorial">24</fw>
+                    <pb facs="nei.j4c.37.24-30_0002a"/>
+                    <fw type="authorial">-3-</fw>
+                    
+                    Jacquot, and my big dog, Lassie. They are <hi rend="underline">such</hi> sweethearts, and I wish I were really as <hi rend="underline">good as</hi> they are. They both nearly ate the Gak <hi rend="underline">alive</hi> when he returned! Jacquot is all trimmed like a sissie. He feels sheepish, and so do I.<del>do I</del> He is so lovely when <hi rend="underline">in full hair</hi>!</p> 
+               
+                <p>I don't think a beer-drinking lady should object to a gentleman dog's occasional cussing, and I don't 
+                    
+                    <pb facs="nei.j4c.37.24-30_0002b"/>
+                    <fw type="authorial">-4-</fw>
+                    
+                    believe dear, sweet Perky would be so unkind.</p>
+                
+                <p>No, Babbitt did <hi rend="underline">not</hi> influence my conception of <hi rend="underline">genius</hi>. Myers <hi rend="underline">did</hi>, by formulating my guesses into a clear pattern. Yes, I suppose the "one <del/><add>and</add> the many" idea was at least emphasized and made usable for me by Babbitt. I doubt that <hi rend="underline">he</hi> originated it. In any case, I agree with you that he needs to be read now. I owe him much, I am proud to say.</p>
+                
+                <fw type="curatorial">25</fw>
+                <pb facs="nei.j4c.37.24-30_0003a"/>
+                <fw type="authorial">-5-</fw>
+                
+                <p>This is the same lovely letter continued <del><unclear>on</unclear></del> from another page because the other page was not big enough to hold all of it and so the rest of it had to be on a page different from the one it was on at first, if you get the idea, as I think you can if you only concentrate hard enough, but don't injure yourself by over-concentration on how this can be the same lovely letter <del/> as the one on the other page was. (Breathing spell here)</p>
+                
+                <pb facs="nei.j4c.37.24-30_0003b"/>
+                <fw type="authorial">-6-</fw>
+                
+                <p>So you're digging up more letters. I wonder who <del>was</del> was the lucky recipient of those letters you mention. And I'm glad Hamlin Garland cared enough about my opinion to paste a letter of mine in one of his books. I suspect it may be about his <hi rend="underline">Son</hi> of <hi rend="underline">the Middle Border</hi>. The Upton Sinclair letters should be more or less interesting, as I recall. Anyway, he <del>called me</del> wrote me "with love".</p>
+                    
+                    <fw type="curatorial">26</fw>
+                    <pb facs="nei.j4c.37.24-30_0004a"/>
+                    <fw type="authorial">-7-</fw>
+                    
+                    <p>You <hi rend="double underline">must</hi> know that Introduction to <hi rend="underline">Hugh Glass</hi>. The last line of it rhymed with the first line of <hi rend="underline">Hugh <del/> Glass</hi>. Surely you can <del><unclear>find</unclear></del> find it in the files of House's magazine in Montgomery, West <del>V<unclear/></del> Virginia. Write about it to 
+                        <address><addrLine>Dr. R. H. Vining,</addrLine>
+                            <addrLine>West Va. Institute of Technology,</addrLine>
+                            <addrLine>Montgomery.</addrLine></address> 
+                        Vining was <del/> House's close friend in those days, and he
+                    
+                        <pb facs="nei.j4c.37.24-30_0004b"/>
+                    <fw type="authorial">-8-</fw>
+                    
+                    is <hi rend="underline">mine</hi> too. It's a corking good thing, &amp; will <del><unclear>add</unclear></del><add>add</add> a lot to your arsenal. It works out, by suggestion, my view of what was happening to our values.</p>
+                
+                <p>Lady, <hi rend="underline">have</hi> you found <hi rend="underline">any</hi> utterance of mine, printed or spoken, that could possibly justify Harriet Monroe's savage assault on my poetry? There <hi rend="double underline">is</hi> nothing whatever.
+                    
+                    <fw type="curatorial">27</fw>
+                    <pb facs="nei.j4c.37.24-30_0005a"/>
+                    <fw type="authorial">-9-</fw>
+                    
+                    You must <del/> know my Minneapolis Journal articles.</p>
+                
+                <p><hi rend="underline">While</hi> in Lincoln, I was entertained considerably <del>G<unclear/></del> Gave two programs, one to the large and influential Altrusa Club <del/> of women administrators, and one to a houseful of teachers. The latter held me until one o'clock a. m. Both were <hi rend="double underline">wows</hi>, really. Whatever I have in the way of "power" semms to have grown &amp; be 
+                    
+                    <pb facs="nei.j4c.37.24-30_0005b"/>
+                    <fw type="authorial">-<del>8</del>-<del/><unclear>-9</unclear>-10-</fw>
+                    
+                    still growing.</p>
+                
+                <p>I'm working like a slave on my <hi rend="caps">TV</hi> series next semester It's a big job.</p>
+                
+                <p><del>I <unclear>tol</unclear></del></p>
+                    
+                <p>You told me that I would "burble" in Lincoln when the time came. By golly, I really did!</p>
+                
+                <p>Last Sunday <unclear>a</unclear> group of us drove over to Red Cloud (140 miles) to look over Willa Cather country.</p> 
+                
+                <note type="authorial">(More lovely reading matter inside)</note>
+                <fw type="curatorial">28</fw>
+                    
+                    <pb facs="nei.j4c.37.24-30_0006a"/>
+                    <fw type="authorial">-10-</fw>
+                    
+                    <p>There really <del/> isn't much more this time, except to say that I still don't like you, as always, do I? And I answer I <hi rend="underline">do too&#8212; the very idea</hi>!! And I wish I could look at you, dear Lady.</p>
+                <closer>
+                <salute>Affection for each of you there</salute>
+                
+                <signed>John N.</signed>
+                </closer>
+                
+                <pb facs="nei.j4c.37.24-30_0006b"/>
+                <postscript><opener><hi rend="caps">P. S.</hi></opener>
+                
+                <p>The really important contribution in my reviews &amp; critical essays is this. In book after book after book, <hi rend="underline">in all fields of <del/> thought</hi>, I traced the <del>centirifuga</del> centrifugal, anarchic tendency at work over a period of nearly a quarter of a century. This is <del/><add>unique.</add> No other critical writer did anything of the sort. It was this that made <unclear>Old<unclear/></unclear> say: <del>"</del> "Neihardt, you've been sitting on a hilltop".</p> 
+                <closer>
+                <salute>Love,</salute> <signed>John</signed>
+                </closer></postscript>
+                    
+                    <fw type="curatorial">29</fw>
+            </div1>
+                
+                
+        <div1 type="envelope">
+            
+            <pb facs="nei.j4c.37.24-30_0007"/>
+            
+            <fw type="curatorial">30</fw>
+            
+            <ab type="return">
+                John Neihardt
+                Route 7 
+                <hi rend="underline">Columbia</hi>, Mo.
+            </ab>
+            
+            <ab type="postmark">COLUMBIA, MO. SEP <unclear/> 1030AM 1962</ab>
+            <note type="authorial">_____
+               <hi rend="underline">Air</hi></note>
+            <figure>
+                <figDesc>7 Cent Stamp</figDesc>
+                <p>US AIR MAIL 7¢</p>
+            </figure>
+            
+            <ab type="address">
+                <address>
+                <addrLine>Dr. Lucile Aly,</addrLine>
+                <addrLine>1138 22nd Ave, East,</addrLine>
+                <addrLine>Eugene,</addrLine>
+                <addrLine>Oregon</addrLine>
+                </address>
+            </ab>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

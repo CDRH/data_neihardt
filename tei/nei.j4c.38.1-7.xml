@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>-->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.38.1-7">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to Lucile Aly, October 4, 1962</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2016</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4c.38.1-7</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Lucile Aly</title>
+                    <date when="1962-10-04">October 4, 1962</date>
+                    <extent>12 pages, plus envelope</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>12 hand-written pages, plus envelope</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>12 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Latenser</term><!-- may be John, Sr. -->
+<term>Vinsonhaler, Duncan M.</term>
+<term>Columbus, Christopher</term>
+<term>Winkelman, Phyllis H.</term>
+<term>Nicoll, Bruce</term>
+<term>Knipmeyer, Gilbert,1892-1981</term>
+<term>Peterson, Val</term>
+<term>Eisenhower, Dwight D., (Dwight David), 1890-1969</term>
+<term>Jordan, David Starr, 1851-1931</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term type="from">Columbia (Mo.)</term>
+                    <term type="to">Eugene (Ore.)</term>
+<term>Lincoln (Neb.)</term>
+<term>Stanford (Calif.)</term>
+<term>Nebraska</term>
+<term>Denmark</term>
+<term>Wayne (Neb.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term>Black Elk Speaks</term>
+<term>A Cycle of the West</term>
+<term>Lyric and dramatic poems</term>
+<term>The Song of Hugh Glass</term>
+<term>The Song of Jed Smith</term>
+<term>The Song of Three Friends</term>
+<term>Minneapolis Journal</term>
+                </keywords>
+            </textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName>Columbia (Mo.)</placeName>
+<date when="1962-10-04"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Aly, Lucile Folse, 1913-</persName>
+<placeName>Eugene (Ore.)</placeName>
+</correspAction>
+</correspDesc>
+            <particDesc><person role="recipient"><persName>Aly, Lucile Folse, 1913-</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="lkw">Weakly, Laura K.</name> Metadata Encoding</change>
+            <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4c.38.1-7_0001a" />
+                
+                <note type="curatorial">176-8           Aly Collection</note>
+                
+                <opener>
+                    <dateline>Skyrim, Oct. 4, 6'2</dateline>
+                
+                    <salute>Dear Lucile:</salute>
+                </opener>
+                <p>I've been waiting for your next before telling you about the Historical Society dinner at Lincoln; but I don't want to let the news grow too stale, so I'm writing now.</p>
+                
+                <p>The affair was a big <hi rend="underline">Wow</hi>! People came from every corner of the state &#8212; because I was announced, I'm told. The ball-room of the Cornhusker Hotel was jammed with tables &amp; people, and there was an <hi rend="underline">electric feel</hi> in the place. My party arrived a bit late, and when we entered there was a "standing ovation" and how they <hi rend="double underline">did</hi>
+                    
+                    <pb facs="nei.j4c.38.1-7_0001b"/>
+                    <fw type="curatorial">-2-</fw>
+                    
+                    welcome the Little Buffalo! Loud and long!! The introduction was given by Mr. Latenser, a distinguished architect of Omaha, who knew me in the great, hopeful days when Vinsonhaler was living and still <del>by</del><add>my</add> dear friend. It was a fine, well-wrought speech, giving the history of my life rapidly, and ending somewhat thus. (The way he said it &amp; how he introduced it was really clever. I miss something here.) He said: "In 1492 Columbus discovered America,
+                        
+                        <fw type="curatorial">1</fw>
+                    <pb facs="nei.j4c.38.1-7_0002a"/>
+                        <fw type="authorial">-3-</fw>
+                        
+                        in 1881, John Neihardt was born. Ladies and gentlemen, I give you John Neihardt" (Words to that effect, but <hi rend="underline">really</hi> effective as given).</p>
+                
+                <p>I spoke about Black Elk for 1 hr. 15 mins &#8212; off the cuff &#8212; no notes. It went smoothly &#8212; flowed, and in spots could not fail to be beautiful. When I ceased, there was another rising ovation and a clamor that lasted until I stopped it. Afterwards,
+                        
+                        <pb facs="nei.j4c.38.1-7_0002b"/>
+                        <fw type="authorial">-4-</fw>
+                        
+                        people crowded around for a half hour or more. It <hi rend="underline">was</hi> a joy. Mrs. Winkleman said she would write you and send a program (with the bronze bust on it.)</p>
+                
+                <p>Well, I miss your letters! It seems long since you wrote, altho' it is hardly 3 weeks.</p>
+                
+                <p>I talked with Nicoll of the Nebraska University Press &#8212; the top man. He is very eager to bring out the <hi rend="underline">Cycle</hi> in paper, and will begin as soon as I have made my peace with Macmillans.
+                    
+                    <fw type="curatorial">2</fw>
+                    <pb facs="nei.j4c.38.1-7_0003a"/>
+                    <fw type="authorial">-5-</fw>
+                    
+                    He wants to publish a volume of Lyrics and Dramas, also, but thinks they should appear after the Cycle, I strongly disagree, and so do others in Lincoln with whom I talked. I wish <hi rend="underline">you</hi> could talk to him &#8212; or maybe <hi rend="underline">write</hi>.</p>
+                
+                <p>Now listen!</p>
+                
+                <p>Nicoll said, with special emphasis, "I want to ask a special favor of you. Please intercede with Dr. Lucile Aly in the matter of the biography. <hi rend="underline">We want</hi>
+                    
+                    <pb facs="nei.j4c.38.1-7_0003b"/>
+                    <fw type="authorial">-6-</fw>
+                    
+                    <hi rend="underline">to publish that book</hi>!" So I'm interceding, you see!</p>
+                
+                <p>I think if they <unclear>knew</unclear> enough, they'd plan to bring out most of my out-of-print work in a series. They <hi rend="underline">should</hi>, and it would sell. If you write Nicoll, you might want to make the suggestion.</p>
+                
+                <p><hi rend="underline">I</hi> think the <hi rend="underline">Cycle</hi> should be published in two volumes. The first would be called <hi rend="underline">A Cycle</hi>
+                   
+                    <note type="authorial">Knipmeyer, who called on you, heard me at Stanford in 19<unclear/></note>
+                    
+                        <fw type="curatorial">13</fw>
+                    <pb facs="nei.j4c.38.1-7_0004a"/>
+                        <fw type="authorial">7</fw>
+                        
+                        of the West - The Ashley-Henry Men" (containing the Friends, Glass, and Jed) The second volume would be " A Cycle of the West &#8212; The Twilight of the Sioux". This should be advantageous from the viewpoint of sales.</p>
+                
+                <p>I think they <choice><sic>migh</sic><corr>might</corr></choice> <hi rend="underline">deserve your</hi> book <hi rend="underline">if</hi> they decide to issue my out-of-print books in series reasonably soon. This could be a lever!!</p> 
+                
+                <pb facs="nei.j4c.38.1-7_0004b"/>
+                <fw type="authorial">-8-</fw>
+                
+                <p>Lucile, <hi rend="underline">is</hi> anything wrong between us? I know nothing, but sometimes I feel <del/> vaguely troubled. This is a great thing <hi rend="underline">you and I</hi> are doing together, and its too fine and meaningful to fail. It will not, will it? There's <hi rend="underline">no change</hi> here, I can assure you. You know you are dear to me.</p>
+                
+                <p>The <hi rend="caps">TV</hi> program is thriving. Students burble about it.</p>
+                <closer>
+                    <salute>The same old love</salute>
+                    
+                    <signed>John</signed>
+                </closer>
+                
+                <postscript><p>Hurrah for the Minneapolis Journal microfilms!!!</p></postscript>
+                <fw type="curatorial">4</fw>
+                
+                <pb facs="nei.j4c.38.1-7_0005a"/>
+                
+                <fw type="authorial">(1)</fw>
+                <postscript>
+                    <opener>
+                <dateline>Oct 4, '62</dateline>
+                
+                <salute><hi rend="caps">P. S.</hi></salute></opener>
+                
+                <p>Val Petersen, former Governor of Nebraska, and Ambassador to Denmark under the Eisenhower administration, was speaker of the <hi rend="double underline">Luncheon</hi> of the Hist Society. (I was speaker at the dinner in the evening). He is an alumnus of Wayne State (my old school). At the beginning of his speech he spoke at some length
+                    
+                    <pb facs="nei.j4c.38.1-7_0005b"/>
+                    <fw type="authorial">-2 <hi rend="caps">PS</hi></fw>
+                    
+                    of me; told how he had studied my work as a young <del/>man, and how he and his wife read my stuff aloud for years. Then he said: "It is an honor to be on the same platform with him." He is very popular in Nebraska.</p>
+                
+                    <p>Did you have a good talk with Knipmeyer? He is State Archivist, and
+                    
+                    <fw type="curatorial">5</fw>
+                        <pb facs="nei.j4c.38.1-7_0006a"/>
+                    <fw type="authorial">3- <hi rend="caps">PS</hi></fw>
+                    
+                    he knows more than anybody else about the Civil War in Missouri. He is a graduate of Stanford and Johns Hopkins. He told me he heard me lecture at Stanford when David Starr Jordan introduced me!! That was 1918, wasn't it? He said too, that he was greatly
+                    
+                    <pb facs="nei.j4c.38.1-7_0006b"/>
+                        
+                    <fw type="authorial">4</fw> impressed. I should have told you, so that you could get his impressions. Tell me about him</p>
+                <closer>
+                &#8212; <signed>Jno.</signed>
+                </closer>
+                </postscript>
+                
+                <fw type="curatorial">6</fw>
+                
+            </div1>
+            
+            
+            <div1 type="envelope">
+                <pb facs="nei.j4c.38.1-7_0007"/>
+                
+                <ab type="return">
+                John Neihardt
+                Route 7 
+                <hi rend="underline">Columbia,</hi> Mo.
+                </ab>
+                
+                <ab type="postmark"><unclear cert="high">C</unclear>OLUM<unclear cert="high">BI</unclear>A, MO. OCT 6 1-PM <unclear cert="high">1</unclear>962</ab>
+                <note type="authorial">____
+                   <hi rend="underline">Air</hi></note>
+                <figure>
+                    <figDesc>7 Cent Stamp</figDesc>
+                    <p>US AIR MAIL 7¢</p>
+                </figure>
+                
+                <note type="authorial">_____
+                    <hi rend="underline">over</hi></note>
+                
+                <ab type="address">
+                    <address>
+                        <addrLine>Dr. Lucile Aly,</addrLine>
+                        <addrLine> 1138 22nd Ave., East,</addrLine>
+                        <addrLine>Eugene,</addrLine>
+                        <addrLine>Oregon.</addrLine>
+                    </address>
+                </ab>
+                
+                <note type="authorial">Mr. Nicoll is Bruce <hi rend="caps">H.</hi> Nicoll, The Uni. of Neb. Press, Lincoln</note>
+                
+                <fw type="curatorial">7</fw>
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

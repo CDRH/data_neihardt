@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.38.24-31">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to Lucile Aly, November 15, 1962</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2016</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4c.38.24-31</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Lucile Aly</title>
+                    <date when="1962-11-15">November 15, 1962</date>
+                    <extent>16 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>16 hand-written pages</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>16 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Jones, Herschel V. (Herschel Vespasian), 1861-1928</term>
+<term>Phillips</term>
+<term>Cervantes Saavedra, Miguel de 1547-1616</term>
+<term>Aly, Bower, 1903-1977</term>
+<term>McAdams, Clark, 1874-1935</term>
+<term>Bismarck, Otto von 1815-1898</term>
+<term>William II, German Emperor, 1859-1941</term>
+<term>Winkelman, Phyllis H.</term>
+<term>Nicoll, Bruce</term>
+<term>Wharton, Edith, 1862-1937</term>
+<term>Charles</term>
+<term>Nixon, Richard Milhous, 1913-1994</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+<term type="from">Columbia (Mo.)</term>
+                    <term>Minneapolis (Minn.)</term>
+<term>Bancroft (Neb.)</term>
+<term>New York</term>
+<term>Branson (Mo.)</term>
+<term>Eugene (Ore.)</term>
+<term>Germany</term>
+<term>Calcutta (India)</term>
+<term>Cuba</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term>Minneapolis Journal</term>
+<term>Cry of the People</term>
+<term>The Red Wind Comes</term>
+<term>St. Louis Post-Dispatch</term>
+<term>A Cycle of the West</term>
+<term>Lyric and dramatic poems</term>
+                </keywords>
+            </textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName>Columbia (Mo.)</placeName>
+<date when="1962-11-15"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Aly, Lucile Folse, 1913-</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+            <particDesc><person role="recipient"><persName>Aly, Lucile Folse, 1913-</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="lkw">Weakly, Laura K.</name> Metadata Encoding</change>
+            <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4c.38.24-31_0001a" />
+                
+                <note type="authorial"><unclear/>for Lucile)</note>
+                
+                <note type="curatorial">180-8</note>
+                
+                <opener>
+                <dateline>Skryim, Nov. 15, 6'2</dateline>
+                
+                
+                <salute>Dear Lucile: (Arf! Arf!)</salute>
+                </opener>
+                <p>Answers to your questions:</p>
+                
+                <p>My work for the Minneapolis Journal appeared on my literary page while I was in Minneapolis; and after I went back to Bancroft, it all appeared in my weekly column. The only <hi rend="underline">editorial</hi> I wrote for the paper appeared on the Sunday Editorial Page and was entitled "Wanted a New Cervantes". This is the one old Jones admired, but did not understand until someone explained it to him some days late. I had done this editorial as a 
+                
+                <pb facs="nei.j4c.38.24-31_0001b"/>
+                <fw type="authorial">-2-</fw>                       <note type="curatorial">Aly Collection</note>
+                
+                sample when he was about to make me a proposition for doing the whole sacred Sunday Editorial Page. It had been done by one Phillips (I believe) in New York. Incidentally that chap could sling a neat pen now and then. You <hi rend="underline">should</hi> know that editorial! It's a real Wow! I wanted a Cervantes to do his old stunt, but this time against another system. I did <hi rend="double underline">not</hi> get the sacred Editorial Page - for reasons that will be clear
+                
+                <fw type="curatorial">24</fw>
+                    <pb facs="nei.j4c.38.24-31_0002a"/>
+                <fw type="authorial">-3-</fw>
+                
+                when you read the editorial!!</p>
+                
+                <p>When I wrote the <del>weekly</del> column from Bancroft and later from Branson, I wrote an installment each week. There was no question as to what would be printed. The column I wrote was always run <del/> as I sent it. I was furnishing <hi rend="underline">a column</hi>, and the column was used.</p> 
+               
+                <p>Yes, I received the paper regularly.</p>
+                    
+                    <pb facs="nei.j4c.38.24-31_0002b"/>
+                    <fw type="authorial">-4-</fw>
+                    
+                    <p>I wrote about books I chose to review.</p>
+                
+                <p>When you need to consider my Socialism of those days, first remember the condition of labor then, and, second, review <hi rend="underline">my statement</hi> <del>of So</del> regarding Socialism which I sent you soon after you went to Eugene. Bower said something to the effect that my statement was the best he knew. I <hi rend="underline">did</hi> know what I was talking about.</p>
+                
+                <p>I think I know how the term <hi rend="underline">Socialism</hi> affects you. I <unclear/>
+                    
+                    <fw type="curatorial">25</fw>
+                    <pb facs="nei.j4c.38.24-31_0003a"/>
+                    <fw type="authorial">-5-</fw>
+                    
+                    I was (for a short while) working with Socialists, I had a suppressed feeling of repugnance for the ordinary Socialist <hi rend="underline">I have yet</hi>. As for Communists, I've known only one for certain, and I disliked him as a person very much. If you have any prejudice against professing "radicals", I'm afraid I share the prejudice heartily. And yet, we of that time who dreamed of a <del>happy</del> happier world were not essentially wrong. Since then a tremendous revolution has taken place (rather in <hi rend="underline">our</hi> direction of that old time!) And the revolution is still in progress<del/>
+                    
+                    <pb facs="nei.j4c.38.24-31_0003b"/>
+                    <fw type="authorial">-6-</fw>
+                    
+                    and gaining <add>in</add> momentum. My <hi rend="underline">Cry of the People</hi> deserves respect. It<del/> and <hi rend="underline">The Red Wind Comes</hi> were <del/>prophetic certainly. They were both done <hi rend="underline">before, long  before</hi>, the Czar was kicked out. <hi rend="underline">And</hi> there <hi rend="underline">is power</hi> in both. I am seeing the fulfillment of the prophecy, <hi rend="underline">and it saddens me</hi>. So much is lost, <del>that</del> or seems to be. I am no longer sorry for Labor (!), and I see the values for which I lived <del/> seemingly in danger
+                    
+                    <fw type="curatorial">26</fw>
+                    <pb facs="nei.j4c.38.24-31_0004a"/>
+                    <fw type="authorial">-7-</fw>
+                    
+                    I'm afraid I never <hi rend="underline">was</hi> a "democrat" in the matter of our higher values - <hi rend="underline">only on the level of fundamental human need</hi>.</p>
+                
+                <p>On the Post-Dispatch I wrote an editorial about what was being done to our higher values, and I remarked that if the same were being done to our <hi rend="underline">material</hi> values, there would be machine guns stationed at <add>all</add> strategic points along our city streets! Even the Post-Dispatch <del/> would not run <hi rend="underline">that</hi> editorial,
+                    
+                    <fw type="letterhead">
+                        <hi rend="caps">UNIVERSITY OF MISSOURI
+                    <lb/>
+                    COLUMBIA
+                    <lb/>
+                    
+                    COLLEGE OF ARTS AND SCIENCE
+                    <lb/>
+                    DEPARTMENT OF ENGLISH</hi>
+                    </fw>
+                    
+                    <pb facs="nei.j4c.38.24-31_0004b"/>
+                    <fw type="authorial">-8-</fw>
+                    
+                    altho' Clark Mc<hi rend="underline">Adams</hi> was then head of the Editorial Page. It was a corking good editorial. I wish I could find it. Old Clark McAdams chortled gleefully over it, but couldn't run it.</p>
+                
+                <p> <hi rend="underline">No</hi>, Bismarck was <hi rend="underline">never</hi> a hero of mine, altho' I admired <del>a<unclear/></del>and still admire him for his strength as creator of the German Empire. I must have been reviewing some work on him, I suppose. When the Kaiser dropped him, it was a sorry time for Germany, I'd say.</p>
+                    
+                    <fw type="curatorial">27</fw>
+                    <pb facs="nei.j4c.38.24-31_0005a"/>
+                    <fw type="authorial">-9-</fw>
+                    
+                    <p>On second thought I feel almost certain that the Bismarck stuff is <hi rend="underline">not</hi> mine. As you present it, the thing <del/> does <hi rend="underline">not</hi> ring true for me.</p>
+                
+                <p>Dear Lady, I judge that you are working slowly and meticulously towards a <hi rend="underline">definitive</hi> biography. I admire your skill in research - by which I mean I <hi rend="underline">wonder</hi> at it. There will be no lack of material for anyone who may care about me and my work in the future, thanks to your devotion, industry, skill and judgement. I'm grateful to you
+                    
+                    <pb facs="nei.j4c.38.24-31_0005b"/>
+                    <fw type="authorial">-10-</fw>
+                    
+                    for this (altho', as you know, I don't like you very much, do I?)</p>
+                
+                <p>I am a bit troubled, perhaps unnecessarily, about the fact that we are nearing <del/> a strategic moment for the appearance of <hi rend="underline">a</hi> biography - <hi rend="underline">not</hi> the definitive one I believe you will publish when I'm "over there", bless you! There are only 220 copies of the new printing of the <hi rend="underline">Cycle</hi> left, and these will go next semester. After that, the <hi rend="caps">U.</hi> of Neb. Press will bring out the paper-back <hi rend="underline">Cycle</hi> 
+                    
+                    <fw type="curatorial">28</fw>
+                    <pb facs="nei.j4c.38.24-31_0006a"/>
+                    <fw type="authorial">-11-</fw>
+                    
+                    and the <hi rend="underline">Lyrics and Dramas</hi>. Mrs. Winkelman talked to Nicoll, and she thinks he is inclined now to publish the <hi rend="underline">Lyrics</hi> first.</p>
+                
+                <p> <hi rend="underline">Is</hi> there a possibility that your book may be ready within a year?</p>
+                
+                <p>Another matter troubles me, vaguely at least. I know I can't have many more years in this world, and you do need me to check your work against the drawing of mistaken
+                    
+                    <pb facs="nei.j4c.38.24-31_0006b"/>
+                    <fw type="authorial">-12-</fw>              <note>Nov. 15, '62</note>
+                    
+                    inferences. Such are inevitable in working with the "documents" alone. I'm the only one who really knows, and I'm still alive!!</p>
+                
+                <p>I'll very soon receive a formal invitation to lecture at Calcutta University. The Head of <hi rend="underline"> the English Dept</hi> there wants me to live in his family while I'm there. I <hi rend="underline">may</hi> go. In my next I'll tell you more.</p>
+                
+                <fw type="curatorial">29</fw>
+                <pb facs="nei.j4c.38.24-31_0007a"/>
+                <fw type="authorial">-13-</fw>
+                
+                <p>I never cared much for Edith Wharton, altho I've always respected her, of course.</p> 
+                
+                <p>My mother's view of the World War was, I'm sure, much like mine. At any rate she got her ideas about the whole situation through me, and at that time I was really well informed on world affairs, having all the best works on it passing through my study in a steady stream. Those days, I really <hi rend="underline">knew</hi> the pattern. Today it is so complex and mixed, altho' the large pattern does 
+                    
+                    <pb facs="nei.j4c.38.24-31_0007b"/>
+                    <fw type="authorial">-14-</fw>
+                    
+                    seem legible in a general way.</p>
+                
+                <p>Have you had any contact with Bruce Nicoll of the Neb. Press?</p>
+                
+                <p>My TV course is on <hi rend="underline">closed</hi> circuit and is given to two sections. We'll do this again next semester by way of perfecting the permanent record (on videotape). I note that students coming out of class look <del>especiall</del>especially happy. Also, I hear epithets like "fabulous", "fascinating" "wonderful" and such wowish utterances., which I regard as favorable.</p>
+                    
+                    <fw type="curatorial">30</fw>
+                    <pb facs="nei.j4c.38.24-31_0008a"/>
+                    <fw type="authorial">-15-</fw>
+                    
+                    <p>The stuff I've been giving <hi rend="underline">is</hi> really interesting - even to me as I give it. It's <hi rend="underline">rich in <del/> beauty and meaning</hi>.</p>
+                
+                <p>I had not realized that Charles would be right in the forefront of the ruckus. Surely you had reason to be frightened!!</p>
+                
+                    <p><hi rend="underline">And</hi> I know how you felt on election night. I went to bed at 1 a. m.</p>
+                
+                <p>How did you feel about Nixon?</p>
+                
+                <p>When <hi rend="underline">do</hi> we invade Cuba? (The "feel" of it does seem to be in the air).</p>
+                
+                <pb facs="nei.j4c.38.24-31_0008b"/>
+                <fw type="authorial">-16-</fw>
+                
+                <p>You see I've really tried to answer your questions.</p>
+                
+                <p>Jacques runs with the big boys when he can get away, and whenever possible, he rolls in liquid mud! My golly! You should see him! And he seems perfectly happy about the whole thing! He sends love to Perky, who can <hi rend="underline">never,</hi> <hi rend="double underline">never</hi> get all the beautiful colored leaves properly chased. How he would love to help her! (arf, arf, arfity arf!)</p>
+                <closer>
+                <salute>Love for distribution</salute>
+                <signed>John</signed> (same as Drs. Neihardt).
+                </closer>
+                
+                <fw type="curatorial">31</fw>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

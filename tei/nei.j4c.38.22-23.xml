@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.38.22-23">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to Slade Kendrick, November 13, 1962</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2016</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4c.38.22-23_0001-2</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Slade Kendrick</title>
+                    <date when="1962-11-13">November 13, 1962</date>
+                    <extent>2 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 hand-written pages</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>2 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Max Littman</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>St. Louis (Mo.)</term>
+                    <term>New Delhi (India)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term>Hindustan Times</term>
+<term>Poetic Values</term>
+<term>The Twilight of the Sioux</term>
+                </keywords>
+            </textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName>Columbia (Mo.)</placeName>
+<date when="1962-11-13"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Kendrick, M. Slade (Myron Slade)</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+            <particDesc><person role="recipient"><persName>Kendrick, M. Slade (Myron Slade)</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="lkw">Weakly, Laura K.</name> Metadata Encoding</change>
+            <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4c.38.22-23_0001" />
+                
+                <fw type="curatorial"><del>19</del><add>22</add></fw>
+                
+                <fw type="letterhead">
+                <hi rend="caps">UNIVERSITY OF MISSOURI</hi>
+                    <lb/>
+                <hi rend="caps">COLUMBIA</hi>
+                    <lb/>
+                
+                
+                <hi rend="caps">COLLEGE OF ARTS AND SCIENCE</hi>
+                    <lb/>
+                <hi rend="caps">DEPARTMENT OF ENGLISH</hi>
+                </fw>
+                
+                <opener>
+                <dateline>Nov. 13, '62.</dateline>
+                
+                
+                <salute>Dear Slade:</salute>
+                </opener>
+                <p>I haven't thanked you for the postcard picture of the Wagon Box Fight and the information you gave. We are using the post-card picture today when I read that portion on TV. They tell me it will show quite well. It's well conceived, that picture; and I suspect old Max Littman gave the artist some help. Littman, you remember, was the chap who helped the three pickets reach the wagon-box corral. I talked with him long, long ago. He was running an old-fashioned elevator in one of those old <del>brick</del> brick buildings down near the river in St. Louis.</p>
+                
+                <p>Did I tell you that the Hindustan Times of New Delhi, India, has just run <hi rend="double underline">two</hi> long articles on <hi rend="underline">Poetic Values</hi>?
+                    
+                    <note type="authorial">(over)</note>
+                    
+                    <pb facs="nei.j4c.38.22-23_0002"/>
+                    <fw type="curatorial"><del>20</del><add>23</add></fw>
+                    
+                    <fw type="authorial"><unclear>-2-</unclear></fw>
+                    
+                    Also, they ran a feature on me sometime back.</p>
+                
+                <p>I enjoyed all you told me about your summer's experiences. Bully! bully! <hi rend="underline">Where</hi> will you go next, and <hi rend="underline">when</hi>?</p>
+                
+                <p>We are pushing ahead nicely with our TV course, <hi rend="underline">The <hi rend="double underline">Twilight</hi> of the Sioux</hi>. The students do like it a <del/> lot.</p>
+                
+                <p>My little friend, Jacquot, is a great person, and I admire as well as love him.</p> 
+               
+                <p>What do you hear about your MS? I'm eager to know.</p>
+                <closer>
+                <salute>Affection to both of you - </salute>
+                <signed>John Neihardt</signed>
+                </closer>
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>
