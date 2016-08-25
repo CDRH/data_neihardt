@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.31.33-34">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to Slade Kendrick, March 13, 1961</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2016</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4c.31.33-34</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Slade Kendrick</title>
+                    <date when="1961-03-13">March 13, 1961</date>
+                    <extent>4 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>4 hand-written pages</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>4 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Parker, Ralph Halsted, 1909-1990</term>
+<term>Neihardt, Mona Martinsen</term>
+<term>Morrison, Frank B.</term>
+<term>Thompson, Harold William, 1891-1964</term>
+<term>Kendrick, Nita Collier</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+<term type="from">Columbia (Mo.)</term>
+<term>Ithaca (N.Y.)</term>
+<term>Lincoln (Neb.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term>Omaha World-Herald</term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Kendrick, M. Slade (Myron Slade)</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="lkw">Weakly, Laura K.</name> Metadata Encoding</change>
+            <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4c.31.33-34_0001a" />
+
+                
+                <fw type="letterhead">
+                Skyrim Farm                      <hi rend="caps">JOHN G. NEIHARDT</hi>
+                    <lb/>
+                Route 7
+                    <lb/>
+                Columbia, Mo.
+                </fw>
+                
+                <opener>
+                <dateline>3-13-'61</dateline>
+                
+                
+                <salute>Dear Slade:</salute>
+                </opener>
+                <p>Has it been very long since I wrote to you? It doesn't seem so, because you are often in my mind.</p>
+                
+                <p>Spring reached us nearly three weeks ago, but at first no one believed it was spring, except the <hi rend="underline">grass</hi>. 
+                    <hi rend="italic">It</hi> knew, and went right on growing even through the short cold spells. Now we've <del/> been having good old-fashioned rains - really <hi rend="underline">wet</hi> ones that sigh on through the night and make the creeks roll along. By this time I suppose even Ithaca is feeling spring.</p>
+               
+                <p>Arrangements are being made for the taking over of my library by the
+                    
+                    <pb facs="nei.j4c.31.33-34_0001b"/>
+                    <fw type="authorial">-2-</fw>
+                    <fw type="curatorial"><del/></fw>
+                    
+                    University Library. A former student of mine (9 years ago) is on the Library staff, and has been devoted to me &amp; my work <del/><add>ever</add> since he was in my class. He asked for the job of cataloging and collating my library, and Dr. Parker, <del/><add>our</add> Uni. librarian, was delighted. So this chap will do the job <hi rend="underline">as a labor of <del/><add>love</add> and</hi> be paid for his work too! There will be a booklet containing a list of my books, each collated, so that anyone can know <add>each</add> <del/> book's special value, <del/> associational or otherwise, if there is a special value - often there <hi rend="underline">is</hi>.</p>
+                
+                <fw type="curatorial">33</fw>
+                <pb facs="nei.j4c.31.33-34_0002a"/>
+                <fw type="authorial">-3-</fw>
+                
+                <p>It will be lonely here at Skyrim without the library. It will be almost like a funeral to see the books go. But it's the right <del/> way, I'm sure.</p>
+                
+                <p><hi rend="underline">And</hi> note this: Arrangements <hi rend="underline">are <add>now</add> made</hi> for casting Mona's bust in bronze to be with my books at the University. At the same time, I've just learned a movement is on in Nebraska to place a bronze bust of me <del/><add>in</add> the Nebraska Hall of Fame in the State House at Lincoln. Isn't this some "coincidence"?! The World-Herald
+                    
+                    <pb facs="nei.j4c.31.33-34_0002b"/>
+                    <fw type="authorial">-4-</fw>
+                    <fw type="curatorial"><del/></fw>
+                    
+                    of Omaha is back of the movement, which has already been endorsed by Gov. Morrison.</p>
+                
+                <p>This news just came to me day before yesterday. So it seems Mona's bust will be in bronze <hi rend="italic">twice</hi>, if the Nebraska movement succeeds. Mona was very eager to have it in bronze. Now, tell me news. How is Thompson? I must write him. <del/> Give my kindest thoughts to Nita.</p>
+                
+                <closer>
+                    <salute>And love to you.</salute>
+                <signed>John N.</signed>
+                </closer>
+                
+                <postscript><p><hi rend="underline">Did</hi> I tell you that I have 190 in my <hi rend="underline">Epic America</hi> class?</p></postscript>
+                
+                <fw type="curatorial">34</fw>
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

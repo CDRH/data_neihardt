@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.37.15-21">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to Lucile Aly, August 24, 1962</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2016</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4c.37.15-21</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Lucile Aly</title>
+                    <date when="1962-08-24">August 24, 1962</date>
+                    <extent>10 pages, plus envelope</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>10 hand-written pages, plus envelope</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>10 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Neihardt, Alice</term>
+<term>Thompson, Lynn</term>
+<term>Petri, Hilda Neihardt</term>
+<term>Simmons, Arthur</term>
+<term>Utz, Sug</term>
+<term>Utz, Don</term>
+<term>Higgens</term>
+<term>Sutton, Bill</term>
+<term>Sutton, Sonny</term>
+<term>Dahlman, James Charles, 1856-1930</term>
+<term>Long</term>
+<term>Seymour, George Steele</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+<term type="to">Eugene (Ore.)</term>
+<term type="from">Columbia (Mo.)</term>
+<term>Sedalia (Mo.)</term>
+<term>Chicago (Ill.)</term>
+<term>Portland (Ore.)</term>
+<term>Omaha (Neb.)</term>
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term>Step-Fiddler</term>
+<term>The Song of the Indian Wars</term>
+<term>Omaha World-Herald</term>
+<term>Omaha Bee</term>
+<term>The Omaha Daily News</term>
+                </keywords>
+            </textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName>Columbia (Mo.)</placeName>
+<date when="1962-08-24"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Aly, Lucile Folse, 1913-</persName>
+<placeName>Eugene (Ore.)</placeName>
+</correspAction>
+</correspDesc>
+            <particDesc><person role="recipient"><persName>Aly, Lucile Folse, 1913-</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="lkw">Weakly, Laura K.</name> Metadata Encoding</change>
+            <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4c.37.15-21_0001a" />
+                
+                <note type="curatorial">172-6           Aly Collection</note>
+                
+                <opener>
+                <dateline>Skyrim, Aug. 24, '62</dateline>
+                
+                
+                <salute>Dear Lucile:</salute>
+                </opener>
+                <p>That letter was like a fine rain after a rather long drouth! And I know what I mean, because we have been suffering for rain these many weeks, with the temperature around 100° in the shade.</p>
+                
+                <p>I <hi rend="underline">thought</hi> and <hi rend="underline">thought</hi> and <hi rend="underline">wondered</hi> and <hi rend="underline">wondered</hi>, I knew of course, that you were buzzing around making others a little happier &#8212; bless you! But I had a slumped feeling, and I needed to be back in the House of Happiness. I needed more than an elephant. I needed to see you.</p> 
+               
+                <p>I do have some news for you. Bourbon Stonewall, the <del><unclear>more</unclear></del><add>more</add> than equine
+                    
+                    <pb facs="nei.j4c.37.15-21_0001b"/>
+                    <fw type="authorial">-2-</fw>
+                    
+                    stallion Alice raised and trained (beautiful, beautiful, <hi rend="double underline">and good</hi>) <hi rend="underline">won first place</hi> in the Stallion-and<del/>-Gelding Class at the State Fair in Sedalia this week. He won over a field of 15 horses, the best in this country, and against the top trainers &#8212; Art Simmons, <del><unclear>Sug</unclear></del><unclear>Sug</unclear> and Don Utz, the Higgenses, and Suttons! Alice, of course, rode him. She was rested and <hi rend="underline">in a good mood</hi>. So he just went out there and made a <hi rend="double underline">perfect</hi> show. Bourbon really has <hi rend="double underline">character</hi> in our human sense. He is a good man with a strong heart.</p>
+                        
+                        <fw type="curatorial">15</fw>
+                    <pb facs="nei.j4c.37.15-21_0002a"/>
+                        <fw type="authorial">-3-</fw>
+                        
+                        <p>and here is more news. Lynn <hi rend="underline">won first</hi> in the 5-gaited Junior Class with our Prince Charming! We are hoping that Bourbon may win the great Five-Gaited Stake Friday night. It is the <hi rend="underline">top</hi> event and the competition is terrific and pitiless. They fight like mad men for that stake. Bourbon can <del>f<unclear/></del> fight 45 minutes if necessary. He did that in the Stallion-and-Gelding class, &amp; still was going like a mighty
+                        
+                        <pb facs="nei.j4c.37.15-21_0002b"/>
+                        <fw type="authorial"><del>-4</del>-4-</fw>
+                        
+                        engine at the end.</p>
+                
+                <p>I'm glad you have the Seymour letters from Knox College. Yes, our relationship was really <hi rend="underline">good</hi>. We kidded a lot because we felt affection. He was a huge, <del/> handsome but rather slow-moving man, weighing about 225 lbs in moderate flesh. He was head Accountant for the Pullman Company, and was top man in the Chicago office. <hi rend="underline">I owe him much, for real friendship when it was most useful</hi>.</p> 
+               
+                <p>He was gifted <del>in</del>
+                    
+                    <fw type="curatorial">16</fw>
+                    <pb facs="nei.j4c.37.15-21_0003a"/>
+                    <fw type="authorial">-5-</fw>
+                    
+                    in verse-making, <del>and</del> and often composed clever things while shaving or bathing. Have you seen my article in Step-Fiddler about his death? If not, you should. We did feel something like love for each other. I kidded him when he was in process of dying, the day before he went, and he kidded back almost merrily. <hi rend="underline">We both knew</hi>. I can't recall the first time I met him, but it was in connection with the Bookfellows (his darling child).</p>
+               
+                <p>Dear Lady, I almost wish you were less <del>bus<unclear/></del> busy &#8212; not quite, because I like to
+                    
+                    <pb facs="nei.j4c.37.15-21_0003b"/>
+                    <fw type="authorial">-6-</fw>
+                    
+                    <hi rend="underline">think of you being you</hi>, making people happier, bless your heart!</p>
+                
+                <p>Here is more news! Old Hilda's <add>final</add> grade in her law course is 4.0! Isn't that bully? Her <hi rend="underline">average</hi> for 2 1/2 years is 3.5 &#8212; which, I believe, is an <hi rend="caps">A</hi>.</p>
+             
+                <p>And here I must record the shameful fact that my big-little dog, Jacquot, is a fightin' dog, and loves to tackle the big ones! Hilda has a half-breed German <choice><sic>Shepard</sic><corr>Shepherd</corr></choice> called "Twinkle" (like "Twinkle, twinkle little star.")
+                    
+                    <fw type="curatorial">17</fw>
+                    <pb facs="nei.j4c.37.15-21_0004a"/>
+                    <fw type="authorial">-7-</fw>
+                    
+                    The other day, Jacquot and I were over there, and Jacquot actually called Twinkle some perfectly horrible <del/> names &#8212; like "Go to hell!", and such. That made bad trouble. But <del>my dog does not<add>doesn't</add> know</del> my dog does not know yet that he got trounced. Twink is a sweet dog, &amp; is very kind to my pup when not called horrible names in that insulting tone of voice.</p>
+              
+                <p>Bully about the photograph in Portland! I'll
+                    
+                    <pb facs="nei.j4c.37.15-21_0004b"/>
+                    <fw type="authorial">-8-</fw>
+                    
+                    bet there was a big crowd on hand to view it!</p>
+                
+                <p>I'm glad the lady we lunched with liked me a bit. I liked her too. She seemed strong, competent, and <hi rend="underline">good</hi> &#8212; a real person. I do like to be liked; but if you like me, I won't even need an elephant.</p>
+                
+                <p>Hug sweet Perky for me. I do like to think of her. And <hi rend="underline">don't</hi> tell her that <del>Jacqu<unclear/></del> Jacques <hi rend="double underline">swears</hi>! He really is a dear manly people with a skinful of love for everybody.</p>
+                <closer>
+                <salute>Affection for each and all <unclear/> there.</salute> <signed>&#8212;John N.</signed>
+                </closer>
+                
+                <fw type="curatorial">18</fw>
+                <pb facs="nei.j4c.37.15-21_0005"/>
+                <fw type="curatorial">1<unclear reason="missing" cert="medium">9</unclear></fw>
+                
+                <postscript>
+                <opener><hi rend="caps">P. S.</hi> (1)</opener>
+                
+                <p>I've meant to ask if you know about the time I read <hi rend="underline">Indian Wars</hi> to an overflow audience in the Library Bldg at Omaha with the famous "Cowboy Mayor" Jim Dahlman <del><unclear>as</unclear></del> presiding. The doors were open, and people were gathered all around outside. That should be in the early 1920s &amp; the World-Herald, Bee, and <hi rend="underline">News</hi>
+                    
+                    <note type="authorial">(over)</note>
+                    
+                    <pb facs="nei.j4c.37.15-21_0006"/>
+                    <fw type="curatorial">2<unclear reason="missing" cert="medium">0</unclear></fw>
+                    
+                    <fw type="authorial"><hi rend="caps">P. S.</hi> (2)</fw>
+                    
+                    should all have accounts of the affair.</p> 
+                <closer><signed>J. N.</signed></closer></postscript>
+                
+                <postscript><p>It was when Long was managing me, I think</p></postscript>
+                <milestone unit="section" rend="line"/>
+                    
+                    <postscript>
+                    <p><hi rend="double underline">Later</hi> Friday. I'm off for Lincoln at 1:08 today.</p>
+                    
+                    <p>You dear ones there were so good to me. <del><unclear>Palama</unclear></del><hi rend="underline">Palama Yalo</hi>!</p></postscript>
+                
+                
+            </div1>
+            
+            
+            <div1 type="envelope">
+                
+                <pb facs="nei.j4c.37.15-21_0007"/>
+                
+                <ab type="return">
+                John Neihardt<lb/>
+                Route 7 <lb/>
+                <hi rend="underline">Columbia</hi>, Mo.
+                </ab>      
+                
+                <ab type="postmark">
+                    COLUMBIA, MO. AUG 25 12-M 1962
+                </ab>
+                <note type="authorial">___
+                  <hi rend="underline">Air</hi></note>
+                    <figure>
+                        <figDesc>7 Cent Stamp</figDesc>
+                        <p>US AIR MAIL 7¢</p>
+                    </figure>
+                
+                <ab type="address">
+                    <address>
+                <addrLine>Dr. Lucile Aly,</addrLine>
+                <addrLine>1138 22nd Ave., East,</addrLine>
+                <addrLine>Eugene, Oregon.</addrLine>
+                    </address>
+                </ab>
+                
+                <fw type="curatorial"><unclear reason="missing" cert="medium">21</unclear></fw>
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

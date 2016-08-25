@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.32.29-31">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to Lucile Aly, June 1, 1961</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2016</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4c.32.29-31</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Lucile Aly</title>
+                    <date when="1961-06-21">June 21, 1961</date>
+                    <extent>3 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>3 hand-written pages</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>3 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Smith, Stanley C.</term>
+<term>Aly, Stewart</term>
+<term>Miwa, Ralph</term>
+<term>Jones, Mack</term>
+<term>Brown, Fred</term>
+<term>Palmquist, Dean</term>
+<term>Peterson, John E.</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term type="from"> Columbia (Mo.)</term>
+<term>St. Joseph (Mo.)</term>
+<term>Stockton (Kan.)</term>
+ <term>Portland (Ore.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term>The Death of Sitting Bull</term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Aly, Lucile Folse, 1913-</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="lkw">Weakly, Laura K.</name> Metadata Encoding</change>
+            <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4c.3229-31_0001" />
+                <note type="curatorial">137-2       Aly Collection</note>
+                <fw type="curatorial">29</fw>
+             
+                <fw type="letterhead">
+                Skyrim Farm              <hi rend="caps">JOHN G. NEIHARDT</hi>
+                    <lb/>
+                Route 7
+                    <lb/>
+                Columbia, Mo.
+                </fw>
+                
+                <opener>
+                <dateline>6-21-'61 (Wed.)</dateline>
+                
+                
+                <salute>Dear Lucile:</salute>
+                </opener>
+                <p>Last evening I talked and read to the 30 picked <hi rend="caps">H. S.</hi> students from all over the state. I read The Death of Sitting Bull, and the attention was of the hypnotic kind we've <del/> discussed. Then, afterwards, they swarmed around me, like bees, &amp; it didn't stop until nearly 10 o'clock. I'm telling you this by way of record. I'm not boasting, really.</p>
+              
+                <p>I'm leaving for St. Joe tomorrow 
+                    
+                    <pb facs="nei.j4c.32.29-31_0002"/>
+                    <fw type="curatorial">30</fw>
+                    
+                    <hi rend="caps">A. M.</hi> Stay the night in St. Joe, meet Stanley at 7 
+                    <hi rend="caps">A. M.</hi> Friday. Then Stockon. <hi rend="underline">I think we can make a lot of biographical hay this time</hi>.</p>
+                
+                <p>Bower promised, I believe, to hunt books with me. Will you &amp; I and old Stewart hunt when I arrive in Portland? Anyway, I want at that Carson store again.</p>
+                <closer>
+                <salute>Affection for each of you.</salute>
+                <signed>John N.</signed> 
+                </closer>
+                
+            </div1>
+                
+                
+            <div1 type="enclosure"> 
+                
+                <note type="curatorial">138-1</note>
+                <fw type="curatorial">31</fw>
+                
+                <fw type="letterhead">
+                <hi rend="caps">UNIVERSITY OF MISSOURI</hi>
+                    <lb/>
+                <hi rend="caps">COLUMBIA</hi>
+                    <lb/>
+                
+                
+                
+                <hi rend="caps">INTER-DEPARTMENT CORRESPONDENCE</hi>
+                </fw>
+                
+                <opener>
+                <dateline>May 29, 1961.</dateline>
+                
+                <address>
+                <fw type="letterhead"><hi rend="caps">TO</hi></fw>  <addrLine> Dr. John G. Neihardt</addrLine>
+                <addrLine>Lecturer in English</addrLine>
+                <addrLine>209 Jesse Hall</addrLine></address>
+                
+                <fw type="letterhead"><hi rend="caps">SUBJECT</hi>:</fw> <salute>Dear Dr. Neihardt:</salute>
+                </opener>
+                <p>The College of Arts and Science is bringing 30 hand-picked, superior-ability, high school juniors to the campus for the two-week period of June 19-July 1. These 30 were selected from about 190 of the best high school juniors in the state; all 190 were nominated by the high school principals, and they were all the top, or nearly the top, students in their classes. This program has been originated and planned by a committee consisting of Ralph Miwa, Mack Jones, Fred Brown, Dean Palmquist, and myself as chairman.</p>	
+               
+                <p>We are calling the program the University of Missouri Summer Programs for Superior High School Students. Although we are not so stating for general public consumption, the primary purpose of the program is to recruit outstanding students for our Honors College. Therefore, we want to do everything possible to give these boys and girls a good impression of our campus, and to bring them into contact with as many of our best scholars, researchers, and teachers as possible.</p>
+                
+                <p>The daytime hours will be given to apprising these boys and girls of the various areas comprising our college of Arts and Science. On several of the evenings we want to present special lectures, given by some of our most exciting faculty people, to this group. We would like you to give one of these lectures. We would like you to talk on your Indian experiences and the influence these experiences had on your creative works.</p>
+                
+                <p>These boys and girls will be especially bright and quick; they will probably be superior to our usual undergraduate class groups in comprehension, reading background, etc. We would like your lecture to be from 45-60 minutes in length. Following the lecture proper, we would like to provide time for questions and discussion The particular night within the June 19-July 1 period on which you would lecture can be scheduled to suit your convenience, I think.</p>
+               
+                <p>We do hope that you will find it possible to accept our request. You were one of the first persons we thought of when considering names for this purpose. Please contact me at the Department of Botany (Phone: 9-9479) with regard to your decision as soon as possible, and if you have questions about the entire thing.</p>
+                <closer>
+                <salute>Sincerely,</salute>
+                <signed>John E. Peterson</signed> 
+                <signed>John E. Peterson</signed>
+                Chairman, Superior Student Program
+                </closer>
+            
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

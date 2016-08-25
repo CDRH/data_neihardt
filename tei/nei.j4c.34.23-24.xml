@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.15.42">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.34.23-24">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Letter from John G. Neihardt to Julius T. House, April 29 or May 6, 1931</title>
+                <title type="main">Letter from John G. Neihardt to Bower Aly, November 25, 1961</title>
                 <author>Neihardt, John Gneisenau, 1881-1973</author>
                 <principal>Gossin, Pamela</principal>
             </titleStmt>
             <editionStmt>
                 <edition>
-                    <date>2013</date>
+                    <date>2016</date>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-                <idno>nei.j4c.15.42</idno>
+                <idno>nei.j4c.34.23-24</idno>
                 <availability>
                     <p></p>
                 </availability>
@@ -42,9 +42,9 @@
             <sourceDesc>
                 <bibl>
                     <author>Neihardt, John Gneisenau, 1881-1973</author>
-                    <title level="m" type="main">Letter from John G. Neihardt to Julius T. House</title>
-                    <date when="1931">April 29 or May 6, 1931</date>
-                    <extent>1 page</extent>
+                    <title level="m" type="main">Letter from John G. Neihardt to Bower Aly</title>
+                    <date when="1961-11-25">November 25, 1961</date>
+                    <extent>3 pages, plus envelope</extent>
                 </bibl>
                 <msDesc>
                     <msIdentifier>
@@ -52,20 +52,20 @@
                         <idno></idno>
                     </msIdentifier>
                     <msContents>
-                        <p>1 type-written page</p>
+                        <p>3 hand-written pages, plus envelope</p>
                     </msContents>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
                                 <support></support>
-                                <extent>1 page
+                                <extent>3 pages
                                     <dimensions unit="mm"><height></height><width></width></dimensions>
                                 </extent>
                                 <condition>
                                     <p></p></condition>
                             </supportDesc>
                         </objectDesc>
-                        <handDesc hands="2">
+                        <handDesc hands="1">
                             <handNote xml:id="type"><p>Media: type</p></handNote>
                             <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
                         </handDesc>
@@ -108,22 +108,25 @@
                     <term></term>
                 </keywords>
                 <keywords scheme="lcsh" n="people">
-                    <term>Kenamore, Clair</term>
-<term>Millay, Edna St. Vincent, 1892-1950</term>
+                    <term>Mott, Frank Luther, 1886-1964</term>
+<term>Etheridge, Ned</term>
+<term>Thompson, Lynn</term>
+<term>Petri, Gail</term>
                 </keywords>
                 <keywords scheme="lcsh" n="places">
-                    <term>St. Louis (Mo.)</term>
+                    <term type="from">Columbia (Mo.)</term>
+<term>Lincoln (Neb.)</term>
+<term type="to">Eugene (Ore.)</term>
                 </keywords>
                 <keywords scheme="lcsh" n="works">
-                    <term>St. Louis Post-Dispatch</term>
-<term>The Drift of Civilization</term>
+                    <term></term>
                 </keywords>
             </textClass>
-            <particDesc><person role="recipient"><persName>House, Julius T. (Julius Temple)</persName></person></particDesc>
+            <particDesc><person role="recipient"><persName>Aly, Bower, 1903-1977</persName></person></particDesc>
         </profileDesc>
         
         <revisionDesc>
-            <change when="2014-03-25"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords</change>
+            <change when="2016"><name xml:id="lkw">Weakly, Laura K.</name> Metadata Encoding</change>
             <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
             <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
             <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -136,39 +139,82 @@
             
             <div1 type="letter">
                 
-                <pb facs="nei.j4c.15.42" />
-                <note type="curatorial">244 House Collection</note>
-                <fw type="curatorial">42</fw>
+                <pb facs="nei.j4c.34.23-24_0001a" />
+                <note type="curatorial">Aly Collection</note>
                 
-                <fw type="imprint">
-                    <figure/>
-                DAILY                                   SUNDAY    
-                <lb/>
-                        EDITORIAL DEPARTMENT
-                <lb/>
-                        ST. LOUIS POST-DISPATCH
-                <lb/>
-                        PUBLISHED BY THE PULITZER PUBLISHING CO.
-                <lb/>
-                        ST. LOUIS, MO.
-                
+       
+                <fw type="letterhead">
+                Skyrim Farm                    <hi rend="caps">JOHN G. NEIHARDT</hi>
+                    <lb/>
+                Route 7
+                    <lb/>
+                Columbia, Mo.  
                 </fw>
                 
                 <opener>
-                <dateline>Wednesday.        <note type="clerical">[Apr. 29 or May 6, 1931]</note></dateline>
+                <dateline>Nov. 25, '61</dateline>
                 
                 
-                
-                <salute>Dear Comrade:</salute>
+                <salute>Dear Bower:</salute>
                 </opener>
-                <p>Write to Mr. Clair Kenamore, Post-Dispatch for permission to use the Millay material from the Anniversary Number, referring him to me. This is the best way, I'm sure, for you will want permission direct. I think Kenamore will arrange. I know him well and he often comes up to my office for little helps and favors<del/> that happen to be in my line. I'm glad you want to run the Millay stuff. It's bully. Here's a hint in connection with the matter. In writing Kenamore, state that you have heard of the appearance of "The Drift of Civilization" (Simon and Schuster),, which contains the 26 special articles from the Anniversary Number, and that you plan to run an article about it soon. This should help. I've just done a two col. article about the book for the body of the paper. <add>It's a whale of a book &amp; you will like it.</add></p>
-                <closer>
-                <salute>With love always,</salute>
+                <p>Many thanks again! It <hi rend="underline">would</hi> be bully if Mott could manage to do the article &#8212; and he would do a corker; but I wonder if he is in a position to take on the job. He is reasonably well, I think, and he certainly is my friend (he has been for 46 years!) But I'm afraid he's crowded with work.</p>
                 
-                <signed>Jno.</signed>
+                <p>On Dec. 10 his portrait will be unveiled at a testimonial dinner. The painting (by Ned Etheridge) will hang in the School 
+                    
+                    <pb facs="nei.j4c.34.23-24_0001b"/>
+                    <fw type="authorial">-2-</fw>
+                    
+                    of Journalism with the other Deans. I'm happy about this; He <hi rend="underline">is</hi> a dear man, and he has been a great booster for my work.</p>
+             
+                <p>My bust will be unveiled in the Senate Chamber of the Capitol Building in Lincoln, Nebraska, on Dec. 7 at 11 <hi rend="caps">A. M.</hi> We'll drive up &#8212; the girls, Lyn, Gail, and I. &#8212;</p>
+                
+                <p>I think of you dear peoples very often, and I fancy myself walking about the house.</p>
+               
+                <p>I <hi rend="underline">do</hi> deeply <del>appreciate</del>
+                    
+                    <fw type="curatorial">23</fw>
+                    <pb facs="nei.j4c.43.23-24_0002"/>
+                    <fw type="authorial">-3</fw>
+                    
+                    appreciate my "other home"</p>
+                    
+                    <p>Be good to yourself and don't work too d -- hard.</p>
+                    
+                    <p>Prost!</p>
+                <closer>
+                <salute>Affectionately</salute>
+                
+                <signed>John N.</signed>
                 </closer>
                 
-                <note>Wednesd</note>
+            </div1>
+            
+            
+            
+            <div1 type="envelope">
+                
+                <ab type="return">
+                John Neihardt
+                Route 7
+                <hi rend="underline">Columbia</hi>, Mo.
+                </ab>
+                
+                <ab type="postmark">COLUMBIA, MO NOV 25 6-PM 1961</ab>
+                <figure>
+                    <figDesc>7 Cent Stamp</figDesc>
+                    <p>US AIR MAIL <unclear cert="high">7¢</unclear></p>
+                </figure>
+                
+                <ab type="address">
+                    <address>
+                <addrLine>Dr. Bower Aly</addrLine>
+                <addrLine>209 Villard Hall,</addrLine>
+                <addrLine><hi rend="caps">U.</hi> of Oregon</addrLine>
+                <addrLine>Eugene, Oregon.</addrLine>
+                    </address>
+                </ab>
+                
+                <fw type="curatorial">24</fw>
             </div1>
         </body>
         

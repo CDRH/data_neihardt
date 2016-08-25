@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.15.42">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.36.35-36">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Letter from John G. Neihardt to Julius T. House, April 29 or May 6, 1931</title>
+                <title type="main">Letter from John G. Neihardt to Slade Kendrick, June 20, 1962</title>
                 <author>Neihardt, John Gneisenau, 1881-1973</author>
                 <principal>Gossin, Pamela</principal>
             </titleStmt>
             <editionStmt>
                 <edition>
-                    <date>2013</date>
+                    <date>2016</date>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-                <idno>nei.j4c.15.42</idno>
+                <idno>nei.j4c.36.35-36</idno>
                 <availability>
                     <p></p>
                 </availability>
@@ -42,9 +42,9 @@
             <sourceDesc>
                 <bibl>
                     <author>Neihardt, John Gneisenau, 1881-1973</author>
-                    <title level="m" type="main">Letter from John G. Neihardt to Julius T. House</title>
-                    <date when="1931">April 29 or May 6, 1931</date>
-                    <extent>1 page</extent>
+                    <title level="m" type="main">Letter from John G. Neihardt to Slade Kendrick</title>
+                    <date when="1962-06-20">June 20, 1962</date>
+                    <extent>4 pages</extent>
                 </bibl>
                 <msDesc>
                     <msIdentifier>
@@ -52,20 +52,20 @@
                         <idno></idno>
                     </msIdentifier>
                     <msContents>
-                        <p>1 type-written page</p>
+                        <p>4 hand-written pages</p>
                     </msContents>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
                                 <support></support>
-                                <extent>1 page
+                                <extent>4 pages
                                     <dimensions unit="mm"><height></height><width></width></dimensions>
                                 </extent>
                                 <condition>
                                     <p></p></condition>
                             </supportDesc>
                         </objectDesc>
-                        <handDesc hands="2">
+                        <handDesc hands="1">
                             <handNote xml:id="type"><p>Media: type</p></handNote>
                             <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
                         </handDesc>
@@ -108,22 +108,25 @@
                     <term></term>
                 </keywords>
                 <keywords scheme="lcsh" n="people">
-                    <term>Kenamore, Clair</term>
-<term>Millay, Edna St. Vincent, 1892-1950</term>
+                    <term>Kendrick, Nita Collier</term>
+<term>Cather, Willa, 1873-1947</term>
+<term>Norris, George W. (George William), 1861-1944</term>
                 </keywords>
                 <keywords scheme="lcsh" n="places">
-                    <term>St. Louis (Mo.)</term>
+                    <term>South America</term>
+<term>Red Cloud (Neb.)</term>
+<term>Lincoln (Neb.)</term>
+<term>Oregon</term>
                 </keywords>
                 <keywords scheme="lcsh" n="works">
-                    <term>St. Louis Post-Dispatch</term>
-<term>The Drift of Civilization</term>
+                    <term></term>
                 </keywords>
             </textClass>
-            <particDesc><person role="recipient"><persName>House, Julius T. (Julius Temple)</persName></person></particDesc>
+            <particDesc><person role="recipient"><persName>Kendrick, M. Slade (Myron Slade)</persName></person></particDesc>
         </profileDesc>
         
         <revisionDesc>
-            <change when="2014-03-25"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords</change>
+            <change when="2016"><name xml:id="lkw">Weakly, Laura K.</name> Metadata Encoding</change>
             <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
             <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
             <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -136,39 +139,49 @@
             
             <div1 type="letter">
                 
-                <pb facs="nei.j4c.15.42" />
-                <note type="curatorial">244 House Collection</note>
-                <fw type="curatorial">42</fw>
+                <pb facs="nei.j4c.36.35-36_0001a" />
                 
-                <fw type="imprint">
-                    <figure/>
-                DAILY                                   SUNDAY    
-                <lb/>
-                        EDITORIAL DEPARTMENT
-                <lb/>
-                        ST. LOUIS POST-DISPATCH
-                <lb/>
-                        PUBLISHED BY THE PULITZER PUBLISHING CO.
-                <lb/>
-                        ST. LOUIS, MO.
-                
-                </fw>
                 
                 <opener>
-                <dateline>Wednesday.        <note type="clerical">[Apr. 29 or May 6, 1931]</note></dateline>
+                <dateline>Skryim, 6-20-'62</dateline>
                 
                 
-                
-                <salute>Dear Comrade:</salute>
+                <salute>Dear Slade:</salute>
                 </opener>
-                <p>Write to Mr. Clair Kenamore, Post-Dispatch for permission to use the Millay material from the Anniversary Number, referring him to me. This is the best way, I'm sure, for you will want permission direct. I think Kenamore will arrange. I know him well and he often comes up to my office for little helps and favors<del/> that happen to be in my line. I'm glad you want to run the Millay stuff. It's bully. Here's a hint in connection with the matter. In writing Kenamore, state that you have heard of the appearance of "The Drift of Civilization" (Simon and Schuster),, which contains the 26 special articles from the Anniversary Number, and that you plan to run an article about it soon. This should help. I've just done a two col. article about the book for the body of the paper. <add>It's a whale of a book &amp; you will like it.</add></p>
+                
+                <p>I've just heard the good news about the South American mission, and I feel like yelling! This is perfectly bully! It was hard to think of you as "retired", and now we don't have to try!</p>
+                
+                <p>I'm proud of you too, Slade &#8212; which is nothing new. While I know nothing about taxation, except that I don't enjoy being taxed to any hilarious extent, I feel sure
+                
+                <pb facs="nei.j4c.36.35-36_0001b"/>
+                <fw type="authorial">-2-</fw><fw type="curatorial"><del/></fw>
+                
+                something very important indeed could be done about taxation in South America. I'm eager to know something of your task down there.</p>
+                
+                <p>Of course Nita will be with you. She should find some exciting birds to watch down there!!</p>
+                
+                <p>Things move on nicely here. I <del>ded</del> dedicated the Willa Cather Pioneer Memorial in Red Cloud, Nebraska,
+                
+                <fw type="curatorial">35</fw>
+                    <pb facs="nei.j4c.36.35-36_0002a"/>
+                <fw type="authorial">-3-</fw>
+                
+                on May 26th, It was quite an affair. I made a little speech on the street, opening the building to the public, and read poetry at the banquet in the evening.</p>
+                
+                <p>In August I'm to make some tapes for <del>the</del> National Educational Television &#8212; that is, I'm to be the "host" for the <del><unclear>various</unclear></del><add>various</add><del/> programs on <hi rend="underline">our</hi> pioneer heritage They <del/> say they
+                
+                <pb facs="nei.j4c.36.35-36_0002b"/>
+                <fw type="authorial">-4-</fw><fw type="curatorial"><del/></fw>
+                
+                want my "face and voice on the films". Next semester my Epic America will be given in two sections by <hi rend="caps">TV</hi>. I'll do both sections.</p>
+                
+                <p>Several weeks ago I saw my bust in the Hall of Fame section of the rotunda in the Capitol at Lincoln, Neb. It is just opposite Sen. Geo. W. Norris.</p>
+                
+                <p>I'm going to Oregon in July.</p>
                 <closer>
-                <salute>With love always,</salute>
+                <salute>Love to each of you &#8212;</salute> <signed>John Neihardt</signed></closer>
                 
-                <signed>Jno.</signed>
-                </closer>
-                
-                <note>Wednesd</note>
+                <fw type="curatorial">36</fw>
             </div1>
         </body>
         

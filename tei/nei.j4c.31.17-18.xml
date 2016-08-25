@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.15.42">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.31.17-18">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Letter from John G. Neihardt to Julius T. House, April 29 or May 6, 1931</title>
+                <title type="main">Letter from John G. Neihardt to Lucile Aly, February 2, 1961</title>
                 <author>Neihardt, John Gneisenau, 1881-1973</author>
                 <principal>Gossin, Pamela</principal>
             </titleStmt>
             <editionStmt>
                 <edition>
-                    <date>2013</date>
+                    <date>2016</date>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-                <idno>nei.j4c.15.42</idno>
+                <idno>nei.j4c.31.17-18</idno>
                 <availability>
                     <p></p>
                 </availability>
@@ -42,9 +42,9 @@
             <sourceDesc>
                 <bibl>
                     <author>Neihardt, John Gneisenau, 1881-1973</author>
-                    <title level="m" type="main">Letter from John G. Neihardt to Julius T. House</title>
-                    <date when="1931">April 29 or May 6, 1931</date>
-                    <extent>1 page</extent>
+                    <title level="m" type="main">Letter from John G. Neihardt to Lucile Aly</title>
+                    <date when="1961-02-02">February 2, 1961</date>
+                    <extent>2 pages, plus envelope</extent>
                 </bibl>
                 <msDesc>
                     <msIdentifier>
@@ -52,20 +52,20 @@
                         <idno></idno>
                     </msIdentifier>
                     <msContents>
-                        <p>1 type-written page</p>
+                        <p>2 hand-written pages, plus envelope</p>
                     </msContents>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
                                 <support></support>
-                                <extent>1 page
+                                <extent>2 pages
                                     <dimensions unit="mm"><height></height><width></width></dimensions>
                                 </extent>
                                 <condition>
                                     <p></p></condition>
                             </supportDesc>
                         </objectDesc>
-                        <handDesc hands="2">
+                        <handDesc hands="1">
                             <handNote xml:id="type"><p>Media: type</p></handNote>
                             <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
                         </handDesc>
@@ -108,22 +108,22 @@
                     <term></term>
                 </keywords>
                 <keywords scheme="lcsh" n="people">
-                    <term>Kenamore, Clair</term>
-<term>Millay, Edna St. Vincent, 1892-1950</term>
+                    <term></term>
                 </keywords>
                 <keywords scheme="lcsh" n="places">
-                    <term>St. Louis (Mo.)</term>
+                    <term type="from">Columbia (Mo.)</term>
+<term>New York</term>
+<term type="to">Eugene (Ore.)</term>
                 </keywords>
-                <keywords scheme="lcsh" n="works">
-                    <term>St. Louis Post-Dispatch</term>
-<term>The Drift of Civilization</term>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
                 </keywords>
             </textClass>
-            <particDesc><person role="recipient"><persName>House, Julius T. (Julius Temple)</persName></person></particDesc>
+            <particDesc><person role="recipient"><persName>Aly, Lucile Folse, 1913-</persName></person></particDesc>
         </profileDesc>
         
         <revisionDesc>
-            <change when="2014-03-25"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords</change>
+            <change when="2016"><name xml:id="lkw">Weakly, Laura K.</name> Metadata Encoding</change>
             <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
             <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
             <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -136,42 +136,95 @@
             
             <div1 type="letter">
                 
-                <pb facs="nei.j4c.15.42" />
-                <note type="curatorial">244 House Collection</note>
-                <fw type="curatorial">42</fw>
+                <pb facs="nei.j4c.31.17-18_0001" />
+                <note type="curatorial">124-2       Aly Collection</note>
+                <fw type="curatorial">17</fw>
                 
-                <fw type="imprint">
-                    <figure/>
-                DAILY                                   SUNDAY    
-                <lb/>
-                        EDITORIAL DEPARTMENT
-                <lb/>
-                        ST. LOUIS POST-DISPATCH
-                <lb/>
-                        PUBLISHED BY THE PULITZER PUBLISHING CO.
-                <lb/>
-                        ST. LOUIS, MO.
+                <fw type="letterhead">
+                <hi rend="caps">UNIVERSITY OF MISSOURI</hi>
+                    <lb/>
+                <hi rend="caps">COLUMBIA</hi>
+                    <lb/>
                 
+                
+                
+                <hi rend="caps">COLLEGE OF ARTS AND SCIENCE</hi>
+                    <lb/>
+                <hi rend="caps">DEPARTMENT OF ENGLISH</hi>
                 </fw>
                 
                 <opener>
-                <dateline>Wednesday.        <note type="clerical">[Apr. 29 or May 6, 1931]</note></dateline>
+                <dateline>Feb. 2,'61</dateline>	
                 
                 
                 
-                <salute>Dear Comrade:</salute>
+                <salute>Dear Lucile:</salute>
                 </opener>
-                <p>Write to Mr. Clair Kenamore, Post-Dispatch for permission to use the Millay material from the Anniversary Number, referring him to me. This is the best way, I'm sure, for you will want permission direct. I think Kenamore will arrange. I know him well and he often comes up to my office for little helps and favors<del/> that happen to be in my line. I'm glad you want to run the Millay stuff. It's bully. Here's a hint in connection with the matter. In writing Kenamore, state that you have heard of the appearance of "The Drift of Civilization" (Simon and Schuster),, which contains the 26 special articles from the Anniversary Number, and that you plan to run an article about it soon. This should help. I've just done a two col. article about the book for the body of the paper. <add>It's a whale of a book &amp; you will like it.</add></p>
-                <closer>
-                <salute>With love always,</salute>
+                <p>I really am a bit worried, but this is the "year of the Biography", and my faith in the Pattern is immense.</p>
                 
-                <signed>Jno.</signed>
+                <p>I've just met my new classes &#8212; 190 or more <hi rend="underline">in Epic America</hi> (all very attentive) and eight in 
+                    <hi rend="underline">Critical Essay</hi>. The eight are evidently the sort I want.</p>
+                
+                <p>Here is a confession: I just do <hi rend="underline">not</hi> know what you'ns there sent me as a birthday present! Isn't this ridiculous? Evidently things got mixed up. I do thank you just the same.</p>
+                
+                <p>And <hi rend="underline">did</hi> you write me since the Birthday Party,
+                    
+                    <note type="authorial">(over)</note>
+                    <pb facs="nei.j4c.31.17-18_0002a"/>
+                    <fw type="curatorial">18</fw>
+                    
+                    since I sent the New York <hi rend="underline">letters</hi> to you? I've feared that mail may have been lost here. <hi rend="underline">Two</hi> expected letters have not turned up.</p>
+                <closer>
+                <salute>Anyway, 
+                    the same affection always.</salute>
+                
+                <signed>John N.</signed>
                 </closer>
                 
-                <note>Wednesd</note>
+                
+            </div1>
+            
+            
+            
+            <div1 type="envelope">
+                <pb facs="nei.j4c.31.17-18_0002b"/>
+                
+                <ab type="return">
+                <hi rend="caps">AFTER 10 DAYS RETURN TO</hi>
+                    <lb/>
+                <hi rend="caps">UNIVERSITY OF MISSOURI</hi>
+                    <lb/>
+                <hi rend="caps">COLUMBIA, MISSOURI</hi>
+                Neihardt
+                <hi rend="underline">209 Jesse</hi> 
+                </ab>
+                <note type="authorial">Air<hi rend="underline">Mail</hi></note>
+                
+                <ab type="postmark"><unclear cert="high">COLU</unclear>MBIA, <unclear cert="high">MO></unclear> FEB 2 <unclear/> PM 1961</ab>
+                <figure>
+                    <figDesc>4 Cent Stamp</figDesc>
+                    <p>4¢ LINCOLN U.S. POSTAGE</p>
+                </figure>
+                <figure>
+                    <figDesc>4 Cent Stamp</figDesc>
+                    <p>4¢ LINCOLN U.S. POSTAGE</p>
+                </figure>
+                
+                <ab type="address">
+                    <address>
+                <addrLine>Dr. Lucile Aly,</addrLine>
+                <addrLine>1138 22nd Ave., East</addrLine>
+                <addrLine>Eugene,</addrLine>
+                <addrLine>Oregon.</addrLine>
+                    </address>
+                </ab>
+                
+                
             </div1>
         </body>
         
         <back></back>
     </text>
 </TEI>
+
+

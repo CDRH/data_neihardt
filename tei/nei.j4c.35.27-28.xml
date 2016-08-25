@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.15.42">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.35.27-28">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Letter from John G. Neihardt to Julius T. House, April 29 or May 6, 1931</title>
+                <title type="main">Letter from John G. Neihardt to Slade Kendrick, February 26, 1962</title>
                 <author>Neihardt, John Gneisenau, 1881-1973</author>
                 <principal>Gossin, Pamela</principal>
             </titleStmt>
             <editionStmt>
                 <edition>
-                    <date>2013</date>
+                    <date>2016</date>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-                <idno>nei.j4c.15.42</idno>
+                <idno>nei.j4c.35.27-28_0001-2</idno>
                 <availability>
                     <p></p>
                 </availability>
@@ -42,9 +42,9 @@
             <sourceDesc>
                 <bibl>
                     <author>Neihardt, John Gneisenau, 1881-1973</author>
-                    <title level="m" type="main">Letter from John G. Neihardt to Julius T. House</title>
-                    <date when="1931">April 29 or May 6, 1931</date>
-                    <extent>1 page</extent>
+                    <title level="m" type="main">Letter from John G. Neihardt to Slade Kendrick</title>
+                    <date when="1962-02-26">February 26, 1962</date>
+                    <extent>4 pages</extent>
                 </bibl>
                 <msDesc>
                     <msIdentifier>
@@ -52,20 +52,20 @@
                         <idno></idno>
                     </msIdentifier>
                     <msContents>
-                        <p>1 type-written page</p>
+                        <p>4 hand-written pages</p>
                     </msContents>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
                                 <support></support>
-                                <extent>1 page
+                                <extent>4 pages
                                     <dimensions unit="mm"><height></height><width></width></dimensions>
                                 </extent>
                                 <condition>
                                     <p></p></condition>
                             </supportDesc>
                         </objectDesc>
-                        <handDesc hands="2">
+                        <handDesc hands="1">
                             <handNote xml:id="type"><p>Media: type</p></handNote>
                             <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
                         </handDesc>
@@ -108,22 +108,23 @@
                     <term></term>
                 </keywords>
                 <keywords scheme="lcsh" n="people">
-                    <term>Kenamore, Clair</term>
-<term>Millay, Edna St. Vincent, 1892-1950</term>
+                    <term>Thompson, Harold William, 1891-1964</term>
+<term>Cather, Willa, 1873-1947</term>
+<term>Kendrick, Nita Collier</term>
                 </keywords>
                 <keywords scheme="lcsh" n="places">
-                    <term>St. Louis (Mo.)</term>
+                    <term>South Dakota</term>
+<term>Lincoln (Neb.)</term>
                 </keywords>
                 <keywords scheme="lcsh" n="works">
-                    <term>St. Louis Post-Dispatch</term>
-<term>The Drift of Civilization</term>
+                    <term></term>
                 </keywords>
             </textClass>
-            <particDesc><person role="recipient"><persName>House, Julius T. (Julius Temple)</persName></person></particDesc>
+            <particDesc><person role="recipient"><persName>Kendrick, M. Slade (Myron Slade)</persName></person></particDesc>
         </profileDesc>
         
         <revisionDesc>
-            <change when="2014-03-25"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords</change>
+            <change when="2016"><name xml:id="lkw">Weakly, Laura K.</name> Metadata Encoding</change>
             <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
             <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
             <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -136,39 +137,57 @@
             
             <div1 type="letter">
                 
-                <pb facs="nei.j4c.15.42" />
-                <note type="curatorial">244 House Collection</note>
-                <fw type="curatorial">42</fw>
+                <pb facs="nei.j4c.35.27-28_0001a" />
                 
-                <fw type="imprint">
-                    <figure/>
-                DAILY                                   SUNDAY    
-                <lb/>
-                        EDITORIAL DEPARTMENT
-                <lb/>
-                        ST. LOUIS POST-DISPATCH
-                <lb/>
-                        PUBLISHED BY THE PULITZER PUBLISHING CO.
-                <lb/>
-                        ST. LOUIS, MO.
-                
-                </fw>
                 
                 <opener>
-                <dateline>Wednesday.        <note type="clerical">[Apr. 29 or May 6, 1931]</note></dateline>
+                <dateline>Skyrim, Feb. 26, '62.</dateline>
                 
                 
-                
-                <salute>Dear Comrade:</salute>
+                <salute>Dear Slade:</salute>
                 </opener>
-                <p>Write to Mr. Clair Kenamore, Post-Dispatch for permission to use the Millay material from the Anniversary Number, referring him to me. This is the best way, I'm sure, for you will want permission direct. I think Kenamore will arrange. I know him well and he often comes up to my office for little helps and favors<del/> that happen to be in my line. I'm glad you want to run the Millay stuff. It's bully. Here's a hint in connection with the matter. In writing Kenamore, state that you have heard of the appearance of "The Drift of Civilization" (Simon and Schuster),, which contains the 26 special articles from the Anniversary Number, and that you plan to run an article about it soon. This should help. I've just done a two col. article about the book for the body of the paper. <add>It's a whale of a book &amp; you will like it.</add></p>
-                <closer>
-                <salute>With love always,</salute>
+                <p>I'm sure you know that my failure to write sooner just doesn't mean a thing. I <hi rend="underline">do</hi> think of you very often, but the fact is that my letter writing has become more of a chore of late months. I write what I must write, and of I neglect, it is the friends I trust most who are slighted. I thought my referring to you would boost my boy's morale, and it did. He was proud of your letter, as he well might be. I thought you would merely send him an article about <unclear/>
+                    
+                    <pb facs="nei.j4c.35.27-28_0001b"/>
+                    <fw type="authorial">-2-</fw>
+                    <fw type="curatorial"><del/></fw>
+                    
+                    you sent me one, I loaned it and lost it. I <hi rend="underline">do</hi> greatly appreciate your goodness in writing a longish letter to the <del>boy</del><add>boy.</add> He thus becomes one of your students too.</p> 
                 
-                <signed>Jno.</signed>
+                <p>During the winter sometime I sent Thompson a book. Did he mention it to you? (Or was it a record?)</p>
+                
+                <p>Our winter <hi rend="underline">was</hi> severe for five or six weeks, but since <del/><add>then</add> it has been mild. I had no trouble getting to classes, and the cold was stimulating.</p>
+                
+                <p>Last week I spent several days talking and reading <del/> at
+                    
+                    <fw type="curatorial">27</fw>
+                    <pb facs="nei.j4c.35.27-28_0002a"/>
+                    <fw type="authorial">-3-</fw>
+                    
+                    the University of South Dakota. Had a bully time, with explosive responses. Got snowed in &#8212; 17 inches of the stuff! But I got back for my last Tuesday class.</p>
+                
+                <p>It's dear of <del/> you to boost the record. While in So. Dakota I made some more recordings &#8212; one videotape. Also did a <del/> <hi rend="caps">TV</hi> program and one on radio.</p> 
+               
+                <p>You are dear to me and I am truly grateful for your friendship.
+                    
+                    <pb facs="nei.j4c.35.27-28_0002b"/>
+                    <fw type="authorial">-4-</fw>
+                    <fw type="curatorial"><del/></fw>
+                    
+                    Always be sure of that.</p>
+                
+                <p>Did I tell you we stopped Epic America registrations at <del><unclear>2</unclear>00</del> 200? Fine class &amp; fine auditorium!</p>
+                
+                <p>There will be a big Willa Cather Memorial dinner in May, and <del>I'm asked</del> I am asked to do the chief stunt. I'll go, of course.</p>
+                
+                <p><hi rend="italic">Did</hi> I tell you about the Lincoln dedication on Dec. 7th? Surely I did. It was lovely.</p> 
+                
+                <p>Affection for you &amp; Nita. You <hi rend="underline">are</hi> dear.</p>
+                <closer>
+                <signed>John N.</signed>
                 </closer>
                 
-                <note>Wednesd</note>
+                <fw type="curatorial">28</fw>
             </div1>
         </body>
         

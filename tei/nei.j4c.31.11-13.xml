@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.15.42">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.31.11-13">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Letter from John G. Neihardt to Julius T. House, April 29 or May 6, 1931</title>
+                <title type="main">Letter from John G. Neihardt to Slade Kendrick, January 18, 1961</title>
                 <author>Neihardt, John Gneisenau, 1881-1973</author>
                 <principal>Gossin, Pamela</principal>
             </titleStmt>
             <editionStmt>
                 <edition>
-                    <date>2013</date>
+                    <date>2016</date>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-                <idno>nei.j4c.15.42</idno>
+                <idno>nei.j4c.31.11-13</idno>
                 <availability>
                     <p></p>
                 </availability>
@@ -42,9 +42,9 @@
             <sourceDesc>
                 <bibl>
                     <author>Neihardt, John Gneisenau, 1881-1973</author>
-                    <title level="m" type="main">Letter from John G. Neihardt to Julius T. House</title>
-                    <date when="1931">April 29 or May 6, 1931</date>
-                    <extent>1 page</extent>
+                    <title level="m" type="main">Letter from John G. Neihardt to Slade Kendrick</title>
+                    <date when="1961-01-18">January 18, 1961</date>
+                    <extent>3 pages</extent>
                 </bibl>
                 <msDesc>
                     <msIdentifier>
@@ -52,20 +52,20 @@
                         <idno></idno>
                     </msIdentifier>
                     <msContents>
-                        <p>1 type-written page</p>
+                        <p>3 hand-written pages</p>
                     </msContents>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
                                 <support></support>
-                                <extent>1 page
+                                <extent>3 pages
                                     <dimensions unit="mm"><height></height><width></width></dimensions>
                                 </extent>
                                 <condition>
                                     <p></p></condition>
                             </supportDesc>
                         </objectDesc>
-                        <handDesc hands="2">
+                        <handDesc hands="1">
                             <handNote xml:id="type"><p>Media: type</p></handNote>
                             <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
                         </handDesc>
@@ -108,22 +108,29 @@
                     <term></term>
                 </keywords>
                 <keywords scheme="lcsh" n="people">
-                    <term>Kenamore, Clair</term>
-<term>Millay, Edna St. Vincent, 1892-1950</term>
+                    <term>Truman, Harry S., 1884-1972</term>
+<term>Neihardt, Mona Martinsen</term>
+<term>Schaeffer</term>
+<term>Kendrick, Nita Collier</term>
                 </keywords>
                 <keywords scheme="lcsh" n="places">
-                    <term>St. Louis (Mo.)</term>
+                    <term type="from">Columbia (Mo.)</term>
+<term>St. Louis (Mo.)</term>
                 </keywords>
                 <keywords scheme="lcsh" n="works">
-                    <term>St. Louis Post-Dispatch</term>
-<term>The Drift of Civilization</term>
+                    <term>The Missourian</term>
+<term>Columbia Tribune</term>
+<term>Kansas City Times</term>
+<term>Chicago Tribune</term>
+<term>St. Louis Post-Dispatch</term>
+<term>St. Louis Globe-Democrat</term>
                 </keywords>
             </textClass>
-            <particDesc><person role="recipient"><persName>House, Julius T. (Julius Temple)</persName></person></particDesc>
+            <particDesc><person role="recipient"><persName>Kendrick, M. Slade (Myron Slade)</persName></person></particDesc>
         </profileDesc>
         
         <revisionDesc>
-            <change when="2014-03-25"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords</change>
+            <change when="2016"><name xml:id="lkw">Weakly, Laura K.</name> Metadata Encoding</change>
             <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
             <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
             <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -136,39 +143,71 @@
             
             <div1 type="letter">
                 
-                <pb facs="nei.j4c.15.42" />
-                <note type="curatorial">244 House Collection</note>
-                <fw type="curatorial">42</fw>
+                <pb facs="nei.j4c.31.11-13_0001" />
                 
-                <fw type="imprint">
-                    <figure/>
-                DAILY                                   SUNDAY    
-                <lb/>
-                        EDITORIAL DEPARTMENT
-                <lb/>
-                        ST. LOUIS POST-DISPATCH
-                <lb/>
-                        PUBLISHED BY THE PULITZER PUBLISHING CO.
-                <lb/>
-                        ST. LOUIS, MO.
+                <fw type="curatorial">11</fw>
                 
+                <fw type="letterhead">
+                <hi rend="caps">UNIVERSITY OF MISSOURI</hi>
+                    <lb/>
+                <hi rend="caps">COLUMBIA</hi>
+                    <lb/>
+                
+                
+                
+                <hi rend="caps">COLLEGE OF ARTS AND SCIENCE</hi>
+                    <lb/>
+                <hi rend="caps">DEPARTMENT OF ENGLISH</hi>
                 </fw>
                 
                 <opener>
-                <dateline>Wednesday.        <note type="clerical">[Apr. 29 or May 6, 1931]</note></dateline>
+                <dateline>1-18-61</dateline>	
                 
                 
                 
-                <salute>Dear Comrade:</salute>
+                <salute>Dear Slade:</salute>
                 </opener>
-                <p>Write to Mr. Clair Kenamore, Post-Dispatch for permission to use the Millay material from the Anniversary Number, referring him to me. This is the best way, I'm sure, for you will want permission direct. I think Kenamore will arrange. I know him well and he often comes up to my office for little helps and favors<del/> that happen to be in my line. I'm glad you want to run the Millay stuff. It's bully. Here's a hint in connection with the matter. In writing Kenamore, state that you have heard of the appearance of "The Drift of Civilization" (Simon and Schuster),, which contains the 26 special articles from the Anniversary Number, and that you plan to run an article about it soon. This should help. I've just done a two col. article about the book for the body of the paper. <add>It's a whale of a book &amp; you will like it.</add></p>
-                <closer>
-                <salute>With love always,</salute>
+                <p>Your dear letter was read, with a number of others, to the 85 guests at my surprise birthday party. It was good to hear it! We did have a whale of a party! A total surprise to me. I enclose the account in the Missourian. There were articles in the Columbia Tribune, <hi rend="caps">K. C.</hi> Times, Chicago Tribune etc. etc., but this one gives a fair notion of what took place. Truman, the Governor, the Commissioner of Indian Affairs wrote fine letters.</p>
+               
+                <p>We are about to
                 
-                <signed>Jno.</signed>
+                <pb facs="nei.j4c.31.11-13_0002"/>
+                    <fw type="authorial">-2-</fw>
+                    <fw type="curatorial">12</fw>
+                    
+                    begin a new semester. <hi rend="underline">Epic America</hi> will be big again &#8212; 100 <hi rend="italic">pre</hi>-registration cards are gone. Regular registration on Jan. 31.</p>
+                
+                <p>I was in St. Louis over the weekend, finding a goldsmith to work on Mona's ring. My old friend Schaeffer, who did fine work for me over a long period, is dead. (So many are dead!) I went into the old Post-Dispatch bldg. <hi rend="underline">It's empty</hi>! Silence where there used to be such bustle and vibrant power. The Post has moved
+                   
+                   <pb facs="nei.j4c.31.11-13_0003"/>
+                    <fw type="curatorial">13</fw>
+                    <fw type="authorial">-3-</fw>
+                    
+                    
+                    <fw type="letterhead">
+                        <hi rend="caps">UNIVERSITY OF MISSOURI</hi>
+                        <lb/>
+                        <hi rend="caps">COLUMBIA</hi>
+                        <lb/>
+                        
+                        
+                        
+                        <hi rend="caps">COLLEGE OF ARTS AND SCIENCE</hi>
+                        <lb/>
+                        <hi rend="caps">DEPARTMENT OF ENGLISH</hi>
+                    </fw>
+                    
+                    to the Globe-Democrat building, which now belongs to the <hi rend="caps">P-D</hi>. It was <del>like</del> like a queer dream in which nothing happens right to <del/>walk around in that empty building! Life here <hi rend="italic">is</hi> a queer business, isn't it? It 
+                    <hi rend="underline">seems</hi> so because we know so very little about life.</p>
+                
+                <p>Anyway, a friend is precious, and you are a friend.</p> 
+                <closer>
+                <salute>Affectionately,</salute>
+                <signed>John N.</signed> 
                 </closer>
                 
-                <note>Wednesd</note>
+                <note type="authorial">Kindest thoughts for Nita.</note>
+                
             </div1>
         </body>
         

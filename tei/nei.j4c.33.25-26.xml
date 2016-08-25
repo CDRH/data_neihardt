@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.15.42">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.33.25-26">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Letter from John G. Neihardt to Julius T. House, April 29 or May 6, 1931</title>
+                <title type="main">Letter from John G. Neihardt to Dr. Slade Kendrick, September 8, 1961</title>
                 <author>Neihardt, John Gneisenau, 1881-1973</author>
                 <principal>Gossin, Pamela</principal>
             </titleStmt>
             <editionStmt>
                 <edition>
-                    <date>2013</date>
+                    <date>2016</date>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-                <idno>nei.j4c.15.42</idno>
+                <idno>nei.j4c.33.25-26</idno>
                 <availability>
                     <p></p>
                 </availability>
@@ -42,9 +42,9 @@
             <sourceDesc>
                 <bibl>
                     <author>Neihardt, John Gneisenau, 1881-1973</author>
-                    <title level="m" type="main">Letter from John G. Neihardt to Julius T. House</title>
-                    <date when="1931">April 29 or May 6, 1931</date>
-                    <extent>1 page</extent>
+                    <title level="m" type="main">Letter from John G. Neihardt to Dr. Slade Kendrick</title>
+                    <date when="1961-09-08">September 8, 1961</date>
+                    <extent>4 pages</extent>
                 </bibl>
                 <msDesc>
                     <msIdentifier>
@@ -52,20 +52,20 @@
                         <idno></idno>
                     </msIdentifier>
                     <msContents>
-                        <p>1 type-written page</p>
+                        <p>4 hand-written pages</p>
                     </msContents>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
                                 <support></support>
-                                <extent>1 page
+                                <extent>4 pages
                                     <dimensions unit="mm"><height></height><width></width></dimensions>
                                 </extent>
                                 <condition>
                                     <p></p></condition>
                             </supportDesc>
                         </objectDesc>
-                        <handDesc hands="2">
+                        <handDesc hands="1">
                             <handNote xml:id="type"><p>Media: type</p></handNote>
                             <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
                         </handDesc>
@@ -108,22 +108,30 @@
                     <term></term>
                 </keywords>
                 <keywords scheme="lcsh" n="people">
-                    <term>Kenamore, Clair</term>
-<term>Millay, Edna St. Vincent, 1892-1950</term>
+                    <term>Aly, Lucile Folse, 1913-</term>
+                    <term>Petri, Hilda Neihardt</term>
+<term>Mills, Enos A., 1870-1922</term>
+<term>Mills, Esther Burnell</term>
+<term>Kendrick, Nita Collier</term>
                 </keywords>
                 <keywords scheme="lcsh" n="places">
-                    <term>St. Louis (Mo.)</term>
+                    <term type="from">Columbia (Mo.)</term>
+<term>Oregon</term>
+<term>Denver (Colo.)</term>
+<term>Estes Park (Colo.)</term>
+<term>Pike's Peak (Colo.)</term>
+<term>Rocky Mountain National Park</term>
+<term>Lincoln (Neb.)</term>
                 </keywords>
                 <keywords scheme="lcsh" n="works">
-                    <term>St. Louis Post-Dispatch</term>
-<term>The Drift of Civilization</term>
+                    <term>Lyric and dramatic poems</term>
                 </keywords>
             </textClass>
-            <particDesc><person role="recipient"><persName>House, Julius T. (Julius Temple)</persName></person></particDesc>
+            <particDesc><person role="recipient"><persName>Kendrick, M. Slade (Myron Slade)</persName></person></particDesc>
         </profileDesc>
         
         <revisionDesc>
-            <change when="2014-03-25"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords</change>
+            <change when="2016"><name xml:id="lkw">Weakly, Laura K.</name> Metadata Encoding</change>
             <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
             <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
             <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -136,42 +144,61 @@
             
             <div1 type="letter">
                 
-                <pb facs="nei.j4c.15.42" />
-                <note type="curatorial">244 House Collection</note>
-                <fw type="curatorial">42</fw>
+                <pb facs="nei.j4c.33.25-26_0001a" />
                 
-                <fw type="imprint">
-                    <figure/>
-                DAILY                                   SUNDAY    
-                <lb/>
-                        EDITORIAL DEPARTMENT
-                <lb/>
-                        ST. LOUIS POST-DISPATCH
-                <lb/>
-                        PUBLISHED BY THE PULITZER PUBLISHING CO.
-                <lb/>
-                        ST. LOUIS, MO.
                 
-                </fw>
+               <fw type="letterhead">
+                Skyrim Farm             <hi rend="caps">JOHN G. NEIHARDT</hi>
+                   <lb/>
+                Route 7
+                   <lb/>
+                Columbia, Mo.
+               </fw>
                 
                 <opener>
-                <dateline>Wednesday.        <note type="clerical">[Apr. 29 or May 6, 1931]</note></dateline>
+                <dateline>Sep. 8, 61</dateline>
                 
                 
-                
-                <salute>Dear Comrade:</salute>
+                <salute>Dear Slade:</salute>
                 </opener>
-                <p>Write to Mr. Clair Kenamore, Post-Dispatch for permission to use the Millay material from the Anniversary Number, referring him to me. This is the best way, I'm sure, for you will want permission direct. I think Kenamore will arrange. I know him well and he often comes up to my office for little helps and favors<del/> that happen to be in my line. I'm glad you want to run the Millay stuff. It's bully. Here's a hint in connection with the matter. In writing Kenamore, state that you have heard of the appearance of "The Drift of Civilization" (Simon and Schuster),, which contains the 26 special articles from the Anniversary Number, and that you plan to run an article about it soon. This should help. I've just done a two col. article about the book for the body of the paper. <add>It's a whale of a book &amp; you will like it.</add></p>
-                <closer>
-                <salute>With love always,</salute>
+                <p>I do too like you as much as ever! I know I have not written for a long time, but that does not mean I feel less affection for you. The fact is that I write as few letters as possible because of my eyes. I was in Oregon most of the summer working with Dr. Lucile Aly on the biography. Then on the way home I had Hilda meet me with the station wagon and her three children at Denver. We investigated the eastern Rockies from Estes
                 
-                <signed>Jno.</signed>
+                <pb facs="nei.j4c.25-26_0001b"/>
+                <fw type="authorial">-2-</fw>
+                    <fw type="curatorial"><del/></fw>
+                
+                Park to Pike's Peak, and I visited the widow of my old friend, Enos Mills, who, as you may know, was the "Father of the Rocky Mt. National Park"</p>
+                
+                <p>Two weeks ago I went to Lincoln to make some videotapes for the Nebraska University <hi rend="caps">TV.</hi></p>
+                
+                <p>You know of the <del>bron<unclear>z</unclear></del> two bronze busts &#8212; one for the Uni. Library here &amp; one for the Capitol Bldg at Lincoln. Soon I 
+                
+                <fw type="curatorial">25</fw>
+                    <pb facs="nei.j4c.33.25-26_0002a"/>
+                <fw type="authorial">-3-</fw>
+                
+                must go back to Lincoln for the unveiling of the bust in the rotunda of the Capitol.</p>
+                
+                <p>The new record of my Lyrics is ready, and I am sending you a copy. I'm sure you'll like some of it. I will get a mailing envelop<sic>envelope</sic> for it on Wednesday.</p>
+                
+                <p>My Epic America class is the largest ever. It will be held (tomorrow for the first time) in the new Arts &amp; Science Auditorium</p>
+                
+                <pb facs="nei.j4c.33.25-26_0002b"/>
+                <fw type="authorial">-4-</fw>
+                    <fw type="curatorial"><del/></fw>
+                
+                <p>Tell me what you did this summer, and how you and Nita are &#8212; and other nice things.</p>
+                <closer>
+                <salute>With the old affection -</salute>
+                
+                <signed>John N.</signed>
                 </closer>
                 
-                <note>Wednesd</note>
+                <fw type="curatorial">26</fw>
             </div1>
         </body>
         
         <back></back>
     </text>
 </TEI>
+

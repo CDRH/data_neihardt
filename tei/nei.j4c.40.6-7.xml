@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<!-- <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?> -->
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.15.42">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.40.6-7">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Letter from John G. Neihardt to Julius T. House, April 29 or May 6, 1931</title>
+                <title type="main">Letter from John G. Neihardt to Slade Kendrick, May 6, 1963</title>
                 <author>Neihardt, John Gneisenau, 1881-1973</author>
                 <principal>Gossin, Pamela</principal>
             </titleStmt>
             <editionStmt>
                 <edition>
-                    <date>2013</date>
+                    <date>2016</date>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-                <idno>nei.j4c.15.42</idno>
+                <idno>nei.j4c.40.6-7</idno>
                 <availability>
                     <p></p>
                 </availability>
@@ -42,9 +42,9 @@
             <sourceDesc>
                 <bibl>
                     <author>Neihardt, John Gneisenau, 1881-1973</author>
-                    <title level="m" type="main">Letter from John G. Neihardt to Julius T. House</title>
-                    <date when="1931">April 29 or May 6, 1931</date>
-                    <extent>1 page</extent>
+                    <title level="m" type="main">Letter from John G. Neihardt to Slade Kendrick</title>
+                    <date when="1963-05-06">May 6, 1963</date>
+                    <extent>2 pages</extent>
                 </bibl>
                 <msDesc>
                     <msIdentifier>
@@ -52,20 +52,20 @@
                         <idno></idno>
                     </msIdentifier>
                     <msContents>
-                        <p>1 type-written page</p>
+                        <p>2 hand-written pages</p>
                     </msContents>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
                                 <support></support>
-                                <extent>1 page
+                                <extent>2 pages
                                     <dimensions unit="mm"><height></height><width></width></dimensions>
                                 </extent>
                                 <condition>
                                     <p></p></condition>
                             </supportDesc>
                         </objectDesc>
-                        <handDesc hands="2">
+                        <handDesc hands="1">
                             <handNote xml:id="type"><p>Media: type</p></handNote>
                             <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
                         </handDesc>
@@ -108,22 +108,31 @@
                     <term></term>
                 </keywords>
                 <keywords scheme="lcsh" n="people">
-                    <term>Kenamore, Clair</term>
-<term>Millay, Edna St. Vincent, 1892-1950</term>
+                    <term>Kendrick, Nita Collier</term>
                 </keywords>
                 <keywords scheme="lcsh" n="places">
-                    <term>St. Louis (Mo.)</term>
+                    <term></term>
                 </keywords>
                 <keywords scheme="lcsh" n="works">
-                    <term>St. Louis Post-Dispatch</term>
-<term>The Drift of Civilization</term>
+                    <term>The Song of Jed Smith</term>
                 </keywords>
             </textClass>
-            <particDesc><person role="recipient"><persName>House, Julius T. (Julius Temple)</persName></person></particDesc>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName>Columbia (Mo.)</placeName>
+<date when="1963-05-06"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Kendrick, M. Slade (Myron Slade)</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+            <particDesc><person role="recipient"><persName>Kendrick, M. Slade (Myron Slade)</persName></person></particDesc>
         </profileDesc>
         
         <revisionDesc>
-            <change when="2014-03-25"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords</change>
+            <change when="2016"><name xml:id="lkw">Weakly, Laura K.</name> Metadata Encoding</change>
             <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
             <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
             <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -136,39 +145,40 @@
             
             <div1 type="letter">
                 
-                <pb facs="nei.j4c.15.42" />
-                <note type="curatorial">244 House Collection</note>
-                <fw type="curatorial">42</fw>
+                <pb facs="nei.j4c.40.6-7_0001" />
                 
-                <fw type="imprint">
-                    <figure/>
-                DAILY                                   SUNDAY    
-                <lb/>
-                        EDITORIAL DEPARTMENT
-                <lb/>
-                        ST. LOUIS POST-DISPATCH
-                <lb/>
-                        PUBLISHED BY THE PULITZER PUBLISHING CO.
-                <lb/>
-                        ST. LOUIS, MO.
+                <fw type="curatorial">6</fw>
                 
+                <fw type="letterhead">
+                <hi rend="caps">JOHN G. NEIHARDT</hi>
+                    <lb/>
+                <hi rend="caps">SKYRIM FARM</hi>
+                    <lb/>
+                <hi rend="caps">COLUMBIA, MISSOURI</hi>
                 </fw>
                 
                 <opener>
-                <dateline>Wednesday.        <note type="clerical">[Apr. 29 or May 6, 1931]</note></dateline>
+                <dateline>5-6-63</dateline>
                 
                 
-                
-                <salute>Dear Comrade:</salute>
+                <salute>Dear Slade:</salute>
                 </opener>
-                <p>Write to Mr. Clair Kenamore, Post-Dispatch for permission to use the Millay material from the Anniversary Number, referring him to me. This is the best way, I'm sure, for you will want permission direct. I think Kenamore will arrange. I know him well and he often comes up to my office for little helps and favors<del/> that happen to be in my line. I'm glad you want to run the Millay stuff. It's bully. Here's a hint in connection with the matter. In writing Kenamore, state that you have heard of the appearance of "The Drift of Civilization" (Simon and Schuster),, which contains the 26 special articles from the Anniversary Number, and that you plan to run an article about it soon. This should help. I've just done a two col. article about the book for the body of the paper. <add>It's a whale of a book &amp; you will like it.</add></p>
+                <p>Many hearty thanks for your beautiful biography of an august friend! I know well what prompted you to write this lovely thing. I've loved trees, and I've hugged them when no one was looking. I know! Just this last fall I lost my lordly old elm in the backyard. It was a tragedy, and it would have hurt me deeply if I had not learned to <hi rend="underline">let go of dear</hi> things and remember how good they <hi rend="underline">were</hi>. I still have two fine oaks - <hi rend="underline">very old</hi>.</p> 
+               
+                <p>Do you remember the lines in <hi rend="underline">Jed Smith</hi>? - "- You've seen the still, enchanted way they grow".</p>
+                    
+                    <pb facs="nei.j4c.40.6-7_0002"/>
+                    <fw type="curatorial">7</fw>
+                    
+                    <p>There is an <hi rend="underline">ancient</hi> oak in the north border of my farm, <hi rend="underline">in</hi> the road <del/> right-of-way. They've gone around it thus far; but I fear some very important person will sooner or later find it necessary to cut the tree, and <hi rend="underline">straighten the road</hi>!</p>
+                
+                <p>No recent news from Fulbright. They sent me papers for a medical examination. I should pass. Evidently I'm over the scholastic hurdles. But at best I'll get only one round-trip fare ($1250). Do I go <hi rend="underline">alone</hi>? Should I? I have no fear, of course; but I <hi rend="underline">could</hi> be a burden to someone. I'd bet on my fitness, just the same.</p>
+              
+                <p>Love to you and Nita. (So she too is retiring!)</p>
                 <closer>
-                <salute>With love always,</salute>
+                <signed>John N.</signed>
+                </closer>                  
                 
-                <signed>Jno.</signed>
-                </closer>
-                
-                <note>Wednesd</note>
             </div1>
         </body>
         

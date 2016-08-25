@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<!-- <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?> -->
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.18.23">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.39.25-26">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Letter from John G. Neihardt to Friends, November 23, 1938</title>
+                <title type="main">Letter from John G. Neihardt to Lucile Aly, March 16, 1963</title>
                 <author>Neihardt, John Gneisenau, 1881-1973</author>
                 <principal>Gossin, Pamela</principal>
             </titleStmt>
             <editionStmt>
                 <edition>
-                    <date>2013</date>
+                    <date>2016</date>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-                <idno>nei.j4c.18.23</idno>
+                <idno>nei.j4c.39.25-26</idno>
                 <availability>
                     <p></p>
                 </availability>
@@ -42,17 +42,17 @@
             <sourceDesc>
                 <bibl>
                     <author>Neihardt, John Gneisenau, 1881-1973</author>
-                    <title level="m" type="main">Letter from John G. Neihardt to Friends</title>
-                    <date when="1938-11-23">November 23, 1938</date>
-                    <extent>1 page</extent>
+                    <title level="m" type="main">Letter from John G. Neihardt to Lucile Aly</title>
+                    <date when="1963-03-16">March 16, 1963</date>
+                    <extent>1 page, plus envelope</extent>
                 </bibl>
                 <msDesc>
                     <msIdentifier>
-                        <repository>Omaha Public Library</repository>
+                        <repository></repository>
                         <idno></idno>
                     </msIdentifier>
                     <msContents>
-                        <p>1 hand-written page</p>
+                        <p>1 hand-written page, plus envelope</p>
                     </msContents>
                     <physDesc>
                         <objectDesc>
@@ -108,24 +108,34 @@
                     <term></term>
                 </keywords>
                 <keywords scheme="lcsh" n="people">
-                    <term>Neihardt, Hilda</term>
+                    <term>Aly, Bower, 1903-1977</term>
                 </keywords>
                 <keywords scheme="lcsh" n="places">
-                    <term>Branson (Mo.)</term>
-<term>Wayne (Neb.)</term>
-<term>Bancroft (Neb.)</term>
-<term>West Point (Neb.)</term>
+                    <term type="from">Columbia (Mo.)</term>
+<term type="to">Eugene (Ore.)</term>
+                    <term></term>
                 </keywords>
                 <keywords scheme="lcsh" n="works">
                     <term></term>
                 </keywords>
             </textClass>
-            <particDesc><person role="recipient"><persName>Holm, Mr. and Mrs. Elmer E.</persName></person></particDesc>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName>Columbia (Mo.)</placeName>
+<date when="1963-03-16"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Aly, Lucile Folse, 1913-</persName>
+<placeName>Eugene (Ore.)</placeName>
+</correspAction>
+</correspDesc>
+            <particDesc><person role="recipient"><persName>Aly, Lucile Folse, 1913-</persName></person></particDesc>
         </profileDesc>
         
         <revisionDesc>
-            <change when="2014-04-21"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords</change>
-            <change when="2013"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2016"><name xml:id="lkw">Weakly, Laura K.</name> Metadata Encoding</change>
+            <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
             <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
             <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
             
@@ -137,29 +147,70 @@
             
             <div1 type="letter">
                 
-                <pb facs="nei.j4c.18.23" />
-                <note type="curatorial">Omaha Pub Lib</note>
-                <fw type="curatorial">23</fw>
+                <pb facs="nei.j4c.39.25-26_0001" />
+                
+                <note type="curatorial">Aly Collection
+                188-1</note>
+                <fw type="curatorial">25</fw>
+                
+                <fw type="letterhead">
+                <hi rend="caps">JOHN G. NEIHARDT</hi>      
+                <lb/>
+                <hi rend="caps">SKYRIM FARM</hi>
+                <lb/>
+                <hi rend="caps">COLUMBIA, MISSOURI</hi>
+                </fw>
+                
                 <opener>
-                <dateline>Branson, Missouri,<lb/>
-                November 23, '38</dateline>
+                <dateline>March 16, 63</dateline>
                 
                 
-                
-                <salute>Dear Friends:</salute>
+                <salute>Dear Lucile:</salute>
                 </opener>
-                <p>It has just struck me that Neihardt Hall at Wayne should be mentioned under "Honors". That's a very fine monument!</p>
+                <p>It <hi rend="underline">was</hi> good indeed to see Bower again! We had very little time alone together; but I did learn that you are all well. (This includes sweet Perky). It seems there was a letter from you that got left behind, and I'm waiting for it. It should arrive Monday.</p>
                 
-                <p>Also, you might want to say that the  bell I <hi rend="underline">used</hi> to ring is now mounted on a stone base on the campus, and that when it was dedicated, my daughter, Hilda, then a student, unveiled the monument and rang the bell. Makes a pretty story, I think!</p>
+                <p>Nothing definite yet as to my doings next summer. I wish I could talk to you close-up. You seem very far away.</p>
                 <closer>
-                <salute>Kindest thoughts</salute>
+                <salute>With the same old affection -</salute> 
                 
-                <signed>Jno. G. Neihardt</signed>
+                <signed>John</signed>
                 </closer>
                 
+            </div1>
+            
+            
+            <div1 type="envelope">
+                <pb facs="nei.j4c.39.25-26_0002"/>
                 
-                <postscript><p>Bancroft, some years ago, made a record of all the places where I lived there and recorded it at the county seat, West Point. The same was done at Wayne.</p></postscript>
+                <fw type="curatorial">26</fw>
                 
+                <ab type="return">
+                    <hi rend="caps">JOHN G. NEIHARDT</hi> 
+                    <lb/>
+                    <hi rend="caps">SKYRIM FARM</hi>
+                    <lb/>
+                    <hi rend="caps">COLUMBIA, MISSOURI</hi>
+                    <lb/>
+                    <hi rend="underline">Rt 7</hi>
+                </ab>
+                    
+                <note type="authorial">_____
+                    <hi rend="underline">Air</hi></note>  
+                <ab type="postmark">COLUMBIA, MO. MAR 18 530PM 1963</ab>
+                <figure>
+                    <figDesc>8 Cent Stamp</figDesc>
+                    <p>8¢ U.S. AIR MAIL</p>
+                </figure>
+                
+                <ab type="address">
+                    <address>
+                    <addrLine>Dr. Lucile Aly,</addrLine>
+                    <addrLine>1138 22nd Ave., East,</addrLine>
+                    <addrLine>Eugene,</addrLine>
+                    <addrLine>Oregon.</addrLine>
+                    </address>
+                </ab>
+                    
             </div1>
         </body>
         
