@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.26.44">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Roger Harris to John G. Neihardt, February 17, 1958</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.26.44</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Roger Harris to John G. Neihardt</title>
+                    <date when="1958-02-17">February 17, 1958</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.26.44"/>
+                
+                <fw type="curatorial">44</fw>
+                
+                <fw type="letterhead">
+                    <hi rend="caps">ROGER HARRIS</hi>
+                        <lb/>
+                    162 Grove Street
+                        <lb/>
+                    Rutland, Vermont
+                </fw>
+                
+                <opener>
+                    <dateline>February 17, 1958</dateline>
+                
+                    <address>
+                        <addrLine>Dr. John <hi rend="caps">G.</hi> Neihardt</addrLine>
+                        <addrLine>Columbia, Missouri</addrLine>
+                    </address>
+                
+                    <salute>My dear Dr. Neihardt:</salute>
+                </opener>
+                <p>I should like to compile a collection of autographs of prominent persons.</p>
+                
+                <p>I hope you do not mind my imposing upon you and will permit me to include you in such a collection as I sincerely believe that you, through your inspiring efforts and outstanding contributions, have played an important role in enriching the lives of many people.</p>
+                
+                <p>If you would be so kind as to autograph the enclosed card, I shall be very grateful. A stamped, return envelope is included for your convenience.</p>
+                
+                <p>Of course, if you have a photo available that you could autograph, it would please me immensely.</p>
+                
+                <p>With cordial best wishes for much happiness and good health,</p>
+                <closer>
+                    <salute>Respectfully yours,</salute>
+                
+                    <signed>Roger Harris</signed>
+                </closer>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

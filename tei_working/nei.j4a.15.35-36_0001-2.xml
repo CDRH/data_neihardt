@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.15.35-36_0001-2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Ella Cara Deloria to John G. Neihardt, March 18, 1932</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.15.35-36_0001-2</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Ella Cara Deloria to John G. Neihardt</title>
+                    <date when="1932-03-18">March 18, 1932</date>
+                    <extent>2 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 type-written pages</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>2 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.15.35-36_0001"/>
+                
+                <note type="curatorial">Missouri Collection</note>
+                <fw type="curatorial">35</fw>
+                
+                <fw type="letterhead">
+                    Columbia University
+                        <lb/>
+                    in the City of New York
+                        <lb/>
+                    <hi rend="caps">DEPARTMENT OF ANTHROPOLOGY</hi>
+                </fw>
+                
+                <opener>
+                    <dateline>March 18, 1932</dateline>
+                    
+                    <address>
+                        <addrLine>Mr. John <hi rend="caps">G.</hi> Neihardt</addrLine>
+                        <addrLine>Branson, Missouri</addrLine>
+                    </address>
+                        
+                    <salute>My dear Mr. Neihardt,</salute>
+                </opener>
+                <p>I have just finished "Black Elk Speaks." <add>(</add>I want you to know that<add>)</add> <del>i</del><add>I</add>t makes me happy and sad all at once--sad for the days that are gone, and glad that a white man really lives who can enter into a right understanding of Dakota's vision, and can trasnlate<sic>translate</sic> it into so poetic a form.</p>
+                
+                <p>Why should it makeso<sic>make so</sic> much difference to me? I will tell you. Because my grandfather, a chief, was a medicine man among the Yankton and saved many lives through his teaching from his vision. And my father, also a chief-(-who renounced his office in favor of his best friend, to become a Christian clergyman after "the end of the dream" when it was apparent to him that he could <del/><add><unclear>do</unclear></add> nothing under the old regime for his people and he thought he must try to train himself to lead them under the new conditions)-- respected and revered those things <add>(</add>of which <add>here</add> you have<add>)</add> written, and told and taught<del/> them to us his children as a sacred heritage. I have in my 
+                
+                <note type="recipient">(over)</note>
+                 
+                    <pb facs="nei.j4a.15.35-36_0002"/>
+                    <fw type="curatorial">36</fw>
+                
+                    texts collected for anthropological studies not a few examples of different people's visions. I find them very inspiring--but I never knew until <del>k</del>now how their meaning could be expressed in such a way as to be understandable to people of such a mate<del><unclear>ial</unclear></del><add>ria</add>l civilization as this.</p>
+                
+                <p><add>(</add>Many thanks for your<add>) An</add> exquisite piece of work<add>!</add></p>
+                <closer>
+                    <salute>Sincerely,</salute>
+                    
+                    <signed>(M<del/><add>i</add>ss) Ella Cara Deloria</signed>
+                    <signed>Ella Cara Deloria</signed>
+                </closer>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

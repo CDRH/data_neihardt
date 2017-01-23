@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.7.78">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to George Sterling, March 13, 1917</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.7.78</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to George Sterling</title>
+                    <date when="1920-07-15">July 15, 1920</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.7.78" />
+                
+                <note type="curatorial">Missouri Collection</note>  
+                <fw type="curatorial">78</fw>
+                
+                <fw type="letterhead">
+                    <hi rend="caps">CABLE ADDRESS: PACHAMAC
+                    
+                    BOSTON
+                        <lb/>
+                    CHICAGO
+                        <lb/>
+                    ATLANTA
+                        <lb/>
+                    DALLAS 
+                        <lb/>
+                    SAN FRANCISCO
+                        <lb/>
+                    
+                    THE MACMILLAN COMPANY
+                        <lb/>
+                    PUBLISHERS
+                        <lb/>
+                    64-66 FIFTH AVENUE
+                        <lb/>
+                    NEW YORK
+                        <lb/>
+                    
+                    LONDON
+                        <lb/>
+                    TORONTO
+                        <lb/>
+                    BOMBAY
+                        <lb/>
+                    CALCUTTA
+                        <lb/>
+                    MELBOURNE
+                    </hi>
+                </fw>
+                
+                <opener>
+                    <dateline>July 15, 1920.</dateline>
+                
+                    <address>
+                        <addrLine>Mr. John <hi rend="caps">G.</hi> Neihardt,</addrLine>
+                        <addrLine>Bancroft, Nebraska.</addrLine>
+                    </address>
+                    
+                    <salute>Dear Mr. Neihardt:&#8212;</salute>
+                </opener>
+                <p>Under separate cover I am sending you proof of the 23 photographs submitted for <hi rend="caps">THE SPLENDID WAYFARING</hi>. You will find that on one set of proofs I have given each illustration a number. We are planning to combine these illustrations as follows: 
+                <list>
+                <item>1 and 2 as one insert</item>
+                <item>3 and 4 as one    "</item>
+                <item>5 as one          "</item>
+                <item>6 and 7 as one    "</item>
+                <item><add><note>Fix</note></add>8 and 9 and 10 as one "</item>
+                <item>11 and 12 as one  "</item>
+                <item>13 and 14 as one  "</item>
+                </list>
+                and the rest full-page half-tone inserts. I am also sending you proof of the frontispiece. This proof did not turn out as satisfactory as we would like to have had it, and they are still workiing on it trying to make a better cut. If, however, this does not satisfy you or you think they will not be able to make it satisfactory, will you please be good enough to let me know which one of the full-page in-serts you would like substituted? Please be good enough to indicate on one set of proof the captions for each illustration, returning these at your earliest convenience.</p>
+                <closer>
+                    <salute>Very truly yours,</salute>
+                    
+                    <signed>Bessie A Mead</signed>
+                    <hi rend="caps">THE MACMILLAN COMPANY</hi>
+                    Editorial Department
+                
+                    <note>BAM/MY</note>
+                </closer>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.26a.52-53_0001-3">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from The Ellzeys to John G. Neihardt, April, 1958</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4a.26a.52-53_0001-3</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note>date from envelope</note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from The Ellzeys to John G. Neihardt</title>
+                    <date when="1958-04">April, 1958</date>
+                    <extent>1 page, plus envelope</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page, plus hand-written envelope</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.26a.52-53_0001"/>
+                
+                <fw type="curatorial">52</fw>
+                
+                <opener>
+                    <dateline>Dear Dr. Neihardt:</dateline>
+                </opener>
+                <p>Skip and I have been thinking and talking so much of you and Mona since his return from a few days in Oklahoma, where he was lecturing when Mona passed over into the other Life.</p>
+                
+                <p>I felt you were surrounded by people and very busy, so we postponed our visiting you. But after reading Helen Keller's '<del>m</del><add>M</add>y Religion' last night, it seems sort of natural that there would be a timeless-ness already about our friendship.</p>
+                
+                <p>Dr. Huston Smith was on the Stephens Campus not long ago and expressed joy again a<del>y</del><add>t</add> making yours and Monas<sic>Mona's</sic> acquaintance at our house about two years ago. He would have liked to visit with you ag<del>i</del><add>a</add>in. He had just spent some time in the far east and several weeks in a Zen-ist monastery and is quite a searcher. Too bad he is going from St. Louis to <hi rend="caps">M.I.T.</hi> and will really be too far away for us to get you two interesting people together again. But we all have more time than we sometimes realize to get togeth<del/><add>e</add>r and talk, or commune or what?</p>
+                
+                <p>Remember us to Mona when you commune with her.</p>
+                <closer>
+                    <salute>Most Sincerely, your friends</salute>
+                    
+                    <signed><unclear>Elly Ellzey</unclear></signed>
+                    <signed>the Ellzey's</signed>
+                </closer>
+                
+            </div1>
+            
+            
+            <div1 type="envelope">
+                
+                <pb facs="nei.j4a.26a.52-53_0002"/>
+                
+                <fw type="curatorial">53</fw>
+                
+                <fw type="postmark">
+                    COLUMBIA. MO.
+                    APR 24
+                    5-PM
+                    1958
+                
+                    PRAY
+                    FOR
+                    PEACE
+                </fw>
+                <figure>
+                    <figDesc>3 Cent Stamp</figDesc>
+                    <p>UNITED.STATES.POSTAGE
+                    THREE 3 CENTS</p>
+                </figure>
+                
+                <ab type="address">
+                    <address>
+                        <addrLine><hi rend="caps">DR. JOHN G. NEIHARDT</hi></addrLine>
+                        <addrLine><hi rend="caps">RFD</hi> 7,</addrLine>
+                        <addrLine><hi rend="caps">COLUMBIA</hi></addrLine>
+                    </address>
+                </ab>
+                
+                <pb facs="nei.j4a.26a.52-53_0003"/>
+                
+                <ab type="return">
+                    <hi rend="caps">ELLY ELLZEY
+                    1624 BASS
+                    COLUMBIA</hi>
+                </ab>
+                
+                <note type="curatorial"><hi rend="caps">JOHN G. NEIHARDT CENTER</hi></note>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>
+

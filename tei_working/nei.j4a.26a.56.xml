@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.26a.56">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Pastor Clarence E. Lemmon to John G. Neihardt, April 29, 1958</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4a.26a.56</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Pastor Clarence E. Lemmon to John G. Neihardt</title>
+                    <date when="1958-04-29">April 29, 1958</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.26a.56"/>
+                
+                <note type="curatorial">1<unclear>5</unclear> <del>Neih</del>
+                Neihardt Collection</note>
+                
+                <fw type="curatorial">5<del/><add>6</add></fw>
+                
+                <fw type="letterhead">
+                    <hi rend="caps">CLARENCE E. LEMMON, PASTOR
+                    EDWARD COFFMAN, JR., ASSOCIATE
+                    MRS. ELIZABETH J. CONNER, SECRETARY
+                    
+                    DR. JENNIE V. FLEMING, GOLDEN-LINK MISSIONARY
+                    VEDA HARRAH, SERVICE-LINK MISSIONARY
+                    VERN ROSSMAN, SUSTAINING-LINK MISSIONARY</hi>
+                    
+                        <lb/>
+                    First Christian Church
+                        <lb/>
+                    <hi rend="caps">ORGANIZED 1832
+                        <lb/>
+                    SERVING MANY GENERATIONS OF COLLEGE
+                        <lb/>
+                    AND UNIVERSITY STUDENTS</hi>
+                        <lb/>
+                    Columbia, Missouri
+                </fw>
+                
+                <opener>
+                    <dateline>April 29, 1958</dateline>
+                
+                    <address>
+                        <addrLine>Dr. John <hi rend="caps">G.</hi> Neihardt</addrLine>
+                        <addrLine>Route 7</addrLine>
+                        <addrLine>Columbia, Missouri</addrLine>
+                    </address>
+                
+                    <salute>Dear Dr. Neihardt</salute>
+                </opener>
+                <p>I hope you did not feel that you were under any obligation with regard to the service which I helped conduct for your good wife. You were very kind to write me as you did and I am turning the check into our church treasury as you have suggested in you<add>r</add> letter.</p>
+                
+                <p>I am sure those present at the funeral services will long remember the beautiful contribution which you and your family made to the service. It was an unforgettable experience.</p>
+                <closer>
+                    <salute>With every good wish I am</salute>
+                
+                    <salute>Very truly yours</salute>
+                    
+                    <signed>C.E. Lemmon</signed>
+                    
+                    <signed>C.E. Lemmon, Pastor</signed>
+                    
+                    <note>cel:vh</note>
+                </closer>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>
+
+

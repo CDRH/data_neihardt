@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.27a.17-18_0001-2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Hugh Bullock to John G. Neihardt, May 8, 1959</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4a.27a.17-18_0001-2</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Hugh Bullock to John G. Neihardt</title>
+                    <date when="1959-05-08">May 8, 1959</date>
+                    <extent>2 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 type-written pages</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>2 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.27a.17-18_0001"/>
+                
+                <fw type="curatorial">17</fw>
+                
+                <fw type="imprint">
+                    <hi rend="caps">THE ACADEMY OF AMERICAN POETS
+                
+                    ∙THE ACADEMY OF AMERICAN POETS∙</hi>
+                    <figure>
+                        <figDesc>A Winged Horse</figDesc>
+                    </figure>
+                    25<hi rend="italics">th</hi> <hi rend="caps">YEAR
+                    1934 ∙ 1959
+                
+                    890 PARK AVENUE  NEW YORK 21, N. Y.</hi>
+                </fw>
+                
+                <opener>
+                    <dateline>May 8, 1959</dateline>
+                
+                    <address>
+                        <addrLine>Professor John G. Neihardt</addrLine>
+                        <addrLine>Skyrim Farm</addrLine>
+                        <addrLine>Route No. 6</addrLine>
+                        <addrLine>Columbia, Missouri</addrLine>
+                    </address>
+                    
+                    <salute>Dear Professor Neihardt:</salute>
+                </opener>
+                <p>With the election of Mr. John Hall Wheelock to the Board of Chancellors on the first ballot with the following results:
+                    <lb/>
+                    <list>
+                        <item>John Hall Wheelock-7 votes</item>     <item>John Holmes-1 vote</item>
+                        <item>Louise Bogan-1 vote</item>            <item>Vincent Starrett-1 vote</item>
+                    </list>
+                    <lb/>
+                    it is my pleasent duty, by order of the Board of Directors, to advise you that we are now anxious to initiate nominations for the Fellowship we propsose to award at the Academy's 25th Anniversary Dinner on November 4, 1959, the climax of the Anniversary year.</p>
+                
+                <p>To review the qualifications of Fellows from our Charter, Article VIII: "poets of proven merit, either natural born or naturalized American citizens"; and the By-Laws, Article VI, entitling you to nominate two candidates as usual. A nominating blank is enclosed, and the closing date has been set for June 8, 1959.</p>
+                
+                <p>It would be helpful to follow the usual custom of indicating briefly the reasons which motivate your nominations. The By-Laws require that the Chancellors be notified of the names of all such nominees and of their nominators respectively, although, when voting begins, the signed ballots will be kept confidential by the Secretary.</p>
+                
+                <p>To refresh your memory we repeat here the previous Fellows: Edwin Markham, 1936; Edgar Lee Masters, 1946; Ridgely Torrence, 1947; Percy Mackaye, 1948; <hi rend="caps">E. E.</hi> Cummings, 1950; Padraic Colum, 1952; Robert Frost, 1953; Louise Townsend Nicholl, 1954; Oliver St. John Gogarty, 1954; Rolfe Humphries, 1955; William Carlos Williams, 1956; Conrad Aiken, 1957; Robinson Jeffers, 1958; Louise Bogan, 1959.</p>
+                <closer>
+                    <salute>Very sincerely yours,</salute>
+                
+                    <signed>Hugh Bullock
+                    Secretary</signed>
+                </closer>
+                
+                <note>Enclosures</note>
+                
+            </div1>
+            
+            
+            <div1 type="enclosure">
+                
+                <pb facs="nei.j4a.27a.17-18_0002"/>
+                
+                <fw type="curatorial">18</fw>
+                
+                <p><hi rend="underline">Excerpts from Charter:</hi></p>
+                
+                <p>"The corporation shall have twelve chancellors. They shall hold office for terms of twelve years, excepting that, to provide for the expiration of one term in each year, the first chancellors shall be elected for different terms of from one to twelve years and a chancellor elected to fill a vacancy occuring through death, resignation or removal shall hold office only for the reminder of the term of his predecessor.</p>
+                
+                <p>"The first chancellors shall be elected by the Board of Directors of the corporation, but all subsequent chancellors shall be elected by a majority vote of the remaining chancellors, whether upon the expiration of a term or upon the occurrence of a vacancy by death, resignation or removal. Chancellors may be reelected, as often as desired.</p>
+                
+                <p>"The chancellors shall be natural born or naturalized American citizens, recognized as literary persons of high standing. Chancellors may be directors of the corporation."</p>
+                
+                <p><hi rend="underline">Article VI.  By-Laws:</hi></p>
+                
+                <p>"The procesure for the election of successor Chancellors shall be as follows: Upon the death, resignation, removal or termination of office of any Chancellor, the remaining Chancellors shall each have the right to nominate two persons to be elected a successor Chancellor by personally delivering or mailing the names of his nominees to the Secretary on or before the date set by the Secretary for the closing of such nominations. The Secretary shall then notify the remaining Chancellors of the names of all such nominees and nominators, respectively, and the Chancellors shall then elect one of such nominees to be a successor Chancellor by personally delivering or mailing their ballots to the Secretary on or before the date set for the said election. In the event that no nominee shall receive a majority vote, there shall be a second election, similarly conducted, between the two nominees who receive the highest number of votes, tie votes being counted as one. Ballots shall be signed but shall be kept secret and confidential by the Secretary."</p>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

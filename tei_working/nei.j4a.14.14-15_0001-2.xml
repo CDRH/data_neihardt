@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.14.14-15_0001-2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Thomas S. Jones, Jr. to John G. Neihardt, March 27 1929</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.14.14-15_0001-2</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Thomas S. Jones, Jr. to John G. Neihardt</title>
+                    <date when="1929-03-27">March 27, 1929</date>
+                    <extent>2 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 type-written pages</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>2 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.14.14-15_0001"/>
+                
+                <note type="curatorial">Missouri Collection</note>
+                <fw type="curatorial">14</fw>
+                
+                <opener>
+                    <dateline>
+                        411 West 115th Street
+                        New York City
+                        March 27th,1929
+                    </dateline>
+                
+                    <salute>Dear Mr. Neihardt,</salute>
+                </opener>
+                <p>My publisher has sent me your letter, and this gives me an opportunity, after a decade, of telling you what a great part your <hi rend="underline">Poet's Town</hi> has played in my life. You talked with my good friend Spencer Miller at Christodora House, so I shall add nothing here. But the day before Christmas in 1918 an astonishing faculty had developed, and with Raymond Weaver, professor of Comparative Literature here at Columbia, I opened a random <hi rend="underline">The Little Book of Modern Verse</hi>, asked what was written on the turned down page, and the answer came back:</p>
+                
+                <lg><l>And flashed --Oh, once forever!</l>
+                <l>The singing Flame of God.</l></lg>
+                
+                <p>We then turned up the book to our eyes, and found the book had been opened to the 144 page, and these lines of yours were at the left top. I had always loved the poem, have read it aloud hundreds of times, but here it was to prove to me a great fact: that I was not dealing with my subconsicous memory, but with Something that <hi rend="underline">knew</hi> <add>a greater Sect.</add>. ( The copy of the book was not my own, but Raymond's who likely had read little in the book and did not know your poem.)</p>
+                
+                <p>I shall deeply appreciate anything that you would care to write on my work, for, although you likely do not know it, my friends all know<del/> that not only have I long admired your work, but I am convinced that you are a Power in our life and in the spiritual development of America. At a later time I shall be glad to share with you a very astonishing experience, but I would prefer that this is not brought in any published article. I have long since learned that the inner knowledge is an esoteric knowledge: at the beginning I did my best to share what I knew, but I found that it was generally impossible. And I know now how wrong it is to attempt this: it confuses the one you would help, and it casts a stain on the work and makes it freakish. Each man's growth must be his own, as you well know. From observation this is my explanation: by a constant attitude of prayer and consecration, the conscious will becomes servant to the greater Will. By repe<del><unclear>r</unclear></del><add>t</add>ition the fac<del/><add>u</add>l<del/>ty is increased. In my own life there are three curious dates <del>in my life</del>: we are now on the eve of one, Holy Thursday --on this day my mother died-- and thus the Last Supper was early stamped on my mind; I was born on Saint Illtyd's Day, Nov. 6th, he who last held the secret of the Grail. (Ispent<sic>I spent</sic> a wonderful evening night before last with Ernest Rhys, who has a book on Illtyd); I was confirmed on Saint Michael's Day, and have always believed in an assisting Presence. <add>These three <unclear>feasts</unclear> are the <unclear>basal</unclear> beginnings of my <unclear>life</unclear>.</add></p>
+                
+                <p>As I would wish to share my development with you because of your effect on my life, I will make a very brief scheme of the growth. The best of my first work, from 1900 to 1908, is in The Rose-Jar --this was a period of my reaction to life and a search for meaning; The Voice in the Silence, 1908 to 1918, shows a clarified creed, life's meaning to me, In the first editions the book en<del>ed</del><add>de</add>d with <hi rend="underline">If at the End</hi>. Then came the war <hi rend="underline">and I wrote nothing</hi>. Then on All Saints' Day in 1918 came 
+                
+                    <pb facs="nei.j4a.14.14-15_0002"/>
+                    <fw type="curatorial">15</fw>
+                
+                    an astonishing happeneing<sic>happening</sic> here in my room (and I <hi rend="underline">knew</hi> the war was over). The next day a sonnet flowed out, Sanctuary; the<add>n</add> the Last Spring; then more rapidly The Garden; and then on my birthday morning, I wakened at five and The Path of the Stars actually wrote itself. This was the opening of the flood-gates: 280 sonnets is the record to date. That you may know these in sequence, I will list the titles: <hi rend="underline">Sonnets</hi> and <hi rend="underline">Quatrains</hi> were written in 1919; <hi rend="underline">Sonnets of the Cross</hi>, not includ<del>e</del><add>i</add>ng Later Sonnets, next in order, then the earlier <hi rend="underline">Sonnets of the Saints</hi>, then the Six Sonnets, then the <hi rend="underline">Later Sonnets</hi> of <hi rend="underline">Sonnets of the Cross</hi>, then the Akhnaton sequence written last year, and then twenty one sonnets in the new <hi rend="underline">Saints</hi> published this month. I shall have all these books sent to you from Portland. That you may know the last poems, I shall name them: Benedict, Augustine, Bernard, Boathius, Dionysius the Areopagite, John Scotus Erigena, Hildegarde, Richard of Saint Victor, Albertus Magnus, Bonaventura, Gertrude, Eckhart, Suso, Ruysbroeck, Teresa, John of the Cross, The Pilgrim, Joachim of Flora. These are all in the new <hi rend="underline">Saints</hi>.</p> 
+                    
+                <p>I shall also send you essays by Jessie Rittenhouse, Eva Tenison, biographer of Louise Guiney, Dr. Henry Wells here at Columbia, and two other short ones. These all know of the experience, and for this reason they may be of aid to you. I can send these and write as I have, for I feel you are a friend and comrade in some Plan that is working out for a greater happiness to our fellow-beings. Ke<del/><add>e</add>p them all save the one <del>o<unclear/></del> by Miss Tenison which I would like back as it is one <del><unclear>I</unclear></del><add>o</add>f two that I have.</p>
+                    
+                <p>Someday I look forward to a meeting. And I know that that day will come. Thank you for all you wrote my publisher.</p>
+                <closer>
+                    <salute>Sincerely yours,</salute>
+                    
+                    <signed>Thomas S. Jones, Jr.</signed>
+                </closer>
+             
+                <postscript>
+                    <p>As I read this letter over, it seems stilted and humorless; but I wanted to get certain facts over to you in the shortest space possible. I trust <unclear>freely</unclear> to your intuition for understanding.</p>
+                </postscript>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>
+

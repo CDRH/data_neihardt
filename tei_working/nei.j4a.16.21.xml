@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.16.21">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Louise Dudley to John G. Neihardt, April 14, 1934</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.16.21</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Louise Dudley to John G. Neihardt</title>
+                    <date when="1934-04-14">April 14, 1934</date>
+                    <extent>2 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 type-written pages</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>2 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="3">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.16.21a"/>
+                
+                <note type="curatorial">Missouri collection</note>
+                <fw type="curatorial">21</fw>
+                
+                <fw type="letterhead">
+                    <hi rend="caps">STEPHENS COLLEGE
+                        <lb/>
+                    COLUMBIA, MISSOURI</hi>
+                </fw>
+                
+                <opener>
+                    <dateline>April 14, 1934</dateline>
+                    
+                    <address>
+                        <addrLine>Mr. John <hi rend="caps">G.</hi> Neihardt</addrLine>
+                        <addrLine>Branson, Missouri</addrLine>
+                    </address>
+                    
+                    <salute>Dear Mr. Neihardt:</salute>
+                </opener>
+                <p>Miss Winn has shown me your letter to her. We are hoping to have an Arts Festival with speakers on art and music as well as on literature. We should like to have you as one of the speakers if the plan goes through.</p>
+                
+                <p>In order to make it possible for all the students to attend, instead of just those who can afford an admission fee, we are anxious to keep the cost of the project at a minimum. If you would consider coming for your expenses, we should appreciate your cooperation. If you feel that you cannot do this, would you accept a set fee?</p>
+                
+                <p>We are hoping to be able to have you with us.</p>
+                <closer>
+                    <salute>Cordially yours,</salute> 
+                    <signed>Louise Dudley</signed>
+                    per <hi rend="caps">M.U.</hi>
+                    <signed>Louise Dudley</signed>
+                </closer>
+                
+                <pb facs="nei.j4a.16.21b"/>
+                
+                <note type="recipient">
+                    My dear Mrs. Dudley:
+                    
+                    Replying to yours of April 14, I am <add>genuinely</add> sorry that I <del>am not able</del> <add>cannot afford</add> to accept engagements for my expenses. My <del>last</del> latest lecture paid me <unclear>$100</unclear> + expenses, <del/> <del><unclear>this but I could agree to yo</unclear></del> <del/> but since the distance is not great + not much time would be lost I could come to you for $75 + expenses
+                    
+                    Very truly---
+                </note>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

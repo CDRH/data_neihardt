@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.5.34">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from David Starr Jordan to John G. Neihardt, December 9, 1918</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.5.34</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from David Starr Jordan to John G. Neihardt</title>
+                    <date when="1918-12-09">December 9, 1918</date>
+                    <extent>1 page, plus envelope</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page, plus envelope</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.5.34a"/>
+                
+                <note type="curatorial">207 Neihardt Collection</note>
+                
+                <fw type="curatorial">34</fw>
+                
+                <fw type="letterhead">
+                    <hi rend="caps">DAVID STARR JORDAN
+                        <lb/>
+                    STANDFORD UNIVERISTY <add>P.O.</add>
+                        <lb/>
+                    CALIFORNIA</hi>
+                </fw>
+                <opener>
+                    <dateline>December 9th, 1918.</dateline>
+                
+                    <address>
+                        <addrLine>Mr. John Neihardt,</addrLine>
+                
+                            <addrLine>Bancroft, Nebraska.</addrLine>
+                    </address>
+                    
+                    <salute>Dear Mr. Neihardt:</salute>
+                </opener>
+                <p>I shall be delighted to see your review, even though it is limited on every side by the conviction of your editor that God made for us a cosmos devoted to <hi rend="underline">Starrheit</hi>. This word in a forgotten tongue was not derived from my middle name, but from a shorter word which means, politically, "stalled in the bogs of the Middle Ages".</p>
+                
+                <p>I am always thankful for your friendly sympathy, even if you cannot say everything that you think. I have found a few limitations also.</p>
+                <closer>
+                    <salute>Very truly yours,</salute>
+                    
+                    <signed>David Starr Jordan</signed>
+                </closer>
+                
+            </div1>
+            
+            
+            <div1 type="envelope">
+                
+                <pb facs="nei.j4a.5.34b"/>
+                
+                <ab type="return">
+                    <hi rend="caps">DAVID STARR JORDAN
+                        <lb/>
+                    STANFORD UNIVERSITY <add>P.O.</add>
+                        <lb/>
+                    CALIFORNIA</hi> 
+                </ab>
+                
+                <ab type="postmark">
+                    PALO ALTO, CAL.
+                    DEC 10
+                    6-304
+                    1918
+                </ab>
+                <figure>
+                    <figDesc>2 Cent Stamp</figDesc>
+                    <p>U.S.POSTAGE 2 CENTS 2</p>
+                </figure>
+                <figure>
+                    <figDesc>1 Cent Stamp</figDesc>
+                    <p>UNITED STATES 1 ONE CENT <unclear cert="high">1</unclear></p>
+                </figure>
+                
+                <ab type="address">
+                    <address>
+                        <addrLine>Mr. John Neihardt,</addrLine>
+                            <addrLine>Bancroft,</addrLine>
+                                <addrLine>Nebraska.</addrLine>
+                    </address>
+                </ab>
+                
+                <note place="bottom" type="curatorial">Found in <hi rend="underline">Democracy</hi> and <hi rend="underline">World Relations</hi> &#8212; David Starr Jordan  <hi rend="caps">NY</hi> &#8212; World Book Co. 1918</note>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

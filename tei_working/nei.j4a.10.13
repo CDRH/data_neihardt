@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.10.13">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Allen Tupper True to John G. Neihardt, July 5, 1923</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.10.13</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Allen Tupper True to John G. Neihardt</title>
+                    <date when="1923-07-05">July 5, 1923</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 hand-written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.10.13" />
+                
+                <fw type="curatorial">13</fw>
+                
+                <fw type="letterhead">
+                    <hi rend="caps">ALLEN TUPPER TRUE
+                        <lb/>
+                    DENVER, COLORADO</hi>
+                </fw>
+                
+                <opener>
+                    <dateline>July 5. 23.</dateline>
+                    
+                    <salute>My Dear Neihardt,</salute>
+                </opener>
+                <p>I am delighted with your suggestion re: the use of one of my paintings in connection with the Indian Wars. When the form of the book is decided upon let me know and anything I have is at your disposal. I would like to stuff in a <unclear>pen</unclear >and ink sketch &#8212; just Indian characterization &#8212; no illustration of text or anything of that sort &#8212; a <unclear>pen</unclear> and ink sketch here and there&#8212; make them now and then from now on until publication for my own satisfaction and as "thumb nail" studies for bigger work. <unclear>Praugroyu</unclear> used to do a lot of this sort of thing and it keeps a fellow keyed up.</p>
+                    
+                <p>You know I used to earn my cheese at illustration and have done work for all the good magazines except <unclear>Howden</unclear>. Spent 6 years with Howard Pyle who was our premier illustrator <unclear>Royalips</unclear>, <unclear>pay etc</unclear> dont figure so far as I'm concerned.</p>
+                <closer>
+                    <salute>Hastily,</salute>
+                    
+                    <signed>Allen True</signed>
+                </closer>
+                
+                <note place="left margin" type="authorial"><unclear>Am</unclear> working hard these days on The "Indian Memories" 16 panels 1300 sq. ft. of murrals<sic>murals</sic> for the finest bank in the city. Expect is to be my "Clefdoover". <hi rend="caps">AT</hi>.</note>
+               
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.27.58">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from M. E. Constantacatos to John G. Neihardt, March 9, 1959</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.27.58</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from M. E. Constantacatos to John G. Neihardt</title>
+                    <date when="1959-03-09">March 9, 1959</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.27.58"/>
+                
+                <fw type="curatorial">58</fw>
+                
+                <fw type="letterhead">
+                    <hi rend="caps">M. E. CONSTANTACATOS 
+                        <lb/>
+                        <hi rend="underline">17, SINA ST. &#8212; ATHENS</hi></hi>
+                </fw>
+                
+                <opener>
+                    <dateline>March 9, 1959.</dateline>
+                
+                    <address>
+                        <addrLine>Dr. John Gneisenau Neihardt</addrLine> 
+                        <addrLine>Author</addrLine>
+                        <addrLine>Skyrim, <hi rend="capd">R.D.</hi> 6,</addrLine> 
+                        <addrLine>Columbia, <hi rend="caps">MO.</hi></addrLine>
+                    </address>
+                
+                    <salute>Dear Dr. Neihardt:</salute>
+                </opener>
+                <list>
+                    <item>(a) Money Supply and Price Stability</item>
+                    <item>(b) Liquidity and the Price of Gold</item>
+                </list>
+                
+                <milestone unit="section"/><ab>-------------------------------------</ab>
+                
+                <p>In my <hi rend="caps">REDEMPTION MESSAGE</hi>, herewith enclosed, I set forth in broad outline the Divine Law which governs both the supply of money and the price of gold.</p>
+                
+                <p>It is my hope that you will make time to read its contents with some attention, the more so as the rebellious children of the economic profession entertain the foolish belief that there exists no divine law governing our monetary affairs; and as a consequence they regard it unworthy of their scientific dignity to seek the face of the <hi rend="caps">LORD</hi>.</p>
+                <closer>
+                    <salute>Yours respectfully,</salute>
+                
+                    <signed>M C.</signed>
+                </closer>
+                
+                <note>Encl.</note>
+                
+                <postscript>
+                    <opener><hi rend="caps">P.S.</hi></opener> <p>Kindly send me a copy of : 
+                        <lb/>
+                        "<hi rend="caps">THE SONG OF THE MESSIAH</hi>".</p>
+                </postscript>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>
+

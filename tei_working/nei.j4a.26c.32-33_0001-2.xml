@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.26c.32-33_0001-2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from G. Arthur Bailey to John G. Neihardt, October 28, 1958</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.26c.32-33_0001-2</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note>date from enclosure</note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from G. Arthur Bailey to John G. Neihardt</title>
+                    <date when="1958-10-28">October 28, 1958</date>
+                    <extent>2 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 type-written pages</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>2 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="3">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.26c.32-33_0001"/>
+                
+                <note type="curatorial">Aly Collection</note>
+                
+                <fw type="curatorial">32</fw>
+                
+                <opener>
+                    <dateline>Saturday, 11 <hi rend="caps">A. M.</hi></dateline>
+                
+                    <salute>Dear Neihardt:</salute>
+                </opener>
+                <p>Thinking you may not have been advised of Bob Kelly's death, I am enclosing clippings concerning it.</p>
+                
+                <p>I retuened<sic>returned</sic> a few minutes ago from the funeral which was conducted by the Knights of Columbus. A very short service. Burial at Bancroft, as per clipping.</p>
+                
+                <p>Bob was a candidate for State Auditor,-election next Tuesday.</p>
+                <closer>
+                    <salute>Regards,</salute>
+                
+                    <signed>Bailey</signed>
+                </closer>
+                
+            </div1>
+            
+            
+            <div1 type="enclosure">
+                
+                <pb facs="nei.j4a.2c.32-33_0002"/>
+                
+                <fw type="curatorial">33</fw>
+                
+                <note type="recipient">10-28-'58</note>
+                
+                <figure>
+                    <figDesc>Photograph of J. R. Kelly</figDesc>
+                    <p>J. R. Kelly</p>
+                </figure>
+                
+            </div1>
+            
+            <div1 type="enclosure">
+                
+                <p><unclear reason="missing"/>
+                Farnam at 36th St. <hi rend="caps">HA</hi> 4400</p>
+                
+                <milestone unit="section"/><ab>_______________________________</ab>
+                
+                <p><hi rend="caps">KELLY</hi>&#8212;John <hi rend="caps">R.</hi> (Bob), age 79 years, residence, 6339 N. 34th St. Survived by 3 sons, Kerwood, Omaha; <hi rend="caps">J. R.</hi>, Jr., Lincoln, Neb.; Harold , Sioux City, Ia.; 1 daughter, Margaret Kelly, Los Angeles, Cal.; 3 sisters, Mrs. Nell Flak, Calgary, Canada; Mrs. Mildred Monahan, Edmonton, Canada; Mrs. Dr. Carey, West Point, Neb.; 7 grandchildren; 4 great-grandchildren.</p>
+                
+                <p>Funeral Saturday, 10 a.m., John <hi rend="caps">A.</hi> Gentleman Mortuary, with graveside services 12:30 p.m., Bancroft, Neb.</p>
+                
+                <milestone unit="section"/><ab>_______________________________</ab>
+                
+                <p><hi rend="caps">KING</hi>&#8212;Richard <hi rend="caps">L.</hi>, age 57 years, resi-
+                <unclear reason="missing"/></p>
+                
+            </div1>
+            
+            <div1 type="enclosure">
+                
+                <head type="sub"><hi rend="caps">J. R.</hi> Kelly</head>
+                
+                <head>Death Poses
+                Ballot Puzzle</head>
+                    
+                <head>Kelly Was Democrat
+                Auditor Nominee</head>
+                
+                <p><hi rend="caps">J. R.</hi> (Bob) Kelly, Democratic candidate for State Auditor, died late Wednesday in an Omaha hospital.</p>
+                
+                <p>His death left at the Democrats without a formal candidate for the office.</p>
+                
+                <p>Deputy Attorney General Clarence Meyer said in Lincoln that official ballots which appeared publicly Wednesday, cannot be reprinted.</p>
+                
+                <p>Mr. Meyer said the only recourse for the Democrats is to launch a campaign for write-in votes for a candidate of their choice.</p>
+                
+                <p>Democratic State Chairman Russell Hanson said Thursday there would not be time for the State Central Committee to name a candidate and present his qualifications to the voters.</p>
+                
+                <p>Mr. Kelly, 70, of 6339 North Thirty-fourth Stret, served 12 years as an auditor for the City of Omaha. He retired in 1951, while auditor for the Park and Recreation Department.</p>
+                
+                <p>Mr. Kelly was a student of this region's history, submitted articles to the Nebraska Historical Society on such subjects as General Custer and the James brothers.</p>
+                
+                <p>Surviving are three sons: Kerwood, Omaha; <hi rend="caps">J. R.</hi>, Jr., Lincoln, and Harold, Sioux City, Ia.; a daughter, Margaret, Los Angeles, Cal.; three sisters, and seven grandchildren.</p>
+                
+                <p>Services will be 10 a.m. Saturday at the John <hi rend="caps">A.</hi> Gentleman Mortuary. Burial will be at Bancroft, Neb.</p>
+                
+                <milestone unit="section"/><ab>--------------</ab>
+                
+                <p>Carpenter: Douglas</p>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

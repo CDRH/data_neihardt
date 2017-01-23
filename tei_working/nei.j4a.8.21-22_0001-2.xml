@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.8.21-22_0001-2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Henry van Dyke to John G. Neihardt, October 30, 1921</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.8.21-22_0001-2</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Henry van Dyke to John G. Neihardt</title>
+                    <date when="1921-10-30">October 30, 1921</date>
+                    <extent>2 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 hand-written pages</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>2 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4c.2." />
+                
+                <fw type="authorial">1</fw>
+                <fw type="curatorial">21</fw>
+                
+                <fw type="letterhead">
+                    <hi rend="caps">H.</hi>v.<hi rend="caps">D.</hi>
+                    Avalon,
+                    Princeton, <hi rend="caps">N. J.</hi></fw> <opener><dateline>Oct. 30, 1921.</dateline></opener>
+                
+                <p>I wish to thank the man who sent me <hi rend="underline">The Song of Hugh Glass</hi> by John <hi rend="caps">G.</hi> Neihardt.</p> 
+                
+                <p>This is a fine poem of the wild West, a vigorous little epic of American adventure in the high lands when the Missouri gathers its waters from the great divide. Rightly the poet deemed the white man who explored this wonderland worthy of saga as the rude fearless vikings of Norway. Rightly he chose his hero; no smooth faultless one, but truth-loving, loyal, indomitable, richer in passion than in words,&#8212; a type of man still living in that country. Well has he told the tale of this Hugh Glass, his deep friendship, his desperate wounding, his long wandering, his final deliverance <unclear>form</unclear> a hatred worse than death.</p>
+                
+                <p><del><unclear>That</unclear></del>The poem has its blemishes,&#8212;     
+                    "The drone seemed heaping up a <hi rend="underline">phonic</hi> hill!"
+                    "What augury in <hi rend="underline">ornoscopic</hi> words        
+                    Did you swart sibyls on the morning scrawl?"&#8212;
+                
+                There and a few like things are verbal patches which do not adorn. But the saga is strong enough to 
+                
+                    <pb facs="nei.j4a.8.21-22_0001-2"/>
+                    <fw type="authorial">2</fw>
+                    <fw type="curatorial">22</fw>
+                
+                carry them and a hundred more. It has the breath of life in its moves; it goes to the mark. On every page there are vivid lines of outward or inward vision:
+                    <lb/>
+                "Old Hugh stared long upon the pictured blaze,
+                And what he saw went upward in the smoke."&#8212;
+                "Grievous to bear, too dear to cast away."
+                "A phantom April over melting snow."&#8212;
+                "So in the lad's heart sorrow fumbled round
+                for some old joy to lean upon."&#8212;
+                "The lone gulch buttressing an arch of night."&#8212;
+                "The crisp leaves whispered round him as they fall."
+                "While in some dim-lit chancel of the night,
+                Shouts to the goddess, wolfish corybants
+                Intoned their wild antiphonary chants,&#8212;
+                The oldest, saddest worship in the world."
+                
+                But it is useless to pick out lines like these to show the quality of the poem; for its <unclear>great</unclear>, its extraordinary merit lies in its narrative power,&#8212; a thing too much neglected by our younger poets. John Masefield has well earned honor by his gift of telling a story in verse. I think John Neihardt's is as good,&#8212;nay, I like it better, because it is about a land and people that I know and love.</p>
+                <closer>
+                    <signed>Henry van Dyke</signed>
+                </closer>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>
+

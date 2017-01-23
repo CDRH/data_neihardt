@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.15.8">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Camille McCole to John G. Neihardt, May 29, 1930</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.15.8</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Camille McCole to John G. Neihardt</title>
+                    <date when="1930-05-29">May 29, 1930</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.15.8"/>
+                
+                <note type="curatorial">Missouri Collection</note>
+                <fw type="curatorial">8</fw>
+                
+                <fw type="letterhead">
+                    University of Notre Dame
+                        <lb/>
+                    <hi rend="caps">NOTRE DAME, INDIANA
+                        <lb/>
+                    
+                    DEPARTMENT OF ENGLISH</hi>
+                </fw>
+                
+                <opener>
+                    <dateline>May 29,1930.</dateline>
+                
+                    <address>
+                        <addrLine>Mr. John <hi rend="caps">G.</hi> Neihardt,</addrLine>
+                        <addrLine>St. Louis Post-D<del/><add>i</add>spatch,</addrLine>
+                        <addrLine>St. Louis,Mo.</addrLine>
+                    </address>
+               
+                    <salute>My dear Mr. Neihardt,</salute>
+                </opener>
+                <p>Thank you much for your good letter of May 27th. Yes,indeed, I like "Poetic Values" and I, too, think everyone at all interested in poetry should read the book. And more:everyone who is not interested in poetry should read the book becasue it will help him much in becoming interested in it,in seeing that in this world of "bustling certainties" man has a life that is above the neck.</p> 
+                
+                <p>You ask me to send you a copy of the selections from the book which Professor Smithberger and I are going to quote in that poetry syllabus we are preparing. There is much that I'd have liked to take but I have to limi<sic>limit</sic> myself and so I am going to quote the lines beginning on page 71 with "Fancy yourself as going forth some golden day of early spring into a windless forest.." and ending on page 73 <del/><add>w</add>ith the sentence "You have felt the larger relations and lost yourself in them." I think the selection a splendid one and one that students will be very interested in. They should read much in that. We are going to quote those lines whole--just as they stand--the only comment will be some gen one which will appear at the beginning of the symposium and which will suggest that the student will find in the symposium much interesting material for discussion and much that <unclear reason="missing"/> show him that our living poets have much to say about poetry much that will show them that poetry is a very living thing.</p>
+                
+                <p>When I say we will quote these lines I should tell you that the matter of our doing so is somewhat dependent upon the Macmillan Company. We wrote them to assure ourselves of their permission also. Was that necessary? If they should refuse us outright--after we told them we had y<unclear reason="missing">our</unclear> permission--I suppose we will have to omit the lines. Anyway we hope the lines and everything are quite satisfactory to <unclear reason="missing">you</unclear>. We expect to send the manuscript off to the lithoprinters i<unclear reason="missing">n</unclear> about three days and I am wondering if,in case everything i<unclear reason="missing">s</unclear> all right with you,you will wire me collect,at the below ad<unclear reason="missing"/> as soon as you get this and can conveniently answer it.</p>
+                <closer>
+                    <salute>Most coridally yours,</salute>
+                    
+                    <signed>Camille McCole</signed>
+                </closer>
+                
+                <note type="authorial">Prof <hi rend="caps">C.</hi> McCole, Notre Dame <unclear reason="missing"/></note>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>
+

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.25.13">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Bill Lemons to John G. Neihardt, July 23, 1957</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.25.13</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Bill Lemons to John G. Neihardt</title>
+                    <date when="1957-07-23">July 23, 1957</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.25.13"/>
+                
+                <fw type="curatorial">13</fw>
+                
+                <opener>
+                    <dateline>
+                        814 Emerson Avenue, North
+                        Minneapolis 11, Minnesota
+                        July 23, 1957
+                    </dateline>
+                    
+                    <salute>Dear Mr. Neihardt,</salute>
+                </opener>
+                <p>Am wondering whether you got my letter of a few months ago, which, I seem to recall now, was rather lamely facetious, and therefore perhaps not worth answering. But I hope you'll answer this one.</p>
+                
+                <p>We are moving soon and I want you to know of our whereabouts. We have been to Illinois only once in the last two years. Otherwise I should have tried to see folks, about whom I do think often. I have now finished the course work for the Ph. <hi rend="caps">D.</hi> here at the University of Minnesota. It has dragged along because of the part-time teaching I had to do while studying--and because of my natural intertia, I fear, when it comes to scholarly matters. Now, we must bring in some money again, and so I have taken a teaching position at Eau Claire State College in Wisconsin. We are moving there in two weeks (August 6), and are fortunate to have rented a nice place on Lake Altoona which we look forward to enjoying this coming year. Our new address will be:
+                    <address>
+                        <addrLine>North Shore Drive</addrLine>
+                        <addrLine>Lake Altoona</addrLine>
+                        <addrLine>Eau Claire, Wisconsin</addrLine>
+                    </address>
+                </p>
+                
+                <p>Our baby Emily thrives very well. Wish you could see her, for I know you like children at your house. She is seven months old. We are all well.</p>
+                
+                <p>I've been thinking lately that I might try to do an article on you, Mr. Neihardt, this winter--a kind of appreciation for your achievement. Want to get in touch with you partly for that reason, for I may have to ask some questions.</p>
+                
+                <p>Kindest thoughts from an old friend.</p>
+                <closer>
+                    <salute>Sincerely,</salute>
+                
+                    <signed>Bill Lemons</signed>
+                </closer>
+                    
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

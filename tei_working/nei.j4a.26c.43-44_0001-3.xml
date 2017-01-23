@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.26c.43-44_0001-3">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from L. Matthews Werner to John G. Neihardt, November 5, 1958</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.26c.43-44_0001-3</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from L. Matthews Werner to John G. Neihardt</title>
+                    <date when="1958-11-05">November 5, 1958</date>
+                    <extent>3 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>3 type-written pages</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>3 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.26c.43-44_0001"/>
+                
+                <fw type="curatorial">43</fw>
+                
+                <fw type="imprint">
+                    <figure>
+                        <figDesc>Coat of Arms</figDesc>
+                    </figure>
+                    
+                    <hi rend="caps">SEBAGO SCHOOL</hi>
+                        <lb/>
+                    5515-5521 Cates Avenue
+                        <lb/>
+                    St. Louis 12, Mo.
+                        <lb/>
+                    
+                    <hi rend="caps">DIRECTORS
+                        <lb/>
+                    L. MATTHEWS WERNER
+                        <lb/>
+                    MARGARET STEELE WERNER</hi>  
+                </fw>
+                
+                <opener>
+                    <dateline>November 5, 1958</dateline>
+                
+                    <address>
+                        <addrLine>Dr. John Neihardt</addrLine>
+                        <addrLine>Skyrim Farm</addrLine>
+                        <addrLine>Route 7</addrLine>
+                        <addrLine>Columbia, Missouri</addrLine>
+                    </address>
+                
+                    <salute>Dear John:</salute>
+                </opener>
+                <p>Margaret and I were very disappointed that our trails failed to cross the last time you were in town. If and when you are down our way again, do remember that we would love to see you and there is always a bit of food and a place to lay a weary head.</p>
+                
+                <p>Thanks for your letter and best wishes to you and your students of the "Cycle of the West". Margaret and I both send affectionate greetings.</p>
+                <closer>
+                    <signed>Matt</signed>
+                </closer>
+                
+                <fw type="letterhead"><hi rend="caps">CAMP IRONWOOD COMMUNITY FOR BOYS AND GIRLS, AT HARRISON, MAINE, IS THE SEBAGO EASTERN CAMP</hi></fw>
+                
+            </div1>
+            
+            
+            <div1 type="enclosure">
+                
+                <pb facs="nei.j4a.26c.43-44_0002"/>
+                
+                <fw type="curatorial">44</fw>
+                
+                <fw type="imprint">
+                    <figure>
+                        <figDesc>An adult stick figure and a child stick figure walking hand in hand</figDesc>
+                    </figure>
+                    
+                    <hi rend="caps">SEBAGO SCHOOL
+                        <lb/>
+                    5515 CATES AVENUE
+                        <lb/>
+                    ST. LOUIS 12, MO</hi>
+                    
+                    <figure>
+                        <figDesc>2 child stick figures outside a school building</figDesc>
+                    </figure>
+                </fw>
+                
+                <opener>
+                    <hi rend="underline"><hi rend="caps">THE PROBLEM OF ACCEPTING A NEW STUDENT AT THE SEBAGO SCHOOL</hi></hi>
+                </opener>
+                <list>
+                    <item>Step 1. First and foremost is the question of whether or not we are prepared to fulfill the prospective student's needs. We must analyze the factors involved very carefully in cooperation with the parents and the referring agency or specialist.</item>
+                
+                    <item>Step 2. We must thoroughly consider the effect that he would have on our group as a whole and on each individual member and vice versa, as follows:
+                        <list>
+                            <item><hi rend="caps">A.</hi> The prospective student's effect on our group.</item>
+                        
+                            <item><hi rend="caps">B.</hi> Our group's effect on the prospective student.</item>
+                        
+                            <item><hi rend="caps">C.</hi> The prospective student's effect on any individual in our group.</item>
+                        
+                            <item><hi rend="caps">D.</hi> The effect of any individual in our group on the prospective student.</item>
+                        </list>
+                    </item>
+                
+                    <item><hi rend="caps">CONCLUSION:</hi> <p>If the analysis in the first step indicates that we can fulfill the child's needs, and if none of the considerations in the second step present serious obstacles, then we can accept the child as a student.</p>
+                
+                    <p>Even when the conclusion is drawn that we should accept the youngster, it is understood that the first three months are on a trial basis. This is to check our judgment before settling a long-time plan (generally three years).</p></item>
+                </list>
+                <p>The most frequent cause for our refusing a prospective pupil has been on the basis that we felt it would be unfair to our current student group. As our group composition changes somewhat from year to year, the type of problem that we would feel necessary to refuse one season might be quite acceptable another school year. This situation often causes our enrollment to fall under our limited membership of eight boys and girls, and, on rare occasions, to go over the "limited" number.</p>
+               
+                <p>Our work is intensely personal and individualized. While living 24 hours a day in a residential therapy home atmosphere we have frequent talks and bedside chats with each youngster and regular conference with some of them. At the same time, group work techniques play a leading role and are used hand-in-hand with individual guidance. Children who are ready for psychiatric treatment see our consulting psychiatrist.</p>
+                
+                <p>We are particularly interested in the problems and needs of the very bright child of any age who is not making a good adjustment. We have been quite successful in helping both passive, withdrawn children and those who are acting out their conflicts. However, we are not prepared to help the extreme case of the hate-filled delinquent, extreme sex problems, or the child of too low intelligence.</p>
+                
+                Directors
+                <hi rend="caps">L.</hi> Matthews Werner
+                Margaret Steele Werner
+                
+                <figure>
+                    <figDesc>Coat of Arms</figDesc>
+                </figure>
+                
+                Camp Ironwood
+                Harrison, Maine
+                Sebago's Summer Headquarters
+                
+            </div1>
+            
+            
+            <div1 type="enclosure">
+                
+                <pb facs="nei.j4a.26c.43-44_0003"/>
+                
+                <hi rend="italics">For information
+                write to us or:</hi>
+                
+                <list>
+                <item>Dr. John <hi rend="caps">M.</hi> Arthur</item>
+                <item>Dr. Harry <hi rend="caps">E.</hi> August</item>
+                <item>Dr. Catherine Bacon</item>
+                <item>Dr. Viola <hi rend="caps">W.</hi> Bernard</item>
+                <item>Dr. Bruno Bettelheim</item>
+                <item>Dr. Peter Blos</item>
+                <item>Mrs. Berta Bornstein</item>
+                <item>Dr. Anne <hi rend="caps">B.</hi> Cronick</item>
+                <item>Dr. John <hi rend="caps">M.</hi> Dorsey</item>
+                <item>Dr. <hi rend="caps">H. H.</hi> Fingert</item>
+                <item>Dr. Margaret <hi rend="caps">C. L.</hi> Gildea</item>
+                <item>Dr. Edwin <hi rend="caps">F.</hi> Gildea</item>
+                <item>Dr. Louis <hi rend="caps">A.</hi> Gottschalk</item>
+                <item>Dr. Dora Hartmann</item>
+                <item>Dr. Heinz Hartmann</item>
+                <item>Dr. Irene <hi rend="caps">M.</hi> Josselyn</item>
+                <item>Dr. Leo Kanner</item>
+                <item>Dr. Alex <hi rend="caps">H.</hi> Kaplan</item>
+                <item>Dr. Marianne Kris</item>
+                <item>Dr. George <hi rend="caps">J.</hi> Mohr</item>
+                <item>Dr. David Rapaport</item>
+                <item>Dr. Fritz Redl</item>
+                <item>Miss Helen Ross</item>
+                <item>Dr. George Saslow</item>
+                <item>Dr. Louis <hi rend="caps">A.</hi> Schwartz</item>
+                <item>Dr. Conrad Sommer</item>
+                <item>Dr. Tom <hi rend="caps">G.</hi> Stauffer</item>
+                <item>Dr. Editha Sterba</item>
+                <item>Dr. Charles <hi rend="caps">M.</hi> Toy</item>
+                </list>
+                
+                <figure>
+                    <figDesc>Coat of Arms</figDesc>
+                </figure>
+                
+                <hi rend="caps">WE'RE MOVING TO FLORIDA!</hi>
+                
+                <p>This will be the last school year in St. Louis. In June, we move to our new home in the Coconut Grove section of Miami, Florida.</p>
+                
+                <p>As usual during the summer, we will conduct the school program at
+                    <address>
+                        <addrLine><hi rend="caps">CAMP IRONWOOD</hi></addrLine>
+                        <addrLine><hi rend="caps">HARRISON, MAINE</hi></addrLine>
+                    </address>
+                </p>
+                
+                <p>We will start the school year in September 1959 at our new address
+                    <address>
+                        <addrLine><hi rend="caps">SEBAGO SCHOOL</hi></addrLine>
+                        <addrLine><hi rend="caps">3525 CRYSTAL VIEW COURT</hi></addrLine>
+                        <addrLine><hi rend="caps">MIAMI, FLORIDA</hi></addrLine>
+                    </address>
+                </p>
+                
+                <p>While in St. Louis, it has been our policy not to accept local students. The local child has too many <hi rend="underline">outside</hi> interests and object relationships to feel the immediate need to turn to us for his emotional satisfactions. Also, there is the constant problem of interference from old friends, relatives and his immediate family.</p>
+                
+                <p>In Miami, we plan to continue the same policy of not accepting local children. However, this will mean that for the first time, we will be able to welcome children from the St. Louis area.</p>
+                
+                <p><hi rend="caps">AT THE PRESENT TIME, WE CAN ACCEPT TWO NEW STUDENTS EIGHT YEARS OF AGE OR OLDER.</hi></p>
+                
+                <note type="curatorial"><hi rend="caps">JOHN G. NEIHARDT CENTER</hi></note>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>
+

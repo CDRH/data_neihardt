@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.13.26-28_0001-3">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Katharine Lee Bates to John G. Neihardt, November 5, 1928</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.13.26-28_0001-3</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Katharine Lee Bates to John G. Neihardt</title>
+                    <date when="1928-11-05">November 5, 1928</date>
+                    <extent>2 pages, plus envelope</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 type-written pages, plus envelope</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>2 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.13.26-28_0001"/>
+                
+                <note type="curatorial">Missouri Collection</note>
+                <fw type="curatorial">26</fw>
+                
+                <fw type="letterhead">
+                    <hi rend="caps">KATHARINE LEE BATES
+                        <lb/>
+                    70 CURVE ST.
+                        <lb/>
+                    WELLESLEY, MASS.</hi>
+                </fw>
+                
+                <opener>
+                    <dateline>November 5, 1928</dateline>
+                
+                    <address>
+                        <addrLine>Mr. John <hi rend="caps">G.</hi> Neihardt</addrLine>
+                        <addrLine>Kirkwood</addrLine>
+                        <addrLine>Missouri</addrLine>
+                    </address>
+                    
+                    <salute>My dear Mr. Neihardt:</salute>
+                </opener>
+                <p>Even if your telegram had not reached me this afternoon I should have written you about the failure of the Dana Hall engagement. I had hoped to have several engagements for you, but the influential and vigorous lady on whom I had depended for two ( one in Boston and one in Brookline) had to be abroad on family matters, and another leading woman, president of the New England Poetry Club, whom I had planned to see on her return from Europe is still held there by her son's illness. But I certainly supposed the Dana Hall matter was arranged. The principal of Dana Hall, Miss Cooke, is a somewhat erratic lady of rather unstable memory. We drove to her door, after our unavailing call on the Brookline lady, and she said with the utmost enthusiasm, "I shall write to Mr. Neihardt to-morrow and ask him to come to us Sunday night, November 11, for a fee of $100." "Oh, write to-night," I said, "don't wait until to-morrow." "I will write this very minute," she replied, waving her hand gaily, "and get the letter off before dinner." And that is the last I had heard from her until yesterday when it came out in the course of conversation that she had
+                
+                    <pb facs="nei.j4a.13.26-28_0002"/>
+                    <fw type="curatorial">27</fw>
+                
+                    forgotten all about it and filled the date otherwise and was to be in New York herself.</p> 
+                
+                <p>I am exceedingly sorry, but our college memories are better, and we have $150 and a warm welcome in reserve for you. The college will be glad to entertain you over Tuesday night, probably at Tower Court where you will have a charming hostess in Dean Tufts. I have most in opportunely<sic>inopportunely</sic> been indulging in a slight heart attack myself, and, although I am recovering as fast as I can in the hope of attending your dinner Tuesday evening, my marble-hearted doctor may not let me go, but I trust you will remain into Wednesday long enough at least for a call, or a drive or both, as I should be surely grieved after wanting so much to see and hear you to miss you altogether. I know that Mr. and Mrs. Loveland of Wellesley are Nebraska friends of yours and am suggesting to Miss Tufts that they be invited to meet you at dinner. If there is any one else in our faculty whom you would especially like to see, please let me know.</p>
+                
+                <p>If you will kindly notify me by letter or telegram when to expect you, I will be glad to send my car to meet you in Boston, unless the Lovelands claim that privilege for themselves.</p>
+                
+                <p>In announcing your coming I have stressed "The Song of the Indian Wars," and I ho<del/><add>p</add>e very much that you will read in large part from those splendid pages. In general our audiences care more for the actual reading of poetry than they do for the digressions and descriptions which seem to be coming to be more and more the fashion.</p>
+                <closer>
+                    <salute>Cordially yours,</salute>
+                    
+                    <note>Dictated but not seen.</note>
+                
+                    <signed>Katharine Lee Bates by SH</signed>
+                </closer>
+                
+            </div1>
+            
+            
+            <div1 type="envelope">
+                
+                <pb facs="nei.j4a.13.26-28_0003"/>
+                
+                <fw type="curatorial">28</fw>
+                
+                <note type="recipient">Katharine Lee Bates</note>
+                
+                <ab type="postmark">
+                    WELLESLEY
+                    NOV 6
+                    11 AM,
+                    1928
+                    MASS.
+                    8
+                </ab>
+                <figure>
+                    <figDesc>2 Cent Stamp</figDesc>
+                    <p><unclear/> 2 CENTS 2</p>
+                </figure>
+                
+                <ab type="address">
+                    <address>
+                        <addrLine>Mr. John <hi rend="caps">G.</hi> Neihardt</addrLine>
+                        <addrLine>Kirkwood</addrLine>
+                        <addrLine>Missouri</addrLine>
+                    </address>
+                </ab>
+                
+                <note type="recipient">Jordan Hamilton Poet Katharine Lee Bates</note>
+                <note type="recipient">From How to Theacratus by <hi rend="underline">Edward Caffs</hi></note>
+                <note type="recipient">_______________________
+                                        The Master's Mistress <hi rend="underline"><hi rend="caps">R.</hi>O'Neill</hi></note>
+                <note type="recipient">Eda Howwle 86 Macdougal <unclear>hwy.</unclear></note>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>
+

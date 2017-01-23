@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.36a.71">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Edward C. Lambert to John G. Neihardt, October 27, 1972</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.36a.71</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Edward C. Lambert to John G. Neihardt</title>
+                    <date when="1972-10-27">October 27, 1972</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.36a.71"/>
+                
+                <fw type="curatorial">71</fw>
+                
+                <fw type="imprint">
+                    University of Missouri - Columbia
+                        <lb/>  
+                    <figure>
+                        <figDesc>University of Missouri - Columbia Seal</figDesc>
+                        <p>∙ SIGILL ∙ UNIVERSITATIS ∙ MISSOURIEN ∙ MDCCCXXXIX</p>
+                    </figure>
+                        <lb/>
+                    100 Neff Hall
+                    Columbia, Mo. 65201
+                        <lb/>
+                    <hi rend="caps">SCHOOL OF JOURNALISM</hi>
+                        <lb/>
+                    Telephone
+                    314-882-4821
+                </fw>
+                
+                <opener>
+                    <dateline>October 27, 1972</dateline>
+                    
+                    <address>
+                        <addrLine>Dr. John <hi rend="caps">G.</hi> Neihardt</addrLine>
+                        <addrLine>5835 Vine Street</addrLine>
+                        <addrLine>Lincoln, Nebraska 68505</addrLine>
+                    </address>
+                    
+                    <salute>Dear Dr. Neihardt:</salute>
+                </opener>
+                <p>I am most appreciative of your thoughtfulness in sending me a copy of your new book, "All Is But A Beginning." Both Ella, my wife, and I are looking forward to reading it.</p>
+                
+                <p>When Ella was working on her <hi rend="caps">M.A.</hi> degree, she took your course, "Epic America," by television when it was shown over <hi rend="caps">KOMU-TV</hi>. I shared the viewing with her or witnessed the presentations from <hi rend="caps">KOMU-TV</hi>. As you may recall, yours was our first television course over <hi rend="caps">KOMU</hi>. Neither of us has ever been more favorably impressed by a television presentation than we were by yours. Thus, we're thoroughly delighted that so many more Americans now are rediscovering the magnificence of your work. Ella has just finished reading "Bury My Heart At Wounded Knee," and she was delighted to see that there were many references to your works in this book.</p>
+                
+                <p>You may recall the two Missouri Forums I did with you and Dean Mott; once when you were the guest and he was on the panel, and once when he was the guest and you were on the panel. In my estimation, these were two of the finest programs I have ever done. Also I understand the half hour video tape interview I did with you some years back is now in the State Historical Society.</p>
+                
+                <p>I hope your health is fine and that you are enjoying life. Please accept my sincerest thanks for the book. I shall treasure it. I am particularly delighted with the inscription you wrote in it. Kindest personal regards to you,</p>
+                <closer>
+                    <salute>Cordially</salute>
+                    
+                    <signed>Ed Lambert</signed>
+                    <signed>Edward C. Lambert</signed>
+                    
+                    <note>ECL:mh</note>
+                </closer>
+                
+                <fw>1</fw>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

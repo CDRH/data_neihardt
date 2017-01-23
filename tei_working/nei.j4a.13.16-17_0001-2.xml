@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.13.16-17_0001-2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from W. B. Trites to John G. Neihardt, March 12, 1928</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.13.16-17_0001-2</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from W. B. Trites to John G. Neihardt</title>
+                    <date when="1928-03-12">March 12, 1928</date>
+                    <extent>4 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>4 hand-written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>4 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.13.16-17_0002a"/>
+                
+                <figure>
+                    <figDesc>Nice. Mont&#232;e du Ch&#226;teau. Tour Bellanda Ascending to the Castle and Bellania Tower</figDesc>
+                    <p>104.- NICE.&#8212; Mont&#232;e du Ch&#226;teau.- Tour Bellanda Ascending to the Castle and Bellania Tower</p>
+                </figure>
+                
+                <fw type="curatorial">17</fw>
+                
+                <pb facs="nei.j4a.13.16-17_0002b"/>
+                
+                <figure>
+                    <figDesc>Nice. View overlooking ?</figDesc>
+                    <p><unclear reason="faded"></unclear> NICE <unclear reason="faded"></unclear></p>
+                </figure>
+                
+                <pb facs="nei.j4a.14.16-17_0001b"/>
+                
+                <fw type="imprint">
+                    <hi rend="italic">Aucun inscription n'est admise du <unclear>côté</unclear> de la Vue</hi>
+                        <lb/>
+                    <hi rend="caps">CARTE POSTALE</hi>
+                        <lb/>
+                    <hi rend="italic">Partie r&#233;serv&#232;e a la Correspondence   R&#233;serv&#232;e <unclear>a l'addresse</unclear></hi>
+                    <figure/>
+                </fw>
+                
+                <opener><salute>Dear Mr Neihardt,&#8212;</salute></opener> <p>You must have thought me very stupid to leave out your name in my letter to you about <hi rend="underline">The Gypsy</hi>, but the clipping sent me had no heading, and so I thought your review was anonymous The fact that this review was by so distinguished a writer as yourself makes 
+                    
+                    <figure/>
+                    <fw type="curatorial">16</fw>
+                    
+                    <pb facs="nei.j4a.13.16-17_0001a"/>
+                    <fw type="authorial">2</fw>
+                    
+                <fw type="imprint">
+                    <hi rend="italic"><unclear cert="high">Aucun inscription n'est admise du <unclear>côté</unclear> de la Vue</unclear></hi>
+                        <lb/>
+                    <hi rend="caps">CARTE POSTALE</hi>
+                        <lb/>
+                    <hi rend="italic"><unclear>Partie r&#233;serv&#232;e a la Correspondence   R&#233;serv&#232;e <unclear>a l'addresse</unclear></unclear></hi>
+                    <figure/>
+                </fw>
+                    
+                    its excellence less remarkable (I have just reviewed a second, <unclear/> clipping). It also makes the review all the more valuable to me.</p> 
+                <closer>
+                    <salute>Yours truly</salute>
+                
+                    <signed>WB Trites</signed>
+                
+                    <figure/><dateline>12. Mch. 1928</dateline>
+                </closer>
+                
+                    <pb facs="nei.j4a.13.16-17_0001c"/>
+                
+                <note type="recipient">Joseph <hi rend="caps"><unclear>M.</unclear></hi> Gelder, famous critic + editor &#8212; brother of Richard Hotron Gelder (poet) and Jeanette Gelder (critic)</note>
+                
+                <note type="curatorial">Missouri Collection</note>     
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.15.5-7_0001-3">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Thomas S. Jones, Jr. to John G. Neihardt, May 17, 1930</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.15.5-7_0001-3</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Thomas S. Jones, Jr. to John G. Neihardt</title>
+                    <date when="1930-05-17">May 17, 1930</date>
+                    <extent>3 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>3 hand-written pages</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>3 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.15.5-7_0001"/>
+                
+                <note type="curatorial">Missouri Collection</note>
+                <fw type="curatorial">5</fw>
+                
+                <opener>
+                    <dateline>
+                        411 West 115 St. <hi rend="caps">N.Y.C</hi>
+                        May 17. 1930
+                    </dateline>
+                    
+                    <salute>Dear John Neihardt,</salute>
+                    <note type="curatorial">[St. Louis Post-Dispatch]</note>
+                </opener>
+                <p><hi rend="underline">Do let me have a line from you.</hi> You have become such a great factor in my life, that your silence troubles me: <hi rend="underline">please break it</hi>.</p>
+                
+                <p>A few weeks ago Dr. House came to see me. I enjoyed him immensely &#8212; and am deeply
+                
+                    <pb facs="nei.j4a.15.5-7_0002"/>
+                    <fw type="curatorial">6</fw>
+                
+                    grateful for the showing he gave me in his magazine.</p>
+                
+                <p>I sent you one of the first copies of the <hi rend="underline">Leonardo</hi>. I am not surrounded by <hi rend="underline">Indians</hi>: fourteen sonnets of the sequence have gone through: <unclear>Tadousac</unclear>, Jacques Cartier, Vincent de Paul, No&#235;l Brulart de Sillery, Jean de Brebeux, Marie de l'Tucamutiou, <add>Port Royal</add>, Paul le Jeune, <del>Isaac</del> The Forest Peace (Champlain), Isaac Joques, Joques at the Court, Lac du Saint Sacrement, Inonatiria (the Huron Indian Village), The Mission of Sainte 
+                    
+                    <pb facs="nei.j4a.15.5-7_0003"/>
+                    <fw type="curatorial">7</fw>
+                    
+                    Marie. I hope for about four more to make the sequence complete.</p>
+                
+                <p><hi rend="underline">The Mission of Sainte Marie</hi> (on <unclear>Labettuou</unclear>), was written on May Eve. <hi rend="underline">The next morning</hi> I received from <hi rend="underline">the <unclear>Sault</unclear> Sainte Marie</hi> a box of <unclear/>, and <hi rend="underline">from Auriesvilla</hi> (in the Mowhawk Valley <add>where Joques was martyred</add>) a little piece of silk "from National <unclear>wrapped</unclear> about the relics of Jean <unclear>Brebeaux</unclear>, Gabriel Lalemont, and <unclear>Charles</unclear> Garnier"! The sonnet fortells the martyrdom of these three. &#8212; God and his Saints bless you ever.</p>
+                <closer>
+                    <salute>Affectionately,</salute>
+                    
+                    <signed>Thomas S. Jones Jr.</signed>
+                </closer>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>
+

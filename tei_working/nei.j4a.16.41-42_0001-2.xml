@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.16.41-42_0001-2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from J. B. Rhine to John G. Neihardt, December 19, 1935</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.16.41-42_0001-2</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from J. B. Rhine to John G. Neihardt</title>
+                    <date when="1935-12-19">December 19, 1935</date>
+                    <extent>1 page, plus envelope</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page, plus envelope</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="3">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.16.41-42_0002"/>
+                
+                <fw type="curatorial">42</fw>
+                
+                <fw type="letterhead">
+                Duke University 
+                    <lb/>
+                <hi rend="caps">DURHAM
+                    <lb/>
+                NORTH CAROLINA
+                    <lb/>
+                
+                
+                DEPARTMENT OF PSYCHOLOGY</hi>
+                </fw>
+                
+                <opener>
+                    <dateline>December 19, 1935</dateline>
+                
+                    <address>
+                        <addrLine>Mr. John <hi rend="caps">G.</hi> Neihardt</addrLine>
+                        <addrLine>St. Louis Post Dispatch</addrLine>
+                        <addrLine>St. Louis, Mo.</addrLine>
+                    </address>
+                    
+                    <salute>Dear Mr. Neihardt:</salute>
+                </opener>
+                <p>Mrs. Crunden kindly sent me the clipping of your review of my book <hi rend="underline">Extra-Sensory Perception</hi> appearing in the <hi rend="underline">Post-Dispatch</hi>. I want to thank you for this splendid treatment of it and assure you that such a review will do a great deal to aid the work which we are trying to continue here.</p>
+                
+                <p>I have put your name on the list of those to whom reprints are to be sent and hope that something further will come out of the Duke Para-psychological Laboratory which will be of interest to you.</p>
+                <closer>
+                    <salute>Sincerely yours,</salute>
+                    <signed>JB Rhine</signed>
+                    <signed>J. B. Rhine</signed> 
+                
+                    <note>JBR:MW</note>
+                </closer>
+                
+                <postscript>
+                    <p>I enjoy the occasional poem I come across under your name.</p> 
+                    <closer><signed>J.B.R.</signed></closer>
+                </postscript>
+                
+                <note type="curatorial">Found in- <hi rend="underline">Extra-Sensory Perception</hi> <hi rend="caps">J.B</hi> Rhine PhD. Bruce Humphries Inc. Boston 1935</note>
+                
+            </div1>
+            
+            
+            <div1 type="envelope">
+                
+                <pb facs="nei.j4a.16.41-42_0001"/>
+                
+                <note type="curatorial">216 Neihardt Collection</note>
+                <fw type="curatorial">41</fw>
+                
+                <ab type="return">
+                    <add><hi rend="caps">J. B.</hi> Rhine</add>
+                        <lb/>
+                    Duke University
+                        <lb/>
+                    <hi rend="caps">DURHAM, NORTH CAROLINA</hi>
+                        <lb/>
+                    ------
+                        <lb/>
+                    Department of Psychology
+                </ab>
+                
+                <ab type="postmark">
+                    DURHAM N.C.
+                    DEC 30
+                    1935
+                    11 AM
+                    COLLEGE STA.
+                </ab>
+                <figure>
+                    <figDesc>3 Cent Stamp</figDesc>
+                    <p>UNITED STATES POST<unclear reason="missing" cert="high">AGE</unclear> WASHINGT<unclear reason="missing" cert="high">ON</unclear> 3 CENT<unclear reason="missing" cert="high">S 3</unclear></p>
+                </figure>
+                
+                <ab type="address">
+                    <address>
+                        <addrLine>Mr. John <hi rend="caps">G.</hi> Neihardt</addrLine>
+                        <addrLine><del>St. Louis Post Dispatch</del></addrLine>
+                        <addrLine><del>St. Louis, Mo.</del></addrLine>
+                        <addrLine><add>Branson, <hi rend="caps">MO</hi></add></addrLine>
+                    </address>
+                </ab>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

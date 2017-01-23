@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.22.3-5">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to Lucile Aly, October 9, 1958</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2015</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4c.22.3-5</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Lucile Aly</title>
+                    <date when="1917-03-13">March 13, 1917</date>
+                    <extent>4 pages, plus envelope</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>4 hand-written pages, plus envelope</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>4 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Lambert</term>
+<term>Ellis, Roy, 1888-</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term>The Song of Three Friends</term>
+                    <term>The Song of Hugh Glass</term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Aly, Lucile Folse, 1913-</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="lkw">Weakly, Laura K.</name> Keywords; Validation</change>
+            <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4c.22.3-5_0001b" />
+                
+    <opener>
+                <dateline>Skyrim, 10-9-'58</dateline>
+                
+                
+                <salute>Dear Doctor ("The Pretty One" (*) ) Aly:</salute>
+    </opener>
+                <p>The form of salutation is well documented in the footnote.</p>
+                
+                <p>Evidently you went through the final test like a ship under full sail in a high, following wind! Reid sent me a copy of the program with the remark, "you would have been proud of Lucile, as we were." Moffet was happy, and we were happy together.</p>
+                    
+                    <milestone unit="section" rend="line"/>
+                    
+                    <note type="footnote">(*) From an interview with Dr. Bower Aly, June the umpth, 1958.</note>
+                    
+                    <fw type="curatorial">3</fw>
+               <pb facs="nei.j4c.22.3-5_0001a"/>     
+                    <fw type="authorial">-2-</fw>
+                    
+                    <p>The television course prospers. I completed <hi rend="underline">Three Friends</hi> right on the dot yesterday (Wed.) and will begin <hi rend="underline">Hugh Glass</hi> today. In television, radio, and newspaper publicity <del>it</del> the reference is to "the very popular <del/> telecourse". One housewife wrote the station that she "just loved the way the <del/> elderly gentleman <del/> reads poetry"! They are happy out at the station, and are giving me fine support with visuals, sound effects etc. Lambert and Ellis changed
+                    
+               <pb facs="nei.j4c.22.3-5_0002a"/>     
+                    <fw type="authorial">(3)</fw> the time from 4:30-5:00 to 5:00-5:30. Many had complained that they couldn't make the earlier time. We  begin Oct. 13 with the new time.</p>
+               
+                <p>I like to believe that you had a pleasant, though hurried, trip back home, and I'm eager to hear from Doctor Aly.</p>
+               
+                <p>Bless your good hearts!</p>
+               <closer> 
+                <salute>Affectionately</salute>
+                <signed>John Neihardt</signed>
+               </closer>
+                
+               <pb facs="nei.j4c.22.3-5_0002b"/> 
+                <postscript><p>My wheat is up - green as a spring lawn - 15 acres of it.</p></postscript>
+                <fw type="curatorial">4</fw>
+                
+            </div1>
+            
+            
+            <div1 type="envelope">
+               <pb facs="nei.j4c.22.3-5_0003"/>  
+                
+                <ab type ="return">
+                John Neihardt                             
+                Route 7
+                <hi rend="underline">Columbia</hi>, Mo.
+                </ab>
+                
+                <note type="authorial">=====
+                                        Air <hi rend="italic">Mail</hi></note>
+                <ab type="postmark">COLUMBIA. MO. OCT 10 3 - PM 1958
+                PRAY FOR PEACE</ab>
+                <figure>
+                    <figDesc>4 Cent Stamp</figDesc>
+                    <p>4¢ LINCOLN U.S. POSTAGE</p>
+                </figure>
+                <figure>
+                    <figDesc>4 Cent Stamp</figDesc>
+                    <p>4¢ LINCOLN U.S. POSTAGE</p>
+                </figure>
+                <note>1086 E21</note>
+                
+                <ab type="address">
+                    <address>
+                <addrLine>Dr. Lucile Aly,</addrLine>
+                <addrLine>2094 Hilyard,</addrLine>
+                <addrLine>Eugene,</addrLine>
+                <addrLine>Oregon.</addrLine>
+                    </address>
+                </ab>
+                
+                <note type="curatorial">19-2</note>
+               <fw type="curatorial">5</fw> 
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.16.32">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Carl Van Doren to John G. Neihardt, September 23, 1935</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.16.32</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Carl Van Doren to John G. Neihardt</title>
+                    <date when="1935-09-23">September 23, 1935</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.16.32"/>
+                
+                <note type="curatorial">Missouri Collection</note>
+                
+                <note><hi rend="underline"><hi rend="caps">C O P Y</hi></hi></note>
+                
+                <fw type="curatorial">32</fw>
+                  
+                <fw type="imprint">
+                    <hi rend="italics">The Limited Editions Club</hi> <hi rend="caps">INC.</hi> 551 <hi rend="italics">Fifth Avenue, New York</hi>
+                        <lb/>
+                    <hi rend="italics">Telephone</hi> <hi rend="caps">MURRAY HILL</hi> 2&#8212;1695-1696  <hi rend="italics">Cables</hi> <hi rend="caps">LIMITBOOKS</hi>
+                
+                    <figure>
+                        <figDesc>Drawing, within a circle, representing three people reading books</figDesc>
+                    </figure>
+                </fw>
+               
+                <opener>
+                    <dateline>September 23 1935</dateline>
+                
+                    <address>
+                        <addrLine>Mr. John <hi rend="caps">G.</hi> Neihardt</addrLine>
+                        <addrLine>care of Mr. Charles <hi rend="caps">W.</hi> Kelly</addrLine>
+                        <addrLine>473 First Avenue</addrLine>
+                        <addrLine>Salt Lake City, Utah</addrLine>
+                    </address>
+                    
+                    <salute>Dear Mr. Neihardt</salute>
+                </opener>
+                <p>We are all pleased indeed, that you have agreed to represent your State in the committee of nominators for The Limited Editions Club's Gold Medal.</p>
+                
+                <p>We are anxious that the first award prove impressive; that the Gold Medal be awarded, on this first occasion, in such a manner that it will set the proper standard for future annual awards. For that reason, we have made a change in our plans. The first award is to cover a period of three years: it will be made to that book, published in 1932 or 1933 or 1934, which is considered to be most nearly a classic.</p>
+                
+                <p>Will you not make your nomination now on this basis?  Please nominate for us the book which you consider to be most nearly a classic, written by an American, and published in 1932 or 1933 or 1934.</p>
+                
+                <p>The selecting comittee will meet, to make the final selection from the nominations, on Monday October 7. I hope you can have your own nomination in our hands before that day.</p>
+                <closer>
+                    <salute>Cordially yours</salute>
+                    <signed>Carl Van Doren</signed>
+                    <signed>Carl Van Doren
+                    Chairman</signed>
+                
+                    <note>cvd.B</note>
+                </closer>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

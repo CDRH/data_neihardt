@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.16.16">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from William Cox to John G. Neihardt, November 26, 1933</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.16.16</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from William Cox to John G. Neihardt</title>
+                    <date when="1933-11-26">November 26, 1933</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.16.16"/>
+                
+                <note type="curatorial">Missouri Collection</note>
+                
+                <fw type="letterhead">
+                    <hi rend="caps">WM. COX
+                        <lb/>
+                    RECEIVER OF THE ROYALTON
+                        <lb/>
+                    STATE BANK
+                        <lb/>
+                    ROYALTON, ILLINOIS</hi>
+                </fw>
+                
+                <opener>
+                    <dateline>Nov 26, 1933</dateline>
+                
+                    <address>
+                        <addrLine>Mr John <hi rend="caps">G.</hi> Ne<del><unclear>u</unclear></del><add>i</add>hardt,</addrLine>
+                        <addrLine>Post Dispatch,</addrLine>
+                        <addrLine>St. Louis, Mo,</addrLine>
+                    </address>
+                    
+                    <salute>My Dear Sir,</salute></opener>  <p>For a long timee now I have been reading with ever increasing fascination and approval<add>,</add> now amounting to almost devotion<add>,</add> your column of book reivew. I can no longer resist the desire to write thanking you for the frank and couragious<sic>courageous</sic> criticisms of our disgusting, barbaric and now threadbear<sic>threadbare</sic> social order<add>,</add> which you so splendidly make, and also for the inte<del>e</del>rspertions of implications of suggesting the establishment of a world set free from its present miseries,resulting from individualism,and f<del/><add>i</add>rmly established on a collective, co-ordinated, co-operative basis.</p>
+                
+                <p>Your criticism of a social order which has made possible the private accumulations of the Mellons in to-day's Post Dispatch is superb. It is indeed a delight to read one who , unlike so many at this time are mistaking the shadow for the substance and by their quack nostrums are confusing the masses and doping out mere paliatives, is driving to the centre fundamental cause<del/>  of our social ills with the only sound and sure remedy. Mr Nehardt<sic>Neihardt</sic>, as one Comrade to another I salute you.</p>
+                
+                <p>I also wish you to pass my compliments on to the Post <del/><add>Di</add>spatch, the owners of which make your message possible. I am meeting many these days who are reading your column and wishing for more.</p>
+                <closer>
+                    <salute>Very respectfully yours</salute>
+                
+                    <signed>Wm Cox</signed>
+                </closer>
+                
+                <fw type="curatorial">16</fw>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>
+

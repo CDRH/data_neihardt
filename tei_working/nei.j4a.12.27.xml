@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.12.27">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from L. A. Sherman to John G. Neihardt, April 22, 1926</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.12.27</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from L. A. Sherman to John G. Neihardt</title>
+                    <date when="1926-04-22">April 22, 1926</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.12.27"/>
+                
+                <note type="curatorial">47 House Collection</note>
+                <fw type="curatorial">27</fw>
+                
+                <fw type="letterhead">
+                    <hi rend="caps">THE UNIVERSITY OF NEBRASKA 
+                        <lb/>
+                    LINCOLN
+                        <lb/>
+                
+                    THE GRADUATE COLLEGE
+                        <lb/>
+                    DEAN'S OFFICE</hi>
+                </fw>
+                
+                <opener>
+                    <dateline>
+                        April 22
+                        1926
+                    </dateline>
+                    
+                    <address>
+                        <addrLine>Dr. <hi rend="caps">J. G.</hi> Neihardt</addrLine>
+                            <addrLine>Branson Missouri</addrLine>
+                    </address>
+                
+                    <salute>My dear Doctor Neihardt</salute>
+                </opener>
+                <p>There are indications that misapprehension exists concerning your eventual connection with the University, and the attitude of the department of English, here, respecting it.</p>
+                
+                <p>A year ago on Charter Day I voiced by Radio to the Alumni as well as to the University and the town public our desire and expectation that you would soon be added to our resident circle of teachers and writers. Last December, I went to the Chancellor with the suggestion that the first step towards a stated stipend be taken. Chancellor Avery made clear that the Board would not take that step, since it had put him under bonds at the outset, not to make your relations to the University a fixed element in the budget of the University. It would be contrary to good faith to do more than authorize, he said, <hi rend="underline">honoraria</hi>. That there has been jealousy, on your appointment, he did not deny, and there was indignation in his voice as he told me. This was wholly a surprise to me. I am anxious to avouch that there is and has been no whit of jealousy, of any color, on the part of the Chairman of the department of English, or on the part of Scott, or Stuff, or Frye, and I say this from conviction based on full and frank expressions from each. As to the other members of the department, I have no knowledge or suspicion of jealousy in any degree whatsoever. By this I mean, that no one of the persons named but would welcome you as an addition to our staff. Any one who has intimated anything to the contrary has libelled each and every one of us to the limit of the idea and word.</p> 
+                
+                <p>I hope I have not needed to write this. But I am writing it with not only pleasure but enthusiasm. I should add that the mood of the Chancellor was such as to make clear that no jealousy on the part of anybody would count at all with him or the administration at large.</p>
+                <closer>
+                    <salute>As ever</salute>
+                    <salute>Yours faithfully</salute>
+                    
+                    <signed>L. A. Sherman</signed>
+                
+                    <note>LAS H</note>
+                </closer>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>
+
+

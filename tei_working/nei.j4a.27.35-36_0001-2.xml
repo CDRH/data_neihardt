@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.27.35-36_0001-2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Bower Aly to John G. Neihardt, January 30, 1959</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4a.27.35-36_0001-2</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Bower Aly to John G. Neihardt</title>
+                    <date when="1959-01-30">January 30, 1959</date>
+                    <extent>1 page, plus envelope</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page, plus envelope</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.27.35-36_0001"/>
+                
+                <fw type="curatorial">35</fw>
+                
+                <fw type="letterhead">
+                    <hi rend="caps">UNIVERSITY OF OREGON 
+                        <lb/>
+                    COLLEGE OF LIBERAL ARTS 
+                        <lb/>
+                    EUGENE, OREGON
+                        <lb/>
+                
+                    DEPARTMENT OF SPEECH 
+                        <lb/>
+                        RHETORIC AND PUBLIC ADDRESS 
+                            <lb/>
+                        RADIO-TELIVISION 
+                            <lb/>
+                        SPEECH AND HEARING THERAPY 
+                            <lb/>
+                        THEATRE</hi>
+                </fw>
+                
+                <opener>
+                    <dateline>January 30, 1959</dateline>
+                
+                    <address>
+                        <addrLine>Mr. John Neihardt</addrLine>
+                        <addrLine>% Mr. Albert Petri</addrLine>
+                        <addrLine><hi rend="caps">R.F.D.</hi></addrLine>
+                        <addrLine>Columbia, Missouri</addrLine>
+                    </address>
+                
+                    <salute>Dear John:</salute>
+                </opener>
+                <p>We are looking forward to your visit with us and we are pleased that you can bring Robin. I don't know whether he will be pleased or not to learn that we have arranged with the Edison School, where Stewart goes, for Robin to attend school for a week in the State of Oregon. To be sure, if he doesn't want to do that, he doesn't have to, but I think he might like the idea.</p>
+                
+                <p>I am being besieged by suggestions that you speak at various times and places. The faculty at Northwest Christian College, a church school near the campus, would like to have you talk to them on Friday, February 27. Dr. Martin Schmitt would like to have you talk to the library staff and also, I believe, on a university radio program.</p>
+                
+                <p>And I would very much like for you to talk informally on Thursday evening, February 26, to my graduate seminar in the History of American Public Address, on any question or questions that interest you, including the ideas and practices of oratory and poetry among the Sioux and other Indian societies.</p>
+                
+                <p>I don't mean to burden you with my request. I just covet for my students the opportunity for them to sit at your feet for an evening.</p>
+                
+                <p>Would you like to go to the Umpqua country to see where the Jed Smith party met its fate? If you think the journey would not be to much for you, we would certainly be glad to arrange it.</p>
+                <closer>
+                    <salute>With best wishes, now as ever, I am</salute>
+                    
+                    <salute>Sincerely yours,</salute> 
+                    
+                    <signed>Bower</signed>
+                    <signed>Bower Aly</signed>
+                
+                    <note>BA:ph</note>
+                </closer>
+                
+                <figure>
+                    <figDesc>3 Stylized Pine Trees</figDesc>
+                    <p>1959 
+                    OREGON CENTENNIAL 
+                    EXPOSITION</p>
+                </figure>
+                
+            </div1>
+            
+            
+            <div1 type="envelope">
+                
+                <pb facs="nei.j4a.27.35-36_0002"/>
+                
+                <ab type="return">
+                    209 <hi rend="caps">VILLARD HALL 
+                        <lb/>
+                    UNIVERSITY OF OREGON 
+                        <lb/>
+                    DEPARTMENT OF SPEECH 
+                        <lb/>
+                    EUGENE, OREGON</hi>
+                </ab>
+                
+                <fw type="curatorial">36</fw>
+                
+                <note type="recipient">Ansd</note>
+                
+                <ab type="postmark">
+                    EUGENE 
+                    JAN 30 
+                    7 PM
+                    1959
+                    
+                    <unclear cert="high">K</unclear>EEP OREGON <unclear cert="high">GREEN</unclear>
+                </ab>
+                <figure>
+                    <figDesc>1 Cent Stamp</figDesc>
+                    <p>WASHINGTON
+                    1¢
+                    U.S. POSTAGE</p>
+                </figure>
+                <figure>
+                    <figDesc>6 Cent Stamp</figDesc>
+                    <p>AIR M<unclear reason="missing" cert="high">AIL</unclear> 
+                    6¢  <unclear reason="missing" cert="high">6¢</unclear>
+                    UNITED STATES OF A<unclear reason="missing" cert="high">MERICA</unclear></p>
+                </figure>
+                
+                <ab type="address">
+                    <address>
+                        <addrLine>Mr. John Neihardt</addrLine>
+                        <addrLine>% Mr. Albert Petri</addrLine>
+                        <addrLine><hi rend="caps">R.F.D.</hi> <add>5</add></addrLine>
+                        <addrLine>Columbia, Missouri</addrLine>
+                    </address>
+                </ab>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

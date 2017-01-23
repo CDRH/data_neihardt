@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.5.13">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from The Macmillan Company to John G. Neihardt, March 19, 1918</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.5.13</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from The Macmillan Company to John G. Neihardt</title>
+                    <date when="1918-03-19">March 19, 1918</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.5.13" />
+                
+                <fw type="curatorial">13</fw>
+                
+                <fw type="letterhead">
+                    <hi rend="caps">THE MACMILLAN COMPANY
+                        <lb/>
+                    PUBLISHERS
+                        <lb/>
+                    64-66 FIFTH AVENUE
+                        <lb/>
+                    NEW YORK</hi>
+                        <lb/>
+                    
+                    <hi rend="caps">BOSTON
+                        <lb/>
+                    CHICAGO
+                        <lb/>
+                    ATLANTA
+                        <lb/>
+                    DALLAS
+                        <lb/>
+                    SAN FRANCISCO</hi>
+                        <lb/>
+                    
+                    <hi rend="caps">LONDON
+                        <lb/>
+                    TORONTO
+                        <lb/>
+                    BOMBAY
+                        <lb/>
+                    CALCUTTA
+                        <lb/>
+                    MELBOURNE</hi>
+                </fw>
+                <opener>
+                    <dateline>March 19, 1918.</dateline>
+                    
+                    <address>
+                        <addrLine>Mr. John <hi rend="caps">G.</hi> Neihardt,</addrLine>
+                        <addrLine>Bancroft, Nebr.</addrLine>
+                    </address>
+                
+                    <salute>Dear Mr. Neihardt:&#8212;</salute>
+                </opener>
+                <p>I am wondering if I cannot get you to help me on some publicity for Hamlin Garland's <hi rend="caps">A SON OF THE MIDDLE BORDER</hi>. This may seem like a very presuming thing for me to suggest, but I am counting on your good nature and remembering your interest in Mr. Garland's story. I have made the suggestion to several papers that they re-print extracts from <hi rend="caps">A SON OF THE MIDDLE BORDER</hi>, giving full credit of course to the book. There are a great many sections of the book which are complete in themselves &#8212; 2000 words or so in length and which lend themselves nicely to reprinting in this fashion. A number of editors have taken up with the idea, and I would like to get others to do so, particularly in Minnesota, St. Paul, on the coast, and in the Middle West. Do you know of any editors whom I might approach? I would indeed welcome your advice as to the whole thing and any suggestions that you might care to make.</p>
+                
+                <p>I know you are an extremely busy man, and I do hope you will pardon my approaching you in this way.</p>
+                <closer>
+                    <salute>Yours very truly</salute>
+                
+                    <signed>THE MACMILLAN COMPANY.
+                    Editorial Department.</signed>
+                    <signed><unclear reason="missing"/></signed>
+                
+                    <note>ESL/NS</note>
+                </closer>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

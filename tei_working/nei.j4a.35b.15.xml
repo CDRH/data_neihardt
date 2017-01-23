@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.35b.15">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Neil Ashburn to John G. Neihardt, August 4, 1971</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4a.35b.15</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Neil Ashburn to John G. Neihardt</title>
+                    <date when="1971-08-04">August 4, 1971</date>
+                    <extent>1 page, plus envelope</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page, plus envelope</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="3">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.35b.15"/>
+                
+                <fw type="letterhead">
+                    Personal Attention 
+                    to Every Order 
+                        <lb/>
+                    The financial standing of our Company can be ascertained from Dun 
+                    and Bradstreet, Inc., or by writing The Tilden Bank, Tilden, Nebraska 
+                        <lb/>
+                    Memorials and Markers 
+                    of Lasting Quality 
+                        <lb/>
+                    -o-     We Permit No Untimely Solicitation     -o- 
+                        <lb/>
+                    
+                    <hi rend="caps">ASHBURN MONUMENT CO.
+                        <lb/>
+                    P. O.</hi> Box 6     <hi rend="caps">TILDEN, NEBRASKA</hi> 68781     Call Collect 368-2220
+                </fw>
+                
+                <opener>
+                    <dateline>August 4, 1971</dateline>
+                    
+                    <salute>Dear Dr. Neihardt:</salute>
+                </opener>
+                <p>Please note the enclosed. I saw you on the Dick Cavett show and enjoyed it very much.</p> 
+                <closer>
+                    <salute>Best Wishes,</salute> 
+                
+                    <signed>Neil Ashburn</signed>
+                </closer>
+                
+            </div1>
+            
+            
+            <div1 type="envelope">
+                
+                <ab type="return">
+                    <add>Neil Ashburn</add> 
+                        <lb/>
+                    <del><hi rend="caps">ASHBURN MONUMENT CO.</hi></del> 
+                        <lb/>
+                    Box 6&#8212; Tilden, Nebr. 68781
+                </ab>
+                
+                <ab type="postmark">
+                    TILDEN, NE 68781 AUG'5 <unclear/>-AM 1971
+                
+                    B<unclear>A</unclear>N<unclear>C</unclear>ROF<unclear>T</unclear> AUG 6 P.M. 1971 68004
+                </ab> 
+                <figure>
+                    <figDesc>8 Cent Stamp</figDesc>
+                    <p> UNITED STATES 8¢</p>
+                </figure>
+               
+                <note>8-9-71</note>
+                
+                <note><hi rend="underline"><hi rend="caps">P<del>*</del><add>L</add>EASE FORWARD</hi></hi></note>
+                
+                <ab type="address">
+                    <address>
+                        <addrLine>Dr. John <hi rend="caps">G.</hi> Neihardt</addrLine> 
+                        <addrLine><del>Bancroft, Nebraska</del></addrLine> 
+                        <addrLine><add>c/o <hi rend="caps">J.D.</hi> Young</add></addrLine> 
+                        <addrLine><add>5835 Vine Street</add></addrLine>
+                        <addrLine><add>Lincoln, Nebr</add></addrLine>
+                        <addrLine><add>68505</add></addrLine>
+                    </address>
+                </ab>
+                
+                <fw type="curatorial">15</fw>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

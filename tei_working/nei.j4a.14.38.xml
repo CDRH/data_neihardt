@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.14.38">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Thomas S. Jones, Jr. to John G. Neihardt, October 20, 1929</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.14.38</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Thomas S. Jones, Jr. to John G. Neihardt</title>
+                    <date when="1929-10-20">October 20, 1929</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.14.38"/>
+                
+                <note type="curatorial">Missouri Collection</note>
+                <fw type="curatorial">38</fw>
+                
+                <opener>
+                    <dateline>
+                        411 West 115th Street
+                        New York City
+                        October 20, 1929
+                    </dateline>
+                
+                    <salute>My dear friend,</salute>
+                </opener>
+                <p>I spent the morning with Jessie Rittenhsouse<sic>Rittenhouse</sic> and Clinton Scollard, and I read your essay on<del/> the Peterson book to them. They said it was <hi rend="underline">magnificent</hi>, and Jessie was thrilled with the last paragraph. This afternoon I was with Raymond Weaver (the most brill<del>a</del><add>i</add>ant young professor of English at Columbia, biographer of Melville, and the friend who has stood back of me from the first): I read him your essay, and he said"<hi rend="underline">that</hi> is a magnificent piece of writing, <hi rend="underline">and I agree with every word of it</hi>." <hi rend="underline">Magnificent</hi> twice in one day!</p>
+                    
+                <p>Two evenings ago I had dinner with a Mrs. Meyers from Omaha, Neb.&#8212;&#8212; a stunning person. She was cousin of Robert Tansey of St. Louis &#8212;&#8212;he,cronie of Bill Reedy and my beloved <hi rend="caps">T. B. M.</hi>: and it was for Robert Tansey that my best friend of college &#8212;&#8212;Robert Tansey Laughlin<del/><add>&#8212;&#8212;</add> was named. She had heard you talk and admires you <hi rend="underline">immens<del>l</del><add>e</add>ly</hi>; and she was a college mate of Willa Cather. Somehow I get you mixed up with Tom Outland. So I sent this on, to let you know that love goes out to you, and that all my friends rejoice in what you have done for me. I wrote you for six clippings; but if you can get me six more, I shall send you the stamps for them.<hi rend="underline">Please do</hi>. For we are all going to realize what a stunning thing you have done.</p>
+                    
+                <p>Yesterday Dr. Howe's new anthology came in, and I was overjoyed to find that in it I am between you and Sara. Title: The Literature of America, Quinn, Baugh, Howe, Scribners. Your Hugh Glass is just before my selections. As Raymond said this afternoon (and it was in his room in 1918 that I read your poem with the book turned face down on the table), the pattern gets clearer and clearer.</p>
+                <closer>
+                    <salute>Affectionately</salute>
+                    
+                    <signed>T.S. Jones</signed>
+                    
+                    <note>Thomas S. Jon<unclear>es</unclear></note>
+                </closer>
+                
+                <postscript>
+                    <p>A short sequence on Leonardo da Vinci is unfolding, and Raymond said t this afternoon it is on the highest leve<del>r</del><add>l</add> of anything that has come to me:</p>
+                        
+                        <lg>
+                            <l>While he is silent&#8212;&#8212; he alone who sees,</l>
+                                <l>Outlined in fire against an unknown world,</l>
+                                    <l>The shifting chiaroscuro of the soul.</l>
+                        </lg>
+                </postscript>
+                    
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.37a.6">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Victoria McCabe to John G. Neihardt, April 23, 1973</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.37a.6</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Victoria McCabe to John G. Neihardt</title>
+                    <date when="19137-04-23">April 23, 1973</date>
+                    <extent>4 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>4 hand-written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>4 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="3">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.37a.6"/>
+                
+                <fw type="curatorial">6</fw>
+                
+                <note type="authorial">
+                    What porridge had John Keats? 
+                        <lb/>
+                    --Browning
+                </note>
+                
+                <opener>
+                    <dateline>April 23, 1973</dateline>
+                
+                    <salute>Dear Poet,</salute> 
+                </opener>
+                <p>I am compiling a cookbook, to be published by Doubleday, which will feature favorite recipes of contemporary American poets.</p>
+                
+                <p>The recipes may be original with the poet, may be the poet's variation on a standard recipe, or may be simply a favorite standard recipe.</p>
+                
+                <p>Would you send me a copy of your favorite recipe? I need to have the recipes by May 20, 1973. Please indicate below which category describes your recipe.</p>
+                
+                <p>Also, you may choose to add, for publication, a few brief comments concerning the recipe, but this is not absolutely necessary.</p>
+                
+                <p>Thank you.</p>
+                <closer>
+                    <signed>Victoria McCabe</signed>
+                    <signed>Victoria McCabe</signed>
+                    <address>
+                        <addrLine>331 Broadway</addrLine>
+                        <addrLine>Pueblo, Colorado <add>81004</add></addrLine>
+                    </address>
+                </closer>
+                
+                <note>
+                    <hi rend="caps">R.P.</hi> Dickey, 
+                    husband,
+                    Says you'll have a good one <unclear>or</unclear> two! 
+                </note>
+                
+                Variation of the firehole cooking method an outdoor cooking. 
+                <del/>
+                dig a <del>w</del><add>h</add>ole 2 feet square and 2 feet deep &#8212; 
+                2x2x2&#8212; 
+                kindle a fire in the hole and keep putting an larger chunks of firewood to generate a good bed of coals &#8212;
+                Inclose a <add>stuffed</add> fowl &#8212; goose, duck or chicken sew up in <del><unclear/>oase</del><add>coarse</add> muslin sack &#8212;
+                peel needed potatoes
+                <unclear reason="missing"/>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

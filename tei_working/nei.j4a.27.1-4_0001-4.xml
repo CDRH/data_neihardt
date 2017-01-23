@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.27.1-4_0001-4">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from William Austin Martin to John G. Neihardt, 1959</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.27.1-4_0001-4</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from William Austin Martin to John G. Neihardt</title>
+                    <date when="1959">1959</date>
+                    <extent>3 pages, plus envelope</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>3 type-written pages, plus hand-written envelope</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>3 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="3">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.27.1-4_0001"/>
+                
+                <fw type="curatorial">1</fw>
+                
+                <opener>The Great Books of Mankind</opener>
+           
+                <list>
+                    <item>1. Homer--Iliad</item>
+                    <item>2. Homer--The Odyssey</item>
+                    <item>3. Herodotus, the Histories</item>
+                    <item>4. Thucydides, History of the Pe<del>op</del><add>lo</add>ponnesian War</item>
+                    <item>5. Plato, complete works</item>
+                    <item>6. Aristotle, Ethics, Politics</item>
+                    <item>7. Aeschylus, the Oresteia</item>
+                    <item>8. Sophocles, the Oedipus Cycle</item>
+                    <item>9. Euripides, Alcestis, Medea, Heracleidae, Hippolytus</item>
+                    <item>10. Virgil, Aenid</item>
+                    <item>11. Lucretius, the Nature of the Universe</item>
+                    <item>12. Marcus Aurelius, Meditations</item>
+                
+                    <item>13. The Confessions of St. <del><unclear>N</unclear></del><add>A</add>ugustine</item> 
+                    <item>14. Dante, The Divine Comedy</item>
+                    <item>15. Chaucer; the Caterbury Tales</item>
+                
+                    <item>16. Shakespeare, complete works</item>
+                    <item>17. Moliere, comedies</item>
+                    <item>18. Goethe, Faust</item>
+                    <item>19. George Bernard Shaw; plays</item>
+                    <item>20. Ibsen, plays</item>
+                
+                    <item>21. Jonathan Swift, Gulliver's Travels and others</item>
+                    <item>22. Daniel Defoe, Robinson Crusoe</item>
+                    <item>23. Laurence Sterne, Tristram Sandy</item>
+                    <item>24. Henry Fielding, Tom Jones</item>
+                    <item>25. John Bunyan, Pilgrim's Progress</item>
+                    <item>26. Jane Austen, Pride and Prejudice and Sense and Sensibility</item>
+                    <item>27. E mily Bronte, Wuthering Heights</item>
+                    <item>28. Charles Dickens, David Copperfield</item>
+                    <item>29. <hi rend="caps">W. M.</hi> Thackeray, Vanity Fair</item>
+                    <item>30. George Eliot, The Mill on the Floss</item>
+                    <item>31. Lewis Carroll, Alice in Wonderland and Through the Lookingglass<sic>Looking Glass</sic></item>
+                    <item>32. Thomas Hardy, the Mayor of Casterbridge</item>
+                    <item>33. Joseph Conrad, Lord Jim</item>
+                    <item>34. <hi rend="caps">D. H.</hi> Lawrence, sons<sic>Sons</sic> and Lovers</item>
+                    <item>35. James Joyce, Portrait of the Artist as a Young Man and Ulysses</item>
+                    <item>3<del>7</del><add>6</add>. Thomas Mann, The Magic Mountain</item>
+                    <item>3<del>8</del><add>7.</add> Rabelais, Gargantua and Pantagruel</item>
+                    <item>38. Voltaire, Candide and others</item>
+                    <item>39. Stendhal, the Red and the Black</item>
+                    <item>40. Balzac, Rere Goriot and Eugenie Grandet</item>
+                    <item>41. Flaubert, Madame Bovary</item>
+                    <item>42. Proust, Remembrance of Things Past</item>
+                    <item>43. Edgar Allan Poe, Tales</item>
+                    <item>44. Nathaniel Hawthorne, The Scarlet Letter.</item>
+                    <item>45. Herman Melville, Moby Dick</item>
+                    <item>46. Mark Twain, Huckleberry Finn and others</item>
+                    <item>47. Henry James, the Ambassadors</item>
+                    <item>48. Cervantes, Don Quixote</item>
+                    <item>49. Nikolai Gogol, Dead Souls</item>
+                    <item>50. Ivan Turgenev, Fathers and Sons</item>
+                    <item>51. Leo Tolstoy, War and Peace</item>
+                    <item>52. Fyodor Dostoevsky, The Brothers Karamozov<sic>Karamazov</sic> and Crime and Punishment</item>
+                
+                    <item>53. Thomas Hobbs, Leviathan</item>
+                    <item>54. Rene Descartes, Philosophical Works</item>
+                    <item>55. David Hume, Enquiry Concerning Human Understanding</item>
+                    <item>56. John Locke, the Second Treatise of Government</item>
+                    <item>57. <hi rend="caps">J. S.</hi> Mill, On Liberty</item>
+                
+                <pb facs="nei.j4a.27.1-4_0002"/>
+                
+                <fw type="authorial">-2- Great works of Mankind, continued</fw>
+                <fw type="curatorial">2</fw>
+                    
+                    <item>58. Friedrich N<del>ei</del><add>ie</add>tzche, Thus Spake Zarathustra, Twilight of the Gods and others</item>
+                    <item>59. Karl Marx, The Communist Manifesto</item>
+                    <item>60. Niccolo Machiavelli, the<sic>The</sic> Prince and essays</item>
+                    <item>61. Montaigne, Essays</item>
+                    <item>62. Alexis De Tocqueville, Democracy in America</item>
+                    <item>63. Henry Thoreau, Walden and others</item>
+                    <item>64. Ralph Waldo Emerson, essays</item>
+                    <item>65. William James, Principles of Psychology and Pragmatism and Essays on the Meaning of Truth</item>
+                    <item>66. John Dewey, Human Nature and Conduct</item>
+                    <item>67. George Santayana, Skepticism and Animal Faith</item>
+                    <item><del>71</del><add>68</add>. Alfred North Whitehead, Science and the Modern World</item>
+                    
+                    <item>69. Sigmund Freud, complete works</item>
+                    <item>70. Milton, Paradise Lost and others</item>
+                    <item>71. John Donne, complete poetry and selected prose</item>
+                    <item>72. William Blake, poems</item>
+                    <item>73. William Wordsworth, selected poetry</item>
+                    <item>74. <hi rend="caps">S. T.</hi> Coleridge, Poems and Prose</item>
+                    <item>75. William Butler Yeats, collected poems</item>
+                    <item>76. Walt Whitman, Leaves of Grass and others</item>
+                    
+                    <item>77. Will Durant, the Story of Civilization</item>
+                    <item>78. <hi rend="caps">G. M.</hi> Trevelyan, History of England</item>
+                    <item><del>84</del><add>79</add>. Allan Nevins and Henry Steele Commager, Pocket History of the United States</item>
+                    <item>80. <hi rend="caps">J. J.</hi> Rousseau, Confessions</item>
+                    <item>81. James Boswell, Life of Samuel Johnson</item>
+                    <item>82. Henry Adams, The E ducation of Henry Adams</item>
+                    
+                    <item>83. Robert Frost, Collected Poems</item>
+                    <item>84. Ernest Hemingway, short stories</item>
+                    <item>85. William Faulkner, <sic>The</sic> Sound and the Fury and As I Lay Dying</item>
+                    <item>86. <hi rend="caps">T. S.</hi> Eliot, collected poems and plays</item>
+                    <item>87. Somerset Maugham, of Human Bondage</item>
+                    <item>88. Aldous Huxley, Brave New World</item>
+                    <item>89. Andre Malraux, Man's Fate</item>
+                </list>
+                
+                <p>(There must be others! As I go along, I am sure there will be more, but perhaps this will do for a start!)</p>
+                
+            </div1>
+            
+            
+            <div1 type="enclosure">
+                
+                <pb facs="nei.j4a.27.1-4_0003"/>
+                
+                <fw type="curatorial">3</fw>
+                
+                <opener>
+                    <hi rend="caps">ELEGY TO DOROTHY</hi>
+                
+                    (To Dorothy Calvin, killed in the Spring of 1959)
+                </opener>
+                <lg>
+                    <l>The bash-box swings low in the sweet chariot</l>
+                    <l>And the cocks blow free in a chestnut tree</l>
+                        <l>And the elegy lays on a canopy.</l>
+                    <l>The City of souls rests turbulently;</l>
+                    <l>Hot feet haw the green grass grainery.</l>
+                </lg>
+                <lg>
+                    <l>Black birds bustle at a born-again</l>
+                    <l>As the sick story cannot remember when</l>
+                        <l>The Saturday subterfuge began.</l>
+                </lg>
+                <lg>
+                    <l>The sadsongers sniff and snip a snare</l>
+                        <l>That ties the tangled tongues that tear</l>
+                        <l>The imaginary mien from shoulders; lean</l>
+                            <l>one, long one, little one.</l>
+                </lg>
+                <lg>
+                    <l>The sapient sun sees no cotton-topped bird</l>
+                        <l>from the faraway South,</l>
+                    <l>But no limbs care to cover the care-less mouths.</l>
+                </lg>
+                <lg>
+                    <l>No more the joking jaspers and coffee-cupped hands</l>
+                       <l> bent ' round the laughing squares.</l>
+                    <l>The day is gone; the Veiled Prophet ball has bounced away</l>
+                        <l>to time-honored memory</l>
+                        <l>and leaves</l>
+                        <l>the remnants of disintegrating, clandestine self-loves.</l>
+                </lg>
+                <lg>
+                    <l>But the snare is snipped and the cloudy clamor of thick thought begins</l>
+                        <l>as I search for my way home.</l>
+                </lg>
+                <lg>
+                    <l>I could have sworn I walked with you today.</l>
+                </lg>
+                
+                <closer>
+                    <signed>william austin martin</signed>--<dateline>july 25, 1959</dateline>
+                </closer>
+                
+            </div1>
+            
+            
+            <div1 type="envelope">
+                
+                <pb facs="nei.j4a.27.1-4_0004"/>
+                
+                <ab type="return">
+                    <hi rend="caps">W.A. MARTIN
+                    410 MONROE
+                    JEFFERSON CITY, MO.</hi>
+                </ab>
+                
+                <fw type="curatorial">4</fw>
+                
+                <note type="recipient">
+                    ansd
+                    8-9-59
+                </note>
+                
+                <ab type="postmark">
+                    <unclear>JEFFE</unclear>RSON CITY, <unclear>MO.</unclear>
+                    <unclear/>
+                </ab>
+                <figure>
+                    <figDesc>4 Cent Stamp</figDesc>
+                    <p>LINCOLN
+                    4¢
+                    U.S. POSTAGE</p>
+                </figure>
+                <figure>
+                    <figDesc>4 Cent Stamp</figDesc>
+                    <p>LINCOLN
+                    4¢
+                    U.S. POSTAGE</p>
+                </figure>
+                
+                <ab type="address">
+                    <address>
+                        <addrLine>DR. JOHN G. NEIHARDT</addrLine>
+                        <addrLine>ROUTE #5</addrLine>
+                        <addrLine>SKYRIM FARM</addrLine>
+                        <addrLine>COLUMBIA, MISSOURI</addrLine>
+                    </address>
+                </ab>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>
+

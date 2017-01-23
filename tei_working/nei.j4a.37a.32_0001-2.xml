@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.37a.32_0001-2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Robert B. Mackey to Gentlmen, June 18, 1973</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.37a.32_0001-2</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Robert B. Mackey to Gentlemen</title>
+                    <date when="1973-06-18">June 18, 1973</date>
+                    <extent>2 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 hand-written pages</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>2 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="3">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Gentlemen</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.37a.32"/>
+                
+                <fw type="curatorial">32</fw>
+                
+                <fw type="imprint">
+                    <hi rend="caps">HON. J JAMES EXON 
+                    GOVERNOR</hi>
+                        <lb/>
+                    State of Nebraska 
+                        <lb/>
+                    <hi rend="caps">ROBERT B. MACKEY 
+                    DIRECTOR</hi>
+                        <lb/>
+                    
+                    <figure>
+                        <figDesc>A Triangle</figDesc>
+                    </figure> 
+                    Nebraska Indian Commission
+                        <lb/>
+                    Box 94666-State Capitol-Lincoln 68509
+                        <lb/>
+                    Telephone 477-8984
+                    <figure>
+                        <figDesc>An Asterik</figDesc>
+                    </figure> 
+                </fw>
+                
+                <opener>
+                    <dateline>
+                        June 18, 1973
+                    </dateline>
+                    
+                    <address>
+                        <addrLine>Black Elk-Neihardt Park Board</addrLine>
+                        <addrLine>Blair, Nebraska 68008</addrLine>
+                    </address>
+                
+                    <salute>Gentlemen:</salute>
+                </opener>
+                <p>The Nebraska Indian Commission wholeheartedly endorses the Black Elk-Neihardt Park Sanctuary proposal becuase we are at a time and place in history whereby unity and understanding of all people is paramount to our survival.</p>
+                
+                <p><hi rend="underline">Black Elk and John Neihardt have experienced the vision and projections for a universal meeting place wherein people form the four winds might meditate and commune and together assume the responsibilities of their common burdens.</hi></p> 
+                
+                <p>The concept is appropriate and provides the path to a <hi rend="underline">universal crossroads of which the dimensions are infinite.</hi></p>
+                    
+                <p>Those of us involved in the problems of people can envision a place of learning, a place to display artifacts, arts and crafts to enable a better understanding of one another, in a common bond of fellowship, one for another.</p> 
+                
+                <p>This would not be a question of money, because there are existent resources that only need to be identified and coordinated.</p>
+                
+                <p>This vision by two great men of our time must be manifested by the reality of this symbol of brotherhood and hope that all men may be able to meet in an atmosphere surrounded by the beauties of nature, whereby those things which seemed insurmountable can now be resolved.</p> 
+                <closer>
+                    <salute>Sincerely,</salute>
+                
+                    <signed>Robert B. Mackey</signed>
+                    <signed>Robert B. Mackey, Executive Director
+                    (Member of the Santee-Sioux Tribe)
+                    Nebraska Indian Commission</signed>
+                </closer>
+                
+                <note>
+                    I thought you might like to see this 
+                    Bill T. 
+                </note>
+                
+                <pb facs="nei.j4a.37a.32_0002"/>
+                
+                <note>
+                    in conjunction with a scenic drive out of Omaha along the river's edge for 55 miles terminating on high bluff overlooking wide expanse of river-bottom land. The city of Blair has donated land for a park &#8212; minority groups (especially in Omaha) <unclear>say</unclear> they can identify with the featureless man upon the symbolic <unclear>cross</unclear> at sanctuary
+                </note>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

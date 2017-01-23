@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.7.6-7_0001-2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from General Walter S. Schuyler to John G. Neihardt, February 3, 1920</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.7.6-7_0001-2</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from General Walter S. Schuyler to John G. Neihardt</title>
+                    <date when="1920-02-03">February 3, 1920</date>
+                    <extent>2 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 hand-written pages</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>2 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.7.6-7_0001" />
+                
+                <fw type="curatorial">6</fw>
+                
+                <fw type="letterhead">
+                    <hi rend="caps">GENERAL SCHUYLER
+                        <lb/>
+                    BOHEMIAN CLUB
+                        <lb/>
+                    SAN FRANCISCO, CALIF.</hi>
+                </fw>
+                
+                <opener>
+                    <dateline>February 3" 1920</dateline>
+                
+                    <address>
+                        <addrLine>To Jno. <hi rend="caps">G.</hi> Neihardt Esq:</addrLine>
+                        <addrLine>Bancroft. Nebraska.</addrLine>
+                    </address>
+                    
+                    <salute>My dear Sir:</salute>
+                </opener>
+                <p>I regret delay in acknowledging your letter of January 15, but I have been at a loss what to say, and I have not been able to think of it except at intervals.</p>
+                
+                <p>I was not present at the Rosebud fight and did not see Captain Henry wounded. I joined Gen. Crook a few days after the affair. In order to reach him I rode from Fort Fetterman with a sergeant and a civilian, 186 miles in three nights and two days, and the evening before I reached him I had a dramatic meeting with the south-bound wagon train which carried Capt. Henry and the other wounded. After joining Gen. Crook, under whom I had commanded Apache Indian Scouts in Arizona, I remained with him through the campaign, and others. Among other experiences I was with Gen Merritt in the relief of the Thornburg Expedition in 1879. I was virtually on Gen. Crook's staff for several years being actually an aide de camp for five, so that I am rather familiar with the history of that era. (except for what I have forgotten).</p>
+                
+                    <pb facs="nei.j4a.7.6-7_0002"/>
+                    
+                    <fw type="curatorial">7</fw>
+                    
+                <p>My relations have long been insistent upon my writing up some of my old experiences but I never seem to find the time to become absorbed in it. The same would apply to my attempting to do it now for you. Although I should very much like to be of service to you &#8212;</p>
+                
+                <p>I will look up the "Three Friends" and "Hugh Glass" and see what inspiration I can get. Have you ever seen the description of the Rosebud fight written by a lieutenant named Henry <hi rend="caps">R.</hi> Lemly? He is now Capt. <hi rend="caps">NRL.</hi> (retired but on duty) Office of <hi rend="caps">Q.M.</hi> Gen'l 19th and <unclear>13</unclear> Sts. <hi rend="caps">N.W.</hi> Washington <hi rend="caps">D.C.</hi></p>
+                
+                <p>I will keep your letter as a reminder to give you what I can on the subject.</p>
+                <closer>
+                    <salute>Yours very truly,</salute>
+                    
+                    <signed>W.S. Schuyler
+                
+                    Brig Gen'l U.S. Army. Retired-</signed>
+                </closer>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

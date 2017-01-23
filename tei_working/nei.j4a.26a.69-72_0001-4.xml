@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.26a.69-72_0001-4">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Hugh Bullock to John G. Neihardt, May 6, 1958</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.26a.69-72_0001-4</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Hugh Bullock to John G. Neihardt</title>
+                    <date when="1958-05-06">May 6, 1958</date>
+                    <extent>3 pages, plus envelope</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>3 type-written pages, plus envelope</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>3 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.26a.69-72_0001"/>
+                
+                <fw type="curatorial">69</fw>
+                
+                <fw type="letterhead">
+                    <hi rend="caps">THE ACADEMY OF AMERICAN POETS
+                        <lb/>
+                    1030 FIFTH AVENUE
+                        <lb/>
+                    NEW YORK 28</hi>
+                </fw>
+                
+                <opener>
+                    <dateline>May 6, 1958</dateline>
+                
+                    <address>
+                        <addrLine>Professor John <hi rend="caps">G.</hi> Neihardt</addrLine>
+                        <addrLine>Skyrim Farm, Route 2</addrLine>
+                        <addrLine>Columbia, Missouri</addrLine>
+                    </address>
+                    
+                    <salute>Dear Professor Neihardt,</salute>
+                </opener>
+                <p>With the re-election of Mr. Randall Jarrell to the Board of Chancellors on the first ballot with the following results:
+                    <lb/>
+                    Randall Jarrell - 6 votes Archibald Mac Leish - 1 vote <hi rend="caps">E.</hi> Merrill Root - 1 vote
+                    <lb/>
+                it is my pleasant duty, by order of the Board of Directors to advise you that $5,000 is now again available for a Fellowship award.</p>
+                
+                <p>It is our hope that initiating the 1958 Fellowship somewhat earlier than usual, it may be possible to award two Fellowships in 1959, which would be an appropriate celebration of the Academy's 25th anniversary, and of its remarkable achievement in the field of poetry awards.</p>
+                
+                <p>Your attention is directed to Article VIII of our Charter which prescribes the qualifications of Fellows as follows: "poets of proven merit either natural-born or naturalized American citizens."</p>
+                
+                <p>Under Article VI of the By-Laws, you are entitled to nominate two candidates for this Fellowship, but obviously you may limit your choice to one. A nominating slip is enclosed.</p>
+                
+                <p>It would be helpful if you would indicate theron briefly the reasons which motivate your nominations. The By-Laws require that the Chancellors be notified of the names of all such nominees and of their nominators respectively, although, when voting begins, the signed ballots will be kept confidential by the Secretary.</p>
+                
+                <p>It will be remembered that the following previous awards of $5,000 have been made: Edwin Markham, 1936; Edgar Lee Masters, 1946; Ridgely Torrence, 1947; Percy MacKaye, 1948; <hi rend="caps">E. E.</hi> Cummings, 1950; Padraic Colum, 1952; Robert Frost, 1953; Lousie Townsend Nicholl, 1954; Oliver St. John Gogarty, 1954; Rolfe Humphries, 1955; William Carlos Williams, 1956; and Conrad Aiken, 1957.</p>
+                
+                <p>The closing date for these nominations has been set for June 2, 1958.</p>
+                <closer>
+                    <salute>Very sincerely yours,</salute>
+                    <signed>Hugh Bullock
+                    Secretary</signed>
+                </closer>
+                
+                <note type="authorial">Enclosures</note>
+                
+            </div1>
+            
+            
+            <div1 type="enclosure">
+                
+                <pb facs="nei.j4a.26a.69-72_0002"/>
+                
+                <fw type="curatorial">7<del>2</del><add>0</add></fw>
+                
+                <opener>
+                    <hi rend="underline"><hi rend="caps">THE ACADEMY OF AMERICAN POETS, INC.</hi>
+                        <lb/>
+                    Board of Chancellors
+                        <lb/>
+                    May, 1958</hi>
+                </opener>
+                                                                                                            <ab>To serve until:</ab>
+                <list>
+                    <item>
+                        John Hall Wheelock                          350 East 57 Street 
+                                                                    New York 22, <hi rend="caps">N.Y.</hi>                  1/9/59
+                    </item>
+                    <item>
+                        Frederick <hi rend="caps">A.</hi> Pottle    Box 1504A, Yale Station 
+                                                                    New Haven, Connecticut                                  1/9/60
+                    </item>
+                    <item>
+                        Robert Hillyer                              Possum Hill
+                                                                    Newark <hi rend="caps">R.D.</hi> 5, Delaware            1/9/61
+                    </item>
+                    <item>
+                        Max Eastman                                 8 West 13 Street
+                                                                    New York 11, <hi rend="caps">N.Y.</hi>                  1/9/62
+                    </item>
+                    <item>
+                        <hi rend="caps">J.</hi> Donald Adams        444 East 57 Street
+                                                                    New York 22, <hi rend="caps">N.Y.</hi>                  1/9/63
+                    </item>
+                    <item>
+                        Marianne Moore                              260 Cumberland Street
+                                                                    Brooklyn 5, <hi rend="caps">N.Y.</hi>                   1/9/64
+                    </item>
+                    <item>
+                        Henry <hi rend="caps">S.</hi> Canby         Deep River, <hi rend="caps">R.F.D.</hi>
+                                                                    Connecticut                                             1/9/65
+                    </item>
+                    <item>
+                        Witter Bynner                               342 Buena Vista Road
+                                                                    Santa Fe, New Mexico                                    1/9/66
+                    </item>
+                    <item>
+                        John <hi rend="caps">G.</hi> Neihardt       Skyrim Farm
+                                                                    Route No.6
+                                                                    Columbia, Missouri                                      1/9/67
+                    </item>
+                    <item>
+                        Robert Nathan                               1240 North Doheny Drive
+                                                                    Hollywood 46, California                                1/9/68
+                    </item>
+                    <item>
+                        <hi rend="caps">W. H.</hi> Auden            77 St. Mark<unclear>e</unclear> Place
+                                                                    New York 9, <hi rend="caps">N.Y.</hi>                   1/9/69
+                    </item>
+                    <item>
+                        Randall Jarrell                             Library of Congress
+                                                                    Washington, <hi rend="caps">D.C.</hi>                   1/9/70
+                    </item>
+                </list>
+                
+            </div1>
+            
+            <div1 type="envelope">
+                
+                <pb facs="nei.j4a.26a.69-72_0003"/>
+                
+                <fw type="curatorial">7<del>3</del><add>1</add></fw>
+                
+                <figure>
+                    <figDesc>6 Cent Stamp</figDesc>
+                    <p>AIR MAIL
+                        6¢
+                        U.S. POSTAGE</p>
+                </figure>
+                
+                <ab type="address">
+                    <address>
+                        <addrLine><add><hi rend="caps">THE SECRETARY</hi></add></addrLine>
+                        <addrLine><hi rend="caps">THE ACADEMY OF AMERICAN POETS, INC.</hi></addrLine>
+                
+                            <addrLine>1030 <hi rend="caps">FIFTH AVENUE</hi></addrLine>
+                        
+                                <addrLine><hi rend="caps">NEW YORK 28, N.Y.</hi></addrLine>
+                    </address>
+                </ab>
+                
+            </div1>
+            
+            <div1 type="enclosure">
+                
+                <pb facs="nei.j4a.26a.69-72_0004"/>
+                
+                <fw type="curatorial">7<del>4</del><add>2</add></fw>
+                
+                <opener>
+                    <hi rend="underline"><hi rend="caps">NOMINATION BLANK</hi></hi>
+                </opener>
+                
+                <p>I nominate for the current Fellowship:
+                    <list>
+                        <item>
+                            1._________________________________________________
+                            Reasons for nominating:
+                        </item>
+                        
+                        <item>
+                            2._________________________________________________
+                            Reasons for nominating:
+                        </item>
+                    </list>
+                </p>
+                <closer>
+                    Date________        Name_______________________
+                </closer>
+ 
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.36.9">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Frances Jacobs Alberts to John G. Neihardt, January 20, 1972</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4a.36.9</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Frances Jacobs Alberts to John G. Neihardt</title>
+                    <date when="1972-01-20">January 20, 1972</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.36.9"/>
+                
+                <note>ans.1-24-72</note>
+                
+                <fw type="curatorial">9</fw>
+                
+                <opener>
+                    <dateline>
+                        January 20, 1972
+                        1119 North Elm
+                        Hastings 
+                        Nebraska 68901
+                    </dateline>
+                 
+                    <address>
+                        <addrLine>Dr. John <hi rend="caps">G.</hi> Neihardt</addrLine>
+                        <addrLine>5835 Vine Street</addrLine> 
+                        <addrLine>Lincoln</addrLine>
+                        <addrLine>Nebraska 68505</addrLine>
+                    </address>
+                    
+                    <salute>Dear Dr. Neihardt:</salute>
+                </opener>
+                <p>This is a request for a favor, Dr. Neihardt, but I can think of no nicer or better qualified person I could be asking it from.</p>
+                
+                <p>I have been working very hard getting<del>g</del> the Sod HOuse<sic>House</sic> Society book ready for the printer, this will include Vol. I, Vol. II and now the new material, Vol. III, which will have a short history of the period in Nebraska, a negro homesteader section, and the new experiences with about 60 photographs.</p> 
+                
+                <p>For each of these books there has been a foreward written usually by the president or other competent person with a knowledge of that period. Dr. Auble of Ord, present president,will write it for the Vol. III.</p> 
+                
+                <p>What I would like so much to have you do for me and the Society, is to write a Dedication for the front of the book, a Dedication to the people who experienced the soddy year<del>'</del>s and an enumeration to a certain extent of the fine values under which they lived from day to hard day.</p> 
+                
+                <p>As far as I am concerned there is no better person living today in our state who could do this better from experience than yourself. Please do agree to do it for me, Dr. Neihardt. Myrtle and Julius will help you get it to me, perhaps even that Fourth Person who lives <del/><add>t</add>here could have a hand in it.</p> 
+                
+                <p>Greetings to you all.</p> 
+                
+                <p>This is to be the finale in the way of soddy books, it will be 300 pages, and hard cover, so hope it will be all we can make it with the material we have. The Dedication should be perhaps a page or shorter, whatever you need to say what you wish.</p> 
+                <closer>
+                    <salute>Cordially yours,</salute>
+                
+                    <signed>Frances Jacobs Alberts</signed>
+                    <signed>Frances Jacobs Alberts</signed> 
+                </closer>
+                
+                <postscript>
+                    <p>"Man has no harbor, time has no shore."</p>
+                </postscript>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

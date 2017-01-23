@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.15.28">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from B. G. Courtright to John G. Neihardt, April 21, 1931</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.15.28</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from B. G. Courtright to John G. Neihardt</title>
+                    <date when="1931-04-21">April 21, 1931</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.15.28"/>
+                
+                <note type="curatorial">Missouri Collection</note>
+                <fw type="curatorial">28</fw>
+                
+                <fw type="letterhead">
+                    5 1142
+                        <lb/>
+                
+                    <hi rend="caps">UNITED STATES 
+                        <lb/>
+                    DEPARTMENT OF THE INTERIOR
+                        <lb/>
+                    INDIAN FIELD SERVICE</hi>
+                </fw>
+                <note>.003</note>
+                
+                <opener>
+                    <dateline>
+                        Pine Ridge Agency, So. Dak.
+                        April 21, 1931
+                    </dateline>
+                    
+                    <address>
+                        <addrLine>Mr. John <hi rend="caps">G.</hi> Neihardt,</addrLine>
+                        <addrLine>Branson, Missouri:</addrLine>
+                    </address>
+                
+                    <salute>Dear Mr. Neihardt:</salute>
+                </opener>
+                <p>Replying to your letter of April 18 it is suggested that you secure the permission of the Secretary of the Interior and the Commissioner of Indian Affairs, both at Washington, <hi rend="caps">D.C.</hi>, for your proposed visit and work at the Pine Ridge Agency. This permission, I am sure, will be granted you without delay if you will take the matter up immediately. This is the usual procedure in such matters.</p>
+                
+                <p>The first paragraph of your letter is in error as I have only recently taken charge at this jurisdiction and have never had the pleasure of meeting you, although I have read some of your books and enjoyed them very much especially when you jumped into a little boat back in 1908 or<add>-</add>9 and floated down the Missouri River<add>!</add></p>
+                
+                <p>I notice that you desire to reach the agency about May 8th and as the time is short and while you are arranging for the necessary permission from Washington if in the meantime there is anything I can do for you or any further information I can give, please do not hesitate to call upon me, and looking forward to meeting you, I am</p>
+                <closer>
+                    <salute>Very sincerely yours,</salute>
+                    
+                    <signed><unclear>Courtright</unclear></signed>
+                    <signed>B.G. Courtright,
+                    Field Agent in Charge.</signed>
+                
+                    <note>BGC:AR</note>
+                    <note><hi rend="caps">CC</hi> to Indian Office.</note>
+                </closer>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>
+
+

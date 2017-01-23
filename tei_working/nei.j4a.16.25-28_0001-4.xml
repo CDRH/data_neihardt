@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.16.25-28_0001-4">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Harold S. Latham to John G. Neihardt, August 7, 1935</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.16.25-28_0001-4</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Harold S. Latham to John G. Neihardt</title>
+                    <date when="1935-08-07">August 7, 1935</date>
+                    <extent>4 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>4 type-written pages</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>4 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.16.25-28_0001"/>
+                
+                <note type="curatorial">Missouri Collection</note>
+                <fw type="curatorial">25</fw>
+                
+                <fw type="letterhead">
+                    <hi rend="caps">GEORGE P. BRETT</hi>, <hi rend="italics">Chairman of the Board</hi>
+                    
+                    <hi rend="caps">GEORGE P. BRETT, JR.</hi>
+                    <hi rend="caps">President</hi>
+                    
+                    <hi rend="caps">A.H. NELSON</hi>
+                    <hi rend="italics">Vice President</hi>
+                    
+                    <hi rend="caps">H.S. LATHAM</hi>
+                    <hi rend="italics">Vice President</hi>
+                    
+                    <hi rend="caps">RICHARD M. BRETT</hi>
+                    <hi rend="italics">Treasurer</hi>
+                    
+                    <hi rend="caps">L.J. LUCAS</hi>
+                    <hi rend="italics">Secretary</hi>
+                    
+                    <hi rend="caps">TRADE DEPARTMENT</hi>
+                    <hi rend="italics"><hi rend="caps">H. S.</hi> Latham, Editor
+                    <hi rend="caps">A. J.</hi> Blanton, Sales Mgr.</hi>
+                    
+                    <hi rend="caps">JUVENILE DEPARTMENT</hi>
+                    <hi rend="italics"><hi rend="caps">D.S.</hi> <unclear>Pain</unclear></hi>
+                    
+                    <hi rend="caps">FOREIGN DEPARTMENT</hi>
+                    <hi rend="italics"><hi rend="caps">B .J.</hi> Cassidy</hi>
+                    
+                    <hi rend="caps">THE MACMILLAN COMPANY
+                    CABLE ADDRESS
+                    PACHAMAC NEW YORK</hi>
+                    • <hi rend="italics">Publishers</hi> •
+                    <hi rend="caps">TELEPHONE  
+                    ALGONQUIN 4-2100
+                    SIXTY • FIFTH AVENUE • NEW YORK</hi>
+                    -------------------------------------------------------------------------------------
+                    <hi rend="caps">CHICAGO . BOSTON . ATLANTA . DALLAS . SAN FRANCISCO . LONDON . BOMBAY
+                    MADRAS . CALCUTTA . MELBOURNE . TORONTO . SHANGHAI . MANILA</hi>
+                    ----------------------------------------------------------------
+                    
+                    <hi rend="caps">EDUCATIONAL DEPARTMENT</hi>
+                    <hi rend="italics"><hi rend="caps">P.A.</hi> Knowlton, Editor</hi>
+                    
+                    <hi rend="caps">COLLEGE DEPARTMENT</hi>
+                    <hi rend="italics"><hi rend="caps">T.C.</hi> Morehouse</hi>
+                    
+                    <hi rend="caps">MEDICAL-PUBLIC HEALTH
+                    DEPARTMENT</hi>
+                    <hi rend="italics"><hi rend="caps">J.N.</hi> Myers</hi>
+                </fw>
+                
+                <opener>
+                    <dateline>August 7, 1935</dateline>
+                
+                    <salute>My dear Mr. Neihardt:</salute>
+                </opener>
+                <p>I am ever so sorry that there has been this delay in acknowledging the safe receipt of <hi rend="caps">THE SONG OF THE MESSIAH</hi>. The manuscript came at the height of our vacation season when secretarial assistance, and all other kinds of assistance, are at a premium. We lost no time in getting at it, but we did find it impossible to write you about it as promptly as we should have liked. Another reason for the delay in writing is that we wanted to take up with you the several interesting matters mentioned in your letter of July 14, and these required time for conference and debate.</p>
+                
+                <p>First of all, let me tell you how pleased I am with <hi rend="caps">THE SONG OF THE MESSIAH</hi>. It is an exquisitely beautiful piece of work. It seems to me to be one of the very best things you have done, and as a thorough admirer of your work, that is saying a good deal. We all congratulate you heartily upon it.</p>
+                
+                <p>The manuscript is being put in hand at once.</p>
+                
+                <p>I believe that, in one of your recent letters, you suggested we might want to illustrate this book, or have the decorations done for it by the man who did the decorations for <hi rend="caps">THE SONG OF THE INDIAN</hi>
+                
+                <pb facs="nei.j4a.16.25-28_0002"/>
+                <fw type="curatorial">26</fw>
+                
+                <fw type="letterhead">
+                    <hi rend="caps">NUMBER <fw type="authorial">2</fw>
+                
+                    THE MACMILLAN COMPANY</hi>
+                </fw>
+                    
+                <date>August 7, 1935</date>
+                
+                    <hi rend="caps">WARS.</hi></p>
+                
+                <p>We are rather against this idea. We think it would be better to bring it out without decorations, but with the most beautiful page, typographically speaking, that we can devise; printed on good paper and bound attractively.</p> 
+                
+                <p>I will be sending you a specimen page shortly and if you would like, I will show you a stamping of the cover and the jacket.</p> 
+                
+                <p>And now I come to the suggestions which you have made in your letters of the 14th and 16th of July.</p>
+                
+                <p>First of all, we understood that there was another volume to come in the Song Cycle. In announcing <hi rend="caps">THE SONG OF THE MESSIAH</hi> as the final volume in the series, we meant that it concluded the series, not that all in the series were published. We shall have to look out for the wording of this announcement in the future.</p>
+                
+                <p>We want, by all means, to publish <hi rend="caps">THE SONG OF JED SMITH</hi>, and I am prepared to send you immediately a contract providing for it with a royalty of ten percent (10%) to 2500, 12½% on the next 2500, and 15% there after. We will be glad to give you $250.00 advance on signing of the contract. We should also wish to include, of course, a clause giving us an option on your next book.</p>
+                
+                <p>We shall be very happy to send you immediately a contract for the proposed biography of Jeff <hi rend="caps">D.</hi> Milton. Here, we should like to suggest that the manuscript not run to more than 80,000 words, and we should like to suggest further that you do this biography, if possible, somewhat in the manner of Boldrewood: <hi rend="caps">ROBBERY UNDER ARMS</hi>. I presume you know this book. It has been very successful
+                
+                <pb facs="nei.j4a.16.25-28_0003"/>
+                <fw type="curatorial">27</fw>
+                
+                <fw type="letterhead">
+                    <hi rend="caps">NUMBER <fw type="authorial">3</fw>
+                
+                    THE MACMILLAN COMPANY</hi>
+                </fw>
+                
+                <date>August 7, 1935</date> 
+                
+                    for a great many years, and if you could handle the Milton material in the vein of Boldrewood's novel, it is entirely possible that it may have a very wide vogue. For a work of this nature, we would suggest a royalty of 10% to the first 2500, 12½% on the next 2500, and then 15%, with $250.00 advance on delivery of the completed manuscript. You probably know the Boldrewood book, but on the chance that you may not, I am sending you a copy of it under separate cover and with our compliments. I hope that the idea of handling the Milton material in this vein may appeal to you.</p>
+                
+                <p>I have suggested making the advance on <hi rend="caps">THE SONG OF JED SMITH</hi> payable now as that would give you money for the financing of the necessary trip. Then, when the Milton book is done and delivered to us, you get $250.00 more. I hope our reaction to these suggestions and the attitude which we are taking toward them will indicate to you how eager we are to cooperate with you and how thoroughly we appreciate what you are doing.</p>
+                
+                <p>As to the Ogalala<sic>Ogallala</sic> Sioux lyrics, that might very conceivably make a third book. We are a little mroe doubtful about the market for that, and are wondering whether action on a contract for that book might not be postponed until you could get us some of the actual material.</p>
+                
+                <p>I am leaving for my vacation on Friday and am sending this to you by airmail on the bare chance that it may be possible for you to reply before I go away. If not, your reply will be dealt with
+                
+                <pb facs="nei.j4a.16.25-28_0004"/>
+                
+                <fw type="letterhead">
+                    <hi rend="caps"><unclear>NUMBER</unclear> <fw type="authorial">4</fw>
+                
+                    THE MACMILLAN COMPANY</hi>
+                </fw>
+                    
+                <fw type="curatorial">28</fw>
+                
+                <date>August 7, 1935</date> 
+                
+                    by my associate, Mr. Putnam, who will be in charge of the office during my absence. It is always such a pleasure to deal with you that I am hoping to hear from you before I go.</p>
+                <closer>
+                    <salute>Sincerely yours,</salute>
+                    <signed>Harold Latham</signed>
+                
+                    <address>
+                        <addrLine>Mr. John <hi rend="caps">G.</hi> Neihardt</addrLine>
+                        <addrLine>Branson</addrLine>
+                        <addrLine>Missouri</addrLine>
+                    </address>
+                    
+                    <note>HSL:PB</note>
+                </closer>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>
+

@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.16.30-31_0001-2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Roger W. Toll to John G. Neihardt, September 4, 1935</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.16.30-31_0001-2</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Roger W. Toll to John G. Neihardt</title>
+                    <date when="1935-09-04">September 4, 1935</date>
+                    <extent>2 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 type-written pages</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>2 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.16.30-31_0001"/>
+                
+                <note type="curatorial">Missouri Collection</note>
+                <fw type="curatorial">30</fw>
+                
+                <fw type="letterhead">
+                    <hi rend="caps">UNITED STATES
+                        <lb/>
+                    DEPARTMENT OF THE INTERIOR
+                        <lb/>
+                    NATIONAL PARK SERVICE
+                        <lb/>
+                    YELLOWSTONE NATIONAL PARK
+                        <lb/>
+                    YELLOWSTONE PARK, WYO.
+                        <lb/>
+                    
+                    OFFICE OF THE SUPERINTENDANT</hi>
+                </fw>
+                
+                <opener>
+                    <dateline>September 4, 1935</dateline>
+                    
+                    <address>
+                        <addrLine>Mr. John <hi rend="caps">G.</hi> Neihardt</addrLine>
+                            <addrLine>Branson, Missouri.</addrLine>
+                    </address>
+                    
+                    <salute>Dear Mr. Neihardt:</salute>
+                </opener>
+                <p>I was ever so glad to receive your letter of August 27 and the supplemental note of August 29.</p>
+                
+                <p>The list as revised, in the order of importance is as follows:
+                    <list>
+                        <item>Fort Phil Kearney-Wagon Box Fight-Fetterman 
+                            Fight</item>
+                        <item>Rosebud Battlefield</item>
+                        <item>Beechers Island on the Rickaree</item>
+                        <item>Crazy Horse's Fight with Miles on the Tongue
+                            River, January 8, 1877</item>
+                        <item>Slim Buttes in southwestern South Dakota</item>
+                        <item>Wounded Knee, Pine Ridge Reservation.</item>
+                    </list>
+                </p>
+                
+                <p>May I ask one further question? Whereabouts in this list would you place the Custer Battlefield and the Big Hole Battlefield?</p>
+                
+                <p>As you doubtless know, some national monuments, such as Gettysburg, have numerous memorial monuments constructed on the battlefield, while other areas, more recently set aside, are preserved as nearly as possible in their original condition, with only sufficient markers to tell the story to visitors. A "monument" of stone is not a necessary part of a national "monument".</p>
+                
+                <p>In considering national monuments to commemorate the Revolutionary War, for example, one might select the opening engagement, decisive battles that turned the tide of history, the closing battle, and battles where the greatest number of combatants were engaged or the greatest casualties occurred. I suppose that the most important battlefields of the Indian wars would be selected on a somewhat similar basis although of course the problem is not one capable of solution by formula.</p>
+                
+                <pb facs="nei.j4a.16.30-31_0002"/>
+                
+                <fw type="curatorial">31</fw>
+                
+                <p>I am much interested in your view that heroism is the vital consideration. In most battlefields heroism is present to a conspicuous degree both as regards individuals and the collective forces. In selecting a few areas that are of outstanding importance in American history it seems to me one would be governed chiefly by the effect that the battle had on the history of our country. I am inclined to question whether one could properly select events of individual heroism ahead of events which changed the national destiny.</p>
+                
+                <p>I think I would be inclined to give priority to some of the earlier Indian battles, when the western country was in the hands of the Indians, rather than to some of the later battles, such as the Big Hole Battle, when the country was definitely a white man's country and there was no uncertainty as to the final outcome of a campaign.</p>
+                
+                <p>The number of national monuments must always remain very restricted. Only the events of outstanding national importance can be under federal control. A number of states have made rapid progress in establishing state parks to commemorate a considerable number of additional historic sites. The states should take an important part in preserving the historic sites of the country.</p>
+                
+                <p>I am very glad to know that the <hi rend="caps">SONG OF THE MESSIAH</hi> will appear in October and shall look forward to it with great pleasure. I am sure it will be a fitting companion to the <hi rend="caps">SONG OF THREE FRIENDS</hi> and the <hi rend="caps">SONG OF HUGH GLASS</hi>.</p>
+                
+                <p>Trusting you will have a pleasant and successful trip, following the route of Jedediah Smith's trails,</p>
+                <closer>
+                    <salute>Sincerely yours,</salute>
+                    <signed>Roger W. Toll</signed>
+                    <signed>Roger W. Toll
+                    Superintendant</signed>
+                </closer>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

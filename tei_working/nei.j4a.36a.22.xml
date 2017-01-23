@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.36a.22">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Fern M. Pierce to John G. Neihardt, July 20, 1972</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4a.36a.22</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Fern M. Pierce to John G. Neihardt</title>
+                    <date when="1972-07-20">July 20, 1972</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.36a.22"/>
+                
+                <fw type="curatorial">22</fw>
+                
+                <opener>
+                    <dateline>
+                        305 <hi rend="caps">E.</hi> State Street
+                        Vandalia, Mo. 63382
+                        July 20, 1972
+                    </dateline>
+                
+                    <address>
+                        <addrLine>Dr. John <hi rend="caps">G.</hi> Neihardt</addrLine>
+                        <addrLine>5835 Vine Street</addrLine> 
+                        <addrLine>Lincoln, Nebraska 68505</addrLine>
+                    </address>
+                    
+                    <salute>Dear Dr. Neihardt:</salute>
+                </opener>
+                <p>When your appearance on the Dick Cavett show was re-run, I broke my usual sleep patterns to enjoy every minute of it. Had I known of it in time the year before, I'd have seen both. - I also enjoyed talking with the Rhines about their visit to you in Columbia. I had not known of it at the time.</p> 
+                
+                <p>Your Creative Writing class in the University was a happy and useful experience for <add>^me</add> back in 1959. It was then that I started writing my <hi rend="caps">SONNETS OF EVE</hi>. A reason for my writing now and for my not writing immediately after the Dick <del>V</del><add>C</add>avett show is that the <hi rend="caps">SONNETS</hi> were then in the hands of a publisher. They have now been accepted for publication by Moore Publishing Company of Durham, <hi rend="caps">N. C.</hi>, and the book will come out in early spring. I shall certainly send you a copy. There are eighty of the sonnets <del>now</del>, plus a prologue (in b<del>k</del><add>l</add>ank verse printed as prose) and an epilogue (s<del>i</del><add>o</add>nnet). Thirty-five of the sonnets are Petrarchan, twenty-one Shakespearian, and twenty-five are "Flora Rima," the form that I had already originated when I was in your class. It divides nine-five instead of eight-six, and the rhyme scheme is abacbcdcdeefff.</p>
+                
+                <p>Actually I am not now at the above address but shall be in a little more than a week. The last of April I came to Durham as a visitor and volunteer worker at <hi rend="caps">FRNM</hi> and the Institute for Parapsychology. I get to sign my name "An assistant to Dr. Rhine<del><hi rend="caps">W</hi></del><add>"</add> when I write answers to letters of certain kinds. Most of my time is my own, and that accounts for my being able to type the <hi rend="caps">SONNETS OF EVE</hi> and get them to a publisher. - Even after they were accepted I was awakened at <del>#</del><add>3</add> a.m. one morning and 5 a.m. another to write two that demanded to be written. I pulled out two, with no regrets, but could not make myself eliminate more. No doubt some are not on a par with the best, but all have a truth to tell.</p> 
+                
+                <p>I plan to return here not later than early November to continue my work for Dr. Rhine and my own research and writing through the winter.</p> 
+                
+                <p>From 1963 until his death in 1969 my husband had serious health problems, and I did not have much time or heart for writing.</p> 
+                
+                <p>I write with happy memories and appreciation of you and of your work and with deep good wishes.</p> 
+                <closer>    
+                    <salute>Sincerely yours,</salute>
+                
+                    <signed><unclear>Fern M<unclear/> Pierce</unclear> (Mrs.)</signed>
+                </closer>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

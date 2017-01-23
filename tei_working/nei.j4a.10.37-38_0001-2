@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.10.37-38_0001-2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from General E. S. Godfrey to John G. Neihardt, December 5, 1923</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.10.37-38_0001-2</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from General E. S. Godfrey to John G. Neihardt</title>
+                    <date when="1923-12-05">December 5, 1923</date>
+                    <extent>3 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>3 hand-written pages</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>3 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.10.37-38_0001" />
+                
+                <fw type="curatorial">37</fw>
+                
+                <fw type="imprint">
+                    <figure>
+                        <figDesc>Medal in the Shape of a Star</figDesc>
+                    </figure>
+                    
+                    <hi rend="caps">ORDER OF INDIAN WARS
+                        <lb/>
+                    OF THE
+                        <lb/>
+                    UNITED STATES
+                        <lb/>
+                    <add>GEN. E.S. GODFREY
+                        <lb/>
+                    COOKSTOWN, NEW JERSEY.</add></hi>
+                </fw>
+                
+                <opener>
+                    <dateline>Dec 5, 1923</dateline>
+                
+                <address>
+                    <addrLine>Dr John <hi rend="caps">G.</hi> Neihardt</addrLine>
+                    <addrLine>Bronson, <hi rend="caps">MO.</hi></addrLine>
+                </address>
+                    
+                <salute>My dear Doctor:</salute></opener> <p>Yours of 26 <unclear>inst.</unclear> explains to us the <hi rend="underline">why</hi> of our disappointment in that you failed to turn up <unclear>as expected.</unclear>. The only inconvenience entailed was the disappointment.</p> 
+                
+                <p>Our meeting of the Order of Indian Wars was held on Nov. 22nd and when I saw Major Lemley and told him the situation he said you were probably in the hands of your Agent who arranged your engagements&#8212; so I had hopes that your visit was held in abeyance. We are sorry that you had the misfortune to be taken ill so far from home, but glad you are on the road to recovery&#8212;.</p>
+                
+                <p>Our <unclear>latch-string</unclear> is out and will be glad to welcome you at any time&#8212;</p>
+                
+                <p>In your travels if in Chicago please
+                    
+                    <pb facs="nei.j4a.10.37-38_0002a"/>
+                    <fw type="curatorial">38</fw>
+                    
+                    get arrangements with Mr Wm <unclear>MCanys</unclear>, 7740 Union Ave. Editor of Railway Review. In New York: Dr. <unclear>Geo</unclear> Bird Grinnell 218 East 18th st. In Washington Col <hi rend="caps">W. A.</hi> Graham, <hi rend="caps">W.S.A.</hi> 2101 Mani <unclear>trin</unclear> Bldg. 19th + <hi rend="caps">B</hi> st <hi rend="caps"><unclear>N.</unclear>W.</hi> all of whom are interested in Indian <unclear>lore</unclear> and campaigns, <unclear>them</unclear> and particular friends.</p>
+                <closer>
+                    <salute>Cordially yours,</salute>
+                
+                    <signed>E.S. Godfrey</signed>
+                </closer>
+                
+                    <pb facs="nei.j4a.10.37-38_0002b"/>
+                
+                <note type="recipient">From Gen. Godfrey who was with Custer on Little Big Horn.</note>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

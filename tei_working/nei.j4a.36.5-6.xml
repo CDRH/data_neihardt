@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.36.6-7">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Bob Priddy to John G. Neihardt, January 10, 1972</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4a.36.6-7</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Bob Priddy to John G. Neihardt</title>
+                    <date when="1972-01-10">January 10, 1972</date>
+                    <extent>2 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 type-written pages</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>2 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Seymour, George Steele</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2012"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.36.5"/>
+                
+                <fw type="curatorial">5</fw>
+                
+                <fw type="letterhead">
+                    <hi rend="caps">KLIK</hi> <hi rend="italics">Radio 950, Inc. 
+                        <lb/>
+                    Covering Missouri from the State Capital with</hi> 5000 <hi rend="italics">Watts</hi>
+                        <lb/>
+                    <hi rend="caps">P.O. BOX 414 JEFFERSON CITY, MISSOURI</hi> 65101 <hi rend="italics">314 635-4136</hi>
+                </fw>
+                
+                <opener>
+                    <dateline>January 10, 1972</dateline>
+                    
+                    <address>
+                        <addrLine>Doctor John <hi rend="caps">G.</hi> Neihardt</addrLine>
+                        <addrLine>Skyrim Farm</addrLine>
+                        <addrLine>Columbia, Missouri</addrLine> 
+                    </address>
+                            
+                    <salute>Dear Doctor Neihardt:</salute>
+                </opener>
+                <p>A number of months ago I wrote you about the possbility of doing a special program on the Missouri River as part of our series of programs covering Missouri's sesquicentennial. I believe you were in Nebraska at the time and my letter may never have reached you thorugh the forwarding process.</p> 
+               
+                <p>But, I see that you have returned to Columbia and I take this opportunity to renew my request.</p>
+                
+                <p>I was a student of yours a decade ago and after the first session of "Epic America", I went to the library and checked out all of the Neihardt books I could find. I have been haunted by <hi rend="underline">The River and I</hi> from teh day I first read the forward to it.</p>
+                
+                <p>Although the sesquicentennial year has lapsed, I still believe John Neihardt's telling of his stories of the River would be a valuable part of Missouri's heritage, and of extreme interest to those of us in this city who take it for granted all too often.</p> 
+                
+                <p>The program could be easily done; just the two of us, a person to run the tape recorder and a couple of microphones. It could be done at any time convenient to you. I know you are quite busy.</p>
+                
+                <p>I would also like to make another request. My wife and I sponsor a high school youth group at the First Christian Church here in Jefferson City. Last year the group set up a three-part series on Indians. I conducted one of the programs, relying on some of the old notes I had taken from your lectures and speeches to talk a little about the Sioux. The group found it quite interesting, intriguing. But, I realized then, that I could not do the subject justice.</p> 
+                
+                <pb facs="nei.j4a.36.6"/>
+                
+                <fw type="curatorial">6</fw>
+                
+                <fw type="letterhead">
+                    <hi rend="caps">KLIK</hi> <hi rend="italics">Radio 950, Inc. 
+                        <lb/>
+                    Covering Missouri from the State Capital with</hi> 5000 <hi rend="italics">Watts</hi>
+                        <lb/>
+                    <hi rend="caps">P.O. BOX 414 JEFFERSON CITY, MISSOURI</hi> 65101 <hi rend="italics">314 635-4136</hi>
+                </fw>
+                
+                <fw type="authorial">-2-</fw>
+                
+                <note>ans. 2-9-7<unclear>7</unclear></note>
+                
+                <p>Would it be possible to bring the group to your farm some Sunday afternoon to see your rose garden and hear the story told as it should be told, by you? The group would number about 20. Again, the time of day and the day itself would be up to you, although I'd suggest sometime in May.</p> 
+                <closer>
+                    <salute>Sincerely,</salute>
+                    
+                    <signed>KLIK RADIO 950, Inc.
+                    <signed>Bob Priddy</signed>
+                    Bob Priddy,
+                    News Director</signed> 
+                
+                    <note>BP/jw</note>
+                </closer>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

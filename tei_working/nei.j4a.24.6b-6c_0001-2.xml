@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.24.6b-6c_0001-2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Harold Thompson to John G. Neihardt, June 11, 1956</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.24.6b-6c_0001-2</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Harold Thompson to John G. Neihardt</title>
+                    <date when="1956-06-11">June 11, 1956</date>
+                    <extent>2 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 hand-written pages</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>2 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.24.6b-6c_0001"/>
+                
+                <note type="curatorial">57-2 Neihardt Collection</note>
+                <fw type="curatorial"><del/><add>6b</add></fw>
+                
+                <fw type="letterhead">
+                    <add><note type="authorial">128 Goldwin Smith Hall</note></add>
+                        <lb/>
+                    <hi rend="caps">CORNELL UNIVERSITY
+                        <lb/>
+                    ITHACA, NEW YORK
+                    <lb/>
+                
+                    DEPARTMENT OF ENGLISH</hi>
+                </fw>
+                
+                <opener>
+                    <dateline>June 11, 1956</dateline>
+                
+                    <salute>Dear Dr. Neihardt:</salute>
+                </opener>
+                <p>Although I have to read with one eye nowaday, I have read through <hi rend="underline">When The Tree Flowered</hi> with pleasure and admiration. You show what the Sioux are like <hi rend="underline"> to a poet</hi> who is great-minded (<unclear/>). This is poetry just as truly as <hi rend="underline">A Cycle of the West</hi>, and but for your generosity I <unclear>should</unclear> have missed it. I'm sure that it will help me to "walk the good road to the day of quiet."</p>
+                
+                <p>It is encouraging that you like <hi rend="underline"><hi rend="caps">B.B.</hi> of <hi rend="caps">B.</hi></hi> Since I had the stroke in 1950, I have tried to write two books, neither of which was accepted for publication. Maybe I'll try something <add>else</add> this summer; I had about decided that I couldn't write any more. <hi rend="underline"><hi rend="caps">B.B.</hi> + <hi rend="caps">B.</hi></hi> was written for fun, not as a textbook, but I have always been a teacher first and have never regretted my choice either. Folklore to me means people. You <unclear>could not</unclear> learn anything important in my class, but you would like to <unclear>have</unclear> the students sing. Anyway I wish that you were <hi rend="underline">near</hi> here 
+                
+                <pb facs="nei.j4a.24.6b-6c_0002"/>
+                
+                    <fw type="curtorial">6c</fw>
+                
+                    so that we could talk like "brother-friends"</p>
+                
+                <p>You are still the "little buffalo," but I am what you call a "three-legged old horse" who can't get around to see the Indians and the old men with rosy faces who taught me lore. We have both been lucky, though it is much luckier to be a great epic poet, of course.</p>
+                
+                <p>Ellen Stekert starts her trip west next week. She will call on you if she hits Missouri. Ask her to sing for you; she would be proud to do so.</p>
+                
+                <p>Kendrick called on me one afternoon last week very kindly, and I was able to <del/> thank him again for letting me meet you. He brought me a copy of an Easter poem by you which I hope to have framed. He is a good fellow, isn't he?</p> 
+                <closer>
+                    <salute>May the sun shine on all your trails,</salute> 
+                
+                    <signed>Harold Thompson</signed>
+                </closer>
+                
+                <postscript>
+                    <p>My grandfathers did not approve when I was named Harold; they were both named John. However, I'd like to have you call me Harold, <del>Sk<unclear/>te</del> <hi rend="underline">Skarionate</hi> is too hard to remember, even for me. (Skahloonyadet).</p>
+                </postscript>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>
+

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.15.4">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Cyril Clemens to John G. Neihardt, March 28, 1930</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.15.4</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Cyril Clemens to John G. Neihardt</title>
+                    <date when="1930-03-28">March 28, 1930</date>
+                    <extent>2 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 hand-written pages</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>2 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.15.4a"/>
+               
+                <fw type="curatorial">4</fw>
+                
+                <figure>
+                    <figDesc>Image of Mark Twain's face within a circle</figDesc>
+                    <p>MARK TWAIN SOCIETY</p>
+                </figure>
+                
+                <note type="unknown">Palo Alto</note>
+                
+                <opener>
+                    <dateline>
+                        Mayfield, Calif.
+                        <note>Mar 28, 1930</note>
+                    </dateline>
+                
+                    <salute>Dear Sir:</salute>
+                </opener>
+                <p>We are establishing a Mark Twain Library. Will you please inscribe your favorite book,</p>
+                <closer>
+                    <salute>Yours sincerely,</salute>
+                
+                    <signed>Cyril Clemens</signed>
+                </closer>
+                
+                <note type="curatorial" place="bottom">Missouri Collection</note>
+                
+            </div1>
+            
+            
+            <div1 type="enclosure">
+            
+                <pb facs="nei.j4a.15.4b"/>
+                
+                <figure/>
+            
+                <p>
+                    90-630 <hi rend="caps">MAYFIELD-STANFORD BRANCH</hi> 90-630     No.____________
+                        <lb/>
+                    Bank of Italy
+                        <lb/>
+                    <hi rend="caps">NATIONAL TRUST &amp; SAVINGS ASSOCIATION</hi>
+                        <lb/>
+                    <hi rend="caps">MAYFIELD, CAL.</hi> <date><add><unclear>March</unclear> 27</add>  19<add>30</add></date>
+                
+                <hi rend="caps">PAY TO THE ORDER OF</hi>   <add>John <hi rend="caps">G.</hi> Neihardt</add>       $<add>2.00
+                
+                Two-----------------------</add> <hi rend="caps">DOLLARS</hi>
+                </p>
+                <figure/>
+                
+                <signed>Cyril Clemens</signed>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

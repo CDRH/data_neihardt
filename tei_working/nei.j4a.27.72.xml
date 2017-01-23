@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.27.72">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Harry A. Hall to John G. Neihardt, March 19, 1959</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.27.72</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Harry A. Hall to John G. Neihardt</title>
+                    <date when="1959-03-19">March 19, 1959</date>
+                    <extent>1 page, plus envelope</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page, plus envelope</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.27.72a"/>
+                
+                <note type="curatorial">Neihardt Collection</note>
+                
+                <fw type="letterhead">
+                    <hi rend="caps">HARRY A. HALL
+                        <lb/>
+                    JUDGE OF CIRCUIT COURT
+                        <lb/>
+                    DIVISION NO 10
+                        <lb/>
+                    KANSAS CITY, MO.</hi>
+                </fw>
+                
+                <opener>
+                    <dateline>March 19, 1959</dateline>
+                
+                    <salute>Dear Dr. Neihardt:</salute>
+                </opener>
+                <p>We enjoyed our visit with you last Sunday and hope we may have the pleasure of seeing you again in the near future.</p>
+                
+                <p>Last evening I had an opportunity to remember you to President Truman, and he said he would be delighted to have you visit him at the library at your convenience. I shall find out from his secretary when he is going to be in town and let you know about when it would be convenient for you to see him. He also advised that he is speaking in Columbia Tuesday night, at the university, and if you are not already engaged, perhaps you might see him then.</p>
+                
+                <p>Kind personal regards.</p>
+                <closer>
+                    <salute>Sincerely yours,</salute>
+                
+                    <signed>Harry A Hall</signed>
+                
+                    <address>
+                        <addrLine>Dr. John Neihardt</addrLine>
+                        <addrLine>Care of Mrs. Andrew Petri</addrLine>
+                        <addrLine>Columbia, Missouri</addrLine>
+                        <addrLine>(<hi rend="caps">U.S.</hi> Highway 63 North)</addrLine>
+                    </address>
+                </closer>
+                
+            </div1>
+            
+            
+            <div1 type="envelope">
+                
+                <pb facs="nei.j4a.27.72b"/>
+                
+                <note type="recipient">ansd
+                    4-22-59</note>
+                
+                <ab type="postmark">
+                    KANSAS CITY
+                    MAR 19
+                    6 PM
+                    1959
+                    10
+                    MO.
+                    
+                    USE ZONES NOS. 
+                    FOR <unclear>BETTER</unclear>
+                    MAIL <unclear/>
+                </ab>
+                <figure>
+                    <figDesc>4 Cent Stamp</figDesc>
+                    <p>LINCOLN
+                    4¢
+                    U.S. POSTAGE</p>
+                </figure>
+                
+                <ab type="address">
+                    <address>
+                        <addrLine>Dr. John Neihardt</addrLine>
+                        <addrLine>Care of Mrs. Andrew Petri</addrLine>
+                        <addrLine>Columbia, Missouri</addrLine>
+                        
+                        <addrLine>(<hi rend="caps">U.S.</hi> Highway 63 North)</addrLine>
+                    </address>
+                </ab>
+                
+                <fw type="curatorial">72</fw>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

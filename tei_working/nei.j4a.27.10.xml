@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.27.10">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Albert H. Oechsle to John G. Neihardt, January 12, 1959</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4a.27.10</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Albert H. Oechsle to John G. Neihardt</title>
+                    <date when="1959-01-12">January 12, 1959</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.27.10"/>
+                
+                <note type="curatorial">A3 Aly Collection</note>
+                
+                <fw type="imprint">
+                    <figure>
+                        <figDesc>Coat of Arms</figDesc>
+                        <p>.1649.</p>
+                    </figure>
+                    
+                    <hi rend="caps">ALBERT H. OECHSLE</hi>, 709 East High Street, Jefferson City, Missouri
+                        <lb/>
+                    ______________________________________________________________________________________
+                        <lb/>
+                    Importer                                                             Telephone 6-7558
+                </fw>
+                
+                <opener>
+                    <dateline>January 12th.1959.</dateline>
+                    
+                    <address>
+                        <addrLine>Prof.Neidhardt<sic>Neihardt</sic></addrLine>
+                        <addrLine><hi rend="caps">KOMU. TV.</hi></addrLine> 
+                        <addrLine><hi rend="caps">COLUMBIA</hi>, Mo.</addrLine>
+                    </address>
+                    
+                    <salute>My dear friend :</salute>
+                </opener>
+                <p>Thanks for the very entertaining hours I was allowed to spend with you ,your charming daughter and fine son in law.- Thank you again.- This<sic>These</sic> few lines are just to inform you , that this morning as Fir<del>t</del><add>s</add>t thing I wrote to my friend <address><addrLine>Dr.<hi rend="caps">HEINZ F. FRIEDERICHS</hi></addrLine>
+                    <addrLine>Dehnhardtstrasse 32</addrLine>
+                    <addrLine><hi rend="caps">FRANKFURT</hi> -Eschersheim a.Main</addrLine></address>
+                    about your family-research.-</p>
+                
+                <p>At the same time I checked in Prof.<hi rend="caps">J.DANIEL RUPP'S BOOK....30000 NAMES</hi> of Swiss ,German ,Dutch and French <hi rend="caps">IMMIGRANTS</hi> and others in <hi rend="caps">PENNSYLVANIA</hi> between 1727-1778.
+                    <lb/>    
+                and have found that a <hi rend="caps">GEORG NEIHARD</hi> (without "<hi rend="caps">D</hi>") and a <hi rend="caps">GEORG FRIEDRICH NEIHART</hi> very probably the first ones<sic>one's</sic> grown-up son , immigrated and landed on Sept.26th.1737 in Pennsylvania.- They made their voyage in the galley <hi rend="caps">SAINT ANDREW</hi> from Rotterdam Holland and stopped at Cowes. The ships master</p>
+                 
+                <note type="authorial">George and Friederich are my ancestors. I will send you what we get from Dr. Hering Friederich <del/> I'm tracing the "Story of a Name", as I think of it. (over)</note>
+                
+                <fw type="curatorial">10</fw>                  
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

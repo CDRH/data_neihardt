@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.18.12">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Sister M. Josephine to John G. Neihardt, October 15, 1939</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.18.12</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Sister M. Josephine to John G. Neihardt</title>
+                    <date when="1939-10-15">October 15, 1939</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="3">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.18.12"/>
+                
+                <note type="curatorial"><hi rend="caps">SIGURD NEIHARDT COLLECTION</hi></note>
+                
+                <fw type="curatorial"><del/><add>12</add></fw>
+                
+                <note type="unknown">This might be for next yr. if you haven't time for it now. Please <hi rend="underline">save</hi>.</note>
+                
+                <note type="unknown">contract, Fri. Oct 27, 39</note>
+                
+                <fw type="imprint">
+                    <figure>
+                        <figDesc>Coat of Arms of Mount Saint Joseph</figDesc>
+                        <p>SOLI DEO GLORIA <unclear/> AD JUSTITIAM <unclear/> MULTOS FULG<unclear/></p>
+                    </figure>
+                
+                    <hi rend="caps">MOUNT SAINT JOSEPH
+                        <lb/>
+                    MAPLE MOUNT, KENTUCKY</hi>
+                </fw>
+                
+                <opener>
+                    <dateline>Oct. 15th, 1939.</dateline>
+                
+                    <address>
+                        <addrLine>John <hi rend="caps">G.</hi> Neihardt,</addrLine>
+                        <addrLine>Branson, Mo.</addrLine>
+                    </address>
+                    
+                    <salute>Dear Mr. Neihardt:</salute> 
+                </opener>
+                <p>One of my pupils informed me that you are  to be in Evansville sometime this month for Teachers' Convention. We wish to extend you an invitation to visit Mount Saint Joseph at the time which is not very far from Evansville.</p>
+                
+                <p>We would be glad to arrance<sic>arrange</sic> for a lecture "if your charges are not too high" as you know that we do not get very much money for our work, and we take a number of charity students at the Mount. It would indeed be a treat to me and the Sisters and student<sic>students</sic> to have you for a visit and a lecture. We would also like very much to have Mrs. Neihardt and will give you a tast<sic>taste</sic> of "southern hospitality."</p>
+                
+                <p>No one is a greater admirer than myself of all that you have written and I hope that you will continue to write many more beautiful things as the years slip by.</p> 
+                
+                <p>If that is even a hope of your coming to Mount Saint Joseph let me have a line from you and no greater happiness could I hope for than to int<add>r</add>oduce you to my Sisters, students of the Academy and Junior College.</p>
+                
+                <p>May God bless you and your work!</p>
+                <closer>
+                    <salute>Very cordially yours,</salute>
+                    <signed>Sister M. Josephine</signed>
+                </closer>
+                
+                <postscript>
+                    <opener><hi rend="caps">P.S.</hi></opener> <p>I met you in Saint Louis last year and I wrote my thesis on your works, which gives me a claim to the interest I am showing.</p>
+                </postscript> 
+                   
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

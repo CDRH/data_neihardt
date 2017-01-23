@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.24.8-9_0001-2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to George Sterling, March 13, 1917</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.24.8-9_0001-2</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to George Sterling</title>
+                    <date when="1956-06-28">June 28, 1956</date>
+                    <extent>2 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 hand-written pages</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>2 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.24.8-9_0001"/>
+                
+                <note type="curatorial">COLUM<unclear>BIA, MO.</unclear></note>
+                
+                <fw type="imprint">
+                    <figure></figure>
+                
+                    <hi rend="caps">ANDREW MELROSE LTD.
+                        <lb/>
+                    PUBLISHERS &amp; EXPORTERS
+                        <lb/>
+                    AUCKLAND&#8212;BOMBAY&#8212;JOHANNESBURG&#8212;KARACHI&#8212;MELBOURNE&#8212;NEW YORK&#8212;SYDNEY&#8212;TORONTO</hi>
+                        <lb/>   
+                    <hi rend="italics">Chairman</hi>
+                    <hi rend="caps">M.D. HUTCHINSON</hi>
+                    
+                    <hi rend="italics">Directors</hi>
+                    <hi rend="caps">T.E.A. SPURGEON , K. H. WEBB</hi>
+                    
+                    <hi rend="italics">Trade Counter</hi>
+                    <hi rend="caps">CITY</hi> 7251
+                    
+                    <hi rend="italics">Telephone</hi>
+                    <hi rend="caps">LANGHAM</hi> 3020
+                    
+                    <hi rend="italics">Telegrams</hi>
+                    <hi rend="caps">LITERARIUS, WESDO, LONDON
+                        <lb/>
+                    178-202 GREAT PORTLAND STREET, W.1</hi>
+                </fw>
+                
+                <opener>
+                    <dateline>28/6/56</dateline>
+                
+                    <salute>My dearest <hi rend="underline">John</hi></salute>
+                </opener>
+                <p>I hope these please you.</p>
+                With love + affectionate
+                greetings to Mora + yourself
+                
+                <salute>Your distant publisher</salute>
+                
+                James
+                
+                "Flying Spear"
+                
+                <unclear>P.T.O</unclear>
+                
+                <note><hi rend="caps">ALL MANUSCRIPTS AND OTHER DOCUMENTS SUBMITTED TO THE COMPANY, WHETHER AT THE REQUEST OF THE COMPANY OR OTHERWISE, ARE SUBMITTED ENTIRELY AT THE AUTHOR'S RISK; AND WHILE EVERY POSSIBLE CARE IS TAKEN, IN THE EVENT OF LOSS OR DAMAGE TO THE MANUSCRIPTS, ETC., THE COMPANY CANNOT HOLD ITSELF IN ANY WAY RESPONSIBLE.</hi></note>
+                
+                <pb facs="nei.j4a.24.8-9_0002"/>
+                
+                <fw type="curatorial"><del><unclear/>0</del><add>9</add></fw>
+                
+                <note type="curatorial">WESTERN HISTORICAL MANUSCRIPTS COLLECTION
+                UNIVERSITY OF MISSOURI
+                COLUMBIA, MO.</note>
+                
+                <fw type="authorial"><hi rend="underline">2</hi>
+                
+                <postscript>
+                    <p>Many many many years ago I was nicknamed <hi rend="underline">The Flying Spear</hi> &#8212; and cannot, now, discover why! But all my older friends call me that. What would that be in your Sioux language?</p>
+                </postscript>
+                
+                
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>
+

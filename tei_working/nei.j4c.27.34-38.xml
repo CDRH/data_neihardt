@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.27.34-38_0001-5">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to Lucile Aly, March 25, 1960</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4c.27.34-38_0001-5</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Lucile Aly</title>
+                    <date when="1960-03-25">March 25, 1960</date>
+                    <extent>8 pages, plus envelope</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>8 hand-written pages, plus envelope</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>8 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+<term>Sears, Paul B. (Paul Bigelow), 1891-1990</term>
+<term>Bailey, L. H. (Liberty Hyde), 1858-1954</term>
+<term>Korzybski, Alfred, 1879-1950</term>
+<term>Webb, Mary, 1881-1927</term>
+<term>Sale, Richard, 1911-1993</term>
+<term>Lecomte du Noüy, Pierre, 1883-1947</term>
+<term>Lodge, Oliver, Sir, 1851-1940</term>
+<term>Maeterlinck, Maurice, 1862-1949</term>          
+<term>Pupin, Michael, 1858-1935</term>
+<term>Twain, Mark, 1835-1910</term>
+<term>Moxley, F. Wright (Frank Wright), 1889-</term>
+<term>Tawney, R.H. (Richard Henry), 1880-1962</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+<term type="from">Columbia (Mo.)</term>
+<term type="to">Eugene (Or.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term>A Cycle of the West</term>
+<term>Deserts on the March</term>
+<term>The Holy Earth</term>
+<term>Manhood of Humanity</term>
+<term>Precious Bane</term>
+<term>The Spring of Joy</term>
+<term>Not Too Narrow &#8212; Not Too Deep</term>
+<term>Human Destiny</term>
+<term>Phantom Walls</term>
+<term>The Life of the Ant</term>          
+<term>The New Reformation</term>
+<term>What Is Man?</term>
+<term>Red Snow</term>
+<term>The Acquisitive Society</term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Aly, Lucile Folse, 1913-</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="lkw">Weakly, Laura K.</name> Keywords</change>
+            <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4c.27.34-38_0001a" />
+                <note type="curatorial">17 Aly Collection</note>
+                
+                <opener>
+                <dateline>
+                Route 5, Columbia,
+                3-25-'60
+                </dateline>
+                
+                <salute>Dear Lucile:</salute>
+                </opener>
+                <p>That was a long, long wait, and I was adjusting nobly to a continued silence when your pink note came! <note type="authorial">Hurrah! Hurrah!</note> I <hi rend="underline">like</hi> the pink paper, especially because it is easy on the eyes. The gray paper 
+                <hi rend="underline">was</hi> a bit difficult.</p>
+                
+                <p>We've been having snow, snow &#8212; more than I've seen <add>before</add> in Missouri at this time of year. Forty two inches this winter, nearly all of it since Feb. 20! Now it is melting slowly but the
+                
+                <pb facs="nei.j4c.27.34-38_0001b"/>
+                <fw type="authorial">-2-</fw>
+                
+                wind stays cold. We are threatened with more snow tonight!!</p>
+                
+                <p>I had two good experiences last week, and I want to tell you about them. I spoke <del/> at the annual dinner of the Law fraternity in the Tiger ballroom last Friday. There was a crowd, larger than usual by far, I was told. The place was full of tables. I was the only speaker and my subject was "Law among the Sioux Indians".</p>
+
+<note type="authorial">The Law faculty was there.</note>
+                
+                <fw type="curatorial">34</fw>
+                    <pb facs="nei.j4c.27.34-38_0002a"/>
+                <fw type="authorial">-3-</fw>
+                
+                <p>I never spoke on this before, and I was doubtful about it; for I've felt that my ability to talk well off-hand had left me. I had even come <hi rend="underline">to wonder if I'd even been any good</hi>. I calmed myself with the thought that what I had to tell would be <del><unclear>new</unclear></del>new at least, and so I could get by well enough. They put <del><unclear>me on</unclear></del> my chair on top
+                
+                <pb facs="nei.j4c.27.34-38_0002b"/>
+                <fw type="authorial">-4-</fw>
+                
+                of a table and thus I could see every face. I'm ashamed to say that I talked <hi rend="underline">1 hr. 20 minutes!</hi> But the crowd sat <hi rend="underline">absolutely still</hi>. They <hi rend="underline">looked utterly absorbed &#8212; really</hi>. Afterward many said they never saw the crowd sit so still!</p>
+                
+                <p>Now <hi rend="underline">why</hi> did it happen so? I know I made no bumble, that I felt kind and happy and <hi rend="underline">safe</hi>. Lucile, the thing would
+                
+                <fw type="curatorial">35</fw>
+                    <pb facs="nei.j4c.27.34-38_0003a"/>
+                <fw type="authorial">-5-</fw>
+                
+                have sounded well on tape.</p>
+                
+                <p>The next night I recited lyrics to the Law Wives at Read Hall. It was the same there, with a small group.</p>
+                
+                <p>I'm reporting this because you are planning to write more about me &amp; my work. (You <hi rend="italic">are</hi> my official biographer yet, aren't you, lovely and learned Lady?)</p>
+                
+                <p>It's excellent news that in addition to another reading &amp; review of the Cycle, you will give a program of <add>my</add> lyrics!
+                
+                <pb facs="nei.j4c.27.34-38_0003b"/>
+                <fw type="authorial">-6-</fw>
+                
+                You know, somehow I <hi rend="underline">must</hi> hear you before a crowd. When can that be? I know you are <hi rend="underline">"good"</hi>. I'd love to be in some audience without your knowledge.</p>
+                
+                <p>Here are the books we have handled in <hi rend="underline">Critical Essay</hi> class;
+                <list>
+                <item>Deserts on the March (Sears)</item>
+                
+                <item>The Holy Earth (L. H. Bailey)</item>
+                
+                <item>Manhood of Humanity (Korzybski)</item>
+                
+                <item><hi rend="underline">Precious Bane</hi> and <hi rend="underline">The Spring of Joy</hi> (Mary Webb)</item>
+                
+                <item>Not Too Narrow, Not Too Deep (Sale)</item> 
+                
+                <fw type="curatorial">36</fw>
+                    <pb facs="nei.j4c.27.34-38_0004a"/>
+                    <fw type="authorial">-7-</fw>
+                
+                <item>Human Destiny (Du Nouy)</item>
+                
+                <item>Phantom Walls (Sir Oliver Lodge)</item>
+                
+                <item>The Life of the Ant (Maeterlinck)</item>
+                
+                <item>The New Reformation (Pupin)</item>
+                
+                <item>What Is Man? (Mark Twain)</item>
+                
+                <item>Red Snow (<del/>Moxley)</item>
+                
+                <item>The Acquisitive Society (Tawney)</item>
+                </list></p>
+                
+                <p>I've been getting some good work, and it is beginning to be clear to the class that the dominant ideas of these books <hi rend="underline">are closely related</hi>; as a matter of fact can be tied together with a unifying principle. It's rather fun!</p>
+                
+                <pb facs="nei.j4c.27.34-38_0004b"/>
+                <fw type="authorial">-8-</fw>
+                
+                <p>Skyrim is made beautiful inside, but the furniture is still stacked in the back room. We must have a party out there and do some <del/> arranging of things, lovingly. It's a bit sad out there, Lucile.</p>
+                
+                <p><hi rend="underline">You and all yours are dear to me, good Lady</hi>.</p>
+                
+                <p>And I wish I could kiss Perky right on her nice little cold nose! Fuzzy sweetheart!</p>
+                <closer>
+                <salute>Forever and ever</salute>
+                <signed>John</signed>
+                </closer>
+                
+                <fw type="curatorial">37</fw>
+            </div1>
+            
+            
+            
+            <div1 type="envelope">
+                <pb facs="nei.j4c.27.34-38_0005"/>
+                <fw type="curatorial">38</fw>
+                
+                <ab type="return">
+                17 John Neihardt
+                Rte 7
+                <hi rend="underline">Columbia</hi>, Mo.
+                </ab>
+                
+                <ab type="postmark"><unclear cert="high">COLU</unclear>MBIA, MO. MAR 26 <unclear/>-PM <unclear cert="high">19</unclear>60
+                NEW HOPE FOR HEARTS SUPPORT THE HEART FUND</ab>
+                <note type="authorial">Air Mail</note>
+                <figure>
+                    <figDesc>3 Cent Stamp</figDesc>
+                    <p>U.S. POSTAGE 3¢ IN GOD WE TRUST LIBERTY</p>
+                </figure>
+                <figure>
+                    <figDesc>4 Cent Stamp</figDesc>
+                    <p>UNITED.STATES.POSTAGE FOUR 4 CENTS</p>
+                </figure>
+                
+                <ab type="address">
+                    <address>
+                <addrLine>Dr. Bower Aly,</addrLine>
+                <addrLine><del>1138 22nd Ave., East</del></addrLine>
+                <addrLine><del>Eugene,</del></addrLine>
+                <addrLine><del>Oregon.</del> <add><unclear>Box</unclear></add></addrLine>
+                    </address>
+                </ab>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

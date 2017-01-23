@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.12.7">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Lilla Worthington to John G. Neihardt, February 2, 1925</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.12.7</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Lilla Worthington to John G. Neihardt</title>
+                    <date when="1925-02-02">February 2, 1925</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.12.7" />
+                
+                <fw type="curatorial">7</fw>
+                
+                <fw type="letterhead">
+                    <hi rend="caps">CABLE ADDRESS
+                        <lb/>
+                    BROMASITE, NEW YORK
+                    
+                    TELEPHONES
+                        <lb/>
+                    VANDERBILT 2792-3-4-5-6
+                    
+                    BRANDT &amp; BRANDT
+                        <lb/>
+                    BRANDT &amp; KIRKPATRICK.
+                        <lb/>
+                    101 PARK AVENUE
+                        <lb/>
+                    NEW YORK</hi>
+                </fw>
+                
+                <opener>
+                    <dateline>February 2, 1925.</dateline>
+                    
+                    <address>
+                        <addrLine>Mr. John <hi rend="caps">G.</hi> Neihardt,</addrLine>
+                        <addrLine>Branson, Mo.</addrLine>
+                    </address>
+                    
+                    <salute>Dear Mr. Neihardt:-</salute>
+                </opener>
+                <p>I spoke to Mr. Yearsley of the Ritz-Carlton Pictures last week to try to find out whether they were going to exercise their option on "The Song of Three Friends".</p>
+                
+                <p>He was leaving for the coast the day I telephoned and promised to wire me as soon as he got there what decision the company had made. Of course their option expires on next Friday the sixth, and unles<del>x</del><add>s</add> I hear something by Wednesday night, I shall send them a formal telegram notifying them of the expiration of the option.</p>
+                
+                <p>Their plans are very indefinite even yet and I am sorry to say I cannot give you any tip as to how the situation is going to break, but I do hope that they will decide on doing the picture. I shall wire you as soon as I hear from them.</p>
+                <closer>
+                    <salute>Very truly yours,</salute>
+                    
+                    <signed>Lilla Worthington
+                            <unclear>as</unclear>
+                    BRANDT &amp; BRANDT.</signed>
+                
+                    <note>LW:AS</note>
+                </closer>
+                
+                <note type="recipient">Brandt + Brandt on <hi rend="underline">The Song of Three Friends</hi></note>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>
+
