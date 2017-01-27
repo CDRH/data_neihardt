@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.35b.25a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Jeanne Bogard to John G. Neihardt, September 8, 1971</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.35b.25a</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Jeanne Bogard to John G. Neihardt</title>
+                    <date when="1971-09-08">September 8, 1971</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.35b.25a"/>
+                
+                <fw type="curatorial">25a</fw>
+                
+                <fw type="letterhead"><hi rend="caps">NEBRASKA LIBRARY ASSOCIATION</hi></fw>
+                
+                <opener>
+                    <dateline>
+                        Mrs. <hi rend="caps">R. L.</hi> Bogard, Chairman 
+                        Citations Committee, 
+                        Nebraska Library Association 
+                        99 Country Club Road 
+                        Ralston, Nebraska 68127 
+                        September 8, 1971 
+                    </dateline>
+                    
+                    <address>
+                        <addrLine>Mr. John <hi rend="caps">G.</hi> Neihardt</addrLine> 
+                        <addrLine>221 West Brandon Road</addrLine> 
+                        <addrLine>Columbia, Missouri 65201</addrLine>
+                    </address>
+                
+                    <salute>Dear Mr. Neihardt:</salute> 
+                </opener>
+                <p>It was a delightful surprise to receive your hand-written reply (copy attached) to my letter of August 22 about the Mari Sandoz Award. We are so pleased to have you as the first recipient of the award for significant contributions to Nebraska literature.</p> 
+                
+                <p>I appreciate your difficulties with the quan<del>i</del>tities of mail and the many involvements you must have, but I do hope you have thought about whether or not you can attend the dinner to receive the Sandoz Award. It is scheduled for Thursday, October 21, at 7:00 <hi rend="caps">P.M.</hi> at the Hilton Hotel in Omaha. I need to know whether you can join us and how many will be with you.</p> 
+                
+                <p>If you have other commitments, it would be very nice if you could appoint someone in this area to represent you and receive your plaque.</p> 
+                
+                <p>Whatever you decide, I count on hearing from you very soon concerning the dinner arrangements I should make.</p>
+                
+                <p>Also, please let me know of any special ways we might be able to help you join us. For example, if you are going to be in Nebraska on October 21, I am sure almost any town in the state has a librarian who would be delighted to chauffeur you to and from the dinner as well as any friends who might be with you.</p> 
+                <closer>
+                    <salute>Yours and most sincerely,</salute>
+                    
+                    <signed>Jeanne Bogard</signed>
+                    <signed>(Mrs.) Jeanne Bogard</signed> 
+                    
+                    <note>Copy to 5835 Vine Street 
+                        Lincoln, Nebraska</note>
+                </closer>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

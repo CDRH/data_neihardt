@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.36.27">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Harley H. Zeigler to John G. Neihardt, February 17, 1972</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.36.27</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Harvey H. Zeigler to John G. Neihardt</title>
+                    <date when="1972-02-17">February 17, 1972</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.36.27"/>
+                
+                <note>Ans. 2-2<unclear reason="missing"/></note>
+                
+                <fw type="curatorial">27</fw>
+                
+                <fw type="imprint"> 
+                    <hi rend="caps">THE MISSOURI SCHOOL OF RELIGION</hi>
+                    
+                    <figure>
+                        <figDesc>A Cross and a Star of David over an M</figDesc>
+                    </figure>
+                    
+                    <hi rend="caps">NINTH AND LOWRY 
+                        <lb/>
+                    COLUMBIA, MISSOURI</hi> 65201
+                        <lb/>
+                    <hi rend="italics">Telephone (314) 449-0071</hi>
+                </fw>
+                
+                <opener>
+                    <dateline>
+                        308 Parkade Boulevard, 
+                        Columbia, Missouri,    65201
+                        February 17, 1972
+                    </dateline>
+                    
+                    <address>
+                        <addrLine>Dr. John <hi rend="caps">G.</hi> Neihardt,</addrLine> 
+                        <addrLine>5835 Vine St.,</addrLine>
+                        <addrLine>Lincoln, Nebraska    68505</addrLine>
+                    </address>
+                    
+                    <salute>Dear Dr. Neihardt:</salute>
+                </opener>
+                <p>A little over a week ago some Indians were on our campus here in Columbia from the Iroquois Confederacy. One spoke in two of my classes on World Religions on the religious beliefs of the Indian people. The students were deeply thrilled and have been asking since if we could include the Indian Religion in our University World Religions Fair in the Memorial Student Union on March 3.</p> 
+                
+                <p>Since 1968 my students in Living and Comparative Religion classes have been creating a program and exhibits in the Student Union every other year. The Fair is open to townsfolk and university people alike, and did so much to let the religions of the world live and breathe the students have asked that one be held each year.</p> 
+                
+                <p>As the students asked for Indian religion to be included this year, I immediately thought of the wonderful speech you give on the interpretative mystical vision the Indian Chief shared with you years ago, and the students asked me to write you and see if there was any possibility you could speak for them in the Memorial Union Auditorium the evening of Friday, March 3.</p>
+                
+                <p>I called your daughter and she said you had earlier thought of returning to Columbia late in February, but that your plans had possibly changed. If not, we weould be thrilled if you could speak for even fifteen minutes. If not, if you could send us a diagram of chart of the vision as you so graphically sketched it for us in the School of Religion one day, we would be glad to use it in the Fair in the Indian display.</p> 
+                
+                <p>We know you have to conserve your strength and energy, and we recognize we have no honorarium to pay you. But our students would be both honored and thrilled if you were here and could speak for them.</p> 
+                <closer>
+                    <salute>Sincerely yours,</salute>
+                    
+                    <signed>Harley H. Zeigler</signed>
+                    <signed>Harley H. Zeigler,
+                    Professor of the History and Philosophy of Religion.</signed> 
+                </closer>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

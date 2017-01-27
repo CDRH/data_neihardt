@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.37a.22-23">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Jack and Marty Marken to John G. Neihardt, May 17, 1973</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.37a.22-23</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Jack and Marty Marken to John G. Neihardt</title>
+                    <date when="1973-05-17">May 17, 1973</date>
+                    <extent>2 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 hand-written pages</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>2 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.37a.22"/>
+                
+                <note>ans. 8-29-73</note>
+                
+                <fw type="curatorial">22</fw>
+                
+                <fw type="imprint">
+                    <figure>
+                        <figDesc>A circle within a circle within a circle</figDesc>
+                        <p>∙ SOUTH DAKOTA COMMITTEE ON HUMANITIES</p>
+                    </figure>
+                    <hi rend="caps">AFFILIATE</hi> of <hi rend="caps"><hi rend="italics">THE NATIONAL ENDOWMENT FOR THE HUMANITIES</hi>
+                        <lb/>
+                    DR. JACK W. MARKEN</hi> 
+                        Brookings, Chairman 
+                        <lb/>
+                    <hi rend="caps">MR. LOREN M. CARLSON</hi>
+                        Vermillion, Vice Chairman 
+                        <lb/>
+                    <hi rend="caps">MRS. JEAN D. WALZ</hi>
+                        Brookings, Secretary
+                        <lb/>
+                    <hi rend="caps">REV. DANIEL R. RICE</hi> 
+                        Aberdeen
+                        <lb/>
+                    <hi rend="caps">MRS. VIRGINIA SIMPSON</hi>
+                        Rapid City 
+                        <lb/>
+                    
+                    <hi rend="caps">MR. ARTHUR AMOITTE</hi> 
+                        Manderson 
+                        <lb/>
+                    <hi rend="caps">DR. JOHN BRYDE</hi> 
+                        Vermillion 
+                        <lb/>
+                    <hi rend="caps">MR. WILLIAM GRADY</hi> 
+                        Bonesteel
+                        <lb/>
+                    <hi rend="caps">MRS. SYLVIA HENKIN</hi> 
+                        Sioux Falls 
+                        <lb/>
+                    <hi rend="caps">MR. LEONEL JENSEN</hi> 
+                        Wall 
+                        <lb/>
+                    <hi rend="caps">FATHER STAN MAUDLIN</hi> 
+                        Blue Cloud Abbey 
+                        <lb/>
+                    <hi rend="caps">MRS. HARRIET MONTGOMERY</hi> 
+                        Aberdeen
+                        <lb/>
+                    <hi rend="caps">MR. R. MILTON RICH</hi> 
+                        Brookings 
+                        <lb/>
+                    <hi rend="caps">DR. STANFORD STENSON</hi> 
+                        Sioux Falls
+                        <lb/>
+                    <hi rend="caps">MR. WEBSTER TWO HAWK</hi> 
+                        Rosebud
+                </fw>
+                
+                <opener>
+                    <dateline>
+                        319 20th Ave
+                        Brookings, <hi rend="caps">S.D.</hi> 57006
+                        May 17, 1973
+                    </dateline>
+                
+                    <salute>Dear Mrs. Young, Mr. Young, and Dr. Neihardt,</salute>
+                </opener>
+                <p>I am extremely sorry that I have been so long in answering your letter of April 20, but it came while I was away in Washington on business for the Humanities Committee, and when I retunred I came into office work that had piled up and then a week of finals. On the day of my last final I suffered an attack of kidney stone (I have had them before) and went to the hospital for several days where they removed the stone. I am now back home and in nearly the best of health again, but the stay in hospital brought the usual amount of work into the office and so your answer has suffered along with other things.</p>
+                
+                <p>Now for what answers I can give. Ella Deloria, who died a couple of years ago, was Vine Deloria, Jr.'s aunt, the sister of his father Vine Deloria, who is still iving in Pierre, <hi rend="caps">S.D.</hi> The senior Deloria is a retired Episcopal minister and Son of Philip Deloria, an early <hi rend="caps">E.</hi> minister. Young Vine Deloria now lives somewhere in Colorado, but I do not have his address. Dr. James Gillihan, Director, <hi rend="caps">W.H.</hi> Over Museum, Vermillion, <hi rend="caps">S.D.</hi> knows it. I think a letter directed to him at Western Washington State University, Bellingham, Washington would be forwarded to him &#8212; the "him" I'm referring to is Vine Deloria, Jr.</p> 
+                
+                <p>His article on Dr. Neihardt is intemperate. No one speaks for the Sioux, not even Vine Deloria, Jr., as he will admit, and I know that Dr. has always qualified what he says by telling his auditors that this is what he believes, and he doesn't, like any of us, believe he can speak for The Sioux, or the Nebraskan, or The Dutch, or the Democrats, or what have you.</p> 
+                
+                <p>I think there are entirely too many claims for infallibility to the Indian made by too many people, Indian and non-Indian alike. 
+                
+                <pb facs="nei.j4a.37a.23"/>
+                
+                <fw type="authorial">2</fw>
+                <fw type="curatorial">23</fw>
+                
+                    Even Black Elk suggests that they are partially responsible for their own downfall whe<del/><add>n</add> everyone tried to go his own way rahter than work for the common good. Too many minor visions aided in the downfall, and we are having too many cures for theirs and the world's ills now to have any real <unclear>a</unclear>ffect.</p>
+                
+                <p>On another point. We do have a fairly good library on the Indian, and I have a fairly good library on the Indian myself, though I am concentrating on the literature by and about him, and I have given some lectures on that, including one upcoming on May 22 at Miami University in Oxford, Ohio, on May 22. Marty and I will go there leaving the 19th. Our daughter Janice and her husband are there and are expecting their first child any day now. But to get back to my original point. We do not have a catalog of Indian <unclear/> available, but your daughter would be able to find out quite a bit here and at the Unviersity in Vermillion. There is a book on Indian medicine by Vogel, which she has undoubtedly consulted, as it would be one of the first things she would have found in a major library. The bibliography in that book would offer good leads. We also have in <hi rend="caps">S.D.</hi> some men who would give her help besides Mr. Fool Bull, and I believe <del>M</del><add>D</add>r. Gillihan, whom I mentioned earlier, could help her on that.</p> 
+                
+                <p>Marty and I hope this letter finds all of you well. If you fe<del/><add>el</add> like coming into <hi rend="caps">S.D.</hi> with Dr. Neihardt next fall, tell me, and I'll see if we can arrange another appearance. I think it would be possible, unless the funds have been expended for other things. I realize that Dr. has enough to keep him busy in Nebraska and it is an imposition, probably an unkind one, to suggest that he do any traveling. Perhaps we can get down to see all of you one of these months, but I would not plan to come at the risk of inconveniencing any of you. Our best to everybody. I'll try to answer sooner when your next letter comes.</p> 
+                <closer>
+                    <salute>Regards,</salute>
+                
+                    <signed>Jack &amp; Marty Marken</signed>
+                </closer>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

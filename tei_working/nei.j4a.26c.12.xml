@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.26c.12">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Mr. and Mrs. Eldridge King to John G. Neihardt, October 16, 1958</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4.26c.12</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Mr. and Mrs. Eldridge King to John G. Neihardt</title>
+                    <date when="1958-10-16">October 16, 1958</date>
+                    <extent>4 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>4 hand-written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>4 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.26c.12a"/>
+                
+                <fw type="curatorial">12</fw>
+                
+                <opener>
+                    <dateline>10-16-58</dateline>
+                </opener>
+                <p>How we are enjoying Dr. Neihardt's Telecourse! Wish now we had taken the course, tho'<sic>though</sic> we have been unable to see all of them. Can you advise who publisher of "Epic America" is, price, and where it may be obtained? Would appreciate this information, Thanks!</p>
+                
+                <p>Dr. Neihardt truly reads poetry beautifuly! This is quite an accomplishment, but he is somewhat of a philosopher as well as a poet.</p>
+                <closer>
+                    <signed>Mr. and Mrs. Eldridge King</signed>
+                    <address>
+                        <addrLine><hi rend="caps">RR</hi> #1 Four Oaks Farm</addrLine>
+                        <addrLine>Sullivan, Mo.</addrLine>
+                    </address>
+                </closer>
+                
+                <note type="recipient">Ansd</note>
+                
+                <ab type="return">
+                    Four Oaks <hi rend="caps">RR</hi>#1
+                    Sullivan, Mo.
+                </ab>
+                
+                <ab type="postmark">
+                    <unclear/>
+                    1958
+                </ab>
+                <figure>
+                    <figDesc>1 Cent Stamp</figDesc>
+                    <p>WASHINGTON
+                    1¢
+                    U.S. POSTAGE</p>
+                </figure>
+                <figure>
+                    <figDesc>2 Cent Stamp</figDesc>
+                    <p>UNITED STATES
+                    2 CENTS
+                    FRANKLIN
+                    POSTAL CARD</p>
+                </figure>
+                
+                <hi rend="caps">THIS SIDE OF CARD IS FOR ADDRES<unclear>S</unclear></hi>
+                
+                <ab type="address">
+                    <address>
+                        <addrLine>To- Epic America</addrLine>
+                        <addrLine>Dr. John <hi rend="caps">G.</hi> Neihardt</addrLine>
+                        <addrLine><hi rend="caps">KOMU-TV</hi></addrLine>
+                        <addrLine>Columbia, Mossouri</addrLine>
+                    </address>
+                </ab>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>
+

@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.35b.27-28">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from R. P. Dickey to John G. Neihardt, September 13, 1971</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4a.35b.27-28</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from R. P. Dickey to John G. Neihardt</title>
+                    <date when="1971-09-13">September 13, 1971</date>
+                    <extent>2 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 type-written pages</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>2 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.35b.27"/>
+                
+                <fw type="curatorial">27</fw>
+                
+                <fw type="imprint">
+                    <figure>
+                        <figDesc>South Colorado State College Seal</figDesc>
+                        <p>SOUTHERN COLORADO STATE COLLEGE PUEBLO ∙ 1933 ∙
+                        TRUSTEES OF THE STATE COLLEGES IN COLORADO</p>
+                    </figure>
+                
+                    <hi rend="caps">SOUTHERN COLORADO STATE COLLEGE
+                        <lb/>
+                    303 545-4220            PUEBLO, COLORADO 81005 
+                        <lb/>
+                    
+                    DIVISION OF HUMANITIES 
+                        <lb/>
+                    DEPARTMENT OF:</hi>
+                </fw>
+                <opener>
+                    English 
+                
+                    <dateline>September 13, 1971</dateline>
+                    
+                    <salute>Dear Dr. Neihardt,</salute> 
+                </opener>
+                <p>I hope this finds you well--at 90 as well as you were last time Victoria and I saw you, at Hilda's in May of 1969, just before we left Columbia for Pueblo, where I teach Creative Writing and Contemporary Poetry.</p> 
+                
+                <p>I hope the work on your Autobiography is going well, if not finished by now. Good luck on it--even those with great ability, such as yourself, need a bit of luck!</p> 
+                
+                <p>I have been up to see Korczak Ziolkowski's work on Cra zy Horse Mountain twice in the past year. The last time I was up there-- this past March--I saw the letter you wrote Korczak on the sad occasion of the vandalism of his busts outside his studio. I knew then that I must get back in touch with you.</p>
+                
+                <p>The enclosed Xeroxed copy is a brief review of <hi rend="underline">Black Elk Speaks</hi>, and here's how it come<sic>came</sic> about. I was asked to write a 3- to 5 minute review of the book for a readio<sic>radio</sic> station in Denver that does oral book reviews occasionally, <hi rend="caps">KFLM</hi> I believe. The person who asked me to do it was a ho<del>j</del><add>u</add>se guest, and I was aked to do it in an hour or so. What you see here is the hurried up, first draft of the thing--so excuse its lack of polish, brevity, etc. It will be on the air in Denver next Tuesday. You are something of a hero with many hippies, semi-hippies, etc., out around these here parts! Don Drummond was out in June. I hope the main things go well for you and your work, that Alice, Hilda, and all your family is well.</p> 
+                
+                <p>God bless you, sir.</p>
+                <closer>
+                    <salute>Sincerely,</salute> 
+                    
+                    <signed>R P Dickey</signed>
+                    <signed>R. P. Dickey</signed>
+                </closer>
+                
+                <fw>2</fw>
+                
+            </div1>
+            
+            
+            <div1 type="enclosure">
+                
+                <pb facs="nei.j4a.35b.28"/>
+                
+                <note>
+                    radio broadcast in <unclear>Denver</unclear> Colo. 
+                    apparently station. <hi rend="caps">KFLM</hi>(?) 
+                    Sept. 14 (or 21) 1971 
+                    ? 
+                    <hi rend="caps">J.D.</hi> Young 
+                </note>
+                
+                <fw type="curatorial">28</fw>
+                
+                <opener>
+                    <hi rend="caps">A BRIEF REVIEW OF NEIHARDT'S <hi rend="underline">BLACK ELK SPEAKS</hi></hi>
+                    
+                    by <hi rend="caps">R. P.</hi> Dickey 
+                </opener>
+                <p><hi rend="underline">Black Elk Speaks</hi> by John <hi rend="caps">G.</hi> Neihardt <unclear/> of the great horizontal best-sellers of our time. Like S<unclear/>, it has probably never been on any bets-seller <hi rend="underline">list</hi>--<unclear/> <hi rend="underline"><unclear>vertical</unclear></hi> best sellers, they come and go--but over the years, <unclear/>ce in 1932 it has been something of an <unclear/> has sold steadily to people looking for a <unclear/>. <unclear>The</unclear> paperback edition on <hi rend="underline">Black Elk Speaks</hi> first came <unclear>out</unclear> <unclear/>, <unclear>and has since</unclear> gone through seven printings. The word gets around.</p> 
+                
+                <p>The full title is <hi rend="underline">Black Elk Speaks</hi>, <unclear>Being the Life Story</unclear> of a Holy Man of the Oglala Sioux, as told through John <hi rend="caps">G.</hi> Neihardt (Flaming Rainbow). Probably Neihardt's best book, certainly his best-known one, it's curious becasue it is a strange collaboration. The narrative, the images and events, belong to Black Elk himself. He told the story to Neihardt, mostly through his son Ben Black Elk, who acted as interpreter. The actual English prose, is, of course, Neihardt's.</p> 
+                
+                <p>It is one of our great books, and it tells the whole story of the Sioux Indians in the 19th century--High Horse, Gall, Hume, Sitting Bull, Crazy Horse: there they all are, as told by this <del/> Holy Man who knew them so well, from the Wagon Box Fight to Wounded Knee. <hi rend="underline">Black Elk Speaks</hi> runs the story down the way it really was, and Neihardt's prose is simply gorgeous.</p> 
+                
+                <p>Black Elk's son, Ben Black Elk, is still alive. If you ever get up to Mount Rushmore look him up: there he is, in full regalia right outside the tourist bookstore. I once asked Dr. Neihardt what Ben was doing up there, and he laughed and replied, "Lying to tourists!"</p>
+                
+                <p>An antique book dealer in Colorado Springs once expressed surpirise and delight to me when I informed him that Neihardt was still alive. He made a big name for himself in poetry back in the 'teens and twenties, but he's still around and is 90 years old this year. Almost a midget, he's great, looks kind of like a beautiful troll, has a lot of spring in his step, his eyes still sparkle: the whole bit. He's still into his levitation thing, making <unclear>tables</unclear> and chairs rise, not being solemn about it at all, checking out girl's legs, and finishing his <hi rend="underline">Autobiography</hi>, which we can hope is even half as good as <hi rend="underline">Black Elk Speaks</hi>.</p> 
+                
+                <fw>2</fw>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

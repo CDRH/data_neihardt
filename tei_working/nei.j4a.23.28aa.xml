@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.23.28aa">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from George P. Hammond to John G. Neihardt, September 1, 1954</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.23.28aa</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from George P. Hammond</title>
+                    <date when="1954-09-01">September 1, 1954</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.23.28aa"/>
+                
+                <note type="curatorial">Neihardt Collection</note>
+                <fw type="curatorial">28aa</fw>
+                
+                <fw type="letterhead">
+                    <hi rend="caps">UNIVERSITY OF CALIFORNIA
+                        <lb/>
+                
+                    THE GENERAL LIBRARY 
+                        <lb/>
+                    BERKELY 4, CALIFORNIA
+                        <lb/>
+                    -------
+                        <lb/>
+                    THE BANCROFT LIBRARY</hi>
+                </fw>
+                
+                <opener>
+                    <dateline>September 1, 1954</dateline>
+                
+                    <note><hi rend="caps">VIA AIR MAIL</hi></note>
+                
+                    <address>
+                        <addrLine>Dr. John <hi rend="caps">G.</hi> Neihardt</addrLine>
+                        <addrLine>Branson</addrLine>
+                        <addrLine>Missouri</addrLine>
+                    </address>
+                
+                    <salute>Dear Dr. Neihardt:</salute>
+                </opener>
+                <p>During the past year, the Bancroft Library of the University of California, under the inspiration of Dale <hi rend="caps">L.</hi> Morgan's leadership, has undertaken to save from destruction the Jedediah Smith Family records. These records, largely in private hands, are scattered all over the country. Many, indeed, have already been destroyed through the accidents of fire and carelessness or ignorance of heirs, but we have been able to bring together a very impressive lot. Dale <hi rend="caps">L.</hi> Morgan is now on the Bancroft staff, a fact of which I am very proud. He is an able young man who, in spite of having lost his hearing completely, is doing some fine research and writing. In the future, he will, I am sure, make a creditable name for himself as scholar and writer.</p>
+                
+                <p>My purpose in writing you is to invite you to place your own collection of papers, letters, and original manuscripts pertaining to Jedediah Smith in the Bancroft Library. Not knowing you personally, though as a student in Professor Herbert <hi rend="caps">E.</hi> Bolton's classes I read your <hi rend="underline">Splendid Wayfaring</hi> and <hi rend="underline">Song of Hugh Glass</hi> with fascination, I take this means of introducing myself. This Library would consider it a great honor to have a collection of your Smith papers in its Jedediah Smith sources. We have a good and competent staff, an excellent fireproof building, and are able to assure you that such records would be kept secure, and made available to scholars on such conditions as you might wish.</p>
+                
+                <p>If this suggestion strikes a responsive chord in your heart, I hope that you will write me.</p>
+                <closer>
+                    <salute>Very truly yours,</salute>
+                    <signed>George P. Hammond</signed>
+                    <signed>GEORGE P. HAMMOND
+                    Director, Bancroft Library</signed>
+                
+                    <note>GPH:rr</note> 
+                </closer>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

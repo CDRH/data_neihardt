@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.17.15">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from The Indian Defense League of America to John G. Neihardt, May 23, 1937</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.17.15</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from The Indian Defense League of America to John G. Neihardt</title>
+                    <date when="1937-05-23">May 23, 1937</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="3">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.17.15"/>
+                
+                <note type="curatorial">28 McDonald Collection</note>
+                <fw type="curatorial">15</fw>
+                
+                <fw type="letterhead">
+                    <hi rend="caps">RAY S. FADDEN</hi>, President of Executive 
+                    <hi rend="caps">EDWARD JOHN</hi>, Vice-President
+                
+                    <hi rend="caps">DAVID HILL</hi> Treasurer
+                    <hi rend="caps">CHARLOTTE MT. PLEASANT</hi>, Secretary
+                
+                    Indian Defense League of America
+                    <hi rend="caps">CHIEF CLINTON RICKARD</hi>, Grand President
+                
+                    <hi rend="caps">SANBORN, N.Y.</hi>
+                </fw>
+                
+                <opener>
+                    <dateline>May 23, 1937</dateline>
+                
+                    <address>
+                        <addrLine>John <hi rend="caps">G.</hi>Neihardt</addrLine>
+                        <addrLine>Literary Editor</addrLine>
+                        <addrLine>St. Louis Post Dispatch</addrLine>
+                        <addrLine>Mo.</addrLine>               
+                    </address>
+                    
+                    <salute>Dear Friend,</salute>
+                </opener>
+                <p>Some years ago a poem ,"The Death Of Crazy Horse",appeared in a magazine. This poem came to the eyes of one of our members.Since that time we have read other poems written by you.This poem gives the true picture of our old time people and what hardships they had to go through.</p>
+                
+                <p>For years the Indian people have been pictured as all being savages,little better than wild beasts of the forests.Any contribution that Indians have made have been carefully hidden from the eyes of the youth of America.Unfortunately most historians,due to past Indian wars and misunderstandings,have painted the Indians in an unfavorable light.This attitude has hindered progress in many cases of Indian people who have sought to live in this modern civilization which belongs to us all and to which all people have contributed.The average white person fails to see any contribution that the Indian has made and only see him as a block in the way of progress.Only too well do we Indian people know this.</p>
+                
+                <p>When the members of our organization read your poem and saw how you treated the Indian as a human being instead of a worthless cruel savage, their hearts were made happy.We are tired of wrong attitudes concerning our people.We want to be recognized as men.We know that we as well as every race have made our contribution to modern civilization.We want the past and sometimes the present attitudes concerning us changed.We know that to reach the hearts of young men and women books must be changed giving the Indians a fair place.That is why, Mr. Neihardt, we are happy to hear of your fine work,and we want to express our thanks.Because of your words we want to shake you by the hand,if only on paper and call you our friend.If it is at all possible we would like to have you <del>pp</del><add>be</add> with us on our annual Indian Defense League celebration day,Saturday,July 17th at Niagara Falls,<hi rend="caps">N.Y.</hi>We would like to have you read a poem to our people at that time.</p>
+                
+                <p>Again thanking you for your good work and asking the Great Creator,who knows all of our troubles,to grant you long life and to give you power to write many more such poems.</p>
+                <closer>
+                    <salute>We remain your friend</salute>
+                    <signed>INDIAN DEFENSE LEAGUE OF AMERICA</signed>
+                
+                    <signed>Grand President Chief Clinton Rickard
+                    (Ro-wa-da-gah-ra-de)</signed>
+                    <signed>Chief Clinton Rickard</signed>
+                    <signed>President of Executive Ray Fadden
+                    (Ae-ren-ak-weks)</signed>
+                    <signed>Ray Fadden</signed>
+                
+                    <dateline>
+                        St. Louis
+                        June 11, '37
+                    </dateline>
+                </closer>
+                
+                Dear Grace: I'll be out <del>w</del><add>W</add>est on July 17th, but I have asked this good Indian to extend you an invitation to be there and read my stuff. Of course you may not be able to go, but it would be nice if you could. I<add>'d</add> think it bully.
+                
+                With love always,
+                Jno
+                               
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

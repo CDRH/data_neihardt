@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.26b.32-35_0001-8">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Roger T. Grange, Jr. to John G. Neihardt, August 19, 1958</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.26b.32-35_0001-8</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Roger T. Grange, Jr. to John G. Neihardt</title>
+                    <date when="1958-08-19">August 19, 1958</date>
+                    <extent>7 pages, plus envelope</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>7 type-written pages, plus envelope</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>7 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="3">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.26b.32-35_0001"/>
+                
+                <fw type="curatorial">32</fw>
+                
+                <fw type="imprint">
+                    <figure>
+                        <figDesc>Nebraska State Historical Society Building</figDesc>
+                        <p>NEBRASKA STATE HISTORICAL SOCIETY
+                            NEBRASKA STATE HISTORICAL SOCIETY</p>
+                    </figure>
+                    1500 <hi rend="caps">R STREET                   LINCOLN 8, NEBRASKA</hi>
+                </fw>
+                
+                <fw type="letterhead">
+                    <hi rend="caps">FORT ROBINSON MUSEUM</hi>
+                        <lb/>
+                    Nebraska State Historical Society
+                        <lb/>
+                    Crawford, Nebraska
+                </fw>
+                
+                <opener>
+                    <dateline>August 19, 1958</dateline>
+                
+                    <address>
+                        <addrLine>Dr. John <hi rend="caps">G.</hi> Neihardt</addrLine>
+                        <addrLine>Profesor of Creative Writing and Poe<del>e</del><add>t</add> in Residence</addrLine>
+                        <addrLine>University of Missouri</addrLine>
+                        <addrLine>Columbia, Missouri</addrLine>
+                    </address>
+                    
+                    <salute>Dear Dr. Neihardt:</salute>
+                </opener>
+                <p>I have recently had a note from Louise Mortensen of Des Moines, Iowa. She tells me you were unaware of the establishment of the Fort Robinson Museum of the Nebraska State Historical Society and suggested I send you some of our literature.</p>
+                
+                <p>I hope these brochures will be of interest to you and that you will have opportunity to visit the museum at a future date.</p>
+                <closer>
+                    <salute>Sincerely yours,</salute>
+                    
+                    <signed>Roger Grange</signed>
+                    
+                    <signed>Roger T. Grange, Jr.
+                    Curator</signed>
+                
+                    <note>RTG/oj</note>
+                </closer>
+                <note type="authorial">encl.</note>
+                
+            </div1>
+            
+            
+            <div1 type="enclosure">
+                
+                <pb facs="nei.j4a.26b.32-35_0002"/>
+                
+                <figure>
+                    <figDesc>Map Showing the Streets of Downtown Lincoln</figDesc>
+                    <p>U 
+                    T St.
+                    
+                    UNIVERSITY
+                    OF
+                    NEBRASKA
+                    
+                    S
+                    
+                    NEBRASKA STATE
+                    HISTORICAL SOCIETY
+                    
+                    R St.
+                    Q St.
+                    P St.
+                    O St.
+                    N St.
+                    M St
+                    L St
+                    K St.
+                    J St.
+                    
+                    STATE
+                    CAPITOL
+                    
+                    H St.
+                    G St.
+                    F St.
+                    E St.
+                    D St.
+                    
+                    <unclear cert="high">9th</unclear> St.
+                    10th St.
+                    11th St.
+                    12th St.
+                    13th St.
+                    14th St.
+                    15th St.
+                    16th St.
+                    17th St.
+                    18th St.
+                    19th St.</p>
+                </figure>
+                <figure>
+                    <figDesc>Map of Nebraska State Historical Soceity Museum</figDesc>
+                    <p>DESK
+                    PIONEER GALLERY
+                    INDIAN GALLERY
+                    STEPS TO BASEMENT
+                    COLLECTOR'S LANE
+                    ORIENTATION SECTION
+                    STEPS TO 2nd FLOOR
+                    PERIOD ROOMS</p>
+                </figure>
+                
+                <hi rend="caps">NEBRASKA STATE HISTORICAL SOCIETY</hi>
+                1500 R Street                   Lincoln 8 Nebraska
+                
+                Visit the Nebraska State Historical Society Museum
+                
+                <figure></figure>
+                
+                ... where life in the Great Plains is recreated...
+                
+                <fw type="curatorial">33</fw>
+                
+                <pb facs="nei.j4a.26b.32-35_0003"/>
+                
+                <p>Step into the past and retrace the story of man's occupation of the Plains area!</p>
+                
+                <figure></figure>
+                <figure>
+                    <figDesc>Photograph of Museum Display About Stone Working</figDesc>
+                    <p>STONE WORKING
+                    <unclear/> WORKING IS NOT A LOST ART --</p>
+                </figure>
+                
+                <p>Colorful exhibits displayed in a new, ultramodern, air conditioned building interpret the dramatic story of the Indian and the white pioneer.</p>
+                
+                <p>The first inhabitants of this area were prehistoric Indian hunters, of approximately ten thousand years ago, who scattered their chipped stone projectile points across the Plains, evidence today of their skill as stone workers.</p>
+                
+                <p>Agriculture came to the Plains with prehistoric Indian hunters, whose earthlodge villages, cornfields, and prowess as buffalo hunters established a pattern for the way of life followed by their historic successors in eatern and central Nebraska&#8212;the Pawnee, Omaha, Ponca, and Oto.</p>
+                
+                <p>Latecomers to the Plains were the tribes of western Nebraska&#8212;the Cheyenne, Arapaho, and the Dakota Sioux&#8212;proud, warlike, horse-riding, buffalo-hunting nomads whose home was the tipi.</p>
+                
+                <figure>
+                    <figDesc>Photograph of Museum Display Showing Native American Houses</figDesc>
+                    <p><unclear/>
+                    NOMADIC WARRIORS
+                    CHEYENNE ARAPAHOE DAKOTA-SIOUX
+                    <unclear/></p>
+                </figure>
+                <figure>
+                    <figDesc>Drawing of a Woman Working in a Cornfield</figDesc>
+                </figure>
+                
+                <figure>
+                    <figDesc>Nebraska State Historical Society Building</figDesc>
+                    <p>NEBRASKA STATE HISTORICAL SOCIETY</p>
+                </figure>
+                <hi rend="caps">THE NEBRASKA STATE HISTORICAL
+                SOCIETY</hi>
+                
+                • Location
+                <p>15th and <hi rend="caps">R</hi> Streets, just east of the University of Nebraska Student Union.</p>
+                • Museum
+                <p>Exhibits in our galleries are arranged in chronological sequence. Visitors should remember to turn to the left as they enter each gallery to get the complete story as it unfolds.</p>
+                
+                <p>Entrance area exhibits summarize the story of man in Nebraska from the earliest Indian hunters of ten thousand years ago to present-day irrigation practices in Nebraska. They are intended to give the visitor an orientation to the rest of the Museum.</p>
+                
+                <p>The Indian Gallery, located in the west wing of the first floor, presents the colorful story of the Plains Indians from prehistoric times to the present.</p>
+                
+                <p>The Pioneer Gallery, located in the east wing of the first floor, interprets the story of the white pioneer from the fur traders to the present time.</p>
+                
+                <p>A special exhibits gallery, located in the west end of the second floor, features four period rooms and other special exhibits.</p>
+                
+                <p>Collector's Lane, located in the basement, is a series of special exhibits of items commonly collected by hobbyists.</p>
+                • Library
+                <p>The Society maintains an excellent reference library composed of books, manuscripts, archives, newspapers, genealogical materials, and photographs related to the history of Nebraska and the West. Located on the second floor, the library is open to the public.</p>
+                • Hours
+                8:00 <hi rend="caps">A.M.</hi> - 5:30 <hi rend="caps">P.M.</hi>, Monday through Saturday
+                2:00 <hi rend="caps">P.M.</hi> - 5:00 <hi rend="caps">P.M.</hi>, Sunday
+                <p>The building will be closed on New Year's Day, Memorial Day, Independence Day, Labor Day, Thanksgiving Day and Christmas Day.</p>
+                • Admission
+                <p>Admission is free at all times.</p>
+                • Parking Areas
+                <p>Space is provided in front of the building for buses. There is also limited parking space behind the building. The entrance to this parking area is on <hi rend="caps">S</hi> Street.</p>
+                
+                <pb facs="nei.j4a.26b.32-35_0004"/>
+                
+                <figure>
+                    <figDesc>Photograph of a Fireplace</figDesc>
+                </figure>
+                <figure>
+                    <figDesc>Drawing of a Covered Wagon</figDesc>
+                </figure>
+                
+                <p>Fur traders led the way West, followed by soldiers, missionaries, Mormons, prospectors and settlers, as young Americans took to the overland trails in search of adventure and a better way of life.</p>
+                
+                <p>A roadblock to western expansion appeared in the form of well-organized Indian resistence to the encroachment of the white man on the time-honored hunting lands of the red man.</p>
+                
+                <p>But the Indians soon became islands in the midst of permanent white settlements as homesteaders staked claims to land and built sod houses of "Nebraska marble."</p>
+                
+                <p>Life on the frontier was often difficult and primitive, but touches of eastern culture appeared in the older Missouri River towns, as in this early Victorian parlor from the John <hi rend="caps">L.</hi> Carson home in Brownville, Nebraska.</p>
+                
+                <figure>
+                    <figDesc></figDesc>
+                    <p>hokahe!
+                    INDIAN WARS SWEEP THE PLAINS 1954-76</p>
+                </figure>
+                <figure></figure>
+                <figure>
+                    <figDesc>Early Victorian Parlor from the John L. Carson home in Brownville, Nebraska</figDesc>
+                </figure>
+                
+                <figure></figure>
+                <figure>
+                    <figDesc>Photograph of 19th Century Women's Clothing</figDesc>
+                </figure>
+                
+                <note type="curatorial"><hi rend="caps">JOHN G. NEIHARDT CEN<unclear reason="missing" cert="high">TER</unclear></hi></note>
+                
+                <p>Free land and greater opportunities lured immigrant settlers from European countries. Nebraska became a melting pot of many nationalities, races and creeds.</p>
+                
+                <p>Nebraska's beef cattle industry came up the trail from Texas after completion of the Union Pacific Railroad when Texas cattlemen sought transportation and a market for their herds of longhorns.</p>
+                
+                <figure>
+                    <figDesc>Nebraska State Capitol Building</figDesc>
+                </figure>
+                <figure>
+                    <figDesc>Photography of a Saddle on a Fence</figDesc>
+                </figure>
+                
+                <p>Nebrskans of today step into the future with confidence born of a long tradition of succesfful adaptation to the Plains country!</p>
+                
+                <pb facs="nei.j4a.26b.32-35_0005"/>
+                
+                <hi rend="caps">ABOUT THE FORT ROBINSON MUSEUM:</hi>
+                The Fort Robinson Museum is a branch of the Nebraska State Historical Society. It was first opened to the public on June 3, 1956. The exhibits in the museum summarize the story of man in western Nebraska from Nebraska from prehistoric times to the present. The museum is open all year.
+                
+                Fort Robinson Museum hours:
+                
+                8:00 to 5:00, Monday through Saturday
+                1:00 to 5:00, Sunday
+                
+                There is no admission charge at any time.
+                
+                <hi rend="caps">ABOUT THE NEBRASKA
+                STATE HISTORICAL SOCIETY</hi>
+                
+                <p>The State Historical Society and Library Association was founded in 1867, the year Nebraska was admitted to the Union. It was reorganized as the Nebraska State Historical Society in 1878. It was constituted a state organization by act of the Nebraska Legislature in 1883 and designated custodian of all public records, documents and other materials of historical value by legislative act of 1905. In 1953 the Society moved into its present air-conditioned building at 1500 <hi rend="caps">R</hi> Street, Lincoln, Nebraska. This modern building houses an outstanding historical museum and an excellent library and archives.</p>
+                
+                <p>Memberships in the Nebraska State Historical Society is open to all. Members participate in the government of the Society and receive <hi rend="caps">NEBRASKA HISTORY</hi>, published quarterly and the monthly <hi rend="caps">HISTORICAL NEWSLETTER</hi>. Applications for memberships may be directed to Dr. <hi rend="caps">W. D.</hi> Aeschbacher, Director, Nebraska State Historical Society, 1500 <hi rend="caps">R</hi> Street, Lincoln, Nebraska.</p>
+                <list>
+                    <item>Annual Membership.......$2.00</item>
+                    <item>Life Membership........$50.00</item>
+                </list>
+                
+                <p><hi rend="caps">MEMBERSHIPS MAY ALSO BE 
+                SECURED THROUGH THE OFFICE
+                OF THE FORT ROBINSON MUSEUM</hi></p>
+                
+                <hi rend="caps">THE
+                FORT
+                ROBINSON
+                MUSEUM</hi>
+                
+                <figure></figure>
+                
+                <hi rend="caps">NEBRASKA
+                STATE
+                HISTORICAL
+                SOCIETY</hi>
+                
+                <fw type="curatorial">34</fw>
+                
+                <pb facs="nei.j4a.26b.32-35_0006"/>
+                
+                <hi rend="caps">PREHISTORY. . . . .</hi>
+                
+                <figure>
+                    <figDesc>Drawing of An Arrowhead</figDesc>
+                    <p>The record
+                    of man goes back more
+                    than 10,000 years in Nebraska!
+                    The Fort Robinson Museum story
+                    begins with the prehistoric
+                    Indian period
+                    ......and.....</p>
+                </figure>
+                continues with...................
+                <hi rend="caps">INDIAN TRIBES
+                OF THE HISTORIC PERIOD</hi>
+                
+                <p>During the nineteenth century the Fort Robinson area as in the heartland of Sioux Indian territory. The Oglala and Brule groups of the Teton Dakota (Sioux) camped in the butte-rimmed valley of the White River. Many of the exhibits in the museum illustrate the way of life of these horse-riding, bison-hunting tipi dwellers.</p>
+                
+                <hi rend="caps">RED CLOUD AGENCY
+                1873-1877
+                SUTLER'S STORE</hi>
+                
+                <figure></figure>
+                
+                <p>The site of Old Red Cloud Indian Agency is about two mules from the museum. It was here that the government issued supplies to the Oglala. The site is marked by a monument, but none of the original buildings remain. Fort Robinson was established in March, 1874 for the purpose of enforcing peace at Red Cloud Agency.</p>
+                
+                <p>Captain Arthur MacArthur signed the first post return at Camp Robinson. The post was named in honor of Lt. Levi Robinson, killed by the Sioux near Fort Laramie in February, 1874. In 1878 the name was changed to Fort Robinson. The first barracks were made of logs, and the original officers' quarters were adobe. The adobe buildings are still standing.</p>
+                
+                <hi rend="caps"><unclear>THE FORT ROBINSON</unclear>
+                MUSEUM IS LOCATED
+                ON HIGHWAY U.S. 20,
+                FOUR MILES WEST OF
+                CRAWFORD,
+                NEBRASKA</hi>
+                
+                <figure>
+                    <figDesc>Partial Map o Nebraska</figDesc>
+                    <p>TO THE BLACK HILLS
+                    2 
+                    CHADRON 
+                    FUR TRADE MUSEUM
+                    TO YELLOWSTONEPART
+                    FORT ROBINSON MUSEUM
+                    CRAWFORD
+                    2
+                    AGATE MUSEUM 
+                    29
+                    87
+                    2
+                    19
+                    SCOTTSBLUFF
+                    SCOTTS BLUFF MONUMENT
+                    19</p>
+                </figure>
+                <figure>
+                    <figDesc>Photo of Red Cloud Agency Site</figDesc>
+                    <p>Red Cloud Agency Site</p>
+                </figure>
+                
+                <hi rend="caps">LOCATED
+                IN THE
+                SCENIC 
+                PINE RIDGE
+                COUNTRY</hi>
+                
+                <pb facs="nei.j4a.26b.32-35_0007"/>
+                
+                <p>Fort Robinson was an active post during the Indian campaigns of 1876-1877 and was itself the scene of violence and battle.</p>
+                
+                <figure>
+                    <figDesc>Photo of Crazy Horse's Shirt</figDesc>
+                    <p>Crazy Horse's Shirt......on display in the museum</p>
+                </figure>
+                
+                <p>Crazy Horse, renowned Sioux warrior, died in a struggle at the doorway of the Fort Robinson guardhouse September 5, 1877.</p>
+                
+                <p>Fort Robinson was also the site of the last desperate bid for freedom made by the Northern Cheyenne under Dull Knife's leadership. Breaking out of a log prison at Fort Robinson, the Cheyenne fought a bitter, savage battle with the Army on the parade ground and in the surrounding battles in January 1879. It ended with death or recapture for all but a few of the Cheyenne.</p>
+                
+                <p>Many well known people played a part in the history of Fort Robinson. A few of these are:
+                
+                    <figure>
+                        <figDesc>Photograph of Bust of General George Crook</figDesc>
+                        <p>General George Crook</p>
+                    </figure>
+                    <figure>
+                        <figDesc>Photograph of Bust of Captain Walter Reed, Post Surgeon</figDesc>
+                        <p>Capt. Walter Reed, post surgeon</p>
+                    </figure>
+                    <figure>
+                        <figDesc>Photograph of Bust of California Joe, Scout</figDesc>
+                        <p>California Joe, Scout</p>
+                    </figure>
+                    <figure>
+                        <figDesc>Photograph of Bust of Little Bat, Scout</figDesc>
+                        <p>Little Bat, Scout</p>
+                    </figure>
+                    <figure>
+                        <figDesc>Photograph of Bust of Major Frank North, Pawnee Scouts</figDesc>
+                        <p>Major Frank North, Pawnee Scouts</p>
+                    </figure>
+                    <figure>
+                        <figDesc>Photograph of Bust of Old Jules Sandoz, Homesteader</figDesc>
+                        <p>Old Jules Sandoz, Homesteader</p>
+                    </figure>
+                </p>
+                
+                <note type="curatorial"><hi rend="caps">JOHN G. NEIHARDT CENTER</hi></note>
+                
+                <p><unclear/>. <unclear>Objects used along the road</unclear> and at the old stage coach stations are on display in the museum.</p>
+                
+                <p>Early ranches are also part of the story....</p>
+                
+                <figure>
+                    <figDesc>Drawing of a Colt Revolver</figDesc>
+                    <p>Colt Revolver</p>
+                </figure>
+                <figure>
+                    <figDesc>Drawing of A Cowboy's Tombstone</figDesc>
+                    <p>IN MEMORY OF James Willliamson KILLED BY INDIANS MAY 5 1879. AGED 28 YEARS
+                    A Cowboy's Tombstone</p>
+                </figure>
+                
+                <p>Homestead settlement of the area brought new people to western Nebraska. Museum exhibits depict their struggle to gain a foothold on their new land.</p>
+                
+                <p>Still other displays illustrate the more peaceful aspects of life at Fort Robinson.</p>
+                
+                <figure>
+                    <figDesc>Period Setting in the Museum - Officer's Quarters, 1890</figDesc>
+                    <p>Period Setting in the Museum.......
+                    Officer's Quarters, 1890</p>
+                </figure>
+                
+                <p>Fort Robinson was an important focal point in the winning of the West and was an active military post from 1874 to 1947. Fort Robinson is now used as a Beef Cattle Research Station by the <hi rend="caps">U.S.</hi> Department of Agriculture and the University of Nebraska.</p>
+                
+                <p>The Nebraska Park and Game Commission is developing recreational facilities at the Fort for the public.</p>
+                    
+                <p>The Nebraska State Historical Society invites you to visit its new branch.......
+                <hi rend="caps">THE FORT ROBINSON MUSEUM</hi></p>
+                
+            </div1>
+            
+            
+            <div1 type="envelope">
+                
+                <pb facs="nei.j4a.26b.32-35_0008"/>
+                
+                <ab type="return">
+                    <hi rend="caps">NEBRASKA</hi>
+                        <lb/>
+                    State Historical Society
+                        <lb/>
+                    <del><hi rend="caps">LINCOLN</hi></del>
+                        <lb/>
+                    <add>Mr. Roger <hi rend="caps">T.</hi> Grange, Jr.
+                    Curator, Fort Robinson Museum
+                    Fort Robinson, Nebraska</add>
+                </ab>
+                    
+                <fw type="curatorial">35</fw>
+                
+                <ab type="postmark">
+                    CRAWFORD, NEBR.
+                    AUG 19
+                    <unclear/>PM
+                    1958
+                </ab>
+                <figure>
+                    <figDesc>4 Cent Stamp</figDesc>
+                    <p>LINCOLN
+                    4¢
+                    U.S. POSTAGE</p>
+                </figure>
+                
+                <ab type="address">
+                    <address>
+                        <addrLine>Dr. John <hi rend="caps">G.</hi> Neihardt</addrLine>
+                        <addrLine>Prof. of Creative Writing and Poet in Residence</addrLine>
+                        <addrLine>University of Missouri</addrLine>
+                        <addrLine>Columbia, Mo.</addrLine>
+                    </address>
+                </ab>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

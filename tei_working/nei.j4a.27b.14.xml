@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.27b.14">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Mildred R. Bennett to John G. Neihardt, July 27, 1959</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.27b.14</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Mildred R. Bennett to John G. Neihardt</title>
+                    <date when="1917-03-13">July 27, 1959</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.27b.14"/>
+                
+                <fw type="curatorial">14</fw>
+                
+                <fw type="letterhead">
+                    <hi rend="caps">MILDRED R. BENNETT</hi>
+                        <lb/>
+                    329 North Cedar
+                        <lb/>
+                    <hi rend="caps">RED CLOUD, NEBRASKA</hi>
+                </fw>
+                
+                <opener>
+                    <dateline>July 27, 1959</dateline>
+                
+                    <address>
+                        <addrLine>Dr. John Neihardt</addrLine>
+                        <addrLine>Skyrim Farm</addrLine>
+                        <addrLine>Route 7</addrLine>
+                        <addrLine>Columbia, Mo.</addrLine>
+                    </address>
+                
+                    <salute>Dear Dr. Neihardt:</salute>
+                </opener>
+                <p>Here are the results of John March's search in New York for your letters. Not much help, I'm afraid. He suggests advertising in <hi rend="underline">Saturday Review</hi>, <hi rend="underline">New York Times Book Review</hi> and <hi rend="italics">Library Journal</hi>. This might catch the eye of someone who would know.</p>
+                
+                <p>No luck so far with the woman in Omaha, Mary O'Leary. She claims that I have two of the letters. She did give me two, but I thought I returned them. I shall look through my files again, as I could be mistaken.</p>
+                
+                <p>Under separate cover I am sending Ray Bradbury's <hi rend="underline">Dandelion Wine.</hi> We discussed it when my sister and I were down there. I think you will enjoy parts of it very much.</p>
+                
+                <p>I am disappointed in the color of the prints I am sending. Apparently the type of film I had does not lend itself to good prints. I am sending one of the transparencies so you can see how the color shows up on the screen.</p>
+                
+                <p>Are you coming to see us this summer? We should be delighted to see you and the Aly's.</p>
+                
+                <p>We recall our visit with you as one of the great days in our lives.</p>
+                <closer>
+                    <salute>With best wishes, sincerely,</salute>
+                
+                    <signed>Mildred R. Bennett</signed>
+                </closer>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>
+

@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.36a.30-34">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from William O. Neihart to John G. Neihardt, July 27, 1972</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4a.36a.30-34</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from William O. Neihart to John G. Neihardt</title>
+                    <date when="1972-07-27">July 27, 1972</date>
+                    <extent>7 pages, plus envelope</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>7 type-written pages, plus envelope</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>7 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="3">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.36a.30"/>
+                
+                <fw type="curatorial">30</fw>
+                
+                <fw type="letterhead">
+                    <hi rend="caps">INDIANA STATE UNIVERSITY  TERRE HAUTE, INDIANA 47809
+                        <lb/>
+                    _____________________________________________________________________
+                        <lb/>
+                    BUSINESS OFFICE                                   (812) 232-6311</hi>
+                </fw>
+                    
+                <opener>
+                    <dateline>July 27, 1972</dateline>
+                    
+                    <address>
+                        <addrLine>Dr. John Neihardt</addrLine>
+                        <addrLine>5835 Vine Street</addrLine>
+                        <addrLine>Lincoln, Nebraska 68505</addrLine>
+                    </address>
+                    
+                    <salute>Dear Dr. Neihardt:</salute>
+                </opener>
+                <p>I apologize for not answering your letter sooner, but right after I wrote to you in March I became very busy with Indiana State University's 1972-73 budget and that was followed by the closing of the 1971-72 fiscal year. This particular period of the year takes quite a bit of extra work and time on my part.</p>
+                
+                <p>I believe it has been said that you read several languages; therefore, you have probably interpreted the family record which I sent to you. I have had it translated by one of our German professors and with my help we derived the following information.</p>
+                
+                <p>John Neihart was born in 1802 and in 1829 married Theresa Burger, who was born in 1810. They had seventeen children as follows: <list><item>Magdalina, 11-10-1830;</item> <item>Maria, 10-14-1831;</item> <item>Barbara, 12-7-1832;</item> <item>Levi, 4-30-1834;</item> <item>Elsi or Alice, 6-21-1835;</item> <item>Jonas, 9-27-1836 (my great-grandfather);</item> <item>Elizabeth, 8-4-1838;</item> <item>Simon, 11-25-1840;</item> <item>Solomon, 3-13-1842;</item> <item>Amos, 10-28-1843;</item> <item>Jacob, 3-3-1845;</item> <item>Phobe, 1-6-1848;</item> <item>Willhulmus (William), 5-6-1849;</item> <item>John, 9-1-1850;</item> <item>James LeRoy, 9-1-1851;</item> <item>Nicholas (your father), 7-16-1852;</item> <item>and Adeline, 1-27-1855.</item></list></p>
+
+                <p>In the box with the family record I found the deed signed by your father and mother in 1882 deeding a one-ninth interest in the farm at Coal City to Jonas. Also, there were deeds signed by Elizabeth Neihart Grim, a receipt to Jonas signed by Mary Dennison, guardian of Cassius Neihart, the son of William Neihart, for the money Jonas paid for another one-ninth interest, and a telegram from Phoebe Neihart Hullet directing Jonas to send money to her at Fiscus, Iowa.</p>
+                
+                <p>John and Theresa Neihart, their daughter Elizabeth Neihart Grim, and Jonas are buried in the Neihart cemetary on the farm near Coal City. Magdalina, sister to Jonas, married Andrew Smith and in the 1890's lived near Coal City. I will soon try to locate her grave. I have recently corresponded with Ada Neihart, the widow of Cassius and daughter-in-law of William. My father and mother and my wife and my son (4½ years old) are going to Topeka, Kansas in August and are planning to visit with Ada.</p>
+                
+                <pb facs="nei.j4a.36a.31"/>
+                
+                <fw type="curatorial">31</fw>
+                <fw type="authorial">
+                    Dr. John Neihardt
+                    <date>July 27, 1972</date>
+                    Page 2
+                </fw>
+                
+                <p>A good deal of information has been published about James LeRoy, much of which I just found out about and have not read at this time. Jacob Neihart and his children and grandchildren are listed in a book entitled "The Descendants of Jacob Hochstetler". At one time they lived around Gage, Oklahoma. It has been said that Amos died in Arkansas. I have not been able to trace any of the others yet, but I have not given up. I am not a geneaologist, just an interested relative.</p>
+                
+                <p>I will now write information about the family of Jonas Neihart. Jonas and Sarah had four children, Obediah, Elsie, Ada, and Harley. Elsie married John Wagstaff and then along with Obediah and his wife moved to Kansas. *Obediah and his wife lived around Carbondale and Osage City, Kansas. They had three daughters, Fern, Addie, and Jessie. Addie and Jessie are still living. *Elsie and John lived near Tecumseh, Kansas. Their children Paul, Beulah, and Letha are still living. Letha has a daughter, Betty (Mrs. Alfred Succi),who we have been to visit at Tecumseh several times during the past ten years. *Ada had one child, Paul Winklepleck. Now we come to *Harley, your first cousin and my grandfather. Harley lived on the farm near Coal City,which has been in the family since 1854. Harley was born in 1875 and died in 1954. He married Nora Brothers in 1893, and they had eleven children as follows: <list><item>Carl, born 10-25-1894,  died 2-25-1895;</item> <item>Raymond, born 1-3-1896, died 3-5-1946;</item> <item>Ralph, born 12-10-1898, died 1-25-1900;</item> <item>Eva, born 3-16-1901, died 6-8-1964;</item> <item>Inez, born 9-7-1902 (living);</item> <item>Gilbert (my father), born 9-10-1904 (living);</item> <item>Grace, born 4-16-1906 (living);</item> <item>Sadie, born 2-24-1908, died 4-22-1934;</item> <item>Fred, born 7-21-1909 (living);</item> <item>Lola, born 4-23-1911 (living);</item> <item>Clarence, born 12-9-1912, died 1-19-1972.</item></list> Starting at the beginning, Raymond has one son. Inez has one daughter, Gilbert has me and a daughter, Lola has two children, and Clarence has three children.</p>
+                
+                <p>Gilbert has spent most of his life near Coal City as a farmer and carpenter except for a few early years spent in the East while he worked on construction. As I stated earlier, he lives on and owns part of the original farm. My aunt Grace, who lives in California, owns the rest. I was born and raised on the Neihart farm, attended high school at Coal City, served in the Air Force immediately after high school being stationed in Texas and Wyoming. I then graduated from Indiana State University with a <hi rend="caps">BS</hi> and, while teaching for two years, received a <hi rend="caps">M.S.</hi> from <hi rend="caps">I.S.U.</hi> I have completed most of my sixth year work, doing part of the work at Purdue and part at Indiana State University. As I stated in my earlier letter, I have been employed at Indiana State University since 1959 and have been the University Controller since 1967.</p>
+                
+                <p>I just noticed that in my first letter I stated John and Theresa Neihart bought the farm in 1954. That was a typing error as the actual date was 1854. I am enclosing a few additional documents which may be of interest to you.</p>
+                
+                <pb facs="nei.j4a.36a.32"/>
+                
+                <fw type="curatorial">32</fw>
+                <fw type="authorial">
+                    Dr. John Neihardt
+                    <date>July 27, 1972</date>
+                    Page 3
+                </fw>
+                
+                <p>We are going to Topeka on August 11 for a few days visit with Dad's first and second cousins. If you are going to be at Lincoln, or Columbia, or somewhere else in the vicinity, and if it would be agreeable with you, we would like very much to visit with you for a few hours. We expect to drive to Topeka on Interstate 70 on August 11 and come back to Terre Haute on either August 14 or 15.</p>
+                
+                <p>I am looking foward to hearing from you and hoping to be able to see you.</p>
+                <closer>
+                    <salute>Yours truly,</salute>
+                    
+                    <signed>Bill</signed>
+                    <signed>William O. Neihart</signed>
+                    
+                    <note>amj</note>
+                    <note>Enclosure</note>
+                </closer>
+                
+            </div1>
+            
+            
+            <div1 type="envelope">
+                
+                <ab type="return">
+                    William <hi rend="caps">O.</hi> Neihart
+                    7218 Wabash Avenue
+                    Terre Haute, <hi rend="caps">IN</hi> 47803
+                </ab>
+                
+                <ab type="postmark">
+                    <unclear/>
+                </ab>
+                
+                <note>7-29-'72</note>
+                
+                <ab type="address">
+                    <address>
+                        <addrLine>Dr. John Neihardt</addrLine>
+                        <addrLine>5835 Vine Street</addrLine>
+                        <addrLine>Lincoln, <hi rend="caps">NB</hi> 68505</addrLine>
+                    </address>
+                </ab>
+                
+            </div1>
+            
+            
+            <div1 type="enclosure">
+                
+                <opener>
+                    <unclear reason="missing"/>
+                    <dateline>
+                        <note>1/21/10</note>
+                    
+                        Soldiers National Home
+                        <unclear>Leavenworth</unclear> Ken.
+                        Mr. <unclear/> Neihart. Coal City Ind.
+                    </dateline>
+                    
+                    <salute>Dear Bro:</salute></opener> <p>I <unclear/> your <unclear>welcome message</unclear> <unclear/> <unclear>to know</unclear> that you were <unclear/> what for <unclear/> be altogether well and <unclear/> can we? Now bro: I shall ask of you a favor: when I went to the <unclear>service</unclear> I <unclear>gave</unclear> my (swore to a lie) Age 13½ years younger than I was, by my <unclear/> I would <unclear>have</unclear> to be <unclear>74</unclear> years old before I would draw Old age pension which I should draw at <unclear>02</unclear>, I was <add><unclear/></add> in <unclear>William <hi rend="caps">C. O.</hi></unclear> on July 1<unclear/>th 1903. I wish for you to take The Old Family Bible and <unclear>one</unclear> <unclear/>. And go before <unclear>Justice the</unclear> <unclear/>, and <unclear>draw an</unclear> affidavit, and have it acknowledged by <unclear/>.</p>
+                
+                <p><unclear/> Please insert place of birth, date, state, county, and town, and my parents names.</p>
+                    
+                <p>Kindly to this at your leisure and inform me of the cost, which I will forward by post<unclear/>.</p>
+                    
+                <p>Bro: give me David <unclear>Grime's address</unclear>. also bro. <unclear>Jacob's</unclear> if <unclear>yet alive</unclear> and too, I want Sister Phoebe's address</p>
+                    
+                <p>I <unclear>intend to return to the coast</unclear> states, in early spring. Sorry to inform you that I shall not be able to visit you. It is <unclear>impossible</unclear> <unclear/> for me to <add>visit</add> <unclear>this</unclear> many relatives as I should like to! Had not the Rich Man's Panic struck me <unclear/>.18.07, I probably would be worth $30.00<unclear/> Was engaged in buying and selling Real estate, On the <unclear>installments</unclear> plan for 5 years in Seattle, Wa.
+               
+                <fw type="curatorial">33</fw>
+               
+                <pb facs="nei.j4a.36a.34"/>
+                
+                <fw type="authorial">3rd</fw>
+                
+                    and also working the greater portion of the time at good <unclear>wages</unclear>: $2.75 per day, meals 10¢. Some of my property increased about 500 percent while sleeping. And was very fortunate in buying at the right <hi rend="underline">time</hi> and <hi rend="underline">place</hi>. Been too much of a <unclear>Phinger</unclear>, and thereby have gone down several times; though I have seen men of my temperment make Millions! So there you are and I am here, and expect to try again some time.</p>
+                    
+                <p>I devote about 7. hours per<unclear/> in the Library which is a good one, and a good place to be.
+                
+                <fw type="authorial"><unclear/></fw>
+                
+                    My children do not <add>know</add> that I am here. <unclear>However,</unclear> I am reading my son <unclear/> Greenleaf Neihardt's <unclear/> in magazines; he <unclear>built</unclear> himself a boat and <unclear/> a Gasoline engine at Ft. Benton Mon., and is on a <unclear/> trip <unclear>down</unclear> the two great arteries of the Contine<unclear reason="missing">nt</unclear> and <unclear>writing</unclear> while he glides merrily along! he has sold this press. In the magazines he is called The Nebraska Poet!</p>
+                <closer>
+                    <salute>My regards to all.</salute>
+                    
+                    <signed>Nicholas N. Neihart</signed>
+                </closer>
+                
+                <fw type="curatorial">34</fw>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

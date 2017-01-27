@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.26.48a_0001-2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Noel W. Harman to John G. Neihardt, March 1958</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.26.48a_0001-2</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Noel W. Harman to John G. Neihardt</title>
+                    <date when="1958-03">March, 1958</date>
+                    <extent>2 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 hand-written pages</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>2 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.26.48a_0001"/>
+                
+                <note>[<unclear>March</unclear>, 1958]</note>
+                
+                <fw type="curatorial">48a</fw>
+                
+                <fw type="imprint">
+                    <figure>
+                        <figDesc>The Deshler Hilton Hotel</figDesc>
+                    </figure>
+                
+                    <hi rend="caps">THE</hi> <hi rend="italics">Deshler Hilton</hi> <hi rend="caps">COLUMBUS, O.
+                        <lb/>
+                    TELEPHONE CA</hi>pital 4-1221    ∙   <hi rend="caps">CONRAD N. HILTON</hi>, President     ∙       <hi rend="caps">TRUETT GORE</hi>, General Manager
+                </fw>
+                
+                <opener>
+                    <address>
+                        <addrLine><hi rend="caps">NOEL W, HARMAN</hi></addrLine>
+                        <addrLine>23885 <hi rend="caps">WESTWOOD ROAD</hi></addrLine>
+                        <addrLine><hi rend="caps">WESTLAKE, OHIO</hi></addrLine>
+                    </address>
+                
+                    <salute>Dear Mr. Neihart<sic>Neihardt</sic>:-</salute>
+                </opener>
+                <p>It was a wonderful suprise to hear from you and needless to say &#8212; I was delighted.</p>
+                
+                <p>My Father is quite ill not with a heart condition and I may have to fly suddenly to Omaha to see him, however, we expect that he will be allright, although he must stop his high-energy office activities.</p>
+                
+                <p>As you may recall Dad always went after everything in "High <unclear>Gear</unclear>," and maintained his terrific pace all his life. I never could keep up with him, always slow like my English Grandfather. Mother is well though and I know they would appreciate: a line from you.
+                    <address>
+                        <addrLine><hi rend="caps">N.K. HARMAN</hi></addrLine>
+                        <addrLine>3526 <hi rend="caps">NO</hi> 58 St.</addrLine>
+                        <addrLine><hi rend="caps">OMAHA, NEBR.</hi></addrLine>
+                    </address>
+                </p>
+                
+                <pb facs="nei.j4a.26.48a_0002"/>
+                
+                <p>I am certain that I remember your Daughter Alice and your Son Sigard. I must have been around ten or eleven and you made a number of small paper boats similar to paper hats which we sailed in a tub at the back of the house, 41 years ago &#8212; it seems to be beyond time but what wonderful days those early years were &#8212; I shall never forget them.</p>
+                
+                <p>I spent several January's in the <unclear>Seorcy</unclear> Area of Arkansas, hunting Quail many years ago and came back up through the White River Country on my return to Omaha. I understood you lived up there at one time but our traveling schedule prevented me from ever looking you up.</p>
+                
+                <p>My daughter, Mary Kay, is an <unclear>avid</unclear> little rider and only lives to go Horseback riding having several years of <unclear>training</unclear> by professionals. She is <unclear>now</unclear> twelve years old and taking lessons from a Mrs Packer 75 years old, who is <unclear>very</unclear> active and still an excellent Show rider.</p>
+                
+                <note type="curatorial"><hi rend="caps">JOHN G. NEIHARDT CENTER</hi></note>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

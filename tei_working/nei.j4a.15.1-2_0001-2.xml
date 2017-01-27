@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.15.1-2_0001-2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Dr. W. F. DeMoss to John G. Neihardt, February 15, 1930</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.15.1-2_0001-2</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Dr. W. F. DeMoss to John G. Neihardt</title>
+                    <date when="1930-02-15">February 15, 1930</date>
+                    <extent>2 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 hand-written pages</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>2 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.15.1-2_0001"/>
+                
+                <note type="curatorial">Missouri Collection</note>
+                <fw type="curatorial">1</fw>
+                
+                <fw type="letterhead">
+                    <hi rend="caps">OKLAHOMA
+                        <lb/>
+                    AGRICULTURAL AND MECHANICAL COLLEGE
+                        <lb/>
+                    SCHOOL OF SCIENCE AND LITERATURE
+                        <lb/>
+                    STILLWATER</hi>
+                </fw>
+                
+                <opener>
+                    <dateline>Feb. 15, 1930</dateline>
+                
+                    <address>
+                        <addrLine>Mr. John <hi rend="caps">G.</hi> Neihardt,</addrLine>
+                        <addrLine>Editor Book-page of Post-Dispatch,</addrLine>
+                        <addrLine>St. Louis, Missouri.</addrLine>
+                    </address>
+                
+                    <salute>My dear Mr. Neihardt:</salute>
+                </opener>
+                <p>I am the <hi rend="underline">tall</hi> man who, with one other man, introduced himself to you on the steps of the church just after your Friday's lecture at the Okla. Ed. Assoc., Okla. City, last week. I heard you read next morning (Sat.) The Death of Crazy Horse. I have <hi rend="underline">since</hi> read much of the "Song of the Indian Wars" to my large class in <hi rend="underline">Contemporary Literature</hi>. I am writing now to thank you for your lecture and reading and to try to tell you what an inspiration and help and joy it was to see and hear you, after reading your beautiful poems for the past many grasses and many snows. I thank you.</p> 
+                
+                    <pb facs="nei.j4a.15.1-2_0002"/>
+                    <fw type="curatorial">2</fw>
+                
+                <fw type="letterhead">
+                    <hi rend="caps">OKLAHOMA
+                        <lb/>
+                    AGRICULTURAL AND MECHANICAL COLLEGE
+                        <lb/>
+                    SCHOOL OF SCIENCE AND LITERATURE
+                        <lb/>
+                    STILLWATER</hi>
+                </fw>
+                
+                <p>Let me add that my class was intensely interested in hearing me talk about you and read from your works. We are still studying Neihardt.</p>
+                <closer>
+                    <salute>Most respectfully yours,</salute>
+                
+                    <signed>(Dr.) W.F. DeMoss,</signed>
+                    <address>
+                        <addrLine><hi rend="caps">P.O.</hi> Box 404,</addrLine>
+                        <addrLine>Stillwater, Okla.</addrLine>
+                        <addrLine>Head Dept. of English</addrLine>
+                    </address>
+                </closer>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

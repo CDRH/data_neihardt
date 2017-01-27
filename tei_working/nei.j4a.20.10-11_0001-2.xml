@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.20.10-11_0001-2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Harold S. Latham to John G. Neihardt, August 31, 1942</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.20.10-11_0001-2</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Harold S. Latham to John G. Neihardt</title>
+                    <date when="1942-08-31">August 31, 1942</date>
+                    <extent>2 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 type-written pages</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>2 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.20.10-11_0001"/>
+                
+                <note type="curatorial">Missouri Collection</note>
+                <fw type="curatorial">10</fw>
+                
+                <fw type="letterhead">
+                    <hi rend="caps">CHICAGO ∙ BOSTON ∙ ATLANTA ∙ DALLAS ∙ SAN FRANCISCO ∙ LONDON ∙ TORONTO ∙ BOMBAY ∙ CALCUTTA ∙ MADRAS ∙ MELBOURNE ∙ SHANGHAI ∙ MANILA
+                
+                    THE MACMILLAN COMPANY
+                
+                    CABLE ADDRESS
+                    PACHAMAC NEW YORK</hi>
+                
+                    <hi rend="italics">Publishers</hi>
+                
+                    <hi rend="caps">TELEPHONE
+                    ALGONQUIN 4-2100
+                
+                    SIXTY ∙ FIFTH AVENUE ∙ NEW YORK
+                
+                    GEORGE P. BRETT, JR., PRESIDENT
+                    H.S. LATHAM VICE PRESIDENT
+                
+                    E.L. MEAD, SECRETARY
+                    R.M. BRETT, TREASURER</hi>
+                </fw>
+                
+                <opener>
+                    <dateline>August 31, 1942</dateline>
+                    
+                    <address>
+                        <addrLine>Mr. John <hi rend="caps">G.</hi> Neihardt</addrLine>
+                        <addrLine>Box 167</addrLine>
+                        <addrLine>Branson, Missouri</addrLine>
+                    </address>
+                    
+                    <salute>My dear Neihardt:</salute>
+                </opener>
+                <p>First of all, I owe you an apology, and I hereby tender it. I was completely misinformed about the charge against your account. This commotion came up at the height of our vacation season, and among those away was our Credit Manager. I was assured by his assistant that the charge of $299.45 standing against your name was for merchandise. I now find that the amount of $39.02 is for merchandise, and that the balance is unearned royalty. Do forgive me for having reported that the entire amount was for merchandise. Of course, we never expect an author to pay back any advance that we may make on his books, which is not earned by the sales. If an advance isn't earned by the sales, that's just our hard luck! The only amount concerning which we could be writing you would be this $39.02.</p>
+                
+                <p>Personally, I have been very much disappointed that we have not seen fit as yet to bring out the completed <hi rend="caps">SONG CYCLE</hi> in one volume. I still hold the firm conviction that these books represent an important and a permanently valuable contribution to American literature, and I believe that the time will come when there will be many others who will share that conviction. Our Sales Department has felt---and let me say at once that I think our sales people agree with me as to the importance of the work---that ever since the Cycle was finished, world conditions have been such as to jeopardize its successful publication, if the one volume were attempted, so we have not by any means abandoned the scheme; we have just been marking time. I can't promsie you that it will ever be done. I can only say that some of us here ardently hope that it will be done, and we are keeping the thought in the forefront of our mind, for consideration when conditions seem more propitious. Some time later on this fall, we will undoubtedly go into the whole question again, analyzing the market as we see it and the probable conditions of success, and if it should seem desirable to plan the one volume for 1943, I will be writing you.</p>
+                
+                <p>In one way, your letter was very satisfying to receive. "I am a profoundly happy person, for I have been allowed to complete the work I planned, and intelligent people who know it say that it is good." In that sentence, the 
+                
+                <pb facs="nei.j4a.20.10-11_0002"/>
+                
+                <fw type="curatorial">11</fw>
+                
+                <fw type="letterhead">
+                    <hi rend="caps"><unclear>SHE</unclear>ET NUMBER</hi> <add><fw type="authorial">2</fw></add>    <hi rend="caps">THE MACMILLAN COMPANY</hi></fw>     <date>August 31, 1942</date>
+                    <note>Mr. Neihardt</note>
+                
+                    real writer, the real artist, in my opinion, speaks. The inner satisfaction that comes to an author from work well done is always the larger satisfaction of every literary engagement. It's all very fine if wide recognition and financial security come too, but there is nothing to equal the conviction that one has oneself that one has done a good job. I am so pleased that you have this knowledge yourself, and I know it to be well founded, to be true. While it has not been my privilege to see you very frequently, I know that you yourself must know how I have felt all through the years about your work.</p>
+                
+                <p>You ask why The Macmillan Company wanted your books. The answer is simple. We publish books in which we believe. Sometimes we know that there is little hope of profit in them, and this is usually true of poetry. Yet we wish to do this sort of book whenever conditions permit, as part of an obligation that we feel to the book reading public. We must <del>decide</del><add>try</add> to make the more popular kinds of books carry books of outstanding value in literature which are, becasue of their nature, addressed to a smaller public. I can answer your question in no other way than this. We have done your books because we believe in them as contributions to the permanent body of America<unclear>n</unclear> literature.</p>
+                
+                <p>Believe that I shall keep all of this actively before me, and that I hope the time may come one day when I can write to you that circumstances seem to justify the longed-for volume.</p>
+                
+                <p>Meanwhile, believe that you have my personal best wishes and affectionate greetings.</p>
+                <closer>
+                    <salute>Sincerely yours,</salute>
+                    <signed>Harold Latham
+                    Vice-President
+                    THE MACMILLAN COMPANY</signed>
+                
+                    <note>HSL:VW</note>
+                </closer>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

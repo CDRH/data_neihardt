@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.36a.4-5">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Robert D. Paslay to John G. Neihardt, 1972</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4a.36a.4-5</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Robert D. Paslay to John G. Neihardt</title>
+                    <date when="1972">1972</date>
+                    <extent>2 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 type-written pages</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>2 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.36a.4"/>
+                
+                <fw type="curatorial">4</fw>
+                
+                <fw type="letterhead">
+                    <hi rend="italics">Good Mornings Start with....</hi>
+                        <lb/>
+                    <hi rend="caps">THE</hi> <hi rend="italics">Sun</hi> <hi rend="caps">SENTINEL</hi>
+                        <lb/>
+                    2501 <hi rend="caps">N.</hi> Federal Highway
+                    Pompano Beach, Fla. 33061
+                    941-7800
+                        <lb/>
+                    855 <hi rend="caps">S.</hi> Federal Highway
+                    Room 101-<hi rend="caps">A</hi>
+                    Boca Raton, Fla. 33432
+                    395-5950
+                        <lb/>
+                    314 <hi rend="caps">N. E.</hi> 6th Avenue 
+                    Delray Beach, Fla. 33344
+                    278-2676
+                        <lb/>
+                    416 <hi rend="caps">N.</hi> Dixie Highway
+                    Lake Worth, Fla. 33460 
+                    585-5581
+                </fw>
+                
+                <note>ans. 6/5/72</note>
+                
+                <opener>
+                    855 <hi rend="caps">S.</hi> Federal Highway 
+                    Boca Raton, Fla. 33432
+                    
+                    <address>
+                        <addrLine>Mr. John <hi rend="caps">G.</hi> Neihardt</addrLine> 
+                        <addrLine>English Department</addrLine>
+                        <addrLine>University of Missouri</addrLine>
+                        <addrLine>Columbia, Missouri</addrLine> 
+                    </address>
+                    
+                    <salute>Dear Mr. Neihardt:</salute>
+                </opener>
+                <p>Please allow me to tell you how much I enjoyed reading your <hi rend="underline">Cycle Of The West.</hi></p>
+                    
+                <p>Although I never enjoyed poetic narratives during college several years ago, I have read your cycle twice and am beginning it for the third time.</p>
+                
+                <p>I know it must seem strange to you to have written it over 40 years ago and to receive a response now, but I just discovered you four weeks ago.</p>
+                
+                <p>During my weekly browsing through the stacks in the Fort Lauderdale library for something to read, I found your poetry.</p> 
+                
+                <p>Since then I have ordered both volumes of the cycle from the University of Nebraska in addition to three other books that you have written.</p> 
+                
+                <fw>1</fw>
+                
+                <pb facs="nei.j4a.36a.5"/>
+                
+                <fw type="curatorial">5</fw>
+                <fw type="authorial">-Two-</fw>
+                
+                <p>The test of good literature is if it says something to generations decades after it is written.</p>
+                
+                <p>Your capturing of the agony of a people loosing<sic>losing</sic> the world they have known and their need to be treated as humans proves the lastingness of your poetry.</p> 
+                
+                <p>As long as man's misunderstanding of each other and feelings of superiority over those different from him exists, your poetry will burst forth as new a<del>d</del><add>s</add> the day it was written each time someone discovers you for the first time.</p> 
+                
+                <p>No narrative or poetic account of the death of Crazy Horse that I have read since discovering your account has captured the emotion of the tragedy better than you have.</p> 
+                
+                <p>I mentioned your name to one of the other reporters, who is from the midwest, and he said you appeared on the Dick Cavett television program. Hopefully he will rebroadcast the program sometime in the futu<del>f</del><add>r</add>e.</p> 
+                
+                <p>Again allow me to thank you for contributing so much to literature and to wish you a happy and successful year.</p>
+                <closer>
+                    <salute>Sincerely,</salute>
+                    
+                    <signed>Robert D. Paslay</signed>
+                    <signed>Robert D. Paslay</signed>
+                </closer>
+                
+                <fw>1.</fw>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.14.26">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from C. C. Certain to John G. Neihardt, August 1, 1929</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.14.26</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from C. C. Certain to John G. Neihardt</title>
+                    <date when="1929-08-01">August 1, 1929</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.14.26"/>
+                
+                <note type="curatorial">Missouri Collection</note>
+                <fw type="curatorial">26</fw>
+                
+                <fw type="letterhead">
+                    The Elementary English Review
+                        <lb/>
+                    <hi rend="caps">C.C. CERTAIN, EDITOR
+                        <lb/>
+                    EXECUTIVE OFFICE: 4070 VICKSBURG AVENUE
+                        <lb/>
+                    DETROIT, MICHIGAN</hi>
+                        <lb/>
+                    
+                    Board of Advisers
+                        <lb/>
+                    <hi rend="caps">ARTHUR S. GIST</hi>........San Francisco, California Principal of the Training School and Director of the Practice School, San Francisco State Teachers College
+                        <lb/>
+                    <hi rend="caps">ANNABELL PORTER</hi>........Seattle, Washington Head of Children's Department, Public Library
+                        <lb/>
+                    <hi rend="caps">MRS. IONE MORRISON RIDER</hi>..........Los Angeles, Principal Attendant, Work with Children, Public Library
+                        <lb/>
+                    <hi rend="caps">W. T. LONGSHORE</hi>..........Kansas City, Missouri Principal Greenwood School; Chairman Committee on Standards and Training for the Elementary School Principalship, Department of. Elementary School Principals of the National Education Association
+                        <lb/>
+                    <hi rend="caps">THOMAS C. BLAISDELL</hi>...Slippery Rock, Pennsylvania <unclear/> Teachers College
+                        <lb/>
+                    
+                    <hi rend="caps">CLARA BEVERLY</hi>............Detroit, Michigan Formerly Supervisor of English, Detroit Public Schools
+                        <lb/>
+                    <hi rend="caps">ORTON LOWE</hi>............Coral Gables, Florida  University of Miami
+                        <lb/>
+                    <hi rend="caps">FLORENCE E. BAMBERGER</hi>.....Baltimore, Maryland The Johns Hopkins University
+                        <lb/>
+                    <hi rend="caps">A. J. CLOUD</hi>.........San Francisco, California Chief Deputy Superintendent of Schools
+                        <lb/>
+                    <hi rend="caps">R. L. LYMAN</hi>...............Chicago, Illinois School of Education, University of Chicago
+                        <lb/>
+                    <hi rend="caps">W. W. HATFIELD</hi>............Chicago, Illinois Secretary of the National Council of Teachers of English
+                        <lb/>
+                    <hi rend="caps">CHARLES S. PENDLETON</hi>........Nashville, Tennessee Professor of the Teaching of English, The George Peabody College for Teachers
+                        <lb/>
+                    
+                    <hi rend="caps">MRS. L. M. RUSSELL</hi>........Chattanooga, Tennessee Supervisor of Intermediate Grades
+                        <lb/>
+                    <hi rend="caps">JAMES M. GRAINGER</hi>.........Farmville, Virginia Department of English, State Normal School
+                        <lb/>
+                    <hi rend="caps">PATTY SMITH HILL</hi>............New York City Department of Kindergarten, First Grade Education, Teachers College, Columbia University
+                        <lb/>
+                    <hi rend="caps">WALTER BARNES</hi>............New York City New York University
+                        <lb/>
+                    <hi rend="caps">MAUDE MCBROOM</hi>............Iowa City, Iowa Supervisor of the Elementary School, University of Iowa
+                        <lb/>
+                    <hi rend="caps">FRANCES R. DEARBORN</hi>........Terre Haute, Indiana State Normal School
+                        <lb/>
+                    <hi rend="caps">H.B. WILSON</hi>...........Washington, <hi rend="caps">D.C.</hi> Director Junior Red Cross
+                </fw>
+                
+                <opener>
+                    <dateline>August 1, 1929</dateline>
+                
+                    <address>
+                        <addrLine>Mr. John Neihardt,</addrLine>
+                        <addrLine>c/o Macmillan and Company,</addrLine> 
+                        <addrLine>66 Fifth Avenue,</addrLine>
+                        <addrLine>New York City.</addrLine>
+                    </address>
+                    
+                    <salute>My dear Mr. Neihardt:</salute>
+                </opener>
+                <p>The president of the National Council of Teachers of English has requested me to secure a speaker to address the Council at a luncheon Saturday, November 30, in Kansas City, Missouri.</p>
+                
+                <p>We shall also want this speaker to address that morning, a section of elementary school teachers of English. Of course, we shall want you to talk about your poetry. The section of elementary school teachers of English will be particualrly interested in your "Song of the Indian Wars", "Song of Hugh Glass", and "Song of Three Friends", because these are great favorites with boys in the upper grades.</p>
+                
+                <p>Your topic at the luncheon before the entire Council can be whatever you wish to make it. Your experiences deliberately planned preliminary to the writing of "Hugh Glass" and the "Three Friends" would be of absorbing interest.</p>
+                
+                <p>The Council will pay an honorarium of fifty dollars, which I hope will meet your expenses. I do not know your present address, but I have been told that it is in the Missouri section of the country. Please telegraph me collect, letting me know whether you can accept this invitation. I look forward with the greatest anticipation to your acceptance.</p>
+                <closer>
+                    <salute>Cordially yours,</salute>
+                
+                    <signed>C.C. Certain</signed>
+                
+                    <note>CCC:MAM</note>
+                </closer>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>
+
+

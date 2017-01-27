@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.15.26-27_0001-2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Charles Kelly to John G. Neihardt, April 13, 1931</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.15.26-27_0001-2</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Charles Kelly to John G. Neihardt</title>
+                    <date when="1931-04-13">April 13, 1931</date>
+                    <extent>1 page, plus envelope</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page, plus envelope</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.15.26-27_0002"/>
+                
+                <fw type="curatorial">27</fw>
+                
+                <fw type="letterhead">
+                    <hi rend="caps">CHARLES KELLY</hi>
+                        <lb/>
+                    <hi rend="italic">473 First Avenue</hi>
+                        <lb/>
+                    <hi rend="caps">SALT LAKE CITY, UTAH</hi>
+                </fw>
+                
+                <opener>
+                    <dateline>April 13, 1931</dateline>
+                
+                    <address>
+                        <addrLine>Mr. John <hi rend="caps">G.</hi> Neihardt</addrLine>
+                        <addrLine>Branson, Mo.</addrLine>
+                    </address>
+                    
+                    <salute>Dear Mr. Neihardt:</salute>
+                </opener>
+                <p>The clipping which you were kind enough to mail me arrived this morning, and with it two orders for "Salt Desert Trails." This is the first review which has brought any tangible results.</p>
+                
+                <p>It is hardly necessary to say that yours is the finest review I have yet received, since it would be almost impossible to write a better or more enthusiastic one, and I want to express my great appreciation of this courtesy. A literary page is necessarily crowded, and reviewers are continually imposed upon; but you have given me a great send-off, and if the edition is not soon sold out, it will be because of the present wave of "Hoover Prosperity."</p>
+                
+                <p>Confession is good for the soul-- so I may as well confess that I supposed the author of "Splendid Wayfaring" had long since crossed the river. It is a pleasant surprise to know that such is not the case. Your volume was the pioneer in this field of western history, and is a classic which has never been excelled. It will be remembered by many generations to come.</p>
+                
+                <p>You might be interested to know that since the publication of my book, I have found an old Indian in Skull Valley whose grandmother was camped on the eastern edge of the Salt Desert in 1827. To her camp came Jedediah Smith and his two companions, after crossing the desert. The Indian says they shouted for "Water! Water!" but <del>the</del> his grandmother was frightened at their appearance and tried to run away. They caught her and demanded water, but she thought they were calling for food, so she offered them meat and grass-seed mush. This they refused until they made her understand that they wanted to drink, not eat.</p> 
+                
+                <p>The Indian's description corresponds with Smith's account, and proves my theory of Smith's route, which has been questioned by two or three, who thought he went south of the Salt Desert. This Goshute has promised to take me to the place where his grandmother was camped at that time, and if he keeps his promise, I will send you photographs of the exact spot, together with his verbatim story, which will definitely locate at least one point in a very much discussed journey.</p>
+                
+                <p>Again accept my thanks for the kind words, which are doubly appreciated from such an authority as yourself.</p>
+                <closer>
+                    <salute>Yours,</salute>
+                    
+                    <signed>Charles Kelly</signed>
+                </closer>
+                
+            </div1>
+            
+            
+            <div1 type="envelope">
+                
+                <pb facs="nei.j4a.15.26-27_0001"/>
+                
+                <note type="curatorial">241 Neihardt Collection</note>
+                <fw type="curatorial">26</fw>
+                
+                <ab type="return">
+                    <hi rend="caps">CHARLES K<unclear reason="missing" cert="high">ELLY</unclear>
+                        <lb/></hi>
+                    <hi rend="italic">473 First A<unclear reason="missing">venue</unclear></hi>
+                        <lb/>
+                    <hi rend="caps"><unclear>SALT</unclear> LA<unclear>KE</unclear> C<unclear>ITY, UTAH</unclear></hi>
+                </ab>
+                
+                <ab type="postmark">
+                    SALT LAKE CITY UTAH
+                    APR 28
+                    830 PM
+                    1931
+                    GUTHRIE STA
+                </ab>
+                <figure>
+                    <figDesc>2 Cent Stamp</figDesc>
+                    <p>UNITED STATES POSTAGE <unclear/>48 GENERAL <unclear/> 1779 2 CENTS 2</p>
+                </figure>
+                
+                <ab type="address">
+                    <address>
+                        <addrLine>Mr. John <hi rend="caps">G.</hi> Neihardt</addrLine>
+                            <addrLine>Branson,</addrLine>
+                                <addrLine>Mo.</addrLine>
+                    </address>
+                </ab>
+                
+                <note type="curatorial">In <hi rend="underline">Salt Desert Trails</hi> &#8212; Charles Kelly Western Printing Co. Salt Lake City 1930</note>
+                
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

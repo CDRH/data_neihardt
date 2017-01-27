@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.7.16-17_0001-2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from General Anson Mills to John G. Neihardt, February 20, 1920</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.7.16-17_0001-2</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from General Anson Mills to John G. Neihardt</title>
+                    <date when="1920-02-20">February 20, 1920</date>
+                    <extent>2 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 type-written pages</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>2 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.7.16-17_0001" />
+                
+                <note type="curatorial">Missouri Collection</note>
+                
+                <fw type="curatorial">16</fw>
+                
+                <fw type="letterhead">
+                    <hi rend="caps">GENERAL ANSON MILLS
+                        <lb/>
+                    U.S. ARMY,(RETIRED.)</hi>
+                        <lb/>
+                    No2 <hi rend="caps">DUPONT CIRCLE.
+                        <lb/>
+                    WASHINGTON.D.C.</hi>
+                </fw>
+                
+                <opener>
+                    <dateline>Feb. 20, 1920.</dateline>
+                
+                    <address>
+                        <addrLine>Mr. John <hi rend="caps">G.</hi> Neihardt,</addrLine>
+                        <addrLine>Bancroft, Nebraska.</addrLine>
+                    </address>
+                    
+                    <salute>Dear Sir:</salute>
+                </opener>
+                <p>Your interesting letter with enclosure of the 17th relating to what you term "an epic cycle of the West" such as "The Song of Hugh Glass" and others was received yesterday. This kind of literature is new to me, and I have never heard of it, but as you say some of it has been published by the MacMillan Company, I would be glad to have you send me copies.</p>
+                
+                <p>I know Generals King and Schuyler very well. General King, who you say refered you to me,was my special friend and companion in many of our Indian wars. General Henry and I were special friends through life. I knew him at the Academy before and while he was a cadet and we were members of the same regiment, Third Cavalry, at two different periods once when we were both Captains and later on when I was a Colonel and he a Major. We participated together while in the same regiment at the Battle of Rosebud where he was so desperately wounded, but I think I have told in detail about his part in that engagement all that I could now tell you, in an address I delivered to the Order of Indian Wars here published in the proceedings of its annual meeting March 2, 1917, a copy of which I am enclosing you here-with. (See pages 17 to 34, as well as Colonel Lemly's remarks on the same occasion.)</p>
+                
+                <p>You refer also to a previous battle which you call Crazy Horse's village, in March 1876. Yes, I participated in that also which is better knewn in the Army as the Battle of Powder River. In a book called "My Story" (for private circulation), I refer to this, page 166, as follows -
+                    <lb/>
+                    "Owing to the age and feebleness of Colonel Reynolds and the bitter feud that existed in the regiment (similar to that in the 7th Cavalry between Colonel Sturgis and his friends and Colonel Custer and his friends, that proved so disastrous at the Little Big Horn), this attack on the village on Powder River proved a lamentable failure. Reynolds disobeyed Crook's order to hold the village until his arrival, abandoning the field and retiring in the direction of Fetterman. It is perhaps better not to go into details here in regard to this humiliating failure, further than to say that several officers were tried for misconduct."
+                    <lb/>
+                The time is approaching, however, when the full details of this lamentable affair should be given to history, not by survivors so personally prejudiced, but by some reliable historian who could probably obtain it from the official records in the War Department, courts martial and testimony of witnesses now that the passions of the participants have passed away, and for that purpose I have turned over to <hi rend="caps">W.M.</hi> Camp, 7740 Union Ave., Chicago, the editor of The Railway Magazine, all the records, maps and reports together with some of the trials that I had in my possession. He is a young man of marked ability and energy and is accumulating material to write a thorough and accurate history of the Sioux Wars, and if he lives, will doubtless be able to write a most interesting and accurate history of these wars. It would, perhaps be beneficial to you and also to him to get acquainted with him. He is a friend of General King and is known to most of the living
+                
+                    <pb facs="nei.j4a.7.16-17_0002"/>
+                    
+                    <fw type="curatorial">17</fw>
+                
+                    officers who participated in these wars. The proceedings of the last meeting ofthe Order of Indian Wars held on January 17, this year, with Mr. Camp's contribution will soon be in print when I will send you a copy. I am sending him a carbon of this letter together with a copy of yours.</p>
+                
+                <p>I have given a good deal of study to these wars and have in my library all the books and reports that I could lay my hands on, but from your letter I cannot understand how much of them you are acquainted with. We are strangers, but if you will give me an idea of what you already know, and it is possible for me to add to your knowledge, I would be glad to do so, unless it entails too much effort which I would not like to undertake at my age, though I shall always be ready to make any reasonable effort to add to the truthful knoweldge of history in what you appear to be so interested.</p> 
+                <closer>
+                    <salute>Yours very truly,</salute>
+                
+                    <signed>Anson Mills</signed>
+                </closer>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

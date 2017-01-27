@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.14.25">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Tom to John G. Neihardt, July 15, 1929</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.14.25</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Tom to John G. Neihardt</title>
+                    <date when="1929-07-15">July 15, 1929</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.14.25"/>
+                
+                <note type="curatorial">Missouri Collection</note>
+                <fw type="curatorial">25</fw>
+                
+                <opener>
+                    <dateline>
+                        411 West 115 Street
+                        New York City
+                        July 15th, 29
+                    </dateline>
+                    
+                    <salute>Dear Mr. Neihardt,</salute> 
+                </opener>
+                <p>I wrote you yesterday in appreciation of your poems and letter. Today I am copying the following (though I think I have sent the lines to you) because of the St. Louis association, and becasue of the very remarkable testament the script is.</p>
+                
+                <p>I first heard of Mrs. Curran through Mr. Reedy, who had a great regard for her. This in 1917. There was no possible connection in her knowing anythign of me, and when I met her On April 30, 1925, <hi rend="underline">under absolute test conditions</hi>, <add>(</add>for she had no idea who I was<add>)</add> she gave me the following<add>,</add> <hi rend="underline">instantly</hi> on request. (To me this has been most arresting<add>,</add> that the poem came on May Eve, beause of my own ancestral connection with that great Feast of the Druids):</p>
+                
+                    <lg>
+                        <l>To become an urn,</l>
+                        <l>To pour forth freely a stuff,</l>
+                        <l>The holy stuff which be lended to thy hand,</l>
+                        <l>Poured by that sacred Hand</l>
+                        <l>Which ne'er hath erred.</l>
+                        <l>To become quickened of this touch,</l>
+                        <l>Tranquil, yea, as an amazed child</l>
+                        <l>Before Knowledge --not before wisdom,</l>
+                        <l>Which is the garment of Knowledge--</l>
+                        <l>But before a <hi rend="caps">CERTAIN KNOWLEDGE</hi>.</l>
+                        <l>To become quickened in thy in-man</l>
+                        <l>With an itch for surety,</l>
+                        <l>And be-baffled by the thing</l>
+                        <l>Which confronts thee!</l>
+                        <l>This be nae fair fight, eh?</l>
+                        <l>Yet I say me,</l>
+                        <l>To become a crucible for such an potent stuff</l>
+                        <l>I<del/><add>s</add> to become a Holy Vessel.</l>
+                        <l>And what then shall earth take up--</l>
+                        <l>The Holy Vessel, and consume?</l>
+                        <l>Or shall it for to break it?</l>
+                        <l>I say me, it shall be drunk,</l>
+                        <l>And drunk thirstily.</l>
+                    </lg>
+                
+                <p>As I was leaving, Mrs. <hi rend="caps">C.</hi> said, "Patience has something more for you. But one greater than she is speaking through her."</p>
+                
+                    <lg>
+                        <l>Behold I dip mine sword within a holy red,</l>
+                        <l>And its tip is flamed,</l>
+                        <l>And I have placed it within thine hand.</l>
+                    </lg>
+                
+                <milestone unit="section"/><ab>-----------</ab>
+                
+                <p>There was no talk of my work nor of my experiences during our conversation. Mrs. <hi rend="caps">C.</hi> had absolutely no knowledge of me. If you ever wish to use the above se<del><unclear>ap</unclear></del><add>pa</add>rately --as a substantiation of Mrs. <hi rend="caps">C.</hi> if she ever needs it-- please fe<del>l</del><add>e</add>l free to do so. But not in connection with your own estimate: I want that strong and clear interpretation mixed with no thought but your own.</p>
+                <closer>
+                    <salute>Yours,</salute>
+                    
+                    <signed><unclear>Tom</unclear></signed>
+                </closer>
+                    
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>
+

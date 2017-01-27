@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.26b.14-15_0001-2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Stanley C. Smith to Dr. and Mrs. John Neihardt, July, 1958</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.26b.14-15_0001-2</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note>date from envelope</note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Stanley C. Smith to Dr. and Mrs. John Neihardt</title>
+                    <date when="1958-07">July, 1958</date>
+                    <extent>1 page, plus envelope</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page, plus envelope</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John and Mona</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.26b.14-15_0001"/>
+                
+                <fw type="curatorial">14</fw>
+                
+                <fw type="imprint">
+                    <figure>
+                        <figDesc>A road running through fields</figDesc>
+                        <p><hi rend="caps">THE WAUNETA BREEZE
+                        ESTABLISHED IN</hi> 1887</p>
+                    </figure>
+                    <hi rend="caps">A
+                        <lb/>
+                    STATE AND NATIONAL
+                        <lb/>
+                    PRIZE-WINNING
+                        <lb/>
+                    NEWSPAPER
+                        <lb/>
+                    
+                    THE WAUNETA PUBLISHING CO.
+                        <lb/>
+                    WAUNETA, NEBRASKA
+                        <lb/>
+                    <figure/>
+                        <lb/>
+                    STANLEY C. SMITH, EDITOR &amp; PUBLISHER</hi>
+                    
+                    <figure>
+                        <figDesc>Map of Nebraska with an arrow pointing to Wauneta</figDesc>
+                        <p><hi rend="caps">SOUTH DAKOTA
+                            <unclear/>
+                            IOWA
+                            <unclear/>
+                            COLORADO
+                            <unclear/>
+                            WAUNETA</hi></p>
+                    </figure>
+                </fw>
+                
+                <opener>
+                    <salute>Dear Mr. and Mrs. Neihardt:</salute>
+                </opener>
+                <p>This is a letter I have been meaning to write for some time--since Christmas as a matter of fact. I wanted to send you the Christmas picture of Su<del><unclear>r</unclear></del><add>s</add>an Nell and Rex Neihardt--so here it is (enclosed.)</p>
+                
+                <p>All is well with us here in Nebraska, and we really enjoy living in this country. Strange how I can get a sense of satisfaction living in a country where words such as Homestead, Soddie, Cheyenne Indians, Cattlemen, Ranch Country at al, are used every day. Of course, Southwestern Nebraska is not the ture<sic>true</sic> <hi rend="caps">"WEST"</hi> but there is a tremendous amount of history right here in the Frenchman Vally. Probably the most interesting is that Dull Knife's Cheyenne ranged right through where Wauneta is today, and are credited for killing a rancher, not more than 300 yards from where I am sitting right now. Several months ago I was instrumental in the erection of a stone marker commerating<sic>commemorating</sic> the trek of the Dull Knife Cheyenne, and of course, the death of Wauneta's first settler. It is in the park, <del>I</del><add>a</add>nd I certainly get a sense of pride when I see the monument and realize I helped put it there.</p>
+                
+                <p>My family is <del>a</del><add>w</add>ell, and we are expecting a third child at Christmas time. I didn't realize the tremendous responsibility of children, until my brood was upon me, but I love every m<del>u</del><add>i</add>nute of it. I was brousing<sic>browsing</sic> through Susan's baby book last week, and re-read your wonderful letter that was read at her christning<sic>christening</sic>.</p>
+                
+                <p>I recently loaned a rancher-friend of mine a copy of your <hi rend="caps">WHEN THE TREE FLOWERED</hi> and <hi rend="caps">EPIC AMERICA</hi>, and I think he is really enjoying them. Actually, he is much more of a scholar than I and this really adds to his interest in your writing.</p>
+                
+                <p>I haven't heard from Bill Oakly for nearly 2 years now. But I think it is only n<del>o</del>atural in that he is thousands of miles from here and has found many new interests. I am looking forward to seeing him one of those days, however, and renew this valued friendship<del>l</del><add>.</add></p>
+                
+                <p>I hope you both are in the best of health and spirit, and I want you to know I think of you often, and remember those Sunday afternoons in your Sky Rim<sic>Skyrim</sic> home, and of course, all the adventures in your classroom.</p>
+                <closer>
+                    <salute>With very best wishes,</salute>
+                    
+                    <signed>Stan Smith</signed>
+                </closer>
+                
+            </div1>
+            
+            
+            <div1 type="envelope">
+                
+                <pb facs="nei.j4a.26b.14-15_0002"/>
+                
+                <ab type="return">
+                    <figure>
+                        <figDesc>A road running through fields</figDesc>
+                        <p><hi rend="caps">THE WAUNETA BREEZE
+                        ESTABLISHED IN</hi> 1887</p>
+                    </figure>
+                    Wauneta, Nebr.
+                </ab>
+                
+                <fw type="curatorial">15</fw>
+                
+                <ab type="postmark">
+                    WAUNETA
+                    9 - AM
+                    JUL 11
+                    1958
+                    NEBR.
+                </ab>
+                <figure>
+                    <figDesc>3 Cent Stamp</figDesc>
+                    <p>U.S. POSTAGE 3¢
+                    IN GOD WE TRUST
+                    LIBERTY</p>
+                </figure>
+                
+                <ab type="address">
+                    <address>
+                        <addrLine>Dr. and Mrs. John Neihardt</addrLine>
+                        <addrLine>Route 6</addrLine>
+                        <addrLine>Columbia,</addrLine>
+                        <addrLine>Missouri</addrLine>
+                    </address>
+                </ab>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

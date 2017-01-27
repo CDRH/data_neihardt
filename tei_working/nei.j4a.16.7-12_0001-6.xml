@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.16.7-12_0001-6">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to George Sterling, March 13, 1917</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.16.7-12_0001-6</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to George Sterling</title>
+                    <date when="1917-03-13">March 13, 1917</date>
+                    <extent>4 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>4 hand-written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>4 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.16-7-12_0001"/>
+                
+                <note type="curatorial">Missouri Collection</note>
+                <fw type="curatorial">7</fw>
+                
+                <opener>
+                    <salute>Dear John Neihardt,</salute>
+                </opener>
+                <p>Giver of Happiness. What can I say to express my thanks to you for your thoughtfulness in sending me your poems and thoughts that were born in the enchanted hills of your spirit.</p>
+                
+                <p>If one could only speak across space unhindered by speech, in the radiant language that God drops into our hearts at those times.</p>
+                
+                <p>Before I opened "The Quest" I said it myself &#8212; "You blessed star-flinger," and the first word my eye fell on as I opened the book was &#8212; "Star-flinger."</p>
+                
+                    <pb facs="nei.j4a.16.7-12_0002"/>
+                    <fw type="curatorial">8</fw>
+                
+                <p>To<sic>Too</sic> many of your images and thoughts I've taken into my heart, and watered them with the dew of love, that they seem to belong to me.</p>
+                
+                <p>How often these days when continued clouds and mist is our share in the East: In <unclear>day</unclear> of a <unclear>many</unclear>. The <unclear>morning</unclear> has over slept.</p>
+                    
+                <p>And when I see a tree, your lines of The Sacred <unclear/> comes singing into my mind &#8212;</p> 
+                    <lg>
+                        <l>"Beloved of The Spirit Straight and high</l>
+                        <l>A thing of worship yearning for the sky.</l>
+                    </lg>
+                <p>Unspeakably beautiful those lines.</p>
+                    
+                <p>You made another person happy, by your gift of "Hugh Glass. I had lent my copy to a friend
+                    
+                    <pb facs="nei.j4a.16.7-12_0003"/>
+                    <fw type="curatorial">9</fw>
+                    
+                    and when I told her on the phone that she might keep it, she was so pleased, a lovely spirit, one who admires you greatly &#8212; It was she who put the "Vision of Black Elk" into my hands. I can never cease to thank her for that as it led me to write to The "Flaming Rainbow".</p>
+                    
+                <p>My ozark Baby fills me with sheer delight. What a privilege to touch on two old souls like yours.</p>
+                    
+                <p>I can't <unclear>realize</unclear> that it belongs to me. What a tender soul hers must be. Everytime I touch the baby. All kinds of shimmering thoughts spill over me.</p>
+                    
+                <p>Forgive my tardiness in reply. I was 
+                    
+                    <pb facs="nei.j4a.16.7-12_0004"/>
+                    <fw type="curatorial">10</fw>
+                    
+                    completely out of the <unclear>running</unclear> for some words. These are the first letters I'm writing &#8212; This is only to explain why my grateful thanks haven't <unclear>winged</unclear> their way to you long ere this, or perhaps they have, it doesn't seem to me any feelings as intense as mine have been could not have made themselves felt.</p>
+                        
+                <p>Mr Adelman read some of your poems to me and I <unclear>feel</unclear> <unclear>with</unclear> him when he said, on closing the book &#8212; "What a fine poet that man is, such a wide lofty, splendid vision."</p>
+                        
+                <p>It makes me both proud and humble that you should be so kind and friendly &#8212; I bend the knee.</p> 
+                        
+                    <pb facs="nei.j4a.16.7-12_0005b"/>
+                        
+                <p>May the Dreamer of Eternity fling ahead shreads of rainbowed color into your loom of beauty, which you will give us back in poems that permit us to soar above the world of transient things &#8212;</p>
+                        
+                <p>God keep thee and thine to the <unclear>Never Ending End</unclear></p>
+                <closer>
+                    <salute><unclear/> Sincerely</salute>
+                    
+                    <signed>Minnie Adelman.</signed>
+                </closer>
+                
+            </div1>
+            
+            
+            <div1 type="envelope">
+                
+                <pb facs="nei.j4a.16.7-12_0005a"/>
+                
+                <note>Returned for better address</note>
+                <figure>
+                    <figDesc>A Pointing Hand</figDesc>
+                    <p><unclear>RETURN TO SENDER</unclear></p>
+                </figure>
+                <figure>
+                    <figDesc>A Pointing Hand</figDesc>
+                    <p><unclear>RETURN TO SENDER</unclear></p>
+                </figure>
+                <note><hi rend="caps">ILLEGIBLE</hi></note>
+                        
+                <ab type="postmark">
+                    <unclear/> CENT ANNEX N.V. 5
+                    MAY 13
+                    230PM
+                    1933
+                </ab>
+                <ab type="postmark">
+                    TRENTON
+                    MAY 18
+                    7 AM
+                </ab>
+                <figure>
+                    <figDesc>3 Cent Stamp</figDesc>
+                    <p><unclear/><unclear>3</unclear><unclear/>3</p>
+                </figure>
+                <fw type="curatorial">11</fw>
+                
+                <ab type="address">
+                    <address>
+                        <addrLine>John <hi rend="caps">G.</hi> Neihardt</addrLine>
+                        <addrLine>Branson</addrLine>
+                        <addrLine>Missouri</addrLine>
+                    </address>
+                </ab>
+                    
+                <note><hi rend="caps">ILLEGIBLE</hi></note>
+                
+                    <pb facs="nei.j4a.16.7-12_0006"/>
+                
+                <postscript>  
+                    <opener>
+                        <salute>My dear Mr Neihardt</salute>
+                    </opener>
+                    <p>This speaks for itself = I trust you don't find my letter difficult &#8212; and feel like a <unclear/> who <unclear/> &#8212; I received your beautiful letter, what was it all about.</p>
+                    
+                    <p>I in this <unclear/> but it gives me the chance to thee again.</p>
+                        
+                    <p>The warmest wishes from the House of Adelman.</p>
+                </postscript>
+               
+                <note><hi rend="caps">ILLEGIBLE</hi></note>
+                        
+                <ab type="return">
+                    <hi rend="caps">M.</hi> Adelman
+                    <unclear/> 58
+                    <hi rend="caps">N.Y.</hi> City
+                </ab>
+              
+                <note><hi rend="caps">ILLEGIBLE</hi></note>
+                
+                <figure>
+                    <figDesc>Was Seal</figDesc>
+                </figure>
+                    
+                <figure>
+                    <figDesc>A Pointing Hand</figDesc>
+                    <p><unclear>RETURN TO SENDER</unclear></p>
+                </figure>
+                <figure>
+                    <figDesc>A Pointing Hand</figDesc>
+                    <p><unclear>RETURN TO SENDER</unclear></p>
+                </figure>
+                    
+                <fw type="curatorial">12</fw>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>
+

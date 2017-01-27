@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.8.20">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Percy MacKaye to John G. Neihardt, October 20, 1921</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.8.20</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Percy MacKaye to John G. Neihardt</title>
+                    <date when="1917-03-13">October 20, 1921</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.8.20" />
+                
+                <note>Wayne</note>
+                
+                <fw type="curatorial">20</fw>
+                
+                <fw type="letterhead">
+                    <hi rend="caps">MIAMI UNIVERSITY
+                        <lb/>
+                    OXFORD. OHIO
+                        <lb/>
+                                  
+                    PERCY MACKAYE
+                        <lb/>
+                    FELLOW IN POETRY AND DRAMA</hi>
+                </fw>
+                <note place="upper right hand corner" type="authorial"> "On Aug. 26 + 27 I shall be in Iowa City c/0 Prof. <hi rend="caps">E.C.</hi> <unclear>Ohalie</unclear> Iowa University.</note> 
+                <opener>
+                    <dateline>20 October, 1921.</dateline>
+                
+                    <fw>2</fw>
+                    
+                    <address>
+                        <addrLine>John Neihardt Esq.</addrLine>
+                        <addrLine><hi rend="caps">BANCROFT, NEBRASKA.</hi></addrLine>
+                    </address>
+                    
+                    <salute><add>(</add>My dear John Neihardt:</salute>
+                </opener>
+                <p>Ever since I heard of the enlightened action taken toward you and your work by the State of Nebraska, I have been intending to write a word of felicitation to you &#8212; and the State! It is an action splendidly appropriate, for which I have heard nothing but the heartiest commendation, mingled with pleased surprise at such discernment on the part of a legislative body.</p>
+                
+                <p>But such things seem to happen in your west<add>)</add>. which has recently begun to be my west, too. Perhaps you have heard about the fellowship to which Miami University invited me last year. The enclosed reprint of an article by me from " The Forum " gives some particulars in which I am sure you will be interested. As a result of this article &#8212; and some personal negotiations on the part of President Hughes and myself &#8212; Robert Frost now holds a similar fellowship at the University of Michigan.</p>
+                
+                <p>It seems to me that it would be admirably fitting for your state to follow up its own good initiative by supplying also some economic foundation for your laureateship, of some nature similar to that of the Fellowship Idea. This I spoke about, a good while ago, to President Hughes, and he has told me lately that the suggestion is one which the powers that be seem to favor for another year. I sincerely hope this is so.</p>
+                
+                <p>This and other things <del>we</del><add>I</add> wish I might have the opportunity of talking over with you. And I'm wondering whether that may not be possible soon? I haven't a map, and don't know where Bancroft is located in your state. Is it any where near Omaha?  &#8212; I am to be in Omaha, on Nov.3rd, to give an Author's Reading (from my latest book &#8212; a long poem," Dogtown Common " ). If you are anwhere near, would it be practicable for you to come and see me there? Or <del>o</del><add>i</add>f you are too far away, could you perhaps scare up an Author's Reading for me in your town, say on the 4th of November, so that we could meet ( after these many years ) before I start back to Ohio? If neither of these is possible, can't you look in on me here at Oxford, one of these days, and make me a little visit?     Do let me hear from you &#8212; and soon.</p>
+                <closer>
+                    <salute>With sincere regard yours &#8212;</salute> 
+                    
+                    <signed>Percy MacKaye</signed>
+                </closer>
+                
+                <postscript>
+                    <p>My regular Author's Reading terms, by the way, are $100 and expenses. These I will be <unclear/> <unclear/> by the chance of seeing you.</p>
+                </postscript>
+                
+                <note place="left margin">Copy</note>
+                <note place="right margin">Percy MacKaye</note>
+
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

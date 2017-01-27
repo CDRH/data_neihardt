@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.12.41">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Margaret Ramsay to John G. Neihardt, December 31, 1926</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.12.41</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Margaret Ramsay to John G. Neihardt</title>
+                    <date when="1917-03-13">December 31, 1926</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.12.41"/>
+                
+                <fw type="curatorial"><unclear/>41</fw>
+                
+                <fw type="letterhead">
+                    An International Daily Newspaper
+                        <lb/>
+                    The Christian Science Monitor
+                        <lb/>
+                    Published by the Christian Science Publishing Society
+                        <lb/>
+                    Back Bay Station, Boston, Massachusetts
+                        <lb/>
+                    Cable Address "Monitor Boston"
+                        <lb/>
+                
+                    Editorial Department
+                </fw>
+                
+                <opener>
+                    <dateline>December 31, 1926</dateline>
+                
+                    <address>
+                        <addrLine>Mr. John <hi rend="caps">G.</hi> Neihardt,</addrLine>
+                        <addrLine>Literary Editor,</addrLine>
+                        <addrLine>St. Louis Post-Dispatch,</addrLine>
+                        <addrLine>St. Louis, Missouri.</addrLine>
+                    </address>
+                    
+                    <salute>Dear Mr. Neihardt:</salute>
+                </opener>
+                <p>Your letter in regard to an article entitled "Poetic Values&#8212;&#8212;A Slight Appraisal", which appeared on this Page of The Christian Science Monitor December 3, is received. There is evidently a great mistake somewhere, as I especially enjoin my essay writers not to base any essay on any one book, especially a current publication.</p>
+                
+                <p>The Home Forum is a page of general reading, quite distinct from the Book Review page of this paper, and I am always desirous of avoiding any article which could in any sense seem to be a review. When this article came in from one of our frequent contributors I had no thought that its title was the same as one of your books, which I must confess I did not remember to have heard of, a lamentable happening which is about to be remedied, as I have ordered the book from the Macmillan office here, (in five of the chief book shops in Boston I failed to find it) and will carefully compare the article in question with it before sending your letter to the writer of the article.</p>
+                
+                <p>Of course our book reviews on the regular Book Review Page mention the publisher, but this was not a book review, although I can see how the too free use of the ideas of the book may have given it something of that character in your eyes.</p>
+                
+                <p>You will doubtless hear from the writer of the article, and I will write again when I have made myself mistress of all sides of the matter. Until then I trust you will believe that this paper had no thought of doing you or your book any injustice, or of making any use of your material which lacked in honesty or courtesy.</p>
+                <closer>
+                    <salute>Yours very sincerely,</salute>
+                
+                    <signed>Margaret Ramsay</signed>
+                    <signed>(Miss) Margaret Ramsay
+                    Home Forum Editor</signed>
+                
+                    <note>MR/MJ</note>
+                </closer>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

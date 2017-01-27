@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.36a.37">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Dr. Lucile Aly to John G. Neihardt, August 9, 1972</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.36a.37</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Dr. Lucile Aly to John G. Neihardt</title>
+                    <date when="1972-08-09">August 9, 1972</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.36a.37"/>
+                
+                <fw type="curatorial">37</fw>
+                
+                <fw type="imprint">
+                    <hi rend="caps">UNIVERSITY OF OREGON</hi> 
+                    
+                    <figure>
+                        <figDesc>University of Oregon Seal</figDesc>
+                        <p>UO 
+                        <unclear>∙ UNIVERSITAS OREGONENSIS</unclear> <unclear>∙ MENS</unclear> AGITA<unclear>T MOLEM</unclear> 
+                        1876</p>
+                    </figure> 
+                    
+                    Department of English 
+                        <lb/>
+                    <hi rend="caps">COLLEGE OF LIBERAL ARTS 
+                        <lb/>
+                    ___________________________
+                        <lb/>
+                    EUGENE, OREGON</hi> 97403
+                        <lb/>
+                    telephone (code 503) 686-3911
+                </fw>
+                
+                <opener>
+                    <dateline>August 9, 1972</dateline>
+                
+                    <salute>Dear John,</salute>
+                </opener>
+                <p>Doesn't this paper look official? It's all I have in my desk at the moment; I go through paper so fast I practically support the business. But just lately that hasn't been true; I have been writing letters to you in my head for a month, and today is my first chance to get one on paper. We are summering five grandchildren this year--well, actually, four and one honorary. Our two from London are here, with a Dutch friend, and one from Washington <hi rend="caps">D.C.</hi> is here; one from Washington State arrives tonight, and you would love all the giggling action around here. Also we've had English houseguests--until Thursday of last week--and we have been feeling inundated. But we have thought of you.</p>
+                
+                <p>As I have just written Hilda, I sent off the copies of reviews as requested, and right away. That's one thing I <hi rend="underline">did</hi> get done. Mr. Shir-Cliff wrote me a very nice letter to say they had arrived and were just right for his purpose. I ought to have let you know so that you wouldn't be worried about it, but I've been on a dead run to get the household through the days.</p>
+                
+                <p>I am about to get the Biography manuscript back to Missouri Press for the second reader; it's being retyped, since in the revision I had to work with three typists and that made two type shifts; they promised to match the type but didn't, and the problem for estimates is greater that way. I would like to have the book published by a commercial house, but at the moment I can't mention it to anyone, because of the agreement one has to sign in submitting to Missouri Press. I had to agree not to submit it anywhere else until we had negotiated. The agreement doens't cover you, though--if you think Simon and Schuster might be interested I don't see anything to prevent your dropping a hint. I think I told you but I'm not sure that Dodd, Mead said they would like to have me do a popularized biography when this is out, to reach a different audience. The salesman asked me about this one, but they don't do critical books. I said I would consider it, but the primary thing is to get this one printed. You haven't seen the revision, but I think you'll like the critical sections better; I took out after the scholars a bit for not getting wildly excited years ago. All the talk about the American epic, and there it was!!!</p>
+                
+                <p>I still cherish the yen to get a book of letters, as you said I might. It will give me a chance to date some things and build a different kind of picture--or rather, let it emerge. You are a many-sided man, John; people can write for years and years and not say it all. It is so good to see you getting the honor you merit--faces light up when someone mentions you--and it isn't always me. You're known <hi rend="underline">very</hi> widely now, and all that uproar you hear is me cheering out in your Oregon precinct.</p> 
+                
+                <p>Much, much, much love; I shall never cease to miss seeing you talking about what new honor is on the books. Take care of yourself in the heat, and I'll write <del>a</del><add>v</add>ery soon to tell you the book is in the mail to <hi rend="caps">MU</hi> Press.</p> 
+                <closer>
+                    <salute><hi rend="caps">LOVE</hi></salute> 
+                
+                    <signed>Lucile</signed> 
+                </closer>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

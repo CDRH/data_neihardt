@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.36a.6-7">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Hilda N. Petri to John G. Neihardt, June 7, 1972</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4a.36a.6-7</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Hilda N. Petri to John G. Neihardt</title>
+                    <date when="1972-06-07">June 7, 1972</date>
+                    <extent>2 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 type-written pages</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>2 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.36a.6"/>
+                
+                <fw type="curatorial">6</fw>
+                
+                <fw type="letterhead">
+                    Hilda <hi rend="caps">N.</hi> Petri
+                        <lb/>
+                    <hi rend="caps">ATTORNEY-AT-LAW
+                        <lb/>
+                    __________________________________________________
+                        <lb/>
+                    110 NORTH EIGHTH STREET - COLUMBIA. MISSOURI 65201
+                        <lb/>
+                    PHONE</hi> (314) 449-2929
+                </fw>
+                
+                <opener>
+                    <dateline>June 7, 1972</dateline>
+                
+                    <salute>Dear Gaki:</salute>
+                </opener>
+                <p>Enclosed herewith is a copy of a book which was sent to you by Jeanette Mall of Simon &amp; Schuster. The letter accompanying it is self explanatory. I have read the book and think it has a great deal of good in it. However, I do think that it is possible that he has used Neihardt as a source without giving credit, and all the while making it seem that his book is entirely original and direct from the Indians.</p>
+                
+                <p>Will you please, before reading the rest of the book, read chapter 14, which begins on page 133. It seems to me that he may be using <hi rend="underline">The Song of the Messiah</hi> as a source. If so, I think credit should be given. Please read it and write me or call me at once after you have done so.</p>
+                
+                <p>I particularly wondered if the incident about Sitting Bull's horse was a well-known historical occurrence, or if it was an invention of Neihardt. Also, the person urging Sitting Bull to be the warrior that he once was. I'm wondering if this was not an invention of yours.</p>
+                
+                <p>John Kurland has been in close touch with Richard Erdoes, the writer of this book. I know that Mr. Erdoes is familiar with <hi rend="underline">Black Elk Speaks</hi>, at least that.</p> 
+                
+                <p>I'll look forward to hearing from you.</p> 
+                
+                <p>Oh yes, before I close, I want to send you a copy of a letter from Mr. Mosk to Frederick Manfred. It is self-explanatory.</p> 
+                <closer>
+                    <salute>Love, as always,</salute>
+                    
+                    <signed>Hilda</signed>
+                </closer>
+                
+                <fw>1</fw>
+                
+            </div1>
+            
+            
+            <div1 type="enclosure">
+                
+                <pb facs="nei.j4a.36a.7"/>
+                
+                <fw type="curatorial">7</fw>
+                    
+                <fw type="letterhead">
+                    <hi rend="caps">LAW OFFICES
+                        <lb/>
+                    SLAFF, MOSK &amp; RUDMAN
+                        <lb/>
+                        
+                    EDWARD MOSK 
+                        <lb/>
+                    GEORGE SLAFF 
+                        <lb/>
+                    NORMAN G. RUDMAN
+                        <lb/>
+                    DAVID RUDICH
+                        <lb/>
+                    BRUCE M. POLICHAR
+                        <lb/>
+                        
+                    9200 SUNSET BOULEVARD, SUITE 825
+                        <lb/>
+                    LOS ANGELES, CALIFORNIA 90069
+                        <lb/>
+                    (213) 275-5351
+                        <lb/>
+                    CABLE: SLAMORUD</hi>
+                </fw>
+                
+                <opener>
+                    <dateline>June 5, 1972</dateline>
+                    
+                    <address>
+                        <addrLine>Frederick Manfred,</addrLine>
+                        <addrLine>Blue Mound</addrLine>
+                        <addrLine>Luverne, Minnesota 56156</addrLine>
+                    </address>
+                    
+                    <salute>Dear Mr. Manfred:</salute>
+                </opener>
+                <p>As you know, I have been in contact with Hilda Petri for many months regarding the possibility of claims by her father against Warner Bros. in connection with the motion picture "Man in the Wilderness".</p>
+                
+                <p>There is no doubt that the source of the film was Mr. Neihardt's "The Song of Hugh Glass". Unfortunately, there are a number of difficult legal problems involved in bringing such a case into the court.</p>
+                
+                <p>Mrs. Petri informs me that you have considerable material, much of it actually received in communications with Warner Bros., which might be helpful to us in determining whether we have a good lawsuit or not.</p>
+                
+                <p>I'm wondering whether there is any possibility that we could get this material to examine to help us reach a final decision as to whether a lawsuit is justified, or not.</p>
+                
+                <p>If it is possible, we would be particularly interested in any direct communications from Warner Bros. in which reference to "The Song of Hugh Glass" appears. Any other materials which you think are helpful would also be appreciated.</p> 
+                
+                <p>Needless to say, we would promptly return any of the materials of which you have no duplicates.</p> 
+                
+                <p>Thank kyou for your courtesy in this matter.</p>
+                <closer>
+                    <salute>Very truly yours,</salute>
+                
+                    <signed>Edward Mosk</signed>
+                    <signed>EDWARD MOSK</signed>
+                
+                    <note>EM:sk</note>
+                    <note>cc: Hilda <hi rend="caps">N.</hi> Petri
+                                Attorney at Law</note> 
+                </closer>
+                
+                <fw>1</fw>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

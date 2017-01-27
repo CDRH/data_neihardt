@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.14.8">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Harold S. Latham to John G. Neihardt, January 21, 1929</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.14.8</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Harold S. Latham to John G. Neihardt, January 21, 1929</title>
+                    <date when="1929-01-21">January 21, 1929</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.14.8"/>
+                
+                <note type="curatorial">Missouri Collection</note>
+                <fw type="curatorial">8</fw>
+                
+                <fw type="letterhead">
+                    <hi rend="caps">
+                        GEORGE P. BRETT, PRESIDENT      A.H. NELSON, VICE PRESIDENT     L.J. LUCAS, SECRETARY       GEORGE P.BRETT, JR., <unclear cert="high">TREASURER</unclear>
+                            <lb/>
+                        
+                        CHICAGO
+                            <lb/>
+                        BOSTON
+                            <lb/>
+                        ATLANTA
+                            <lb/>
+                        DALLAS
+                            <lb/>
+                        SAN FRANCISCO
+                            <lb/>
+                        LONDON
+                            <lb/>
+                        TORONTO
+                            <lb/>
+                        BOMBAY
+                            <lb/>
+                        MADRAS
+                            <lb/>
+                        CALCUTTA
+                            <lb/>
+                        MELBOURNE
+                            <lb/>
+                        
+                        THE MACMILLAN COMPANY
+                            <lb/>
+                        PUBLISHERS
+                            <lb/>
+                        60 FIFTH AVENUE
+                            <lb/>
+                        NEW YORK
+                            <lb/>
+                        
+                        A.H. NELSON <unclear/>
+                            <lb/>
+                        P.A. KNOWLTON <unclear/>
+                            <lb/>
+                        R.R. SMITH, <unclear cert="high">COLLEGE DEPT.</unclear>
+                            <lb/>
+                        H.S. LATHAM, EDITORIAL          <unclear>TRADE</unclear>
+                            <lb/>
+                        GEORGE P. BRETT, JR., SALES     <unclear>DEPT.</unclear>
+                            <lb/>
+                        J.N. MYERS, MEDICAL DEPT.
+                            <lb/>
+                        L.H. SEAMAN, <unclear cert="high">JUVENILE DEPT.</unclear>
+                            <lb/>
+                        W.H. MURRAY, <unclear cert="high">RELIGIOUS DEPT.</unclear>
+                            <lb/>
+                        GEORGE P. BRETT <unclear/>
+                            <lb/>
+                        
+                        TELEPHONE ALGONQUIN 2100
+                    </hi>
+                </fw>
+                
+                <opener>
+                    <dateline>January 21, 1929.</dateline>
+                
+                    <salute>My dear Mr. Neihardt:</salute>
+                </opener>
+                <p>You have expressed the situation in your letter of January 16th more "patly" than I did in my letter to you, but we both mean the same thing, that for diplomatic reasons it would be unwise to probably publish <hi rend="caps">STRAWS IN THE WIND</hi>. It might arouse antagonism where it would be unwise to have it aroused. We have to look out most carefully for possible unfortunate effects of this nature.</p>
+                
+                <p>I am interested to know that you are going to be the guest of the Poetry Society. Won't you send me all the particulars? Will I see you while you are here? I distinctly hope so. Perhaps you can be my guest at luncheon on one of the days when you are not otherwise engaged, if there be such a day. In any event, let me have all the particulars, as I can make a most interesting publicity note about the affair.</p>
+                
+                <p>I have never replied to your inquiry of January 10th as to the possibility of there being an opening here in which you might be interested. At the moment there is not, but I shall certainly keep the thought in mind, and if there should be any change will get in touch with you. It would be a privilege to have a man of your talents associated with us. Perhaps when I see you we can talk about it, though as I say, for the time being I can't be very encouraging.</p>
+                <closer>
+                    <salute>Sincerely yours,</salute>
+                
+                    <signed>HS Latham</signed>
+                
+                    <address>
+                        <addrLine>Mr. John <hi rend="caps">G.</hi> Neihardt</addrLine>
+                        <addrLine>St Louis Post-Dispatch,</addrLine>
+                        <addrLine>St. Louis, Mo.</addrLine>
+                    </address>
+                </closer>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

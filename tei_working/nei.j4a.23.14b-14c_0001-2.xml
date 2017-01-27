@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.23.14b-14c_0001-2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Marie Bullock to John G. Neihardt, February 15, 1954</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.23.14b-14c_0001-2</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Marie Bullock to John G. Neihardt</title>
+                    <date when="1954-02-15">February 15, 1954</date>
+                    <extent>2 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 type-written pages</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>2 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.23.14b-14c_0001"/>
+                
+                <note type="curatorial">Missouri Collection</note>
+                <fw type="curatorial">14b</fw>
+                
+                <fw type="letterhead">
+                    <hi rend="caps">THE ACADEMY OF AMERICAN POETS
+                        <lb/>
+                    1030 FIFTH AVENUE
+                        <lb/>
+                    NEW YORK 20</hi>
+                </fw>
+                
+                <opener>
+                    <dateline>February 15, 1954</dateline>
+                
+                    <address>
+                        <addrLine>Professor John <hi rend="caps">G.</hi> Neihardt</addrLine>
+                        <addrLine>Skyrim Farm</addrLine>
+                        <addrLine>Route #6</addrLine>
+                        <addrLine>Columbia, Missouri</addrLine>
+                    </address>
+                    
+                    <salute>Dear Professor Neihardt:</salute>
+                </opener>
+                <p>For the past few months we have been following up the subject which upon inquiry seemed to elicit the greatest interest amongst the majority of our Chancellors; namely the publication of poetry.</p>
+                
+                <p>We have had numerous conferences with the most prominent and able publishers in New York, and have finally developed the following plan, broadly outlined, which, I may add, not only seems to have their full cooperation, but more than that; their real interest.</p>
+                
+                <p>The Academy of American Poets would institute an annual competition among publishers in the United States each of whom would submit to our special Judges the one or two manuscripts they considered the best they had received and really worthy of publication. These would preferably be unpublished poets of any age, but would not eliminate the poets with only one or at most two previously published volumes. Upon selection the winner would be published by the firm which submitted him. Instead of a prize or a subsidy, the Academy of American Poets (using therefore the income of the second part of Mrs. Lamont's bequest, would purchase 1,000 copies of this volume at wholesale price, to be distributed to its Membership. By special permission of Mr. Thomas <hi rend="caps">S.</hi> Lamont this would be known as "The Lamont Poetry Selection".</p>
+                
+                <p>This would seem to help solve one of the problems of distribution of poetry, which with rising costs affects the publisher so greatly, and would guarantee them the returns of at least 1,000 copies as well as guaranteeing a certain royalty to the selected poets.</p>
+                
+                <p>It also opens a new vista, as per a quotation from a letter of a top publisher: "We would certainly be happy to participate. Unfortunately, we do very little poetry, and so I doubt whether we would, in the beginning, be able to submit many manuscripts. However, your plan is one which would make it possible for us to consider more manuscripts and that, I believe is the intention of The Academy".</p>
+                
+                <p>It now remains for us to set the rules (as few as possible), time limits and most important, secure your advice and suggestions.</p>
+                
+                <pb facs="nei.j4a.23.14b-14c_0002"/>
+                
+                    <fw type="curatorial">14c</fw>
+                
+                <p>We truly believe this is a practical, exciting plan. Mr. Frederick <unclear>Melcher</unclear>, of the Publishers' Weekly, who has promised his help, calls it "thrilling. Miss Loveman, of the Saturday Review, is all for it, and we propose to confer with many other critics and reviewers between now and the completion of the first contest.</p>
+                
+                <p>One particular matter upon which we most ardently seek your advice is that of Judges. With our 25,000 annual Fellowship a completely established fact, we feel that the Board of Chancellors for this great award for achievement, should be kept separate from the Judges of the present plan, which is to recognize newer poets of less experience. Perhaps you do not agree and we would appreciate your opinion.</p>
+                
+                <p>Of neccessity, nobody connected with any publishing house in anything but an author's capacity, could be one of the Judges for the Lamont Poetry Selection.</p>
+                
+                <p>We visualize five Judges in this capacity. People deeply concerned with poetry's best interests and with wide appreciation of new effort. Would you care to make some suggestions? It is our opinion the Judges should be asked to serve for this first contest only so that we could all learn the problems thereof and perhaps ask them to serve again, or not, as the case might be.</p>
+                <closer>
+                    <salute>With much appreciation, I am,</salute>
+                    <salute>Most sincerely yours,</salute>
+                    <signed>Marie Bullock</signed>
+                    <signed>Mrs. Hugh Bullock
+                    President</signed>
+                </closer>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>
+

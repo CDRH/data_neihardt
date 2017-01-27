@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.14.16-17_0001-2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from J. T. House to John G. Neihardt, June 9, 1929</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.14.16-17_0001-2</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from J. T. House to John G. Neihardt</title>
+                    <date when="1929-06-09">June 9, 1929</date>
+                    <extent>2 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 type-written pages</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>2 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.14.16-17_0001"/>
+                
+                <note type="curatorial">Missouri Collection</note>
+                <fw type="curatorial">16</fw>
+                
+                <fw type="letterhead">
+                    New River State School
+                        <lb/>
+                    <hi rend="caps">C.H. MARTIN PRESIDENT
+                        <lb/>
+                    MONTGOMERY WEST VIRGINA
+                        <lb/>
+                
+                    JULIUS TEMPLE HOUSE
+                        <lb/>
+                    DEPARTMENT OF ENGLISH
+                        <lb/>
+                    EDITOR PRESENT DAY AMERICAN LITERATURE</hi>
+                </fw>
+                
+                <opener>
+                    <dateline>
+                        June      9
+                        19        29
+                    </dateline>
+                    
+                    <salute>Dear John:</salute></opener> <p>Please answer this letter as soon as you can. It is so long since I heard from you that I am lonely beyond comparison. First, tell your and my dear E<del/><add>n</add>id that I congratulate her on her graduation and shall remember her when I can think of the right remembrance. It is a fine achievement, and I am proud to be rem<del>m</del><add>e</add>mbered at this fine <unclear/> in her life.</p>
+                
+                <p>The surgeon still wants the photograph.He mourns for it. The dear lady is doing splendidly. Bolton has gone home for the summer and I can look after the wife a good deal better. Today she is permitted to walk up and down stairs and she is happy over it.</p>
+                
+                <p>There is a hint that you are to be in Wayne June 21,when I shall be there. My! how I would like to see you. Anything to the suggestion?</p>
+                
+                <p>The July number is giving me trouble. The point is that no one is <del>willi</del> willing to commit himself that Alexander is a poet and apparently they all h<del/><add>e</add>sitate to say he is a philosopher. I am not surprised. I may have to write the stuff about his philosophy myself. So I want you to tell me one thing:is he essentially a humanist? Is he in line with Descar<del/><add>t</add>es? Give me a hint.It is so long s<del><unclear>o</unclear></del><add>i</add>nce I read his books that I have lost track.</p>
+                
+                <p>Do you know that the October <add>issue</add> will be about present-day literature by and about the Indians? Your stuff will be first and all else a poor second, but please tell me whom else to speak of.Sarett , of course, and Alexander.But who are the rest? I understand that some Indians are writing? Who are they?What books? Please rush to the rescue.  Is not the idea of a number devoted to the Indian a good one?</p>
+                
+                <p>Please tear up Ned and go back to Branson and write <unclear>M</unclear>essiah.We need it I believe Macmillans will push it and if they don't we will.</p>
+                
+                    <pb facs="nei.j4a.14.16-17_0002"/>
+                    <fw type="curatorial">17</fw>
+                
+                <p>I have been very weary for many weeks, but am getting a bit <unclear>tested</unclear>. This summer will not be so hard. Bolton takes much thought and patience when he is around. He did pretty well in his studies and has talent. He loves you to distraction, but that is a common thing among those who meet you.</p>
+                
+                <p>In fact I belong to the crowd.</p>
+                <closer>
+                    <salute>Please write,</salute>
+                    
+                    <signed>J.T.H</signed>
+                </closer>
+               
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

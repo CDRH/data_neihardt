@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.14.7">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Robert H. Davis to John G. Neihardt, January 15, 1929</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.14.7</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Robert H. Davis to John G. Neihardt</title>
+                    <date when="1929-01-15">January 15, 1929</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 typewritten page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.14.7"/>
+                
+                <note type="curatorial">Missouri Collection</note>
+                <fw type="curatorial">7</fw>
+                
+                <fw type="letterhead">
+                    <hi rend="caps">THE FRANK A. MUNSEY COMPANY
+                        <lb/>
+                    TWO-EIGHTY BROADWAY
+                        <lb/>
+                    NEW YORK
+                        <lb/>
+                
+                    OFFICES OF 
+                        <lb/>
+                    EXECUTIVE BOARD</hi>
+                </fw>
+                
+                <note type="recipient">Bob <hi rend="underline">Davis</hi></note>
+                
+                <opener>
+                    <dateline>January 15th, 1929.</dateline>
+                
+                    <salute>Dear John:&#8212;</salute>
+                </opener>
+                <p>That is a whale of a review you wrote about my humble books and the humbler author. You have gemuetlichkeit to a large degree. I do much appreciate every line that you have written. I enclose one dollar. Will you be so kind as to pass it over to the Circulation Department and ask them to send me whatever papers of the date in which the review appeared, that it will buy?</p>
+                
+                <p>Now, how about Enid? Is it her intention to pass me up because I will be sixty years old next month? These young upstarts should be taught that us ancient cottonwoods, which, to use a line from one of your poems, "whiten and whisper together," like to get a breeze from youth. The newspapers have gotten hold of our little court-ship, and I don't think it should be terminated.</p>
+                
+                <p>Had a fine shoot in Florida fortnight ago. I tried to crowd into a column my experience in a turkey swamp. I enclose it for your eye, together with a clipping form the <hi rend="underline">Times</hi> Rotogravure Section. Tell Enid that the handsome young man in long trousers is her old beau. You will find me also in the lower picture standing on the left of the man holding the rifle. How is the world behaving toward you?</p> 
+                
+                <p>With sincerest best wishes to you and your family, believe me,</p>
+                <closer>
+                    <salute>Ever sincerely,</salute>
+                
+                    <signed>Bob Davis</signed>
+             
+                    <address>
+                        <addrLine>John <hi rend="caps">G. NEIHARDT,</hi> Esq.,</addrLine>
+                        <addrLine>St. Louis Post-Dispatch,</addrLine>
+                        <addrLine>St. Louis, Missouri.</addrLine>
+                    </address>
+                
+                    <note>Enc. (3)</note>
+                </closer>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

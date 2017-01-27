@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.35b.3-5">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Marila Williams to John G. Neihardt, July 12, 1971</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4a.35b.3-5</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Marila Williams to John G. Neihardt</title>
+                    <date when="1971-07-12">July 12, 1971</date>
+                    <extent>4 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>4 hand-written pages</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>4 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.35b.3"/>
+                
+                <fw type="imprint">
+                    <figure>
+                        <figDesc>Southwest Missouri State College Seal</figDesc>
+                        <p><unclear>UNITED WE STAND DIVIDED W</unclear>E FALL</p>
+                    </figure>
+                        <lb/>
+                    <hi rend="caps">SOUTHWEST MISSOURI 
+                        <lb/>
+                    STATE COLLEGE 
+                        <lb/>
+                    SPRINGFIELD</hi>
+                </fw>
+                
+                <opener>
+                    <dateline>
+                        1111 East Normal 
+                        Springfield, Mo
+                        July 12, 1971 
+                    </dateline>
+                
+                    <salute>Dear Mr. Neihardt,</salute>
+                </opener>
+                <p>I hope you are having cooler weather in Nebraska then here in Missouri. It has been hot and dry.</p>
+                
+                <p>I still haven't all my material in to the <hi rend="caps">N.C.T.C.</hi> for the brochure of Literary Landmarks in the United States.</p> 
+                
+                <fw type="imprint">
+                    <figure>
+                        <figDesc>Southwest Missouri State College Seal</figDesc>
+                        <p><unclear>UNITED WE STAND DIVIDED W</unclear>E FALL</p>
+                    </figure>
+                        <lb/>
+                    <hi rend="caps">SOUTHWEST MISSOURI
+                        <lb/>
+                    STATE COLLEGE 
+                        <lb/>
+                    SPRINGFIELD</hi>
+                </fw>
+                
+                <p>I have been waiting to receive the picture of Sky Rim<sic>Skyrim</sic> Farm and your house in Branson. I do find that someone gave me a snapshot of your house in Branson It is not very good but if I can't get a better one, I'll send it in.</p> 
+                
+                <p>How many years did you live there? Give dates &#8212;</p>
+                
+                <p><del/><add>A</add>lso give street and number 
+                
+                <fw type="curatorial">3</fw>
+                
+                <pb facs="nei.j4a.35b.4"/>
+                
+                <fw type="imprint">
+                    <figure>
+                        <figDesc>Southwest Missouri State College Seal</figDesc>
+                        <p><unclear>UNITED WE STAND DIVIDED W</unclear>E FALL</p>
+                    </figure>
+                        <lb/>
+                    <hi rend="caps">SOUTHWEST MISSOURI 
+                        <lb/>
+                    STATE COLLEGE 
+                        <lb/>
+                    SPRINGFIELD</hi>
+                </fw>
+                
+                <fw type="curatorial">4</fw>
+                
+                    if you can.</p> 
+                
+                <p>If you can send picture and location of Sky Rim<sic>Skyrim</sic> Farm, I'll appreciate it.</p>
+                
+                <p>I have to get more information on memorabilia of Rose O'Neil and then I'll be about through with the project.</p> 
+                
+                <p>It has been a long and tedious task.</p> 
+                
+                <p>I received your <unclear>record but am</unclear> waiting to play it <unclear/> 
+                
+                <pb facs="nei.j4a.35b.5"/>
+                
+                <note>Williams</note>
+                <fw type="curatorial">5</fw>
+                
+                    on a new record player which I have just purchased. I was afraid to play it on a small portable I have. The needle is not good.</p>
+                
+                <p>I hope you are feeling well and enjoying life. Glenn Linnemann of La Porte Indiana, who is recieving all the material for the project said in a letter he had seen you on a <hi rend="caps">T.V.</hi> program last spring and hoped the program could be repeated.</p> <closer><salute>Sincerely,</salute> <signed>Marila Williams</signed></closer>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

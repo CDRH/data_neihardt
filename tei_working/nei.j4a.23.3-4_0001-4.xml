@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.23.3-4_0001-4">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Iris Brooks to John G. Neihardt, February 20, 195?</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.23.3-4_0001-4</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Iris Brooks to John G. Neihardt</title>
+                    <date when="195?-02-20">February 20, 195?</date>
+                    <extent>2 pages, plus envelope</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 hand-written pages, plus envelope</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>2 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.23.3-4_0001"/>
+                
+                <opener>
+                    <dateline>Dear Dr. Neihardt,</dateline>
+                </opener>
+                <p>I would like again to say how much I enjoyed <hi rend="underline">Epic America</hi>. It has not been possible to come to one of your regular classes and the <hi rend="caps">TV</hi> course was a real opportunity. Thank you for giving it.</p>
+                
+                <fw type="curatorial">3</fw>
+                
+                <pb facs="nei.j4a.23.3-4_0002"/>
+                          
+                <p>I hope that you and Robin will have a thoroughly enjoyable trip.</p>
+                <closer>
+                    <salute>Sincerely,</salute>
+                    <signed>Iris Brooks</signed>
+                
+                    <dateline>February 20th</dateline>
+                </closer>
+                
+                <note type="curatorial" place="bottom"><hi rend="caps">JOHN G. NEIHARDT CENTER</hi></note>
+                
+            </div1>
+            
+            
+            <div1 type="envelope">
+                
+                <pb facs="nei.j4a.23.3-4_0003"/>
+                
+                <fw type="curatorial">4</fw>
+                
+                <ab type="postmark">
+                    COLUMBIA, M<unclear cert="high">O.</unclear>
+                    FEB <unclear/>
+                    <unclear>6</unclear> 30PM
+                    <unclear>19</unclear>5<unclear/>
+                
+                    NEW HOPE FOR HEARTS
+                    SUPPORT THE HEART <unclear cert="high">FUND</unclear>
+                </ab>
+                <figure>
+                    <figDesc>4 Cent Stamp</figDesc>
+                    <p>4¢ LINCOLN U.S.POSTAGE</p>
+                </figure>
+                
+                <ab type="address">
+                    <address>
+                        <addrLine>Dr. John Neihardt</addrLine>
+                        <addrLine>Skyrim</addrLine>
+                        <addrLine><hi rend="caps">R.D.</hi>7</addrLine>
+                        <addrLine>Columbia</addrLine>
+                        <addrLine>Mo.</addrLine>
+                    </address>
+                </ab>
+                
+                <pb facs="nei.j4a.23.3-4_0004"/>
+                
+                <ab type="return">
+                    205 Edgewood 
+                    Columbia, <hi rend="underline"><hi rend="caps">MO</hi></hi>
+                </ab>
+                
+                <note type="curatorial" place="left">JOHN G. NEIHARDT CENTER</note>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

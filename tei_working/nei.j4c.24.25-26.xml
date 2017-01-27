@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.24.25-26">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to John Chaffee, May, 1959</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2015</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4c.24.25-26</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note>date from envelope</note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to John Chaffee</title>
+                    <date when="1959-05">May, 1959</date>
+                    <extent>4 pages, plus envelope</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>4 hand-written pages, plus envelope</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>4 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Skillings, Edna</term>
+<term>Neihardt, Mona Martinsen</term>
+<term>Neihardt, Alice</term>
+<term>Thompson, Lynn</term>
+<term>Thompson, Erica</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Memphis (Tenn.)</term>
+<term type="from">Columbia (Mo.)</term>
+<term type="to">Albany (Or.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term>St. Louis Post-Dispatch</term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Chaffee, John E. W.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="lkw">Weakly, Laura K.</name> Keywords; validation</change>
+            <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4c.24.25-26_0001b" />
+            
+            <opener>
+                <dateline>
+                Skyrim Farm<lb/>
+                Route 7<lb/>
+                Columbia, Missouri
+                </dateline>
+                
+                <fw type="curatorial"><del/></fw>
+                <salute>Dear John:</salute>
+            </opener>
+                <p>I think about you very often, altho' I don't write. I'm a poor correspondent, especially so since all my letters are hand-written now. When I was on the St. Louis Post-Dispatch, and also when I was in the Indian Bureau, I had a secretary, and that spoiled me. It's so easy to dictate.</p>
+                
+                <p>Anyway, John, you are dear to me because of the wonderful times we had together in the old days; and it was 
+                    <hi rend="underline">so</hi> good to be with you. I hope we may be together again
+                    
+                    <fw type="curatorial">25</fw>
+                    <pb facs="nei.j4c.24.25-26_0001a"/>
+                    <fw type="authorial">-2-</fw>
+                    
+                    before too long.</p>
+                
+                <p>I'm still astonished and delighted by the beautiful afghan Edna made for me! I <hi rend="underline">do</hi> wish I could deserve so much goodness. It's quite wonderful.</p>
+                
+                <p>Isn't that a wow of a picture that Edna took?! I think it's a corker!</p>
+                
+                <p>How are you getting on? I hope you are not too lonely. It's a year since my Mona went on, and I miss her more than ever. The young man who grades for me at the University (a candidate for the Ph.D) is living with 
+                    
+                    <pb facs="nei.j4c.24.25-26_0002a"/>
+                    <fw type="authorial"><unclear>-3</unclear>-</fw>
+                    
+                    me. It's better than being alone and he is a good chap. We have three more weeks at the University, and then I'll fly down to Memphis to be with my daughter, Alice, and her little girls, Lynn and Erica. They <del>w<unclear/></del> were here with us until late last fall.</p>
+                
+                <p>I think I told you about one of my new colts, an American Saddle filly. She is getting to be a big girl now, and <hi rend="underline">how</hi> beautiful! Recently my Hackney pony mare, Lucifer's Carolyn, had a stallion colt and he is a knockout! His daddy <add>(Lockburn Lucifer)</add> is half
+                    
+                    <pb facs="nei.j4c.24.25-26_0002b"/>
+                    <fw type="authorial">-4-</fw>
+                    
+                    brother to his mother, so he has only one grandpa! We are line-breeding the Lucifer strain, by way of intensifying certain characteristics &#8212; beauty of conformation, lovely heads, remarkable action.</p>
+                
+                <p>I wish you could be here or I there! Please do write me &#8212; or dictate to Edna.</p>
+                <closer>
+                <salute>With the old affection,</salute>
+                <signed>John Neihardt</signed>
+                </closer>
+                
+                <postscript><p>I'll write more later.</p></postscript>
+                <note type="curatorial">JOHN G. NEIHARDT CENTER</note>
+                
+                
+            </div1>
+            
+            
+            
+            <div1 type="envelope">
+                <pb facs="nei.j4c.24.25-26_0003"/>
+                
+                <ab type="return">
+                John Neihardt<lb/>
+                Route 7<lb/>
+                <hi rend="underline">Columbia</hi>, Mo.
+                </ab>  
+                
+                <fw type="curatorial">26</fw>
+                
+                <ab type="postmark">COLUMBIA, MO. MAY 14 8-AM 1959</ab>
+                <figure>
+                    <figDesc>3 Cent Stamp</figDesc>
+                    <p>U.S. POSTAGE 3¢ IN GOD WE TRUST LIBERTY</p>
+                </figure>
+                <figure>
+                    <figDesc>4 Cent Stamp</figDesc>
+                    <p>UNITED.STATES.POSTAGE FOUR 4 CENTS</p>
+                    <fw type="curatorial"><del/></fw>
+                </figure>
+                    
+                <ab type="address"> 
+                    <address>
+                <addrLine>Mr. John Chaffee,</addrLine>
+                <addrLine>K. P. Apartments, #4,</addrLine>
+                <addrLine>Albany,</addrLine>
+                <addrLine>Oregon.</addrLine>
+                    </address>
+                </ab>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.13.2-3_0001-2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Arthur J. Peel to John G. Neihardt, January 6, 1927</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.13.2-3_0001-2</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Arthur J. Peel to John G. Neihardt</title>
+                    <date when="1927-01-06">January 6, 1927</date>
+                    <extent>2 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 type-written pages</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>2 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.13.2-3_0001-2"/>
+                
+                <fw type="curatorial">2</fw>
+                
+                <fw type="letterhead">
+                    <hi rend="caps">ARTHUR J. PEEL</hi>
+                        <lb/>
+                    <hi rend="italic">Boston, Mass</hi>
+                </fw>
+                
+                <opener>
+                    <dateline>
+                        33 Egremont Road,
+                        Brookline, Mass.
+                        January 6th. 1927.
+                    </dateline>
+                    
+                    <address>
+                        <addrLine>Mr. John <hi rend="caps">G.</hi> Neihardt,</addrLine>
+                        <addrLine>Literary Editor,</addrLine>
+                        <addrLine>St. Louis Post-Despatch<sic>Dispatch</sic>,</addrLine>
+                        <addrLine>St. Louis, Missouri.</addrLine>
+                    </address>
+                
+                    <salute>Dear Mr. Neihardt:</salute>
+                </opener>
+                <p>Your letter in regard to the <hi rend="caps">CHRISTIAN SCIENCE MONITOR</hi> article, "Poetic Values &#8212;&#8212; A Slight Appraisal" has been forwarded<del>t</del>to<del>m</del>me for attention and an explanation, as I am responsible for the article in question.</p>
+                
+                <p>I fully appreciate your point of view and you will be surprised to learn that I have not read your book, and that the article in question was the outcome of a discussion on Poetry at a friend's house. Various poetic critics were quoted by two of the company, and your book was referred to several times<add>,</add> and your general view-point. I took some notes at the time and contributed towards the discussion myself. Some time after this, I wrote the article to which you refer. I was given to understand by one of the people at the gathering<add>,</add> that you had gathered together a great deal of critical opinion on the subject of Poetry and presented it in an ordered and systematic form. My impression was, therefore, that you had played the role of editor rather than author.</p>
+                
+                <p>You will understand, I think, that<add>,</add> without a reference to your book<add>,</add> I had little opportunity of knowing how much of what was said at this gathering was quoted<add>,</add> and how much was "original" thought on the part of those who took part in the discussion. I will say this, however, that a considerable portion of the article in the Monitor was<add>,</add> what I thought, "original" thought, or, perhaps, I should say, my own way of expressing thought. I remember at the time<add>,</add> that I made the remark at this little gathering, that it seemed to me that your approach was very scie<del/><add>n</add>tific &#8212;&#8212; using the term in the sense in which it is used by Christian Scientists.</p>
+                
+                <p>From your letter<add>,</add> and that received from Miss Ramsay, the editor of the Home Forum who has evidently read your book, one of the company must have been pretty well saturated with your work <add>,</add>and quoted far more freely than the rest of us had any idea of. Then it is likewise evident<add>,</add> that much of this so accorded with my own thought on Poetic values<add>,</add> that it registered vividly. It is curious that even the progressive scheme of the article in question<add>,</add> should follow your own plan, (I understand from Miss Ramsay that this is so) because I remember that I started the discussion at this little meeting, by saying that of all <del/> forms of art, sculpture was the most material. We were discussing Rodin at the time, and I made the remark that his work meant nothing more to me than physicality. From this basis, we entered into a very lengthy and intersting discussion of other forms of art. You will <add>see</add> how naturally we fell into the same
+                
+                    <pb facs="nei.j4a.13.2-3_0002"/>
+                    <fw type="curatorial">3</fw>
+                    <fw type="authorial">-2-</fw>
+                
+                    order that you have adopted in your book.</p>
+                
+                <p>I am getting a copy of your work, and shall be glad to possess it. I only wish I had had the foresight to read it before writing the article for The Monitor.</p>
+                
+                <p>I would like to absolve my friend of any intention to palm off as his own, your recorded thought. He is a scholar and a prolific reader. I think the real explanation is that he too, was unusually impressed with your book. As a matter of fact, Mr. Neihardt, you have voiced so well what many of us think<add>,</add> that we are in danger of taking is as corroboration only.</p>
+                
+                <p>Just in closing<add>,</add> let me mention another curious connection. My daughter who attended some lectures at Boston University on English Literature accused me of quoting Professor Charlton Black when I said that "music was enchanted silence." I don't know whether you say this in your book until I read it through, but if you do, then I am caught both ways!</p>
+                
+                <p>I sincerely regret the injustice which I feel has been done<add>,</add> and hope that you will see that it was done in ignorance and without intent. I write a good deal, for a number of magazines and periodicals, and endeavor to conduct my work on as high an ethical plane as possible. I have a knack of remembering happy phrases and then forgetting where they come from. I know you will appreciate that a writer must be constantly absorbing if he is continually giving out.</p>
+                <closer>
+                    <salute>With best wishes,</salute>
+                    <salute>Very sincerely yours,</salute>
+                
+                    <signed>AJ Peel</signed>
+                </closer>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>
+
+

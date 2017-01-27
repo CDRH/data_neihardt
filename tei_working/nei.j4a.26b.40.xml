@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.26b.40">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Louise Hovde Mortensen to John G. Neihardt, August 29, 1958</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.26b.40</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Lousie Hovde Mortensen</title>
+                    <date when="1958-08-29">August 29, 1958</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.26b.40"/>
+                
+                <fw type="curatorial">40</fw>
+                
+                <opener>
+                    <dateline>
+                        705 Polk Blvd.
+                        Des Moines 12, Iowa
+                        August 29, 1958
+                    </dateline>
+                    
+                    <address>
+                        <addrLine>Dr. John <hi rend="caps">G.</hi> Neihardt</addrLine>
+                        <addrLine>University of Missouri</addrLine>
+                        <addrLine>Columbia, Missouri</addrLine>
+                    </address>
+                    
+                    <salute>Dear Dr. Neihardt:</salute>
+                </opener>
+                <p>I am sending you a copy of the piece I wrote for <hi rend="caps">ELEMENTARY ENGLISH</hi> (published by the National Council of Teachers of English at Urbana, Illinois). Please let me know what you think of the idea.</p>
+                
+                <p>Of course this is the first draft and it can be changed. I sent Mary Gunnett a carbon copy, and she is planning to use the idea with her high school English class this year. She teaches both Speech and English and thinks your <hi rend="caps">RED CLOUD</hi> would make a wonderful choral reading.</p>
+                
+                <p>I don't know whether publishers like to have a suggestion printed that classes should <hi rend="underline"><del>x</del><add>c</add>opy</hi> the text. I won't say much about that, but of course to have pupils use this as a choral reading one needs about a dozen copies.</p>
+                
+                <p>The address for your recording may be wrong. I wrote to this address about one week ago but haven't ha<del>ve</del><add>d </add>time for a reply.</p>
+                
+                <p>I have already<del>d</del>written my column <hi rend="caps">IDEA INVENTORY</hi> for October, November, and December. I may use this in January, if it meets with your approval. Mary Gunnett thought it a wonderful idea.</p>
+                
+                <p><hi rend="caps">ELEMENTARY ENGLISH</hi> is for grades 1 through 8, or I would write another type of article. Of course most of your <hi rend="caps">CYCLE OF THE WEST</hi> is too mature for such young children.</p>
+                <closer>
+                    <salute>Sincerely yours,</salute>
+                
+                    <signed>Louise Hovde Mortensen</signed>
+                
+                    <signed>Louise Hovde Mortensen</signed>
+                </closer>
+                
+                <note type="recipient">ansd</note>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

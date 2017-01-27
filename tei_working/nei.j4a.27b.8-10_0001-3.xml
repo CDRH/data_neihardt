@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.27b.8-10_0001-3">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Cynthia Edelman to John G. Neihardt, July 24, 1959</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4a.27b.8-10_0001-3</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Cynthia Edelman to John G. Neihardt</title>
+                    <date when="1959-07-24">July 24, 1959</date>
+                    <extent>2 pages, plus envelope</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 type-written pages, plus envelope</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>2 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.27b.8-10_0001"/>
+                
+                <fw type="curatorial">8</fw>
+                
+                <opener>
+                    <dateline>
+                        Box 37
+                        Lincoln University
+                        Jefferson City, Missouri
+                
+                        July 24, 1959
+                    </dateline>
+                    
+                    <address>
+                        <addrLine>Dr. John <hi rend="caps">G.</hi> Neihardt</addrLine>
+                        <addrLine>Skyrim Farm</addrLine>
+                        <addrLine>Route #6</addrLine>
+                        <addrLine>Columbia, Missouri</addrLine>
+                    </address>
+                
+                    <salute>Dear Sir:</salute>
+                </opener>
+                <p>I have wanted many times in the past weeks to write you again, but there has been nothing of sufficient import to trouble you with. My impatience has got the better of my prudence, however, and I am doing what I did not intend.</p>
+                
+                <p>I expect to be accepted shortly into the University of Kansas City. You may remember that I had hoped to attend Howard University; this was financially impossible, I found. I do yet plan to take my Masters there. I shall not be far enough from home in Kansas City, but it is an improvement at least. What I really wish is to leave every encumbering thing and wander through hills - anywhere in which a little solitude and peace might be found. I envy Thoreau a great deal because he was a man and free. There would be some purpose in tracing your own steps across the wild country of the Dakotas. You are happier than I - if you are withheld, it is the demand of the body itself which is the cause - I must be withheld by slimmer bonds, of dependence - we ought to be ruled by others only so long as we permit it, but custom<del>s</del> says I am not of age.</p>
+                
+                <p>There have been many this summer I have loved, and wished to give myself to. They have little trust in me. I wonder that we should have to turn our backs on the islands of friendship, when they have endured too long and questions begin to be asked - nothing to do but make for the island just ahead. We are too trusting ourselves; then we find that our actions are misinterpreted by those who ought to know us best - I find only suspicion in the eyes; I cannot endure it, and I must turn my back.</p>
+                
+                <p>The world cries out for love, we offer it in both hands and are spurned. Wrong love, wrong heart - the world does not want it.</p>
+                
+                <pb facs="nei.j4a.27b.8-10_0002"/>
+                
+                <fw type="curatorial">9</fw>
+                
+                <p>I have not learned yet the secret of loving - I know love must be given without thought of return, but still I must have the return - I am too alone here. To survive I must know that somewhere in this dark room there is a hand reaching out - and when I feel the touch, there is someone there I had not suspected, and he slaps away the hand I loved - he says, oh, no, I will not permit you to touch that hand, it is a forbidden hand. So I say, "Then give me your own hand," a reasonable request - there is no answer.</p>
+                
+                <p>I think I say too much, and not enough - it is perhaps enough to be writing to you - I know that you, at least, cast no one aside because of his unworthiness.</p>
+                
+                <p>I am alone.</p>
+                <closer>
+                    <signed>Cynthia Edelman</signed>
+                </closer>
+                
+            </div1>
+            
+            
+            <div1 type="envelope">
+                
+                <pb facs="nei.j4a.27b.8-10_0002"/>
+                
+                <ab type="return">
+                    <hi rend="caps">RETURN AFTER FIVE DAYS TO
+                        <lb/>
+                    DEPARTMENT OF ENGLISH AND SPEECH
+                        <lb/>
+                    LINCOLN UNIVERSITY
+                        <lb/>
+                    JEFFERSON CITY, MISSOURI</hi>
+                </ab>
+                
+                <fw type="curatorial">10</fw>
+                
+                <ab type="postmark">
+                    JEFFERSON CITY
+                    JUL 24
+                    3-PM
+                    <unclear cert="high">19</unclear>59
+                    MO.
+                </ab>
+                <ab type="postmark">
+                    JEFFERSON CITY
+                    JUL 24 '59
+                    MO.
+                
+                    P.B. METER
+                    360756
+                </ab>
+                <figure>
+                    <figDesc>4 Cent Stamp stamped onto envelope</figDesc>
+                    <p>U.S. POSTAGE
+                    04</p>
+                </figure>
+                
+                <ab type="address">
+                    <address>
+                        <addrLine>Dr. John <hi rend="caps">G.</hi> Neihardt</addrLine>
+                        <addrLine>Skyrim Farm</addrLine>
+                        <addrLine>Route #6</addrLine>
+                        <addrLine>Columbia, Missouri</addrLine>
+                    </address>
+                </ab>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>
+

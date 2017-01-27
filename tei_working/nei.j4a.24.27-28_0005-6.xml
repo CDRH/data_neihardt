@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.24.27-28_0005-6">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Marie Bullock to John G. Neihardt, September 24, 1956</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.24.27-28_0005-6</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Marie Bullock to John G. Neihardt</title>
+                    <date when="1956-09-24">September 24, 1956</date>
+                    <extent>1 page, plus envelope</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page, plus envelope</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.24.27-28_0005"/>
+                
+                <fw type="curatorial">27</fw>
+                
+                <fw type="letterhead">
+                    <hi rend="caps">THE ACADEMY OF AMERICAN POETS
+                        <lb/>
+                    1030 FIFTH AVENUE
+                        <lb/>
+                    NEW YORK 28</hi>
+                </fw>
+                
+                <opener>
+                    <dateline>September 24, 1956</dateline>
+                
+                    <address>
+                        <addrLine>Professor John <hi rend="caps">G.</hi> Neihardt</addrLine>
+                        <addrLine>Skyrim Farm, Route No. 6</addrLine>
+                        <addrLine>Columbia, Missouri</addrLine>
+                    </address>
+                
+                    <salute>Dear Professor Neihardt,</salute>
+                </opener>
+                <p>As you may remember, we have a $100. undergraduate Poetry Prize at the following universities and colleges:
+                    <list>
+                        <item>University of Chicago</item>       <item>Stanford University</item>
+                        <item>Harvard University</item>          <item>Vassar College</item>
+                        <item>Princeton University</item>        <item>The University of Virginia</item>
+                        <item>Rollins College</item>             <item>Williams College</item>
+                        <item>Smith College</item>               <item>Yale University</item>
+                    </list>
+                </p>
+                
+                <p>Made possible by a bequest of the late Mrs. Mary Cummings Eudy, it has been in existence for two years and has three more to run. We also trust that further gifts may make it possible to continue the prizes and to establish other prizes elsewhere.</p>
+                
+                <p>Meanwhile we are hopeful, of course, that we may be instrumental in encouraging a new real talent in poetry.</p>
+                
+                <p>These competitions are organized and the awards made by the various English departments in each college. Their success, I believe, is dependent on these bodies.</p>
+                
+                <p>Would it be asking too much, when and if you happen to visit any of these seats of learning in the course of your regular travels, lecture tours, etc., that you speak of our prizes at any meetings where students or faculty might be present, thereby helping to maintain a live interest in the awards over the years, which might otherwise deteriorate into something completely routine for lack of imagination.</p> 
+                
+                <p>It seems to us that so much can be done for poetry in the educational field.</p>
+                <closer>
+                    <salute>With deep appreciation of anything you could do, I am</salute>
+                
+                    <salute>Most sincerely yours,</salute>
+                
+                    <signed>Marie Bullock</signed>
+                    <signed>Mrs. Hugh Bullock
+                    President</signed>
+                </closer>
+                
+                <postscript>
+                    <p>Even just a word from you would, I feel sure, mean so much!</p>
+                </postscript>
+                
+            </div1>
+            
+            
+            <div1 type="envelope">
+                
+                <pb facs="nei.j4a.24.27-28_0006"/>
+                
+                <fw type="curatorial">28</fw>
+                
+                <ab type="return">
+                    <hi rend="caps">THE ACADEMY OF AMERICAN POETS
+                        <lb/>
+                    1030 FIFTH AVENUE
+                        <lb/>
+                    NEW YORK 28</hi>
+                </ab>
+                
+                <ab type="postmark">
+                    NEW YORK, N.Y. 17 SEP 25 130AM 1956
+                    GRAND CENTR<unclear/> STATION
+                </ab>
+                <figure>
+                    <figDesc>6 Cent Stamp</figDesc>
+                    <p>AIR MAIL 6¢ U.S.POSTAGE</p>
+                </figure>
+                
+                <ab type="address">
+                    <address>
+                        <addrLine>Professor John <hi rend="caps">G.</hi> Neihardt</addrLine>
+                        <addrLine>Skyrim Farm</addrLine>
+                        <addrLine>Route No. 6</addrLine>
+                        <addrLine>Columbia, Missouri</addrLine>
+                    </address>
+                </ab>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.15.37">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Harold S. Latham to John G. Neihardt, March 28, 1932</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.15.37</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from Harold S. Latham to John G. Neihardt</title>
+                    <date when="1932-03-28">March 28, 1932</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.15.37"/>
+                
+                <note type="curatorial">Missouri Collection</note>
+                <fw type="curatorial">37</fw>
+                
+                <fw type="letterhead">
+                    <hi rend="caps">GEORGE P. BRETT</hi> <hi rend="italic">Chairman of the Board</hi>
+                    
+                    <hi rend="caps">GEORGE P. BRETT, JR.</hi>
+                        <lb/>
+                    <hi rend="italic">President</hi>
+                    
+                    <hi rend="caps">A.H. NELSON</hi>
+                        <lb/>
+                    <hi rend="italic">Vice President</hi>
+                    
+                    <hi rend="caps">H.S. LATHAM</hi>
+                        <lb/>
+                    <hi rend="italic">Vice President</hi>
+                    
+                    <hi rend="caps">RICHARD M. BRETT</hi>
+                        <lb/>
+                    <hi rend="italic">Treasurer</hi>
+                    
+                    <hi rend="caps">L.J. LUCAS</hi>
+                        <lb/>
+                    <hi rend="italic">Secretary</hi>
+                    
+                    <hi rend="caps">TRADE DEPARTMENT</hi>
+                        <lb/>
+                    <hi rend="italic"><hi rend="caps">H.S.</hi> Latham, Editor
+                        <lb/>
+                    <hi rend="caps">A.J.</hi> Blanton, Sales</hi>
+                        <lb/>
+                    
+                    <hi rend="caps">JUVENILE DEPARTMENT</hi>
+                        <lb/>
+                    <hi rend="italic"><hi rend="caps">L.H.</hi> Seaman</hi>
+                        <lb/>
+                    
+                    <hi rend="caps">OUTDOOR DEPARTMENT</hi>
+                        <lb/>
+                    <hi rend="italic"><hi rend="caps">H.A.</hi> Stevenson</hi>
+                        <lb/>
+                    
+                    <hi rend="caps">RELIGIOUS DEPARTMENT</hi>
+                        <lb/>
+                    <hi rend="italic"><hi rend="caps">L.H.</hi> Titterton</hi>
+                    
+                    <hi rend="caps">THE MACMILLAN COMPANY
+                        <lb/>
+                        
+                    CABLE ADDRESS
+                    PACHAMAC NEW YORK</hi>
+                    <hi rend="italic">∙ Publishers ∙</hi>
+                    <hi rend="caps">TELEPHONE
+                    ALGONQUIN 4-2100
+                    
+                    SIXTY ∙ FIFTH AVENUE ∙ NEW YORK
+                    
+                    _____________________________________________________________________
+                    CHICAGO . BOSTON . ATLANTA . DALLAS . SAN FRANCISCO . LONDON . BOMBAY
+                    MADRAS . CALCUTTA . MELBOURNE . TORONTO . SHANGHAI . MANILA</hi>
+                    _____________________________________________________________________
+                    
+                    <hi rend="caps">EDUCATIONAL DEPARTMENT</hi>
+                        <lb/>
+                    <hi rend="italic"><hi rend="caps">P.A.</hi> Knowlton, Editor</hi>
+                    
+                    <hi rend="caps">COLLEGE DEPARTMENT</hi>
+                        <lb/>
+                    <hi rend="italic"><hi rend="caps">T.C.</hi> Morehouse</hi>
+                        <lb/>
+                    
+                    <hi rend="caps">MEDICAL-PUBLIC HEALTH
+                        <lb/>
+                    DEPARTMENT</hi>
+                        <lb/>
+                    <hi rend="italic"><hi rend="caps">J.N.</hi> Myers</hi>
+                        <lb/>
+                    
+                    <hi rend="caps">FOREIGN DEPARTMENT</hi>
+                        <lb/>
+                    <hi rend="italic"><hi rend="caps">E.G.</hi> Helgeson</hi>
+                </fw>
+                
+                <opener>
+                    <dateline>March 28, 1932.</dateline>
+                
+                    <salute>My dear Mr. Neihardt:</salute>
+                </opener>
+                <p>It seems to all of us here that the next book which you should publish should be <hi rend="caps">THE SONG OF THE MESSIAH</hi>. The most important work that you have done, and are going to do, is this <hi rend="caps">"SONG"</hi> cycle, in my opinion, and it has been a long time since we have had a volume in the cycle. What I would like to do would be to send you a contract for <hi rend="caps">THE SONG OF THE MESSIAH</hi> at once, stipulating that this is to be your next book, and agreeing to pay you, on signing of the contract, an advance of $250.00 on account of a royalty of 10% to 2500, 12½% on the next 2500, 15% thereafter. We should wish to include in this contract an option on the book of Indian tales which you proposed in your letter of March 14th, which might very suitably follow <hi rend="caps">THE SONG OF THE MESSIAH</hi>, but we do believe that it is to your advantage to make <hi rend="caps">THE SONG OF THE MESSIAH</hi> the next volume.</p>
+                
+                <p>What do you say to all this?</p>
+                <closer>
+                    <salute>Sincerely yours,</salute>
+                
+                    <signed>HS Latham</signed>
+                
+                    <address>
+                        <addrLine>Mr. John <hi rend="caps">G.</hi> Neihardt,</addrLine>
+                        <addrLine>Branson, Mo.</addrLine>
+                    </address>
+                </closer>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>
+

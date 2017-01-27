@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.26c.5-6_0001-2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from L. Matthews Werner to John G. Neihardt, October, 1958</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.26c.5-6_0001-2</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note>date from envelope</note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from L. Matthews Werner to John G. Neihardt</title>
+                    <date when="1958-10">October, 1958</date>
+                    <extent>1 page, plus envelope</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page, plus envelope</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.26c.5-6_0001"/>
+                
+                <fw type="curatorial">5</fw>
+                
+                <fw type="imprint">
+                    <figure>
+                        <figDesc>Coat of Arms</figDesc>
+                    </figure>
+                    
+                    <hi rend="caps">SEBAGO SCHOOL</hi>
+                        <lb/>
+                    5515-5521 Cates Avenue
+                        <lb/>
+                    St. Louis 12, Mo.
+                        <lb/>
+                    
+                    <hi rend="caps">DIRECTORS
+                        <lb/>
+                    L. MATTHEWS WERNER
+                        <lb/>
+                    MARGARET STEELE WERNER</hi>
+                </fw>
+                
+                <opener>
+                    <address>
+                        <addrLine>Dr. John <hi rend="caps">G.</hi> Neihardt</addrLine>
+                        <addrLine>Sky Rim<sic>Skyrim</sic></addrLine>
+                        <addrLine>Route 6</addrLine>
+                        <addrLine>Columbia, Missouri</addrLine>
+                    </address>
+                    
+                    <salute>Dear John:</salute>
+                </opener>
+                <p>My what a mixup on addresses! I am sorry that you probably didn't receive my invitation to come and stay with us in time to do so. However, when I wrote, I checked your address with the St. Louis Suburban Teachers Association and they gave me <hi rend="caps">R.R.</hi> #7. As you know, this was returned to us. We then forwarded the letter to you c/o the University and to date this has not been returned. In getting together our mailing list for the enclosed, we ran across an old address to which we are mailing this letter. Is it correct?</p>
+                
+                <p>We do hope you will be able to come see us soon.</p>
+                <closer>
+                    <signed>Matt</signed>
+                </closer>
+                
+                <fw type="letterhead"><hi rend="caps">CAMP IRONWOOD COMMUNITY FOR BOYS AND GIRLS, AT HARRISON MAINE, IS THE SEBAGO EASTERN CAMP</hi></fw>
+                
+            </div1>
+            
+            
+            <div1 type="envelope">
+                
+                <pb facs="nei.j4a.26c.5-6_0002"/>
+                
+                <fw type="curatorial">6</fw>
+                
+                <ab type="return">
+                    <hi rend="caps">SEBAGO SCHOOL
+                        <lb/>
+                    5515 CATES AVENUE
+                        <lb/>
+                    ST. LOUIS 12, MO.</hi>
+                </ab>
+                
+                <note type="recipient">Ansd
+                    11-1-58</note>
+                
+                <ab type="postmark">
+                    SAINT <unclear>LOUI</unclear>S, MO. 4
+                    OCT 30
+                    5-PM
+                    1958
+                    
+                    GIVE
+                    THE UNITED <unclear/>Y
+                </ab>
+                <figure>
+                    <figDesc>4 Cent Stamp</figDesc>
+                    <p>LINCOLN
+                    4¢
+                    U.S. POSTAGE</p>
+                </figure>
+                
+                <ab type="address">
+                    <address>
+                        <addrLine>Dr. John <hi rend="caps">G.</hi> Neihardt</addrLine>
+                        <addrLine>Sky Rim<sic>Skyrim</sic></addrLine>
+                        <addrLine>Route 6</addrLine>
+                        <addrLine>Columbia, Missouri</addrLine>
+                    </address>
+                </ab>
+                
+                <ab type="postmark">
+                    SAINT LOUIS, MO.15
+                    OCT. 30
+                    4 - PM
+                    1958
+                </ab>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>
+
+

@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.3.43-47">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from </title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4c.3.43-37</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to George Sterling</title>
+                    <date when="1917-03-13">March 13, 1917</date>
+                    <extent>4 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>4 hand-written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>4 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.23.11ga"/>
+                
+                <fw type="curatorial">11h</fw>
+                
+                <fw type="letterhead">
+                    Skeffington &amp; Son, Ltd.
+                        <lb/>
+                    <hi rend="caps">PUBLISHERS &amp; EXPORTERS
+                
+                LONDON ∙ NEW YORK ∙ MELBOURNE ∙ SYDNEY ∙ CAPE TOWN
+                
+                EDITORIAL: MAYFAIR 9801
+                TRADE DEPT. PHONE CITY 7251  ACCOUNTS: KEN 9211
+                TELEGRAMS AND CABLES: LITERARIUS MAYFAIR LONDON
+                CHAIRMAN
+                M.D. HUTCHINSON
+                DIRECTOR
+                K.H. WEBB
+                
+                HUTCHINSON HOUSE
+                STRATFORD PLACE,
+                W.1
+                </fw>
+                
+                <opener>
+                    <salute>My dear Professor Neihardt-</salute>
+                </opener>
+                <p>I have pleasure in sending you the first set of Galley-ships (No's 1-21 inc.) for your "<hi rend="underline">Eagle Voice</hi>". And I should be greatly obliged <hi rend="underline">if you would return them as quickly as possible</hi>. Please keep <hi rend="underline">all</hi> corrections <unclear>down</unclear> to the absolute minimum. And please remember that there will be some very slight variation between these Galleys + your original American edition. This will arise where I may have <hi rend="underline">cut out</hi> a purely American word, or where I have "anglicised" an American word.</p>
+                
+                <p>Your last letter touched me very 
+                
+                <hi rend="caps">WHILE GREAT CARE IS TAKEN OF ALL MSS RECEIVED, MESSRS SKEFFINGTON &amp; SON, LTD., CANNOT ACCEPT ANY RESPONSIBILITY OR LIABILITY IN CASE OF LOSS OR DAMAGE</hi>
+                
+                    <pb facs="nei.j4a.23.11h-11k_0001"/>
+                
+                    <fw type="curatorial">11i</fw>
+                
+                    <fw type="authorial">2</fw>
+                
+                    very deeply. I feel as though we had known each other all our lives: but then (as you know) physical proximity has little to do with truly "knowing" a person. One day I hope we meet. There is one thing I would ask you &#8212; have you any Indian relic you might give me? I am particularly in love with <hi rend="underline">stones</hi> by that I don't mean opals, diamond, rubies or garnets! There is a great affinity between <hi rend="underline">stones</hi> + myself. When I ask for a relic I don't of course, mean the kind of thing the tourist collects. A polished bone, a magic stone, a piece of sacred <unclear>word</unclear>. These are the things I have in mind. All my life the Red man has drawn me, yet I have never <del><unclear>been</unclear></del> been in his land + have no
+                
+                    <pb facs="nei.j4a.23.11h-11k_0002"/>
+                
+                    <fw type="curatorial">11j</fw>
+                
+                <fw type="letterhead">
+                    Skeffington &amp; Son, Ltd.
+                        <lb/>
+                    <hi rend="caps">PUBLISHERS &amp; EXPORTERS
+                
+                LONDON ∙ NEW YORK ∙ MELBOURNE ∙ SYDNEY ∙ CAPE TOWN
+                
+                EDITORIAL: MAYFAIR 9801
+                TRADE DEPT. PHONE CITY 7251  ACCOUNTS: KEN 9211
+                TELEGRAMS AND CABLES: LITERARIUS MAYFAIR LONDON
+                CHAIRMAN
+                M.D. HUTCHINSON
+                DIRECTOR
+                K.H. WEBB
+                
+                HUTCHINSON HOUSE
+                STRATFORD PLACE,
+                W.1
+                </fw>
+                
+                    <fw type="authorial">3</fw>
+                
+                    tangible contact with him. This I would appreciate very much. Round my neck I carry (on a silver chain) a piece of sacred jade given to me nearly 35 years ago by an ancient chinaman who befriended me when I was a starving youngster in Liverpool. This is the kind of thing I would love from your hands.</p>
+                
+                <p>I am making enquiries<sic>inquiries</sic> for you about- the idea of a lecture tour. But I can tell you now that we are not "lecture-tour-conscious" as Americans are. (Though this I'm sure you know).
+                
+                <hi rend="caps">WHILE GREAT CARE IS TAKEN OF ALL MSS RECEIVED, MESSRS SKEFFINGTON &amp; SON, LTD., CANNOT ACCEPT ANY RESPONSIBILITY OR LIABILITY IN CASE OF LOSS OR DAMAGE</hi>
+                
+                    <pb facs="nei.j4a.23.11h-11k_0003"/>
+                    
+                    <fw type="curatorial">11k</fw>
+                
+                    <fw type="authorial">4</fw>
+                    
+                    However I have contacts in some of the universities.....<unclear>+ I</unclear> shall continue my enquiries<sic>inquiries</sic>. I hope its possible to  fix something up.</p>
+                
+                <p>God bless + keep you.</p>
+                <closer>
+                    <salute>Very sincerely</salute>
+                James Whittaker
+                Manager
+                11th Dec 1952
+                
+                    <address>
+                        <addrLine>Professor John <hi rend="caps">G.</hi> Neihardt</addrLine>
+                        <addrLine>Skyrim Farm</addrLine>
+                        <addrLine>Route 6.</addrLine>
+                        <hi rend="underline">Columbia, Mo. <hi rend="caps">U.S.A.</hi></hi></addrLine>
+                    </address>
+                </closer>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

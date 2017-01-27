@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.15.22">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from ? to John G. Neihardt, February 22, 1931</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.15.22</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from ? to John G. Neihardt</title>
+                    <date when="1931-02-22">February 22, 1931</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.15.22"/>
+                
+                <note type="curatorial">Missouri Collection</note>
+                <fw type="curatorial">22</fw>
+                
+                <fw type="letterhead">
+                    <hi rend="caps">REFER IN REPLY TO THE FOLLOWING:
+                
+                    UNITED STATES
+                        <lb/>
+                    <add>c/o</add> DEPARTMENT OF THE INTERIOR
+                        <lb/>
+                    OFFICE OF INDIAN AFFAIRS
+                        <lb/>
+                    WASHINGTON
+                
+                    ADDRESS ONLY THE
+                        <lb/>
+                    COMMISSIONER OF INDIAN AFFAIRS</hi>
+                </fw>
+                
+                <opener>
+                    <dateline>February 22, 1931</dateline>
+                
+                    <address>
+                        <addrLine>Mr. John <hi rend="caps">G.</hi> Neihardt,</addrLine>
+                        <addrLine>Branson, Missouri.</addrLine>
+                    </address>
+                
+                    <salute>My dear Mr. Neihartd<sic>Neihardt</sic>:</salute>
+                </opener>
+                <p>I received your book to-day, via Pine Ridge. It is a very beautiful work, and I can not express my appreciation of your gracious act in sending me this copy.</p>
+                
+                <p>In the same mail I happened, rather curiously, to receive some original sktches<sic>sketches</sic> made by Standing Bear. I plan to exhibit both the book and sketches with the collection of Indian art now on show in the Interior Department building for the benefit of the <hi rend="caps">N. E. A.</hi> conference being held in Washington.</p>
+                
+                <p>I have shown the book around in the office, and it is meeting with distinct favor. It is beautifully written. I am writing to Black Elk and Stnading<sic>Standing</sic> Bear to congratulate them on their material. The charm and delight of the book, however, remain<del/> distinctly yours. My very heart<add>y</add> congratulations, and most sincere appreciation.</p>
+                <closer>
+                    <salute>Yours very sincerely,</salute>
+                
+                    <signed><unclear/></signed>
+                
+                    <note type="unknown">(Frill Agent)</note>
+                </closer>
+                
+                <postscript>
+                    <opener><hi rend="caps">P.S.</hi></opener>     <p>I travel a good deal for the Indian Bureau, and I hope I may have occasion to meet you there next summer. However, I am no lonager<sic>longer</sic> in 6harge<sic>Charge</sic> of PineRidge. Mr. McGregor is the superintendent. You will find him eager to cooperate with you, I am sure. He, also, is a good friend of the Indians.</p>
+                    
+                    <closer><signed>B.C.</signed></closer>
+                </postscript>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

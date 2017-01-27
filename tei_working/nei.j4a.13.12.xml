@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.13.12">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John F. Brown to John G. Neihardt, December 6, 1927</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4a.13.12</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from John F. Brown to John G. Neihardt</title>
+                    <date when="1927-12-06">December 6, 1927</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.13.12"/>
+                
+                <note type="curatorial">102 House Collection</note>
+                <fw type="curatorial">12</fw>
+                
+                <fw type="letterhead">
+                    <hi rend="caps">
+                        GEORGE P. BRETT, PRESIDENT      A.H. NELSON, VICE PRESIDENT     L.J. LUCAS, SECRETARY       GEORGE P.BRETT, JR., TREASURER
+                        
+                        CHICAGO
+                            <lb/>
+                        BOSTON
+                            <lb/>
+                        ATLANTA
+                            <lb/>
+                        DALLAS
+                            <lb/>
+                        SAN FRANCISCO
+                            <lb/>
+                        LONDON
+                            <lb/>
+                        TORONTO
+                            <lb/>
+                        BOMBAY
+                            <lb/>
+                        MADRAS
+                            <lb/>
+                        CALCUTTA
+                            <lb/>
+                        MELBOURNE
+                            <lb/>
+                        
+                        THE MACMILLAN COMPANY
+                            <lb/>
+                        PUBLISHERS
+                            <lb/>
+                        60 FIFTH AVENUE
+                            <lb/>
+                        NEW YORK
+                            <lb/>
+                        
+                        C.H. SEAVER, EDUCATIONAL DEPT.
+                            <lb/>
+                        R.R. SMITH, COLLEGE DEPT.
+                            <lb/>
+                        H.S. LATHAM, EDITORIAL          TRADE
+                            <lb/>   
+                        GEORGE P. BRETT, JR., SALES     DEPT
+                            <lb/>
+                        J.N. MYERS, MEDICAL DEPT.
+                            <lb/>
+                        L.H. SEAMAN, JUVENILE DEPT.
+                            <lb/>
+                        W.H. MURRAY, RELIGIOUS DEPT.
+                            <lb/>
+                        
+                        TELEPHONE ALGONQUIN 2100
+                    </hi>
+                </fw>
+                
+                <opener>
+                    <dateline>December 6, 1927.</dateline>
+                
+                <address>
+                    <addrLine>Mr. John <hi rend="caps">G.</hi> Neihardt,</addrLine>
+                    <addrLine>St. Louis Post-Dispatch,</addrLine>
+                    <addrLine>St. Louis, Missouri.</addrLine>
+                </address>
+                    
+                    <salute>Dear Mr. Neihardt:</salute>
+                </opener>
+                <p>I am glad to learn from your letter of November 27 that there is continued and increasing interest in your cycle. Mr. Seaver is now away, but upon his return I shall be glad to bring to his attention the question of advertising and also the question of using Dr. House for a time on the road.</p>
+                
+                <p>We are now just about ready to proceed with <hi rend="caps">THE SONG OF THE INDIAN WARS</hi>. However, we need definite information as to the extent of the Notes in order to make our publishing order. Will you, therefore, be good enough either to send us the Notes for estimate here or estimate yourself the number of pages that they would make on the basis of the Notes given in the other book? And, will you kindly let us know also whether the front matter will be different from that found in the regular edition or whether there should be changes of any sort?</p>
+                <closer>
+                    <salute>Yours very truly,</salute>
+                    <signed>J.F. Brown
+                    THE MACMILLAN COMPANY,
+                    Editorial Department.</signed>
+                
+                    <note>JFB.MC</note>
+                </closer>
+                
+                <note place="margin" type="recipient">I've given this information, allowing for matter you may add. Jno.</note>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>
