@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.1.12-14">
 <teiHeader>
@@ -106,33 +106,8 @@
 </keywords>
 <keywords scheme="original" n="keywords">
 <term></term>
-<term>money</term>
-<term>exuberance</term>
-<term>life-force</term>
-<term>illusions</term>
-<term>Greeks</term>
-<term>gods</term>
-<term>youth</term>
-<term>Olympian</term>
-<term>scars</term>
-<term>spirit</term>
-<term>wisdom</term>
-<term>labor</term>
-<term>Spring</term>
-<term>inspiration</term>
-<term>color</term>
-<term>superficial</term>
-<term>belief</term>
-<term>criticism</term>
-<term>sailing boat</term>
-<term>Bronze Lady</term>
-<term>philosophy</term>
-<term>friendship</term>
-<term>characterization</term>
-<term>Indian</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term>Davis, Robert H. (Robert Hobart), 1869-1942</term>
 <term>Realf, Richard, 1834-1878</term>
 <term>Schopenhauer, Arthur, 1788-1860</term>
 <term>Shelley, Percy Bysshe, 1792-1822</term>
@@ -147,6 +122,17 @@
 <term></term>
 </keywords>
 </textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName>Bancroft (Neb.)</placeName>
+<date when="1906-04-19"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Davis, Robert H. (Robert Hobart), 1869-1942</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
 	<particDesc>
 		<person role="recipient"><persName>Davis, Robert H. (Robert Hobart), 1869-1942</persName></person>
 	</particDesc>
@@ -154,6 +140,7 @@
 
 
 <revisionDesc>
+<change when="2017"><name>Weakly, Laura K.</name> correspDesc Encoding</change>
 <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
 <change when="2012-03-02"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Proofreading</change>
@@ -227,7 +214,7 @@ thinking fondly of that time when I should be wiped out, and
 be no more than a dead dog.</p>
 	<p>But I got up and shook all that off. I took on illusions,
 and I am growing steadily younger. During the past month, I
-have proven my ability to read Shelley, Keats, Shakespere <sic>Shakespeare</sic>
+have proven my ability to read Shelley, Keats, <choice><sic>Shakespere</sic> <corr>Shakespeare</corr></choice>
 works on the higher bible criticism, living in the upper air;
 and at the same time make a sailing boat for a boy and enjoy
 doing it.</p>

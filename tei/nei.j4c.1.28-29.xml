@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.1.28-29">
 <teiHeader>
@@ -106,22 +106,9 @@
 </keywords>
 <keywords scheme="lcsh" n="keywords">
 <term></term>
-<term>cabin</term>
-<term>trout</term>
-<term>deer </term>
-<term>bears</term>
-<term>woods</term>
-<term>June</term>
-<term>mother</term>
-<term>wilderness</term>
-<term>winter</term>
-<term>atmosphere</term>
-<term>charm</term>
-<term>Burlington</term>
-<term>phonograph</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term>Davis, Robert H. (Robert Hobart), 1869-1942</term>
+<term></term>
 </keywords>
 <keywords scheme="lcsh" n="places">
 <term>The Crossing</term>
@@ -130,18 +117,30 @@
 <term>Hanna (S.D.)</term>
 <term>Deadwood (S.D.)</term>
 <term>Harney Peak</term>
-<term>New York</term>
-<term>Broadway</term>
+<term>New York (N.Y.)</term>
+<!-- <term>Broadway</term> -->
 <term>Omaha (Neb.)</term>
 <term>Alliance (Neb.)</term>
 </keywords>
 </textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName>Bancroft (Neb.)</placeName>
+<date when="1907-04-30"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Davis, Robert H. (Robert Hobart), 1869-1942</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
 	<particDesc>
 		<person role="recipient"><persName>Davis, Robert H. (Robert Hobart), 1869-1942</persName></person>
 	</particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name>Weakly, Laura K.</name> correspDesc Encoding</change>
 <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
 <change when="2012"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Proofreading</change>
