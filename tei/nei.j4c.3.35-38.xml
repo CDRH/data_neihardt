@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.3.35-38">
 <teiHeader>
@@ -104,35 +104,13 @@
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="keywords">
-<term>visit</term>
-<term>poet</term>
-<term>instrument </term>
-<term>music</term>
-<term>letter</term>
-<term>offer </term>
-<term>appearance</term>
-<term>Thursday Lecture Circle</term>
-<term>The Woman’s Club</term>
-<term>local celebrity</term>
-<term>modern American poetry</term>
-<term>patronage</term>
-<term>appreciation</term>
 <term>Fortnightly Club</term>
-<term>winter</term>
-<term>brotherhood</term>
-<term>society</term>
-<term>institutions</term>
-<term>private property</term>
-<term>greed</term>
-<term>church</term>
-<term>existing order</term>
-<term>machinery</term>
-<term>monster</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term>House, J. T.</term>
 <term>Sheldon</term>
-<term>August, Borghum, Mrs.</term></keywords>
+<term>Borghum, August</term>
+<term>Borglum, Alice Lucy (Vignal)</term>
+</keywords>
 <keywords scheme="lcsh" n="places">
 <term>Lincoln (Neb.)</term>
 <term>London (England)</term>
@@ -146,12 +124,24 @@
 <term>April Theology</term>
 </keywords>
 </textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName>Bancroft (Neb.)</placeName>
+<date when="1916-05-01"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>House, Julius T. (Julius Temple)</persName>
+<placeName>Wayne (Neb.)</placeName>
+</correspAction>
+</correspDesc>
 	<particDesc>
 		<person role="recipient"><persName>House, Julius T. (Julius Temple)</persName></person>
 	</particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name>Weakly, Laura K.</name> added correspDesc</change>
 <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
 <change when="2012"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
@@ -172,7 +162,7 @@
 <dateline><date>May 1st '16</date></dateline>
 <salute>Dear Friend:&#8212;</salute>
 </opener>
-	<p>Your visit had the usual good effect. I was doubly a poet yesterday, &amp; finally wrought lines fairly besieged me. I am going to have a wonderful time in describing that superb body of <unclear/>. There is something almost intoxicating about the thought of capturing all those lines about it that are after me yet today. You are always an instrument in time when I see <hi rend="underline">you</hi>, &amp; that augments whatever music is in me.</p>
+	<p>Your visit had the usual good effect. I was doubly a poet yesterday, &amp; finally wrought lines fairly besieged me. I am going to have a wonderful time in describing that superb body of <unclear>Fink</unclear>. There is something almost intoxicating about the thought of capturing all those lines about it that are after me yet today. You are always an instrument in time when I see <hi rend="underline">you</hi>, &amp; that augments whatever music is in me.</p>
 
 <p>After you left, I began really to think about Mrs. Sheldon's letter. I couldn't quite see all
 
@@ -198,7 +188,7 @@ around it while you were here. And it has come to seem to me that I ought <hi re
 <postscript>
 <p>I enclose Mrs. Sheldon's letter, thinking that perhaps I ought not answer it under the circumstances.</p>
 <signed>J.</signed>
-<p>Did I tell you that the Fortnightly Club of Chicago plans to have me there <del/> during the coming winter?</p>
+<note>Did I tell you that the Fortnightly Club of Chicago plans to have me there <del/> during the coming winter?</note>
 
 </postscript>
 

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.3.43-47">
 <teiHeader>
@@ -104,34 +104,9 @@
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="keywords">
-<term>letters</term>
-<term>contemporary posterity</term>
-<term>generosity</term>
-<term>comments</term>
-<term>poet</term>
-<term>reviewer</term>
-<term>upstarts</term>
-<term>permanence</term>
-<term>archaic</term>
-<term>great progress</term>
-<term>literary imbeciles</term>
-<term>sense of humor</term>
-<term>fool</term>
-<term>female</term>
-<term>coarse</term>
-<term>beautiful</term>
-<term>ancient kings</term>
-<term>December</term>
-<term>Morris' Symposium</term>
-<term>kitchen sink</term>
-<term>summer </term>
-<term>firewood</term>
-<term>maple</term>
-<term>gardening</term>
-<term>potatoes</term>
+<term/>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term>Sterling, George, 1869-1926</term>
 <term>Monroe, Harriet, 1860-1936</term>
 <term>Aeschylus</term>
 <term>Sophocles</term>
@@ -152,12 +127,25 @@
 <term>Lilith; a dramatic poem</term>
 </keywords>
 </textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName>Bancroft (Neb.)</placeName>
+<date when="1917-03-13"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Sterling, George, 1869-1926</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+
 	<particDesc>
 		<person role="recipient"><persName>Sterling, George, 1869-1926</persName></person>
 	</particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name>Weakly, Laura K.</name> added correspDesc</change>
 <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
 <change when="2012-05-16"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
 <change when="2012"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>

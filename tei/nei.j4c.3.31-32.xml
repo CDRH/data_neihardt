@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.3.31-32">
 <teiHeader>
@@ -105,37 +105,9 @@
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="keywords">
-<term>review</term>
-<term>biography</term>
-<term>gratitude</term>
-<term>socialist</term>
-<term>personality</term>
-<term>America</term>
-<term>politics</term>
-<term>poltical views</term>
-<term>change</term>
-<term>impressionism</term>
-<term>humanitarian</term>
-<term>sentimentality</term>
-<term>womanization</term>
-<term>philosophy</term>
-<term>democracy</term>
-<term>individual caprice</term>
-<term>tendency</term>
-<term>painting</term> 
-<term>music</term>
-<term>poetry</term>
-<term>morals</term>
-<term>religion</term>
-<term>World War I</term>
-<term>statecraft</term>
-<term>authority</term>
-<term>great national danger</term>
-<term>timeless vision</term>
-<term>great mood</term>
+<term></term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term>Roosevelt, Theodore, 1858-1919</term>
 <term>Street, Julian, 1879-1947</term>
 <term>Washburn, Charles G. (Charles Grenfill), 1857-1928</term>
 <term>Plutarch</term></keywords>
@@ -146,12 +118,24 @@
 <term>Fear God and Take Your Own Part</term>
 </keywords>
 </textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+<date when="1916-03-14"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Roosevelt, Theodore, 1858-1919</persName>
+<placeName>Oyster Bay (N.Y.)</placeName>
+</correspAction>
+</correspDesc>
 	<particDesc>
 		<person role="recipient"><persName>Roosevelt, Theodore, 1858-1919</persName></person>
 	</particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name>Weakly, Laura K.</name> added correspDesc</change>
 <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
 <change when="2012"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
