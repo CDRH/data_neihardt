@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.2.43">
 <teiHeader>
@@ -109,7 +109,6 @@
 <term>sonnets</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term>Sinclair, Upton, 1878-1968</term>
 <term>Kennerley, Mitchell, 1878-1950</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
@@ -124,12 +123,24 @@
 <term>Money</term>
 </keywords>
 </textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+<date when="1914-08-17"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Sinclair, Upton, 1878-1968</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
 <particDesc>
 <person role="recipient"><persName>Sinclair, Upton, 1878-1968</persName></person>
 </particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name>Weakly, Laura K.</name> added correspDesc</change>
 <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
 <change when="2012"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
