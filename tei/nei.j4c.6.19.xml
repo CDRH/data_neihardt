@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.6.19">
 <teiHeader>
@@ -105,28 +105,36 @@
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="keywords">
-<term>Review articles</term>
-	<term>business</term>
-	<term>personal</term>
-	<term>Macmillan</term>
-	<term>poetry</term>
+<term>Macmillan</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term>Mott, Frank Luther, 1886-1964</term>
+<term></term>
 </keywords>
 <keywords scheme="lcsh" n="places">
 <term>McGregor (Iowa)</term>
 </keywords>
-	<keywords scheme="lcsh" n="works">
-		<term>The Song of the Indian Wars</term>
-	</keywords>
+<keywords scheme="lcsh" n="works">
+<term>The Song of the Indian Wars</term>
+</keywords>
 </textClass>
-	<particDesc>
-		<person role="recipient"><persName>Mott, Frank Luther, 1886-1964</persName></person>
-	</particDesc>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName>Bancroft (Neb.)</placeName>
+<date when="1920-09-28"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Mott, Frank Luther, 1886-1964</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Mott, Frank Luther, 1886-1964</persName></person>
+</particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name>Weakly, Laura K.</name> added correspDesc</change>
 <change when="2012-09-11"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -149,14 +157,14 @@
 <salute>Dear Mr. Mott: &#8212;</salute>
 </opener>
 
-	<p>I was very glad to receive your letter of yesterday, and was surprised to learn that you wrote me from McGregor, Iowa. This is the first letter I have received from you since you were here. During the past month two other letters addressed to me (both containing drafts) have been lost, and I fear that at least one other letter has gone astray.</p>
-	<p>It's the best of news that you will write <hi rend="italic">two</hi> articles about my work. The more the better: and especially when the work is done by a man of real understanding. I feel quite safe in your hands, Mott.</p>
-	<p>The prospect for the success of the epic cycle is surprisingly good and grows better steadily.</p>
-	<p>"The Song of the Indian Wars" is going on in a most satisfactory way, and I count it a great privilege to have so tremendous a theme to handle. Four hundred twenty five lines in four months! Two glorious years of work left! It's fine to be alive, have a big job to do, and know how to do it.</p>
-	<p>Be sure that I am deeply grateful for your friendship and cooperation.</p>
+<p>I was very glad to receive your letter of yesterday, and was surprised to learn that you wrote me from McGregor, Iowa. This is the first letter I have received from you since you were here. During the past month two other letters addressed to me (both containing drafts) have been lost, and I fear that at least one other letter has gone astray.</p>
+<p>It's the best of news that you will write <hi rend="italic">two</hi> articles about my work. The more the better: and especially when the work is done by a man of real understanding. I feel quite safe in your hands, Mott.</p>
+<p>The prospect for the success of the epic cycle is surprisingly good and grows better steadily.</p>
+<p>"The Song of the Indian Wars" is going on in a most satisfactory way, and I count it a great privilege to have so tremendous a theme to handle. Four hundred twenty five lines in four months! Two glorious years of work left! It's fine to be alive, have a big job to do, and know how to do it.</p>
+<p>Be sure that I am deeply grateful for your friendship and cooperation.</p>
 <closer>
 <salute>Always yours,</salute>
-				
+
 <signed>Jno G. Neihardt</signed>
 </closer>
 

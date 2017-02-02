@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.6.2-6">
 <teiHeader>
@@ -104,51 +104,41 @@
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="keywords">
-<term>publishing</term>
-	<term>press</term>
-	<term>mood of sorcery</term>
-	<term>book inscription</term>
-	<term>production</term>
-	<term>western exploration</term>
-	<term>textbook</term>
-	<term>Sioux</term>
-	<term>Cheyenne</term>
-	<term>The Bohemian Club</term>
-	<term>Battle of the Rosebud</term>
-	<term>firewood</term>
-	<term>February</term>
-	<term>summer</term>
-	<term>clique</term>
-	<term>diplomat</term>
-	<term>fitness</term>
-	<term>visit</term>
-	<term>June</term>
-	<term>Horseback riding</term>
-	<term>social environment</term>
-	<term>climate</term>
-	<term>un-Christian conduct</term>
-	<term>mahatma</term>
+<term>The Bohemian Club</term>
+<term>Battle of the Rosebud</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term>Sterling, George, 1869-1926</term>
-	<term>Schuyler, Walter Scribner</term>
-	<term>General Crook</term>
-	<term>Robinson</term>
+<term></term>
+<term>Schuyler, Walter Scribner</term>
+<term>General Crook</term>
+<term>Robinson</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
 <term>New York</term>
 </keywords>
 <keywords scheme="lcsh" n="works">
 <term>Lilith; a dramatic poem</term>
-	<term>The Song of the Sioux Wars</term>
+<term>The Song of the Sioux Wars</term>
 </keywords>
 </textClass>
-	<particDesc>
-		<person role="recipient"><persName>Sterling, George, 1869-1926</persName></person>
-	</particDesc>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName>Bancroft (Neb.)</placeName>
+<date when="1920-01-17"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Sterling, George, 1869-1926</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Sterling, George, 1869-1926</persName></person>
+</particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name>Weakly, Laura K.</name> added correspDesc</change>
 <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
 <change when="2012-09-10"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
@@ -173,31 +163,31 @@ January 17, '20.</dateline>
 <salute>Dear Sterling:&#8212;</salute>
 </opener>
 
-	<p>I have been waiting for a chance to read "Lilith" again before writing you; and now that I have read it in print, I want to say that it has certainly lost nothing in going through the press. All the many, many exquisite lines were there as before, and the mood of the whole, which is the most important thing, is a mood of sorcery.</p>
-	<p>I am very proud of the book, and I feel
+<p>I have been waiting for a chance to read "Lilith" again before writing you; and now that I have read it in print, I want to say that it has certainly lost nothing in going through the press. All the many, many exquisite lines were there as before, and the mood of the whole, which is the most important thing, is a mood of sorcery.</p>
+<p>I am very proud of the book, and I feel
 
 <pb facs="nei.j4c.6.2-6_0002" />
 <fw type="curatorial">3</fw>
 <fw type="authorial">-2-</fw>
 
 greatly honored in having the MS with your inscription. Congratulations!</p>
-	<p>I am wondering if the drama is likely to be produced. It could be made extremely effective.</p>
-	<p>I completed my prose history of Western exploration for schools (70,000 words) a short while ago, and am now plotting "The Song of the Sioux Wars". Am getting in touch with men who fought the Sioux and Cheyennes from 1868 to 1877. Are you acquainted with General Schuyler, who
+<p>I am wondering if the drama is likely to be produced. It could be made extremely effective.</p>
+<p>I completed my prose history of Western exploration for schools (70,000 words) a short while ago, and am now plotting "The Song of the Sioux Wars". Am getting in touch with men who fought the Sioux and Cheyennes from 1868 to 1877. Are you acquainted with General Schuyler, who
 
 <pb facs="nei.j4c.6.2-6_0003" />
 <fw type="curatorial">4</fw>
 <fw type="authorial">-3-</fw>
 
 is a member of The Bohemian Club? I have written him for reminiscences of Battle of the Rosebud in which he served as an officer under General Crook. I hope he will take the trouble to write me. Others have. If you know him well, I'm sure a word from you would help a great deal.</p>
-	<p>I've been chopping down trees and getting <choice><sic>read</sic><corr>ready</corr></choice> for the buzz saw in February. Summer wood! It is working me hard all over &#8212; with an exception modesty forbids me to mention!</p>
+<p>I've been chopping down trees and getting <choice><sic>read</sic><corr>ready</corr></choice> for the buzz saw in February. Summer wood! It is working me hard all over &#8212; with an exception modesty forbids me to mention!</p>
 
 <pb facs="nei.j4c.6.2-6_0004" />
 <fw type="curatorial">5</fw>
 <fw type="authorial">-4-</fw>
 
-	<p>That was a mighty nice send-off for Robinson, wasn't it? He's too fine to be patronized by that damned New York clique, however! He must be a diplomat or a very taciturn man &#8212; or both &#8212; in order to keep them kind. I'm afraid I would court their hatred &#8212; as I do, for that matter.</p>
-	<p>How are you? Do you keep fairly hard physically? I hope so! Lord! How I would love to be with you awhile, feeling like myself!</p>
-	<p>Next June, I <del /> intend to ride horseback over the country of the
+<p>That was a mighty nice send-off for Robinson, wasn't it? He's too fine to be patronized by that damned New York clique, however! He must be a diplomat or a very taciturn man &#8212; or both &#8212; in order to keep them kind. I'm afraid I would court their hatred &#8212; as I do, for that matter.</p>
+<p>How are you? Do you keep fairly hard physically? I hope so! Lord! How I would love to be with you awhile, feeling like myself!</p>
+<p>Next June, I <del /> intend to ride horseback over the country of the
 
 <gap reason="missing" extent="1page" />
 
@@ -208,9 +198,9 @@ is a member of The Bohemian Club? I have written him for reminiscences of Battle
 <fw type="authorial">-6-</fw>
 
 
-	<p>Also, I want my girls to grow up where they can meet regular fellows. That's got to be considered, I begin to realize; and they grow up so fast!</p>
-	<p>This is a hog country, and the climate has a perfectly vicious disposition. Sometimes I want to slap it for its un-Christian conduct. I'm glad to have felt the various pinches this country can give; but I feel I'm pinched enough for one mahatma!</p>
-	<p>Good luck to you, Old Man!</p>
+<p>Also, I want my girls to grow up where they can meet regular fellows. That's got to be considered, I begin to realize; and they grow up so fast!</p>
+<p>This is a hog country, and the climate has a perfectly vicious disposition. Sometimes I want to slap it for its un-Christian conduct. I'm glad to have felt the various pinches this country can give; but I feel I'm pinched enough for one mahatma!</p>
+<p>Good luck to you, Old Man!</p>
 
 <closer>
  <salute>Always affectionately</salute>
