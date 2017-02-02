@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.4.26-29">
 <teiHeader>
@@ -104,27 +104,13 @@
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="keywords">
-<term>poem</term>
-<term>Sterlingesque</term>
 <term>Macmillans</term>
-<term>business office</term>
 <term>World War I</term>
-<term>character</term>
-<term>series</term>
 <term>Boni &amp; Liveright</term>
-<term>lyrics</term>
 <term>Wilton</term>
-<term>Bolshevism</term>
-<term>capitalism</term>
-<term>prejudice</term>
-<term>English</term>
-<term>Democracy</term>
 <term>American Commission to Russia</term>
-<term>annotated edition</term>
-<term>Stanford University</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term>Sterling, George, 1869-1926</term>
 <term>Russell, Charles Edward, 1860-1941</term>
 <term>Alden, Dr.</term>
 </keywords>
@@ -141,12 +127,24 @@
 <term>Red Russia</term>
 </keywords>
 </textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+<date when="1918-12-19"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Sterling, George, 1869-1926</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
 	<particDesc>
 		<person role="recipient"><persName>Sterling, George, 1869-1926</persName></person>
 	</particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name>Weakly, Laura K.</name> added correspDesc</change>
 <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
 <change when="2012-05-24"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
 <change when="2012"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>

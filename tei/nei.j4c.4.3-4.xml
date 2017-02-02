@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.4.3-4">
 <teiHeader>
@@ -104,34 +104,23 @@
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="keywords">
-<term>friendship</term>
-<term>gratitude</term>
 <term>Eleusis Club</term>
-<term>survivor</term>
-<term>interpreter</term>
-<term>brother</term>
-<term>ring</term>
-<term>Pueblos</term>
-<term>photos</term>
-<term>article</term>
-<term>rotten</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term>Sterling, George, 1869-1926</term>
 <term>Howard, John Galen, 1864-1931</term>
 <term>Kreider, Noble W. (Noble Wickham) </term>
-<term>House, J. T.</term>
+<term>House, Julius T. (Julius Temple)</term>
 <term>Streamer, Volney, 1850-1915</term>
 <term>Curly, approximately 1856-1923</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term>Muir Woods</term>
+<!-- <term>Muir Woods</term> -->
 <term>San Francisco (Calif.)</term>
-<term>Crow Indian Agency</term>
+<term>Crow Indian Agency (Mont.)</term>
 <term>Montana</term>
 <term>Santa Fe (N.M.)</term>
-<term>Custer battlefield</term>
-<term>Little Big Horn</term>
+<term>Custer Battlefield (Mont.)</term>
+<term>Little Big Horn Battlefield (Mont.)</term>
 </keywords>
 <keywords scheme="lcsh" n="works">
 <term>Lilith; a dramatic poem</term>
@@ -139,12 +128,24 @@
 <term>Bulletin</term>
 </keywords>
 </textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+<date when="1918-03-22"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Sterling, George, 1869-1926</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
 	<particDesc>
 		<person role="recipient"><persName>Sterling, George, 1869-1926</persName></person>
 	</particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name>Weakly, Laura K.</name> added correspDesc</change>
 <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
 <change when="2012-05-23"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
 <change when="2012"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
