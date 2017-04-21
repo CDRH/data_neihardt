@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen
-RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"
-?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.9.13-14">
 <teiHeader>
 <fileDesc>
@@ -121,7 +119,6 @@ RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/te
 <term>True, Allen</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term>Branson (Mo.)</term>
 <term>New York</term>
 <term>Chicago (Ill.)</term>
 <term>New England</term>
@@ -132,6 +129,17 @@ RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/te
 <term>The Song of Hugh Glass</term>
 </keywords>
 </textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName>Branson (Mo.)</placeName>
+<date when="1924-09-10"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Mott, Frank Luther, 1886-1964</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
 <particDesc><person role="recipient"><persName>Mott, Frank Luther, 1886-1964</persName></person></particDesc>
 </profileDesc>
 <revisionDesc>
