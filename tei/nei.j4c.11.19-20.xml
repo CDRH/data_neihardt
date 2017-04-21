@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.11.19-20">
 <teiHeader>
@@ -42,7 +42,7 @@
 <sourceDesc>
 <bibl>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
-<title level="m" type="main">Letter from John G. Neihardt to Julius T. House, written on letter from H. Bardwell Lilly,</title>
+<title level="m" type="main">Letter from John G. Neihardt to Julius T. House, written on letter from H. Bardwell Lilly</title>
 <date when="1926-04">April, 1926</date>
 <extent>2 pages, plus envelope</extent>
 </bibl>
@@ -120,6 +120,26 @@
 <term>John G. Neihardt, Man and Poet</term>
 </keywords>
 </textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Lilly, H. Bardwell</persName>
+<placeName>Westfield (Iowa)</placeName>
+<date when="1926-04-06"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName>Bancroft (Neb.)</placeName>
+</correspAction>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+<date when="1926-04"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>House, Julius T. (Julius Temple)</persName>
+<placeName>Montgomery (W. Va.)</placeName>
+</correspAction>
+</correspDesc>
 <particDesc><person role="recipient"><persName>House, Julius T. (Julius Temple)</persName></person></particDesc>
 </profileDesc>
 
