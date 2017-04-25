@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.18.29-30">
     <teiHeader>
@@ -111,7 +111,7 @@
                     <term>Neihardt, Sigurd</term>
                 </keywords>
                 <keywords scheme="lcsh" n="places">
-                    <term>Galesburg (Ill.)</term>
+                    <term></term>
 <term>Omaha (Neb.)</term>
 <term>Lincoln (Neb.)</term>
                 </keywords>
@@ -119,6 +119,17 @@
                     <term></term>
                 </keywords>
             </textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName>Galesburg (Ill.)</placeName>
+<date when="1939-11-16"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Holm, Elmer E.</persName>
+<persName>Holm, Mrs. Elmer E.</persName>
+</correspAction>
+</correspDesc>
             <particDesc><person role="recipient"><persName>Holm, Mr. and Mrs. Elmer E.</persName></person></particDesc>
         </profileDesc>
         
