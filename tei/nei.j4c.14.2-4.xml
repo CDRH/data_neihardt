@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.14.2-4">
     <teiHeader>
@@ -110,15 +110,13 @@
                 <keywords scheme="lcsh" n="people">
                     <term>Robinson, J. E.</term>
 <term>Neihardt, Sigurd</term>
-<term>House, Mrs.</term>
+<term>House, Flora M.</term>
 <term>Ryskind, Mary House</term>
 <term>Botkin, Benjamin Albert, 1901-1975</term>
                 </keywords>
                 <keywords scheme="lcsh" n="places">
-                    <term>St. Louis (Mo.)</term>
 <term>Oklahoma City (Okla.)</term>
 <term>Tulsa (Okla.)</term>
-<term>Montgomery (W. Va.)</term>
 <term>Norman (Okla.)</term>
                 </keywords>
                 <keywords scheme="lcsh" n="works">
@@ -127,6 +125,17 @@
 <term>Tolerance</term>
                 </keywords>
             </textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName>St. Louis (Mo.)</placeName>
+<date when="1930-02-19"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>House, Julius T. (Julius Temple)</persName>
+<placeName>Montgomery (W. Va.)</placeName>
+</correspAction>
+</correspDesc>
             <particDesc><person role="recipient"><persName>House, Julius T. (Julius Temple)</persName></person></particDesc>
         </profileDesc>
         
