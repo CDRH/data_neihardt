@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.17.31-32">
     <teiHeader>
@@ -110,16 +110,27 @@
                 <keywords scheme="lcsh" n="people">
                     <term>Jack, Ford</term>
 <term>Neihardt, Enid</term>
-<term>Deloria</term> <!-- Deloria, Vine, 1901-1990 or Deloria, Ella Cara, 1889-1971 -->
+<term>Deloria, Ella Cara, 1889-1971</term> 
                 </keywords>
                 <keywords scheme="lcsh" n="places">
-                    <term>Branson (Mo.)</term>
+                    <term></term>
                 </keywords>
                 <keywords scheme="lcsh" n="works">
                     <term>Black Elk Speaks</term>
 <term>The Song of the Messiah</term>
                 </keywords>
             </textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName>Branson (Mo.)</placeName>
+<date when="1935-12-19"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Latham, Harold Strong, 1887-</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
             <particDesc><person role="recipient"><persName>Latham, Harold Strong, 1887-</persName></person></particDesc>
         </profileDesc>
         
