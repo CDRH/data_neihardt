@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.19.8">
     <teiHeader>
@@ -111,14 +111,25 @@
                     <term></term>
                 </keywords>
                 <keywords scheme="lcsh" n="places">
-                    <term>Branson (Mo.)</term>
-<term>Pender (Neb.)</term>
+                    <term></term>
                 </keywords>
                 <keywords scheme="lcsh" n="works">
                     <term>The Song of Jed Smith</term>
 <term>A Cycle of the West</term>
                 </keywords>
             </textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName>Branson (Mo.)</placeName>
+<date when="1941-04-25"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Berg, Caroline D.</persName>
+<persName>Graves, Gertrude S.</persName>
+<placeName>Pender (Neb.)</placeName>
+</correspAction>
+</correspDesc>
             <particDesc><person role="recipient"><persName>Berg, Caroline D. and Gertrude S. Graves</persName></person></particDesc>
         </profileDesc>
         
