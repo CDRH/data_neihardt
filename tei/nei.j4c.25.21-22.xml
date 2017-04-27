@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.25.21-22">
     <teiHeader>
@@ -114,7 +114,6 @@
 <term>Tennyson, Alfred Tennyson, Baron, 1809-1892</term>
                 </keywords>
                 <keywords scheme="lcsh" n="places">
-                    <term type="from">Phoenix (Ariz.)</term>
 <term>Portland (Or.)</term>
 <term>Columbia (Mo.)</term>
                 </keywords>
@@ -122,6 +121,18 @@
                     <term>The Adventures of Harry Richmond</term>
                 </keywords>
             </textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName>Phoenix (Ariz.)</placeName>
+<date when="1959-08-19"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Aly, Bower, 1903-1977</persName>
+<persName>Aly, Lucile Folse, 1913-</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
             <particDesc><person role="recipient"><persName>Aly, Bower and Lucile</persName></person></particDesc>
         </profileDesc>
         
