@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.3.14-17">
 <teiHeader>
@@ -100,19 +100,8 @@
 </keywords>
 <keywords scheme="lcsh" n="keywords">
 <term></term>
-<term>shells</term>
-<term>collection</term>
-<term>shore</term>
-<term>Markham</term>
-<term>November</term>
-<term>Macmillan</term>
-<term>plate proofs</term>
-<term>publishing</term>
-<term>winter</term>
-<term>composer</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term>Sterling, George, 1869-1926</term>
 <term>Marsh</term>
 <term>Hyatt</term>
 <term>Kreider, Noble W. (Noble Wickham) </term>
@@ -126,12 +115,24 @@
 <term>The Song of Hugh Glass</term>
 <term>Yosemite</term></keywords>
 </textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName>Bancroft (Neb.)</placeName>
+<date when="1915-10-11"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Sterling, George, 1869-1926</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
 	<particDesc>
 		<person role="recipient"><persName>Sterling, George, 1869-1926</persName></person>
 	</particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name>Weakly, Laura K.</name> added correspDesc</change>
 <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
 <change when="2012"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>

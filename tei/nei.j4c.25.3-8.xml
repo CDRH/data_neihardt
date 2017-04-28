@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.25.3-8">
     <teiHeader>
@@ -117,7 +117,6 @@
 <term>Truman, Harry S., 1884-1972</term>
                 </keywords>
                 <keywords scheme="lcsh" n="places">
-                    <term type="from">Lake Cormorant (Miss.)</term>
 <term>California</term>
 <term>Nebraska</term>
                 </keywords>
@@ -125,6 +124,17 @@
                     <term></term>
                 </keywords>
             </textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName>Lake Cormorant (Miss.)</placeName>
+<date when="1959-07-20"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Aly, Lucile Folse, 1913-</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
             <particDesc><person role="recipient"><persName>Aly, Lucile Folse, 1913-</persName></person></particDesc>
         </profileDesc>
         

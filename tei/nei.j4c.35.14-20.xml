@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.35.14-20_0001-7">
     <teiHeader>
@@ -126,8 +126,6 @@
 <term>Christ</term><!-- Professor -->
                 </keywords>
                 <keywords scheme="lcsh" n="places">
-                    <term type="from">Columbia (Mo.)</term>
-                    <term type="to">Eugene (Ore.)</term>
                     <term>St. Louis (Mo.)</term>
 <term>Fort Union (N.D.)</term>
 <term>Scotland</term>
@@ -146,6 +144,17 @@
 <term>The Death of Crazy Horse</term>
                 </keywords>
             </textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName>Columbia (Mo.)</placeName>
+<date when="1962-02-06"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Aly, Lucile Folse, 1913-</persName>
+<placeName>Eugene (Or.)</placeName>
+</correspAction>
+</correspDesc>
             <particDesc><person role="recipient"><persName>Aly, Lucile Folse, 1913-</persName></person></particDesc>
         </profileDesc>
         

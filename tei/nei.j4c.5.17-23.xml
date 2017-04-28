@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.5.17-23">
 <teiHeader>
@@ -104,34 +104,11 @@
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="keywords">
-<term>gratitude </term>
-<term>praise</term>
-<term>poet</term>
-<term>relief</term>
-<term>temperament</term>
-<term>encouragement</term>
 <term>Macmillan</term>
-<term>school edition</term>
-<term>historical</term>
-<term>studies</term>
-<term>leopard skin</term>
-<term>pagans</term>
-<term>Ball</term>
-<term>Big Fight</term>
-<term>solitary life</term>
-<term>myopic view</term>
-<term>artistic development</term>
-<term>human race</term>
-<term>craftsman</term>
-<term>rhubarb-and-senna</term>
-<term>sonnet</term>
-<term>philosophical appreciation</term>
-<term>Humanist</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term>Sterling, George, 1869-1926</term>
 <term>Ledoux, Louis V. (Louis Vernon), 1880-1948</term>
-<term>House, J. T.</term>
+<term>House, Julius T. (Julius Temple)</term>
 <term>Robertson</term>
 <term>Petronius Arbiter</term>
 <term>Smith</term>
@@ -147,12 +124,24 @@
 <term>A Cycle of the West</term>
 </keywords>
 </textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName>Bancroft (Neb.)</placeName>
+<date when="1919-04-14"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Sterling, George, 1869-1926</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
 	<particDesc>
 		<person role="recipient"><persName>Sterling, George, 1869-1926</persName></person>
 	</particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name>Weakly, Laura K.</name> added correspDesc</change>
 <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
 <change when="2012-09-07"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
@@ -164,7 +153,7 @@
 <text>
 <body>
 
-<div1 type="type">
+<div1 type="letter">
 
 <pb facs="nei.j4c.5.17-23_0001" />
 <note type="curatorial">Sterling Collection Huntington Library</note>

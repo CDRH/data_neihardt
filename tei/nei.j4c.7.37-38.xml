@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.7.37-38">
 <teiHeader>
@@ -105,42 +105,44 @@
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="keywords">
-<term>proofs</term>
-<term>The Pack</term>
-<term>publishing</term>
-<term>anthology</term>
-<term>editing</term>
-<term>Galley 17</term>
-<term>Association</term>
-<term>poetry</term>
-<term>writing</term>
-<term>speeches</term>
 <term>Neihardt Club</term>
-<term>printing</term>
 <term>Bookfellows</term>
+</keywords>
+<keywords scheme="lcsh" n="work">
+<term>The Poet's Pack</term>
+<term>Association</term>
 <term>Laureate Address</term>
-<term>baby</term>
-<term>birth</term>
+<term>Pierrot, Bookfellow</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term>Seymour, George Steele</term>
-<term>Pierrot, Bookfellow</term>
-<term>Starrett</term>
-<term>Cheney</term>
+<term>Starrett, Vincent, 1886-1974</term>
+<term>Cheney, John Vance, 1848-1922</term>
 <term>Sterling, George</term>
-<term>Scollard</term>
-<term>Mrs. Seymour</term>
+<term>Scollard, Clinton, 1860-1932</term>
+<term>Seymour, Flora Warren, 1888-1948</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
 <term>Lincoln (Neb.)</term>
 </keywords>
 </textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName>Branson (Mo.)</placeName>
+<date when="1921-08-04"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Seymour, George Steele</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
 <particDesc>
 <person role="recipient"><persName>Seymour, George Steele</persName></person>
 </particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name>Weakly, Laura K.</name> Added correspDesc</change>
 <change when="2012-09-21"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>

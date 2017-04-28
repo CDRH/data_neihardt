@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.1.8-10">
 <teiHeader>
@@ -106,39 +106,6 @@
 </keywords>
 <keywords scheme="original" n="keywords">
 <term></term>
-<term>study</term>
-<term>poems</term>
-<term>appreciation</term>
-<term>poet</term>
-<term>beauty</term>
-<term>periodicals</term>
-<term>library</term>
-<term>spiritual kinship</term>
-<term>acquaintance</term>
-<term>quoting</term>
-<term>genius</term>
-<term>sincerity</term>
-<term>autograph</term>
-<term>The West</term>
-<term>self-belief</term>
-<term>strength of the artist</term>
-<term>great mission</term>
-<term>praise</term>
-<term>discouragement</term>
-<term>commericialism</term>
-<term>countrymen</term>
-<term>sordid ambitions</term>
-<term>Upper Air</term>
-<term>wealth </term>
-<term>money</term>
-<term>stocks</term>
-<term>bonds</term>
-<term>morals</term>
-<term>realities</term>
-<term>truths</term>
-<term>My Country</term>
-<term>Americans</term>
-<term>debtors</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
 <term>Woodberry, George Edward, 1855-1930</term>
@@ -152,14 +119,27 @@
 <keywords scheme="original" n="works">
 <term>He ate the Laurel and is Mad</term>
 <term>Siena</term>
+<term>My Country</term>
 </keywords>
 </textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName>Bancroft (Neb.)</placeName>
+<date when="1906-04-09"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Woodberry, George Edward, 1855-1930</persName>
+<placeName>London (England)</placeName>
+</correspAction>
+</correspDesc>
 	<particDesc>
 		<person role="recipient"><persName>Woodberry, George Edward, 1855-1930</persName></person>
 	</particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name>Weakly, Laura K.</name> correspDesc Encoding</change>
 <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
 <change when="2012-03-02"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Proofreading</change>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.24.18-21">
     <teiHeader>
@@ -110,8 +110,8 @@
                 <keywords scheme="lcsh" n="people">
                     <term>Aly, Bower, 1903-1977</term>
 <term>Benton, Thomas Hart, 1889-1975</term>
-<term>Hiddy</term>
-<term>Skilling, Edna</term>
+<term>Petri, Hilda Neihardt</term>
+<term>Skillings, Edna</term>
 <term>Neihardt, Mona Martinsen</term>
 <term>Lockwood, Samuel Pierson, 1879-1948</term>
 <term>Neihardt, Alice</term>
@@ -143,6 +143,17 @@
 <term>The Song of the Messiah</term>
                 </keywords>
             </textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName>Columbia (Mo.)</placeName>
+<date when="1959-05-04"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Aly, Lucile Folse, 1913-</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
             <particDesc><person role="recipient"><persName>Aly, Lucile Folse, 1913-</persName></person></particDesc>
         </profileDesc>
         

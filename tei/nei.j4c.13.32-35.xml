@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.13.32-35">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Letter from John G. Neihardt, February 2, 1929</title>
+                <title type="main">Letter from John G. Neihardt? February 2, 1929</title>
                 <author>Neihardt, John Gneisenau, 1881-1973</author>
                 <principal>Gossin, Pamela</principal>
             </titleStmt>
@@ -37,12 +37,12 @@
                 </availability>
             </publicationStmt>
             
-            <notesStmt><note></note></notesStmt>
+            <notesStmt><note>Possibly not written by John Neihardt</note></notesStmt>
             
             <sourceDesc>
                 <bibl>
                     <author>Neihardt, John Gneisenau, 1881-1973</author>
-                    <title level="m" type="main">Letter from John G. Neihardt</title>
+                    <title level="m" type="main">Letter from John G. Neihardt?</title>
                     <date when="1929-02-02">February 2, 1929</date>
                     <extent>4 pages</extent>
                 </bibl>
@@ -112,7 +112,7 @@
                 </keywords>
                 <keywords scheme="lcsh" n="places">
                     <term>Montana</term>
-<term>Ft. Caster</term>
+<term>Ft. Custer (Mont.)</term>
 <term>Huntley (Mont.)</term>
                 </keywords>
                 <keywords scheme="lcsh" n="works">
@@ -120,6 +120,17 @@
 <term>Prayer for Pain</term>
                 </keywords>
             </textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+<date when="1929-02-02"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName></persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
             <particDesc><person role="recipient"><persName>Unknown</persName></person></particDesc>
         </profileDesc>
         
@@ -159,7 +170,7 @@
 <p>Long years ago, when a child I lived in far away Montana,
     <pb facs="nei.j4c.13.32-35_0003"/>
     <fw type="curatorial">34</fw>
-    first at Ft. Caster - later at an Indian Trading Post - on the Big Horn River. Huntley is the name in that village - Indians were the principal inhabitants in those long ago years I learned to <unclear>know them well</unclear> + they called my young and beautiful mother, "The White Angel". I am wondering if by any chance <unclear>Mr.</unclear> Neihardt was ever at Ft. Custer or Huntley - Of course, <del/> it is all very different out then now compared to forty years ago!</p>
+    first at Ft. Custer - later at an Indian Trading Post - on the Big Horn River. Huntley is the name in that village - Indians were the principal inhabitants in those long ago years I learned to <unclear>know them well</unclear> + they called my young and beautiful mother, "The White Angel". I am wondering if by any chance <unclear>Mr.</unclear> Neihardt was ever at Ft. Custer or Huntley - Of course, <del/> it is all very different out then now compared to forty years ago!</p>
 <pb facs="nei.j4c.13.32-35_0004"/>
     <fw type="curatorial">35</fw>
 <p>John G. Neihardt is wonderful &#8212; Nebraska &#8212; and the whole world have reasons to be very proud of him! One of the finest things, in my own humble opinion that this friend who has "The Heart of a <hi rend="underline">Man</hi> &amp; the soul of a Poet"<add><unclear/> wrote</add></p>

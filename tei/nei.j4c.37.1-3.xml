@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?> -->
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.37.1-3">
     <teiHeader>
@@ -118,10 +118,8 @@
                     <term>Lincoln (Neb.)</term>
 <term>Imperial (Neb.)</term>
 <term>Wuaneta (Neb.)</term>
-<term>Portland (Ore.)</term>
+<term>Portland (Or.)</term>
 <term>Green River (Wy.)</term>
-<term type="to">Kemah (Texas)</term>
-<term type="from">Columbia (Mo.)</term>
                 </keywords>
                 <keywords scheme="lcsh" n="works">
                     <term>The Twilight of the Sioux</term>
@@ -136,7 +134,7 @@
 </correspAction>
 <correspAction type="deliveredTo">
 <persName>Aly, Lucile Folse, 1913-</persName>
-<placeName>Eugene (Ore.)</placeName>
+<placeName>Kemah (Texas)</placeName>
 </correspAction>
 </correspDesc>
             <particDesc><person role="recipient"><persName>Aly, Lucile Folse, 1913-</persName></person></particDesc>

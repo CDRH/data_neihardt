@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.7.1-4">
 <teiHeader>
@@ -104,26 +104,10 @@
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="keywords">
-<term>nature</term>
-<term>weather</term>
-<term>lecture tour</term>
-<term>travel</term>
-<term>personal</term>
-<term>human nature</term>
-<term>society</term>
-<term>urbanization</term>
-<term>jazz</term>
-<term>individualism</term>
-<term>University of Omaha</term>
 <term>Neihardt Club</term>
-<term>Nebraska legislature</term>
-<term>poet laureate</term>
-<term>movies</term>
-<term>publishing</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term>Sterling, George, 1869-1926</term>
-<term>Mrs. Trine</term>
+<term>Trine, Grace Hyde</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
 <term>Sioux Falls (S. D.)</term>
@@ -145,12 +129,24 @@
 <term>The Song of Hugh Glass</term>
 </keywords>
 </textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName>Branson (Mo.)</placeName>
+<date when="1921-01-23"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Sterling, George, 1869-1926</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
 <particDesc>
 <person role="recipient"><persName>Sterling, George, 1869-1926</persName></person>
 </particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name>Weakly, Laura K.</name> added correspDesc</change>
 <change when="2012-09-18"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>

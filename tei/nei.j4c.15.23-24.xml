@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.15.23-24">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Letter from John G. Neihardt to Julius T. House, February, 1931</title>
+                <title type="main">Letter from John G. Neihardt to Julius T. House, February 1931</title>
                 <author>Neihardt, John Gneisenau, 1881-1973</author>
                 <principal>Gossin, Pamela</principal>
             </titleStmt>
@@ -43,7 +43,7 @@
                 <bibl>
                     <author>Neihardt, John Gneisenau, 1881-1973</author>
                     <title level="m" type="main">Letter from John G. Neihardt to Julius T. House</title>
-                    <date when="1931-02">February, 1931</date>
+                    <date when="1931-02">February 1931</date>
                     <extent>1 page, plus envelope</extent>
                 </bibl>
                 <msDesc>
@@ -108,16 +108,14 @@
                     <term></term>
                 </keywords>
                 <keywords scheme="lcsh" n="people">
-                    <term>Grace Neihardt-Ballinger</term>
-<term>Mrs. D. M. McDonald</term>
+                    <term>Neihardt-Ballinger, Grace</term>
+<term>McDonald, Lulu</term>
 <term>Vinsonhaler, Duncan M.</term>
 <term>Leslie, Leigh</term>
 <term>Deirup, Mary</term>
 <term>O'Hara, John Myers, 1870-1944</term>
                 </keywords>
                 <keywords scheme="lcsh" n="places">
-<term>Branson (Mo.)</term>
-<term>Montgomery (W. Va.)</term>
                     <term>Buffalo (N.Y.)</term>
 <term>Minneapolis (Minn.)</term>
 <term>Omaha (Neb.)</term>
@@ -127,6 +125,17 @@
                     <term></term>
                 </keywords>
             </textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName>Branson (Mo.)</placeName>
+<date when="1931-02"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>House, Julius T. (Julius Temple)</persName>
+<placeName>Montgomery (W. Va.)</placeName>
+</correspAction>
+</correspDesc>
             <particDesc><person role="recipient"><persName>House, Julius T. (Julius Temple)</persName></person></particDesc>
         </profileDesc>
         

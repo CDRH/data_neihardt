@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.8.8-9_0001-2">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.8.8-9">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4c.8.8-9_0001-2</idno>
+<idno>nei.j4c.8.8-9</idno>
 <availability>
 <p></p>
 </availability>
@@ -110,9 +110,9 @@
 <keywords scheme="lcsh" n="people">
 <term>Macfall, Haldane, 1860-1928</term>
 <term>White, Stewart Edward, 1873-1946</term>
+<term>House, Julius T. (Julius Temple)</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term>Branson (Mo.)</term>
 <term>England</term>
 </keywords>
 <keywords scheme="lcsh" n="works">
@@ -126,10 +126,22 @@
 <term>The Song of the Indian Wars</term>
 </keywords>
 </textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName>Branson (Mo.)</placeName>
+<date when="1922-02-16"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Brockway, Mrs.</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
 <particDesc><person role="recipient"><persName>Brockway, Mrs.</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name>Weakly, Laura K.</name> added correspDesc</change>
 <change when="2013"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords</change>
 <change when="2013"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>

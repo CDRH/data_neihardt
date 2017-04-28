@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.7.39">
 <teiHeader>
@@ -105,14 +105,9 @@
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="keywords">
-<term>anthology</term>
-<term>publishing</term>
-<term>poetry</term>
-<term>sonnets</term>
-<term>baby</term>
+<term></term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term>Sterling, George, 1869-1926</term>
 <term>Seymour, George Steele</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
@@ -124,12 +119,24 @@
 <term>Atthan Dances</term>
 </keywords>
 </textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName>Branson (Mo.)</placeName>
+<date when="1921-08-06"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Sterling, George, 1869-1926</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
 <particDesc>
 <person role="recipient"><persName>Sterling, George, 1869-1926</persName></person>
 </particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name>Weakly, Laura K.</name> Added correspDesc</change>
 <change when="2012-09-21"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
