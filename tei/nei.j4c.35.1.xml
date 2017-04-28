@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.35.1">
     <teiHeader>
@@ -111,12 +111,23 @@
                     <term>Kendrick, Nita Collier</term>
                 </keywords>
                 <keywords scheme="lcsh" n="places">
-                    <term type="from">Columbia (Mo.)</term>
+                    <term type="from"></term>
                 </keywords>
                 <keywords scheme="lcsh" n="works">
                     <term>A Cycle of the West</term>
                 </keywords>
             </textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName>Columbia (Mo.)</placeName>
+<date when="1962-01-03"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Kendrick, M. Slade (Myron Slade)</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
             <particDesc><person role="recipient"><persName>Kendrick, M. Slade (Myron Slade)</persName></person></particDesc>
         </profileDesc>
         

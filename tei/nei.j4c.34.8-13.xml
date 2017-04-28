@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.34.8-13_0001-8">
     <teiHeader>
@@ -114,8 +114,6 @@
 <term>Connie</term>
                 </keywords>
                 <keywords scheme="lcsh" n="places">
-                    <term type="from">Columbia (Mo.)</term>
-<term type="to">Eugene (Ore.)</term>
 <term>Wisconsin</term>
 <term>Phoenix (Ariz.)</term>
 <term>California</term>
@@ -130,6 +128,17 @@
 <term>Lyric and dramatic poems</term>
                 </keywords>
             </textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName>Columbia (Mo.)</placeName>
+<date when="1961-10-30"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Aly, Lucile Folse, 1913-</persName>
+<placeName>Eugene (Or.)</placeName>
+</correspAction>
+</correspDesc>
             <particDesc><person role="recipient"><persName>Aly, Lucile Folse, 1913-</persName></person></particDesc>
         </profileDesc>
         

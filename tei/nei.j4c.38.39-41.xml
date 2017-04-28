@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?> -->
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.38.39-41">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Letter from John G. Neihardt to Edna Skillings and John Chaffee, December 18, 1962</title>
+                <title type="main">Letter from John G. Neihardt to Edna Skilling and John Chaffee, December 18, 1962</title>
                 <author>Neihardt, John Gneisenau, 1881-1973</author>
                 <principal>Gossin, Pamela</principal>
             </titleStmt>
@@ -42,7 +42,7 @@
             <sourceDesc>
                 <bibl>
                     <author>Neihardt, John Gneisenau, 1881-1973</author>
-                    <title level="m" type="main">Letter from John G. Neihardt to Edna Skillings and John Chaffee</title>
+                    <title level="m" type="main">Letter from John G. Neihardt to Edna Skilling and John Chaffee</title>
                     <date when="1962-12-18">December 18, 1962</date>
                     <extent>2 pages, plus envelope</extent>
                 </bibl>
@@ -108,11 +108,9 @@
                     <term></term>
                 </keywords>
                 <keywords scheme="lcsh" n="people">
-                    <term>Skillings, Hugh L.</term>
+                    <term>Skilling, Hugh L.</term>
                 </keywords>
                 <keywords scheme="lcsh" n="places">
-                    <term type="from">Columbia (Mo.)</term>
-                    <term type="to">Albany (Ore.)</term>
                     <term></term>
                 </keywords>
                 <keywords scheme="lcsh" n="works">
@@ -126,15 +124,15 @@
 <date when="1962-12-18"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Skillings, Edna</persName>
-<placeName>Albany (Ore.)</placeName>
+<persName>Skilling, Edna</persName>
+<placeName>Albany (Or.)</placeName>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName>Chaffee, John E. W.</persName>
 <placeName></placeName>
 </correspAction>
 </correspDesc>
-            <particDesc><person role="recipient"><persName>Skillings, Edna, and Chaffee, John E. W.</persName></person></particDesc>
+            <particDesc><person role="recipient"><persName>Skilling, Edna, and Chaffee, John E. W.</persName></person></particDesc>
         </profileDesc>
         
         <revisionDesc>
