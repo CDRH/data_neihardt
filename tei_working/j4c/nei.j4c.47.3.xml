@@ -1,211 +1,222 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.47.3_0001-2">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, September 14, 1965</title>
-                <author>Neihardt, John Gneisenau, 1881-1973</author>
-                <principal>Gossin, Pamela</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date>2013</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <authority>The Papers of John G. Neihardt</authority>
-                <publisher>University of Nebraska-Lincoln</publisher>
-                <distributor>
-                    <name>Center for Digital Research in the Humanities</name>
-                    <address>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, September 14, 1965</title>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
 <addrLine>319 Love Library</addrLine>
 <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 <addrLine>cdrh@unlnotes.unl.edu</addrLine>
 </address>
-                </distributor>
-                <pubPlace>Lincoln, Nebraska</pubPlace> 
-                <address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-                <idno>nei.j4c.47.3_0001-2</idno>
-                <availability>
-                    <p></p>
-                </availability>
-            </publicationStmt>
-            
-            <notesStmt><note></note></notesStmt>
-            
-            <sourceDesc>
-                <bibl>
-                    <author>Neihardt, John Gneisenau, 1881-1973</author>
-                    <title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
-                    <date when="1965-09-14">September 14, 1965</date>
-                    <extent>4 pages</extent>
-                </bibl>
-                <msDesc>
-                    <msIdentifier>
-                        <repository></repository>
-                        <idno></idno>
-                    </msIdentifier>
-                    <msContents>
-                        <p>4 hand-written pages</p>
-                    </msContents>
-                    <physDesc>
-                        <objectDesc>
-                            <supportDesc>
-                                <support></support>
-                                <extent>4 pages
-                                    <dimensions unit="mm"><height></height><width></width></dimensions>
-                                </extent>
-                                <condition>
-                                    <p></p></condition>
-                            </supportDesc>
-                        </objectDesc>
-                        <handDesc hands="1">
-                            <handNote xml:id="type"><p>Media: type</p></handNote>
-                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-                        </handDesc>
-                        <typeDesc>
-                            <typeNote><p></p></typeNote>
-                        </typeDesc>
-                    </physDesc>
-                    <history><origin></origin>
-                        <provenance></provenance>
-                        <acquisition></acquisition>
-                    </history>
-                </msDesc>
-                
-            </sourceDesc>
-        </fileDesc>
-        
-        <encodingDesc>
-            <editorialDecl>
-                <correction>
-                    <p></p>
-                </correction>
-                <normalization>
-                    <p></p>
-                </normalization>
-            </editorialDecl>
-        </encodingDesc>
-        
-        <profileDesc>
-            <textClass>
-                <keywords scheme="original" n="category">
-                    <term>Correspondence</term>
-                </keywords>
-                <keywords scheme="original" n="subcategory">
-                    <term>Business</term>
-                </keywords>
-                <keywords scheme="original" n="topic">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="keywords">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="people">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="places">
-                    <term></term>
-                </keywords>
-            </textClass>
-            <particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
-        </profileDesc>
-        
-        <revisionDesc>
-            <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
-            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
-            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
-            
-        </revisionDesc>
-    </teiHeader>
-    
-    <text>
-        <body>
-            
-            <div1 type="letter">
-                
-                <pb facs="nei.j4c.47.3_0001a" />
-                
-                <opener>
-                <dateline>Sep. 14, '65</dateline>
-                
-                
-                <salute>Dear Lucile.</salute>
-                </opener>
-                <p>It was bully to hear you on the phone!</p>
-                
-                <p>I'm in a hurry to get this note off to you, as you <hi rend="underline">may</hi> need all the time possible for your plans.</p>
-                
-                <p>Anyway, here is the list of engagements up to, and including, <hi rend="underline">Wayne</hi>!
-                    
-                    <list>
-                    <item>Fremont, Sep. 27-28</item>
-                        <lb/>
-                    <item>Seward	      29-30	</item>
-                        <lb/>
-                    <item>Oct 2 Grand Island</item>
-                        <lb/>
-                    <item>Oct 4 Kearney</item>
-                        <lb/>
-                    <item>Oct 7 <del>McCook</del>McCook</item>
-                        <lb/>
-                    <item>Oct 8 Red Cloud</item>
-                        <lb/>
-                    <item>"   9 "    "</item>
-                        <lb/>
-                    <item>Oct 11 Bancroft</item>
-                        <lb/>
-                    <item>Oct 12-13 Wayne.</item>
-                    </list>
-                
-                
-                    <note type="authorial">(over)</note>
-                        
-                        <pb facs="nei.j4c.47.3_0001b"/>
-                    <fw type="authorial">-2-</fw>
-                            <fw type="curatorial"><del/></fw>
-                    
-                   Omaha comes, after a bunch of others, on Oct 24.</p>
-                    
-                <p>This list is, of course, not complete. I'm taking you up to Wayne, because it's another homecoming affair, I gather.</p>
-                
-                <p>I don't know what they'll do at Bancroft, but you can see what they're doing there, and they would rejoice to see you.</p>
-                
-                <p><hi rend="underline">It would be great to see Bower too</hi>!! I can see him as head of the Department <hi rend="double underline">anywhere</hi>.
-                    
-                    <fw type="curatorial">3</fw>
-                    <pb facs="nei.j4c.47.3_0002a"/>
-                    
-                    <fw type="authorial">-3-</fw>
-                    
-                    It would be <del>sadde<unclear>ning</unclear></del><add>saddening</add> to lose you, Bower, and Stewart to Hawaii. But you'd be back now &amp; then and maybe I could come and see you. (I'm just imagining that <del>you m</del>Bower might <hi rend="underline">want</hi> to go there &#8212; but maybe he <del>doent</del> does not.</p>
-                <closer>
-                <salute>Affectionate thoughts for each of you,</salute>
-                
-                <signed>John</signed>
-                </closer>
-                
-                <pb facs="nei.j4c.47.3_0002b"/>
-                
-                <postscript>
-                <opener><hi rend="caps">P. S.</hi></opener>
-                    <p>Between <hi rend="underline">Wayne</hi> (Oct 12-13) and Ogallala, Oct 18) there's quite a gap that we could use for the <hi rend="caps">MS</hi> &#8212; at least <hi rend="double underline">five</hi> good days!</p>
-                <closer>
-                <signed>&#8212; J.</signed>
-                </closer>
-                </postscript>
-                
-                <note type="curatorial"><hi rend="caps">JOHN G. NEIHARDT CENTER</hi></note>
-                
-            </div1>
-        </body>
-        
-        <back></back>
-    </text>
+<idno>nei.j4c.47.3_0001-2</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
+<date when="1965-09-14">September 14, 1965</date>
+<extent>4 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>4 hand-written pages</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>4 pages
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+</condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="type"><p>Media: type</p></handNote>
+<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+
+
+
+
+
+
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+<date when="1900"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName></persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4c.47.3_0001a" />
+
+<opener>
+<dateline>Sep. 14, '65</dateline>
+
+
+<salute>Dear Lucile.</salute>
+</opener>
+<p>It was bully to hear you on the phone!</p>
+
+<p>I'm in a hurry to get this note off to you, as you <hi rend="underline">may</hi> need all the time possible for your plans.</p>
+
+<p>Anyway, here is the list of engagements up to, and including, <hi rend="underline">Wayne</hi>!
+
+<list>
+<item>Fremont, Sep. 27-28</item>
+<lb/>
+<item>Seward	  29-30	</item>
+<lb/>
+<item>Oct 2 Grand Island</item>
+<lb/>
+<item>Oct 4 Kearney</item>
+<lb/>
+<item>Oct 7 <del>McCook</del>McCook</item>
+<lb/>
+<item>Oct 8 Red Cloud</item>
+<lb/>
+<item>"   9 ""</item>
+<lb/>
+<item>Oct 11 Bancroft</item>
+<lb/>
+<item>Oct 12-13 Wayne.</item>
+</list>
+
+
+<note type="authorial">(over)</note>
+
+<pb facs="nei.j4c.47.3_0001b"/>
+<fw type="authorial">-2-</fw>
+<fw type="curatorial"><del/></fw>
+
+   Omaha comes, after a bunch of others, on Oct 24.</p>
+
+<p>This list is, of course, not complete. I'm taking you up to Wayne, because it's another homecoming affair, I gather.</p>
+
+<p>I don't know what they'll do at Bancroft, but you can see what they're doing there, and they would rejoice to see you.</p>
+
+<p><hi rend="underline">It would be great to see Bower too</hi>!! I can see him as head of the Department <hi rend="double underline">anywhere</hi>.
+
+<fw type="curatorial">3</fw>
+<pb facs="nei.j4c.47.3_0002a"/>
+
+<fw type="authorial">-3-</fw>
+
+It would be <del>sadde<unclear>ning</unclear></del><add>saddening</add> to lose you, Bower, and Stewart to Hawaii. But you'd be back now &amp; then and maybe I could come and see you. (I'm just imagining that <del>you m</del>Bower might <hi rend="underline">want</hi> to go there &#8212; but maybe he <del>doent</del> does not.</p>
+<closer>
+<salute>Affectionate thoughts for each of you,</salute>
+
+<signed>John</signed>
+</closer>
+
+<pb facs="nei.j4c.47.3_0002b"/>
+
+<postscript>
+<opener><hi rend="caps">P. S.</hi></opener>
+<p>Between <hi rend="underline">Wayne</hi> (Oct 12-13) and Ogallala, Oct 18) there's quite a gap that we could use for the <hi rend="caps">MS</hi> &#8212; at least <hi rend="double underline">five</hi> good days!</p>
+<closer>
+<signed>&#8212; J.</signed>
+</closer>
+</postscript>
+
+<note type="curatorial"><hi rend="caps">JOHN G. NEIHARDT CENTER</hi></note>
+
+</div1>
+</body>
+
+<back></back>
+</text>
 </TEI>

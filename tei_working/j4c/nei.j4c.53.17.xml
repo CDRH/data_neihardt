@@ -1,169 +1,180 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.53.17">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, September 12, 1967</title>
-                <author>Neihardt, John Gneisenau, 1881-1973</author>
-                <principal>Gossin, Pamela</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date>2013</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <authority>The Papers of John G. Neihardt</authority>
-                <publisher>University of Nebraska-Lincoln</publisher>
-                <distributor>
-                    <name>Center for Digital Research in the Humanities</name>
-                    <address>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, September 12, 1967</title>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
 <addrLine>319 Love Library</addrLine>
 <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 <addrLine>cdrh@unlnotes.unl.edu</addrLine>
 </address>
-                </distributor>
-                <pubPlace>Lincoln, Nebraska</pubPlace> 
-                <address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-                <idno>nei.j4c.53.17</idno>
-                <availability>
-                    <p></p>
-                </availability>
-            </publicationStmt>
-            
-            <notesStmt><note></note></notesStmt>
-            
-            <sourceDesc>
-                <bibl>
-                    <author>Neihardt, John Gneisenau, 1881-1973</author>
-                    <title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
-                    <date when="1967-09-12">September 12, 1967</date>
-                    <extent>1 page</extent>
-                </bibl>
-                <msDesc>
-                    <msIdentifier>
-                        <repository></repository>
-                        <idno></idno>
-                    </msIdentifier>
-                    <msContents>
-                        <p>1 type-written page</p>
-                    </msContents>
-                    <physDesc>
-                        <objectDesc>
-                            <supportDesc>
-                                <support></support>
-                                <extent>1 page
-                                    <dimensions unit="mm"><height></height><width></width></dimensions>
-                                </extent>
-                                <condition>
-                                    <p></p></condition>
-                            </supportDesc>
-                        </objectDesc>
-                        <handDesc hands="1">
-                            <handNote xml:id="type"><p>Media: type</p></handNote>
-                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-                        </handDesc>
-                        <typeDesc>
-                            <typeNote><p></p></typeNote>
-                        </typeDesc>
-                    </physDesc>
-                    <history><origin></origin>
-                        <provenance></provenance>
-                        <acquisition></acquisition>
-                    </history>
-                </msDesc>
-                
-            </sourceDesc>
-        </fileDesc>
-        
-        <encodingDesc>
-            <editorialDecl>
-                <correction>
-                    <p></p>
-                </correction>
-                <normalization>
-                    <p></p>
-                </normalization>
-            </editorialDecl>
-        </encodingDesc>
-        
-        <profileDesc>
-            <textClass>
-                <keywords scheme="original" n="category">
-                    <term>Correspondence</term>
-                </keywords>
-                <keywords scheme="original" n="subcategory">
-                    <term>Business</term>
-                </keywords>
-                <keywords scheme="original" n="topic">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="keywords">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="people">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="places">
-                    <term></term>
-                </keywords>
-            </textClass>
-            <particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
-        </profileDesc>
-        
-        <revisionDesc>
-            <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
-            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
-            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
-            
-        </revisionDesc>
-    </teiHeader>
-    
-    <text>
-        <body>
-            
-            <div1 type="letter">
-                
-                <pb facs="nei.j4c.53.17" />
-                
-                <note type="curatorial">306-1 Aly Collection</note>                                 <fw type="curatorial">17</fw>
-                
-                <opener>
-                    <dateline>
-                Skyrim Farm
-                Rt#7
-                Columbia, Mo. 65201
-                
-                September 12
-                1 9 6 7
-                    </dateline>
-                
-                <salute>Dear Lucile:</salute>
-                </opener>
-                <p>I excuse your use of the typewriter, and beg you to excuse my use of it. In each case it's better for my eyes, which seem to have seen too much of this world.</p>
-                
-                <p>I am delighted to note by Miss Faulkner's letter that she was well impressed with the chapters you left with her.</p>
-                
-                <p>I wish there were some way for us to be together for some real effective work. There is much to do on certain portions of the <hi rend="caps">MS</hi>, as you know. Perhaps Enid and I could do the work here, in which case it would be necessary for you to make the corrections and return a revised version for checking. Surely you know that I would be acting as a friend to you and to your work. I want this to be a fine achievement, and it can be. Are you planning on sending <hi rend="caps">MS</hi> on to Enid and me very soon? This Thursday I am going back to Lincoln, and on Friday, the 15th, the Youngs and I will set out by car for the Forks of the Grand River in north-western South Dakota. We want to see the monument that we erected fourty-four years ago. It was defaced several years ago and the brass plate was stolen. Since then Fish and Wild Life<sic>Wildlife</sic> and the Historical Society have supplied a cast aluminum plate with the original inscription on it. We are looking forward to a happy adventure. &#8212;&#8212; happy and a little sad. The Youngs were on their honeymoon when we built the monument. The three of us are the only survivors of those 44 years, and we have become grandparents and I a great-grandparent. The Forks of the Grand where old Hugh encountered the bear are 90 ft. under water. Progress has built a dam. (Civilization does seem sometimes to be a planetary disease, but this is not intended as a serious comment.)</p>
-                
-                <p>By the way, it occurs to me to remark that I am sure you don't really want to use the quotation from the letter about monkeys. It would be very bad taste to use it, as you will agree, and no good purpose would be served. It, in no way, represents me; and the person to whom it was written was an intimate friend with whom I had a special relationship. We were free to be as Rabelaisian as we liked, and what we did in that little world was private and largely jocular. I doubt if women commonly understand such relationships.</p> 
-                
-                <p>Write me a nice, encouraging letter, and tell me that you are still my friend and the friend of my work; for this is what I believe. Just make me happier by reassuring me.</p>
-                <closer>
-                <salute>With affection for you and Bower, and some special pettings for my sweet little friend Jingle.</salute>
-                
-                <signed>John Neihardt.</signed>
-                </closer>
-                
-            </div1>
-        </body>
-        
-        <back></back>
-    </text>
+<idno>nei.j4c.53.17</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
+<date when="1967-09-12">September 12, 1967</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>1 type-written page</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>1 page
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+</condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="type"><p>Media: type</p></handNote>
+<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+
+
+
+
+
+
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+<date when="1900"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName></persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4c.53.17" />
+
+<note type="curatorial">306-1 Aly Collection</note> <fw type="curatorial">17</fw>
+
+<opener>
+<dateline>
+Skyrim Farm
+Rt#7
+Columbia, Mo. 65201
+
+September 12
+1 9 6 7
+</dateline>
+
+<salute>Dear Lucile:</salute>
+</opener>
+<p>I excuse your use of the typewriter, and beg you to excuse my use of it. In each case it's better for my eyes, which seem to have seen too much of this world.</p>
+
+<p>I am delighted to note by Miss Faulkner's letter that she was well impressed with the chapters you left with her.</p>
+
+<p>I wish there were some way for us to be together for some real effective work. There is much to do on certain portions of the <hi rend="caps">MS</hi>, as you know. Perhaps Enid and I could do the work here, in which case it would be necessary for you to make the corrections and return a revised version for checking. Surely you know that I would be acting as a friend to you and to your work. I want this to be a fine achievement, and it can be. Are you planning on sending <hi rend="caps">MS</hi> on to Enid and me very soon? This Thursday I am going back to Lincoln, and on Friday, the 15th, the Youngs and I will set out by car for the Forks of the Grand River in north-western South Dakota. We want to see the monument that we erected fourty-four years ago. It was defaced several years ago and the brass plate was stolen. Since then Fish and Wild Life<sic>Wildlife</sic> and the Historical Society have supplied a cast aluminum plate with the original inscription on it. We are looking forward to a happy adventure. &#8212;&#8212; happy and a little sad. The Youngs were on their honeymoon when we built the monument. The three of us are the only survivors of those 44 years, and we have become grandparents and I a great-grandparent. The Forks of the Grand where old Hugh encountered the bear are 90 ft. under water. Progress has built a dam. (Civilization does seem sometimes to be a planetary disease, but this is not intended as a serious comment.)</p>
+
+<p>By the way, it occurs to me to remark that I am sure you don't really want to use the quotation from the letter about monkeys. It would be very bad taste to use it, as you will agree, and no good purpose would be served. It, in no way, represents me; and the person to whom it was written was an intimate friend with whom I had a special relationship. We were free to be as Rabelaisian as we liked, and what we did in that little world was private and largely jocular. I doubt if women commonly understand such relationships.</p> 
+
+<p>Write me a nice, encouraging letter, and tell me that you are still my friend and the friend of my work; for this is what I believe. Just make me happier by reassuring me.</p>
+<closer>
+<salute>With affection for you and Bower, and some special pettings for my sweet little friend Jingle.</salute>
+
+<signed>John Neihardt.</signed>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
 </TEI>

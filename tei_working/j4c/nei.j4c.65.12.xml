@@ -1,178 +1,189 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.65.12">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title type="main">Letter from John G. Neihardt to Louise Stegner, January 31, 1973</title>
-                <author>Neihardt, John Gneisenau, 1881-1973</author>
-                <principal>Gossin, Pamela</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date>2013</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <authority>The Papers of John G. Neihardt</authority>
-                <publisher>University of Nebraska-Lincoln</publisher>
-                <distributor>
-                    <name>Center for Digital Research in the Humanities</name>
-                    <address>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Louise Stegner, January 31, 1973</title>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
 <addrLine>319 Love Library</addrLine>
 <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 <addrLine>cdrh@unlnotes.unl.edu</addrLine>
 </address>
-                </distributor>
-                <pubPlace>Lincoln, Nebraska</pubPlace> 
-                <address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-                <idno>nei.j4c.65.12</idno>
-                <availability>
-                    <p></p>
-                </availability>
-            </publicationStmt>
-            
-            <notesStmt><note></note></notesStmt>
-            
-            <sourceDesc>
-                <bibl>
-                    <author>Neihardt, John Gneisenau, 1881-1973</author>
-                    <title level="m" type="main">Letter from John G. Neihardt to Louise Stegner</title>
-                    <date when="1973-01-31">January 31, 1973</date>
-                    <extent>1 page</extent>
-                </bibl>
-                <msDesc>
-                    <msIdentifier>
-                        <repository></repository>
-                        <idno></idno>
-                    </msIdentifier>
-                    <msContents>
-                        <p>1 type-written page</p>
-                    </msContents>
-                    <physDesc>
-                        <objectDesc>
-                            <supportDesc>
-                                <support></support>
-                                <extent>1 type
-                                    <dimensions unit="mm"><height></height><width></width></dimensions>
-                                </extent>
-                                <condition>
-                                    <p></p></condition>
-                            </supportDesc>
-                        </objectDesc>
-                        <handDesc hands="1">
-                            <handNote xml:id="type"><p>Media: type</p></handNote>
-                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-                        </handDesc>
-                        <typeDesc>
-                            <typeNote><p></p></typeNote>
-                        </typeDesc>
-                    </physDesc>
-                    <history><origin></origin>
-                        <provenance></provenance>
-                        <acquisition></acquisition>
-                    </history>
-                </msDesc>
-                
-            </sourceDesc>
-        </fileDesc>
-        
-        <encodingDesc>
-            <editorialDecl>
-                <correction>
-                    <p></p>
-                </correction>
-                <normalization>
-                    <p></p>
-                </normalization>
-            </editorialDecl>
-        </encodingDesc>
-        
-        <profileDesc>
-            <textClass>
-                <keywords scheme="original" n="category">
-                    <term>Correspondence</term>
-                </keywords>
-                <keywords scheme="original" n="subcategory">
-                    <term>Business</term>
-                </keywords>
-                <keywords scheme="original" n="topic">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="keywords">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="people">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="places">
-                    <term></term>
-                </keywords>
-            </textClass>
-            <particDesc><person role="recipient"><persName>Stegner, Louise</persName></person></particDesc>
-        </profileDesc>
-        
-        <revisionDesc>
-            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
-            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
-            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
-            
-        </revisionDesc>
-    </teiHeader>
-    
-    <text>
-        <body>
-            
-            <div1 type="letter">
-                
-                <pb facs="nei.j4c.65.12" />
-                
-                <fw type="curatorial">12</fw>
-                
-                <opener>
-                    <dateline>
-                        5835 Vine Street
-                        Lincoln, Nebraska
-                        January 31, 1973
-                    </dateline>
-                    
-                    <address>
-                        <addrLine>Miss Louise Stegner</addrLine>
-                        <addrLine>1029 South 32nd Street</addrLine>
-                        <addrLine>Omaha, Nebraska 68105</addrLine>
-                    </address>
-                    
-                    <salute>Dear Miss Stegner:</salute>
-                </opener>
-                <p>It was a real pleasure to hear from you for it is clear to me that we have a great deal in common. To begin with, we have 92 years in common, which is a lot of years. And second, you were a friend of my old friend, <hi rend="caps">J. G.</hi> Masters. I remember giving a program of my work to the high school there when Masters was principal, and if you were around there at the time I am sure I must have met you.</p>
-                
-                <p>It is not impossible that I may be able to meet you sometime during the coming year. On our next trip to Omaha, whenever that is, we will make an effort to see you.</p>
-                
-                <p>I am at work on the second volume of my autobiography. I take it that you know the first volume.</p>
-                
-                <p>I note that you spent some years in collecting copies of my work. Do you have any on hand now? If you have any for sale, I should like to have a list with prices. I have friends who are looking for my first editions, and I, myself, pick up firsts when I run across them.</p>
-                <closer>
-                    <salute>With all kind thoughts,</salute>
-                    
-                    
-                    <signed>John G. Neihardt</signed>
-                </closer>
-                
-                <postscript>
-                    <opener><hi rend="caps">P.S.</hi></opener> <p>United Artists have contracted to produce an album of my recitations. I expect to do the recording within a month. They are sending a sound truck from Hollywood to do the job.</p> <closer>&#8212; <signed>J.N.</signed>
-                    
-                    <note>JGN:nh</note></closer>
-                </postscript>
-                
-            </div1>
-        </body>
-        <back></back>
-    </text>
+<idno>nei.j4c.65.12</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<title level="m" type="main">Letter from John G. Neihardt to Louise Stegner</title>
+<date when="1973-01-31">January 31, 1973</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>1 type-written page</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>1 type
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+</condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="type"><p>Media: type</p></handNote>
+<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+
+
+
+
+
+
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+<date when="1900"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName></persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Stegner, Louise</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4c.65.12" />
+
+<fw type="curatorial">12</fw>
+
+<opener>
+<dateline>
+5835 Vine Street
+Lincoln, Nebraska
+January 31, 1973
+</dateline>
+
+<address>
+<addrLine>Miss Louise Stegner</addrLine>
+<addrLine>1029 South 32nd Street</addrLine>
+<addrLine>Omaha, Nebraska 68105</addrLine>
+</address>
+
+<salute>Dear Miss Stegner:</salute>
+</opener>
+<p>It was a real pleasure to hear from you for it is clear to me that we have a great deal in common. To begin with, we have 92 years in common, which is a lot of years. And second, you were a friend of my old friend, <hi rend="caps">J. G.</hi> Masters. I remember giving a program of my work to the high school there when Masters was principal, and if you were around there at the time I am sure I must have met you.</p>
+
+<p>It is not impossible that I may be able to meet you sometime during the coming year. On our next trip to Omaha, whenever that is, we will make an effort to see you.</p>
+
+<p>I am at work on the second volume of my autobiography. I take it that you know the first volume.</p>
+
+<p>I note that you spent some years in collecting copies of my work. Do you have any on hand now? If you have any for sale, I should like to have a list with prices. I have friends who are looking for my first editions, and I, myself, pick up firsts when I run across them.</p>
+<closer>
+<salute>With all kind thoughts,</salute>
+
+
+<signed>John G. Neihardt</signed>
+</closer>
+
+<postscript>
+<opener><hi rend="caps">P.S.</hi></opener> <p>United Artists have contracted to produce an album of my recitations. I expect to do the recording within a month. They are sending a sound truck from Hollywood to do the job.</p> <closer>&#8212; <signed>J.N.</signed>
+
+<note>JGN:nh</note></closer>
+</postscript>
+
+</div1>
+</body>
+<back></back>
+</text>
 </TEI>
 
 

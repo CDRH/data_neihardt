@@ -1,219 +1,230 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.61.22-24_0001-3">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, April 9, 1970</title>
-                <author>Neihardt, John Gneisenau, 1881-1973</author>
-                <principal>Gossin, Pamela</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date>2013</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <authority>The Papers of John G. Neihardt</authority>
-                <publisher>University of Nebraska-Lincoln</publisher>
-                <distributor>
-                    <name>Center for Digital Research in the Humanities</name>
-                    <address>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, April 9, 1970</title>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
 <addrLine>319 Love Library</addrLine>
 <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 <addrLine>cdrh@unlnotes.unl.edu</addrLine>
 </address>
-                </distributor>
-                <pubPlace>Lincoln, Nebraska</pubPlace> 
-                <address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-                <idno>nei.j4c.61.22-24_0001-3</idno>
-                <availability>
-                    <p></p>
-                </availability>
-            </publicationStmt>
-            
-            <notesStmt><note></note></notesStmt>
-            
-            <sourceDesc>
-                <bibl>
-                    <author>Neihardt, John Gneisenau, 1881-1973</author>
-                    <title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
-                    <date when="1970-04-09">April 9, 1970</date>
-                    <extent>4 pages, plus envelope</extent>
-                </bibl>
-                <msDesc>
-                    <msIdentifier>
-                        <repository></repository>
-                        <idno></idno>
-                    </msIdentifier>
-                    <msContents>
-                        <p>4 hand-written pages, plus envelope</p>
-                    </msContents>
-                    <physDesc>
-                        <objectDesc>
-                            <supportDesc>
-                                <support></support>
-                                <extent>4 pages
-                                    <dimensions unit="mm"><height></height><width></width></dimensions>
-                                </extent>
-                                <condition>
-                                    <p></p></condition>
-                            </supportDesc>
-                        </objectDesc>
-                        <handDesc hands="2">
-                            <handNote xml:id="type"><p>Media: type</p></handNote>
-                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-                        </handDesc>
-                        <typeDesc>
-                            <typeNote><p></p></typeNote>
-                        </typeDesc>
-                    </physDesc>
-                    <history><origin></origin>
-                        <provenance></provenance>
-                        <acquisition></acquisition>
-                    </history>
-                </msDesc>
-                
-            </sourceDesc>
-        </fileDesc>
-        
-        <encodingDesc>
-            <editorialDecl>
-                <correction>
-                    <p></p>
-                </correction>
-                <normalization>
-                    <p></p>
-                </normalization>
-            </editorialDecl>
-        </encodingDesc>
-        
-        <profileDesc>
-            <textClass>
-                <keywords scheme="original" n="category">
-                    <term>Correspondence</term>
-                </keywords>
-                <keywords scheme="original" n="subcategory">
-                    <term>Business</term>
-                </keywords>
-                <keywords scheme="original" n="topic">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="keywords">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="people">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="places">
-                    <term></term>
-                </keywords>
-            </textClass>
-            <particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
-        </profileDesc>
-        
-        <revisionDesc>
-            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
-            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
-            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
-            
-        </revisionDesc>
-    </teiHeader>
-    
-    <text>
-        <body>
-            
-            <div1 type="letter">
-                
-                <pb facs="nei.j4c.61.22-24_0001a" />
-                
-                <note type="curatorial">Aly Collection</note>
-                
-                <opener>
-                    <dateline>4-9-'70</dateline>
-                
-                    <salute>Dear Lucile:</salute>
-                </opener>
-                <p>I have been poring over your Bibliography for some hours. I am flabbergasted <hi rend="underline">and</hi> delighted! I had not the slightest notion of anything so <hi rend="underline">extensive</hi> and <hi rend="underline">revealing. It's tremendous</hi>.</p>
-                
-                <p>In reading the bibliography I have run across things once important to me and grown vague &#8212; even <del><hi rend="double underline">poems</hi></del> <hi rend="underline">poems</hi> 
-                    
-                    <pb facs="nei.j4c.61.22-24_0001b"/>
-                    
-                    <fw type="authorial">-2-</fw>
-                    
-                    that I've wanted to see again.</p>
-                
-                <p>But, the most cheering discovery was the list of <hi rend="double underline">articles</hi>, many of which Florence and I have been seeking in the wrong places through microfilms! <hi rend="underline">Now</hi> we can turn directly to articles long sought.</p>
-                
-                <p>Lucile, you have done an <hi rend="underline">astonishing</hi> <del>job</del> job of <hi rend="double underline">research</hi>! And your analyses of literary values are
-                    
-                    <fw type="curatorial">22</fw>
-                    
-                    <pb facs="nei.j4c.61.22-24_0002a"/>
-                    
-                    <fw type="authorial">-3-</fw>
-                    
-                    very finely done. It is going to be a major thrill of my life to hold your book in my hand. (Hasten the day!)</p>
-                
-                <p>Yesterday, Florence and I delivered <hi rend="double underline">my</hi> <hi rend="caps">MS</hi> to Bruce Nicoll. We had a happy time together, and there was some talk of how the two books may best be handled.
-                    
-                    <pb facs="nei.j4c.61.22-24_0002b"/>
-                    
-                    <fw type="authorial">-4-</fw>
-                    
-                    I showed a paragraph from a letter of yours <hi rend="underline">Last October</hi> &#8212; about <hi rend="underline">possible</hi> <hi rend="double underline">conflicts</hi> in our two books. He said he was <hi rend="underline">very glad</hi> to have your statement about this; and <del/> we agreed that there <hi rend="underline">should</hi> be a <hi rend="double underline">best</hi> way to give the two books <del>to</del> to the public.</p>
-                
-                <p>It is <add>a</add> breath-taking<sic>breathtaking</sic> situation!!</p>
-                
-                <p>Our movie prospects are <hi rend="double underline">most exciting</hi>.</p>
-                <closer>
-                    <salute><hi rend="underline">Love, dear lady</hi>, to you, Bower, etc.</salute>
-                
-                    <signed>&#8212; John. Neihardt</signed>
-                </closer>
-                
-                <fw type="curatorial">23</fw>
-                
-            </div1>
-            
-            
-            <div1 type="envelope">
-                
-                <pb facs="nei.j4c.61.22-24_0003"/>
-            
-                <note type="authorial">==============
-               <hi rend="double underline">Air Mail</hi></note>
-                
-                <ab type="postmark">LINCOLN. NE PM 9 APR 1970 IA</ab>
-                <figure>
-                    <figDesc>5 Cent Stamp</figDesc>
-                    <p>5¢</p>
-                </figure>
-                <figure>
-                    <figDesc>5 Cent Stamp</figDesc>
-                    <p>5¢</p>
-                </figure>
-                
-                <ab type="address">
-                    <address>
-                        <addrLine>Dr. Lucile Aly,</addrLine>
-                        <addrLine>1138 22nd Ave., East</addrLine>
-                        <addrLine>Eugene, 97403</addrLine>
-                        <addrLine>Oregon.</addrLine>
-                    </address>
-                </ab>
-                
-                <fw type="curatorial">24</fw>
-                
-            </div1>
-        </body>
-        
-        <back></back>
-    </text>
+<idno>nei.j4c.61.22-24_0001-3</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
+<date when="1970-04-09">April 9, 1970</date>
+<extent>4 pages, plus envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>4 hand-written pages, plus envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>4 pages
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+</condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="2">
+<handNote xml:id="type"><p>Media: type</p></handNote>
+<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+
+
+
+
+
+
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+<date when="1900"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName></persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4c.61.22-24_0001a" />
+
+<note type="curatorial">Aly Collection</note>
+
+<opener>
+<dateline>4-9-'70</dateline>
+
+<salute>Dear Lucile:</salute>
+</opener>
+<p>I have been poring over your Bibliography for some hours. I am flabbergasted <hi rend="underline">and</hi> delighted! I had not the slightest notion of anything so <hi rend="underline">extensive</hi> and <hi rend="underline">revealing. It's tremendous</hi>.</p>
+
+<p>In reading the bibliography I have run across things once important to me and grown vague &#8212; even <del><hi rend="double underline">poems</hi></del> <hi rend="underline">poems</hi> 
+
+<pb facs="nei.j4c.61.22-24_0001b"/>
+
+<fw type="authorial">-2-</fw>
+
+that I've wanted to see again.</p>
+
+<p>But, the most cheering discovery was the list of <hi rend="double underline">articles</hi>, many of which Florence and I have been seeking in the wrong places through microfilms! <hi rend="underline">Now</hi> we can turn directly to articles long sought.</p>
+
+<p>Lucile, you have done an <hi rend="underline">astonishing</hi> <del>job</del> job of <hi rend="double underline">research</hi>! And your analyses of literary values are
+
+<fw type="curatorial">22</fw>
+
+<pb facs="nei.j4c.61.22-24_0002a"/>
+
+<fw type="authorial">-3-</fw>
+
+very finely done. It is going to be a major thrill of my life to hold your book in my hand. (Hasten the day!)</p>
+
+<p>Yesterday, Florence and I delivered <hi rend="double underline">my</hi> <hi rend="caps">MS</hi> to Bruce Nicoll. We had a happy time together, and there was some talk of how the two books may best be handled.
+
+<pb facs="nei.j4c.61.22-24_0002b"/>
+
+<fw type="authorial">-4-</fw>
+
+I showed a paragraph from a letter of yours <hi rend="underline">Last October</hi> &#8212; about <hi rend="underline">possible</hi> <hi rend="double underline">conflicts</hi> in our two books. He said he was <hi rend="underline">very glad</hi> to have your statement about this; and <del/> we agreed that there <hi rend="underline">should</hi> be a <hi rend="double underline">best</hi> way to give the two books <del>to</del> to the public.</p>
+
+<p>It is <add>a</add> breath-taking<sic>breathtaking</sic> situation!!</p>
+
+<p>Our movie prospects are <hi rend="double underline">most exciting</hi>.</p>
+<closer>
+<salute><hi rend="underline">Love, dear lady</hi>, to you, Bower, etc.</salute>
+
+<signed>&#8212; John. Neihardt</signed>
+</closer>
+
+<fw type="curatorial">23</fw>
+
+</div1>
+
+
+<div1 type="envelope">
+
+<pb facs="nei.j4c.61.22-24_0003"/>
+
+<note type="authorial">==============
+   <hi rend="double underline">Air Mail</hi></note>
+
+<ab type="postmark">LINCOLN. NE PM 9 APR 1970 IA</ab>
+<figure>
+<figDesc>5 Cent Stamp</figDesc>
+<p>5¢</p>
+</figure>
+<figure>
+<figDesc>5 Cent Stamp</figDesc>
+<p>5¢</p>
+</figure>
+
+<ab type="address">
+<address>
+<addrLine>Dr. Lucile Aly,</addrLine>
+<addrLine>1138 22nd Ave., East</addrLine>
+<addrLine>Eugene, 97403</addrLine>
+<addrLine>Oregon.</addrLine>
+</address>
+</ab>
+
+<fw type="curatorial">24</fw>
+
+</div1>
+</body>
+
+<back></back>
+</text>
 </TEI>

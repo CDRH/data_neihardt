@@ -1,222 +1,233 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.61.44-46_0001-3">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, July 22, 1970</title>
-                <author>Neihardt, John Gneisenau, 1881-1973</author>
-                <principal>Gossin, Pamela</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date>2013</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <authority>The Papers of John G. Neihardt</authority>
-                <publisher>University of Nebraska-Lincoln</publisher>
-                <distributor>
-                    <name>Center for Digital Research in the Humanities</name>
-                    <address>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, July 22, 1970</title>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
 <addrLine>319 Love Library</addrLine>
 <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 <addrLine>cdrh@unlnotes.unl.edu</addrLine>
 </address>
-                </distributor>
-                <pubPlace>Lincoln, Nebraska</pubPlace> 
-                <address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-                <idno>nei.j4c.61.44-46_0001-3</idno>
-                <availability>
-                    <p></p>
-                </availability>
-            </publicationStmt>
-            
-            <notesStmt><note></note></notesStmt>
-            
-            <sourceDesc>
-                <bibl>
-                    <author>Neihardt, John Gneisenau, 1881-1973</author>
-                    <title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
-                    <date when="1970-07-22">July 22, 1970</date>
-                    <extent>4 pages, plus envelope</extent>
-                </bibl>
-                <msDesc>
-                    <msIdentifier>
-                        <repository></repository>
-                        <idno></idno>
-                    </msIdentifier>
-                    <msContents>
-                        <p>4 hand-written pages, plus envelope</p>
-                    </msContents>
-                    <physDesc>
-                        <objectDesc>
-                            <supportDesc>
-                                <support></support>
-                                <extent>4 pages
-                                    <dimensions unit="mm"><height></height><width></width></dimensions>
-                                </extent>
-                                <condition>
-                                    <p></p></condition>
-                            </supportDesc>
-                        </objectDesc>
-                        <handDesc hands="1">
-                            <handNote xml:id="type"><p>Media: type</p></handNote>
-                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-                        </handDesc>
-                        <typeDesc>
-                            <typeNote><p></p></typeNote>
-                        </typeDesc>
-                    </physDesc>
-                    <history><origin></origin>
-                        <provenance></provenance>
-                        <acquisition></acquisition>
-                    </history>
-                </msDesc>
-                
-            </sourceDesc>
-        </fileDesc>
-        
-        <encodingDesc>
-            <editorialDecl>
-                <correction>
-                    <p></p>
-                </correction>
-                <normalization>
-                    <p></p>
-                </normalization>
-            </editorialDecl>
-        </encodingDesc>
-        
-        <profileDesc>
-            <textClass>
-                <keywords scheme="original" n="category">
-                    <term>Correspondence</term>
-                </keywords>
-                <keywords scheme="original" n="subcategory">
-                    <term>Business</term>
-                </keywords>
-                <keywords scheme="original" n="topic">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="keywords">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="people">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="places">
-                    <term></term>
-                </keywords>
-            </textClass>
-            <particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
-        </profileDesc>
-        
-        <revisionDesc>
-            <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
-            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
-            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
-            
-        </revisionDesc>
-    </teiHeader>
-    
-    <text>
-        <body>
-            
-            <div1 type="letter">
-                
-                <pb facs="nei.j4c.61.44-46_0001a" />
-                                
-                <note type="curatorial">Aly Collection</note>
-                
-                <opener>
-                    <dateline>July 22, 1970</dateline>
-     
-                    <salute>Dear Lucile:</salute>
-                </opener>
-                <p>That was a bully letter and very welcome &#8212; But I had hoped you would tell me that your <hi rend="caps">MS</hi> was accepted and was scheduled for publication. I have hoped you were reserving the information to be divulged as a surprise.</p>
-                
-                <p>Anyway, it's a whale of a book! I've read it various places throughout the <hi rend="caps">MS</hi>, and always I've been
-                    
-                    <pb facs="nei.j4c.61.44-46_0001b"/>
-                    <fw type="authorial">-2-</fw>
-                    
-                    greatly pleased with the quality of the writing.</p>
-                
-                <p>I'm looking forward to our meeting!!</p>
-                
-                <p>Did you <del/><add>know</add> of my accident <del/> on July 2nd? I <del/> fell <hi rend="underline">down</hi> eight or ten stairs and bunged up my back muscles! Pain! Pain! <hi rend="double underline">Wow</hi>! I'm much better. Can get up and down without excruciating pain, and will be ready for Aug 2nd at Bancroft</p>
-                    
-                    <fw type="authorial">44</fw>
-                    <pb facs="nei.j4c.61.44-46_0002a"/>
-                    <fw type="authorial">-3-</fw>
-                    
-                <p>On the 15th of July the Youngs drove me to Brookings <hi rend="caps">SD</hi> (270 miles) <del>to</del> to speak twice at the University on Aug 16. It was really impossible, but <del><unclear>we d</unclear></del> we did it. I spoke twice (morning and <del/> evening) <hi rend="underline">from a wheelchair</hi> &#8212; <hi rend="underline">and it moved them.</hi> No kidding! Really they were quite<del/> <hi rend="underline">wowed</hi>!! I'm proud that I could overcome the pain and do a good job (after riding
-                    
-                    <pb facs="nei.j4c.61.44-46_0002b"/>
-                    <fw type="authorial">-4-</fw>
-                    
-                    so far in a car.)</p>
-                
-                <p>I'm getting better and better now.</p>
-                
-                <p>Today I began writing again after three weeks of pain.</p>
-                <closer>
-                    <salute>Love to you, dear Lady, and to your dear ones.</salute>
-                
-                    <signed>John Neihardt</signed>
-                </closer>
-                
-                <postscript>
-                <p>I <hi rend="underline">do</hi> hope the Press was favorably impressed and is planning to publish</p>
-                <closer>
-                    <signed>J. N.</signed>
-                </closer>
-                </postscript>
-                
-                <postscript>
-                <p>The trip to Bancroft is arranged.</p>
-                </postscript>
-                
-                <fw type="curatorial">45</fw>
-                
-            </div1>
-            
-            
-            <div1 type="envelope">
-                
-                <pb facs="nei.j4c.61.44-46_0003"/>
-                
-                <ab type="postmark">LINCO<unclear cert="high">LN. N</unclear>E PM 23 JUL 1970</ab>
-                <figure>
-                    <figDesc>5 Cent Stamp</figDesc>
-                    <p>5¢</p>
-                </figure>
-                <figure>
-                    <figDesc>5 Cent Stamp</figDesc>
-                    <p>5¢</p>
-                </figure>
-                
-                <ab type="address">
-                    <address>
-                        <addrLine>Dr Lucile <unclear cert="high">Aly</unclear></addrLine>
-                        <addrLine>1138 &#8212; 22nd Ave <unclear cert="high">East</unclear></addrLine>
-                        <addrLine>Eugene</addrLine>
-                        <addrLine>Oregon</addrLine>
-                        <addrLine>97403</addrLine>
-                    </address>
-                </ab>
-                
-                <fw type="curatorial">46</fw>
-                
-            </div1>
-        </body>
-        
-        <back></back>
-    </text>
+<idno>nei.j4c.61.44-46_0001-3</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
+<date when="1970-07-22">July 22, 1970</date>
+<extent>4 pages, plus envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>4 hand-written pages, plus envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>4 pages
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+</condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="type"><p>Media: type</p></handNote>
+<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+
+
+
+
+
+
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+<date when="1900"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName></persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4c.61.44-46_0001a" />
+
+<note type="curatorial">Aly Collection</note>
+
+<opener>
+<dateline>July 22, 1970</dateline>
+ 
+<salute>Dear Lucile:</salute>
+</opener>
+<p>That was a bully letter and very welcome &#8212; But I had hoped you would tell me that your <hi rend="caps">MS</hi> was accepted and was scheduled for publication. I have hoped you were reserving the information to be divulged as a surprise.</p>
+
+<p>Anyway, it's a whale of a book! I've read it various places throughout the <hi rend="caps">MS</hi>, and always I've been
+
+<pb facs="nei.j4c.61.44-46_0001b"/>
+<fw type="authorial">-2-</fw>
+
+greatly pleased with the quality of the writing.</p>
+
+<p>I'm looking forward to our meeting!!</p>
+
+<p>Did you <del/><add>know</add> of my accident <del/> on July 2nd? I <del/> fell <hi rend="underline">down</hi> eight or ten stairs and bunged up my back muscles! Pain! Pain! <hi rend="double underline">Wow</hi>! I'm much better. Can get up and down without excruciating pain, and will be ready for Aug 2nd at Bancroft</p>
+
+<fw type="authorial">44</fw>
+<pb facs="nei.j4c.61.44-46_0002a"/>
+<fw type="authorial">-3-</fw>
+
+<p>On the 15th of July the Youngs drove me to Brookings <hi rend="caps">SD</hi> (270 miles) <del>to</del> to speak twice at the University on Aug 16. It was really impossible, but <del><unclear>we d</unclear></del> we did it. I spoke twice (morning and <del/> evening) <hi rend="underline">from a wheelchair</hi> &#8212; <hi rend="underline">and it moved them.</hi> No kidding! Really they were quite<del/> <hi rend="underline">wowed</hi>!! I'm proud that I could overcome the pain and do a good job (after riding
+
+<pb facs="nei.j4c.61.44-46_0002b"/>
+<fw type="authorial">-4-</fw>
+
+so far in a car.)</p>
+
+<p>I'm getting better and better now.</p>
+
+<p>Today I began writing again after three weeks of pain.</p>
+<closer>
+<salute>Love to you, dear Lady, and to your dear ones.</salute>
+
+<signed>John Neihardt</signed>
+</closer>
+
+<postscript>
+<p>I <hi rend="underline">do</hi> hope the Press was favorably impressed and is planning to publish</p>
+<closer>
+<signed>J. N.</signed>
+</closer>
+</postscript>
+
+<postscript>
+<p>The trip to Bancroft is arranged.</p>
+</postscript>
+
+<fw type="curatorial">45</fw>
+
+</div1>
+
+
+<div1 type="envelope">
+
+<pb facs="nei.j4c.61.44-46_0003"/>
+
+<ab type="postmark">LINCO<unclear cert="high">LN. N</unclear>E PM 23 JUL 1970</ab>
+<figure>
+<figDesc>5 Cent Stamp</figDesc>
+<p>5¢</p>
+</figure>
+<figure>
+<figDesc>5 Cent Stamp</figDesc>
+<p>5¢</p>
+</figure>
+
+<ab type="address">
+<address>
+<addrLine>Dr Lucile <unclear cert="high">Aly</unclear></addrLine>
+<addrLine>1138 &#8212; 22nd Ave <unclear cert="high">East</unclear></addrLine>
+<addrLine>Eugene</addrLine>
+<addrLine>Oregon</addrLine>
+<addrLine>97403</addrLine>
+</address>
+</ab>
+
+<fw type="curatorial">46</fw>
+
+</div1>
+</body>
+
+<back></back>
+</text>
 </TEI>

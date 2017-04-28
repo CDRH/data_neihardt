@@ -1,237 +1,248 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.42.30-32_0001-3">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, March 28, 1964</title>
-                <author>Neihardt, John Gneisenau, 1881-1973</author>
-                <principal>Gossin, Pamela</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date>2013</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <authority>The Papers of John G. Neihardt</authority>
-                <publisher>University of Nebraska-Lincoln</publisher>
-                <distributor>
-                    <name>Center for Digital Research in the Humanities</name>
-                    <address>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, March 28, 1964</title>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
 <addrLine>319 Love Library</addrLine>
 <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 <addrLine>cdrh@unlnotes.unl.edu</addrLine>
 </address>
-                </distributor>
-                <pubPlace>Lincoln, Nebraska</pubPlace> 
-                <address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-                <idno>nei.j4c.42.30-32_0001-3</idno>
-                <availability>
-                    <p></p>
-                </availability>
-            </publicationStmt>
-            
-            <notesStmt><note></note></notesStmt>
-            
-            <sourceDesc>
-                <bibl>
-                    <author>Neihardt, John Gneisenau, 1881-1973</author>
-                    <title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
-                    <date when="1964-03-28">March 28, 1964</date>
-                    <extent>4 pages, plus envelope</extent>
-                </bibl>
-                <msDesc>
-                    <msIdentifier>
-                        <repository></repository>
-                        <idno></idno>
-                    </msIdentifier>
-                    <msContents>
-                        <p>4 hand-written pages, plus envelope</p>
-                    </msContents>
-                    <physDesc>
-                        <objectDesc>
-                            <supportDesc>
-                                <support></support>
-                                <extent>4 pages
-                                    <dimensions unit="mm"><height></height><width></width></dimensions>
-                                </extent>
-                                <condition>
-                                    <p></p></condition>
-                            </supportDesc>
-                        </objectDesc>
-                        <handDesc hands="1">
-                            <handNote xml:id="type"><p>Media: type</p></handNote>
-                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-                        </handDesc>
-                        <typeDesc>
-                            <typeNote><p></p></typeNote>
-                        </typeDesc>
-                    </physDesc>
-                    <history><origin></origin>
-                        <provenance></provenance>
-                        <acquisition></acquisition>
-                    </history>
-                </msDesc>
-                
-            </sourceDesc>
-        </fileDesc>
-        
-        <encodingDesc>
-            <editorialDecl>
-                <correction>
-                    <p></p>
-                </correction>
-                <normalization>
-                    <p></p>
-                </normalization>
-            </editorialDecl>
-        </encodingDesc>
-        
-        <profileDesc>
-            <textClass>
-                <keywords scheme="original" n="category">
-                    <term>Correspondence</term>
-                </keywords>
-                <keywords scheme="original" n="subcategory">
-                    <term>Business</term>
-                </keywords>
-                <keywords scheme="original" n="topic">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="keywords">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="people">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="places">
-                    <term></term>
-                </keywords>
-            </textClass>
-            <particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
-        </profileDesc>
-        
-        <revisionDesc>
-            <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
-            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
-            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
-            
-        </revisionDesc>
-    </teiHeader>
-    
-    <text>
-        <body>
-            
-            <div1 type="letter">
-                
-                <pb facs="nei.j4c.42.30-32_0001b" />
-       
-                <opener>
-                <hi rend="double underline">March 28</hi><add><note type="authorial"><hi rend="caps">N. B.</hi></note></add>, 6'4
-                
-                
-                <salute>Dear Lucile:</salute>
-                </opener>
-                <p>I'm a bit worried about you. When you last wrote, Bower was not well, and I could feel that you were <hi rend="double underline">very</hi> busy. (<hi rend="underline">When</hi> aren't you?) It's not that I feel you "owe" me a letter. You don't "owe" me anything; but I don't want you to be sick.</p>
-                
-                <p>Somehow or other, I don't have anything wrong with me (except eye-trouble<sic>eye trouble</sic> <add>and the accident</add>). No cold in six years! How is it possible?</p>
-              
-                <p>I wish you could see <hi rend="underline">The Twilight of the Sioux</hi> on <hi rend="caps">TV</hi>. Lucile, it really <hi rend="double underline">is</hi>
-                    
-                    <note type="authorial">I've just read the Dutch version of Black Elk Speaks. Lovely book!</note>
-                    
-                    <fw type="curatorial">30</fw>
-                    <pb facs="nei.j4c.42.30-32_0001a"/>
-                    <fw type="authorial">-2-</fw>
-                    
-                    good. The stuff even holds me. People like it too. We're now through the preliminary programs on Sioux culture and are in the Wagon Box Fight.</p> 
-               
-                <p>I must send you Auslander's letter on the Cycle. My golly! He surely went "all out", and no qualifications.</p> 
-                
-                <p>My Poetry class is very nice. They are good young people. I hope I can do them some good. At least, I can arouse the suspicion that this life is far more wonderful than it
-                    
-                    <pb facs="nei.j4c.42.30-32_0002a"/>
-                    <fw type="authorial">-3-</fw>
-                    
-                    sometimes seems. <hi rend="double underline">How</hi> we <hi rend="triple underline">do</hi> need <hi rend="underline">knowledge</hi> of continuing life!! We have the data, but the time-mood is negative.</p>
-                
-                <p>Are you <hi rend="underline">really</hi> planning on my coming out there?</p>
-                
-                <p>I was glad to hear from Perky. She may not <hi rend="underline">really</hi> remember me but I remember her with pleasure. My Lassie is almost ridiculously <hi rend="underline">human-like<sic>humanlike</sic></hi>, as a result of being alone with me so much.</p>
-                    
-                    <pb facs="nei.j4c.42.30-32_0002b"/>
-                    <fw type="authorial">-4-</fw>
-                    
-                    <p>Since she was spayed she has gained weight and her hair has become beautiful. She takes good care of me and does all necessary barking by night and day. Also, she attacks suspicious-looking people. Otherwise, she is a perfect lady, a gracious hostess; and she always shakes hands with guests &#8212; both coming and going.</p>
-               
-                <p>I don't like you, so I'll end my letter abruptly and haughtily.</p>
-                <closer>
-                <salute>Yours truly,</salute>
-                <signed>Dr<hi rend="underline">s</hi> Neihardt</signed>
-                </closer>
-                
-                <postscript>
-                <p>I enclose some earlier obiter dicta.</p>
-                </postscript>
-                    
-                    <note type="authorial">Hello good and hard Bower!!</note>
-                
-                <fw type="curatorial">31</fw>
-                
-            </div1>
-                
-                
-            <div1 type="envelope">
-                
-                <pb facs="nei.j4c.42.30-32_0003a"/>
-                
-                <ab type="return">
-                <hi rend="caps">JOHN G. NEIHARDT</hi>     
-                    <lb/>
-                <hi rend="caps">SKYRIM FARM</hi>
-                    <lb/>
-                <hi rend="caps">COLUMBIA, MISSOURI</hi>
-                    <lb/>
-                <del/><hi rend="underline">A &amp; S</hi>
-                219      
-                </ab>
-                    <note type="authorial">Air<hi rend="underline">Mail</hi></note>
-                
-                <ab type="postmark">COLUMBIA, MO. MAR 30 AM 1964</ab>
-                <figure>
-                    <figDesc>5 Cent Stamp</figDesc>
-                    <p><unclear reason="missing" cert="high">5¢ U.S.PO</unclear>STAGE</p>
-                </figure>
-                <figure>
-                    <figDesc>5 Cent Stamp</figDesc>
-                    <p>5¢ U.S.POSTAGE</p>
-                </figure>
-                
-                <ab type="address">
-                    <address>
-                        <addrLine>Dr. Lucile Aly,</addrLine>
-                        <addrLine>1138 22nd Ave., East</addrLine>
-                        <addrLine>Eugene,</addrLine>
-                        <addrLine>Oregon.</addrLine>
-                    </address>
-                </ab>
-                                        
-                        <note type="authorial">(over)</note>
-                
-                <pb facs="nei.j4c.42.30-32_0003b"/>
-                
-                <note type="authorial">Yours of 26th inst. received and contents noted just as this is being <hi rend="double underline">mailed</hi>. J. N.</note>
-            
-            <fw type="curatorial">32</fw>
-            </div1>
-        </body>
-        
-        <back></back>
-    </text>
+<idno>nei.j4c.42.30-32_0001-3</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
+<date when="1964-03-28">March 28, 1964</date>
+<extent>4 pages, plus envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>4 hand-written pages, plus envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>4 pages
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+</condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="type"><p>Media: type</p></handNote>
+<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+
+
+
+
+
+
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+<date when="1900"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName></persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4c.42.30-32_0001b" />
+   
+<opener>
+<hi rend="double underline">March 28</hi><add><note type="authorial"><hi rend="caps">N. B.</hi></note></add>, 6'4
+
+
+<salute>Dear Lucile:</salute>
+</opener>
+<p>I'm a bit worried about you. When you last wrote, Bower was not well, and I could feel that you were <hi rend="double underline">very</hi> busy. (<hi rend="underline">When</hi> aren't you?) It's not that I feel you "owe" me a letter. You don't "owe" me anything; but I don't want you to be sick.</p>
+
+<p>Somehow or other, I don't have anything wrong with me (except eye-trouble<sic>eye trouble</sic> <add>and the accident</add>). No cold in six years! How is it possible?</p>
+  
+<p>I wish you could see <hi rend="underline">The Twilight of the Sioux</hi> on <hi rend="caps">TV</hi>. Lucile, it really <hi rend="double underline">is</hi>
+
+<note type="authorial">I've just read the Dutch version of Black Elk Speaks. Lovely book!</note>
+
+<fw type="curatorial">30</fw>
+<pb facs="nei.j4c.42.30-32_0001a"/>
+<fw type="authorial">-2-</fw>
+
+good. The stuff even holds me. People like it too. We're now through the preliminary programs on Sioux culture and are in the Wagon Box Fight.</p> 
+   
+<p>I must send you Auslander's letter on the Cycle. My golly! He surely went "all out", and no qualifications.</p> 
+
+<p>My Poetry class is very nice. They are good young people. I hope I can do them some good. At least, I can arouse the suspicion that this life is far more wonderful than it
+
+<pb facs="nei.j4c.42.30-32_0002a"/>
+<fw type="authorial">-3-</fw>
+
+sometimes seems. <hi rend="double underline">How</hi> we <hi rend="triple underline">do</hi> need <hi rend="underline">knowledge</hi> of continuing life!! We have the data, but the time-mood is negative.</p>
+
+<p>Are you <hi rend="underline">really</hi> planning on my coming out there?</p>
+
+<p>I was glad to hear from Perky. She may not <hi rend="underline">really</hi> remember me but I remember her with pleasure. My Lassie is almost ridiculously <hi rend="underline">human-like<sic>humanlike</sic></hi>, as a result of being alone with me so much.</p>
+
+<pb facs="nei.j4c.42.30-32_0002b"/>
+<fw type="authorial">-4-</fw>
+
+<p>Since she was spayed she has gained weight and her hair has become beautiful. She takes good care of me and does all necessary barking by night and day. Also, she attacks suspicious-looking people. Otherwise, she is a perfect lady, a gracious hostess; and she always shakes hands with guests &#8212; both coming and going.</p>
+   
+<p>I don't like you, so I'll end my letter abruptly and haughtily.</p>
+<closer>
+<salute>Yours truly,</salute>
+<signed>Dr<hi rend="underline">s</hi> Neihardt</signed>
+</closer>
+
+<postscript>
+<p>I enclose some earlier obiter dicta.</p>
+</postscript>
+
+<note type="authorial">Hello good and hard Bower!!</note>
+
+<fw type="curatorial">31</fw>
+
+</div1>
+
+
+<div1 type="envelope">
+
+<pb facs="nei.j4c.42.30-32_0003a"/>
+
+<ab type="return">
+<hi rend="caps">JOHN G. NEIHARDT</hi> 
+<lb/>
+<hi rend="caps">SKYRIM FARM</hi>
+<lb/>
+<hi rend="caps">COLUMBIA, MISSOURI</hi>
+<lb/>
+<del/><hi rend="underline">A &amp; S</hi>
+219  
+</ab>
+<note type="authorial">Air<hi rend="underline">Mail</hi></note>
+
+<ab type="postmark">COLUMBIA, MO. MAR 30 AM 1964</ab>
+<figure>
+<figDesc>5 Cent Stamp</figDesc>
+<p><unclear reason="missing" cert="high">5¢ U.S.PO</unclear>STAGE</p>
+</figure>
+<figure>
+<figDesc>5 Cent Stamp</figDesc>
+<p>5¢ U.S.POSTAGE</p>
+</figure>
+
+<ab type="address">
+<address>
+<addrLine>Dr. Lucile Aly,</addrLine>
+<addrLine>1138 22nd Ave., East</addrLine>
+<addrLine>Eugene,</addrLine>
+<addrLine>Oregon.</addrLine>
+</address>
+</ab>
+
+<note type="authorial">(over)</note>
+
+<pb facs="nei.j4c.42.30-32_0003b"/>
+
+<note type="authorial">Yours of 26th inst. received and contents noted just as this is being <hi rend="double underline">mailed</hi>. J. N.</note>
+
+<fw type="curatorial">32</fw>
+</div1>
+</body>
+
+<back></back>
+</text>
 </TEI>

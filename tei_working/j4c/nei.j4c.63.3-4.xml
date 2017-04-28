@@ -1,223 +1,234 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.63.3-4_0001-4">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, February 15, 1972</title>
-                <author>Neihardt, John Gneisenau, 1881-1973</author>
-                <principal>Gossin, Pamela</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date>2013</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <authority>The Papers of John G. Neihardt</authority>
-                <publisher>University of Nebraska-Lincoln</publisher>
-                <distributor>
-                    <name>Center for Digital Research in the Humanities</name>
-                    <address>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, February 15, 1972</title>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
 <addrLine>319 Love Library</addrLine>
 <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 <addrLine>cdrh@unlnotes.unl.edu</addrLine>
 </address>
-                </distributor>
-                <pubPlace>Lincoln, Nebraska</pubPlace> 
-                <address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-                <idno>nei.j4c.63.3-4_0001-4</idno>
-                <availability>
-                    <p></p>
-                </availability>
-            </publicationStmt>
-            
-            <notesStmt><note></note></notesStmt>
-            
-            <sourceDesc>
-                <bibl>
-                    <author>Neihardt, John Gneisenau, 1881-1973</author>
-                    <title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
-                    <date when="1972-02-15">February 15, 1972</date>
-                    <extent>8 pages</extent>
-                </bibl>
-                <msDesc>
-                    <msIdentifier>
-                        <repository></repository>
-                        <idno></idno>
-                    </msIdentifier>
-                    <msContents>
-                        <p>8 hand-written pages</p>
-                    </msContents>
-                    <physDesc>
-                        <objectDesc>
-                            <supportDesc>
-                                <support></support>
-                                <extent>8 pages
-                                    <dimensions unit="mm"><height></height><width></width></dimensions>
-                                </extent>
-                                <condition>
-                                    <p></p></condition>
-                            </supportDesc>
-                        </objectDesc>
-                        <handDesc hands="1">
-                            <handNote xml:id="type"><p>Media: type</p></handNote>
-                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-                        </handDesc>
-                        <typeDesc>
-                            <typeNote><p></p></typeNote>
-                        </typeDesc>
-                    </physDesc>
-                    <history><origin></origin>
-                        <provenance></provenance>
-                        <acquisition></acquisition>
-                    </history>
-                </msDesc>
-                
-            </sourceDesc>
-        </fileDesc>
-        
-        <encodingDesc>
-            <editorialDecl>
-                <correction>
-                    <p></p>
-                </correction>
-                <normalization>
-                    <p></p>
-                </normalization>
-            </editorialDecl>
-        </encodingDesc>
-        
-        <profileDesc>
-            <textClass>
-                <keywords scheme="original" n="category">
-                    <term>Correspondence</term>
-                </keywords>
-                <keywords scheme="original" n="subcategory">
-                    <term>Business</term>
-                </keywords>
-                <keywords scheme="original" n="topic">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="keywords">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="people">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="places">
-                    <term></term>
-                </keywords>
-            </textClass>
-            <particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
-        </profileDesc>
-        
-        <revisionDesc>
-            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
-            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
-            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
-            
-        </revisionDesc>
-    </teiHeader>
-    
-    <text>
-        <body>
-            
-            <div1 type="letter">
-                
-                <pb facs="nei.j4c.63.3-4_0001a" />
-                
-                <opener>
-                    <dateline>
-                        5835 Vine
-                        Lincoln, Neb.
-                        68505
-                        _____
-                        Tuesday <hi rend="caps">A. M.</hi>
-                        2-15-'72
-                    </dateline>
-                
-                    <salute>Dear Lucile:</salute>
-                </opener>
-                <p>Your reply to my importunate letter of several days ago came in <unclear>record</unclear> time! &#8212; Practically instantaneous! I do hope my rude protest did not offend you. I <hi rend="underline">do</hi> hope it hurt enough to make you more thoughtful of this
-                    
-                    <pb facs="nei.j4c.63.3-4_0001b"/>
-                    <fw type="curatorial">-2-</fw>
-                    
-                    poor old man who has so few pleasures, but sits around drooling and whispering.</p>
-                
-                <p>No, I was happy to hear from you, and it's good news that you are trying the Mo. University Press. There <hi rend="underline">is</hi> quite a <unclear>tradition</unclear> there, I gather from recent letters. Still, it may be that the popularity of <hi rend="underline">Black Elk</hi> <del/> may create a demand in the <hi rend="underline">commercial publishing</hi> <del><unclear>world</unclear></del>world. Simon &amp; Shuster<sic>Schuster</sic> 
-                    
-                    <fw type="curatorial">3</fw>
-                    <pb facs="nei.j4c.63.3-4_0002a"/>
-                    <fw type="authorial"><unclear>-3</unclear>-</fw>
-                    
-                    certainly put up some <hi rend="underline">real</hi> <hi rend="double underline">money</hi> in advance <del><unclear>if</unclear></del> royalties &#8212; $20,000! Surely something has been happening.</p>
-                
-                <p>I'm champing the bit over Harcourt Brace and the <hi rend="underline">final</hi> chapter I turned <del/> in last week. All who have read or heard the chapter are quite vociferous about it. (Did you notice the <hi rend="double underline">big</hi> <hi rend="underline">words</hi> I have used in this letter <del><unclear>? And</unclear></del> And I don't charge
-                    
-                    <pb facs="nei.j4c.63.3-4_0002b"/>
-                    <fw type="authorial">-4-</fw>
-                    
-                    anything extra for them. I'll bet you ran for the <hi rend="underline">Dictionary</hi>! I'm beginning again on the adult section of the Autobiography. It will be almost wholly made up of <hi rend="underline">episodes</hi>. "Not <del>a dull</del> a dull moment."</p>
-                
-                <p><del><unclear>Just</unclear>,</del> We have just now seen the new bust <del/> of me. Very nice! There are five busts now &#8212; or is it six?</p>
-                
-                <p><del><unclear/> of the</del></p>
-                
-                <p>We are eager to hear from the London publisher &#8212; Barry and Jenkins. They had a 3-weeks <unclear>option.</unclear></p>
-                <closer>
-                    <salute>Endless love &#8212;</salute>
-                
-                    <signed>John Neihardt</signed>
-                </closer>
-                
-                <note type="curatorial"><hi rend="caps">JOHN G. NEIHARDT CENTER</hi></note>
-                
-                <pb facs="nei.j4c.63.3-4_0003a"/>
-                <fw type="authorial">-3-</fw>
-                <postscript>
-                <p>with Dick Cavett's Introduction, may induce some big commercial publisher. <del>to</del> Why not Simon &amp; Shuster<sic>Schuster</sic> (owners of Pocket Book) or Harcourt Brace Jovanovich? I feel pretty sure that Harcourt will be happy with the Autobiography in the Fall.</p>
-                
-                <p>There <hi rend="underline">is</hi>, however, a big revival of Neihardt at <hi rend="caps">M. U.</hi> My <hi rend="caps">TV</hi> 
-                    
-                    <pb facs="nei.j4c.63.3-4_0003b"/>
-                    <fw type="authorial">-4-</fw>
-                    
-                    course is bigger than ever, and students clamoring for admission. At present there is room for only 250 and the rooms are crowded.</p>
-                
-                <p>I've recently heard <del/> the English Dept. at the <hi rend="underline">University</hi> of <hi rend="underline">Nebraska</hi> is planning a Neihardt Memorial &#8212; either <unclear>end</unclear> on the campus, <del><unclear>or perhaps</unclear> a scholarship.</del> in the English Dept.
-                    
-                    <fw type="curatorial">4</fw>
-                    <pb facs="nei.j4c.63.3-4_0004a"/>
-                    <fw type="authorial">-5-</fw>
-                    
-                    <del/>There is some thought of a scholarship.</p>
-                
-                <p>Hilda has just phoned me saying she has received the Contract with Barrie<sic>Barry</sic> and Jenkins of London. Its for a hard-back<sic>hardback</sic> British edition <hi rend="underline">and</hi> a paper back<sic>paperback</sic>. This will include Canada. <del>as well as</del></p>
-                
-                <p>People are going to like the Autobiography <del/>
-                    
-                    <pb facs="nei.j4c.63.3-4_0004a"/>
-                    <fw type="authorial">-6-</fw>
-                    
-                    I'm getting set for the Adult section of the book. Already I <del/> have a number of Episodes &#8212; some of my best work.</p>
-                
-                <p>I'm sure you will <del>not</del> not let anybody sell your Book short. It's a heluva good book, and you should be a bit proud, and maybe somewhat haughty about it.</p>
-                <closer>
-                    <salute>I <hi rend="underline">do</hi> love you and Bower</salute> &#8212; <signed>John N. Gaki</signed>
-                </closer>
-                
-                <note type="curatorial"><hi rend="caps">JOHN G. NEIHARDT CENTER</hi></note>
-                </postscript>
-            </div1>
-        </body>
-        
-        <back></back>
-    </text>
+<idno>nei.j4c.63.3-4_0001-4</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
+<date when="1972-02-15">February 15, 1972</date>
+<extent>8 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>8 hand-written pages</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>8 pages
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+</condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="type"><p>Media: type</p></handNote>
+<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+
+
+
+
+
+
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+<date when="1900"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName></persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4c.63.3-4_0001a" />
+
+<opener>
+<dateline>
+5835 Vine
+Lincoln, Neb.
+68505
+_____
+Tuesday <hi rend="caps">A. M.</hi>
+2-15-'72
+</dateline>
+
+<salute>Dear Lucile:</salute>
+</opener>
+<p>Your reply to my importunate letter of several days ago came in <unclear>record</unclear> time! &#8212; Practically instantaneous! I do hope my rude protest did not offend you. I <hi rend="underline">do</hi> hope it hurt enough to make you more thoughtful of this
+
+<pb facs="nei.j4c.63.3-4_0001b"/>
+<fw type="curatorial">-2-</fw>
+
+poor old man who has so few pleasures, but sits around drooling and whispering.</p>
+
+<p>No, I was happy to hear from you, and it's good news that you are trying the Mo. University Press. There <hi rend="underline">is</hi> quite a <unclear>tradition</unclear> there, I gather from recent letters. Still, it may be that the popularity of <hi rend="underline">Black Elk</hi> <del/> may create a demand in the <hi rend="underline">commercial publishing</hi> <del><unclear>world</unclear></del>world. Simon &amp; Shuster<sic>Schuster</sic> 
+
+<fw type="curatorial">3</fw>
+<pb facs="nei.j4c.63.3-4_0002a"/>
+<fw type="authorial"><unclear>-3</unclear>-</fw>
+
+certainly put up some <hi rend="underline">real</hi> <hi rend="double underline">money</hi> in advance <del><unclear>if</unclear></del> royalties &#8212; $20,000! Surely something has been happening.</p>
+
+<p>I'm champing the bit over Harcourt Brace and the <hi rend="underline">final</hi> chapter I turned <del/> in last week. All who have read or heard the chapter are quite vociferous about it. (Did you notice the <hi rend="double underline">big</hi> <hi rend="underline">words</hi> I have used in this letter <del><unclear>? And</unclear></del> And I don't charge
+
+<pb facs="nei.j4c.63.3-4_0002b"/>
+<fw type="authorial">-4-</fw>
+
+anything extra for them. I'll bet you ran for the <hi rend="underline">Dictionary</hi>! I'm beginning again on the adult section of the Autobiography. It will be almost wholly made up of <hi rend="underline">episodes</hi>. "Not <del>a dull</del> a dull moment."</p>
+
+<p><del><unclear>Just</unclear>,</del> We have just now seen the new bust <del/> of me. Very nice! There are five busts now &#8212; or is it six?</p>
+
+<p><del><unclear/> of the</del></p>
+
+<p>We are eager to hear from the London publisher &#8212; Barry and Jenkins. They had a 3-weeks <unclear>option.</unclear></p>
+<closer>
+<salute>Endless love &#8212;</salute>
+
+<signed>John Neihardt</signed>
+</closer>
+
+<note type="curatorial"><hi rend="caps">JOHN G. NEIHARDT CENTER</hi></note>
+
+<pb facs="nei.j4c.63.3-4_0003a"/>
+<fw type="authorial">-3-</fw>
+<postscript>
+<p>with Dick Cavett's Introduction, may induce some big commercial publisher. <del>to</del> Why not Simon &amp; Shuster<sic>Schuster</sic> (owners of Pocket Book) or Harcourt Brace Jovanovich? I feel pretty sure that Harcourt will be happy with the Autobiography in the Fall.</p>
+
+<p>There <hi rend="underline">is</hi>, however, a big revival of Neihardt at <hi rend="caps">M. U.</hi> My <hi rend="caps">TV</hi> 
+
+<pb facs="nei.j4c.63.3-4_0003b"/>
+<fw type="authorial">-4-</fw>
+
+course is bigger than ever, and students clamoring for admission. At present there is room for only 250 and the rooms are crowded.</p>
+
+<p>I've recently heard <del/> the English Dept. at the <hi rend="underline">University</hi> of <hi rend="underline">Nebraska</hi> is planning a Neihardt Memorial &#8212; either <unclear>end</unclear> on the campus, <del><unclear>or perhaps</unclear> a scholarship.</del> in the English Dept.
+
+<fw type="curatorial">4</fw>
+<pb facs="nei.j4c.63.3-4_0004a"/>
+<fw type="authorial">-5-</fw>
+
+<del/>There is some thought of a scholarship.</p>
+
+<p>Hilda has just phoned me saying she has received the Contract with Barrie<sic>Barry</sic> and Jenkins of London. Its for a hard-back<sic>hardback</sic> British edition <hi rend="underline">and</hi> a paper back<sic>paperback</sic>. This will include Canada. <del>as well as</del></p>
+
+<p>People are going to like the Autobiography <del/>
+
+<pb facs="nei.j4c.63.3-4_0004a"/>
+<fw type="authorial">-6-</fw>
+
+I'm getting set for the Adult section of the book. Already I <del/> have a number of Episodes &#8212; some of my best work.</p>
+
+<p>I'm sure you will <del>not</del> not let anybody sell your Book short. It's a heluva good book, and you should be a bit proud, and maybe somewhat haughty about it.</p>
+<closer>
+<salute>I <hi rend="underline">do</hi> love you and Bower</salute> &#8212; <signed>John N. Gaki</signed>
+</closer>
+
+<note type="curatorial"><hi rend="caps">JOHN G. NEIHARDT CENTER</hi></note>
+</postscript>
+</div1>
+</body>
+
+<back></back>
+</text>
 </TEI>

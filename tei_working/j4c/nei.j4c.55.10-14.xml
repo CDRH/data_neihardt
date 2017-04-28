@@ -1,237 +1,248 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.55.10-14_0001-5">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, April 24, 1968</title>
-                <author>Neihardt, John Gneisenau, 1881-1973</author>
-                <principal>Gossin, Pamela</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date>2013</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <authority>The Papers of John G. Neihardt</authority>
-                <publisher>University of Nebraska-Lincoln</publisher>
-                <distributor>
-                    <name>Center for Digital Research in the Humanities</name>
-                    <address>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, April 24, 1968</title>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
 <addrLine>319 Love Library</addrLine>
 <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 <addrLine>cdrh@unlnotes.unl.edu</addrLine>
 </address>
-                </distributor>
-                <pubPlace>Lincoln, Nebraska</pubPlace> 
-                <address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-                <idno>nei.j4c.55.10-14_0001-5</idno>
-                <availability>
-                    <p></p>
-                </availability>
-            </publicationStmt>
-            
-            <notesStmt><note></note></notesStmt>
-            
-            <sourceDesc>
-                <bibl>
-                    <author>Neihardt, John Gneisenau, 1881-1973</author>
-                    <title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
-                    <date when="1968-04-24">April 24, 1968</date>
-                    <extent>6 pages, plus envelope</extent>
-                </bibl>
-                <msDesc>
-                    <msIdentifier>
-                        <repository></repository>
-                        <idno></idno>
-                    </msIdentifier>
-                    <msContents>
-                        <p>6 hand-written pages, plus envelope</p>
-                    </msContents>
-                    <physDesc>
-                        <objectDesc>
-                            <supportDesc>
-                                <support></support>
-                                <extent>6 pages
-                                    <dimensions unit="mm"><height></height><width></width></dimensions>
-                                </extent>
-                                <condition>
-                                    <p></p></condition>
-                            </supportDesc>
-                        </objectDesc>
-                        <handDesc hands="2">
-                            <handNote xml:id="type"><p>Media: type</p></handNote>
-                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-                        </handDesc>
-                        <typeDesc>
-                            <typeNote><p></p></typeNote>
-                        </typeDesc>
-                    </physDesc>
-                    <history><origin></origin>
-                        <provenance></provenance>
-                        <acquisition></acquisition>
-                    </history>
-                </msDesc>
-                
-            </sourceDesc>
-        </fileDesc>
-        
-        <encodingDesc>
-            <editorialDecl>
-                <correction>
-                    <p></p>
-                </correction>
-                <normalization>
-                    <p></p>
-                </normalization>
-            </editorialDecl>
-        </encodingDesc>
-        
-        <profileDesc>
-            <textClass>
-                <keywords scheme="original" n="category">
-                    <term>Correspondence</term>
-                </keywords>
-                <keywords scheme="original" n="subcategory">
-                    <term>Business</term>
-                </keywords>
-                <keywords scheme="original" n="topic">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="keywords">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="people">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="places">
-                    <term></term>
-                </keywords>
-            </textClass>
-            <particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
-        </profileDesc>
-        
-        <revisionDesc>
-            <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
-            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
-            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
-            
-        </revisionDesc>
-    </teiHeader>
-    
-    <text>
-        <body>
-            
-            <div1 type="letter">
-                
-                <pb facs="nei.j4c.55.10-14_0001a" />
-                
-                <note type="curatorial">258-4 Aly Collection</note>
-                
-                <opener>
-                    <dateline>
-                        5835 Vine St.,
-                        Lincoln, Neb. 
-                        4-24-68
-                    </dateline>
-                    
-                    <salute>Dear Lucile:</salute>
-                </opener>
-                <p>I <hi rend="underline">do</hi> need to hear from you! Surely you can find a few moments to write me!</p>
-                
-                <p>I've been at Skyrim for two weeks, receiving two fine honors. <hi rend="underline">Did</hi> I send you any articles on these? On Apr. 12 I rec'd<sic>received</sic> the <hi rend="underline">Thomas Jefferson Award</hi>
-                    
-                    <pb facs="nei.j4c.55.10-14_0001b"/>
-                    <fw type="authorial">-2-</fw>
-                    
-                    and on April 20th there was a lovely ceremony dedicating the Neihardt Collection and the bronze bust, now in its place. (It is beautifully arranged in an alcove, with draperies.)</p>
-                
-                <p>On April 29th (next week) I'll <hi rend="underline">have an eye operation</hi>. Will be in the hospital <hi rend="underline">a week</hi> <del/> and then <hi rend="underline">three more weeks for recovery</hi>. Wish me luck!</p>
-                
-                    <fw type="curatorial">10</fw>
-                    <pb facs="nei.j4c.55.10-14_0002a"/>
-                    <fw type="authorial">-3-</fw>
-                
-                <p>I've had good luck with my "autobiography". It certainly <del/> does <hi rend="underline">not</hi> conflict with your book. It is <hi rend="underline">not</hi> a chronological record of my life. A better title would be <hi rend="underline">"The Story of My</hi> Heart" &#8212; a title I'd use were it not that Jefferies used it. I do not know of
-                    
-                    <pb facs="nei.j4c.55.10-14_0002b"/>
-                    <fw type="authorial">-4-</fw>
-                    
-                    any book conceived as this one is. It's really a chain of recollections. I have the first 10000 words. Your book is really needed to supplement mine.</p>
-                
-                <p>I still like you, by Golly, even tho'<sic>though</sic> you are "awful mad" at me! (Are you?)</p>
-                <closer>
-                    <salute>Love to you, dear Lady</salute>
-                
-                    <signed>John N.</signed>
-                </closer>
-                
-                    <fw type="curatorial">11</fw>
-                
-                    <pb facs="nei.j4c.55.10-14_0003"/>
-                    <fw type="curatorial">12</fw>
-            
-                <postscript>
-                    <opener><hi rend="caps">P. S.</hi></opener>
-                
-                    <p>Did you read the story of my "ghost dog" in Spearfish Canyon?</p>
-                    
-                    <p>You know <del/> about my darling poodle, Jacquot &#8212; ? Well, he went hunting for me ten days ago and got picked up. I offered $25 reward just before I returned <del>he<unclear/></del> 
-                    
-                        <note type="authorial">(over)</note>
-                    
-                        <pb facs="nei.j4c.55.10-14_0004"/>
-                        <fw type="curatorial">13</fw>
-                    
-                    here, and it worked! Alice called by 'phone <del/><add>at</add> midnight last night to tell me he was back! After 10 days! I had about given him up. Bless his heart! He just <hi rend="double underline">had</hi> to find his man!</p>
-                    <closer>
-                        <salute>Love &#8212;</salute>   
-                        <signed>John</signed>
-                    </closer>
-                </postscript>
-                
-            </div1>
-            
-            
-            <div1 type="envelope">
-                
-                <pb facs="nei.j4c.55.10-14_0005"/>
-                
-                <ab type="return">
-                5835 Vine Street
-                Lincoln, Nebr.
-                </ab>
-                
-                <note type="authorial"><hi rend="underline">Air</hi> <hi rend="double underline">Mail</hi></note>
-                <ab type="postmark">LINCOLN APR 24 PM 1968 NEB<unclear cert="high">R</unclear></ab>
-                    <figure>
-                        <figDesc>6 Cent Stamp</figDesc>
-                        <p>6¢ FRANKLIN D.ROOSEVELT U.S. POSTAGE</p>
-                    </figure>
-                    <figure>
-                        <figDesc>6 Cent Stamp</figDesc>
-                        <p>6¢ FRANKLIN D.ROOSEVELT U.S. POSTAGE</p>
-                    </figure>
-                
-                <ab type="address">
-                    <address>
-                        <addrLine>Dr. Lucile Aly</addrLine>
-                        <addrLine>1138 22nd Avenue East</addrLine>
-                        <addrLine>Eugene,</addrLine>
-                        <addrLine>Oregon.</addrLine>
-                    </address>
-                </ab>
-                
-                <fw type="curatorial"><unclear cert="medium">14</unclear></fw>
-            </div1>
-        </body>
-        
-        <back></back>
-    </text>
+<idno>nei.j4c.55.10-14_0001-5</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
+<date when="1968-04-24">April 24, 1968</date>
+<extent>6 pages, plus envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>6 hand-written pages, plus envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>6 pages
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+</condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="2">
+<handNote xml:id="type"><p>Media: type</p></handNote>
+<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+
+
+
+
+
+
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+<date when="1900"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName></persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4c.55.10-14_0001a" />
+
+<note type="curatorial">258-4 Aly Collection</note>
+
+<opener>
+<dateline>
+5835 Vine St.,
+Lincoln, Neb. 
+4-24-68
+</dateline>
+
+<salute>Dear Lucile:</salute>
+</opener>
+<p>I <hi rend="underline">do</hi> need to hear from you! Surely you can find a few moments to write me!</p>
+
+<p>I've been at Skyrim for two weeks, receiving two fine honors. <hi rend="underline">Did</hi> I send you any articles on these? On Apr. 12 I rec'd<sic>received</sic> the <hi rend="underline">Thomas Jefferson Award</hi>
+
+<pb facs="nei.j4c.55.10-14_0001b"/>
+<fw type="authorial">-2-</fw>
+
+and on April 20th there was a lovely ceremony dedicating the Neihardt Collection and the bronze bust, now in its place. (It is beautifully arranged in an alcove, with draperies.)</p>
+
+<p>On April 29th (next week) I'll <hi rend="underline">have an eye operation</hi>. Will be in the hospital <hi rend="underline">a week</hi> <del/> and then <hi rend="underline">three more weeks for recovery</hi>. Wish me luck!</p>
+
+<fw type="curatorial">10</fw>
+<pb facs="nei.j4c.55.10-14_0002a"/>
+<fw type="authorial">-3-</fw>
+
+<p>I've had good luck with my "autobiography". It certainly <del/> does <hi rend="underline">not</hi> conflict with your book. It is <hi rend="underline">not</hi> a chronological record of my life. A better title would be <hi rend="underline">"The Story of My</hi> Heart" &#8212; a title I'd use were it not that Jefferies used it. I do not know of
+
+<pb facs="nei.j4c.55.10-14_0002b"/>
+<fw type="authorial">-4-</fw>
+
+any book conceived as this one is. It's really a chain of recollections. I have the first 10000 words. Your book is really needed to supplement mine.</p>
+
+<p>I still like you, by Golly, even tho'<sic>though</sic> you are "awful mad" at me! (Are you?)</p>
+<closer>
+<salute>Love to you, dear Lady</salute>
+
+<signed>John N.</signed>
+</closer>
+
+<fw type="curatorial">11</fw>
+
+<pb facs="nei.j4c.55.10-14_0003"/>
+<fw type="curatorial">12</fw>
+
+<postscript>
+<opener><hi rend="caps">P. S.</hi></opener>
+
+<p>Did you read the story of my "ghost dog" in Spearfish Canyon?</p>
+
+<p>You know <del/> about my darling poodle, Jacquot &#8212; ? Well, he went hunting for me ten days ago and got picked up. I offered $25 reward just before I returned <del>he<unclear/></del> 
+
+<note type="authorial">(over)</note>
+
+<pb facs="nei.j4c.55.10-14_0004"/>
+<fw type="curatorial">13</fw>
+
+here, and it worked! Alice called by 'phone <del/><add>at</add> midnight last night to tell me he was back! After 10 days! I had about given him up. Bless his heart! He just <hi rend="double underline">had</hi> to find his man!</p>
+<closer>
+<salute>Love &#8212;</salute>   
+<signed>John</signed>
+</closer>
+</postscript>
+
+</div1>
+
+
+<div1 type="envelope">
+
+<pb facs="nei.j4c.55.10-14_0005"/>
+
+<ab type="return">
+5835 Vine Street
+Lincoln, Nebr.
+</ab>
+
+<note type="authorial"><hi rend="underline">Air</hi> <hi rend="double underline">Mail</hi></note>
+<ab type="postmark">LINCOLN APR 24 PM 1968 NEB<unclear cert="high">R</unclear></ab>
+<figure>
+<figDesc>6 Cent Stamp</figDesc>
+<p>6¢ FRANKLIN D.ROOSEVELT U.S. POSTAGE</p>
+</figure>
+<figure>
+<figDesc>6 Cent Stamp</figDesc>
+<p>6¢ FRANKLIN D.ROOSEVELT U.S. POSTAGE</p>
+</figure>
+
+<ab type="address">
+<address>
+<addrLine>Dr. Lucile Aly</addrLine>
+<addrLine>1138 22nd Avenue East</addrLine>
+<addrLine>Eugene,</addrLine>
+<addrLine>Oregon.</addrLine>
+</address>
+</ab>
+
+<fw type="curatorial"><unclear cert="medium">14</unclear></fw>
+</div1>
+</body>
+
+<back></back>
+</text>
 </TEI>

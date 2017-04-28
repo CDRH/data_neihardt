@@ -1,208 +1,219 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.nei.j4c.63.15a-15b_0001-3">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, March 12, 1972</title>
-                <author>Neihardt, John Gneisenau, 1881-1973</author>
-                <principal>Gossin, Pamela</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date>2013</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <authority>The Papers of John G. Neihardt</authority>
-                <publisher>University of Nebraska-Lincoln</publisher>
-                <distributor>
-                    <name>Center for Digital Research in the Humanities</name>
-                    <address>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, March 12, 1972</title>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
 <addrLine>319 Love Library</addrLine>
 <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 <addrLine>cdrh@unlnotes.unl.edu</addrLine>
 </address>
-                </distributor>
-                <pubPlace>Lincoln, Nebraska</pubPlace> 
-                <address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-                <idno>nei.j4c.63.15a-15b_0001-3</idno>
-                <availability>
-                    <p></p>
-                </availability>
-            </publicationStmt>
-            
-            <notesStmt><note></note></notesStmt>
-            
-            <sourceDesc>
-                <bibl>
-                    <author>Neihardt, John Gneisenau, 1881-1973</author>
-                    <title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
-                    <date when="1972-03-12">March 12, 1972</date>
-                    <extent>4 pages, plus envelope</extent>
-                </bibl>
-                <msDesc>
-                    <msIdentifier>
-                        <repository></repository>
-                        <idno></idno>
-                    </msIdentifier>
-                    <msContents>
-                        <p>4 hand-written pages, plus envelope</p>
-                    </msContents>
-                    <physDesc>
-                        <objectDesc>
-                            <supportDesc>
-                                <support></support>
-                                <extent>4 pages
-                                    <dimensions unit="mm"><height></height><width></width></dimensions>
-                                </extent>
-                                <condition>
-                                    <p></p></condition>
-                            </supportDesc>
-                        </objectDesc>
-                        <handDesc hands="1">
-                            <handNote xml:id="type"><p>Media: type</p></handNote>
-                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-                        </handDesc>
-                        <typeDesc>
-                            <typeNote><p></p></typeNote>
-                        </typeDesc>
-                    </physDesc>
-                    <history><origin></origin>
-                        <provenance></provenance>
-                        <acquisition></acquisition>
-                    </history>
-                </msDesc>
-                
-            </sourceDesc>
-        </fileDesc>
-        
-        <encodingDesc>
-            <editorialDecl>
-                <correction>
-                    <p></p>
-                </correction>
-                <normalization>
-                    <p></p>
-                </normalization>
-            </editorialDecl>
-        </encodingDesc>
-        
-        <profileDesc>
-            <textClass>
-                <keywords scheme="original" n="category">
-                    <term>Correspondence</term>
-                </keywords>
-                <keywords scheme="original" n="subcategory">
-                    <term>Business</term>
-                </keywords>
-                <keywords scheme="original" n="topic">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="keywords">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="people">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="places">
-                    <term></term>
-                </keywords>
-            </textClass>
-            <particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
-        </profileDesc>
-        
-        <revisionDesc>
-            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
-            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
-            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
-            
-        </revisionDesc>
-    </teiHeader>
-    
-    <text>
-        <body>
-            
-            <div1 type="letter">
-                
-                <pb facs="nei.j4c.63.15a-15b_0002a" />
-                
-                <opener>
-                    <dateline>
-                        5835 Vine St.,
-                        Lincoln, Neb. 
-                        68505
-                        -----
-                
-                        3-12-'72
-                    </dateline>
-                    
-                    <salute>Dear Lucile:</salute>
-                </opener>
-                <p>I've worried about my last letter to you. I recall that I was feeling exuberant, and I fear I overdid myself. I remarked that your silence "made me sick". Of course I was only being clumsily playful! Things are booming in our business, and 
-                    
-                    <pb facs="nei.j4c.63.15a-15b_0002b"/>
-                    <fw type="authorial">-2-</fw>
-                    
-                    I rejoice when I think of your fine book ready to charge into the fray at the <unclear>tack coal</unclear> moment. (See! I'm feeling exuberant again).</p>
-                
-                <p>Hilda sent Gail (her secretary) up to Lincoln last week to have me sign several contracts, and a week ago we signed a contract with Barrie &amp; Jenkins of London. We have just sold <add>a movie</add><del>an</del> option for Jed Smith. I do hope something will
-                    
-                    <fw type="curatorial">156</fw>
-                    <pb facs="nei.j4c.63.15a-15b_0003a"/>
-                    <fw type="authorial">-3-</fw>
-                    
-                    will come of it. <hi rend="double underline">What</hi> a movie it would make Sooner or later we'll have a movie &#8212; quite <unclear>possibly</unclear> two, as Black Elk <unclear>seems</unclear> very promising.</p>
-                
-                <p>I'm fighting bad eyes, so bad that I'm hindered in writing. Tomorrow we will go to an eye clinic in Omaha. We hope there may <del/>be some sort of <unclear>rinses</unclear> that
-                    
-                    <note type="curatorial"><hi rend="caps">JOHN G. NEIHARDT CENTER</hi></note>
-                    
-                    <pb facs="nei.j4c.63.15a-15b_0003b"/>
-                    <fw type="authorial">-4-</fw>    
-                    
-                    will help <unclear>me in</unclear> writing <hi rend="underline">and</hi> reading what I write.</p>
-                
-                <p>But, really, what I want to know is <hi rend="underline">who</hi> will publish your <hi rend="caps">BOOK</hi>! Surely the two books now about to appear should help you. <hi rend="underline">"All is But a Beginning"</hi> will appear in October. Pocket Book <del><unclear>Mass</unclear></del> mass edition is due in April</p>
-                
-                <p>Wow! Arf! Arf! I love you'ns in the same old way &#8212; "You'ns" is <del><unclear>in</unclear></del> dual number, of course.</p>
-                <closer>
-                    <signed>John Neihardt</signed>
-                </closer>
-                
-            </div1>
-            
-            
-            <div1 type="envelope">
-                
-                <pb facs="nei.j4c.63.15a-15b_0001"/>
-                
-                <ab type="postmark">VIA AIR MAIL
-                LINCOLN MAR 13 PM <unclear cert="high">1972 NEBR.</unclear></ab>
-                <figure>
-                    <figDesc>11 Cent Stamp</figDesc>
-                    <p>US AIR MAIL 11¢</p>
-                </figure>
-                
-                <ab type="address">
-                    <address>
-                        <addrLine>Dr. Lucile Aly,</addrLine>
-                        <addrLine>1138 &#8212; 22nd Ave., East</addrLine>
-                        <addrLine>Eugene,</addrLine>
-                        <addrLine>Oregon. 97403</addrLine>
-                    </address>
-                </ab>
-                
-                <fw type="curatorial">15a1</fw>
-                
-            </div1>
-        </body>
-        
-        <back></back>
-    </text>
+<idno>nei.j4c.63.15a-15b_0001-3</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
+<date when="1972-03-12">March 12, 1972</date>
+<extent>4 pages, plus envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>4 hand-written pages, plus envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>4 pages
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+</condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="type"><p>Media: type</p></handNote>
+<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+
+
+
+
+
+
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+<date when="1900"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName></persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4c.63.15a-15b_0002a" />
+
+<opener>
+<dateline>
+5835 Vine St.,
+Lincoln, Neb. 
+68505
+-----
+
+3-12-'72
+</dateline>
+
+<salute>Dear Lucile:</salute>
+</opener>
+<p>I've worried about my last letter to you. I recall that I was feeling exuberant, and I fear I overdid myself. I remarked that your silence "made me sick". Of course I was only being clumsily playful! Things are booming in our business, and 
+
+<pb facs="nei.j4c.63.15a-15b_0002b"/>
+<fw type="authorial">-2-</fw>
+
+I rejoice when I think of your fine book ready to charge into the fray at the <unclear>tack coal</unclear> moment. (See! I'm feeling exuberant again).</p>
+
+<p>Hilda sent Gail (her secretary) up to Lincoln last week to have me sign several contracts, and a week ago we signed a contract with Barrie &amp; Jenkins of London. We have just sold <add>a movie</add><del>an</del> option for Jed Smith. I do hope something will
+
+<fw type="curatorial">156</fw>
+<pb facs="nei.j4c.63.15a-15b_0003a"/>
+<fw type="authorial">-3-</fw>
+
+will come of it. <hi rend="double underline">What</hi> a movie it would make Sooner or later we'll have a movie &#8212; quite <unclear>possibly</unclear> two, as Black Elk <unclear>seems</unclear> very promising.</p>
+
+<p>I'm fighting bad eyes, so bad that I'm hindered in writing. Tomorrow we will go to an eye clinic in Omaha. We hope there may <del/>be some sort of <unclear>rinses</unclear> that
+
+<note type="curatorial"><hi rend="caps">JOHN G. NEIHARDT CENTER</hi></note>
+
+<pb facs="nei.j4c.63.15a-15b_0003b"/>
+<fw type="authorial">-4-</fw>
+
+will help <unclear>me in</unclear> writing <hi rend="underline">and</hi> reading what I write.</p>
+
+<p>But, really, what I want to know is <hi rend="underline">who</hi> will publish your <hi rend="caps">BOOK</hi>! Surely the two books now about to appear should help you. <hi rend="underline">"All is But a Beginning"</hi> will appear in October. Pocket Book <del><unclear>Mass</unclear></del> mass edition is due in April</p>
+
+<p>Wow! Arf! Arf! I love you'ns in the same old way &#8212; "You'ns" is <del><unclear>in</unclear></del> dual number, of course.</p>
+<closer>
+<signed>John Neihardt</signed>
+</closer>
+
+</div1>
+
+
+<div1 type="envelope">
+
+<pb facs="nei.j4c.63.15a-15b_0001"/>
+
+<ab type="postmark">VIA AIR MAIL
+LINCOLN MAR 13 PM <unclear cert="high">1972 NEBR.</unclear></ab>
+<figure>
+<figDesc>11 Cent Stamp</figDesc>
+<p>US AIR MAIL 11¢</p>
+</figure>
+
+<ab type="address">
+<address>
+<addrLine>Dr. Lucile Aly,</addrLine>
+<addrLine>1138 &#8212; 22nd Ave., East</addrLine>
+<addrLine>Eugene,</addrLine>
+<addrLine>Oregon. 97403</addrLine>
+</address>
+</ab>
+
+<fw type="curatorial">15a1</fw>
+
+</div1>
+</body>
+
+<back></back>
+</text>
 </TEI>

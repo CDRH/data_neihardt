@@ -1,195 +1,206 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.52.1-2_0001-2">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, April 7, 1967</title>
-                <author>Neihardt, John Gneisenau, 1881-1973</author>
-                <principal>Gossin, Pamela</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date>2013</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <authority>The Papers of John G. Neihardt</authority>
-                <publisher>University of Nebraska-Lincoln</publisher>
-                <distributor>
-                    <name>Center for Digital Research in the Humanities</name>
-                    <address>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, April 7, 1967</title>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
 <addrLine>319 Love Library</addrLine>
 <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 <addrLine>cdrh@unlnotes.unl.edu</addrLine>
 </address>
-                </distributor>
-                <pubPlace>Lincoln, Nebraska</pubPlace> 
-                <address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-                <idno>nei.j4c.52.1-2_0001-2</idno>
-                <availability>
-                    <p></p>
-                </availability>
-            </publicationStmt>
-            
-            <notesStmt><note></note></notesStmt>
-            
-            <sourceDesc>
-                <bibl>
-                    <author>Neihardt, John Gneisenau, 1881-1973</author>
-                    <title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
-                    <date when="1967-04-07">April 7, 1967</date>
-                    <extent>2 pages</extent>
-                </bibl>
-                <msDesc>
-                    <msIdentifier>
-                        <repository></repository>
-                        <idno></idno>
-                    </msIdentifier>
-                    <msContents>
-                        <p>2 type-written pages</p>
-                    </msContents>
-                    <physDesc>
-                        <objectDesc>
-                            <supportDesc>
-                                <support></support>
-                                <extent>2 pages
-                                    <dimensions unit="mm"><height></height><width></width></dimensions>
-                                </extent>
-                                <condition>
-                                    <p></p></condition>
-                            </supportDesc>
-                        </objectDesc>
-                        <handDesc hands="2">
-                            <handNote xml:id="type"><p>Media: type</p></handNote>
-                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-                        </handDesc>
-                        <typeDesc>
-                            <typeNote><p></p></typeNote>
-                        </typeDesc>
-                    </physDesc>
-                    <history><origin></origin>
-                        <provenance></provenance>
-                        <acquisition></acquisition>
-                    </history>
-                </msDesc>
-                
-            </sourceDesc>
-        </fileDesc>
-        
-        <encodingDesc>
-            <editorialDecl>
-                <correction>
-                    <p></p>
-                </correction>
-                <normalization>
-                    <p></p>
-                </normalization>
-            </editorialDecl>
-        </encodingDesc>
-        
-        <profileDesc>
-            <textClass>
-                <keywords scheme="original" n="category">
-                    <term>Correspondence</term>
-                </keywords>
-                <keywords scheme="original" n="subcategory">
-                    <term>Business</term>
-                </keywords>
-                <keywords scheme="original" n="topic">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="keywords">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="people">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="places">
-                    <term></term>
-                </keywords>
-            </textClass>
-            <particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
-        </profileDesc>
-        
-        <revisionDesc>
-            <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
-            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
-            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
-            
-        </revisionDesc>
-    </teiHeader>
-    
-    <text>
-        <body>
-            
-            <div1 type="letter">
-                
-                <pb facs="nei.j4c.52.1-2_0001" />
-                
-                <note type="curatorial">28<unclear>8</unclear>-2 Aly Collection</note>
-                
-                    <note>April '67 
-                        Top Ten</note>
-                <fw type="curatorial">1</fw>
-                
-                
-                <fw type="letterhead">
-                <hi rend="caps">JOHN G. NEIHARDT</hi> 
-                    <lb/>
-                <hi rend="caps">SKYRIM FARM</hi>  
-                    <lb/>
-                <hi rend="caps">ROUTE 7</hi>  
-                    <lb/>
-                <hi rend="caps">COLUMBIA, MO. 65201</hi>  
-                </fw>
-                
-                <opener>
-                    <dateline>
-                April 7
-                1 9 6 7                               
-                    </dateline>
-                    
-                <salute>Dear Lucile:</salute>
-                </opener>
-                <p>Your letter of March 29th is right in every particular. You were afraid that I might not understand; but, as a matter of fact, I could have written your letter for you! I was put in an unusual position here, and I am afraid I leaned on you a bit! What I want is your gracious letter to him. It contains some facts that I did not have, and they are very convincing facts.</p>
-                
-                <p>Please forgive me for putting this extra burden on you. It seemed the best way to handle the matter. The young man  <hi rend="underline">is</hi> able, and has done a great deal of research. He is not trying to avoid work, but he is crowded by circumstances, which, of course, should not matter in writing a good dissertation. I know that your advice will help him greatly, and he will feel thankful for it. His adviser is a Dr. Meinert, whom you do not know. He has been in the English Department about two years, as I remember.</p>
-                
-                <p>I have just returned from a glorious five days in Lincoln. I gave a program for the retired teacher's association, and a banquet in the Cornhusker. (They gave me a silver replica of the State Seal as a special honor.) I gave another program at the Warren Methodist church on Sunday. As a matter of fact I "filled" the pulpit. They said the crowd was the largest they ever had in the church. They said also (forgive me, please, but I am telling my biographer) that it was the most impressive service the church ever had. I was asked by the minister to give his congregation the gospel according to Black Elk, and that's what I did. Afterward, there was a big dinner, with about 250 people dining; and the Governor's Trophy was given to me. It is polished walnut shaped like the state of Nebraska, with a bronze medal set in the wood, and a legend at the  bottom, which reads: Nebraska's Poet of the Century".</p>
-                
-                <p>There was an editorial, three columns wide in the Lincoln State Journal, with the heading across three columns:
-                    
-                    <note type="authorial">_______
-                        <hi rend="underline">over</hi></note>
-                    
-                    <pb facs="nei.j4c.52.1-2_0001-2"/>
-                    <fw type="curatorial">2</fw>
-                    <fw type="authorial">-2-</fw>
-                    
-                    "The Grand Old Man of the Century". During the dinner, I was awarded a citation, beautifully printed, for being the only living person of the "Top Ten Persons" in Nebraska history, chosen by a poll of historians and history teachers. This really has significance when you take into consideration the distinguished men and women <add><note type="authorial">that Nebraska has produced.</note></add> Those who did not make the top ten are an imposing group, including even John J. Pershing.</p>
-                
-                <p>The above, of course, is written, not only to my friend Lucile, <hi rend="underline">but to my official biographer</hi>, whom, of course, I do not like very much, do I?</p>
-                
-                <p>I am certainly looking forward to our being together for the final reading of the biography. You will have to read it to me, as my eyes are not very dutiful these days.</p>
-                
-                <p>It's good to hear about old Stewart. I'd surely like to see him<add>.</add> <del>a</del><add>A</add>nd tell Jingle I send her some happy "ar<del>t</del><add>f</add>s" and a few select "woofs".</p>
-                <closer>
-                <salute>With love for you and Bower,</salute>
-                
-                <signed>John G. Neihardt</signed>
-                
-                <note>JGN:ENF</note>
-                </closer>
-                
-            </div1>
-        </body>
-        
-        <back></back>
-    </text>
+<idno>nei.j4c.52.1-2_0001-2</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
+<date when="1967-04-07">April 7, 1967</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>2 type-written pages</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>2 pages
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+</condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="2">
+<handNote xml:id="type"><p>Media: type</p></handNote>
+<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+
+
+
+
+
+
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+<date when="1900"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName></persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4c.52.1-2_0001" />
+
+<note type="curatorial">28<unclear>8</unclear>-2 Aly Collection</note>
+
+<note>April '67 
+Top Ten</note>
+<fw type="curatorial">1</fw>
+
+
+<fw type="letterhead">
+<hi rend="caps">JOHN G. NEIHARDT</hi> 
+<lb/>
+<hi rend="caps">SKYRIM FARM</hi>  
+<lb/>
+<hi rend="caps">ROUTE 7</hi>  
+<lb/>
+<hi rend="caps">COLUMBIA, MO. 65201</hi>  
+</fw>
+
+<opener>
+<dateline>
+April 7
+1 9 6 7   
+</dateline>
+
+<salute>Dear Lucile:</salute>
+</opener>
+<p>Your letter of March 29th is right in every particular. You were afraid that I might not understand; but, as a matter of fact, I could have written your letter for you! I was put in an unusual position here, and I am afraid I leaned on you a bit! What I want is your gracious letter to him. It contains some facts that I did not have, and they are very convincing facts.</p>
+
+<p>Please forgive me for putting this extra burden on you. It seemed the best way to handle the matter. The young man  <hi rend="underline">is</hi> able, and has done a great deal of research. He is not trying to avoid work, but he is crowded by circumstances, which, of course, should not matter in writing a good dissertation. I know that your advice will help him greatly, and he will feel thankful for it. His adviser is a Dr. Meinert, whom you do not know. He has been in the English Department about two years, as I remember.</p>
+
+<p>I have just returned from a glorious five days in Lincoln. I gave a program for the retired teacher's association, and a banquet in the Cornhusker. (They gave me a silver replica of the State Seal as a special honor.) I gave another program at the Warren Methodist church on Sunday. As a matter of fact I "filled" the pulpit. They said the crowd was the largest they ever had in the church. They said also (forgive me, please, but I am telling my biographer) that it was the most impressive service the church ever had. I was asked by the minister to give his congregation the gospel according to Black Elk, and that's what I did. Afterward, there was a big dinner, with about 250 people dining; and the Governor's Trophy was given to me. It is polished walnut shaped like the state of Nebraska, with a bronze medal set in the wood, and a legend at the  bottom, which reads: Nebraska's Poet of the Century".</p>
+
+<p>There was an editorial, three columns wide in the Lincoln State Journal, with the heading across three columns:
+
+<note type="authorial">_______
+<hi rend="underline">over</hi></note>
+
+<pb facs="nei.j4c.52.1-2_0001-2"/>
+<fw type="curatorial">2</fw>
+<fw type="authorial">-2-</fw>
+
+"The Grand Old Man of the Century". During the dinner, I was awarded a citation, beautifully printed, for being the only living person of the "Top Ten Persons" in Nebraska history, chosen by a poll of historians and history teachers. This really has significance when you take into consideration the distinguished men and women <add><note type="authorial">that Nebraska has produced.</note></add> Those who did not make the top ten are an imposing group, including even John J. Pershing.</p>
+
+<p>The above, of course, is written, not only to my friend Lucile, <hi rend="underline">but to my official biographer</hi>, whom, of course, I do not like very much, do I?</p>
+
+<p>I am certainly looking forward to our being together for the final reading of the biography. You will have to read it to me, as my eyes are not very dutiful these days.</p>
+
+<p>It's good to hear about old Stewart. I'd surely like to see him<add>.</add> <del>a</del><add>A</add>nd tell Jingle I send her some happy "ar<del>t</del><add>f</add>s" and a few select "woofs".</p>
+<closer>
+<salute>With love for you and Bower,</salute>
+
+<signed>John G. Neihardt</signed>
+
+<note>JGN:ENF</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
 </TEI>

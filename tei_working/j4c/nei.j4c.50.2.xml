@@ -1,172 +1,183 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.50.2">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title type="main">Letter from John G. Neihardt to Dr. Slade Kendrick, September 25, 1966</title>
-                <author>Neihardt, John Gneisenau, 1881-1973</author>
-                <principal>Gossin, Pamela</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date>2013</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <authority>The Papers of John G. Neihardt</authority>
-                <publisher>University of Nebraska-Lincoln</publisher>
-                <distributor>
-                    <name>Center for Digital Research in the Humanities</name>
-                    <address>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Dr. Slade Kendrick, September 25, 1966</title>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
 <addrLine>319 Love Library</addrLine>
 <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 <addrLine>cdrh@unlnotes.unl.edu</addrLine>
 </address>
-                </distributor>
-                <pubPlace>Lincoln, Nebraska</pubPlace> 
-                <address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-                <idno>nei.j4c.50.2</idno>
-                <availability>
-                    <p></p>
-                </availability>
-            </publicationStmt>
-            
-            <notesStmt><note></note></notesStmt>
-            
-            <sourceDesc>
-                <bibl>
-                    <author>Neihardt, John Gneisenau, 1881-1973</author>
-                    <title level="m" type="main">Letter from John G. Neihardt to Slade Kendrick</title>
-                    <date when="1966-09-25">September 25, 1966</date>
-                    <extent>1 page</extent>
-                </bibl>
-                <msDesc>
-                    <msIdentifier>
-                        <repository></repository>
-                        <idno></idno>
-                    </msIdentifier>
-                    <msContents>
-                        <p>1 type-written page</p>
-                    </msContents>
-                    <physDesc>
-                        <objectDesc>
-                            <supportDesc>
-                                <support></support>
-                                <extent>1 page
-                                    <dimensions unit="mm"><height></height><width></width></dimensions>
-                                </extent>
-                                <condition>
-                                    <p></p></condition>
-                            </supportDesc>
-                        </objectDesc>
-                        <handDesc hands="1">
-                            <handNote xml:id="type"><p>Media: type</p></handNote>
-                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-                        </handDesc>
-                        <typeDesc>
-                            <typeNote><p></p></typeNote>
-                        </typeDesc>
-                    </physDesc>
-                    <history><origin></origin>
-                        <provenance></provenance>
-                        <acquisition></acquisition>
-                    </history>
-                </msDesc>
-                
-            </sourceDesc>
-        </fileDesc>
-        
-        <encodingDesc>
-            <editorialDecl>
-                <correction>
-                    <p></p>
-                </correction>
-                <normalization>
-                    <p></p>
-                </normalization>
-            </editorialDecl>
-        </encodingDesc>
-        
-        <profileDesc>
-            <textClass>
-                <keywords scheme="original" n="category">
-                    <term>Correspondence</term>
-                </keywords>
-                <keywords scheme="original" n="subcategory">
-                    <term>Business</term>
-                </keywords>
-                <keywords scheme="original" n="topic">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="keywords">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="people">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="places">
-                    <term></term>
-                </keywords>
-            </textClass>
-            <particDesc><person role="recipient"><persName>Kendrick, M. Slade</persName></person></particDesc>
-        </profileDesc>
-        
-        <revisionDesc>
-            <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
-            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
-            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
-            
-        </revisionDesc>
-    </teiHeader>
-    
-    <text>
-        <body>
-            
-            <div1 type="letter">
-                
-                <pb facs="nei.j4c.50.2" />
-                
-                <fw type="curatorial">2</fw>
-                
-                <note>130
-                    <del>130</del>
-                9-23-66</note>
-                
-                <opener>
-                    <dateline>
-                <hi rend="caps">SKYRIM FARM</hi>       
-                Rt. #7                  
-                <hi rend="caps">C O L U M B I A</hi>
-                Missouri
-                Sept. 25th
-                1 9 6 6
-                    </dateline>
-                
-                <salute>Dear Slade:</salute>
-                </opener>
-                <p>That was a bully letter, and I think I should tell you at once that I could read it with ease. What stands out in the letter is your news about the Russian Orthodox nun. This is thrilling news, and it shows something of the power that is in the meaning of the Garden. It is really surprising what influence this has on people. Wherever I have told about the Hoop of the World, I have been impressed by its effect on people. Generally I have finished with a recitation of the Prayer, and that always intensifies the effect.</p>
-               
-                <p>Yesterday I saw the exhibit of <hi rend="caps">BLACK ELK</hi> materials in the Library here. It shows various editions, <hi rend="caps">MSS</hi>, original paintings, letters, photographs, sacred ornaments, the drum, the pipe, etc. I think the exhibit will continue during the week. I don't know why they decided to have an exhibit. They didn't say anything to me about it.</p>
-               
-                <p>I am catching up on my correspondence by dictating to Enid, and I wanted to say hello to you without further delay, so "hello, my dear friend, and please say nice things to Nita for me". Does she still go bird-viewing? I ask because I think it is a wonderful habit.</p>
-                <closer>
-                <salute>Affectionately,</salute>
-                
-                <signed>John</signed>
-                <signed>John Neihardt</signed>
-                              
-                <note>JGN:ENF</note>
-                </closer>
-                
-            </div1>
-        </body>
-        
-        <back></back>
-    </text>
+<idno>nei.j4c.50.2</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<title level="m" type="main">Letter from John G. Neihardt to Slade Kendrick</title>
+<date when="1966-09-25">September 25, 1966</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>1 type-written page</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>1 page
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+</condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="type"><p>Media: type</p></handNote>
+<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+
+
+
+
+
+
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+<date when="1900"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName></persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Kendrick, M. Slade</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4c.50.2" />
+
+<fw type="curatorial">2</fw>
+
+<note>130
+<del>130</del>
+9-23-66</note>
+
+<opener>
+<dateline>
+<hi rend="caps">SKYRIM FARM</hi>   
+Rt. #7  
+<hi rend="caps">C O L U M B I A</hi>
+Missouri
+Sept. 25th
+1 9 6 6
+</dateline>
+
+<salute>Dear Slade:</salute>
+</opener>
+<p>That was a bully letter, and I think I should tell you at once that I could read it with ease. What stands out in the letter is your news about the Russian Orthodox nun. This is thrilling news, and it shows something of the power that is in the meaning of the Garden. It is really surprising what influence this has on people. Wherever I have told about the Hoop of the World, I have been impressed by its effect on people. Generally I have finished with a recitation of the Prayer, and that always intensifies the effect.</p>
+   
+<p>Yesterday I saw the exhibit of <hi rend="caps">BLACK ELK</hi> materials in the Library here. It shows various editions, <hi rend="caps">MSS</hi>, original paintings, letters, photographs, sacred ornaments, the drum, the pipe, etc. I think the exhibit will continue during the week. I don't know why they decided to have an exhibit. They didn't say anything to me about it.</p>
+   
+<p>I am catching up on my correspondence by dictating to Enid, and I wanted to say hello to you without further delay, so "hello, my dear friend, and please say nice things to Nita for me". Does she still go bird-viewing? I ask because I think it is a wonderful habit.</p>
+<closer>
+<salute>Affectionately,</salute>
+
+<signed>John</signed>
+<signed>John Neihardt</signed>
+  
+<note>JGN:ENF</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
 </TEI>

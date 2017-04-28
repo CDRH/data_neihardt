@@ -1,227 +1,238 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.53.3-4_0001-2">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, July 11, 1967</title>
-                <author>Neihardt, John Gneisenau, 1881-1973</author>
-                <principal>Gossin, Pamela</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date>2013</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <authority>The Papers of John G. Neihardt</authority>
-                <publisher>University of Nebraska-Lincoln</publisher>
-                <distributor>
-                    <name>Center for Digital Research in the Humanities</name>
-                    <address>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, July 11, 1967</title>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
 <addrLine>319 Love Library</addrLine>
 <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 <addrLine>cdrh@unlnotes.unl.edu</addrLine>
 </address>
-                </distributor>
-                <pubPlace>Lincoln, Nebraska</pubPlace> 
-                <address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-                <idno>nei.j4c.53.3-4_0001-2</idno>
-                <availability>
-                    <p></p>
-                </availability>
-            </publicationStmt>
-            
-            <notesStmt><note></note></notesStmt>
-            
-            <sourceDesc>
-                <bibl>
-                    <author>Neihardt, John Gneisenau, 1881-1973</author>
-                    <title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
-                    <date when="1967-07-11">July 11, 1967</date>
-                    <extent>2 pages, plus envelope</extent>
-                </bibl>
-                <msDesc>
-                    <msIdentifier>
-                        <repository></repository>
-                        <idno></idno>
-                    </msIdentifier>
-                    <msContents>
-                        <p>2 type-written pages, plus hand-written envelope</p>
-                    </msContents>
-                    <physDesc>
-                        <objectDesc>
-                            <supportDesc>
-                                <support></support>
-                                <extent>2 pages
-                                    <dimensions unit="mm"><height></height><width></width></dimensions>
-                                </extent>
-                                <condition>
-                                    <p></p></condition>
-                            </supportDesc>
-                        </objectDesc>
-                        <handDesc hands="2">
-                            <handNote xml:id="type"><p>Media: type</p></handNote>
-                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-                        </handDesc>
-                        <typeDesc>
-                            <typeNote><p></p></typeNote>
-                        </typeDesc>
-                    </physDesc>
-                    <history><origin></origin>
-                        <provenance></provenance>
-                        <acquisition></acquisition>
-                    </history>
-                </msDesc>
-                
-            </sourceDesc>
-        </fileDesc>
-        
-        <encodingDesc>
-            <editorialDecl>
-                <correction>
-                    <p></p>
-                </correction>
-                <normalization>
-                    <p></p>
-                </normalization>
-            </editorialDecl>
-        </encodingDesc>
-        
-        <profileDesc>
-            <textClass>
-                <keywords scheme="original" n="category">
-                    <term>Correspondence</term>
-                </keywords>
-                <keywords scheme="original" n="subcategory">
-                    <term>Business</term>
-                </keywords>
-                <keywords scheme="original" n="topic">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="keywords">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="people">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="places">
-                    <term></term>
-                </keywords>
-            </textClass>
-            <particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
-        </profileDesc>
-        
-        <revisionDesc>
-            <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
-            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
-            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
-            
-        </revisionDesc>
-    </teiHeader>
-    
-    <text>
-        <body>
-            
-            <div1 type="letter">
-                
-                <pb facs="nei.j4c.53.3-4_0001" />
-                
-                <note type="curatorial">292-2 Aly Collection</note>
-                <fw type="curatorial">3</fw>
-                
-                <fw type="letterhead">
-                <hi rend="caps">JOHN G. NEIHARDT</hi>
-                    <lb/>
-                <hi rend="caps">SKYRIM FARM</hi>
-                    <lb/>
-                <hi rend="caps">ROUTE 7</hi>
-                    <lb/>
-                <hi rend="caps">COLUMBIA, MO. 65201</hi>
-                </fw>
-                <opener>
-                    <dateline>
-                July 11
-                1 9      6 7
-                    </dateline>
-                
-                <salute>Dear Lucile:</salute>
-                </opener>
-                <p>Thanks for your letter and for the two letters you enclosed.</p>
-                
-                <p>You need not apologize to me about the accident. The unexpected has a queer way of happening in this world, and it can happen to anybody. What you did was not at all like you. As for missing my 'plane, I made nothing of it, and I told you only as a matter of news. What troubled me most, when I thought about it later, was the fear that I might have seemed to be wrong by leaving you and your sister; but you were in no way in need of me, no one was hurt and you were not alone. I am sure you see this as I do.</p>
-                
-                <p>It does seem a great pity that we could not have had more time together. There is much to do. This checking of facts is extremely important; and, after corrections have been made, it will be necessary to check the revisions.</p>
-                
-                <p>I do hope you are still planning on the trip to Bancroft. Perhaps we could get a clearer understanding than we seem to have now.</p>
-                
-                <p>The following is not too important, but I feel I should follow through. You had suggested that I may have gotten my interest in the Greeks from Dr. House, and I would be glad to admit it if it were true, just as I am glad to credit Volney Streamer for his influence on my way of reading poetry. The Greek interest came a long while before Dr. House, as both the <hi rend="underline">Poet's Town</hi> and <hi rend="caps">THE SONG OF HUGH GLASS</hi> show. Dr. House's first knowledge of me came from his reading of the <hi rend="underline">Poet's Town</hi> in <hi rend="caps">THE FORUM</hi> before he had seen <hi rend="caps">HUGH GLASS</hi>. The Greek influence is obvious in the <hi rend="underline">Poet's Town</hi> and also in <hi rend="caps">HUGH GLASS</hi>. In the latter it seems to be the tragic poets that influenced me most.</p>
-                
-                <p>My interest in the Greeks came to me through Virgil's <hi rend="underline">Aeneid</hi>, which, as you know, I was reading in the original at the age of fifteen. I began studying the Greek language long before Dr. House came to me. You remarked that it was amazing how wrong a logical inference can be. This is an example of what you mean.</p>
-                
-                <p>It has struck me that your critic friend in the English department would not have regarded the Greek reference as he did if he had been under the Greek influence as much in his youth as I was in mine. The reference seemed perfectly natural to me, and this is the first time in fifty years that anyone has objected to it, although Untermeyer made much of my occasional and not too numerous Greek allusions. This was, of course, in keeping with the changing fashion of the time, and to Untermeyer's unexplained hostility,
-                    
-                    <note type="authorial">over &#8212;&#8212;</note>
-                    <pb facs="nei.j4c.53.3-4_0002a"/>
-                    <fw type="curatorial">4</fw>
-                    <fw type="authorial">-2-</fw>
-                    
-                    which you must have noticed.</p>
-                
-                <p>I want you <add>to</add> <del>will</del> feel a deep sincerity in my hope that our friendship is unchanged and will continue as it began. I <hi rend="underline">do</hi> want it to be so.</p>
-                
-                <p>Affectionate thoughts for you and Bower &#8212;&#8212; and for Stewart too, if he is there. Also give Jingle some especailly<sic>especially</sic> affectionate attention for me. I count her as one of my animal-people friends, which are scattered pretty much over the map of the country. It makes me happy to think of them.</p>
-                <closer>
-                <signed>John N.</signed>
-                <signed>John G. Neihardt</signed>
-                
-                <note>JGN:ENF</note>                                                            
-                </closer>
-                
-            </div1>
-                
-                
-            <div1 type="envelope">
-                
-                <pb facs="nei.j4c.53.3-4_0002b"/>
-                
-                    <ab type="return">
-                <hi rend="caps">JOHN G. NEIHARDT</hi>
-                    <lb/>
-                Skyrim, Route 7
-                    <lb/>
-                Columbia, Mo.
-                    <lb/>
-                <hi rend="underline">65201</hi> 
-                    </ab>
-                
-                    <ab type="postmark">COLUMBIA, MO 65201 JUL <unclear>12</unclear> _PM 1967</ab>
-                <note type="authorial">Air <hi rend="underline">Mail</hi></note>
-                    <figure>
-                        <figDesc>5 Cent Stamp</figDesc>
-                        <p>5¢ U.S.POSTAGE</p>
-                    </figure>
-                    <figure>
-                        <figDesc>5 Cent Stamp</figDesc>
-                        <p>5¢ U.S.POSTAGE</p>
-                    </figure>
-                    
-                    <ab type="address">
-                        <address>
-                            <addrLine> Dr. Lucile Aly,</addrLine>
-                            <addrLine>1138 22nd Ave., East,</addrLine>
-                            <addrLine>Eugene, Oregon <del/><hi rend="underline">97403</hi></addrLine>
-                        </address>
-                    </ab>
-                
-            </div1>
-        </body>
-        
-        <back></back>
-    </text>
+<idno>nei.j4c.53.3-4_0001-2</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
+<date when="1967-07-11">July 11, 1967</date>
+<extent>2 pages, plus envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>2 type-written pages, plus hand-written envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>2 pages
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+</condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="2">
+<handNote xml:id="type"><p>Media: type</p></handNote>
+<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+
+
+
+
+
+
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+<date when="1900"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName></persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4c.53.3-4_0001" />
+
+<note type="curatorial">292-2 Aly Collection</note>
+<fw type="curatorial">3</fw>
+
+<fw type="letterhead">
+<hi rend="caps">JOHN G. NEIHARDT</hi>
+<lb/>
+<hi rend="caps">SKYRIM FARM</hi>
+<lb/>
+<hi rend="caps">ROUTE 7</hi>
+<lb/>
+<hi rend="caps">COLUMBIA, MO. 65201</hi>
+</fw>
+<opener>
+<dateline>
+July 11
+1 9  6 7
+</dateline>
+
+<salute>Dear Lucile:</salute>
+</opener>
+<p>Thanks for your letter and for the two letters you enclosed.</p>
+
+<p>You need not apologize to me about the accident. The unexpected has a queer way of happening in this world, and it can happen to anybody. What you did was not at all like you. As for missing my 'plane, I made nothing of it, and I told you only as a matter of news. What troubled me most, when I thought about it later, was the fear that I might have seemed to be wrong by leaving you and your sister; but you were in no way in need of me, no one was hurt and you were not alone. I am sure you see this as I do.</p>
+
+<p>It does seem a great pity that we could not have had more time together. There is much to do. This checking of facts is extremely important; and, after corrections have been made, it will be necessary to check the revisions.</p>
+
+<p>I do hope you are still planning on the trip to Bancroft. Perhaps we could get a clearer understanding than we seem to have now.</p>
+
+<p>The following is not too important, but I feel I should follow through. You had suggested that I may have gotten my interest in the Greeks from Dr. House, and I would be glad to admit it if it were true, just as I am glad to credit Volney Streamer for his influence on my way of reading poetry. The Greek interest came a long while before Dr. House, as both the <hi rend="underline">Poet's Town</hi> and <hi rend="caps">THE SONG OF HUGH GLASS</hi> show. Dr. House's first knowledge of me came from his reading of the <hi rend="underline">Poet's Town</hi> in <hi rend="caps">THE FORUM</hi> before he had seen <hi rend="caps">HUGH GLASS</hi>. The Greek influence is obvious in the <hi rend="underline">Poet's Town</hi> and also in <hi rend="caps">HUGH GLASS</hi>. In the latter it seems to be the tragic poets that influenced me most.</p>
+
+<p>My interest in the Greeks came to me through Virgil's <hi rend="underline">Aeneid</hi>, which, as you know, I was reading in the original at the age of fifteen. I began studying the Greek language long before Dr. House came to me. You remarked that it was amazing how wrong a logical inference can be. This is an example of what you mean.</p>
+
+<p>It has struck me that your critic friend in the English department would not have regarded the Greek reference as he did if he had been under the Greek influence as much in his youth as I was in mine. The reference seemed perfectly natural to me, and this is the first time in fifty years that anyone has objected to it, although Untermeyer made much of my occasional and not too numerous Greek allusions. This was, of course, in keeping with the changing fashion of the time, and to Untermeyer's unexplained hostility,
+
+<note type="authorial">over &#8212;&#8212;</note>
+<pb facs="nei.j4c.53.3-4_0002a"/>
+<fw type="curatorial">4</fw>
+<fw type="authorial">-2-</fw>
+
+which you must have noticed.</p>
+
+<p>I want you <add>to</add> <del>will</del> feel a deep sincerity in my hope that our friendship is unchanged and will continue as it began. I <hi rend="underline">do</hi> want it to be so.</p>
+
+<p>Affectionate thoughts for you and Bower &#8212;&#8212; and for Stewart too, if he is there. Also give Jingle some especailly<sic>especially</sic> affectionate attention for me. I count her as one of my animal-people friends, which are scattered pretty much over the map of the country. It makes me happy to think of them.</p>
+<closer>
+<signed>John N.</signed>
+<signed>John G. Neihardt</signed>
+
+<note>JGN:ENF</note>
+</closer>
+
+</div1>
+
+
+<div1 type="envelope">
+
+<pb facs="nei.j4c.53.3-4_0002b"/>
+
+<ab type="return">
+<hi rend="caps">JOHN G. NEIHARDT</hi>
+<lb/>
+Skyrim, Route 7
+<lb/>
+Columbia, Mo.
+<lb/>
+<hi rend="underline">65201</hi> 
+</ab>
+
+<ab type="postmark">COLUMBIA, MO 65201 JUL <unclear>12</unclear> _PM 1967</ab>
+<note type="authorial">Air <hi rend="underline">Mail</hi></note>
+<figure>
+<figDesc>5 Cent Stamp</figDesc>
+<p>5¢ U.S.POSTAGE</p>
+</figure>
+<figure>
+<figDesc>5 Cent Stamp</figDesc>
+<p>5¢ U.S.POSTAGE</p>
+</figure>
+
+<ab type="address">
+<address>
+<addrLine> Dr. Lucile Aly,</addrLine>
+<addrLine>1138 22nd Ave., East,</addrLine>
+<addrLine>Eugene, Oregon <del/><hi rend="underline">97403</hi></addrLine>
+</address>
+</ab>
+
+</div1>
+</body>
+
+<back></back>
+</text>
 </TEI>

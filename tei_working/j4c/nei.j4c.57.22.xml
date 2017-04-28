@@ -1,170 +1,181 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.57.22">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title type="main">Letter from John G. Neihardt to Hilda, March 13, 1969</title>
-                <author>Neihardt, John Gneisenau, 1881-1973</author>
-                <principal>Gossin, Pamela</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date>2013</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <authority>The Papers of John G. Neihardt</authority>
-                <publisher>University of Nebraska-Lincoln</publisher>
-                <distributor>
-                    <name>Center for Digital Research in the Humanities</name>
-                    <address>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Hilda, March 13, 1969</title>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
 <addrLine>319 Love Library</addrLine>
 <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 <addrLine>cdrh@unlnotes.unl.edu</addrLine>
 </address>
-                </distributor>
-                <pubPlace>Lincoln, Nebraska</pubPlace> 
-                <address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-                <idno>nei.j4c.57.22</idno>
-                <availability>
-                    <p></p>
-                </availability>
-            </publicationStmt>
-            
-            <notesStmt><note></note></notesStmt>
-            
-            <sourceDesc>
-                <bibl>
-                    <author>Neihardt, John Gneisenau, 1881-1973</author>
-                    <title level="m" type="main">Letter from John G. Neihardt to Hilda</title>
-                    <date when="1969-03-13">March 13, 1969</date>
-                    <extent>1 page</extent>
-                </bibl>
-                <msDesc>
-                    <msIdentifier>
-                        <repository></repository>
-                        <idno></idno>
-                    </msIdentifier>
-                    <msContents>
-                        <p>1 type-written page</p>
-                    </msContents>
-                    <physDesc>
-                        <objectDesc>
-                            <supportDesc>
-                                <support></support>
-                                <extent>1 page
-                                    <dimensions unit="mm"><height></height><width></width></dimensions>
-                                </extent>
-                                <condition>
-                                    <p></p></condition>
-                            </supportDesc>
-                        </objectDesc>
-                        <handDesc hands="1">
-                            <handNote xml:id="type"><p>Media: type</p></handNote>
-                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-                        </handDesc>
-                        <typeDesc>
-                            <typeNote><p></p></typeNote>
-                        </typeDesc>
-                    </physDesc>
-                    <history><origin></origin>
-                        <provenance></provenance>
-                        <acquisition></acquisition>
-                    </history>
-                </msDesc>
-                
-            </sourceDesc>
-        </fileDesc>
-        
-        <encodingDesc>
-            <editorialDecl>
-                <correction>
-                    <p></p>
-                </correction>
-                <normalization>
-                    <p></p>
-                </normalization>
-            </editorialDecl>
-        </encodingDesc>
-        
-        <profileDesc>
-            <textClass>
-                <keywords scheme="original" n="category">
-                    <term>Correspondence</term>
-                </keywords>
-                <keywords scheme="original" n="subcategory">
-                    <term>Business</term>
-                </keywords>
-                <keywords scheme="original" n="topic">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="keywords">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="people">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="places">
-                    <term></term>
-                </keywords>
-            </textClass>
-            <particDesc><person role="recipient"><persName>Hilda</persName></person></particDesc>
-        </profileDesc>
-        
-        <revisionDesc>
-            <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
-            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
-            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
-            
-        </revisionDesc>
-    </teiHeader>
-    
-    <text>
-        <body>
-            
-            <div1 type="letter">
-                
-                <pb facs="nei.j4c.57.22" />
-                
-                <fw type="curatorial">22</fw>
-                
-                <opener>
-                    <dateline>
-                        5835 Vine Street
-                        Lincoln, Nebraska 68505
-                        March 13, 1969
-                    </dateline>
-                    
-                    <salute>Dear Hilda,</salute>
-                </opener>
-                
-                <p>I have been thinking that we should make an effort to interest some movie agent in my <hi rend="underline">When the Tree Flowered</hi>. As you know, it is ideal movie material, especially now that Indians are popular. It offers a complete Sioux story from boyhood and girlhood to maturity, and certainly it is romantic. It's a queer thing that no one has known of its value.</p>
-                
-                <p>I heard from John Maddon by phone this evening. He insists that I must let him know whnever I want to go any place, and there will be plane for me. I am considering taking up his offer for a flight to Eugene, Oregon, as I need desperately to have a talk with Lucile Aley<sic>Aly</sic>. John says he could get me there in an hour and forty-five minutes.from Lincoln. John and I have agreed to make the trip to Columbia in late May when Erica is married. I am to "give her away."</p>
-                
-                <p>Do you have any way of learning the names of reputable movie agents? Do you think it might be all right to ask DeWitt too<sic>to</sic> help us in this, at the same time suggesting that he himself might be interested in <hi rend="underline">When the Tree Flowered</hi>?</p>
-                
-                <p>I have just completed the first half of <hi rend="underline">The Old Man Remembers</hi> &#8212;&#8212; forty thousand words. I now see it, however, as a complete little book of about two hundred pages on my boyhood and early youth. It really is a complete thing and I judge from its effect on those who have heard it or read it that it does have quite a wallop. I am even thinking it might be well to offer it to a publisher. The Nebraska University Press of course will take it in a hurry, and I judge from the recent sucess of my books that I might have some bargaining power if they were given the book. I think it's pretty smart to consider the complete though shorter book. What do you think?</p>
-                
-                <p>I think of you and all your children very often and with great love. They are all so utterly fine and worthwhile. And so are you, Hiddy.</p>
-                
-                <p>I feel a little sad when I think of Alice losing both her girls and her grandson.</p>
-                
-                <p>I am looking forward to the time when I can see you again. &#8212;&#8212; about the eighteenth of April maybe?</p>
-                
-                <closer>
-                    <note>JGN:fmb</note>
-                </closer>
-                
-            </div1>
-        </body>
-        
-        <back></back>
-    </text>
+<idno>nei.j4c.57.22</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<title level="m" type="main">Letter from John G. Neihardt to Hilda</title>
+<date when="1969-03-13">March 13, 1969</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>1 type-written page</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>1 page
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+</condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="type"><p>Media: type</p></handNote>
+<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+
+
+
+
+
+
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+<date when="1900"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName></persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Hilda</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4c.57.22" />
+
+<fw type="curatorial">22</fw>
+
+<opener>
+<dateline>
+5835 Vine Street
+Lincoln, Nebraska 68505
+March 13, 1969
+</dateline>
+
+<salute>Dear Hilda,</salute>
+</opener>
+
+<p>I have been thinking that we should make an effort to interest some movie agent in my <hi rend="underline">When the Tree Flowered</hi>. As you know, it is ideal movie material, especially now that Indians are popular. It offers a complete Sioux story from boyhood and girlhood to maturity, and certainly it is romantic. It's a queer thing that no one has known of its value.</p>
+
+<p>I heard from John Maddon by phone this evening. He insists that I must let him know whnever I want to go any place, and there will be plane for me. I am considering taking up his offer for a flight to Eugene, Oregon, as I need desperately to have a talk with Lucile Aley<sic>Aly</sic>. John says he could get me there in an hour and forty-five minutes.from Lincoln. John and I have agreed to make the trip to Columbia in late May when Erica is married. I am to "give her away."</p>
+
+<p>Do you have any way of learning the names of reputable movie agents? Do you think it might be all right to ask DeWitt too<sic>to</sic> help us in this, at the same time suggesting that he himself might be interested in <hi rend="underline">When the Tree Flowered</hi>?</p>
+
+<p>I have just completed the first half of <hi rend="underline">The Old Man Remembers</hi> &#8212;&#8212; forty thousand words. I now see it, however, as a complete little book of about two hundred pages on my boyhood and early youth. It really is a complete thing and I judge from its effect on those who have heard it or read it that it does have quite a wallop. I am even thinking it might be well to offer it to a publisher. The Nebraska University Press of course will take it in a hurry, and I judge from the recent sucess of my books that I might have some bargaining power if they were given the book. I think it's pretty smart to consider the complete though shorter book. What do you think?</p>
+
+<p>I think of you and all your children very often and with great love. They are all so utterly fine and worthwhile. And so are you, Hiddy.</p>
+
+<p>I feel a little sad when I think of Alice losing both her girls and her grandson.</p>
+
+<p>I am looking forward to the time when I can see you again. &#8212;&#8212; about the eighteenth of April maybe?</p>
+
+<closer>
+<note>JGN:fmb</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
 </TEI>

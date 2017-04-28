@@ -1,199 +1,210 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.65.32-33_0001-2">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title type="main">Letter from John G. Neihardt to Victoria McCabe, May 24, 1973</title>
-                <author>Neihardt, John Gneisenau, 1881-1973</author>
-                <principal>Gossin, Pamela</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date>2013</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <authority>The Papers of John G. Neihardt</authority>
-                <publisher>University of Nebraska-Lincoln</publisher>
-                <distributor>
-                    <name>Center for Digital Research in the Humanities</name>
-                    <address>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Victoria McCabe, May 24, 1973</title>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
 <addrLine>319 Love Library</addrLine>
 <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 <addrLine>cdrh@unlnotes.unl.edu</addrLine>
 </address>
-                </distributor>
-                <pubPlace>Lincoln, Nebraska</pubPlace> 
-                <address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-                <idno>nei.j4c.65.32-33_0001-2</idno>
-                <availability>
-                    <p></p>
-                </availability>
-            </publicationStmt>
-            
-            <notesStmt><note></note></notesStmt>
-            
-            <sourceDesc>
-                <bibl>
-                    <author>Neihardt, John Gneisenau, 1881-1973</author>
-                    <title level="m" type="main">Letter from John G. Neihardt to Victoria McCabe</title>
-                    <date when="1973-05-24">May 24, 1973</date>
-                    <extent>1 page</extent>
-                </bibl>
-                <msDesc>
-                    <msIdentifier>
-                        <repository></repository>
-                        <idno></idno>
-                    </msIdentifier>
-                    <msContents>
-                        <p>1 type-written page</p>
-                    </msContents>
-                    <physDesc>
-                        <objectDesc>
-                            <supportDesc>
-                                <support></support>
-                                <extent>1 page
-                                    <dimensions unit="mm"><height></height><width></width></dimensions>
-                                </extent>
-                                <condition>
-                                    <p></p></condition>
-                            </supportDesc>
-                        </objectDesc>
-                        <handDesc hands="1">
-                            <handNote xml:id="type"><p>Media: type</p></handNote>
-                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-                        </handDesc>
-                        <typeDesc>
-                            <typeNote><p></p></typeNote>
-                        </typeDesc>
-                    </physDesc>
-                    <history><origin></origin>
-                        <provenance></provenance>
-                        <acquisition></acquisition>
-                    </history>
-                </msDesc>
-                
-            </sourceDesc>
-        </fileDesc>
-        
-        <encodingDesc>
-            <editorialDecl>
-                <correction>
-                    <p></p>
-                </correction>
-                <normalization>
-                    <p></p>
-                </normalization>
-            </editorialDecl>
-        </encodingDesc>
-        
-        <profileDesc>
-            <textClass>
-                <keywords scheme="original" n="category">
-                    <term>Correspondence</term>
-                </keywords>
-                <keywords scheme="original" n="subcategory">
-                    <term>Business</term>
-                </keywords>
-                <keywords scheme="original" n="topic">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="keywords">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="people">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="places">
-                    <term></term>
-                </keywords>
-            </textClass>
-            <particDesc><person role="recipient"><persName>McCabe, Victoria</persName></person></particDesc>
-        </profileDesc>
-        
-        <revisionDesc>
-            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
-            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
-            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
-            
-        </revisionDesc>
-    </teiHeader>
-    
-    <text>
-        <body>
-            
-            <div1 type="letter">
-                
-                <pb facs="nei.j4c.65.32-33_0001" />
-                
-                <fw type="curatorial">32</fw>
-                
-                <opener>
-                    <dateline>
-                        5835 Vine Street
-                        Lincoln, Nebraska 68505
-                        May 24, 1973
-                    </dateline>
-                  
-                    <address>
-                        <addrLine>Victoria McCabe</addrLine>
-                        <addrLine>331 Broadway</addrLine>
-                        <addrLine>Pueblo, Colorado 81004</addrLine>
-                    </address>
-                    
-                    <salute>Dear Victoria McCabe:</salute>
-                </opener>
-                <p>On May 18, 1973, we sent you the "Poet's Recipe for Fire-pit Fowl Cooking." In re-checking the write-up, it was found that an addition and a correction should be made as follows:</p>
-                
-                <p>The first sentence should be changed to read, "Dig a hole 3 feet in diameter and 2 feet deep."</p>
-                
-                <p>In the third paragraph, the following sentence should be added, "On top of the gravel build a fire with good wood that will burn down to coals."</p>
-                
-                <p>It is hoped that these changes can be made without too much difficulty.</p>
-                <closer>
-                    <salute>Sincerely,</salute>
-                
-                
-                    <signed>John G. Neihardt</signed>
-                
-                
-                    <note>JGN:nh</note>                                                
-                </closer>
-                
-            </div1>
-            
-            
-            <div1 type="enclosure">
-                
-                <pb facs="nei.j4c.65.32-33_0002"/>
-                
-                <note>5/18/73</note>
-                
-                <fw type="curatorial">33</fw>
-                
-                <opener>Poet's Recipe for Fire-pit Fowl Cooking</opener>
-                
-                <p>Dig a hole 2 feet square and 2 feet deep. Kindle a fire in the hole and continue to add larger chunks of wood to produce a good bed of coals.</p>
-                
-                <p>Prepare a stuffed fowl (goose, duck or chicken). Peel a sufficient number of potatoes to be strung on a cord, as beads, to encircle the fowl. Sew the stuffed fowl and a ring of potatoes in a coarse muslin sack. Wrap the bundle in newspaper (about 1 inch thick) and secure with cord, thoroughly wrapped about it. Dunk bundle in clear water until soaked. Let drain so as not to douse the fire.</p>
-                
-                <p>Cover the coals with a blanket of long, green grass (about 2 inches thick).  Place the bundle of fowl and potatoes on the grass. Cover with green grass and then heap gravel atop the grass.</p>
-                
-                <p>Go swimming or hiking for three hours. Return to the fire-pit and uncover the newspaper bundle. Remove paper from bundle. Place bundle on clean area and slit open the bag, spreading the cloth around the fowl and potatoes. Dinner is now served. It will be found to be very tender.</p>
-                
-                <p>Success of this method of cooking will depend largely upon the thoroughness with which the coals have been prepared.</p>
-                
-                <closer>&#8212; <signed>John G. Neihardt</signed></closer>
-                
-            </div1>
-        </body>
-        
-        <back></back>
-    </text>
+<idno>nei.j4c.65.32-33_0001-2</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<title level="m" type="main">Letter from John G. Neihardt to Victoria McCabe</title>
+<date when="1973-05-24">May 24, 1973</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>1 type-written page</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>1 page
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+</condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="type"><p>Media: type</p></handNote>
+<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+
+
+
+
+
+
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+<date when="1900"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName></persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>McCabe, Victoria</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4c.65.32-33_0001" />
+
+<fw type="curatorial">32</fw>
+
+<opener>
+<dateline>
+5835 Vine Street
+Lincoln, Nebraska 68505
+May 24, 1973
+</dateline>
+  
+<address>
+<addrLine>Victoria McCabe</addrLine>
+<addrLine>331 Broadway</addrLine>
+<addrLine>Pueblo, Colorado 81004</addrLine>
+</address>
+
+<salute>Dear Victoria McCabe:</salute>
+</opener>
+<p>On May 18, 1973, we sent you the "Poet's Recipe for Fire-pit Fowl Cooking." In re-checking the write-up, it was found that an addition and a correction should be made as follows:</p>
+
+<p>The first sentence should be changed to read, "Dig a hole 3 feet in diameter and 2 feet deep."</p>
+
+<p>In the third paragraph, the following sentence should be added, "On top of the gravel build a fire with good wood that will burn down to coals."</p>
+
+<p>It is hoped that these changes can be made without too much difficulty.</p>
+<closer>
+<salute>Sincerely,</salute>
+
+
+<signed>John G. Neihardt</signed>
+
+
+<note>JGN:nh</note>
+</closer>
+
+</div1>
+
+
+<div1 type="enclosure">
+
+<pb facs="nei.j4c.65.32-33_0002"/>
+
+<note>5/18/73</note>
+
+<fw type="curatorial">33</fw>
+
+<opener>Poet's Recipe for Fire-pit Fowl Cooking</opener>
+
+<p>Dig a hole 2 feet square and 2 feet deep. Kindle a fire in the hole and continue to add larger chunks of wood to produce a good bed of coals.</p>
+
+<p>Prepare a stuffed fowl (goose, duck or chicken). Peel a sufficient number of potatoes to be strung on a cord, as beads, to encircle the fowl. Sew the stuffed fowl and a ring of potatoes in a coarse muslin sack. Wrap the bundle in newspaper (about 1 inch thick) and secure with cord, thoroughly wrapped about it. Dunk bundle in clear water until soaked. Let drain so as not to douse the fire.</p>
+
+<p>Cover the coals with a blanket of long, green grass (about 2 inches thick).  Place the bundle of fowl and potatoes on the grass. Cover with green grass and then heap gravel atop the grass.</p>
+
+<p>Go swimming or hiking for three hours. Return to the fire-pit and uncover the newspaper bundle. Remove paper from bundle. Place bundle on clean area and slit open the bag, spreading the cloth around the fowl and potatoes. Dinner is now served. It will be found to be very tender.</p>
+
+<p>Success of this method of cooking will depend largely upon the thoroughness with which the coals have been prepared.</p>
+
+<closer>&#8212; <signed>John G. Neihardt</signed></closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
 </TEI>

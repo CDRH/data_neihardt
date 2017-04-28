@@ -1,182 +1,193 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.64.8">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title type="main">Letter from John G. Neihardt to Mildred R. Bennett, November 1, 1972</title>
-                <author>Neihardt, John Gneisenau, 1881-1973</author>
-                <principal>Gossin, Pamela</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date>2013</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <authority>The Papers of John G. Neihardt</authority>
-                <publisher>University of Nebraska-Lincoln</publisher>
-                <distributor>
-                    <name>Center for Digital Research in the Humanities</name>
-                    <address>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Mildred R. Bennett, November 1, 1972</title>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
 <addrLine>319 Love Library</addrLine>
 <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 <addrLine>cdrh@unlnotes.unl.edu</addrLine>
 </address>
-                </distributor>
-                <pubPlace>Lincoln, Nebraska</pubPlace> 
-                <address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-                <idno>nei.j4c.64.8</idno>
-                <availability>
-                    <p></p>
-                </availability>
-            </publicationStmt>
-            
-            <notesStmt><note></note></notesStmt>
-            
-            <sourceDesc>
-                <bibl>
-                    <author>Neihardt, John Gneisenau, 1881-1973</author>
-                    <title level="m" type="main">Letter from John G. Neihardt to Mildred R. Bennett</title>
-                    <date when="1972-11-01">November 1, 1972</date>
-                    <extent>1 page</extent>
-                </bibl>
-                <msDesc>
-                    <msIdentifier>
-                        <repository></repository>
-                        <idno></idno>
-                    </msIdentifier>
-                    <msContents>
-                        <p>1 type-written page</p>
-                    </msContents>
-                    <physDesc>
-                        <objectDesc>
-                            <supportDesc>
-                                <support></support>
-                                <extent>1 page
-                                    <dimensions unit="mm"><height></height><width></width></dimensions>
-                                </extent>
-                                <condition>
-                                    <p></p></condition>
-                            </supportDesc>
-                        </objectDesc>
-                        <handDesc hands="1">
-                            <handNote xml:id="type"><p>Media: type</p></handNote>
-                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-                        </handDesc>
-                        <typeDesc>
-                            <typeNote><p></p></typeNote>
-                        </typeDesc>
-                    </physDesc>
-                    <history><origin></origin>
-                        <provenance></provenance>
-                        <acquisition></acquisition>
-                    </history>
-                </msDesc>
-                
-            </sourceDesc>
-        </fileDesc>
-        
-        <encodingDesc>
-            <editorialDecl>
-                <correction>
-                    <p></p>
-                </correction>
-                <normalization>
-                    <p></p>
-                </normalization>
-            </editorialDecl>
-        </encodingDesc>
-        
-        <profileDesc>
-            <textClass>
-                <keywords scheme="original" n="category">
-                    <term>Correspondence</term>
-                </keywords>
-                <keywords scheme="original" n="subcategory">
-                    <term>Business</term>
-                </keywords>
-                <keywords scheme="original" n="topic">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="keywords">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="people">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="places">
-                    <term></term>
-                </keywords>
-            </textClass>
-            <particDesc><person role="recipient"><persName>Bennett, Mildred R.</persName></person></particDesc>
-        </profileDesc>
-        
-        <revisionDesc>
-            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
-            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
-            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
-            
-        </revisionDesc>
-    </teiHeader>
-    
-    <text>
-        <body>
-            
-            <div1 type="letter">
-                
-                <pb facs="nei.j4c.64.8" />
-                
-                <fw type="curatorial">8</fw>
-                
-                <opener>
-                    <dateline>
-                        5835 Vine Street
-                        Lincoln, Nebraska 68505
-                        November 1, 1972
-                    </dateline>
-                    
-                    <address>
-                        <addrLine>Mrs. Mildred R. Bennett</addrLine>
-                        <addrLine>329 North Cedar</addrLine>
-                        <addrLine>Red Cloud, Nebraska 68970</addrLine>
-                    </address>
-                    
-                    <salute>Dear Mildred:</salute>
-                </opener>
-                <p>You will, I am sure, forgive me for not writing you. The fact of the matter is that I shy away from letters these days and get letters written only when I dictate, but I have thought and thought of you and you know very well that my thoughts of you are affectionate.</p>
-                
-                <p>Your comments on <hi rend="caps">ALL IS BUT A BEGINNING</hi> naturally pleased me greatly.</p>
-                
-                <p>I am working on the adult section of my "autobiography" and have completed about one-half of it. I should be able to finish within six months or less. The work is slowed down considerably by the condition of my eyes. You know I had two cataract operations and while they were successful they didn't leave me complete eyesight. I write and pass what I have written to Myrtle, who then copies them in her legible hand and turns them back to me. In that way I am able to proceed with the book. I am glad to say I have sufficient eyesight for ordinary uses.</p>
-                
-                <p>I had your review read to me soon after receiving it and I should have acknowledged it at once. I am sorry.</p>
-                
-                <p>I do hope you may hear soon from your editor and that he may be able to find room for it in the Western American Literature Magazine.</p>
-                
-                <p>It seems a long time since I have seen you and I do hope that you may be able to come to Lincoln before too long. And when you do come, be sure to come to the Youngs that we may have a little talk about matters. <hi rend="caps">BLACK ELK</hi> continues to sell like a very nasty novel. It's really astonishing. We have just received a copy of the British edition published in London, and the British Broadcasting Company wants to make an hour program out of it.</p>
-                
-                <p>There have been some very fine reviews of my recent book. For some reason or other no one seems to be offended by it or think it should have been written otherwise.</p>
-                <closer>
-                    <salute>Do drop in and see us. Your old friend,</salute>
-                    
-                    <signed>John G. Neihardt</signed>
-                </closer>
-                
-                <postscript>
-                    <opener><hi rend="caps">P.S.</hi></opener> <p>Please say very nice things to the Doctor from me.</p> <closer>&#8212; <signed>J.G.N.</signed>
-                    
-                    <note>JGN:nh</note></closer>
-                </postscript>
-            </div1>
-        </body>
-        
-        <back></back>
-    </text>
+<idno>nei.j4c.64.8</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<title level="m" type="main">Letter from John G. Neihardt to Mildred R. Bennett</title>
+<date when="1972-11-01">November 1, 1972</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>1 type-written page</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>1 page
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+</condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="type"><p>Media: type</p></handNote>
+<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+
+
+
+
+
+
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+<date when="1900"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName></persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Bennett, Mildred R.</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4c.64.8" />
+
+<fw type="curatorial">8</fw>
+
+<opener>
+<dateline>
+5835 Vine Street
+Lincoln, Nebraska 68505
+November 1, 1972
+</dateline>
+
+<address>
+<addrLine>Mrs. Mildred R. Bennett</addrLine>
+<addrLine>329 North Cedar</addrLine>
+<addrLine>Red Cloud, Nebraska 68970</addrLine>
+</address>
+
+<salute>Dear Mildred:</salute>
+</opener>
+<p>You will, I am sure, forgive me for not writing you. The fact of the matter is that I shy away from letters these days and get letters written only when I dictate, but I have thought and thought of you and you know very well that my thoughts of you are affectionate.</p>
+
+<p>Your comments on <hi rend="caps">ALL IS BUT A BEGINNING</hi> naturally pleased me greatly.</p>
+
+<p>I am working on the adult section of my "autobiography" and have completed about one-half of it. I should be able to finish within six months or less. The work is slowed down considerably by the condition of my eyes. You know I had two cataract operations and while they were successful they didn't leave me complete eyesight. I write and pass what I have written to Myrtle, who then copies them in her legible hand and turns them back to me. In that way I am able to proceed with the book. I am glad to say I have sufficient eyesight for ordinary uses.</p>
+
+<p>I had your review read to me soon after receiving it and I should have acknowledged it at once. I am sorry.</p>
+
+<p>I do hope you may hear soon from your editor and that he may be able to find room for it in the Western American Literature Magazine.</p>
+
+<p>It seems a long time since I have seen you and I do hope that you may be able to come to Lincoln before too long. And when you do come, be sure to come to the Youngs that we may have a little talk about matters. <hi rend="caps">BLACK ELK</hi> continues to sell like a very nasty novel. It's really astonishing. We have just received a copy of the British edition published in London, and the British Broadcasting Company wants to make an hour program out of it.</p>
+
+<p>There have been some very fine reviews of my recent book. For some reason or other no one seems to be offended by it or think it should have been written otherwise.</p>
+<closer>
+<salute>Do drop in and see us. Your old friend,</salute>
+
+<signed>John G. Neihardt</signed>
+</closer>
+
+<postscript>
+<opener><hi rend="caps">P.S.</hi></opener> <p>Please say very nice things to the Doctor from me.</p> <closer>&#8212; <signed>J.G.N.</signed>
+
+<note>JGN:nh</note></closer>
+</postscript>
+</div1>
+</body>
+
+<back></back>
+</text>
 </TEI>
 

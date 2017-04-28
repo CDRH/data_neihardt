@@ -1,206 +1,217 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.61.49-51_0001-3">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, September 12, 1970</title>
-                <author>Neihardt, John Gneisenau, 1881-1973</author>
-                <principal>Gossin, Pamela</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date>2013</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <authority>The Papers of John G. Neihardt</authority>
-                <publisher>University of Nebraska-Lincoln</publisher>
-                <distributor>
-                    <name>Center for Digital Research in the Humanities</name>
-                    <address>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, September 12, 1970</title>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
 <addrLine>319 Love Library</addrLine>
 <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 <addrLine>cdrh@unlnotes.unl.edu</addrLine>
 </address>
-                </distributor>
-                <pubPlace>Lincoln, Nebraska</pubPlace> 
-                <address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-                <idno>nei.j4c.61.49-51_0001-3</idno>
-                <availability>
-                    <p></p>
-                </availability>
-            </publicationStmt>
-            
-            <notesStmt><note></note></notesStmt>
-            
-            <sourceDesc>
-                <bibl>
-                    <author>Neihardt, John Gneisenau, 1881-1973</author>
-                    <title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
-                    <date when="1970-09-12">September 12, 1970</date>
-                    <extent>2 pages, plus envelope</extent>
-                </bibl>
-                <msDesc>
-                    <msIdentifier>
-                        <repository></repository>
-                        <idno></idno>
-                    </msIdentifier>
-                    <msContents>
-                        <p>2 hand-written pages, plus envelope</p>
-                    </msContents>
-                    <physDesc>
-                        <objectDesc>
-                            <supportDesc>
-                                <support></support>
-                                <extent>2 pages
-                                    <dimensions unit="mm"><height></height><width></width></dimensions>
-                                </extent>
-                                <condition>
-                                    <p></p></condition>
-                            </supportDesc>
-                        </objectDesc>
-                        <handDesc hands="1">
-                            <handNote xml:id="type"><p>Media: type</p></handNote>
-                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-                        </handDesc>
-                        <typeDesc>
-                            <typeNote><p></p></typeNote>
-                        </typeDesc>
-                    </physDesc>
-                    <history><origin></origin>
-                        <provenance></provenance>
-                        <acquisition></acquisition>
-                    </history>
-                </msDesc>
-                
-            </sourceDesc>
-        </fileDesc>
-        
-        <encodingDesc>
-            <editorialDecl>
-                <correction>
-                    <p></p>
-                </correction>
-                <normalization>
-                    <p></p>
-                </normalization>
-            </editorialDecl>
-        </encodingDesc>
-        
-        <profileDesc>
-            <textClass>
-                <keywords scheme="original" n="category">
-                    <term>Correspondence</term>
-                </keywords>
-                <keywords scheme="original" n="subcategory">
-                    <term>Business</term>
-                </keywords>
-                <keywords scheme="original" n="topic">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="keywords">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="people">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="places">
-                    <term></term>
-                </keywords>
-            </textClass>
-            <particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
-        </profileDesc>
-        
-        <revisionDesc>
-            <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
-            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
-            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
-            
-        </revisionDesc>
-    </teiHeader>
-    
-    <text>
-        <body>
-            
-            <div1 type="letter">
-                
-                <pb facs="nei.j4c.61.49-51_0001" />
-                
-                <note type="curatorial">Aly Colllection</note>
-                
-                <fw type="curatorial">49</fw>
-                
-                <opener>
-                    <dateline>
-                        221 W. Brandon Road,
-                        Columbia, MO
-                        Sep. 12, '70
-                    </dateline>
-                    
-                    <salute>Dear Lucile:</salute>
-                </opener>
-                <p>I'm spending a few days here, and will return to Lincoln on Sunday. (This is Friday).</p>
-                
-                <p>I was greatly interested in what you said about your <hi rend="caps">MS</hi>. Please <hi rend="underline">do</hi> let me know all about the suggested changes. I wonder who is giving the book its fine reading. Anyway, it's a heluva good book.</p>
-                
-                <p>We sent (or did we?) several pages of minor, but necessary, corrections. Have you noted these?</p>
-                
-                <p>Yesterday Hilda received a letter &#8212; from a Mr. and Mrs. <unclear>Hickock</unclear>, <unclear>saying</unclear> they had purchased a painted <note type="authorial">(over)</note>
-                
-                    <fw type="curatorial">50</fw>
-                
-                    portrait of me and had presented it to the University of Missouri. I know the painting, made in Lincoln two years ago by an Austrian painter, Szasz. It's prounounced <hi rend="underline">Zass</hi>. The painting is a work of art. <unclear>Hickcocks</unclear> wanted advice to where the portrait might best be placed. Hiddy does not want to be implicated, being my daughter. Where do you suggest? In Jesse Hall somewhere? It would conflict with the bronze bust in in Library Collection.</p>
-                    
-                <p><hi rend="underline">Do</hi> I say <hi rend="underline">goddamittohell</hi> very often <del/><add>in</add> your Biography. I think it quite frequently!!</p>
-                    
-                <p>Do you still like me a little? I still like you and Bower and Stewart <hi rend="underline">quite</hi> a good deal.</p>
-                <closer>
-                    <salute>With love</salute>
-                    
-                    <signed>Gaki</signed>
-                </closer>
-                
-                <note type="authorial">I've been doing some of my very best writing during the last six months. My dog story is a <unclear>corker</unclear>!</note>
-                
-                <note type="authorial"><hi rend="underline">Splendid Wayfaring</hi> is out!</note>
-                
-            </div1>
-            
-            
-            <div1 type="envelope">
-                
-                <pb facs="nei.j4c.61.49-51_0003"/>
-                
-                <fw type="curatorial">51</fw>
-                
-                <ab type="postmark">COLUMBIA, MO 65201 SEP 12 PM 1970</ab>
-                <figure>
-                    <figDesc>6 Cent Stamp</figDesc>
-                    <p>UNITED STATES 6¢</p>
-                </figure>
-                
-                <ab type="address">
-                    <address>
-                        <addrLine>Dr. Lucile Aly,</addrLine>
-                        <addrLine>1138 22nd Ave., East,</addrLine>
-                        <addrLine>Eugene,</addrLine>
-                        <addrLine>Oregon.</addrLine>
-                    </address>
-                </ab>
-                
-                <ab type="return">5835 Vine St.
-                Lincoln
-                Neb</ab>
-                
-            </div1>
-        </body>
-        
-        <back></back>
-    </text>
+<idno>nei.j4c.61.49-51_0001-3</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
+<date when="1970-09-12">September 12, 1970</date>
+<extent>2 pages, plus envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>2 hand-written pages, plus envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>2 pages
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+</condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="type"><p>Media: type</p></handNote>
+<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+
+
+
+
+
+
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+<date when="1900"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName></persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4c.61.49-51_0001" />
+
+<note type="curatorial">Aly Colllection</note>
+
+<fw type="curatorial">49</fw>
+
+<opener>
+<dateline>
+221 W. Brandon Road,
+Columbia, MO
+Sep. 12, '70
+</dateline>
+
+<salute>Dear Lucile:</salute>
+</opener>
+<p>I'm spending a few days here, and will return to Lincoln on Sunday. (This is Friday).</p>
+
+<p>I was greatly interested in what you said about your <hi rend="caps">MS</hi>. Please <hi rend="underline">do</hi> let me know all about the suggested changes. I wonder who is giving the book its fine reading. Anyway, it's a heluva good book.</p>
+
+<p>We sent (or did we?) several pages of minor, but necessary, corrections. Have you noted these?</p>
+
+<p>Yesterday Hilda received a letter &#8212; from a Mr. and Mrs. <unclear>Hickock</unclear>, <unclear>saying</unclear> they had purchased a painted <note type="authorial">(over)</note>
+
+<fw type="curatorial">50</fw>
+
+portrait of me and had presented it to the University of Missouri. I know the painting, made in Lincoln two years ago by an Austrian painter, Szasz. It's prounounced <hi rend="underline">Zass</hi>. The painting is a work of art. <unclear>Hickcocks</unclear> wanted advice to where the portrait might best be placed. Hiddy does not want to be implicated, being my daughter. Where do you suggest? In Jesse Hall somewhere? It would conflict with the bronze bust in in Library Collection.</p>
+
+<p><hi rend="underline">Do</hi> I say <hi rend="underline">goddamittohell</hi> very often <del/><add>in</add> your Biography. I think it quite frequently!!</p>
+
+<p>Do you still like me a little? I still like you and Bower and Stewart <hi rend="underline">quite</hi> a good deal.</p>
+<closer>
+<salute>With love</salute>
+
+<signed>Gaki</signed>
+</closer>
+
+<note type="authorial">I've been doing some of my very best writing during the last six months. My dog story is a <unclear>corker</unclear>!</note>
+
+<note type="authorial"><hi rend="underline">Splendid Wayfaring</hi> is out!</note>
+
+</div1>
+
+
+<div1 type="envelope">
+
+<pb facs="nei.j4c.61.49-51_0003"/>
+
+<fw type="curatorial">51</fw>
+
+<ab type="postmark">COLUMBIA, MO 65201 SEP 12 PM 1970</ab>
+<figure>
+<figDesc>6 Cent Stamp</figDesc>
+<p>UNITED STATES 6¢</p>
+</figure>
+
+<ab type="address">
+<address>
+<addrLine>Dr. Lucile Aly,</addrLine>
+<addrLine>1138 22nd Ave., East,</addrLine>
+<addrLine>Eugene,</addrLine>
+<addrLine>Oregon.</addrLine>
+</address>
+</ab>
+
+<ab type="return">5835 Vine St.
+Lincoln
+Neb</ab>
+
+</div1>
+</body>
+
+<back></back>
+</text>
 </TEI>

@@ -1,239 +1,250 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.44.18-22_0001-5">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, Decmeber 2, 1964</title>
-                <author>Neihardt, John Gneisenau, 1881-1973</author>
-                <principal>Gossin, Pamela</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date>2013</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <authority>The Papers of John G. Neihardt</authority>
-                <publisher>University of Nebraska-Lincoln</publisher>
-                <distributor>
-                    <name>Center for Digital Research in the Humanities</name>
-                    <address>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, Decmeber 2, 1964</title>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
 <addrLine>319 Love Library</addrLine>
 <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 <addrLine>cdrh@unlnotes.unl.edu</addrLine>
 </address>
-                </distributor>
-                <pubPlace>Lincoln, Nebraska</pubPlace> 
-                <address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-                <idno>nei.j4c.44.18-22_0001-5</idno>
-                <availability>
-                    <p></p>
-                </availability>
-            </publicationStmt>
-            
-            <notesStmt><note></note></notesStmt>
-            
-            <sourceDesc>
-                <bibl>
-                    <author>Neihardt, John Gneisenau, 1881-1973</author>
-                    <title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
-                    <date when="1964-12-02">December 2, 1964</date>
-                    <extent>4 pages, plus envelope</extent>
-                </bibl>
-                <msDesc>
-                    <msIdentifier>
-                        <repository></repository>
-                        <idno></idno>
-                    </msIdentifier>
-                    <msContents>
-                        <p>4 hand-written pages, plus envelope</p>
-                    </msContents>
-                    <physDesc>
-                        <objectDesc>
-                            <supportDesc>
-                                <support></support>
-                                <extent>4 pages
-                                    <dimensions unit="mm"><height></height><width></width></dimensions>
-                                </extent>
-                                <condition>
-                                    <p></p></condition>
-                            </supportDesc>
-                        </objectDesc>
-                        <handDesc hands="1">
-                            <handNote xml:id="type"><p>Media: type</p></handNote>
-                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-                        </handDesc>
-                        <typeDesc>
-                            <typeNote><p></p></typeNote>
-                        </typeDesc>
-                    </physDesc>
-                    <history><origin></origin>
-                        <provenance></provenance>
-                        <acquisition></acquisition>
-                    </history>
-                </msDesc>
-                
-            </sourceDesc>
-        </fileDesc>
-        
-        <encodingDesc>
-            <editorialDecl>
-                <correction>
-                    <p></p>
-                </correction>
-                <normalization>
-                    <p></p>
-                </normalization>
-            </editorialDecl>
-        </encodingDesc>
-        
-        <profileDesc>
-            <textClass>
-                <keywords scheme="original" n="category">
-                    <term>Correspondence</term>
-                </keywords>
-                <keywords scheme="original" n="subcategory">
-                    <term>Business</term>
-                </keywords>
-                <keywords scheme="original" n="topic">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="keywords">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="people">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="places">
-                    <term></term>
-                </keywords>
-            </textClass>
-            <particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
-        </profileDesc>
-        
-        <revisionDesc>
-            <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
-            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
-            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
-            
-        </revisionDesc>
-    </teiHeader>
-    
-    <text>
-        <body>
-            
-            <div1 type="letter">
-                
-                <pb facs="nei.j4c.44.18-22_0001" />
-                
-          <note type="curatorial">Aly Collection</note>                                     <fw type="curatorial">10</fw>
-                
-                
-                <note type="authorial">Will you go to Ithaca or will Bower go to Eugene for Xmas? Give my affectionate greetings to Bower, please. J. N.</note>
-                <fw type="letterhead">
-                <hi rend="caps">UNIVERSITY OF MISSOURI</hi>
-                    <lb/>
-                <hi rend="caps">COLUMBIA</hi>
-                    <lb/>
-                
-                <hi rend="caps">COLLEGE OF ARTS AND SCIENCE</hi>
-                    <lb/>
-                <hi rend="caps">DEPARTMENT OF ENGLISH</hi>
-                </fw>
-                <opener><dateline>Dec. 2, '64</dateline>
-                
-                <note type="curatorial">219-4</note>
-                <salute>Dear Lucile:</salute></opener> <p>It was good to hear from you and to feel something of your affection again. Things go well here. My classes evidently respond with some enthusiasm, and inquiries are made as to whether I'll be giving the live program &#8212; The Mountain Men &#8212; next semester. The answer is: <hi rend="underline">I will</hi>. I was troubled about my vision, but I've found a <hi rend="underline">new illuminated</hi> reading glass that makes reading as easy as it used to be. I'm so glad. I'm doing over 15 minutes of my talk (<hi rend="caps">TV</hi>) on the Custer battlefield. The field was not clear, and we are now making it <hi rend="double underline">in relief</hi>. This will add greatly to the interest because the strategy and tactics will be much, much clearer.</p>
-                
-                <note type="authorial">(over(</note>
-                
-                <pb facs="nei.j4c.44.18-22_0002"/>
-                <fw type="curatorial">19</fw>
-                
-                <fw type="authorial">-2-</fw>
-                <p>Did I tell you that a new Hugh Glass monument was placed near the Forks this last summer by the State Hist. Society <hi rend="underline">and</hi> the Government? It's 3/4 of a mile south of our original monument.<del>and</del> It gives credit to me and The Song of Hugh Glass. Says I "immortalized" old Hugh!! A movement is on to restore the bronze plate on the original monument.</p>
-                
-                <p>Important folks from the Governor down are in favor of the Laureate Tour for next year &#8212; probably the fall.</p>
-                
-                <p>Add the new Glass monument to our list of memorials! (There are <hi rend="underline">eleven</hi>, I believe)</p>
-                
-                <p>Stanley Smith wrote recently "I hope the December date (for your biography) still holds. That book is sorely needed".</p>
-                
-                <p><hi rend="underline">I</hi> wish you were planning a <hi rend="double underline">simpler</hi> book. It is 
-                    <hi rend="double underline">not</hi> <hi rend="underline">critical analysis,</hi> but <hi rend="double underline">sympathetic presentation</hi> <hi rend="underline">that is needed</hi>.</p>
-                
-                <pb facs="nei.j4c.44.18-22_0003"/>
-                <fw type="curatorial">20</fw>
-                <fw type="authorial">-3-</fw>
-                
-                <p>What you say you have noted about the <hi rend="underline">new</hi> critics and my antedating them in theory could well be so. And what you say about my attitude towards tragedy as compared with that of certain modern fiction writers is very interesting and, I believe, significant. These matters, and others that <del>have</del>have developed as you went along, properly belong to a book <del>to</del> that might well appear, say, ten years hence. <hi rend="underline">At this strategic moment</hi> the Scheme needs the <hi rend="double underline">Story</hi> of my life and a clear, sympathetic offering of the values in what I've done. Such a book would <hi rend="double underline">go now</hi> &#8212; <hi rend="underline">how</hi> it 
-                    <hi rend="underline">would</hi> go, as 
-                    
-                    <pb facs="nei.44.18-22_0004"/>
-                    <fw type="curatorial">21</fw>
-                    <fw type="authorial">-4-</fw>
-                    
-                    compared with my own books! The <hi rend="underline">glaring fact</hi> is that you <hi rend="double underline">don't need more research.</hi> <hi rend="underline">You need simplification of purpose and <add>a</add> direct drive towards the clearly seen end of a simple plan. This was</hi> your intention some two, three, four years ago. You <hi rend="underline">did</hi> say 
-                    <hi rend="underline">"this</hi> is the first  book; there will be another" &#8212; or words to that effect.</p>
-                
-                <p>I am deeply sorry that you have not, and do not have, the needed time for <del>the</del> the job.</p>
-                <closer>
-                <salute>Anyway, here is the old affection, dear Lady.</salute> <signed>&#8212; John N.</signed>
-                </closer>
-                
-                <fw type="letterhead">
-                    <hi rend="caps">UNIVERSITY OF MISSOURI</hi>
-                        <lb/>
-                    <hi rend="caps">COLUMBIA</hi>
-                        <lb/>
-                    
-                    <hi rend="caps">COLLEGE OF ARTS AND SCIENCE</hi>
-                        <lb/>
-                    <hi rend="caps">DEPARTMENT OF ENGLISH</hi>
-                </fw>
-                
-            </div1>
-            
-            
-            <div1 type="envelope">
-                
-                <pb facs="nei.j4c.44.18-22_0005"/>
-                <fw type="curatorial">22</fw>
-                
-                <ab type="return">
-                <hi rend="caps">AFTER 10 DAYS RETURN TO</hi> 
-                    <lb/>
-                <hi rend="caps">UNIVERSITY OF MISSOURI</hi>
-                    <lb/>
-                <hi rend="caps">COLUMBIA, MISSOURI</hi>
-                    <lb/>
-                <hi rend="double underline">219 A</hi> &amp; S
-                </ab>
-                
-                <ab type="postmark">COLUMBIA, MO. DEC 2 - PM 1964</ab>
-                <figure>
-                    <figDesc>8 Cent Stamp</figDesc>
-                    <p>8¢ U.S. AIR MAIL</p>
-                </figure>
-                
-                <ab type="address">
-                    <address>
-                        <addrLine>Dr. Lucile Aly,</addrLine>
-                        <addrLine>1138 22nd Ave., East,</addrLine>
-                        <addrLine>Eugene,</addrLine>
-                        <addrLine>Oregon</addrLine>
-                    </address>
-                </ab>
-                
-            </div1>
-        </body>
-        
-        <back></back>
-    </text>
+<idno>nei.j4c.44.18-22_0001-5</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
+<date when="1964-12-02">December 2, 1964</date>
+<extent>4 pages, plus envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>4 hand-written pages, plus envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>4 pages
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+</condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="type"><p>Media: type</p></handNote>
+<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+
+
+
+
+
+
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+<date when="1900"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName></persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4c.44.18-22_0001" />
+
+  <note type="curatorial">Aly Collection</note> <fw type="curatorial">10</fw>
+
+
+<note type="authorial">Will you go to Ithaca or will Bower go to Eugene for Xmas? Give my affectionate greetings to Bower, please. J. N.</note>
+<fw type="letterhead">
+<hi rend="caps">UNIVERSITY OF MISSOURI</hi>
+<lb/>
+<hi rend="caps">COLUMBIA</hi>
+<lb/>
+
+<hi rend="caps">COLLEGE OF ARTS AND SCIENCE</hi>
+<lb/>
+<hi rend="caps">DEPARTMENT OF ENGLISH</hi>
+</fw>
+<opener><dateline>Dec. 2, '64</dateline>
+
+<note type="curatorial">219-4</note>
+<salute>Dear Lucile:</salute></opener> <p>It was good to hear from you and to feel something of your affection again. Things go well here. My classes evidently respond with some enthusiasm, and inquiries are made as to whether I'll be giving the live program &#8212; The Mountain Men &#8212; next semester. The answer is: <hi rend="underline">I will</hi>. I was troubled about my vision, but I've found a <hi rend="underline">new illuminated</hi> reading glass that makes reading as easy as it used to be. I'm so glad. I'm doing over 15 minutes of my talk (<hi rend="caps">TV</hi>) on the Custer battlefield. The field was not clear, and we are now making it <hi rend="double underline">in relief</hi>. This will add greatly to the interest because the strategy and tactics will be much, much clearer.</p>
+
+<note type="authorial">(over(</note>
+
+<pb facs="nei.j4c.44.18-22_0002"/>
+<fw type="curatorial">19</fw>
+
+<fw type="authorial">-2-</fw>
+<p>Did I tell you that a new Hugh Glass monument was placed near the Forks this last summer by the State Hist. Society <hi rend="underline">and</hi> the Government? It's 3/4 of a mile south of our original monument.<del>and</del> It gives credit to me and The Song of Hugh Glass. Says I "immortalized" old Hugh!! A movement is on to restore the bronze plate on the original monument.</p>
+
+<p>Important folks from the Governor down are in favor of the Laureate Tour for next year &#8212; probably the fall.</p>
+
+<p>Add the new Glass monument to our list of memorials! (There are <hi rend="underline">eleven</hi>, I believe)</p>
+
+<p>Stanley Smith wrote recently "I hope the December date (for your biography) still holds. That book is sorely needed".</p>
+
+<p><hi rend="underline">I</hi> wish you were planning a <hi rend="double underline">simpler</hi> book. It is 
+<hi rend="double underline">not</hi> <hi rend="underline">critical analysis,</hi> but <hi rend="double underline">sympathetic presentation</hi> <hi rend="underline">that is needed</hi>.</p>
+
+<pb facs="nei.j4c.44.18-22_0003"/>
+<fw type="curatorial">20</fw>
+<fw type="authorial">-3-</fw>
+
+<p>What you say you have noted about the <hi rend="underline">new</hi> critics and my antedating them in theory could well be so. And what you say about my attitude towards tragedy as compared with that of certain modern fiction writers is very interesting and, I believe, significant. These matters, and others that <del>have</del>have developed as you went along, properly belong to a book <del>to</del> that might well appear, say, ten years hence. <hi rend="underline">At this strategic moment</hi> the Scheme needs the <hi rend="double underline">Story</hi> of my life and a clear, sympathetic offering of the values in what I've done. Such a book would <hi rend="double underline">go now</hi> &#8212; <hi rend="underline">how</hi> it 
+<hi rend="underline">would</hi> go, as 
+
+<pb facs="nei.44.18-22_0004"/>
+<fw type="curatorial">21</fw>
+<fw type="authorial">-4-</fw>
+
+compared with my own books! The <hi rend="underline">glaring fact</hi> is that you <hi rend="double underline">don't need more research.</hi> <hi rend="underline">You need simplification of purpose and <add>a</add> direct drive towards the clearly seen end of a simple plan. This was</hi> your intention some two, three, four years ago. You <hi rend="underline">did</hi> say 
+<hi rend="underline">"this</hi> is the first  book; there will be another" &#8212; or words to that effect.</p>
+
+<p>I am deeply sorry that you have not, and do not have, the needed time for <del>the</del> the job.</p>
+<closer>
+<salute>Anyway, here is the old affection, dear Lady.</salute> <signed>&#8212; John N.</signed>
+</closer>
+
+<fw type="letterhead">
+<hi rend="caps">UNIVERSITY OF MISSOURI</hi>
+<lb/>
+<hi rend="caps">COLUMBIA</hi>
+<lb/>
+
+<hi rend="caps">COLLEGE OF ARTS AND SCIENCE</hi>
+<lb/>
+<hi rend="caps">DEPARTMENT OF ENGLISH</hi>
+</fw>
+
+</div1>
+
+
+<div1 type="envelope">
+
+<pb facs="nei.j4c.44.18-22_0005"/>
+<fw type="curatorial">22</fw>
+
+<ab type="return">
+<hi rend="caps">AFTER 10 DAYS RETURN TO</hi> 
+<lb/>
+<hi rend="caps">UNIVERSITY OF MISSOURI</hi>
+<lb/>
+<hi rend="caps">COLUMBIA, MISSOURI</hi>
+<lb/>
+<hi rend="double underline">219 A</hi> &amp; S
+</ab>
+
+<ab type="postmark">COLUMBIA, MO. DEC 2 - PM 1964</ab>
+<figure>
+<figDesc>8 Cent Stamp</figDesc>
+<p>8¢ U.S. AIR MAIL</p>
+</figure>
+
+<ab type="address">
+<address>
+<addrLine>Dr. Lucile Aly,</addrLine>
+<addrLine>1138 22nd Ave., East,</addrLine>
+<addrLine>Eugene,</addrLine>
+<addrLine>Oregon</addrLine>
+</address>
+</ab>
+
+</div1>
+</body>
+
+<back></back>
+</text>
 </TEI>

@@ -1,178 +1,189 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.57.15">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title type="main">Letter from John G. Neihardt to Dr. Slade Kendrick, February 22, 1969</title>
-                <author>Neihardt, John Gneisenau, 1881-1973</author>
-                <principal>Gossin, Pamela</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date>2013</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <authority>The Papers of John G. Neihardt</authority>
-                <publisher>University of Nebraska-Lincoln</publisher>
-                <distributor>
-                    <name>Center for Digital Research in the Humanities</name>
-                    <address>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Dr. Slade Kendrick, February 22, 1969</title>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
 <addrLine>319 Love Library</addrLine>
 <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 <addrLine>cdrh@unlnotes.unl.edu</addrLine>
 </address>
-                </distributor>
-                <pubPlace>Lincoln, Nebraska</pubPlace> 
-                <address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-                <idno>nei.j4c.57.15</idno>
-                <availability>
-                    <p></p>
-                </availability>
-            </publicationStmt>
-            
-            <notesStmt><note></note></notesStmt>
-            
-            <sourceDesc>
-                <bibl>
-                    <author>Neihardt, John Gneisenau, 1881-1973</author>
-                    <title level="m" type="main">Letter from John G. Neihardt to Dr. Slade Kendrick</title>
-                    <date when="1969-02-22">February 22, 1969</date>
-                    <extent>1 page</extent>
-                </bibl>
-                <msDesc>
-                    <msIdentifier>
-                        <repository></repository>
-                        <idno></idno>
-                    </msIdentifier>
-                    <msContents>
-                        <p>1 type-written page</p>
-                    </msContents>
-                    <physDesc>
-                        <objectDesc>
-                            <supportDesc>
-                                <support></support>
-                                <extent>1 page
-                                    <dimensions unit="mm"><height></height><width></width></dimensions>
-                                </extent>
-                                <condition>
-                                    <p></p></condition>
-                            </supportDesc>
-                        </objectDesc>
-                        <handDesc hands="1">
-                            <handNote xml:id="type"><p>Media: type</p></handNote>
-                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-                        </handDesc>
-                        <typeDesc>
-                            <typeNote><p></p></typeNote>
-                        </typeDesc>
-                    </physDesc>
-                    <history><origin></origin>
-                        <provenance></provenance>
-                        <acquisition></acquisition>
-                    </history>
-                </msDesc>
-                
-            </sourceDesc>
-        </fileDesc>
-        
-        <encodingDesc>
-            <editorialDecl>
-                <correction>
-                    <p></p>
-                </correction>
-                <normalization>
-                    <p></p>
-                </normalization>
-            </editorialDecl>
-        </encodingDesc>
-        
-        <profileDesc>
-            <textClass>
-                <keywords scheme="original" n="category">
-                    <term>Correspondence</term>
-                </keywords>
-                <keywords scheme="original" n="subcategory">
-                    <term>Business</term>
-                </keywords>
-                <keywords scheme="original" n="topic">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="keywords">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="people">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="places">
-                    <term></term>
-                </keywords>
-            </textClass>
-            <particDesc><person role="recipient"><persName>Kendrick, M. Slade</persName></person></particDesc>
-        </profileDesc>
-        
-        <revisionDesc>
-            <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
-            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
-            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
-            
-        </revisionDesc>
-    </teiHeader>
-    
-    <text>
-        <body>
-            
-            <div1 type="letter">
-                
-                <pb facs="nei.j4c.57.15" />
-                
-                <note type="curatorial">116</note>
-                <fw type="curatorial">15</fw>
-                
-                <opener>
-                    <dateline>
-                        5835 Vine Street
-                        Lincoln, Nebraska 68505
-                        February 22, 1969
-                    </dateline>
-                    
-                    <address>
-                        <addrLine>Dr. Slade Kendrick</addrLine>
-                        <addrLine>225 Willard Way</addrLine>
-                        <addrLine>Ithaca, New York</addrLine>
-                    </address>
-                    
-                    <note>2-22-69</note>
-                    
-                    <salute>Dear Slade,</salute>
-                </opener>
-                
-                <p>Although I have not been corresponding directly with you, I have kept in touch through my friend, Mrs. Young. I am sure she has been telling you all of my news. You know of course that I have had my second eye operation for cataracts. Yesterday I had my new eyes tested for lenses and within a little more than a week I shall be looking through two eyes at a world that is sometimes too funny for one eye. As I have been recuperating, I have continued to work on my book, "The Old Man Remembers." I now have forty thousand words, which could be about half of the book I have in mind; and I expect to finish during this year. It is not possible to write a complete autobiography, and what I am doing is certainly not of a strict biographical nature in the ordinary meaning of that term. I am now about fifteen years old, but I am getting older fast and will soon be concerned with adult doings. Up to now I have been working on boyhood and youth, and I have found it actually entertaining. I often catch myself laughing heartily over my own life.</p>
-                
-                <p>Are you going to be in Missouri again this spring or summer? I expect to be in Missouri during April, and would it be bully if you were around about that time.</p>
-                
-                <p>How is Nita? I often think of her too and hope she is well, still watching her birds. She and Mrs. Young would be good pals in the bird business.</p>
-                
-                <p>My little dog is trying to get me to do something different and Ican't<sic>I can't</sic> tell what it is. You know him I think&#8212;&#8212;my poodle? He is one of the best friends I have ever had and takes care of me day and night.</p>
-                
-                <p>We have had ten solid weeks of winter, but yesterday and today there has been some melting.</p>
-                
-                <p>I still love you, Slade.</p>
-                <closer>
-                    <salute>Your friend,</salute>
-                    
-                    <signed>John Neiha<unclear reason="missing" cert="high">dt</unclear></signed>
-                </closer>
-                
-            </div1>
-        </body>
-        
-        <back></back>
-    </text>
+<idno>nei.j4c.57.15</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<title level="m" type="main">Letter from John G. Neihardt to Dr. Slade Kendrick</title>
+<date when="1969-02-22">February 22, 1969</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>1 type-written page</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>1 page
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+</condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="type"><p>Media: type</p></handNote>
+<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+
+
+
+
+
+
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+<date when="1900"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName></persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Kendrick, M. Slade</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4c.57.15" />
+
+<note type="curatorial">116</note>
+<fw type="curatorial">15</fw>
+
+<opener>
+<dateline>
+5835 Vine Street
+Lincoln, Nebraska 68505
+February 22, 1969
+</dateline>
+
+<address>
+<addrLine>Dr. Slade Kendrick</addrLine>
+<addrLine>225 Willard Way</addrLine>
+<addrLine>Ithaca, New York</addrLine>
+</address>
+
+<note>2-22-69</note>
+
+<salute>Dear Slade,</salute>
+</opener>
+
+<p>Although I have not been corresponding directly with you, I have kept in touch through my friend, Mrs. Young. I am sure she has been telling you all of my news. You know of course that I have had my second eye operation for cataracts. Yesterday I had my new eyes tested for lenses and within a little more than a week I shall be looking through two eyes at a world that is sometimes too funny for one eye. As I have been recuperating, I have continued to work on my book, "The Old Man Remembers." I now have forty thousand words, which could be about half of the book I have in mind; and I expect to finish during this year. It is not possible to write a complete autobiography, and what I am doing is certainly not of a strict biographical nature in the ordinary meaning of that term. I am now about fifteen years old, but I am getting older fast and will soon be concerned with adult doings. Up to now I have been working on boyhood and youth, and I have found it actually entertaining. I often catch myself laughing heartily over my own life.</p>
+
+<p>Are you going to be in Missouri again this spring or summer? I expect to be in Missouri during April, and would it be bully if you were around about that time.</p>
+
+<p>How is Nita? I often think of her too and hope she is well, still watching her birds. She and Mrs. Young would be good pals in the bird business.</p>
+
+<p>My little dog is trying to get me to do something different and Ican't<sic>I can't</sic> tell what it is. You know him I think&#8212;&#8212;my poodle? He is one of the best friends I have ever had and takes care of me day and night.</p>
+
+<p>We have had ten solid weeks of winter, but yesterday and today there has been some melting.</p>
+
+<p>I still love you, Slade.</p>
+<closer>
+<salute>Your friend,</salute>
+
+<signed>John Neiha<unclear reason="missing" cert="high">dt</unclear></signed>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
 </TEI>

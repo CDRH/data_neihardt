@@ -1,171 +1,182 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.65.8">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title type="main">Letter from John G. Neihardt to Mark and Judy, January 29, 1973</title>
-                <author>Neihardt, John Gneisenau, 1881-1973</author>
-                <principal>Gossin, Pamela</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date>2013</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <authority>The Papers of John G. Neihardt</authority>
-                <publisher>University of Nebraska-Lincoln</publisher>
-                <distributor>
-                    <name>Center for Digital Research in the Humanities</name>
-                    <address>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Mark and Judy, January 29, 1973</title>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
 <addrLine>319 Love Library</addrLine>
 <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 <addrLine>cdrh@unlnotes.unl.edu</addrLine>
 </address>
-                </distributor>
-                <pubPlace>Lincoln, Nebraska</pubPlace> 
-                <address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-                <idno>nei.j4c.65.8</idno>
-                <availability>
-                    <p></p>
-                </availability>
-            </publicationStmt>
-            
-            <notesStmt><note></note></notesStmt>
-            
-            <sourceDesc>
-                <bibl>
-                    <author>Neihardt, John Gneisenau, 1881-1973</author>
-                    <title level="m" type="main">Letter from John G. Neihardt to Mark and Judy</title>
-                    <date when="1973-01-29">January 29, 1973</date>
-                    <extent>1 page</extent>
-                </bibl>
-                <msDesc>
-                    <msIdentifier>
-                        <repository></repository>
-                        <idno></idno>
-                    </msIdentifier>
-                    <msContents>
-                        <p>1 type-written page</p>
-                    </msContents>
-                    <physDesc>
-                        <objectDesc>
-                            <supportDesc>
-                                <support></support>
-                                <extent>1 page
-                                    <dimensions unit="mm"><height></height><width></width></dimensions>
-                                </extent>
-                                <condition>
-                                    <p></p></condition>
-                            </supportDesc>
-                        </objectDesc>
-                        <handDesc hands="1">
-                            <handNote xml:id="type"><p>Media: type</p></handNote>
-                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-                        </handDesc>
-                        <typeDesc>
-                            <typeNote><p></p></typeNote>
-                        </typeDesc>
-                    </physDesc>
-                    <history><origin></origin>
-                        <provenance></provenance>
-                        <acquisition></acquisition>
-                    </history>
-                </msDesc>
-                
-            </sourceDesc>
-        </fileDesc>
-        
-        <encodingDesc>
-            <editorialDecl>
-                <correction>
-                    <p></p>
-                </correction>
-                <normalization>
-                    <p></p>
-                </normalization>
-            </editorialDecl>
-        </encodingDesc>
-        
-        <profileDesc>
-            <textClass>
-                <keywords scheme="original" n="category">
-                    <term>Correspondence</term>
-                </keywords>
-                <keywords scheme="original" n="subcategory">
-                    <term>Business</term>
-                </keywords>
-                <keywords scheme="original" n="topic">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="keywords">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="people">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="places">
-                    <term></term>
-                </keywords>
-            </textClass>
-            <particDesc><person role="recipient"><persName>Mark and Judy</persName></person></particDesc>
-        </profileDesc>
-        
-        <revisionDesc>
-            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
-            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
-            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
-            
-        </revisionDesc>
-    </teiHeader>
-    
-    <text>
-        <body>
-            
-            <div1 type="letter">
-                
-                <pb facs="nei.j4c.65.8" />
-                
-                <fw type="curatorial">8</fw>
-                
-                <opener>
-                    <dateline>
-                        5835 Vine Stre<del>t</del><add>e</add>t
-                        Lincoln, Nebraska 68505
-                        January 29, 1973
-                    </dateline>
-                
-                    <salute>Dear Mark and Judy:</salute>
-                </opener>
-                <p>Bless your hearts &#8212; all three of them!</p>
-                
-                <p>I have just been having an experience with my first love, an imagined experience, of course. I have been working on a chapter called "Playmates" and I told how I played with my first child before it was born. I think this has never been done in print before. I remember how Mona put my hand on her side and the baby kicked me. Then I tapped on his prison wall and, by golly, it kicked me again. I tell how we laughed about it. It makes a lovely memory.</p>
-                
-                <p>I'll be waiting for news February 16.</p>
-                
-                <p>Many thanks for your good birthday wishes. I am delighted with your gift of pens. They are certainly as good as t<del>yo<unclear/></del><add>hey</add> think they are. I used one of them in autographing my books and Myrtle has been using one ever since they arrived. She says, and I swear she's right, that they are perfectly magnoliant, which are a 75-cent word.</p>
-                
-                <p>Now to the hearing aids. Golly how I do sympathize with that lady and her hearing experiences. I have two hearing aids because I thought I had lost one. I am using a Bel<del>o</del><add>t</add>one, which is probably the classic hearing aid at present. When I first used it I was much discouraged because it seemed to me that the hearing aid merely exaggerated the wacky sounds. The total effect was much <del>by</del><add>li</add>ke a boiler factory, but I have kept on trying, and now I hear much better with it than without it, but not under all circumstances. It's certainly better than nothing and I <del><unclear>us</unclear></del><add>su</add>ggest that the lady keep on trying. She cannot expect to have much success in a considerable group of people. But when I am reasonably close to anyone I hear what is being said.</p>
-                
-                <p>The chief purpose of this letter is to assure you that I love you very much, and when that baby is able to hear a message, assure it that I am its honorary grandpa for ever and ever.</p>
-                <closer>
-                    <salute>Your old friend</salute>
-                
-                
-                    <signed>Gaki</signed>
-                
-                    <note>JGN:nh</note>                    
-                </closer>
-                
-            </div1>
-        </body>
-        
-        <back></back>
-    </text>
+<idno>nei.j4c.65.8</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<title level="m" type="main">Letter from John G. Neihardt to Mark and Judy</title>
+<date when="1973-01-29">January 29, 1973</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>1 type-written page</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>1 page
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+</condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="type"><p>Media: type</p></handNote>
+<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+
+
+
+
+
+
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+<date when="1900"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName></persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Mark and Judy</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4c.65.8" />
+
+<fw type="curatorial">8</fw>
+
+<opener>
+<dateline>
+5835 Vine Stre<del>t</del><add>e</add>t
+Lincoln, Nebraska 68505
+January 29, 1973
+</dateline>
+
+<salute>Dear Mark and Judy:</salute>
+</opener>
+<p>Bless your hearts &#8212; all three of them!</p>
+
+<p>I have just been having an experience with my first love, an imagined experience, of course. I have been working on a chapter called "Playmates" and I told how I played with my first child before it was born. I think this has never been done in print before. I remember how Mona put my hand on her side and the baby kicked me. Then I tapped on his prison wall and, by golly, it kicked me again. I tell how we laughed about it. It makes a lovely memory.</p>
+
+<p>I'll be waiting for news February 16.</p>
+
+<p>Many thanks for your good birthday wishes. I am delighted with your gift of pens. They are certainly as good as t<del>yo<unclear/></del><add>hey</add> think they are. I used one of them in autographing my books and Myrtle has been using one ever since they arrived. She says, and I swear she's right, that they are perfectly magnoliant, which are a 75-cent word.</p>
+
+<p>Now to the hearing aids. Golly how I do sympathize with that lady and her hearing experiences. I have two hearing aids because I thought I had lost one. I am using a Bel<del>o</del><add>t</add>one, which is probably the classic hearing aid at present. When I first used it I was much discouraged because it seemed to me that the hearing aid merely exaggerated the wacky sounds. The total effect was much <del>by</del><add>li</add>ke a boiler factory, but I have kept on trying, and now I hear much better with it than without it, but not under all circumstances. It's certainly better than nothing and I <del><unclear>us</unclear></del><add>su</add>ggest that the lady keep on trying. She cannot expect to have much success in a considerable group of people. But when I am reasonably close to anyone I hear what is being said.</p>
+
+<p>The chief purpose of this letter is to assure you that I love you very much, and when that baby is able to hear a message, assure it that I am its honorary grandpa for ever and ever.</p>
+<closer>
+<salute>Your old friend</salute>
+
+
+<signed>Gaki</signed>
+
+<note>JGN:nh</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
 </TEI>

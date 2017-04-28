@@ -1,177 +1,188 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.49.2">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title type="main">Letter from John G. Neihardt to Dr. Slade Kendrick, June 13, 1966</title>
-                <author>Neihardt, John Gneisenau, 1881-1973</author>
-                <principal>Gossin, Pamela</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date>2013</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <authority>The Papers of John G. Neihardt</authority>
-                <publisher>University of Nebraska-Lincoln</publisher>
-                <distributor>
-                    <name>Center for Digital Research in the Humanities</name>
-                    <address>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Dr. Slade Kendrick, June 13, 1966</title>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
 <addrLine>319 Love Library</addrLine>
 <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 <addrLine>cdrh@unlnotes.unl.edu</addrLine>
 </address>
-                </distributor>
-                <pubPlace>Lincoln, Nebraska</pubPlace> 
-                <address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-                <idno>nei.j4c.49.2</idno>
-                <availability>
-                    <p></p>
-                </availability>
-            </publicationStmt>
-            
-            <notesStmt><note></note></notesStmt>
-            
-            <sourceDesc>
-                <bibl>
-                    <author>Neihardt, John Gneisenau, 1881-1973</author>
-                    <title level="m" type="main">Letter from John G. Neihardt to Dr. Slade Kendrick</title>
-                    <date when="1966-06-13">June 13, 1966</date>
-                    <extent>1 page</extent>
-                </bibl>
-                <msDesc>
-                    <msIdentifier>
-                        <repository></repository>
-                        <idno></idno>
-                    </msIdentifier>
-                    <msContents>
-                        <p>1 type-written page</p>
-                    </msContents>
-                    <physDesc>
-                        <objectDesc>
-                            <supportDesc>
-                                <support></support>
-                                <extent>1 page
-                                    <dimensions unit="mm"><height></height><width></width></dimensions>
-                                </extent>
-                                <condition>
-                                    <p></p></condition>
-                            </supportDesc>
-                        </objectDesc>
-                        <handDesc hands="1">
-                            <handNote xml:id="type"><p>Media: type</p></handNote>
-                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-                        </handDesc>
-                        <typeDesc>
-                            <typeNote><p></p></typeNote>
-                        </typeDesc>
-                    </physDesc>
-                    <history><origin></origin>
-                        <provenance></provenance>
-                        <acquisition></acquisition>
-                    </history>
-                </msDesc>
-                
-            </sourceDesc>
-        </fileDesc>
-        
-        <encodingDesc>
-            <editorialDecl>
-                <correction>
-                    <p></p>
-                </correction>
-                <normalization>
-                    <p></p>
-                </normalization>
-            </editorialDecl>
-        </encodingDesc>
-        
-        <profileDesc>
-            <textClass>
-                <keywords scheme="original" n="category">
-                    <term>Correspondence</term>
-                </keywords>
-                <keywords scheme="original" n="subcategory">
-                    <term>Business</term>
-                </keywords>
-                <keywords scheme="original" n="topic">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="keywords">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="people">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="places">
-                    <term></term>
-                </keywords>
-            </textClass>
-            <particDesc><person role="recipient"><persName>Kendrick, Slade</persName></person></particDesc>
-        </profileDesc>
-        
-        <revisionDesc>
-            <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
-            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
-            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
-            
-        </revisionDesc>
-    </teiHeader>
-    
-    <text>
-        <body>
-            
-            <div1 type="letter">
-                
-                <pb facs="nei.j4c.49.2" />
-                
-                <fw type="curatorial">2</fw>
-                
-                <note><del>128</del>
-                127
-                6-13-'66</note>
-                
-                <opener>
-                    <dateline>
-                Skyrim Farm       
-                Route #7                  
-                Columbia, Mo.
-                June 13
-                1 9 6 6
-                    </dateline>
-                
-                <salute>Dear Slade:</salute>
-                </opener>
-                <p>When I arrived home from Wayne State, I found your letter of July 7th, a bully letter, especially the part about your experience with Edith Hamilton's book. She was a great authority and a very sensitive woman. I appreciate very much what you say about a similarity in the spirit of my verse and that of the Greeks. There should be such a similarity, not because of any imitation, but because the Greeks have meant so much to me for so many years, and I was attracted to them <hi rend="underline">because</hi> of their way of seeing the world.</p>
-                
-                <p>I know nothing about the Mever gentlemen<sic>gentleman</sic> whose honor seems to be in question.   The field of psychic phenomena is very attractive to fore-flushers and phony scamps of all sorts, and it has suffered greatly because of this fact.</p>
-                
-                <p>Of course I don't know that Mever is a scamp. Let me know anything you learn about him.</p>
-                
-                <p>The Wayne State experience was overwhelming. They had a sculptor on hand to make a new bust of me. It will be cast in bronze for the homecoming in October. The homecoming parade will consist of 42 floats, representing the various dormitories and societies, and each float will represent some scene from my <hi rend="caps">CYCLE</hi>.</p>
-                
-                <p>It's beastly hot here&#8212;&#8212;101 in the shade!</p>
-                
-                <p>If it is not too much trouble, I wish you would type your next letter to me out of respect for my poor eyes!</p>
-                <closer>
-                <salute>With affection for both of you there,</salute>
-                
-                <signed>John Neihardt</signed>
-                <signed><hi rend="caps">JOHN G. NEIHARDT</hi></signed>
-                
-                <note>JGN:ENF</note>
-                </closer>
-                
-            </div1>
-        </body>
-        
-        <back></back>
-    </text>
+<idno>nei.j4c.49.2</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<title level="m" type="main">Letter from John G. Neihardt to Dr. Slade Kendrick</title>
+<date when="1966-06-13">June 13, 1966</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>1 type-written page</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>1 page
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+</condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="type"><p>Media: type</p></handNote>
+<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+
+
+
+
+
+
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+<date when="1900"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName></persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Kendrick, Slade</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4c.49.2" />
+
+<fw type="curatorial">2</fw>
+
+<note><del>128</del>
+127
+6-13-'66</note>
+
+<opener>
+<dateline>
+Skyrim Farm   
+Route #7  
+Columbia, Mo.
+June 13
+1 9 6 6
+</dateline>
+
+<salute>Dear Slade:</salute>
+</opener>
+<p>When I arrived home from Wayne State, I found your letter of July 7th, a bully letter, especially the part about your experience with Edith Hamilton's book. She was a great authority and a very sensitive woman. I appreciate very much what you say about a similarity in the spirit of my verse and that of the Greeks. There should be such a similarity, not because of any imitation, but because the Greeks have meant so much to me for so many years, and I was attracted to them <hi rend="underline">because</hi> of their way of seeing the world.</p>
+
+<p>I know nothing about the Mever gentlemen<sic>gentleman</sic> whose honor seems to be in question.   The field of psychic phenomena is very attractive to fore-flushers and phony scamps of all sorts, and it has suffered greatly because of this fact.</p>
+
+<p>Of course I don't know that Mever is a scamp. Let me know anything you learn about him.</p>
+
+<p>The Wayne State experience was overwhelming. They had a sculptor on hand to make a new bust of me. It will be cast in bronze for the homecoming in October. The homecoming parade will consist of 42 floats, representing the various dormitories and societies, and each float will represent some scene from my <hi rend="caps">CYCLE</hi>.</p>
+
+<p>It's beastly hot here&#8212;&#8212;101 in the shade!</p>
+
+<p>If it is not too much trouble, I wish you would type your next letter to me out of respect for my poor eyes!</p>
+<closer>
+<salute>With affection for both of you there,</salute>
+
+<signed>John Neihardt</signed>
+<signed><hi rend="caps">JOHN G. NEIHARDT</hi></signed>
+
+<note>JGN:ENF</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
 </TEI>

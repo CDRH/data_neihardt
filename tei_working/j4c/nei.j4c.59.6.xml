@@ -1,170 +1,181 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.59.6">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title type="main">Letter from John G. Neihardt to Dr. Jean Walker, August 23, 1969</title>
-                <author>Neihardt, John Gneisenau, 1881-1973</author>
-                <principal>Gossin, Pamela</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date>2013</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <authority>The Papers of John G. Neihardt</authority>
-                <publisher>University of Nebraska-Lincoln</publisher>
-                <distributor>
-                    <name>Center for Digital Research in the Humanities</name>
-                    <address>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Dr. Jean Walker, August 23, 1969</title>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
 <addrLine>319 Love Library</addrLine>
 <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 <addrLine>cdrh@unlnotes.unl.edu</addrLine>
 </address>
-                </distributor>
-                <pubPlace>Lincoln, Nebraska</pubPlace> 
-                <address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-                <idno>nei.j4c.59.6</idno>
-                <availability>
-                    <p></p>
-                </availability>
-            </publicationStmt>
-            
-            <notesStmt><note></note></notesStmt>
-            
-            <sourceDesc>
-                <bibl>
-                    <author>Neihardt, John Gneisenau, 1881-1973</author>
-                    <title level="m" type="main">Letter from John G. Neihardt to Dr. Jean Walker</title>
-                    <date when="1969-08-23">August 23, 1969</date>
-                    <extent>1 page</extent>
-                </bibl>
-                <msDesc>
-                    <msIdentifier>
-                        <repository></repository>
-                        <idno></idno>
-                    </msIdentifier>
-                    <msContents>
-                        <p>1 type-written page</p>
-                    </msContents>
-                    <physDesc>
-                        <objectDesc>
-                            <supportDesc>
-                                <support></support>
-                                <extent>1 page
-                                    <dimensions unit="mm"><height></height><width></width></dimensions>
-                                </extent>
-                                <condition>
-                                    <p></p></condition>
-                            </supportDesc>
-                        </objectDesc>
-                        <handDesc hands="1">
-                            <handNote xml:id="type"><p>Media: type</p></handNote>
-                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-                        </handDesc>
-                        <typeDesc>
-                            <typeNote><p></p></typeNote>
-                        </typeDesc>
-                    </physDesc>
-                    <history><origin></origin>
-                        <provenance></provenance>
-                        <acquisition></acquisition>
-                    </history>
-                </msDesc>
-                
-            </sourceDesc>
-        </fileDesc>
-        
-        <encodingDesc>
-            <editorialDecl>
-                <correction>
-                    <p></p>
-                </correction>
-                <normalization>
-                    <p></p>
-                </normalization>
-            </editorialDecl>
-        </encodingDesc>
-        
-        <profileDesc>
-            <textClass>
-                <keywords scheme="original" n="category">
-                    <term>Correspondence</term>
-                </keywords>
-                <keywords scheme="original" n="subcategory">
-                    <term>Business</term>
-                </keywords>
-                <keywords scheme="original" n="topic">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="keywords">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="people">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="places">
-                    <term></term>
-                </keywords>
-            </textClass>
-            <particDesc><person role="recipient"><persName>Walker, Jean</persName></person></particDesc>
-        </profileDesc>
-        
-        <revisionDesc>
-            <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
-            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
-            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
-            
-        </revisionDesc>
-    </teiHeader>
-    
-    <text>
-        <body>
-            
-            <div1 type="letter">
-                
-                <pb facs="nei.j4c.59.6" />
-                
-                <fw type="curatorial">6</fw>
-                
-                <opener>
-                                                                                        <dateline>
-                                                                                            5835 Vine Street
-                                                                                            Lincoln, Nebraska 68505
-                                                                                            August 23, 1969
-                                                                                        </dateline>
-                    
-                    <address>
-                        <addrLine>Dr. Jean Walker</addrLine>
-                        <addrLine>Assistant Professor of English</addrLine>
-                        <addrLine>University of Missouri</addrLine>
-                        <addrLine>G-3 Rolla Building</addrLine>
-                        <addrLine>Rolla, Missouri 65401</addrLine>
-                    </address>
-                    
-                    <salute>Dear Dr. Walker:</salute>
-                </opener>
-                <p>I understand that Miss Marita Williams has forwarded to you the material for my biographical sketch. It has occured to me that you might well emphasize the following facts, which I believe were not included in the orignal material:</p>
-                
-                <p>I lived in Kansas City from the age<del/> of six to ten; then the family moved to Wayne, Nebraska. I lived in Nebraska until 1921, when we moved to Branson, Missouri. I had my home there for the next 27 years, although I spent much of the time in St. Louis and Chicago, Illinois. In 1948 I bought my farm, Skyrim, near Columbia, and it is still my home, althought I have been visiting in Nebraska for more than a year. I began teaching as poet in residence and lecturer in English at the University of Missoui, Columbia, in 1949 at the age of 68. I continued to teach there for the next 17 years, being appointed annually by the president of the University. I think you already know that I was literary editor of the <hi rend="underline">Post-Dispatch</hi> from 1926 to 1938. I am sure you have consulted <hi rend="underline">Who's Who in America"</hi> in writing tbe biographical sketch.</p>
-                
-                <p>I understand that I am to write an introduction for the <hi rend="caps">M.A.T.E.</hi> publication on Missouri writers. I will have this ready for you shortly.</p>
-                <closer>
-                    <salute>Sincerely,</salute>
-                    
-                    <note>JGN:fmb</note>                                    <signed>John G. Neihardt</signed>
-                </closer>
-                
-            </div1>
-        </body>
-        
-        <back></back>
-    </text>
+<idno>nei.j4c.59.6</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<title level="m" type="main">Letter from John G. Neihardt to Dr. Jean Walker</title>
+<date when="1969-08-23">August 23, 1969</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>1 type-written page</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>1 page
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+</condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="type"><p>Media: type</p></handNote>
+<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+
+
+
+
+
+
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+<date when="1900"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName></persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Walker, Jean</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4c.59.6" />
+
+<fw type="curatorial">6</fw>
+
+<opener>
+<dateline>
+5835 Vine Street
+Lincoln, Nebraska 68505
+August 23, 1969
+</dateline>
+
+<address>
+<addrLine>Dr. Jean Walker</addrLine>
+<addrLine>Assistant Professor of English</addrLine>
+<addrLine>University of Missouri</addrLine>
+<addrLine>G-3 Rolla Building</addrLine>
+<addrLine>Rolla, Missouri 65401</addrLine>
+</address>
+
+<salute>Dear Dr. Walker:</salute>
+</opener>
+<p>I understand that Miss Marita Williams has forwarded to you the material for my biographical sketch. It has occured to me that you might well emphasize the following facts, which I believe were not included in the orignal material:</p>
+
+<p>I lived in Kansas City from the age<del/> of six to ten; then the family moved to Wayne, Nebraska. I lived in Nebraska until 1921, when we moved to Branson, Missouri. I had my home there for the next 27 years, although I spent much of the time in St. Louis and Chicago, Illinois. In 1948 I bought my farm, Skyrim, near Columbia, and it is still my home, althought I have been visiting in Nebraska for more than a year. I began teaching as poet in residence and lecturer in English at the University of Missoui, Columbia, in 1949 at the age of 68. I continued to teach there for the next 17 years, being appointed annually by the president of the University. I think you already know that I was literary editor of the <hi rend="underline">Post-Dispatch</hi> from 1926 to 1938. I am sure you have consulted <hi rend="underline">Who's Who in America"</hi> in writing tbe biographical sketch.</p>
+
+<p>I understand that I am to write an introduction for the <hi rend="caps">M.A.T.E.</hi> publication on Missouri writers. I will have this ready for you shortly.</p>
+<closer>
+<salute>Sincerely,</salute>
+
+<note>JGN:fmb</note><signed>John G. Neihardt</signed>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
 </TEI>

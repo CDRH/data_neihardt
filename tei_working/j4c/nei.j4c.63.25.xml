@@ -1,169 +1,180 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.63.25">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title type="main">Letter from John G. Neihardt to Hiddy, June 14, 1972</title>
-                <author>Neihardt, John Gneisenau, 1881-1973</author>
-                <principal>Gossin, Pamela</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date>2013</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <authority>The Papers of John G. Neihardt</authority>
-                <publisher>University of Nebraska-Lincoln</publisher>
-                <distributor>
-                    <name>Center for Digital Research in the Humanities</name>
-                    <address>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Hiddy, June 14, 1972</title>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
 <addrLine>319 Love Library</addrLine>
 <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 <addrLine>cdrh@unlnotes.unl.edu</addrLine>
 </address>
-                </distributor>
-                <pubPlace>Lincoln, Nebraska</pubPlace> 
-                <address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-                <idno>nei.j4c.63.25</idno>
-                <availability>
-                    <p></p>
-                </availability>
-            </publicationStmt>
-            
-            <notesStmt><note></note></notesStmt>
-            
-            <sourceDesc>
-                <bibl>
-                    <author>Neihardt, John Gneisenau, 1881-1973</author>
-                    <title level="m" type="main">Letter from John G. Neihardt to Hiddy</title>
-                    <date when="1972-06-14">June 14, 1972</date>
-                    <extent>1 page</extent>
-                </bibl>
-                <msDesc>
-                    <msIdentifier>
-                        <repository></repository>
-                        <idno></idno>
-                    </msIdentifier>
-                    <msContents>
-                        <p>1 type-written page</p>
-                    </msContents>
-                    <physDesc>
-                        <objectDesc>
-                            <supportDesc>
-                                <support></support>
-                                <extent>1 page
-                                    <dimensions unit="mm"><height></height><width></width></dimensions>
-                                </extent>
-                                <condition>
-                                    <p></p></condition>
-                            </supportDesc>
-                        </objectDesc>
-                        <handDesc hands="1">
-                            <handNote xml:id="type"><p>Media: type</p></handNote>
-                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-                        </handDesc>
-                        <typeDesc>
-                            <typeNote><p></p></typeNote>
-                        </typeDesc>
-                    </physDesc>
-                    <history><origin></origin>
-                        <provenance></provenance>
-                        <acquisition></acquisition>
-                    </history>
-                </msDesc>
-                
-            </sourceDesc>
-        </fileDesc>
-        
-        <encodingDesc>
-            <editorialDecl>
-                <correction>
-                    <p></p>
-                </correction>
-                <normalization>
-                    <p></p>
-                </normalization>
-            </editorialDecl>
-        </encodingDesc>
-        
-        <profileDesc>
-            <textClass>
-                <keywords scheme="original" n="category">
-                    <term>Correspondence</term>
-                </keywords>
-                <keywords scheme="original" n="subcategory">
-                    <term>Business</term>
-                </keywords>
-                <keywords scheme="original" n="topic">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="keywords">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="people">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="places">
-                    <term></term>
-                </keywords>
-            </textClass>
-            <particDesc><person role="recipient"><persName>Hiddy</persName></person></particDesc>
-        </profileDesc>
-        
-        <revisionDesc>
-            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
-            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
-            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
-            
-        </revisionDesc>
-    </teiHeader>
-    
-    <text>
-        <body>
-            
-            <div1 type="letter">
-                
-                <pb facs="nei.j4c.63.25" />
-                
-                <fw type="curatorial">25</fw>
-                
-                <opener>
-                    <dateline>June 14, 1972</dateline>
-                    
-                    <salute>Dear Hiddy:</salute>
-                </opener>
-                <p>I have just received your letter of June 13, enclosing a letter from Shir-Cliff and one from Harcourt Brace. I note that Pocket Books wants to have a photo of the dust cover of <hi rend="caps">WHEN THE TREE FLOWERED</hi>. I don't remember any dust cover. The book, as you know, was published by the Macmillan Company and later by Andrew Melrose in London. I have seen a jacket of the British edition but it was a very plain affair.</p>
-                
-                <p>The reviews in Great Britain were overwhelming. I am not sure that I have copies of them but I think they may be in the Western Manuscripts Collection. Would you mind asking Mrs. Prewitt if these clippings are in the collection?</p>
-                
-                <p>I am worried about the matter of allowing the University of Nebraska Press to continue selling its edition of <hi rend="caps">BLACK ELK SPEAKS</hi> at $1.50. I worried about this a good deal a long while ago and I wrote you about it at least twice. I think you assured me that there was no difficulty involved.</p>
-                
-                <p>Do we have the sole rights? Is there an arrangement whereby the University of Nebraska Press is authorized to publish its edition? I was afraid this would cause trouble. You remember I pointed out in one of my letters if they are allowed to continue publishing their edition, the royalty percentage should be advanced. It gave an advantage to the University of Nebraska Press to let them get by with a 6% royalty when Pocket Books paid 10%. I am troubled about this but I am sure you did something or at least thought the situation was cleared up. It does appear that the University Press has been selling a great many books recently.</p>
-                
-                <p>I do hope we don't run into real trouble at this stage of the game. Please reassure me.</p>
-                
-                <p>It was bully to see the Cavett show Monday night and we were happy to hear about the people who phoned you. What an ad all this has been for us with our books about to appear and already selling. I do hope to hear soon about your agreement with Bruce Nicoll, if any. Of course this will have to be taken up with Shir-Cliff.</p>
-                
-                <p>I am looking forward to coming down for a visit sometime in July, I think.</p>
-                <closer>
-                    <salute>With the old love,</salute>
-                    
-                    <signed>Gaki</signed>
-                    
-                    <note>JGN:nh</note>
-                </closer>
-            </div1>
-        </body>
-        
-        <back></back>
-    </text>
+<idno>nei.j4c.63.25</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<title level="m" type="main">Letter from John G. Neihardt to Hiddy</title>
+<date when="1972-06-14">June 14, 1972</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>1 type-written page</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>1 page
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+</condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="type"><p>Media: type</p></handNote>
+<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+
+
+
+
+
+
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+<date when="1900"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName></persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Hiddy</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4c.63.25" />
+
+<fw type="curatorial">25</fw>
+
+<opener>
+<dateline>June 14, 1972</dateline>
+
+<salute>Dear Hiddy:</salute>
+</opener>
+<p>I have just received your letter of June 13, enclosing a letter from Shir-Cliff and one from Harcourt Brace. I note that Pocket Books wants to have a photo of the dust cover of <hi rend="caps">WHEN THE TREE FLOWERED</hi>. I don't remember any dust cover. The book, as you know, was published by the Macmillan Company and later by Andrew Melrose in London. I have seen a jacket of the British edition but it was a very plain affair.</p>
+
+<p>The reviews in Great Britain were overwhelming. I am not sure that I have copies of them but I think they may be in the Western Manuscripts Collection. Would you mind asking Mrs. Prewitt if these clippings are in the collection?</p>
+
+<p>I am worried about the matter of allowing the University of Nebraska Press to continue selling its edition of <hi rend="caps">BLACK ELK SPEAKS</hi> at $1.50. I worried about this a good deal a long while ago and I wrote you about it at least twice. I think you assured me that there was no difficulty involved.</p>
+
+<p>Do we have the sole rights? Is there an arrangement whereby the University of Nebraska Press is authorized to publish its edition? I was afraid this would cause trouble. You remember I pointed out in one of my letters if they are allowed to continue publishing their edition, the royalty percentage should be advanced. It gave an advantage to the University of Nebraska Press to let them get by with a 6% royalty when Pocket Books paid 10%. I am troubled about this but I am sure you did something or at least thought the situation was cleared up. It does appear that the University Press has been selling a great many books recently.</p>
+
+<p>I do hope we don't run into real trouble at this stage of the game. Please reassure me.</p>
+
+<p>It was bully to see the Cavett show Monday night and we were happy to hear about the people who phoned you. What an ad all this has been for us with our books about to appear and already selling. I do hope to hear soon about your agreement with Bruce Nicoll, if any. Of course this will have to be taken up with Shir-Cliff.</p>
+
+<p>I am looking forward to coming down for a visit sometime in July, I think.</p>
+<closer>
+<salute>With the old love,</salute>
+
+<signed>Gaki</signed>
+
+<note>JGN:nh</note>
+</closer>
+</div1>
+</body>
+
+<back></back>
+</text>
 </TEI>
 
 

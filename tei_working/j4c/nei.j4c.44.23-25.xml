@@ -1,213 +1,224 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.44.23-25_0001-3">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, December 8, 1964</title>
-                <author>Neihardt, John Gneisenau, 1881-1973</author>
-                <principal>Gossin, Pamela</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date>2013</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <authority>The Papers of John G. Neihardt</authority>
-                <publisher>University of Nebraska-Lincoln</publisher>
-                <distributor>
-                    <name>Center for Digital Research in the Humanities</name>
-                    <address>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, December 8, 1964</title>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
 <addrLine>319 Love Library</addrLine>
 <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 <addrLine>cdrh@unlnotes.unl.edu</addrLine>
 </address>
-                </distributor>
-                <pubPlace>Lincoln, Nebraska</pubPlace> 
-                <address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-                <idno>nei.j4c.44.23-25_0001-3</idno>
-                <availability>
-                    <p></p>
-                </availability>
-            </publicationStmt>
-            
-            <notesStmt><note></note></notesStmt>
-            
-            <sourceDesc>
-                <bibl>
-                    <author>Neihardt, John Gneisenau, 1881-1973</author>
-                    <title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
-                    <date when="1964-12-08">December 8, 1964</date>
-                    <extent>2 pages, plus envelope</extent>
-                </bibl>
-                <msDesc>
-                    <msIdentifier>
-                        <repository></repository>
-                        <idno></idno>
-                    </msIdentifier>
-                    <msContents>
-                        <p>2 hand-written page, plus envelope</p>
-                    </msContents>
-                    <physDesc>
-                        <objectDesc>
-                            <supportDesc>
-                                <support></support>
-                                <extent>2 pages
-                                    <dimensions unit="mm"><height></height><width></width></dimensions>
-                                </extent>
-                                <condition>
-                                    <p></p></condition>
-                            </supportDesc>
-                        </objectDesc>
-                        <handDesc hands="1">
-                            <handNote xml:id="type"><p>Media: type</p></handNote>
-                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-                        </handDesc>
-                        <typeDesc>
-                            <typeNote><p></p></typeNote>
-                        </typeDesc>
-                    </physDesc>
-                    <history><origin></origin>
-                        <provenance></provenance>
-                        <acquisition></acquisition>
-                    </history>
-                </msDesc>
-                
-            </sourceDesc>
-        </fileDesc>
-        
-        <encodingDesc>
-            <editorialDecl>
-                <correction>
-                    <p></p>
-                </correction>
-                <normalization>
-                    <p></p>
-                </normalization>
-            </editorialDecl>
-        </encodingDesc>
-        
-        <profileDesc>
-            <textClass>
-                <keywords scheme="original" n="category">
-                    <term>Correspondence</term>
-                </keywords>
-                <keywords scheme="original" n="subcategory">
-                    <term>Business</term>
-                </keywords>
-                <keywords scheme="original" n="topic">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="keywords">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="people">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="places">
-                    <term></term>
-                </keywords>
-            </textClass>
-            <particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
-        </profileDesc>
-        
-        <revisionDesc>
-            <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
-            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
-            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
-            
-        </revisionDesc>
-    </teiHeader>
-    
-    <text>
-        <body>
-            
-            <div1 type="letter">
-                
-                <pb facs="nei.j4c.44.23-25_0001" />
-                
-                <note type="curatorial">Aly Collection
-                
-                220-2</note>
-                <fw type="curatorial">23</fw>
-                
-                <fw type="letterhead">
-                <hi rend="caps">JOHN G. NEIHARDT</hi>
-                    <lb/>
-                <hi rend="caps">ROUTE 7∙SKYRIM FARM</hi>
-                    <lb/>
-                <hi rend="caps">COLUMBIA, MISSOURI</hi>  
-                </fw>
-                <opener>
-                <dateline>Dec. 8, 64</dateline>
-                
-                
-                <salute>Dear Lucile:</salute>
-                </opener>
-                <p>I've been thinking a correction in my latest letter to you. Where I said <hi rend="underline">ten years</hi>, read <hi rend="underline">"several</hi> years". <hi rend="underline">Ten</hi> is too many certainly. Three or four would be nearer, probably.</p>
-               
-                <p>I'm sending you a collection of stuff on Dana, Bancroft, and the monuments on the Grand River. Please make any notes you think you'll need and return the stuff in the enclosed envelope I'm eager to have such stuff, clippings, letters etc., in the collection here before I go on.</p>
-                
-                <p>Things seem to be "jelling". I receive more letters now than ever before, and they are widely scattered over the country. Then these various memorials seem to indicate something. By the way, add the government highway marker on Grand River to your list. It gives me credit for 
-                    
-                    <note type="authorial">(over)</note>
-                    
-                    <pb facs="nei.j4c.44.23-25_0002"/>
-                    <fw type="curatorial">24</fw>
-                    
-                    "immortalizing" Hugh!</p>
-                
-                <p>Oh, hurrah! I've just received a bulky letter from Bower &#8212; bless him! My friends, Dr. and Mrs. Slade Kendrick, called on him, and they had a happy visit, it seems. I was <hi rend="underline">so</hi> glad for the letter.</p>
-                
-                <p>It will be bully when your book is ready, and I hope <del><unclear>you</unclear></del> you <hi rend="underline">can hold it down</hi> for a first edition &#8212; I mean in <del/> scope. The book <hi rend="double underline">is</hi> in demand.</p>
-               
-                <p>Plans are developing for the Tour. Stanley is selling his paper, and he wants to manage the tour &amp; haul me around. Great Idea!</p>
-               
-                <p>You are a dear Lady, and this old man doesn't like you at all, <hi rend="underline">does</hi> he?!?!</p>
-                
-                <p>An affectionate hello to Stewart, and pettings for Jingle. (You should know our "Zhako"!)</p>
-                <closer>
-                <signed>John</signed></closer> <postscript><p>South Dakota Uni wants me back to do a lot of recording for them. I did a good deal a year ago, you remember.</p><closer> &#8212; <signed>Jno.</signed></closer></postscript>
-                
-            </div1>
-            
-            
-            <div1 type="envelope">
-                
-                <pb facs="nei.j4c.44.23-25_0003"/>
-                <fw type="curatorial">25</fw>
-                
-                <ab type="return">
-                Neihardt
-                Route 7                        
-                <hi rend="underline">Columbia</hi>, Mo.
-                </ab>
-                
-                <ab type="postmark">COLU<unclear reason="missing" cert="high">MBI</unclear>A, MO. DEC 8 -PM 1964</ab>
-                <figure>
-                    <figDesc>8 Cent Stamp</figDesc>
-                    <p>8¢ U.S. AIR MAIL</p>
-                </figure>
-                
-                <ab type="address">
-                    <address>
-                        <addrLine>Dr. Lucile Aly,</addrLine>
-                        <addrLine>1138 22nd Ave., East,</addrLine>
-                        <addrLine>Eugene,</addrLine>
-                        <addrLine>Oregon.</addrLine>
-                    </address>
-                </ab>
-                
-                
-            </div1>
-        </body>
-        
-        <back></back>
-    </text>
+<idno>nei.j4c.44.23-25_0001-3</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
+<date when="1964-12-08">December 8, 1964</date>
+<extent>2 pages, plus envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>2 hand-written page, plus envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>2 pages
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+</condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="type"><p>Media: type</p></handNote>
+<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+
+
+
+
+
+
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+<date when="1900"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName></persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4c.44.23-25_0001" />
+
+<note type="curatorial">Aly Collection
+
+220-2</note>
+<fw type="curatorial">23</fw>
+
+<fw type="letterhead">
+<hi rend="caps">JOHN G. NEIHARDT</hi>
+<lb/>
+<hi rend="caps">ROUTE 7∙SKYRIM FARM</hi>
+<lb/>
+<hi rend="caps">COLUMBIA, MISSOURI</hi>  
+</fw>
+<opener>
+<dateline>Dec. 8, 64</dateline>
+
+
+<salute>Dear Lucile:</salute>
+</opener>
+<p>I've been thinking a correction in my latest letter to you. Where I said <hi rend="underline">ten years</hi>, read <hi rend="underline">"several</hi> years". <hi rend="underline">Ten</hi> is too many certainly. Three or four would be nearer, probably.</p>
+   
+<p>I'm sending you a collection of stuff on Dana, Bancroft, and the monuments on the Grand River. Please make any notes you think you'll need and return the stuff in the enclosed envelope I'm eager to have such stuff, clippings, letters etc., in the collection here before I go on.</p>
+
+<p>Things seem to be "jelling". I receive more letters now than ever before, and they are widely scattered over the country. Then these various memorials seem to indicate something. By the way, add the government highway marker on Grand River to your list. It gives me credit for 
+
+<note type="authorial">(over)</note>
+
+<pb facs="nei.j4c.44.23-25_0002"/>
+<fw type="curatorial">24</fw>
+
+"immortalizing" Hugh!</p>
+
+<p>Oh, hurrah! I've just received a bulky letter from Bower &#8212; bless him! My friends, Dr. and Mrs. Slade Kendrick, called on him, and they had a happy visit, it seems. I was <hi rend="underline">so</hi> glad for the letter.</p>
+
+<p>It will be bully when your book is ready, and I hope <del><unclear>you</unclear></del> you <hi rend="underline">can hold it down</hi> for a first edition &#8212; I mean in <del/> scope. The book <hi rend="double underline">is</hi> in demand.</p>
+   
+<p>Plans are developing for the Tour. Stanley is selling his paper, and he wants to manage the tour &amp; haul me around. Great Idea!</p>
+   
+<p>You are a dear Lady, and this old man doesn't like you at all, <hi rend="underline">does</hi> he?!?!</p>
+
+<p>An affectionate hello to Stewart, and pettings for Jingle. (You should know our "Zhako"!)</p>
+<closer>
+<signed>John</signed></closer> <postscript><p>South Dakota Uni wants me back to do a lot of recording for them. I did a good deal a year ago, you remember.</p><closer> &#8212; <signed>Jno.</signed></closer></postscript>
+
+</div1>
+
+
+<div1 type="envelope">
+
+<pb facs="nei.j4c.44.23-25_0003"/>
+<fw type="curatorial">25</fw>
+
+<ab type="return">
+Neihardt
+Route 7
+<hi rend="underline">Columbia</hi>, Mo.
+</ab>
+
+<ab type="postmark">COLU<unclear reason="missing" cert="high">MBI</unclear>A, MO. DEC 8 -PM 1964</ab>
+<figure>
+<figDesc>8 Cent Stamp</figDesc>
+<p>8¢ U.S. AIR MAIL</p>
+</figure>
+
+<ab type="address">
+<address>
+<addrLine>Dr. Lucile Aly,</addrLine>
+<addrLine>1138 22nd Ave., East,</addrLine>
+<addrLine>Eugene,</addrLine>
+<addrLine>Oregon.</addrLine>
+</address>
+</ab>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
 </TEI>

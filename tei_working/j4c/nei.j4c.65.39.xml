@@ -1,188 +1,199 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.65.39">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title type="main">Letter from John G. Neihardt to Professor Sanford Gray, July 12, 1973</title>
-                <author>Neihardt, John Gneisenau, 1881-1973</author>
-                <principal>Gossin, Pamela</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date>2013</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <authority>The Papers of John G. Neihardt</authority>
-                <publisher>University of Nebraska-Lincoln</publisher>
-                <distributor>
-                    <name>Center for Digital Research in the Humanities</name>
-                    <address>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Professor Sanford Gray, July 12, 1973</title>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
 <addrLine>319 Love Library</addrLine>
 <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 <addrLine>cdrh@unlnotes.unl.edu</addrLine>
 </address>
-                </distributor>
-                <pubPlace>Lincoln, Nebraska</pubPlace> 
-                <address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-                <idno>nei.j4c.65.39</idno>
-                <availability>
-                    <p></p>
-                </availability>
-            </publicationStmt>
-            
-            <notesStmt><note></note></notesStmt>
-            
-            <sourceDesc>
-                <bibl>
-                    <author>Neihardt, John Gneisenau, 1881-1973</author>
-                    <title level="m" type="main">Letter from John G. Neihardt to Professor Sandford Gray</title>
-                    <date when="1973-07-12">July 12, 1973</date>
-                    <extent>1 page</extent>
-                </bibl>
-                <msDesc>
-                    <msIdentifier>
-                        <repository></repository>
-                        <idno></idno>
-                    </msIdentifier>
-                    <msContents>
-                        <p>1 type-written page</p>
-                    </msContents>
-                    <physDesc>
-                        <objectDesc>
-                            <supportDesc>
-                                <support></support>
-                                <extent>1 page
-                                    <dimensions unit="mm"><height></height><width></width></dimensions>
-                                </extent>
-                                <condition>
-                                    <p></p></condition>
-                            </supportDesc>
-                        </objectDesc>
-                        <handDesc hands="1">
-                            <handNote xml:id="type"><p>Media: type</p></handNote>
-                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-                        </handDesc>
-                        <typeDesc>
-                            <typeNote><p></p></typeNote>
-                        </typeDesc>
-                    </physDesc>
-                    <history><origin></origin>
-                        <provenance></provenance>
-                        <acquisition></acquisition>
-                    </history>
-                </msDesc>
-                
-            </sourceDesc>
-        </fileDesc>
-        
-        <encodingDesc>
-            <editorialDecl>
-                <correction>
-                    <p></p>
-                </correction>
-                <normalization>
-                    <p></p>
-                </normalization>
-            </editorialDecl>
-        </encodingDesc>
-        
-        <profileDesc>
-            <textClass>
-                <keywords scheme="original" n="category">
-                    <term>Correspondence</term>
-                </keywords>
-                <keywords scheme="original" n="subcategory">
-                    <term>Business</term>
-                </keywords>
-                <keywords scheme="original" n="topic">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="keywords">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="people">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="places">
-                    <term></term>
-                </keywords>
-            </textClass>
-            <particDesc><person role="recipient"><persName>Gray, Sanford</persName></person></particDesc>
-        </profileDesc>
-        
-        <revisionDesc>
-            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
-            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
-            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
-            
-        </revisionDesc>
-    </teiHeader>
-    
-    <text>
-        <body>
-            
-            <div1 type="letter">
-                
-                <pb facs="nei.j4c.65.69" />
-                
-                <fw type="curatorial">39</fw>
-                
-                <opener>
-                    <dateline>
-                        5835 Vine Street
-                        Lincoln, Nebraska 68505
-                        July 12, 1973
-                    </dateline>
-                    
-                    <address>
-                        <addrLine>Professor Sanford Gray</addrLine>
-                        <addrLine>932 Lincoln</addrLine>
-                        <addrLine>Vermillion, South Dakota 57069</addrLine>
-                    </address>
-                    
-                    <salute>Dear Sandy:</salute>
-                </opener>
-                <p>That was one of the finest letters I have ever received, and I have received many fine ones. I don't see how I can qualify for your image of me, but I accept it because it is yours and perhaps I deserve some of it. I certainly hope so.</p>
-                
-                <p>In the first place, I am delighted over the news of Christopher's safe arrival and I am looking forward to becoming acquainted with him. Here is a hearty handshake for him.</p>
-                
-                <p>I am out of the hospital and back home at Youngs, but I am not well yet and as a matter of fact I feel that the letter I am dictating far from represents my feeling for you. I wish I could see you and have a good talk.</p>
-                
-                <p>I am delighted to hear about your progress with the novel. How I do hope the book will find an enthusiastic publisher and will hit it right with the public</p>
-                
-                <p>Your film on Oscar Howe excites me and I do wish I could see and hear it. Tell me more about it and the way it is being received. How fine it was that you had Price as the narrator.</p>
-                
-                <p>As you know, Neihardt Day is celebrated at Bancroft on the first Sunday in August each year. I wish you could be there this year, and I wish it were possible to play Sigurd's tape for the assembled crowd. He made only one tape, one of which you have. Am I right? And if so, could a copy be made from your tape? Mr. Young has a very good player and I have thought it would be good to run Sigurd's tape for the assembled crowd. Let me know about this soon.</p>
-                
-                <p>You did have a close shave with death and disaster, didn't you? And even so, It is thrilling to hear about.</p>
-                
-                <p>I was making good progress on the second volume of my "autobiography" when I became sick. I was doing a good job when I was stopped. I was with Captain Grant Marsh in his pilot house on the Yellowstone, and he was telling me things that have not been told before. It's a pretty good story. I was moving toward the Curly incident and the fast trip down the Yellowstone in the Far West with a cargo of Reno's wounded.</p>
-                
-                <p>I am writing a very poor letter, as I know, for I seem to be somebody else trying to be me.</p>
-                <closer>
-                    <salute>Give your lady my very warm regards and be sure of my love for you. Your old friend,</salute>
-                    
-                    <signed>John G. Neihardt</signed>
-                </closer>
-                
-                <postscript>
-                    <opener>(<hi rend="caps">P.S.</hi></opener> <p>Gaki woke up at three o'clock on the morning of June 13 with stabbing pains in his ribs and back. X-rays revealed that the seventh lumbar <del>i</del><add>v</add>ertebra had collapsed, bringing undue pressure involving the ribs and the abdominal area. It was very painful and has now been alleviated to some extent by the wear<del>i</del>ing <del>p</del><add>o</add>f a brace when out of bed. He has been home from the hospital since July 3.</p> <closer>&#8212; <signed>Myrtle Young</signed>
-                
-                    <note>JGN:nh</note></closer>
-                </postscript>
-                
-                <fw type="curatorial">2</fw>
-                
-            </div1>
-        </body>
-        
-        <back></back>
-    </text>
+<idno>nei.j4c.65.39</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<title level="m" type="main">Letter from John G. Neihardt to Professor Sandford Gray</title>
+<date when="1973-07-12">July 12, 1973</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>1 type-written page</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>1 page
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+</condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="type"><p>Media: type</p></handNote>
+<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+
+
+
+
+
+
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+<date when="1900"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName></persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Gray, Sanford</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4c.65.69" />
+
+<fw type="curatorial">39</fw>
+
+<opener>
+<dateline>
+5835 Vine Street
+Lincoln, Nebraska 68505
+July 12, 1973
+</dateline>
+
+<address>
+<addrLine>Professor Sanford Gray</addrLine>
+<addrLine>932 Lincoln</addrLine>
+<addrLine>Vermillion, South Dakota 57069</addrLine>
+</address>
+
+<salute>Dear Sandy:</salute>
+</opener>
+<p>That was one of the finest letters I have ever received, and I have received many fine ones. I don't see how I can qualify for your image of me, but I accept it because it is yours and perhaps I deserve some of it. I certainly hope so.</p>
+
+<p>In the first place, I am delighted over the news of Christopher's safe arrival and I am looking forward to becoming acquainted with him. Here is a hearty handshake for him.</p>
+
+<p>I am out of the hospital and back home at Youngs, but I am not well yet and as a matter of fact I feel that the letter I am dictating far from represents my feeling for you. I wish I could see you and have a good talk.</p>
+
+<p>I am delighted to hear about your progress with the novel. How I do hope the book will find an enthusiastic publisher and will hit it right with the public</p>
+
+<p>Your film on Oscar Howe excites me and I do wish I could see and hear it. Tell me more about it and the way it is being received. How fine it was that you had Price as the narrator.</p>
+
+<p>As you know, Neihardt Day is celebrated at Bancroft on the first Sunday in August each year. I wish you could be there this year, and I wish it were possible to play Sigurd's tape for the assembled crowd. He made only one tape, one of which you have. Am I right? And if so, could a copy be made from your tape? Mr. Young has a very good player and I have thought it would be good to run Sigurd's tape for the assembled crowd. Let me know about this soon.</p>
+
+<p>You did have a close shave with death and disaster, didn't you? And even so, It is thrilling to hear about.</p>
+
+<p>I was making good progress on the second volume of my "autobiography" when I became sick. I was doing a good job when I was stopped. I was with Captain Grant Marsh in his pilot house on the Yellowstone, and he was telling me things that have not been told before. It's a pretty good story. I was moving toward the Curly incident and the fast trip down the Yellowstone in the Far West with a cargo of Reno's wounded.</p>
+
+<p>I am writing a very poor letter, as I know, for I seem to be somebody else trying to be me.</p>
+<closer>
+<salute>Give your lady my very warm regards and be sure of my love for you. Your old friend,</salute>
+
+<signed>John G. Neihardt</signed>
+</closer>
+
+<postscript>
+<opener>(<hi rend="caps">P.S.</hi></opener> <p>Gaki woke up at three o'clock on the morning of June 13 with stabbing pains in his ribs and back. X-rays revealed that the seventh lumbar <del>i</del><add>v</add>ertebra had collapsed, bringing undue pressure involving the ribs and the abdominal area. It was very painful and has now been alleviated to some extent by the wear<del>i</del>ing <del>p</del><add>o</add>f a brace when out of bed. He has been home from the hospital since July 3.</p> <closer>&#8212; <signed>Myrtle Young</signed>
+
+<note>JGN:nh</note></closer>
+</postscript>
+
+<fw type="curatorial">2</fw>
+
+</div1>
+</body>
+
+<back></back>
+</text>
 </TEI>

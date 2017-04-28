@@ -1,182 +1,193 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.61.61-62_0001-2">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title type="main">Letter from John G. Neihardt to Dr. Slade Kendrick, December 11, 1970</title>
-                <author>Neihardt, John Gneisenau, 1881-1973</author>
-                <principal>Gossin, Pamela</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date>2013</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <authority>The Papers of John G. Neihardt</authority>
-                <publisher>University of Nebraska-Lincoln</publisher>
-                <distributor>
-                    <name>Center for Digital Research in the Humanities</name>
-                    <address>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Dr. Slade Kendrick, December 11, 1970</title>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
 <addrLine>319 Love Library</addrLine>
 <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 <addrLine>cdrh@unlnotes.unl.edu</addrLine>
 </address>
-                </distributor>
-                <pubPlace>Lincoln, Nebraska</pubPlace> 
-                <address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-                <idno>nei.j4c.61.61-62_0001-2</idno>
-                <availability>
-                    <p></p>
-                </availability>
-            </publicationStmt>
-            
-            <notesStmt><note></note></notesStmt>
-            
-            <sourceDesc>
-                <bibl>
-                    <author>Neihardt, John Gneisenau, 1881-1973</author>
-                    <title level="m" type="main">Letter from John G. Neihardt to Dr. Slade Kendrick</title>
-                    <date when="1970-12-11">December 11, 1970</date>
-                    <extent>4 pages</extent>
-                </bibl>
-                <msDesc>
-                    <msIdentifier>
-                        <repository></repository>
-                        <idno></idno>
-                    </msIdentifier>
-                    <msContents>
-                        <p>4 hand-written pages</p>
-                    </msContents>
-                    <physDesc>
-                        <objectDesc>
-                            <supportDesc>
-                                <support></support>
-                                <extent>4 pages
-                                    <dimensions unit="mm"><height></height><width></width></dimensions>
-                                </extent>
-                                <condition>
-                                    <p></p></condition>
-                            </supportDesc>
-                        </objectDesc>
-                        <handDesc hands="1">
-                            <handNote xml:id="type"><p>Media: type</p></handNote>
-                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-                        </handDesc>
-                        <typeDesc>
-                            <typeNote><p></p></typeNote>
-                        </typeDesc>
-                    </physDesc>
-                    <history><origin></origin>
-                        <provenance></provenance>
-                        <acquisition></acquisition>
-                    </history>
-                </msDesc>
-                
-            </sourceDesc>
-        </fileDesc>
-        
-        <encodingDesc>
-            <editorialDecl>
-                <correction>
-                    <p></p>
-                </correction>
-                <normalization>
-                    <p></p>
-                </normalization>
-            </editorialDecl>
-        </encodingDesc>
-        
-        <profileDesc>
-            <textClass>
-                <keywords scheme="original" n="category">
-                    <term>Correspondence</term>
-                </keywords>
-                <keywords scheme="original" n="subcategory">
-                    <term>Business</term>
-                </keywords>
-                <keywords scheme="original" n="topic">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="keywords">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="people">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="places">
-                    <term></term>
-                </keywords>
-            </textClass>
-            <particDesc><person role="recipient"><persName>Kendrick, M. Slade</persName></person></particDesc>
-        </profileDesc>
-        
-        <revisionDesc>
-            <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
-            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
-            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
-            
-        </revisionDesc>
-    </teiHeader>
-    
-    <text>
-        <body>
-            
-            <div1 type="letter">
-                
-                <pb facs="nei.j4c.61.61-62_0001a" />
-                
-                <opener>
-                    <dateline>
-                        221 <hi rend="caps">W.</hi> Brandon Rd.
-                        Columbia, <hi rend="caps">MO.</hi> 
-                        Dec. 11, '70
-                        Friday <hi rend="caps">P. M.</hi>
-                    </dateline>
-                
-                    <salute>Dear Slade:</salute>
-                </opener>
-                <p>I have just returned from the funeral of <hi rend="caps">H. B.</hi> bless his truly noble soul! Rev. Crowley, of course, gave the talk, and it was a fine and well deserved tribute. He really got the spirit of the man
-                    
-                    <pb facs="nei.j4c.61.61-62_0001b"/>
-                    <fw type="authorial">-2-</fw>   <fw type="curatorial"><del/></fw>
-                    
-                    I was so sorry you were unable to be present, and I hope you are not sick. Let me hear from you.</p>
-                
-                <p>Hilda had a court case in Jefferson City and could not be with us; but Alice and I went together.</p>
-                
-                <p>This carries love for you, dear Slade.</p>
-                
-                    <fw type="curatorial">61</fw>
-                    <pb facs="nei.j4c.61.61-62_0002a"/>
-                    <fw type="authorial">-3-</fw>
-                
-                <p>We both know that <hi rend="caps">H. B.</hi> is all right, that he is better off than we are. And to think how <hi rend="double underline">many</hi> care that he has gone <del/> on!</p>
-                
-                <p>Yesterday, the <hi rend="underline">U</hi> of Mo. Library unveiled a fine painted portrait of me by the Hungarian artist, Franz Szalsz<sic>Szasz</sic>. There was a nice ceremony &#8212; luncheon
-                    
-                    <pb facs="nei.j4c.61.61-62_0002b"/>
-                    <fw type="authorial">-4-</fw>   <fw type="curatorial"><del/></fw>
-                    
-                    and reception. The portrait is hung in the "Neihardt Room" with my Collection.</p>
-                <closer>
-                    <signed>Kindest thoughts for Nita and love to you, Slade.</signed>
-                
-                    <signed>Gaki
-                    (John Neihardt)</signed>
-                </closer>
-                
-                    <fw type="curatorial">62</fw>
-                
-            </div1>
-        </body>
-        
-        <back></back>
-    </text>
+<idno>nei.j4c.61.61-62_0001-2</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<title level="m" type="main">Letter from John G. Neihardt to Dr. Slade Kendrick</title>
+<date when="1970-12-11">December 11, 1970</date>
+<extent>4 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>4 hand-written pages</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>4 pages
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+</condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="type"><p>Media: type</p></handNote>
+<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+
+
+
+
+
+
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+<date when="1900"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName></persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Kendrick, M. Slade</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4c.61.61-62_0001a" />
+
+<opener>
+<dateline>
+221 <hi rend="caps">W.</hi> Brandon Rd.
+Columbia, <hi rend="caps">MO.</hi> 
+Dec. 11, '70
+Friday <hi rend="caps">P. M.</hi>
+</dateline>
+
+<salute>Dear Slade:</salute>
+</opener>
+<p>I have just returned from the funeral of <hi rend="caps">H. B.</hi> bless his truly noble soul! Rev. Crowley, of course, gave the talk, and it was a fine and well deserved tribute. He really got the spirit of the man
+
+<pb facs="nei.j4c.61.61-62_0001b"/>
+<fw type="authorial">-2-</fw>   <fw type="curatorial"><del/></fw>
+
+I was so sorry you were unable to be present, and I hope you are not sick. Let me hear from you.</p>
+
+<p>Hilda had a court case in Jefferson City and could not be with us; but Alice and I went together.</p>
+
+<p>This carries love for you, dear Slade.</p>
+
+<fw type="curatorial">61</fw>
+<pb facs="nei.j4c.61.61-62_0002a"/>
+<fw type="authorial">-3-</fw>
+
+<p>We both know that <hi rend="caps">H. B.</hi> is all right, that he is better off than we are. And to think how <hi rend="double underline">many</hi> care that he has gone <del/> on!</p>
+
+<p>Yesterday, the <hi rend="underline">U</hi> of Mo. Library unveiled a fine painted portrait of me by the Hungarian artist, Franz Szalsz<sic>Szasz</sic>. There was a nice ceremony &#8212; luncheon
+
+<pb facs="nei.j4c.61.61-62_0002b"/>
+<fw type="authorial">-4-</fw>   <fw type="curatorial"><del/></fw>
+
+and reception. The portrait is hung in the "Neihardt Room" with my Collection.</p>
+<closer>
+<signed>Kindest thoughts for Nita and love to you, Slade.</signed>
+
+<signed>Gaki
+(John Neihardt)</signed>
+</closer>
+
+<fw type="curatorial">62</fw>
+
+</div1>
+</body>
+
+<back></back>
+</text>
 </TEI>

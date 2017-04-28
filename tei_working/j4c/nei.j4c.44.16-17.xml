@@ -1,179 +1,190 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.44.16-17_0001-2">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title type="main">Letter from John G. Neihardt to Mrs. Anderson, November 16, 1964</title>
-                <author>Neihardt, John Gneisenau, 1881-1973</author>
-                <principal>Gossin, Pamela</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date>2013</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <authority>The Papers of John G. Neihardt</authority>
-                <publisher>University of Nebraska-Lincoln</publisher>
-                <distributor>
-                    <name>Center for Digital Research in the Humanities</name>
-                    <address>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Mrs. Anderson, November 16, 1964</title>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
 <addrLine>319 Love Library</addrLine>
 <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 <addrLine>cdrh@unlnotes.unl.edu</addrLine>
 </address>
-                </distributor>
-                <pubPlace>Lincoln, Nebraska</pubPlace> 
-                <address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-                <idno>nei.j4c.44.16-17_0001-2</idno>
-                <availability>
-                    <p></p>
-                </availability>
-            </publicationStmt>
-            
-            <notesStmt><note></note></notesStmt>
-            
-            <sourceDesc>
-                <bibl>
-                    <author>Neihardt, John Gneisenau, 1881-1973</author>
-                    <title level="m" type="main">Letter from John G. Neihardt to Mrs. Anderson</title>
-                    <date when="1964-11-16">November 16, 1964</date>
-                    <extent>2 pages</extent>
-                </bibl>
-                <msDesc>
-                    <msIdentifier>
-                        <repository></repository>
-                        <idno></idno>
-                    </msIdentifier>
-                    <msContents>
-                        <p>2 hand-written pages</p>
-                    </msContents>
-                    <physDesc>
-                        <objectDesc>
-                            <supportDesc>
-                                <support></support>
-                                <extent>2 pages
-                                    <dimensions unit="mm"><height></height><width></width></dimensions>
-                                </extent>
-                                <condition>
-                                    <p></p></condition>
-                            </supportDesc>
-                        </objectDesc>
-                        <handDesc hands="1">
-                            <handNote xml:id="type"><p>Media: type</p></handNote>
-                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-                        </handDesc>
-                        <typeDesc>
-                            <typeNote><p></p></typeNote>
-                        </typeDesc>
-                    </physDesc>
-                    <history><origin></origin>
-                        <provenance></provenance>
-                        <acquisition></acquisition>
-                    </history>
-                </msDesc>
-                
-            </sourceDesc>
-        </fileDesc>
-        
-        <encodingDesc>
-            <editorialDecl>
-                <correction>
-                    <p></p>
-                </correction>
-                <normalization>
-                    <p></p>
-                </normalization>
-            </editorialDecl>
-        </encodingDesc>
-        
-        <profileDesc>
-            <textClass>
-                <keywords scheme="original" n="category">
-                    <term>Correspondence</term>
-                </keywords>
-                <keywords scheme="original" n="subcategory">
-                    <term>Business</term>
-                </keywords>
-                <keywords scheme="original" n="topic">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="keywords">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="people">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="places">
-                    <term></term>
-                </keywords>
-            </textClass>
-            <particDesc><person role="recipient"><persName>Anderson, Mrs.</persName></person></particDesc>
-        </profileDesc>
-        
-        <revisionDesc>
-            <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
-            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
-            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
-            
-        </revisionDesc>
-    </teiHeader>
-    
-    <text>
-        <body>
-            
-            <div1 type="letter">
-                
-                <pb facs="nei.j4c.44.16-17_0001" />
-                
-                <note type="curatorial">N. Center Copy St. Archives also has a copy</note>
-                
-                
-                
-                <fw type="letterhead">
-                <hi rend="caps">JOHN G. NEIHARDT</hi>
-                    <lb/>
-                <hi rend="caps">ROUTE 7∙SKYRIM FARM</hi>
-                    <lb/>
-                <hi rend="caps">COLUMBIA, MISSOURI</hi>  
-                </fw>
-                <fw type="curatorial">16</fw>
-                <opener>
-                <dateline>Nov. 16, '64</dateline>
-                
-                
-                <salute>Dear Mrs. Anderson:</salute>
-                </opener>
-                <p>I was very glad indeed to hear from you, and I thank you for the copy of the article about our mutual friend, Dr. J. T. House. I have the article among my papers, but have not seen it for a long while. Dr. never made the trip because, as I remember, his wife had a bad sick spell that summer and he could not get away. I'm sure he could have done it.</p>
-             
-                <p><hi rend="underline">The River and I</hi> is out of print now, but no doubt it will be reissued in a year or two. It should 
-                    
-                    <note type="authorial">(over)</note>
-                    
-                    <note type="authorial">The date, I believe was 1916, possibly 1917.</note>
-                    
-                    <pb facs="nei.j4c.44.16-17_0002"/>
-                    <fw type="curatorial">17</fw>
-                    
-                    be in all large libraries; and large second-hand bookstores can often locate copies at a premium &#8212; It is a collector's item, but is priced generally below $10.</p>
-                
-                <p>I wish I could have another drink from your Fountain of Youth!!</p>
-                
-                <p>Do give my kindest thoughts to your Father, and retain a goodly supply of them for yourself.</p>
-                <closer>
-                <salute>Sincerely,</salute>
-                
-                <signed>John Neihardt</signed>
-                </closer>
-            </div1>
-        </body>
-        
-        <back></back>
-    </text>
+<idno>nei.j4c.44.16-17_0001-2</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<title level="m" type="main">Letter from John G. Neihardt to Mrs. Anderson</title>
+<date when="1964-11-16">November 16, 1964</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>2 hand-written pages</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>2 pages
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+</condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="type"><p>Media: type</p></handNote>
+<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+
+
+
+
+
+
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+<date when="1900"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName></persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Anderson, Mrs.</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4c.44.16-17_0001" />
+
+<note type="curatorial">N. Center Copy St. Archives also has a copy</note>
+
+
+
+<fw type="letterhead">
+<hi rend="caps">JOHN G. NEIHARDT</hi>
+<lb/>
+<hi rend="caps">ROUTE 7∙SKYRIM FARM</hi>
+<lb/>
+<hi rend="caps">COLUMBIA, MISSOURI</hi>  
+</fw>
+<fw type="curatorial">16</fw>
+<opener>
+<dateline>Nov. 16, '64</dateline>
+
+
+<salute>Dear Mrs. Anderson:</salute>
+</opener>
+<p>I was very glad indeed to hear from you, and I thank you for the copy of the article about our mutual friend, Dr. J. T. House. I have the article among my papers, but have not seen it for a long while. Dr. never made the trip because, as I remember, his wife had a bad sick spell that summer and he could not get away. I'm sure he could have done it.</p>
+ 
+<p><hi rend="underline">The River and I</hi> is out of print now, but no doubt it will be reissued in a year or two. It should 
+
+<note type="authorial">(over)</note>
+
+<note type="authorial">The date, I believe was 1916, possibly 1917.</note>
+
+<pb facs="nei.j4c.44.16-17_0002"/>
+<fw type="curatorial">17</fw>
+
+be in all large libraries; and large second-hand bookstores can often locate copies at a premium &#8212; It is a collector's item, but is priced generally below $10.</p>
+
+<p>I wish I could have another drink from your Fountain of Youth!!</p>
+
+<p>Do give my kindest thoughts to your Father, and retain a goodly supply of them for yourself.</p>
+<closer>
+<salute>Sincerely,</salute>
+
+<signed>John Neihardt</signed>
+</closer>
+</div1>
+</body>
+
+<back></back>
+</text>
 </TEI>

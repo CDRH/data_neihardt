@@ -1,213 +1,224 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.62.14-16_0001-3">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, February 18, 1971</title>
-                <author>Neihardt, John Gneisenau, 1881-1973</author>
-                <principal>Gossin, Pamela</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date>2013</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <authority>The Papers of John G. Neihardt</authority>
-                <publisher>University of Nebraska-Lincoln</publisher>
-                <distributor>
-                    <name>Center for Digital Research in the Humanities</name>
-                    <address>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, February 18, 1971</title>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
 <addrLine>319 Love Library</addrLine>
 <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 <addrLine>cdrh@unlnotes.unl.edu</addrLine>
 </address>
-                </distributor>
-                <pubPlace>Lincoln, Nebraska</pubPlace> 
-                <address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-                <idno>nei.j4c.62.14-16_0001-3</idno>
-                <availability>
-                    <p></p>
-                </availability>
-            </publicationStmt>
-            
-            <notesStmt><note></note></notesStmt>
-            
-            <sourceDesc>
-                <bibl>
-                    <author>Neihardt, John Gneisenau, 1881-1973</author>
-                    <title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
-                    <date when="1971-02-18">February 18, 1971</date>
-                    <extent>4 pages, plus envelope</extent>
-                </bibl>
-                <msDesc>
-                    <msIdentifier>
-                        <repository></repository>
-                        <idno></idno>
-                    </msIdentifier>
-                    <msContents>
-                        <p>4 hand-written pages, plus envelope</p>
-                    </msContents>
-                    <physDesc>
-                        <objectDesc>
-                            <supportDesc>
-                                <support></support>
-                                <extent>4 pages
-                                    <dimensions unit="mm"><height></height><width></width></dimensions>
-                                </extent>
-                                <condition>
-                                    <p></p></condition>
-                            </supportDesc>
-                        </objectDesc>
-                        <handDesc hands="1">
-                            <handNote xml:id="type"><p>Media: type</p></handNote>
-                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-                        </handDesc>
-                        <typeDesc>
-                            <typeNote><p></p></typeNote>
-                        </typeDesc>
-                    </physDesc>
-                    <history><origin></origin>
-                        <provenance></provenance>
-                        <acquisition></acquisition>
-                    </history>
-                </msDesc>
-                
-            </sourceDesc>
-        </fileDesc>
-        
-        <encodingDesc>
-            <editorialDecl>
-                <correction>
-                    <p></p>
-                </correction>
-                <normalization>
-                    <p></p>
-                </normalization>
-            </editorialDecl>
-        </encodingDesc>
-        
-        <profileDesc>
-            <textClass>
-                <keywords scheme="original" n="category">
-                    <term>Correspondence</term>
-                </keywords>
-                <keywords scheme="original" n="subcategory">
-                    <term>Business</term>
-                </keywords>
-                <keywords scheme="original" n="topic">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="keywords">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="people">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="places">
-                    <term></term>
-                </keywords>
-            </textClass>
-            <particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
-        </profileDesc>
-        
-        <revisionDesc>
-            <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
-            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
-            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
-            
-        </revisionDesc>
-    </teiHeader>
-    
-    <text>
-        <body>
-            
-            <div1 type="letter">
-                
-                <pb facs="nei.j4c.62.14-16_0001a" />
-                
-                <note type="curatorial">Aly Collection</note>
-                
-                <opener>
-                    <dateline>Feb. 18, '71</dateline>
-                
-                    <salute>Dear Lucile:</salute>
-                </opener>
-                <p>Thanks for a good letter!</p>
-                
-                <p>We have been reading your book aloud, and I feel you will have no great trouble in <hi rend="underline">condensing</hi> it, here and there, without sacrificing much of <hi rend="underline">prime</hi> importance. I <hi rend="underline">do</hi> hope you will not have to cut <hi rend="underline">or condense</hi> your fine pages on the Laureateship! It's
-                    
-                    <pb facs="nei.j4c.62.14-16_0001b"/>
-                    <fw type="authorial">-2-</fw>
-                    
-                    <unclear>bully</unclear>, and its important. Right now this is of special value, as there is a <unclear>movement</unclear> to celebrate the Semi-Centennial of the Laureateship <hi rend="underline">on the steps of the Capitol</hi>, as <unclear>mentioned</unclear> 50 years ago by Dean Sherman when the ceremony was held <unclear>out</unclear> on the steps of the theater because the Capitol was only being started.</p>
-                
-                <p><hi rend="double underline">What</hi> a chance for a wow of a celebration. There is plenty of <del/> interest in the
-                    
-                    <fw type="curatorial">14</fw>
-                    <pb facs="nei.j4c.62.14-16_0002a"/>
-                    <fw type="authorial">-3-</fw>
-                    
-                    Legislature to <unclear>put</unclear> the new legislation across.</p>
-                
-                <p>It <del/> seems a great pity that your fine book is not ready for publication, because we are apparently reaching <del/><add>a</add> <hi rend="underline">peak</hi> of Neihardt interest and possibilities. In addition to Cavett's 90-minute show in color, there is a probability that Hugh Downs will come over too. But <hi rend="double underline">don't</hi> tell
-                    
-                    <pb facs="nei.j4c.62.14-16_0002b"/>
-                    <fw type="authorial">-4-</fw>
-                    
-                    this publicly yet.</p>
-                
-                <p><del/>Whoever gives the big speech at the Capitol will be delighted with your chapter on the subject.</p>
-                
-                <p>Just think! "The master goes back to Petrarch" in the Middle Ages!!</p>
-                
-                <p>I <hi rend="underline">do</hi> hope you can work freely on the <unclear>condensation</unclear> job.</p>
-                <closer>
-                    <salute>With all the old love for you, Bower, Stewart, and the <hi rend="underline">Doggie!</hi></salute>
-                
-                    <signed>&#8212; John Gaki</signed>
-                </closer>
-                
-                <postscript>
-                    <p>Jacquot is a great joy and comfort to us! Arf!</p>
-                </postscript>
-                
-                <fw type="curatorial">15</fw>
-                
-            </div1>
-            
-            
-            <div1 type="envelope">
-                
-                <pb facs="nei.j4c.62.14-16_0003"/>
-                
-                <note type="authorial">___________
-                    <hi rend="underline">Air Mail</hi></note>
-                <ab type="postmark">LINCOLN FEB 18 PM 1971 NEBR.</ab>
-                <figure>
-                    <figDesc>10 Cent Stamp</figDesc>
-                    <p>10¢ U.S. AIR MAIL</p>
-                </figure> 
-                    
-                <ab type="address">
-                    <address>
-                        <addrLine>Dr. Lucile Aly</addrLine>
-                        <addrLine>1138 22nd Ave., East,</addrLine>
-                        <addrLine>Eugene,</addrLine>
-                        <addrLine>Oregon.       97403</addrLine>
-                    </address>
-                </ab>
-                <fw type="curatorial">16</fw>
-                
-            </div1>
-        </body>
-        
-        <back></back>
-    </text>
+<idno>nei.j4c.62.14-16_0001-3</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
+<date when="1971-02-18">February 18, 1971</date>
+<extent>4 pages, plus envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>4 hand-written pages, plus envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>4 pages
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+</condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="type"><p>Media: type</p></handNote>
+<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+
+
+
+
+
+
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+<date when="1900"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName></persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4c.62.14-16_0001a" />
+
+<note type="curatorial">Aly Collection</note>
+
+<opener>
+<dateline>Feb. 18, '71</dateline>
+
+<salute>Dear Lucile:</salute>
+</opener>
+<p>Thanks for a good letter!</p>
+
+<p>We have been reading your book aloud, and I feel you will have no great trouble in <hi rend="underline">condensing</hi> it, here and there, without sacrificing much of <hi rend="underline">prime</hi> importance. I <hi rend="underline">do</hi> hope you will not have to cut <hi rend="underline">or condense</hi> your fine pages on the Laureateship! It's
+
+<pb facs="nei.j4c.62.14-16_0001b"/>
+<fw type="authorial">-2-</fw>
+
+<unclear>bully</unclear>, and its important. Right now this is of special value, as there is a <unclear>movement</unclear> to celebrate the Semi-Centennial of the Laureateship <hi rend="underline">on the steps of the Capitol</hi>, as <unclear>mentioned</unclear> 50 years ago by Dean Sherman when the ceremony was held <unclear>out</unclear> on the steps of the theater because the Capitol was only being started.</p>
+
+<p><hi rend="double underline">What</hi> a chance for a wow of a celebration. There is plenty of <del/> interest in the
+
+<fw type="curatorial">14</fw>
+<pb facs="nei.j4c.62.14-16_0002a"/>
+<fw type="authorial">-3-</fw>
+
+Legislature to <unclear>put</unclear> the new legislation across.</p>
+
+<p>It <del/> seems a great pity that your fine book is not ready for publication, because we are apparently reaching <del/><add>a</add> <hi rend="underline">peak</hi> of Neihardt interest and possibilities. In addition to Cavett's 90-minute show in color, there is a probability that Hugh Downs will come over too. But <hi rend="double underline">don't</hi> tell
+
+<pb facs="nei.j4c.62.14-16_0002b"/>
+<fw type="authorial">-4-</fw>
+
+this publicly yet.</p>
+
+<p><del/>Whoever gives the big speech at the Capitol will be delighted with your chapter on the subject.</p>
+
+<p>Just think! "The master goes back to Petrarch" in the Middle Ages!!</p>
+
+<p>I <hi rend="underline">do</hi> hope you can work freely on the <unclear>condensation</unclear> job.</p>
+<closer>
+<salute>With all the old love for you, Bower, Stewart, and the <hi rend="underline">Doggie!</hi></salute>
+
+<signed>&#8212; John Gaki</signed>
+</closer>
+
+<postscript>
+<p>Jacquot is a great joy and comfort to us! Arf!</p>
+</postscript>
+
+<fw type="curatorial">15</fw>
+
+</div1>
+
+
+<div1 type="envelope">
+
+<pb facs="nei.j4c.62.14-16_0003"/>
+
+<note type="authorial">___________
+<hi rend="underline">Air Mail</hi></note>
+<ab type="postmark">LINCOLN FEB 18 PM 1971 NEBR.</ab>
+<figure>
+<figDesc>10 Cent Stamp</figDesc>
+<p>10¢ U.S. AIR MAIL</p>
+</figure> 
+
+<ab type="address">
+<address>
+<addrLine>Dr. Lucile Aly</addrLine>
+<addrLine>1138 22nd Ave., East,</addrLine>
+<addrLine>Eugene,</addrLine>
+<addrLine>Oregon.   97403</addrLine>
+</address>
+</ab>
+<fw type="curatorial">16</fw>
+
+</div1>
+</body>
+
+<back></back>
+</text>
 </TEI>

@@ -1,246 +1,257 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.61.57-60_0001-4">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, October 25, 1970</title>
-                <author>Neihardt, John Gneisenau, 1881-1973</author>
-                <principal>Gossin, Pamela</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date>2013</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <authority>The Papers of John G. Neihardt</authority>
-                <publisher>University of Nebraska-Lincoln</publisher>
-                <distributor>
-                    <name>Center for Digital Research in the Humanities</name>
-                    <address>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, October 25, 1970</title>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
 <addrLine>319 Love Library</addrLine>
 <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 <addrLine>cdrh@unlnotes.unl.edu</addrLine>
 </address>
-                </distributor>
-                <pubPlace>Lincoln, Nebraska</pubPlace> 
-                <address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-                <idno>nei.j4c.61.57-60_0001-4</idno>
-                <availability>
-                    <p></p>
-                </availability>
-            </publicationStmt>
-            
-            <notesStmt><note></note></notesStmt>
-            
-            <sourceDesc>
-                <bibl>
-                    <author>Neihardt, John Gneisenau, 1881-1973</author>
-                    <title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
-                    <date when="1970-10-25">October 25, 1970</date>
-                    <extent>7 pages, plus envelope</extent>
-                </bibl>
-                <msDesc>
-                    <msIdentifier>
-                        <repository></repository>
-                        <idno></idno>
-                    </msIdentifier>
-                    <msContents>
-                        <p>7 hand-written pages, plus envelope</p>
-                    </msContents>
-                    <physDesc>
-                        <objectDesc>
-                            <supportDesc>
-                                <support></support>
-                                <extent>7 pages
-                                    <dimensions unit="mm"><height></height><width></width></dimensions>
-                                </extent>
-                                <condition>
-                                    <p></p></condition>
-                            </supportDesc>
-                        </objectDesc>
-                        <handDesc hands="1">
-                            <handNote xml:id="type"><p>Media: type</p></handNote>
-                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-                        </handDesc>
-                        <typeDesc>
-                            <typeNote><p></p></typeNote>
-                        </typeDesc>
-                    </physDesc>
-                    <history><origin></origin>
-                        <provenance></provenance>
-                        <acquisition></acquisition>
-                    </history>
-                </msDesc>
-                
-            </sourceDesc>
-        </fileDesc>
-        
-        <encodingDesc>
-            <editorialDecl>
-                <correction>
-                    <p></p>
-                </correction>
-                <normalization>
-                    <p></p>
-                </normalization>
-            </editorialDecl>
-        </encodingDesc>
-        
-        <profileDesc>
-            <textClass>
-                <keywords scheme="original" n="category">
-                    <term>Correspondence</term>
-                </keywords>
-                <keywords scheme="original" n="subcategory">
-                    <term>Business</term>
-                </keywords>
-                <keywords scheme="original" n="topic">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="keywords">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="people">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="places">
-                    <term></term>
-                </keywords>
-            </textClass>
-            <particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
-        </profileDesc>
-        
-        <revisionDesc>
-            <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
-            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
-            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
-            
-        </revisionDesc>
-    </teiHeader>
-    
-    <text>
-        <body>
-            
-            <div1 type="letter">
-                
-                <pb facs="nei.j4c.61.57-60_0001a" />
-       
-                <note type="curatorial">14 Aly Collection</note>
-                
-                <opener>
-                    <dateline>Oct. 25, 1970</dateline>
-                
-                    <salute>Dear Lucile:</salute>
-                </opener>
-                <p>I've been having the Biography read to me, and I want to tell you again that I'm delighted with the writing &#8212; <hi rend="underline">just now</hi> with the chapters on the Lyrics.</p>
-                
-                <p>Lucile, it's just "awfully" good!</p>
-                
-                <p>There <hi rend="underline">are</hi> little errors, but I don't think there are any in the Lyrics. Hilda was here for a day, and she told me
-                    
-                    <pb facs="nei.j4c.61.57-60_0001b"/>
-                    <fw type="authorial">-2-</fw>
-                    
-                    of several small, but important slips of the pen. She didn't want to write you, but I've insisted. There is some mis-statement in the matter of the valedictory, I believe. She will tell you, and you may trust her.</p>
-                
-                <p>In Missouri the Friends of the Library, <del/><add>working</add> with the State Library Board, is planning a "Neihardt Corner" <del/><add>on</add> the main floor of the University Library. It will contain much of my more or less <hi rend="underline">precious stuff</hi> and be a sort of museum.</p>
-                
-                    <fw type="curatorial">57</fw>
-                    <pb facs="nei.j4c.61.57-60_0002a"/>
-                    <fw type="authorial">-3-</fw>
-                
-                <p>A Kansas City lady, who is involved in the <del/> affair, was here today and told us of the plans. Also, arrangements <del><unclear>re</unclear></del><add>are</add> being made for my 90th birthday in <hi rend="caps">K. C.</hi> celebration, as well as here.</p>
-                
-                <p>90 years!! <hi rend="underline">(My God!)</hi></p>
-                
-                <p>We will have records on sale by spring, it seems &#8212; Lyrics, Sitting Bull's Death, Death of Crazy Horse. Vision of the Spirit World. <hi rend="double underline">All</hi> in perfect shape. They are now ready to begin <unclear>"cutting"</unclear> the records from the tapes.</p>
-                
-                <p><hi rend="underline">Do please tell me</hi>
-                    
-                    <pb facs="nei.j4c.61.57-60_0002b"/>
-                    <fw type="authorial">-4-</fw>    
-                    
-                    <hi rend="underline">what</hi> is being done to the Biography by way of <hi rend="underline">"revision"</hi>. I'm <unclear>jealous</unclear> for that book.</p>
-                
-                <p>Love to you, Bower and Old Man Stewart. <del/> (I have not yet heard if John Paul Jones is still being collected!)</p>
-                
-                <p><del/>
-                    <lb/>
-                    The "Neihardt Room" will be <hi rend="underline">in</hi> <hi rend="double underline">addition</hi> to the Neihardt Collection and the Western <hi rend="caps">MSS</hi> Collection (in the same building, of course.)</p>
-                
-                <p><hi rend="underline">Do</hi> tell me something exciting about the <hi rend="caps">U.</hi> of Neb. Press and its doings with the <hi rend="caps">MS</hi>.</p>
-                <closer>
-                    <signed>John Neihardt</signed>
-                </closer>
-                
-                    <fw type="curatorial">58</fw>
-                    <pb facs="nei.j4c.61.57-60_0003a"/>
-                
-                <postscript>
-                <opener><hi rend="caps">P. S.</hi> <dateline>Oct. 25.</dateline></opener>
-                
-                <p>Hilda, who is my lawyer and agent <unclear>plemplentiary</unclear> (?) will leave tomorrow for <del>an</del> a week in New York. She is going in my interest. And we need very much to have <hi rend="underline">close</hi> contacts there.</p>
-                    
-                <p><hi rend="underline">Hard-back</hi> rights are still mine in all the <hi rend="caps">U.</hi> of Neb. publications and <hi rend="underline">nobody</hi> is making a dime out of them. Even so, the sales are very good (all without promotion of any kind. I <hi rend="double underline">do</hi> believe that if <hi rend="underline">Black Elk</hi>
-                    
-                    <pb facs="nei.j4c.61.57-60_0003b"/>
-                    <fw type="authorial">-2- <hi rend="caps">P. S.</hi></fw>
-                    
-                    <hi rend="underline">Speaks</hi> were taken over for hard-back publication <hi rend="underline">and</hi> pushed a bit, the <unclear>Work</unclear> <del/> would go wild in the market. We hear from it all over the country, and, of course, it pulls the <hi rend="underline">Cycle</hi> along with it.</p>
-                
-                <p>We were <hi rend="underline">right</hi> on the edge of having a <del>m</del> movie when the money market knocked hell out of the movie business; We may still have Black Elk produced, but I'm not too hopeful.</p>
-                
-                    <fw type="curatorial">59</fw>
-                    <pb facs="nei.j4c.61.57-60_0004a"/>
-                    <fw type="authorial">-3- <hi rend="caps">P. S.</hi></fw>
-                
-                <p>I'm just completing my story, "The Two Boys" which <del/> is a chapter in the Adult section of my <hi rend="underline">Old Man</hi> book. The Adult section will be a collection of significant episodes. I'd like to send you my Spearfish Canyon dog story. It's a corker, I believe.</p>
-                
-                <p>Write me about the Biography and the<del>p<unclear/></del> preparations for publication.</p>
-                <closer>
-                &#8212; <signed>Gaki</signed>
-                (Same as John N.)
-                </closer>
-                </postscript>
-                
-            </div1>
-            
-            
-            <div1 type="envelope">
-                
-                <pb facs="nei.j4c.61.57-60_0004b"/>
-                
-                <fw>15</fw>
-                
-                <note type="authorial">__________
-                    <hi rend="underline">Air Mail</hi></note>
-                <ab type="postmark">LINCOLN. NE PM 23 SEP 1970 2A</ab>
-                <figure>
-                    <figDesc>10 Cent Stamp</figDesc>
-                    <p>U.S. AIR MAIL 10¢</p>
-                </figure>
-                
-                <ab type="address">
-                    <address>
-                        <addrLine>Dr. Lucile Aly</addrLine>
-                        <addrLine>1138 22nd Ave., East</addrLine>
-                        <addrLine>Eugene,</addrLine>
-                        <addrLine>Oregon. 97403</addrLine>
-                    </address>
-                </ab>
-                
-                <fw type="curatorial">60</fw>
-                
-            </div1>
-        </body>
-        
-        <back></back>
-    </text>
+<idno>nei.j4c.61.57-60_0001-4</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
+<date when="1970-10-25">October 25, 1970</date>
+<extent>7 pages, plus envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>7 hand-written pages, plus envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>7 pages
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+</condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="type"><p>Media: type</p></handNote>
+<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+
+
+
+
+
+
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+<date when="1900"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName></persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4c.61.57-60_0001a" />
+   
+<note type="curatorial">14 Aly Collection</note>
+
+<opener>
+<dateline>Oct. 25, 1970</dateline>
+
+<salute>Dear Lucile:</salute>
+</opener>
+<p>I've been having the Biography read to me, and I want to tell you again that I'm delighted with the writing &#8212; <hi rend="underline">just now</hi> with the chapters on the Lyrics.</p>
+
+<p>Lucile, it's just "awfully" good!</p>
+
+<p>There <hi rend="underline">are</hi> little errors, but I don't think there are any in the Lyrics. Hilda was here for a day, and she told me
+
+<pb facs="nei.j4c.61.57-60_0001b"/>
+<fw type="authorial">-2-</fw>
+
+of several small, but important slips of the pen. She didn't want to write you, but I've insisted. There is some mis-statement in the matter of the valedictory, I believe. She will tell you, and you may trust her.</p>
+
+<p>In Missouri the Friends of the Library, <del/><add>working</add> with the State Library Board, is planning a "Neihardt Corner" <del/><add>on</add> the main floor of the University Library. It will contain much of my more or less <hi rend="underline">precious stuff</hi> and be a sort of museum.</p>
+
+<fw type="curatorial">57</fw>
+<pb facs="nei.j4c.61.57-60_0002a"/>
+<fw type="authorial">-3-</fw>
+
+<p>A Kansas City lady, who is involved in the <del/> affair, was here today and told us of the plans. Also, arrangements <del><unclear>re</unclear></del><add>are</add> being made for my 90th birthday in <hi rend="caps">K. C.</hi> celebration, as well as here.</p>
+
+<p>90 years!! <hi rend="underline">(My God!)</hi></p>
+
+<p>We will have records on sale by spring, it seems &#8212; Lyrics, Sitting Bull's Death, Death of Crazy Horse. Vision of the Spirit World. <hi rend="double underline">All</hi> in perfect shape. They are now ready to begin <unclear>"cutting"</unclear> the records from the tapes.</p>
+
+<p><hi rend="underline">Do please tell me</hi>
+
+<pb facs="nei.j4c.61.57-60_0002b"/>
+<fw type="authorial">-4-</fw>
+
+<hi rend="underline">what</hi> is being done to the Biography by way of <hi rend="underline">"revision"</hi>. I'm <unclear>jealous</unclear> for that book.</p>
+
+<p>Love to you, Bower and Old Man Stewart. <del/> (I have not yet heard if John Paul Jones is still being collected!)</p>
+
+<p><del/>
+<lb/>
+The "Neihardt Room" will be <hi rend="underline">in</hi> <hi rend="double underline">addition</hi> to the Neihardt Collection and the Western <hi rend="caps">MSS</hi> Collection (in the same building, of course.)</p>
+
+<p><hi rend="underline">Do</hi> tell me something exciting about the <hi rend="caps">U.</hi> of Neb. Press and its doings with the <hi rend="caps">MS</hi>.</p>
+<closer>
+<signed>John Neihardt</signed>
+</closer>
+
+<fw type="curatorial">58</fw>
+<pb facs="nei.j4c.61.57-60_0003a"/>
+
+<postscript>
+<opener><hi rend="caps">P. S.</hi> <dateline>Oct. 25.</dateline></opener>
+
+<p>Hilda, who is my lawyer and agent <unclear>plemplentiary</unclear> (?) will leave tomorrow for <del>an</del> a week in New York. She is going in my interest. And we need very much to have <hi rend="underline">close</hi> contacts there.</p>
+
+<p><hi rend="underline">Hard-back</hi> rights are still mine in all the <hi rend="caps">U.</hi> of Neb. publications and <hi rend="underline">nobody</hi> is making a dime out of them. Even so, the sales are very good (all without promotion of any kind. I <hi rend="double underline">do</hi> believe that if <hi rend="underline">Black Elk</hi>
+
+<pb facs="nei.j4c.61.57-60_0003b"/>
+<fw type="authorial">-2- <hi rend="caps">P. S.</hi></fw>
+
+<hi rend="underline">Speaks</hi> were taken over for hard-back publication <hi rend="underline">and</hi> pushed a bit, the <unclear>Work</unclear> <del/> would go wild in the market. We hear from it all over the country, and, of course, it pulls the <hi rend="underline">Cycle</hi> along with it.</p>
+
+<p>We were <hi rend="underline">right</hi> on the edge of having a <del>m</del> movie when the money market knocked hell out of the movie business; We may still have Black Elk produced, but I'm not too hopeful.</p>
+
+<fw type="curatorial">59</fw>
+<pb facs="nei.j4c.61.57-60_0004a"/>
+<fw type="authorial">-3- <hi rend="caps">P. S.</hi></fw>
+
+<p>I'm just completing my story, "The Two Boys" which <del/> is a chapter in the Adult section of my <hi rend="underline">Old Man</hi> book. The Adult section will be a collection of significant episodes. I'd like to send you my Spearfish Canyon dog story. It's a corker, I believe.</p>
+
+<p>Write me about the Biography and the<del>p<unclear/></del> preparations for publication.</p>
+<closer>
+&#8212; <signed>Gaki</signed>
+(Same as John N.)
+</closer>
+</postscript>
+
+</div1>
+
+
+<div1 type="envelope">
+
+<pb facs="nei.j4c.61.57-60_0004b"/>
+
+<fw>15</fw>
+
+<note type="authorial">__________
+<hi rend="underline">Air Mail</hi></note>
+<ab type="postmark">LINCOLN. NE PM 23 SEP 1970 2A</ab>
+<figure>
+<figDesc>10 Cent Stamp</figDesc>
+<p>U.S. AIR MAIL 10¢</p>
+</figure>
+
+<ab type="address">
+<address>
+<addrLine>Dr. Lucile Aly</addrLine>
+<addrLine>1138 22nd Ave., East</addrLine>
+<addrLine>Eugene,</addrLine>
+<addrLine>Oregon. 97403</addrLine>
+</address>
+</ab>
+
+<fw type="curatorial">60</fw>
+
+</div1>
+</body>
+
+<back></back>
+</text>
 </TEI>
