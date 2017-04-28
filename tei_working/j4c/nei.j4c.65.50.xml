@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.65.50">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to Dr. Don R. Mitchell, September 4, 1973</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4c.65.50</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Dr. Don R. Mitchell</title>
+                    <date when="1973-09-04">September 4, 1973</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Mitchell, Don R.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4c.65.50" />
+                
+                <fw type="curatorial">50</fw>
+                
+                <opener>
+                    <dateline>
+                        5835 Vine Street
+                        Lincoln, Nebraska 68505
+                        September 4, 1973
+                    </dateline>
+                    
+                    <address>
+                        <addrLine>Dr. Don <hi rend="caps">R.</hi> Mitchell, Director</addrLine>
+                        <addrLine>Academic Support Center</addrLine>
+                        <addrLine>University of Missouri</addrLine>
+                        <addrLine>505 East Stewart Road</addrLine>
+                        <addrLine>Columbia, Missouri 65201</addrLine>
+                    </address>
+                    
+                    <salute>Dear Dr. Mitchell:</salute>
+                </opener>
+                <p>This is to certify that I should be very glad to have my television series <hi rend="underline">Twilight of the Sioux</hi> copied by the University of Nebraska <hi rend="caps">ETV</hi>. These programs consist of 30 tapes of 45 minutes each.</p>
+                
+                <p>As you doubtless know, this series is concerned with the history of Nebraska and the Plains generally.</p>
+                <closer>
+                    <salute>With all kind thoughts for all of you there,</salute>
+                
+                
+                    <signed>John Neihardt</signed>
+                
+                    <note>JN:nh
+                        cc: Ron Hull</note>
+                </closer>
+                   
+                   <fw type="curatorial">1</fw>
+                   
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

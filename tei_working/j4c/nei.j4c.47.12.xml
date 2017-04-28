@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.47.12">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to Ron Hull, November 19, 1965</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4c.47.12</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Ron Hull</title>
+                    <date when="1965-11-19">November 19, 1965</date>
+                    <extent>2 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 hand-written pages</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>2 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Hull, Ron</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4c.47.12a" />
+                
+                <note type="curatorial"><hi rend="caps">NSHS</hi></note>
+                
+                <opener>
+                    <dateline>
+                Route 7
+                Columbia, Mo.
+                November 19, '65
+                    </dateline>
+                
+                <salute>Dear Ron Hull:</salute>
+                </opener>
+                <p>I'm sorry I missed you when I was in Lincoln recently. I had just completed a five-weeks lecture tour, during which I lectured 47 times and travelled 4500 miles by car. Then also, I had 7 hours of autographing at Miller and Payne's bookstore. For full measure, I caught a violent cold the last day (my first in 8 years!).
+                    
+                    <pb facs="nei.j4c.47.12b"/>
+                    <fw type="authorial">-2-</fw>                                   <fw type="curatorial"><del/></fw>
+                    
+                    My plane reservation had been made a week before, so I left Lincoln in a hurry.</p>
+                
+                <p>I <hi rend="underline">do</hi> want to see and talk with you the next time I come your way.</p>
+                
+                <p>The tour was a great success &#8212; most responsive audiences!</p>
+                
+                <p>I note that you are running some of my stuff on Channel 12. Bruce Nicoll, writing about the tapes, says: "I think they are marvelous"</p>
+                <closer>
+                <salute>Kind thoughts</salute> &#8212; <signed>John G. Neihardt</signed>
+                </closer>
+                
+                <fw type="curatorial">12</fw>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.51.14">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, March 30, 1967</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4c.51.14</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
+                    <date when="1967-03-30">March 30, 1967</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4c.51.14" />
+                
+                
+                <note type="curatorial">3-1 Aly Collection</note>                               <fw type="curatorial">14</fw>
+                
+                <fw type="letterhead">
+                <hi rend="caps">JOHN G. NEIHARDT</hi> 
+                    <lb/>
+                <hi rend="caps">SKYRIM FARM</hi>  
+                    <lb/>
+                <hi rend="caps">ROUTE 7</hi>  
+                    <lb/>
+                <hi rend="caps">COLUMBIA, MO. 65201</hi>  
+                </fw>
+                <opener>
+                    <dateline>
+                March 30
+                1 9 6 7                               
+                    </dateline>
+                    
+                    
+                <salute>Dear Lucile:</salute>
+                </opener>
+                <p>Tom Richards was here briefly yesterday, and I gathered from what he said that in his letter to you he had made it seem, perhaps without intention, that he and I had definitely decided to go out to Eugene together sometime in April. My idea was that he would write to you and ask if you would be willing to let him see some of your sources for his dissertation, <hi rend="underline">if</hi> we came out together. What I mean to say here is that it is all up to you to say "no" or "yes". As I stated, I do feel sympathetic towards Tom. Please let me hear from you about this.</p>
+                
+                <p>I do wish you would write me about the corrected <hi rend="caps">MS</hi> I sent back to you. Has this been corrected for the final draft? I feel this ought to be ready when I come out.</p>
+                <closer>
+                <salute>With affectionate thoughts,</salute>
+                
+                <signed>John</signed>
+                <signed>John Neihardt</signed>
+                
+                <note>JN:enf</note>
+                </closer>
+                
+                <postscript>
+                <opener><hi rend="caps">P. S.</hi> &#8212;</opener> <p>Tomorrow I am off for Lincoln again to do a couple of programs up there. I'll write you about them.</p>
+                    
+                <p>Yesterday I talked to all the 8th grade students in the West Junior High here. It was a big mess of youngsters and they were most quiet and attentive. Nice kids!</p>
+                
+                <closer>&#8212; <signed>JN</signed></closer>
+                </postscript>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>
