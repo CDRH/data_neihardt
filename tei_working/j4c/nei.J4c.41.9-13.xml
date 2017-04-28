@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.41.9-13_0001-5">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, July 27. 1963</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4c.41.9-13_0001-5</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
+                    <date when="1963-07-27">July 27, 1963</date>
+                    <extent>4 pages, plus envelope</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>4 hand-written pages, plus envelope</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>4 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4c.41.9-13_0001" />
+                
+                <note type="curatorial">Aly Collection</note>
+                <fw type="curatorial">9</fw>
+                
+                <note type="authorial"> <hi rend="double underline">Do</hi> be carefully of the Streamer photo, dear Lady.</note>
+                <note type="curatorial">197-4</note>
+                <fw type="letterhead">
+                <hi rend="caps">JOHN G. NEIHARDT</hi>
+                    <lb/>
+                <hi rend="caps">SKYRIM FARM</hi>
+                    <lb/>
+                <hi rend="caps">COLUMBIA, MISSOURI</hi>  
+                </fw>
+                <opener><dateline>July 27, 63</dateline>
+                
+                
+                <salute>Dear Lucile:</salute>
+                </opener>
+                <p>I just want to say hello and give you a bit of news.</p>
+                
+                <p>I'm coming all the way "out of the woods", I feel sure. A bit sore in various ribs, but I can walk a block, <del/> and am gaining.</p>
+                
+                <p>But here's news. I've finally received <add>the</add> release from the old Macmillan contract, and our paper-back<sic>paperback</sic> edition will be out in August. <del/> The cover is a Bodmer painting, &amp; is effective. Talked to Bruce Nicoll on phone yesterday, &amp; he says he has ordered 6000
+                    copies of the  <hi rend="underline">Cycle</hi> for the first printing, &amp; he expects to "spread it all around". He's also eager for the  <hi rend="underline">Lyrics</hi> volume, &amp; will bring it out in the Spring.  
+                    
+                    <note type="authorial">_____
+                       <hi rend="underline">Over</hi></note>
+                    
+                    <pb facs="nei.j4c.41.9-13_0002"/>
+                    
+                    <fw type="authorial">-2-</fw>                           <fw type="curatorial">10</fw>
+                    
+                    It will contain the <del/> lyrics and two dramas as they appear in <hi rend="underline">"Collected Poems"</hi>. I <hi rend="underline">do</hi> expect him to "spread these around" too.</p>
+                
+                <p>Lucile, I've been reading  <hi rend="underline">Woman-Wine</hi>,  
+                    <hi rend="underline">Nuptial Hymn</hi>, and such, and they move me deeply after all these years and old as I'm said to be, but am not! My God! I don't know any poems about human experience that surpass them. And I'm  
+                    <hi rend="underline">not</hi> handing myself bouquets. - And there are others too. I almost know why you urged me to recite some of these things for tape! But I did a  <hi rend="triple underline">poor</hi> job being  <hi rend="underline">self-conscious</hi>!</p>
+                    
+                    <pb facs="nei.j4c.41.9-13_0003"/>
+                
+                <fw type="curatorial">11</fw>
+                    <fw type="authorial">-3-</fw>  
+                <fw type="letterhead">
+                    <hi rend="caps">JOHN G. NEIHARDT</hi>
+                        <lb/>
+                    <hi rend="caps">SKYRIM FARM</hi>
+                        <lb/>
+                    <hi rend="caps">COLUMBIA, MISSOURI</hi>
+                </fw>
+                    
+                    <p>I  <hi rend="underline">do</hi> wonder a good deal what the public response to some of these things will be! What do you think?</p> 
+                
+                <p>Here's another bit of<del/> news. <del/> Enid found a pitifully disintegrated piece of paper with a poem to Volney Streamer on it <del><hi rend="underline">&amp;</hi></del> <hi rend="double underline">and</hi>, a photo of Streamer! You never saw his picture, did you? I'll send it.</p> 
+                
+                <p>Bruce Nicoll told me over the 'phone<sic>phone</sic> that the Chancellor of Neb. <hi rend="caps">U.</hi> told him recently about my reading of lyrics at the Alumni Congress on June 6th. <del/>
+                    
+                    <note type="authorial">(over)</note>
+                    
+                    <pb facs="nei.j4c.41.9-13_0004"/>
+                    <fw type="authorial">-4-</fw>                                   <fw type="curatorial">12</fw>
+                   
+                    Nicoll quoted the Chancellor, "I was ashamed of my prepared speech, and refused to give it!" But I told Nicoll I regarded the Chancellor's act as an indication of  <hi rend="underline">his</hi> merit, not of mine!</p>
+               
+                <milestone unit="section"/>
+                <ab>__________</ab>
+                
+                <p>I began this several days ago. Since then, I've been writing perfectly lovely letters to India, so they'll be prepared &amp; know what a lovely person I am. I'd fear to shock them otherwise! Am I not thoughtful?</p>
+             
+                <p>Syracuse University writes me a flattering letter about my importance &amp; asks to be custodian of my  <hi rend="caps">MSS</hi>,<del/> papers, and letters. <hi rend="caps">U.</hi> of Mo. will offer copies, of course.</p>
+                
+                <p> <hi rend="triple underline">Do</hi> you still like me a <del>I like you,</del> little? I'm worried!!</p>
+                
+                <closer><salute>Love to  <hi rend="underline">you</hi> and the others - </salute> <signed>John Gaki</signed></closer>
+                
+                <note type="authorial">You'd be surprised how sore I can get after 9 weeks!!! Jno.</note>
+                
+            </div1>
+            
+            
+            <div1 type="envelope">
+                
+                <pb facs="nei.j4c.41.9-13_0005a"/>
+                
+                <ab type="return">
+                <hi rend="caps">JOHN G. NEIHARDT</hi>     
+                    <lb/>
+                <hi rend="caps">SKYRIM FARM</hi>
+                    <lb/>
+                <hi rend="caps">COLUMBIA, MISSOURI</hi>                    
+                </ab>
+                
+                <ab type="postmark">COL<unclear cert="high">UMB</unclear>IA, MO. AUG 3 130PM 1963</ab>
+                <figure>
+                    <figDesc>5 Cent Stamp</figDesc>
+                    <p>WEST VIRGINIA 5¢ UNITED STATES POSTAGE 1863-1963</p>
+                </figure>
+                <fw type="curatorial">13</fw>
+                
+                <ab type="address">
+                    <address>
+                <addrLine>H. Wayne Smith</addrLine>
+                <addrLine>21 Abbotts Close</addrLine>
+                <addrLine>Eastwood,Essex</addrLine>
+                    </address>
+                </ab>
+                
+                <ab type="address">
+                    <address>
+                <addrLine>Dr. Lucile Aly,</addrLine>
+                <addrLine>1138 East 22nd Ave.,</addrLine>
+                <addrLine>Eugene,</addrLine>
+                <addrLine>Oregon.</addrLine>
+                    </address>
+                </ab>
+                
+                <note type="authorial">(over)</note>
+                
+               
+                <pb facs="nei.j4c.41.9-13_0005b"/>
+                <note type="authorial"><p>I will ask American Express to arrange so that I can be in Europe at least a week before proceding<sic>proceeding</sic> to India. Perhaps I can see you'ns!!</p>
+                
+                J. N.</note>
+                
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

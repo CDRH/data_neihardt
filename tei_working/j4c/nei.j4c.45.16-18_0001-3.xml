@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.45.16-18_0001-3">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, March 29, 1965</title>
+                <author>Neihardt, John Gneisenau, 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+                <idno>nei.j4c.45.16-18_0001-3</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John Gneisenau, 1881-1973</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
+                    <date when="1965-03-29">March 29, 1965</date>
+                    <extent>2 pages, plus envelope</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 hand-written pages, plus envelope</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>2 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4c.45.16-18_0001" />
+                
+                <note type="curatorial">Aly Collection</note>                                               <fw type="curatorial">16</fw>
+                
+                <note type="authorial">Nicoll is  <hi rend="double underline">eager</hi> to see your <hi rend="caps">MS</hi> The <hi rend="underline">Lyrics</hi> are at the printers, or about to go.</note>
+                
+                <fw type="letterhead">
+                <hi rend="caps">JOHN G. NEIHARDT</hi>
+                    <lb/>
+                <hi rend="caps">ROUTE 7∙SKYRIM FARM</hi>
+                    <lb/>
+                <hi rend="caps">COLUMBIA, MISSOURI</hi>  
+                </fw>
+                <opener>
+                <dateline>March 29, '65</dateline>
+                
+                <salute>Dear Lucile:</salute>
+                </opener>
+                <note type="curatorial">226-2</note><p>The fund-raising<sic>fundraising</sic> dinner at Bancroft on March 25th was a huge success. In spite of threatening weather, all tickets were sold ($5 a plate) and the long tables in the big gymnasium were crowded. I was amazed at what they did there. All the clubs of the area helped, and the team-play must have been perfect.</p>
+                
+                <p>Can you fancy what it was like for me to go back in time and meet so many who knew me directly or indirectly &#8212; and all of them feeling warm-hearted?!! It was worth living a lot to have the experience. Forty-four years ago! And the little town awoke <note type="authorial">(over)</note>
+                    
+                    <note type="authorial">($5 per plate) People came long distances.</note>
+                    
+                    <pb facs="nei.j4c.45.16-18_0002"/>
+                    <fw type="curatorial">17</fw>
+                    
+                    from <del/>'drowsing away the days' &#8212; <hi rend="underline">and remembered</hi>! People spoke of you &#8212; and the promoters expressed great regret that they did not hear from you. They actually counted you in &#8212; and a letter from you would have been read to the audience. <hi rend="double underline">I</hi> <hi rend="underline">know</hi> you had too much to occupy your mind, and I explained.</p>
+               
+                <p>In April the highway marker (<hi rend="double underline">my</hi> marker) will be dedicated near Bancroft on Hy 73. It will be quite an affair, with the highway patrol helping and a good many <hi rend="caps">V. I. P.</hi>'s, they tell me. I'll go up again, since they want it so.</p>
+               
+                <p>You must have had a happy time in Hawaii. I think of you three together and separately and with affection for each.</p> <closer><salute>Always &#8212;</salute> <signed>John N.</signed></closer>
+                
+            </div1>
+            
+            
+            <div1 type="envelope">
+                
+                <pb facs="nei.j4c.45.16-18_0003a"/>
+                <fw type="curatorial">18</fw>
+                
+                <note type="authorial">_____
+                   <hi rend="underline">Air</hi></note>
+                <ab type="postmark">COLUMBIA, <unclear cert="high">M</unclear>O. MAR 2<unclear>9</unclear> _PM 1965</ab>
+                <figure>
+                    <figDesc>8 Cent Stamp</figDesc>
+                    <p>8¢ U.S. AIR MAIL</p>
+                </figure>
+                
+                <ab type="address">
+                    <address>
+                        <addrLine>Dr. Lucile Aly,</addrLine>
+                        <addrLine>1138 22nd Ave., East</addrLine>
+                        <addrLine>Eugene,</addrLine>
+                        <addrLine>Oregon</addrLine>
+                    </address>
+                </ab>
+                
+                <note type="authorial">(over)</note>
+                
+                <pb facs="nei.j4c.45.16-18_0003b"/>
+                
+                <note type="authorial">I showed the promoters your letter about the dinner, and they were glad.
+                &#8212; J. N.</note>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>
+
