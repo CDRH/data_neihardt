@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.41.7-8_0001-2">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.41.7-8">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to Dr. Slade Kendrick, July 25, 1963</title>
+<title type="main">Letter from John G. Neihardt to Slade Kendrick, July 25, 1963</title>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4c.41.7-8_0001-2</idno>
+<idno>nei.j4c.41.7-8</idno>
 <availability>
 <p></p>
 </availability>
@@ -42,7 +42,7 @@
 <sourceDesc>
 <bibl>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
-<title level="m" type="main">Letter from John G. Neihardt to Dr. Slade Kendrick</title>
+<title level="m" type="main">Letter from John G. Neihardt to Slade Kendrick</title>
 <date when="1963-07-25">July 25, 1963</date>
 <extent>2 pages</extent>
 </bibl>
@@ -79,24 +79,28 @@
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>South Dakota</term>
+<term>Canada</term>
+<term>India</term>
+<term>The Netherlands</term>
 </keywords>
 <keywords scheme="lcsh" n="works">
-<term></term>
+<term>Black Elk Speaks</term>
+<term>A Cycle of the West</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Columbia (Mo.)</placeName>
+<date when="1963-07-25"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
+<persName>Kendrick, M. Slade (Myron Slade)</persName>
 <placeName></placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Kendrick, Slade</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Kendrick, M. Slade (Myron Slade)</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
@@ -141,7 +145,7 @@
 <p>This is just some news. I haven't kept up my correspondence.</p>
 
 <p><hi rend="underline">Black Elk</hi> is being translated into Dutch &amp; published in Holland. The 
-<hi rend="underline">Cycle</hi> is coming out in a paper-back<sic>paperback</sic> at $1.85. Pretty cover.</p>
+<hi rend="underline">Cycle</hi> is coming out in a paper-back at $1.85. Pretty cover.</p>
 
 <p>I still love you.</p>
 <closer>

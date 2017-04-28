@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.41.4-6_0001-3">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.41.4-6">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, July 22, 1963</title>
+<title type="main">Letter from John G. Neihardt to Lucile Aly, July 22, 1963</title>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4c.41.4-6_0001-3</idno>
+<idno>nei.j4c.41.4-6</idno>
 <availability>
 <p></p>
 </availability>
@@ -42,7 +42,7 @@
 <sourceDesc>
 <bibl>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
-<title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
+<title level="m" type="main">Letter from John G. Neihardt to Lucile Aly</title>
 <date when="1963-07-22">July 22, 1963</date>
 <extent>2 pages, plus envelope</extent>
 </bibl>
@@ -74,27 +74,32 @@
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Neihardt, Mona Martinsen</term>
+<term>Elwell, Frank Edwin, 1858-1922</term>
+<term>Nicoll, Bruce</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="works">
-<term></term>
+<term>Arena</term>
+<term>John G. Neihardt: A Critical Biography</term>
+<term>Black Elk Speaks</term>
+<term>A Cycle of the West</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Columbia (Mo.)</placeName>
+<date when="1963-07-22"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<placeName></placeName>
+<persName>Aly, Lucile Folse, 1913-</persName>
+<placeName>Eugene (Or.)</placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Aly, Lucile Folse, 1913-</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
@@ -129,7 +134,7 @@
 
 <salute>Dear Lucile:</salute>
 </opener>
-<p>What an exciting bit of good luck - finding the old <hi rend="underline">Arena</hi> article about Mona! I remember it, but it seems far, far away now. Have you looked up Frank Edwin Ellwell<sic>Elwell</sic> to see just how 
+<p>What an exciting bit of good luck - finding the old <hi rend="underline">Arena</hi> article about Mona! I remember it, but it seems far, far away now. Have you looked up Frank Edwin Ellwell to see just how 
 <hi rend="underline">who</hi> he was and why? I remember he did a celebrated life-size bronze for Harvard &amp; I think it's there yet.</p>
 
 <p>I <hi rend="underline">know</hi> the <del><unclear>biorg</unclear></del>biography will be (and almost <hi rend="underline">is</hi> already, I hope) a fine thing. I must have an opportunity <hi rend="underline">to</hi> check minor factual details; 
