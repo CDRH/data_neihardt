@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.41.17-18_0001-3">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.41.17-18">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to Edna Skillings, August 31, 1963</title>
+<title type="main">Letter from John G. Neihardt to Edna Skilling, August 31, 1963</title>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4c.41.17-18_0001-3</idno>
+<idno>nei.j4c.41.17-18</idno>
 <availability>
 <p></p>
 </availability>
@@ -42,7 +42,7 @@
 <sourceDesc>
 <bibl>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
-<title level="m" type="main">Letter from John G. Neihardt to Edna Skillings</title>
+<title level="m" type="main">Letter from John G. Neihardt to Edna Skilling</title>
 <date when="1963-08-31">August 31, 1963</date>
 <extent>2 pages, plus envelope</extent>
 </bibl>
@@ -74,27 +74,29 @@
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Chaffee, John E. W.</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>India</term>
+<term>Europe</term>
 </keywords>
 <keywords scheme="lcsh" n="works">
-<term></term>
+<term>A Cycle of the West</term>
+<term>Lyric and Dramatic Poems</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Columbia (Mo.)</placeName>
+<date when="1963-08-31"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<placeName></placeName>
+<persName>Skilling, Edna</persName>
+<placeName>Albany (Or.)</placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Skillings, Edna</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Skilling, Edna</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
@@ -136,11 +138,11 @@
 
 I'm going to stay four months, being at a different university each month.</p> 
 
-<p><del>My</del><add>The</add> paper-back<sic>paperback</sic> edition of my <hi rend="underline">Cycle of the West</hi> is out, &amp; I'll send you a copy. My <hi rend="underline">Lyrics &amp; Dramas</hi> will be out in April (in paper-back<sic>paperback</sic>, but a very nice edition).</p>
+<p><del>My</del><add>The</add> paper-back edition of my <hi rend="underline">Cycle of the West</hi> is out, &amp; I'll send you a copy. My <hi rend="underline">Lyrics &amp; Dramas</hi> will be out in April (in paper-back, but a very nice edition).</p>
 
 <p>I still have pain in my back, but I'm hoping it may quit soon.</p>
 
-<p>I'm glad <del/><add>old</add> John is all right<sic>alright</sic> now. He was a dear good loyal pal, <del><unclear>bless</unclear></del><add>bless</add> him!</p>
+<p>I'm glad <del/><add>old</add> John is all right now. He was a dear good loyal pal, <del><unclear>bless</unclear></del><add>bless</add> him!</p>
 
 <p>Give my regards to Hugh!</p>
 
