@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
- 
-<p><hi rend="double underline">Did</hi> you receive the Jos. <hi rend="underline">Auslander</hi> letter? <hi rend="underline">And</hi> the clipping about Bancroft?</p>
- <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.43.5-9_0001-5">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.43.5-9">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, May 16, 1964</title>
+<title type="main">Letter from John G. Neihardt to Lucile Aly, May 16, 1964</title>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
@@ -33,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4c.43.5-9_0001-5</idno>
+<idno>nei.j4c.43.5-9</idno>
 <availability>
 <p></p>
 </availability>
@@ -44,7 +42,7 @@
 <sourceDesc>
 <bibl>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
-<title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
+<title level="m" type="main">Letter from John G. Neihardt to Lucile Aly</title>
 <date when="1964-05-16">May 16, 1964</date>
 <extent>8 pages, plus envelope</extent>
 </bibl>
@@ -56,44 +54,10 @@
 <msContents>
 <p>8 hand-written pages, plus envelope</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>8 pages
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
-
 
 <profileDesc>
 <textClass>
@@ -110,24 +74,36 @@
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="people">
+<term>Aly, Bower, 1903-1977</term>
+<term>Aly, Stewart</term>
+<term>Sullivan</term>
+<term>Chittenden, Hiram Martin, 1858-1917</term>
+<term>Kendrick, M. Slade (Myron Slade)</term>
+<term>Moulton, Richard G. (Richard Green), 1849-1924</term>
+<term>Menn, Thorpe</term>
+<term>Knipmeyer, Gilbert,1892-1981</term>
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>India</term>
+</keywords>
+<keywords scheme="lcsh" n="works">
+<term>St. Louis Post-Dispatch</term>
+<term>Kansas City Star</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Columbia (Mo.)</placeName>
+<date when="1964-05-16"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<placeName></placeName>
+<persName>Aly, Lucile Folse, 1913-</persName>
+<placeName>Eugene (Or.)</placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Aly, Lucile Folse, 1913-</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
@@ -157,7 +133,7 @@
 
 <fw type="curatorial">5</fw>
 <pb facs="nei.j4c.43.5-9_0001a"/>
-<fw type="authorial">-2-</fw>   <note type="curatorial">208-4Aly Collection</note>
+<fw type="authorial">-2-</fw>   <note type="curatorial">208-4 Aly Collection</note>
 
 can tell him that from me. <hi rend="underline">And</hi> I <hi rend="underline">do</hi> want Stewart to tell about his English experiences. That will be most interesting. As for Perky, you may assure her that I am still <hi rend="underline">cr-r-r-r-az-y</hi> about her, and am constantly longing to split a bottle with her. I'll wager she has an Olympian thirst by now, and goes about stepping on her tongue!</p>
 
@@ -184,7 +160,7 @@ student attitude towards me. You should have several things of the sort.</p>
 
 be able to check the whole thing for this reason. It is <hi rend="double underline">so</hi> <hi rend="underline">very easy</hi> to get the wrong impression.</p>
 
-<p>My very dear friend, Dr. Kendrick of Cornell, has sent you a little article. It is <hi rend="underline">dear</hi> and he brings out an important point &#8212; the mingling of <del>the</del> nature with the narrative. Dr. Richard G. Moullon<sic>Moulton</sic> noted this particularly. You will note an error or too, of course.</p>
+<p>My very dear friend, Dr. Kendrick of Cornell, has sent you a little article. It is <hi rend="underline">dear</hi> and he brings out an important point &#8212; the mingling of <del>the</del> nature with the narrative. Dr. Richard G. <choice><sic>Moullon</sic><corr>Moulton</corr></choice> noted this particularly. You will note an error or too, of course.</p>
 
 <pb facs="nei.j4c.43.5-9_0003b"/>
 <fw type="authorial">-6-</fw>
@@ -197,7 +173,7 @@ be able to check the whole thing for this reason. It is <hi rend="double underli
 <pb facs="nei.j4c.43.5-9_0004a"/>
 <fw type="authorial">-7-</fw>
 
-by that "traumatic pleurisy". I'm still good before a crowd, <hi rend="underline">any size</hi> ; <del>But</del>but a short walk gets my breathing. The <del>rib<unclear/></del> rib-cage<sic>ribcage</sic> was pushed in, and it's still quite noticeable on the left side.</p>
+by that "traumatic pleurisy". I'm still good before a crowd, <hi rend="underline">any size</hi> ; <del>But</del>but a short walk gets my breathing. The <del>rib<unclear/></del> rib-cage was pushed in, and it's still quite noticeable on the left side.</p>
 
 <p><hi rend="double underline">Do</hi> you have the first volume of Chittenden??? I <hi rend="underline">do</hi> hope so. Please answer.</p>
 
@@ -209,6 +185,7 @@ by that "traumatic pleurisy". I'm still good before a crowd, <hi rend="underline
 on Wed. and Thurs. of each week. It's a huge job. He says there will be around <del>fity</del><add>fifty</add> or sixty thousand cards in the index! After the cataloging I should go through the cards, adding annotations. So much will be lost if I don't do this. But my eyes are not much good &#8212; and getting worse. (This, <hi rend="underline">secretly</hi>, has more to do with my India misadventure than anything else)</p><closer><salute>&#8212; Love from</salute> <signed>John and Lassie</signed></closer>
 
 <fw type="curatorial">8</fw>
+
 
 </div1>
 

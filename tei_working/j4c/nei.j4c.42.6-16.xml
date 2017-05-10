@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.42.6-16_0001-11">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.42.6-16">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, January 25, 1964</title>
+<title type="main">Letter from John G. Neihardt to Lucile Aly, January 25, 1964</title>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4c.42.6-16_0001-11</idno>
+<idno>nei.j4c.42.6-16</idno>
 <availability>
 <p></p>
 </availability>
@@ -42,7 +42,7 @@
 <sourceDesc>
 <bibl>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
-<title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
+<title level="m" type="main">Letter from John G. Neihardt to Lucile Aly</title>
 <date when="1964-01-25">January 25, 1964</date>
 <extent>10 pages, plus envelope</extent>
 </bibl>
@@ -54,44 +54,10 @@
 <msContents>
 <p>10 hand-written pages, plus envelope</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>10 pages
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
-
 
 <profileDesc>
 <textClass>
@@ -108,24 +74,34 @@
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Sterling, George, 1869-1926</term>
+<term>Millay, Edna St. Vincent, 1892-1950</term>
+<term>Graf</term>
+<term>Nelson, Fred</term>
+<term>Harman, Neil K.</term>
+<term>Aly, Bower, 1903-1977</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
 <term></term>
+</keywords>
+<keywords scheme="lcsh" n="works">
+<term>A Bundle of Myrrh</term>
+<term>The Divine Enchantment</term>
+<term>Bancroft Blade</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Columbia (Mo.)</placeName>
+<date when="1964-01-25"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<placeName></placeName>
+<persName>Aly, Lucile Folse, 1913-</persName>
+<placeName>Eugene (Or.)</placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Aly, Lucile Folse, 1913-</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
@@ -199,7 +175,7 @@ I understood at the time that they were sold "to an institution". Brown Universi
 
 And, indeed, I would have done at least that, because I could have hurt him; and, I believe, I would have done so under the circumstances. He was not magnanimous. Really, Lucile, <hi rend="double underline">I</hi> <hi rend="underline">was</hi>, ten years later when I told him he was right and I was a damned fool.</p>
   
-<p>In dealing with Graf's<sic>Graff's</sic> political campaign, I had <hi rend="double underline">no</hi> thought whatever of "politics". <hi rend="underline">I was</hi> <hi rend="double underline">after</hi> <hi rend="underline">Graf<sic>Graff</sic></hi>, the <hi rend="underline">man</hi>, in the interest of my <del>f<unclear/></del><add>friend,</add> Fred Nelson, the <hi rend="underline">man</hi>,who wanted to be State Senator the same as Graf<sic>Graff</sic> did. It <hi rend="underline">was</hi> funny,
+<p>In dealing with Graf's political campaign, I had <hi rend="double underline">no</hi> thought whatever of "politics". <hi rend="underline">I was</hi> <hi rend="double underline">after</hi> <hi rend="underline">Graf</hi>, the <hi rend="underline">man</hi>, in the interest of my <del>f<unclear/></del><add>friend,</add> Fred Nelson, the <hi rend="underline">man</hi>, who wanted to be State Senator the same as Graf did. It <hi rend="underline">was</hi> funny,
 
 <pb facs="nei.j4c.42.6-16_0005"/>
 <fw type="curatorial">10</fw>
@@ -239,9 +215,9 @@ episode <hi rend="underline">is</hi> characteristic of country journalism, in th
 <hi rend="caps">COLUMBIA, MISSOURI</hi>
 </fw>
 
-<p>I've been writing fast (with bad eye-sight<sic>eyesight</sic> too) and almost missed the page in my enthusiasm.</p>
+<p>I've been writing fast (with bad eye-sight too) and almost missed the page in my enthusiasm.</p>
    
-<p>On the tape I explained the wrestling hold I used on my big boys in my country school. (This was the winter of 1898-99). This too is a good story, characteristic of conditions in the one-room country schools. Remember that my <add>former</add> school-mate<sic>schoolmate</sic>, a young lady, was put out of the school, &amp; locked out, the year before. She went home <del/> crying and never came back. I took the school for <unclear>$</unclear>30 per month, knowing well what I was <del/><add>up</add> against - big husky<del/> boys, who were really men &amp; only half civilized. I <hi rend="underline">knew</hi> and secretly 
+<p>On the tape I explained the wrestling hold I used on my big boys in my country school. (This was the winter of 1898-99). This too is a good story, characteristic of conditions in the one-room country schools. Remember that my <add>former</add> school-mate, a young lady, was put out of the school, &amp; locked out, the year before. She went home <del/> crying and never came back. I took the school for <unclear>$</unclear>30 per month, knowing well what I was <del/><add>up</add> against - big husky<del/> boys, who were really men &amp; only half civilized. I <hi rend="underline">knew</hi> and secretly 
 <hi rend="double underline">liked</hi> that breed. The Director of the school board was reluctant to hire me because, as 
 
 <note type="authorial">(over)</note>
@@ -269,7 +245,7 @@ he insisted, "what them boys needed was to be <hi rend="underline">trashed out</
 <fw type="authorial">-10-</fw>
 
 me at the time, I know. Perhaps a bit callow, but with stuff in them too. - <hi rend="underline">And</hi> those <hi rend="underline">primer pages</hi> with illustrations prepared for little children, that they might know and revere Mr. Graff!! Wow! If I had been he I'd have wanted to kick <del>my</del><add>Neihardt's</add> pants up <del/><add>on</add> the back of <del>my</del><add>his</add> neck!! 
-<hi rend="underline">But</hi> it <hi rend="underline">was</hi> funny. My cartoonist was Neil Harman, a budding artist <hi rend="underline">who</hi> clerked in his step-father's<sic>stepfather's</sic> hardware store. He had a lot of fun too, but 
+<hi rend="underline">But</hi> it <hi rend="underline">was</hi> funny. My cartoonist was Neil Harman, a budding artist <hi rend="underline">who</hi> clerked in his step-father's hardware store. He had a lot of fun too, but 
 <hi rend="underline">I</hi> caught all the hell! (Why do I remember names,<del/> names &amp; details as I do?)</p> 
 
 <p>Love to you, dear Lady, and to Bower - for that matter - to Perky also.</p>
