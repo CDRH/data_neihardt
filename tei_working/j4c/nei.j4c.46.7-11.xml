@@ -1,56 +1,234 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-Neihardt   
-Route 7<hi rend="caps">VIA AIR MAIL</hi>
-Columbia, Mo.  <hi rend="caps">CORREO AEREO</hi>
-   <hi rend="caps">PAR AVION</hi>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.46.7-11_0001-5">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Dr. Lucile ALy, June 7, 1965</title>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4c.46.7-11_0001-5</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
 
-Dr. Lucile Aly,
- 1138 22nd Ave., East,
-  Eugene, Oregon.
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
+<date when="1965-06-07">June 7, 1965</date>
+<extent>6 pages, plus envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>6 hand-written pages, plus envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>6 pages
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+</condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="type"><p>Media: type</p></handNote>
+<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
 
 
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Smith, Stanley C.</term>
+<term>Madaleva, Mary</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Bancroft (Neb.)</term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName>Columbia (Mo.)</placeName>
+<date when="1965-06-07"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Aly, Lucile Folse, 1913-</persName>
+<placeName>Eugene (Or.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Aly, Lucile Folse, 1913-</persName></person></particDesc>
+</profileDesc>
 
-<fw type="curatorial">230-4</fw>
+<revisionDesc>
+<change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
 
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4c.46.7-11_0001a" />
+
+<note type="curatorial">Aly Collection
+
+230-4</note>
+
+<opener>
+<dateline>
 Last Day at the Office. June 7, '65
+</dateline>
 
-<hi rend="underline">Dear</hi> Lucile: 
+<salute><hi rend="double underline">Dear</hi> Lucile:</salute> 
+</opener>
+<p>Yes, you <hi rend="underline">are</hi> a part of me, and not a "tiny" one. That was beautifully and truly said, and it means a very great deal to me.</p>
 
-Yes, you <hi rend="underline">are</hi> a part of me, and not a "tiny" one. That was beautifully and truly said, and it means a very great deal to me.
-My "live" class in <hi rend="underline">Epic America</hi> ("The Mountain Men") left a happy glow all through my "innards." They actually gave me a big ovation at the end
-of the last class
+<p>My "live" class in <hi rend="underline">Epic America</hi> ("The Mountain Men") left a happy glow all through my "innards." They actually gave me a big ovation at the end of the last class
 
--2-
+<pb facs="nei.j4c.46.7-11_0001b"/>
 
-period. Since then, many have come to me and thanked me for the course This is a surprise to me, because I have been worried over leaving so much out of the <hi rend="underline">one hour</hi>
-course. (It should be two-hours, and I've asked for the change when I return in February.)
-The doings in Bancroft are, apparently, flourishing. The <hi rend="underline">tree of life</hi> is planted; the brush has been cleared out around the little 
+<fw type="authorial">-2-</fw>
 
--3-
+period. Since then, many have come to me and <del>thank</del>thanked me for the course This is a surprise to me, because I have been worried over leaving so much out of the <hi rend="underline">one-hour</hi>
+course. (It should be two-hours, and I've asked for the change when I return in February.)</p>
 
-house, and much grading has been done by bulldozers, I'm told. The highway marker has not yet been placed, but should be soon. It is <hi rend="underline">ready to install</hi> 
-&#8212; has been for several months.
-The Laureate Tour will cover the state rather thoroughly, I'm told &#8212; both larger and smaller places. It is sponsored by the Governor, the Centennial Commission,
-and
+<p>The doings in Bancroft are, apparently, flourishing. The <hi rend="underline">tree of life</hi> is planted; <del/> the brush has been cleared out around the little 
 
--4-
+<fw type="curatorial">7</fw>
+
+<pb facs="nei.j4c.46.7-11_0002a"/>
+<fw type="authorial">-3-</fw>
+
+house, and much grading has been done by bulldozers, I'm told. The highway marker has not yet been placed, but should be soon. It is <hi rend="underline">ready to install</hi> &#8212; has been for several months.</p>
+
+<p>The Laureate Tour will cover the state rather thoroughly, I'm told &#8212; both larger and smaller places. It is sponsored by the Governor, the Centennial Commission, and
    
-the Hist. Society. Stanley Smith is in charge. He will conduct me on the tour, <hi rend="underline">transporting me, arranging everything</hi>. All I'm to do is my lecturing.
-Under such circumstances I'm sure I can do a lot of talking and reading.
-My "Memorial Library" is developing nicely. About 3/4 of the collection is processed and permanently placed. It will be a lovely place for a friend
+   <pb facs="nei.j4c.46.7-11_0002b"/>
+<fw type="authorial">-4-</fw>
+   
+the Hist. Society. Stanley Smith is in charge. He will conduct me on the tour, <hi rend="underline">transporting me, arranging everything</hi>. All I'm to do is my lecturing. Under such circumstances I'm sure I can do a lot of talking and reading.</p>
 
--5-
+<p>My "Memorial Library" is developing nicely. About 3/4 of the collection is processed and permanently placed. It will be a lovely place for a friend
 
-to go for a quiet visit with my ghost!! 
-You really ought to see our horses and <hi rend="underline">colts</hi> now. It has become a very distinguished group of fine animals. I have three new colts &#8212; two hackneys,
-one American Saddle filly. The latter is superb. There are <hi rend="underline">8</hi> Stonewall <hi rend="underline">King</hi> crosses in her pedigree; so you see she is very much
-<hi rend="underline">inbred</hi>. There was 
+<fw type="curatorial">8</fw>
+<pb facs="nei.j4c.46.7-11_0003"/>
+<fw type="curatorial">9</fw>
+<fw type="authorial">-5-</fw>
 
--6-
+to go for a quiet visit with my ghost!!</p> 
+
+<p>You really ought to see our horses and <hi rend="double underline">colts</hi> now. It<del><unclear>'s</unclear></del> has become a very distinguished group of fine animals. <hi rend="underline">I</hi> have three new colts &#8212; two <del/>hackneys,
+one American Saddle filly. The latter is superb. There are <hi rend="double underline">8</hi> Stonewall <hi rend="underline">King</hi> crosses in her pedigree; so you see she is very much <hi rend="underline">inbred</hi>. There was 
+
+<pb facs="nei.j4c.46.7-11_0004"/>
+<fw type="curatorial">10</fw>
+<fw type="authorial">-6-</fw>
 
 a chance that this might work out for good or bad. It is definitely for <hi rend="underline">good</hi>. I'll call the beautiful filly, <hi rend="underline">Mary Madaleva</hi>,
-after the great Catholic woman who was especially friendly to me, for some reason or other. (She died three years ago) It was this lady who told me that if I were a Catholic, they would keep me
-going steadily all over the country! More later. <hi rend="underline">Love</hi> to you, dear lady, and to Bower &amp; Stewart.
+after the great Catholic woman who was especially friendly to me, for some reason or other. (She died three years ago) It was this lady who told me that if I were a Catholic, they would keep me going <add>steadily</add> all over the country!</p>
 
-&#8212; <signed>John Neihardt</signed>
+ <p>More later.</p> <closer><salute><hi rend="underline">Love</hi> to you, dear lady, and to Bower &amp; Stewart.</salute>
+
+&#8212; <signed>John Neihardt</signed></closer>
+
+</div1>
+
+
+<div1 type="envelope">
+
+<pb facs="nei.j4c.46.7-11_0005"/>
+<fw type="curatorial">11</fw>
+
+<ab type="return">
+John Neihardt   
+Route 7
+Columbia, Mo.
+</ab>
+
+<ab type="postmark">COLUMBIA, MO JUN 7 <unclear/><hi rend="underline">PM</hi> 1965
+<hi rend="caps">VIA AIR MAIL</hi>
+<hi rend="caps">CORREO AEREO</hi>
+<hi rend="caps">PAR AVION</hi></ab>
+<figure>
+<figDesc>8 Cent Stamp</figDesc>
+<p>8¢ U.S. AIR MAIL</p>
+</figure>
+
+<ab type="address">
+<address>
+<addrLine>Dr. Lucile Aly,</addrLine>
+<addrLine>1138 22nd Ave., East,</addrLine>
+<addrLine>Eugene, Oregon</addrLine>
+</address>
+</ab>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

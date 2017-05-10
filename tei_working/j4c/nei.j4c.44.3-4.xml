@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.44.3-4_0001-2">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.44.3-4">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to Dr. Slade Kendrick</title>
+<title type="main">Letter from John G. Neihardt to Slade Kendrick</title>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4c.44.3-4_0001-2</idno>
+<idno>nei.j4c.44.3-4</idno>
 <availability>
 <p></p>
 </availability>
@@ -42,7 +42,7 @@
 <sourceDesc>
 <bibl>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
-<title level="m" type="main">Letter from John G. Neihardt to Dr. Slade Kendrick</title>
+<title level="m" type="main">Letter from John G. Neihardt to Slade Kendrick</title>
 <date when="1964-09-10">September 10, 1964</date>
 <extent>2 pages</extent>
 </bibl>
@@ -54,43 +54,10 @@
 <msContents>
 <p>2 hand-written pages</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>2 pages
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
 
 
 <profileDesc>
@@ -111,21 +78,25 @@
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>Louisville (Ky.)</term>
+<term>Lubbock (Texas)</term>
+</keywords>
+<keywords scheme="lcsh" n="works">
+<term>The Song of the Indian Wars</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Columbia (Mo.)</placeName>
+<date when="1964-09-10"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
+<persName>Kendrick, M. Slade (Myron Slade)</persName>
 <placeName></placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Kendrick, Slade</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Kendrick, M. Slade (Myron Slade)</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
@@ -158,14 +129,14 @@
 
 <salute>Dear Slade:</salute>
 </opener>
-<p>Have I lost you somehow somewhere? I get to thinking about you, and I feel lonely! Have you been vacationing a bit? I have not moved far from Columbia &#8212; only <del/>to several horse-shows<sic>horse shows</sic>. Also, the girls, and horses are starting tomorrow early morning for Louisville &#8212; the championship affair. If my pony, Right-As-Rain, does his best he may <del><unclear>well</unclear></del> well be world-champion, so the horsemen say. But more than merit is often needed in this world! I'm not going to Louisville &#8212; too much walking would be needed, I'm afraid.</p>
+<p>Have I lost you somehow somewhere? I get to thinking about you, and I feel lonely! Have you been vacationing a bit? I have not moved far from Columbia &#8212; only <del/>to several horse-shows. Also, the girls, and horses are starting tomorrow early morning for Louisville &#8212; the championship affair. If my pony, Right-As-Rain, does his best he may <del><unclear>well</unclear></del> well be world-champion, so the horsemen say. But more than merit is often needed in this world! I'm not going to Louisville &#8212; too much walking would be needed, I'm afraid.</p>
 
 <p>I just heard that the students of Lubbock (Tex.) Christian College will
 
 <pb facs="nei.j4c.44.3-4_0002"/>
 <fw type="curatorial">4</fw>
 
-<unclear/>fer <del/>a "stage presentation" of my <hi rend="underline">Song of the Indian Wars</hi> this winter. It will be quite an affair, I gather. Wish I could be in the audience incognito!!</p>
+<unclear>offer</unclear> <del/>a "stage presentation" of my <hi rend="underline">Song of the Indian Wars</hi> this winter. It will be quite an affair, I gather. Wish I could be in the audience incognito!!</p>
 
 <p>Just received a glorious letter from a University Prof who, 10 years ago, took my Epic America course. Since then he has taken the doctorate. He said what I've heard so often about that course. I suspect this year may be my last in a <hi rend="underline">live</hi> course because of my eyes. But the <hi rend="caps">TV</hi> programs will go on.</p>
 <closer>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.44.26_0001-2">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.44.26">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to Dr. Bower Aly, December 9, 1964</title>
+<title type="main">Letter from John G. Neihardt to Bower Aly, December 9, 1964</title>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4c.44.26_0001-2</idno>
+<idno>nei.j4c.44.26</idno>
 <availability>
 <p></p>
 </availability>
@@ -42,7 +42,7 @@
 <sourceDesc>
 <bibl>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
-<title level="m" type="main">Letter from John G. Neihardt to Dr. Bower Aly</title>
+<title level="m" type="main">Letter from John G. Neihardt to Bower Aly</title>
 <date when="1964-12-09">December 9, 1964</date>
 <extent>2 pages</extent>
 </bibl>
@@ -54,44 +54,10 @@
 <msContents>
 <p>2 hand-written pages</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>2 pages
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
-
 
 <profileDesc>
 <textClass>
@@ -108,24 +74,28 @@
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Aly, Lucile Folse, 1913-</term>
+<term>Kendrick, M. Slade (Myron Slade)</term>
+<term>Kendrick, Nita Collier</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>Ithaca (N.Y.)</term>
+<term>Eugene (Or.)</term>
+<term>Bancroft (Neb.)</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Columbia (Mo.)</placeName>
+<date when="1964-12-09"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
+<persName>Aly, Bower, 1903-1977</persName>
 <placeName></placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Aly, Bower</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Aly, Bower, 1903-1977</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
@@ -161,7 +131,7 @@
    
 <p>I'm wondering if you will be in Eugene or Lucile in Ithaca for Christmas. You must be lonely sometimes.</p>
 
-<p>Some nice things have been happening. My old home town<sic>hometown</sic>, Bancroft, Neb., which I left 43 years ago, has bought the cottage <del>and</del> where I used to write and is restoring and "beautifying"
+<p>Some nice things have been happening. My old home town, Bancroft, Neb., which I left 43 years ago, has bought the cottage <del>and</del> where I used to write and is restoring and "beautifying"
 
 <note type="authorial">(over(</note>
 

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.44.27-28_0001-3">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.44.27-28">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4c.44.27-28_0001-3</idno>
+<idno>nei.j4c.44.27-28</idno>
 <availability>
 <p></p>
 </availability>
@@ -54,44 +54,10 @@
 <msContents>
 <p>2 hand-written pages, plus envelope</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>2 pages
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
-
 
 <profileDesc>
 <textClass>
@@ -108,21 +74,27 @@
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Glass, Hugh, approximately 1780-approximately 1833</term>
+<term>Skillings, Hugh L.</term>
+<term>Chaffee, John E. W.</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>Bancroft (Neb.)</term>
+<term>South Dakota</term>
+</keywords>
+<keywords scheme="lcsh" n="works">
+<term>The Song of Hugh Glass</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Columbia (Mo.)</placeName>
+<date when="1964-12-17"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<placeName></placeName>
+<persName>Skillings, Edna</persName>
+<placeName>Albany (Or.)</placeName>
 </correspAction>
 </correspDesc>
 <particDesc><person role="recipient"><persName>Skillings, Edna</persName></person></particDesc>
@@ -146,7 +118,7 @@
 <fw type="letterhead">
 <hi rend="caps">JOHN G. NEIHARDT</hi>
 <lb/>
-<hi rend="caps">ROUTE 7∙SKYRIM FARM</hi>
+<hi rend="caps">ROUTE 7 SKYRIM FARM</hi>
 <lb/>
 <hi rend="caps">COLUMBIA, MISSOURI</hi>  
 </fw>
@@ -159,7 +131,7 @@
 </opener>
 <p>Many thanks for your affectionate thoughts of me. I did not get out West last summer, but you may be sure that I'll come to see you if and when I do go West again.</p>
 
-<p>Here is some news that may interest you. My old home town<sic>hometown</sic>, Bancroft, Nebraskas<sic>Nebraska</sic>, which I left <hi rend="underline">43 years</hi> ago, has  bought and is restoring the property where I used to write, making it a memorial. Also, the State and town have erected a highway marker near town, which states that I once lived and wrote there! Isn't this nice of them?
+<p>Here is some news that may interest you. My old home town, Bancroft, <choice><sic>Nebraskas</sic><corr>Nebraska</corr></choice>, which I left <hi rend="underline">43 years</hi> ago, has  bought and is restoring the property where I used to write, making it a memorial. Also, the State and town have erected a highway marker near town, which states that I once lived and wrote there! Isn't this nice of them?
 
 <note type="authorial">(over)</note>
 
