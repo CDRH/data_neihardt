@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.44.12-13">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Slade Kendrick, November 8, 1964</title>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4c.44.12-13</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<title level="m" type="main">Letter from John G. Neihardt to Slade Kendrick</title>
+<date when="1964-11-08">November 8, 1964</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>2 hand-written pages</p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Willcox, Walter Francis, 1861-1964</term>
+<term>Kendrick, Nita Collier</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName>Columbia (Mo.)</placeName>
+<date when="1964-11-08"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Kendrick, M. Slade (Myron Slade)</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Kendrick, M. Slade (Myron Slade)</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4c.44.12-13_0001" />
+
+<fw type="curatorial">12</fw>
+
+<fw type="letterhead">
+<hi rend="caps">JOHN G. NEIHARDT</hi>
+<lb/>
+<hi rend="caps">ROUTE 7 SKYRIM FARM</hi>
+<lb/>
+<hi rend="caps">COLUMBIA, MISSOURI</hi>  
+</fw>
+<opener>
+<dateline>Nov. 8, 64</dateline>
+
+
+<salute>Dear Friend:</salute>
+</opener>
+<p>Hurrah for Wilcox! I'm glad I knew him. What a life he had here! And, better still, what a life he has just begun!</p>
+
+<p>I'm excited about the trip you are planning! <hi rend="double underline">What</hi> a trip! And how 
+<hi rend="underline">right</hi> it is that you and Nita can <hi rend="underline">make</hi> it together! So often good things happen when there's no one to share.</p>
+
+<p>It's dear of you &#8212; and <hi rend="underline">quite</hi> like you &#8212; to care about preserving my voice on records. Sandy Gray has a number of tapes all ready for processing, and 
+   
+   <note type="authorial">(over)</note>
+
+<pb facs="nei.44.12-13_0002"/>
+<fw type="curatorial">13</fw>
+
+sooner or later these will be used to make discs.</p>
+
+<p>Yesterday there was a nice little ceremony in the Library here when the <hi rend="caps">TV</hi> station presented five of my half-hour videotapes and kinoscopes to the Western <hi rend="caps">MSS</hi> Collection &#8212; all to be a part of the Neihardt Memorial Collection <del><unclear>(Librar</unclear></del>(my Library, letters, <hi rend="caps">MSS</hi>, papers etc). My 
+<hi rend="underline">bronze bust</hi> will guard the entrance to this collection. Isn't this too good almost to believe?!</p>
+
+<p>You are going to have the <hi rend="double underline">time of your lives</hi> together, and I'm 
+<hi rend="underline">so</hi> happy about it</p>
+<closer>
+<salute>Affectionately</salute> <signed>John Neihardt</signed>
+</closer>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.43.19-20">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Bower Aly, June 26, 1964</title>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4c.43.19-20</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<title level="m" type="main">Letter from John G. Neihardt to Bower Aly</title>
+<date when="1964-06-26">June 26, 1964</date>
+<extent>2 pages, plus envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>2 hand-written pages, plus envelope</p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Kendrick, M. Slade (Myron Slade)</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName>Columbia (Mo.)</placeName>
+<date when="1964-06-26"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Aly, Bower, 1903-1977</persName>
+<placeName>Eugene (Or.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Aly, Bower, 1903-1977</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4c.43.19-20_0001" />
+
+<fw type="curatorial">19</fw>
+<note type="curatorial">Aly Collection
+
+
+210-2</note>
+
+<fw type="letterhead">
+<hi rend="caps">JOHN G. NEIHARDT</hi>
+<lb/>
+<hi rend="caps">ROUTE 7 SKYRIM FARM</hi>
+<lb/>
+<hi rend="caps">COLUMBIA, MISSOURI</hi>  
+</fw>
+<opener>
+<dateline>June 26, '64</dateline>
+
+
+<salute>Dear Bower:</salute>
+</opener>
+
+<p>I'm afraid I can't be with you in late August. I need to be back here for some important horse shows, as this should be a big year for my champion, Right-As-Rain. I was unable to attend any show last summer. It has seemed best that I should be with you in late July and <hi rend="underline">early</hi> August. I haven't been free to make definite plans yet. But I do greatly appreciate your thought of me, and surely the Ashland experience of two years ago was worth repeating, to put the matter <unclear>mildly</unclear>!</p>
+
+<p>I've heard about Cornell 
+
+<pb facs="nei.j4c.43.19-20_0002a"/>
+<fw type="curatorial">20</fw>
+
+through my friend, Dr. Kendrick, who has recently returned from Cornell.</p> 
+
+<p>Congratulations!</p>
+<closer>
+<salute>Affectionately &#8212;</salute>
+<signed>John N.</signed>
+</closer>
+
+</div1>
+
+
+<div1 type="envelope">
+
+<pb facs="nei.j4c.43.19-20_0002b"/>
+
+<ab type="return">
+<hi rend="caps">JOHN G. NEIHARDT</hi>  
+<lb/>
+<hi rend="caps">SKYRIM FARM</hi>
+<lb/>
+<hi rend="caps">COLUMBIA, MISSOURI</hi>
+</ab>
+
+<ab type="postmark"><unclear cert="high">CO</unclear>LUMBIA, MO. JUN 2<unclear/> PM <unclear cert="high">19</unclear>64</ab>
+<note type="authorial">____
+   <hi rend="underline">Air</hi></note>
+
+<ab type="address">
+<address>
+<addrLine>Dr. Bower Aly,</addrLine>
+<addrLine>1138 22nd Ave., East</addrLine>
+<addrLine>Eugene,</addrLine>
+<addrLine>Oregon.</addrLine>
+</address>
+</ab>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

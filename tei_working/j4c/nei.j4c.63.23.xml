@@ -1,180 +1,191 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.63.23">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title type="main">Letter from John G. Neihardt to Gregory George, June 5, 1972</title>
-                <author>Neihardt, John Gneisenau, 1881-1973</author>
-                <principal>Gossin, Pamela</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date>2013</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <authority>The Papers of John G. Neihardt</authority>
-                <publisher>University of Nebraska-Lincoln</publisher>
-                <distributor>
-                    <name>Center for Digital Research in the Humanities</name>
-                    <address>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Gregory George, June 5, 1972</title>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
 <addrLine>319 Love Library</addrLine>
 <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 <addrLine>cdrh@unlnotes.unl.edu</addrLine>
 </address>
-                </distributor>
-                <pubPlace>Lincoln, Nebraska</pubPlace> 
-                <address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-                <idno>nei.j4c.63.23</idno>
-                <availability>
-                    <p></p>
-                </availability>
-            </publicationStmt>
-            
-            <notesStmt><note></note></notesStmt>
-            
-            <sourceDesc>
-                <bibl>
-                    <author>Neihardt, John Gneisenau, 1881-1973</author>
-                    <title level="m" type="main">Letter from John G. Neihardt to Gregory George</title>
-                    <date when="1972-06-05">June 5, 1972</date>
-                    <extent>1 page</extent>
-                </bibl>
-                <msDesc>
-                    <msIdentifier>
-                        <repository></repository>
-                        <idno></idno>
-                    </msIdentifier>
-                    <msContents>
-                        <p>1 type-written page</p>
-                    </msContents>
-                    <physDesc>
-                        <objectDesc>
-                            <supportDesc>
-                                <support></support>
-                                <extent>1 page
-                                    <dimensions unit="mm"><height></height><width></width></dimensions>
-                                </extent>
-                                <condition>
-                                    <p></p></condition>
-                            </supportDesc>
-                        </objectDesc>
-                        <handDesc hands="1">
-                            <handNote xml:id="type"><p>Media: type</p></handNote>
-                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-                        </handDesc>
-                        <typeDesc>
-                            <typeNote><p></p></typeNote>
-                        </typeDesc>
-                    </physDesc>
-                    <history><origin></origin>
-                        <provenance></provenance>
-                        <acquisition></acquisition>
-                    </history>
-                </msDesc>
-                
-            </sourceDesc>
-        </fileDesc>
-        
-        <encodingDesc>
-            <editorialDecl>
-                <correction>
-                    <p></p>
-                </correction>
-                <normalization>
-                    <p></p>
-                </normalization>
-            </editorialDecl>
-        </encodingDesc>
-        
-        <profileDesc>
-            <textClass>
-                <keywords scheme="original" n="category">
-                    <term>Correspondence</term>
-                </keywords>
-                <keywords scheme="original" n="subcategory">
-                    <term>Business</term>
-                </keywords>
-                <keywords scheme="original" n="topic">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="keywords">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="people">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="places">
-                    <term></term>
-                </keywords>
-            </textClass>
-            <particDesc><person role="recipient"><persName>George, Gregory</persName></person></particDesc>
-        </profileDesc>
-        
-        <revisionDesc>
-            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
-            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
-            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
-            
-        </revisionDesc>
-    </teiHeader>
-    
-    <text>
-        <body>
-            
-            <div1 type="letter">
-                
-                <pb facs="nei.j4c.63.23" />
-                
-                <fw type="curatorial">23</fw>
-                
-                <opener>
-                    <dateline>
-                        5835 Vine Street
-                        Lincoln, Nebraska 68505
-                        June 5, 1972
-                    </dateline>
-                    
-                    <address>
-                        <addrLine>Mr. Gregory George</addrLine>
-                        <addrLine>1907 Garling Drive</addrLine>
-                        <addrLine>Bloomington, Illinois 61701</addrLine>
-                    </address>
-                    
-                    <salute>Dear Friend Greg:</salute>
-                </opener>
-                <p>It was certainly a joy to hear from you, for I remember well my visit to Hawthorne. I believe that even my little dog Jacquot accompanied me on that visit and my memory of the whole affair is a happy one.</p>
-                
-                <p>It is especially interesting that you are attending school in Bloomington. My first "poem" so called was published in the <hi rend="underline">BLoomington Eye</hi> when I was about 14 years old. Don't look it up. It is terrible but I did feel that you would be interested.</p>
-                
-                <p>I am enclosing a card beaering my autograph.</p>
-                
-                <p>Incidentally, it occurs to me that you might sometime be in Taylorville. I was born near there in 1881 and there is now a Christian County Historical Society there which features a collection of my work. The lady in charge is Miss Dorothy Drennen. I think a meeting between you two would be notable.</p>
-                
-                <p>Did you see the Neihardt-Cavett television show last year? You may want to know that it will be repeated on the <hi rend="caps">ABC</hi> network on June 12.</p>
-                
-                <p>My autobiography, <hi rend="caps">ALL IS BUT A BEGINNING</hi>, is being published by Harcourt Brace Jovanovich of New York on September 20. No doubt it will be in your library.</p>
-                <closer>
-                    <salute>With affectionate thoughts, your <hi rend="underline">old</hi> friend</salute>
-                
-                    <signed>John G. Neihardt</signed>
-                    
-                    <note>JGN:nh</note>
-                </closer>
-                
-                <postscript>
-                    <opener><hi rend="caps">P.S.</hi></opener> <p>I suggest that you look me up in <hi rend="caps">WHO'S WHO IN AMERICA</hi> and <hi rend="caps">INTERNATIONAL WHO'S WHO</hi>. You will find these in your library.</p> <closer>&#8212; <signed>J.G.N.</signed></closer>
-                </postscript>
-                
-            </div1>
-        </body>
-        
-        <back></back>
-    </text>
+<idno>nei.j4c.63.23</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<title level="m" type="main">Letter from John G. Neihardt to Gregory George</title>
+<date when="1972-06-05">June 5, 1972</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>1 type-written page</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>1 page
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+</condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="type"><p>Media: type</p></handNote>
+<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+
+
+
+
+
+
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+<date when="1900"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName></persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>George, Gregory</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4c.63.23" />
+
+<fw type="curatorial">23</fw>
+
+<opener>
+<dateline>
+5835 Vine Street
+Lincoln, Nebraska 68505
+June 5, 1972
+</dateline>
+
+<address>
+<addrLine>Mr. Gregory George</addrLine>
+<addrLine>1907 Garling Drive</addrLine>
+<addrLine>Bloomington, Illinois 61701</addrLine>
+</address>
+
+<salute>Dear Friend Greg:</salute>
+</opener>
+<p>It was certainly a joy to hear from you, for I remember well my visit to Hawthorne. I believe that even my little dog Jacquot accompanied me on that visit and my memory of the whole affair is a happy one.</p>
+
+<p>It is especially interesting that you are attending school in Bloomington. My first "poem" so called was published in the <hi rend="underline">BLoomington Eye</hi> when I was about 14 years old. Don't look it up. It is terrible but I did feel that you would be interested.</p>
+
+<p>I am enclosing a card beaering my autograph.</p>
+
+<p>Incidentally, it occurs to me that you might sometime be in Taylorville. I was born near there in 1881 and there is now a Christian County Historical Society there which features a collection of my work. The lady in charge is Miss Dorothy Drennen. I think a meeting between you two would be notable.</p>
+
+<p>Did you see the Neihardt-Cavett television show last year? You may want to know that it will be repeated on the <hi rend="caps">ABC</hi> network on June 12.</p>
+
+<p>My autobiography, <hi rend="caps">ALL IS BUT A BEGINNING</hi>, is being published by Harcourt Brace Jovanovich of New York on September 20. No doubt it will be in your library.</p>
+<closer>
+<salute>With affectionate thoughts, your <hi rend="underline">old</hi> friend</salute>
+
+<signed>John G. Neihardt</signed>
+
+<note>JGN:nh</note>
+</closer>
+
+<postscript>
+<opener><hi rend="caps">P.S.</hi></opener> <p>I suggest that you look me up in <hi rend="caps">WHO'S WHO IN AMERICA</hi> and <hi rend="caps">INTERNATIONAL WHO'S WHO</hi>. You will find these in your library.</p> <closer>&#8212; <signed>J.G.N.</signed></closer>
+</postscript>
+
+</div1>
+</body>
+
+<back></back>
+</text>
 </TEI>

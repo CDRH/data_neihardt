@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.48.22-23_0001-2">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Dr. Slade Kendrick, April 28, 1966</title>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4c.48.22-23_0001-2</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<title level="m" type="main">Letter from John G. Neihardt to Dr. Slade Kendrick</title>
+<date when="1966-04-28">April 28, 1966</date>
+<extent>3 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>3 hand-written pages</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>3 pages
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+</condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="type"><p>Media: type</p></handNote>
+<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+
+
+
+
+
+
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+<date when="1900"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName></persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Kendrick, Slade</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4c.48.22-23_0001a" />
+
+<opener>
+
+<note>Skyrim Farm
+4-28-'66</note>
+
+<dateline>April 28, 6'6</dateline>
+
+
+<salute>Dear Slade:</salute>
+</opener>
+<p>I have been reading <hi rend="underline">"I Fought with Geronimo"</hi> ever since it arrived, and I have greatly enjoyed it. Also, I prize the inscriptions on the flyleaf. What a man that was!! <hi rend="underline">Is</hi> he still living? I was especially glad to have this Apache's estimate
+
+<pb facs="nei.j4c.48.22-23_0001b"/>
+<fw type="authorial">-2-</fw>
+<fw type="curatorial"><del/></fw>
+
+of General Crook, who is a big figure in the history of my Plains Indians.</p>
+
+<p><hi rend="underline">Many thanks</hi>!!</p>
+
+<p>I'm about to begin (May 4th) a rather strenuous period of lecturing, ending July 8th. I do hope my eyes will carry me through. I think they will, with the aid of my illuminated reading glass.</p>
+
+<fw type="curatorial">22</fw>
+<pb facs="nei.j4c.48.22-23_0002"/>
+<fw type="authorial">-3-</fw>
+
+<closer>
+<salute>With the old affection &#8212;</salute>
+<signed>John N</signed>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

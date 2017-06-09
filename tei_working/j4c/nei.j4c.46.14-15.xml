@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.46.14-15">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Slade Kendrick, August 3, 1965</title>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4c.46.14-15</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<title level="m" type="main">Letter from John G. Neihardt to Slade Kendrick</title>
+<date when="1965-08-03">August 3, 1965</date>
+<extent>4 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>4 hand-written pages</p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="works">
+<term>A Cycle of the West</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Petri, Hilda Neihardt</term>
+<term>Neihardt, Alice</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Bancroft (Neb.)</term>
+<term>Nebraska</term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName>Columbia (Mo.)</placeName>
+<date when="1965-08-03"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Kendrick, M. Slade (Myron Slade)</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Kendrick, M. Slade (Myron Slade)</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4c.46.14-15_0001a" />
+
+<opener>
+<dateline>Skyrim, Aug. 3, '65</dateline>
+
+
+<salute>Dear Slade:</salute>
+</opener>
+<p>I am delighted with your articles on my <hi rend="underline">Cycle</hi>! It is a very effective way of presenting the work &#8212; far better than mere comment however
+enthusiastic. You could go on to other and yet other articles too. Many, many thanks, my dear friend!</p>
+
+<p>I'm really interested in your trip around the Mediterranean! It must have been 
+
+<pb facs="nei.j4c.46.14-15_0001b"/>
+<fw type="authorial">-2-</fw>
+<fw type="curatorial">21</fw>
+
+thrilling, and I wish I could have been with you to talk over the long, long past!</p>
+
+<p>I've just returned from the highway marker dedication at Bancroft. It was a super-wow! The state officials who were there said we had the largest crowd ever assembled for
+a highway dedication <del>in</del><add>in</add> Nebraska! The <del>highwa</del>highway was blocked for nearly 1/4 of a mile!</p>
+
+<fw type="curatorial">14</fw>
+<pb facs="nei.j4c.46.14-15_0002a"/>
+<fw type="authorial">-3-</fw>
+
+<p>After the doings on the highway (I spoke from a truck) the crowd went to the city park <del><unclear>&amp;</unclear></del><add>and</add> we had a big get-together!</p>
+
+<p>I was amazed at the progress made on the study restoration project and the Prayer Garden. Beautiful!!</p>
+
+<p>This is done in a hurry. I'm just back &#8212; and a bit tired. <del/>Hilda, Alice
+
+<pb facs="nei.j4c.46.14-15_0002b"/>
+<fw type="authorial">-4-</fw>  <fw type="curatorial"><unclear/></fw>
+  
+and the girls went along. We drove in <del>tw</del> two cars.</p>
+  <closer>
+<salute>With affection to both of you &#8212;</salute>
+
+  <signed>John N.</signed>
+  </closer>
+
+<fw type="curatorial">15</fw>
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

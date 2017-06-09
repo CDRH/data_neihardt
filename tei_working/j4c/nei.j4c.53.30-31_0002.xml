@@ -1,176 +1,187 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.53.30-31_0002">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title type="main">Letter from John G. Neihardt to Dr. Slade Kendrick, November 28, 1967</title>
-                <author>Neihardt, John Gneisenau, 1881-1973</author>
-                <principal>Gossin, Pamela</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date>2013</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <authority>The Papers of John G. Neihardt</authority>
-                <publisher>University of Nebraska-Lincoln</publisher>
-                <distributor>
-                    <name>Center for Digital Research in the Humanities</name>
-                    <address>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Dr. Slade Kendrick, November 28, 1967</title>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
 <addrLine>319 Love Library</addrLine>
 <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 <addrLine>cdrh@unlnotes.unl.edu</addrLine>
 </address>
-                </distributor>
-                <pubPlace>Lincoln, Nebraska</pubPlace> 
-                <address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-                <idno>nei.j4c.53.30-31_0002</idno>
-                <availability>
-                    <p></p>
-                </availability>
-            </publicationStmt>
-            
-            <notesStmt><note></note></notesStmt>
-            
-            <sourceDesc>
-                <bibl>
-                    <author>Neihardt, John Gneisenau, 1881-1973</author>
-                    <title level="m" type="main">Letter from John G. Neihardt to Dr. Slade Kendrick</title>
-                    <date when="1967-11-28">November 28, 1967</date>
-                    <extent>1 page</extent>
-                </bibl>
-                <msDesc>
-                    <msIdentifier>
-                        <repository></repository>
-                        <idno></idno>
-                    </msIdentifier>
-                    <msContents>
-                        <p>1 type-written page</p>
-                    </msContents>
-                    <physDesc>
-                        <objectDesc>
-                            <supportDesc>
-                                <support></support>
-                                <extent>1 page
-                                    <dimensions unit="mm"><height></height><width></width></dimensions>
-                                </extent>
-                                <condition>
-                                    <p></p></condition>
-                            </supportDesc>
-                        </objectDesc>
-                        <handDesc hands="1">
-                            <handNote xml:id="type"><p>Media: type</p></handNote>
-                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-                        </handDesc>
-                        <typeDesc>
-                            <typeNote><p></p></typeNote>
-                        </typeDesc>
-                    </physDesc>
-                    <history><origin></origin>
-                        <provenance></provenance>
-                        <acquisition></acquisition>
-                    </history>
-                </msDesc>
-                
-            </sourceDesc>
-        </fileDesc>
-        
-        <encodingDesc>
-            <editorialDecl>
-                <correction>
-                    <p></p>
-                </correction>
-                <normalization>
-                    <p></p>
-                </normalization>
-            </editorialDecl>
-        </encodingDesc>
-        
-        <profileDesc>
-            <textClass>
-                <keywords scheme="original" n="category">
-                    <term>Correspondence</term>
-                </keywords>
-                <keywords scheme="original" n="subcategory">
-                    <term>Business</term>
-                </keywords>
-                <keywords scheme="original" n="topic">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="keywords">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="people">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="places">
-                    <term></term>
-                </keywords>
-            </textClass>
-            <particDesc><person role="recipient"><persName>Kendrick, M. Slade</persName></person></particDesc>
-        </profileDesc>
-        
-        <revisionDesc>
-            <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
-            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
-            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
-            
-        </revisionDesc>
-    </teiHeader>
-    
-    <text>
-        <body>
-            
-            <div1 type="letter">
-                
-                <pb facs="nei.j4c.53.30-31_0002" />
-        
-                
-                <fw type="curatorial">31</fw> 
-                
-                <opener>
-                    <dateline>
-                        Skyrim Farm
-                        Rt. #7
-                        Columbia, Mo. 65201                
-                        November 28th
-                        1 9 6 7
-                    </dateline>
-                    
-                    <salute>Dear Slade:</salute>
-                </opener>
-                <p>Another bully letter from you, not to mention the interesting enclosures.</p>
-                
-                <p> First, I do appreciate the very generous letter of Ed Christie in which he makes most encouraging comments on this poor old man. Next, the article on the returning buffalo pleases me. I knew they were returning, and I had been assured that if they could be turned loose on the high planes<sic>plains</sic> they would take over everything in a few generations, bless their shaggy skins, and their sturdy hearts. I hope there is a place in the next world where they can wander and multiply, and where the white man's curse does not come.</p>
-                
-                <p>I think I told you that I will be giving a program at the Kearney State College on December 10th. I am leaving for Lincoln in a week, and will stay around there eight or ten days.</p>
-                
-                <p> Did I tell you about the ghost dog of Spearfish Canyon? Enid, who is taking my dictation for me, has just said that I did tell you in the hospital. I think I did not tell you that we plan to return next May and see what my doggie does when he sees me.</p>
-                
-                <p>My eyes do fairly well when I use the illuminated reading glass, which I do in my public affairs as well as at home.</p>
-                <closer>
-                    <salute>With affection always,</salute>
-                
-                    <signed>John</signed>
-                    <signed>John G. Neihardt</signed>
-                
-                    <note><hi rend="caps">JGN<del>L</del>ENF</hi></note>
-                </closer>
-                
-                <postscript>
-                    <opener><hi rend="caps">P. S.</hi></opener> <p>The reference to <hi rend="caps">THE SONG OF THE MESSIAH</hi> is interesting!</p>
-                </postscript>
-                
-            </div1>
-        </body>
-        
-        <back></back>
-    </text>
+<idno>nei.j4c.53.30-31_0002</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<title level="m" type="main">Letter from John G. Neihardt to Dr. Slade Kendrick</title>
+<date when="1967-11-28">November 28, 1967</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>1 type-written page</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>1 page
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+</condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="type"><p>Media: type</p></handNote>
+<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+
+
+
+
+
+
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+<date when="1900"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName></persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Kendrick, M. Slade</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4c.53.30-31_0002" />
+
+
+<fw type="curatorial">31</fw> 
+
+<opener>
+<dateline>
+Skyrim Farm
+Rt. #7
+Columbia, Mo. 65201
+November 28th
+1 9 6 7
+</dateline>
+
+<salute>Dear Slade:</salute>
+</opener>
+<p>Another bully letter from you, not to mention the interesting enclosures.</p>
+
+<p> First, I do appreciate the very generous letter of Ed Christie in which he makes most encouraging comments on this poor old man. Next, the article on the returning buffalo pleases me. I knew they were returning, and I had been assured that if they could be turned loose on the high planes<sic>plains</sic> they would take over everything in a few generations, bless their shaggy skins, and their sturdy hearts. I hope there is a place in the next world where they can wander and multiply, and where the white man's curse does not come.</p>
+
+<p>I think I told you that I will be giving a program at the Kearney State College on December 10th. I am leaving for Lincoln in a week, and will stay around there eight or ten days.</p>
+
+<p> Did I tell you about the ghost dog of Spearfish Canyon? Enid, who is taking my dictation for me, has just said that I did tell you in the hospital. I think I did not tell you that we plan to return next May and see what my doggie does when he sees me.</p>
+
+<p>My eyes do fairly well when I use the illuminated reading glass, which I do in my public affairs as well as at home.</p>
+<closer>
+<salute>With affection always,</salute>
+
+<signed>John</signed>
+<signed>John G. Neihardt</signed>
+
+<note><hi rend="caps">JGN<del>L</del>ENF</hi></note>
+</closer>
+
+<postscript>
+<opener><hi rend="caps">P. S.</hi></opener> <p>The reference to <hi rend="caps">THE SONG OF THE MESSIAH</hi> is interesting!</p>
+</postscript>
+
+</div1>
+</body>
+
+<back></back>
+</text>
 </TEI>

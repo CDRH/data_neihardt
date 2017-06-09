@@ -1,176 +1,187 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.65.15">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title type="main">Letter from John G. Neihardt to Gunard Solberg, February 16, 1973</title>
-                <author>Neihardt, John Gneisenau, 1881-1973</author>
-                <principal>Gossin, Pamela</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date>2013</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <authority>The Papers of John G. Neihardt</authority>
-                <publisher>University of Nebraska-Lincoln</publisher>
-                <distributor>
-                    <name>Center for Digital Research in the Humanities</name>
-                    <address>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Gunard Solberg, February 16, 1973</title>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
 <addrLine>319 Love Library</addrLine>
 <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 <addrLine>cdrh@unlnotes.unl.edu</addrLine>
 </address>
-                </distributor>
-                <pubPlace>Lincoln, Nebraska</pubPlace> 
-                <address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-                <idno>nei.j4c.65.15</idno>
-                <availability>
-                    <p></p>
-                </availability>
-            </publicationStmt>
-            
-            <notesStmt><note></note></notesStmt>
-            
-            <sourceDesc>
-                <bibl>
-                    <author>Neihardt, John Gneisenau, 1881-1973</author>
-                    <title level="m" type="main">Letter from John G. Neihardt to Gunard Solberg</title>
-                    <date when="1973-02-16">February 16, 1973</date>
-                    <extent>1 page</extent>
-                </bibl>
-                <msDesc>
-                    <msIdentifier>
-                        <repository></repository>
-                        <idno></idno>
-                    </msIdentifier>
-                    <msContents>
-                        <p>1 type-written page</p>
-                    </msContents>
-                    <physDesc>
-                        <objectDesc>
-                            <supportDesc>
-                                <support></support>
-                                <extent>1 page
-                                    <dimensions unit="mm"><height></height><width></width></dimensions>
-                                </extent>
-                                <condition>
-                                    <p></p></condition>
-                            </supportDesc>
-                        </objectDesc>
-                        <handDesc hands="1">
-                            <handNote xml:id="type"><p>Media: type</p></handNote>
-                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-                        </handDesc>
-                        <typeDesc>
-                            <typeNote><p></p></typeNote>
-                        </typeDesc>
-                    </physDesc>
-                    <history><origin></origin>
-                        <provenance></provenance>
-                        <acquisition></acquisition>
-                    </history>
-                </msDesc>
-                
-            </sourceDesc>
-        </fileDesc>
-        
-        <encodingDesc>
-            <editorialDecl>
-                <correction>
-                    <p></p>
-                </correction>
-                <normalization>
-                    <p></p>
-                </normalization>
-            </editorialDecl>
-        </encodingDesc>
-        
-        <profileDesc>
-            <textClass>
-                <keywords scheme="original" n="category">
-                    <term>Correspondence</term>
-                </keywords>
-                <keywords scheme="original" n="subcategory">
-                    <term>Business</term>
-                </keywords>
-                <keywords scheme="original" n="topic">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="keywords">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="people">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="places">
-                    <term></term>
-                </keywords>
-            </textClass>
-            <particDesc><person role="recipient"><persName>Solberg, Gunard</persName></person></particDesc>
-        </profileDesc>
-        
-        <revisionDesc>
-            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
-            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
-            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
-            
-        </revisionDesc>
-    </teiHeader>
-    
-    <text>
-        <body>
-            
-            <div1 type="letter">
-                
-                <pb facs="nei.j4c.65.15" />
-                
-                <fw type="curatorial">15</fw>
-                
-                <opener>
-                    <dateline>
-                        5835 Vine Street
-                        Lincoln, Nebraska 6<del>5</del><add>8</add>505
-                        February 16, 1973
-                    </dateline>
-                    
-                    <address>
-                        <addrLine>Mr. Gunard Solberg</addrLine>
-                        <addrLine>118 Third Avenue</addrLine>
-                        <addrLine>San Francisco, California 949118</addrLine>
-                    </address>
-                    
-                    <salute>Dear Mr. Solberg:</salute>
-                </opener>
-                <p>I am interested in your letter of February 9, concerning Jack Wilson (Wovoka) and his relation to the ghost shirt. I am interested to know that Black Elk spoke about his ghost shirt vision in an affair at Deadwood. I had not heard about it.</p>
-                
-                <p>I suggest that you read my <hi rend="caps">SONG OF THE MESSIAH</hi> beginning on page 48 (The Dance) and reading on through about the vision of Black Elk and the ghost shirt. I have a suspicion that what is known to be true about the ghost shirt has come largely from my <hi rend="caps">BLACK ELK SPEAKS</hi>. He and I did, of course, have intimate conversations after the book was written, and you will find the results of such conversations in the text of <hi rend="caps">THE SONG OF THE MESSIAH</hi>. This is not good "documentation" for a dissertation but I am quite sure that a great deal of it is approximately true.</p>
-                
-                <p>I wish I could help you. My interest, however, is almost wholly in the spiritual significance of the whole affair. I don't care much about what scholars have to say. This is not scorn, for I realize the value of scholars, but for me the whole affair was a spiritual experience and still is.</p>
-                
-                <p>You will find my <hi rend="caps">SONG OF THE MESSIAH</hi> in the volume called <hi rend="caps">THE TWILIGHT OF THE SIOUX</hi> or the complete one volume <hi rend="caps">CYCLE OF THE WEST</hi>.</p>   
-                
-                <p>Do feel my kindly interest in what you are doing and write me again if you think I can help.</p>
-                <closer>
-                    <salute>Kindest thoughts,</salute>
-                    
-                    
-                    <signed>John G. Neihardt</signed>
-                    
-                    <note>JGN:nh</note>
-                </closer>
-                
-            </div1>
-        </body>
-        
-        <back></back>
-    </text>
+<idno>nei.j4c.65.15</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<title level="m" type="main">Letter from John G. Neihardt to Gunard Solberg</title>
+<date when="1973-02-16">February 16, 1973</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>1 type-written page</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>1 page
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+</condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="type"><p>Media: type</p></handNote>
+<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+
+
+
+
+
+
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+<date when="1900"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName></persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Solberg, Gunard</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4c.65.15" />
+
+<fw type="curatorial">15</fw>
+
+<opener>
+<dateline>
+5835 Vine Street
+Lincoln, Nebraska 6<del>5</del><add>8</add>505
+February 16, 1973
+</dateline>
+
+<address>
+<addrLine>Mr. Gunard Solberg</addrLine>
+<addrLine>118 Third Avenue</addrLine>
+<addrLine>San Francisco, California 949118</addrLine>
+</address>
+
+<salute>Dear Mr. Solberg:</salute>
+</opener>
+<p>I am interested in your letter of February 9, concerning Jack Wilson (Wovoka) and his relation to the ghost shirt. I am interested to know that Black Elk spoke about his ghost shirt vision in an affair at Deadwood. I had not heard about it.</p>
+
+<p>I suggest that you read my <hi rend="caps">SONG OF THE MESSIAH</hi> beginning on page 48 (The Dance) and reading on through about the vision of Black Elk and the ghost shirt. I have a suspicion that what is known to be true about the ghost shirt has come largely from my <hi rend="caps">BLACK ELK SPEAKS</hi>. He and I did, of course, have intimate conversations after the book was written, and you will find the results of such conversations in the text of <hi rend="caps">THE SONG OF THE MESSIAH</hi>. This is not good "documentation" for a dissertation but I am quite sure that a great deal of it is approximately true.</p>
+
+<p>I wish I could help you. My interest, however, is almost wholly in the spiritual significance of the whole affair. I don't care much about what scholars have to say. This is not scorn, for I realize the value of scholars, but for me the whole affair was a spiritual experience and still is.</p>
+
+<p>You will find my <hi rend="caps">SONG OF THE MESSIAH</hi> in the volume called <hi rend="caps">THE TWILIGHT OF THE SIOUX</hi> or the complete one volume <hi rend="caps">CYCLE OF THE WEST</hi>.</p>   
+
+<p>Do feel my kindly interest in what you are doing and write me again if you think I can help.</p>
+<closer>
+<salute>Kindest thoughts,</salute>
+
+
+<signed>John G. Neihardt</signed>
+
+<note>JGN:nh</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
 </TEI>
 

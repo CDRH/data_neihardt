@@ -1,175 +1,186 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.65.45">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title type="main">Letter from John G. Neihardt to Dr. Jack Marken, August 29, 1973</title>
-                <author>Neihardt, John Gneisenau, 1881-1973</author>
-                <principal>Gossin, Pamela</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date>2013</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <authority>The Papers of John G. Neihardt</authority>
-                <publisher>University of Nebraska-Lincoln</publisher>
-                <distributor>
-                    <name>Center for Digital Research in the Humanities</name>
-                    <address>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Dr. Jack Marken, August 29, 1973</title>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
 <addrLine>319 Love Library</addrLine>
 <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 <addrLine>cdrh@unlnotes.unl.edu</addrLine>
 </address>
-                </distributor>
-                <pubPlace>Lincoln, Nebraska</pubPlace> 
-                <address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-                <idno>nei.j4c.65.45</idno>
-                <availability>
-                    <p></p>
-                </availability>
-            </publicationStmt>
-            
-            <notesStmt><note></note></notesStmt>
-            
-            <sourceDesc>
-                <bibl>
-                    <author>Neihardt, John Gneisenau, 1881-1973</author>
-                    <title level="m" type="main">Letter from John G. Neihardt to Dr. Jack Marken</title>
-                    <date when="1973-08-29">August 29, 1973</date>
-                    <extent>1 page</extent>
-                </bibl>
-                <msDesc>
-                    <msIdentifier>
-                        <repository></repository>
-                        <idno></idno>
-                    </msIdentifier>
-                    <msContents>
-                        <p>1 type-written page</p>
-                    </msContents>
-                    <physDesc>
-                        <objectDesc>
-                            <supportDesc>
-                                <support></support>
-                                <extent>1 page
-                                    <dimensions unit="mm"><height></height><width></width></dimensions>
-                                </extent>
-                                <condition>
-                                    <p></p></condition>
-                            </supportDesc>
-                        </objectDesc>
-                        <handDesc hands="1">
-                            <handNote xml:id="type"><p>Media: type</p></handNote>
-                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-                        </handDesc>
-                        <typeDesc>
-                            <typeNote><p></p></typeNote>
-                        </typeDesc>
-                    </physDesc>
-                    <history><origin></origin>
-                        <provenance></provenance>
-                        <acquisition></acquisition>
-                    </history>
-                </msDesc>
-                
-            </sourceDesc>
-        </fileDesc>
-        
-        <encodingDesc>
-            <editorialDecl>
-                <correction>
-                    <p></p>
-                </correction>
-                <normalization>
-                    <p></p>
-                </normalization>
-            </editorialDecl>
-        </encodingDesc>
-        
-        <profileDesc>
-            <textClass>
-                <keywords scheme="original" n="category">
-                    <term>Correspondence</term>
-                </keywords>
-                <keywords scheme="original" n="subcategory">
-                    <term>Business</term>
-                </keywords>
-                <keywords scheme="original" n="topic">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="keywords">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="people">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="places">
-                    <term></term>
-                </keywords>
-            </textClass>
-            <particDesc><person role="recipient"><persName>Marken, Jack</persName></person></particDesc>
-        </profileDesc>
-        
-        <revisionDesc>
-            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
-            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
-            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
-            
-        </revisionDesc>
-    </teiHeader>
-    
-    <text>
-        <body>
-            
-            <div1 type="letter">
-                
-                <pb facs="nei.j4c.65.45" />
-                
-                <fw type="curatorial">45</fw>
-                
-                <opener>
-                    <dateline>
-                        5835 Vine Street
-                        Lincoln, Nebraska 68505
-                        August 29, 1973
-                    </dateline>
-                       
-                    <address>
-                        <addrLine>Dr. Jack Marken</addrLine>
-                        <addrLine>319 20 Avenue</addrLine>
-                        <addrLine>Brookings, South Dakota 57006</addrLine>
-                    </address>   
-                    
-                    <salute>Dear Dr. Marken,</salute>
-                </opener>
-                <p>It was very good of you to send me a copy of your bibliography of Indians and Eskimos of North America. I can see at a glance that it is a very valuable book for any one<sic>anyone</sic> interested in the subject. I intend to do a good deal of listening to it. I have difficulty in reading but I have good friends who read to me and we will explore your book.</p>
-                
-                <p>You would be interested to know that my <hi rend="caps">WHEN THE TREE FLOWERED</hi> sold 115,000 copies in three months. We have the report for only three months and are eager to know how many more <del/><add>h</add>ave been sold. <hi rend="caps">BLACK ELK SPEAKS</hi> is translated into nine foreign languages and is issued in a British edition. We are now about to negotiate for the rights in <hi rend="caps">THE TWILIGHT OF THE SIOUX</hi>; the idea I think is to make a television special of it.</p>
-                
-                <p>You may be sure that we remember with pleasure various times we were guests in your home. These are experiences worth remembering.</p>
-                <closer>
-                    <salute>With thanks, again, and all kind thoughts to be shared with Mrs. Marken, your friend</salute>
-                
-                
-                    <signed>John Neihardt</signed>
-                
-                    <note>JGN:nh</note>
-                </closer>
-                
-                <postscript>
-                    <opener><hi rend="caps">P.S.</hi></opener> <p>United Artists is bringing out records of my poetry. The first album will be on sale September 16. I understand there may be as many as 12 albums.</p> <closer>&#8212; <signed>J.N.</signed></closer>
-                </postscript>
-                
-            </div1>
-        </body>
-        
-        <back></back>
-    </text>
+<idno>nei.j4c.65.45</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<title level="m" type="main">Letter from John G. Neihardt to Dr. Jack Marken</title>
+<date when="1973-08-29">August 29, 1973</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>1 type-written page</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>1 page
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+</condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="type"><p>Media: type</p></handNote>
+<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+
+
+
+
+
+
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+<date when="1900"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName></persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Marken, Jack</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4c.65.45" />
+
+<fw type="curatorial">45</fw>
+
+<opener>
+<dateline>
+5835 Vine Street
+Lincoln, Nebraska 68505
+August 29, 1973
+</dateline>
+   
+<address>
+<addrLine>Dr. Jack Marken</addrLine>
+<addrLine>319 20 Avenue</addrLine>
+<addrLine>Brookings, South Dakota 57006</addrLine>
+</address>   
+
+<salute>Dear Dr. Marken,</salute>
+</opener>
+<p>It was very good of you to send me a copy of your bibliography of Indians and Eskimos of North America. I can see at a glance that it is a very valuable book for any one<sic>anyone</sic> interested in the subject. I intend to do a good deal of listening to it. I have difficulty in reading but I have good friends who read to me and we will explore your book.</p>
+
+<p>You would be interested to know that my <hi rend="caps">WHEN THE TREE FLOWERED</hi> sold 115,000 copies in three months. We have the report for only three months and are eager to know how many more <del/><add>h</add>ave been sold. <hi rend="caps">BLACK ELK SPEAKS</hi> is translated into nine foreign languages and is issued in a British edition. We are now about to negotiate for the rights in <hi rend="caps">THE TWILIGHT OF THE SIOUX</hi>; the idea I think is to make a television special of it.</p>
+
+<p>You may be sure that we remember with pleasure various times we were guests in your home. These are experiences worth remembering.</p>
+<closer>
+<salute>With thanks, again, and all kind thoughts to be shared with Mrs. Marken, your friend</salute>
+
+
+<signed>John Neihardt</signed>
+
+<note>JGN:nh</note>
+</closer>
+
+<postscript>
+<opener><hi rend="caps">P.S.</hi></opener> <p>United Artists is bringing out records of my poetry. The first album will be on sale September 16. I understand there may be as many as 12 albums.</p> <closer>&#8212; <signed>J.N.</signed></closer>
+</postscript>
+
+</div1>
+</body>
+
+<back></back>
+</text>
 </TEI>

@@ -1,172 +1,183 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.65.5">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title type="main">Letter from John G. Neihardt to Katie Kelly, January 17, 1973</title>
-                <author>Neihardt, John Gneisenau, 1881-1973</author>
-                <principal>Gossin, Pamela</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date>2013</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <authority>The Papers of John G. Neihardt</authority>
-                <publisher>University of Nebraska-Lincoln</publisher>
-                <distributor>
-                    <name>Center for Digital Research in the Humanities</name>
-                    <address>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Katie Kelly, January 17, 1973</title>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
 <addrLine>319 Love Library</addrLine>
 <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 <addrLine>cdrh@unlnotes.unl.edu</addrLine>
 </address>
-                </distributor>
-                <pubPlace>Lincoln, Nebraska</pubPlace> 
-                <address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-                <idno>nei.j4c.65.5</idno>
-                <availability>
-                    <p></p>
-                </availability>
-            </publicationStmt>
-            
-            <notesStmt><note></note></notesStmt>
-            
-            <sourceDesc>
-                <bibl>
-                    <author>Neihardt, John Gneisenau, 1881-1973</author>
-                    <title level="m" type="main">Letter from John G. Neihardt to Katie Kelly</title>
-                    <date when="1973-01-17">January 17, 1973</date>
-                    <extent>1 page</extent>
-                </bibl>
-                <msDesc>
-                    <msIdentifier>
-                        <repository></repository>
-                        <idno></idno>
-                    </msIdentifier>
-                    <msContents>
-                        <p>1 type-written page</p>
-                    </msContents>
-                    <physDesc>
-                        <objectDesc>
-                            <supportDesc>
-                                <support></support>
-                                <extent>1 page
-                                    <dimensions unit="mm"><height></height><width></width></dimensions>
-                                </extent>
-                                <condition>
-                                    <p></p></condition>
-                            </supportDesc>
-                        </objectDesc>
-                        <handDesc hands="1">
-                            <handNote xml:id="type"><p>Media: type</p></handNote>
-                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-                        </handDesc>
-                        <typeDesc>
-                            <typeNote><p></p></typeNote>
-                        </typeDesc>
-                    </physDesc>
-                    <history><origin></origin>
-                        <provenance></provenance>
-                        <acquisition></acquisition>
-                    </history>
-                </msDesc>
-                
-            </sourceDesc>
-        </fileDesc>
-        
-        <encodingDesc>
-            <editorialDecl>
-                <correction>
-                    <p></p>
-                </correction>
-                <normalization>
-                    <p></p>
-                </normalization>
-            </editorialDecl>
-        </encodingDesc>
-        
-        <profileDesc>
-            <textClass>
-                <keywords scheme="original" n="category">
-                    <term>Correspondence</term>
-                </keywords>
-                <keywords scheme="original" n="subcategory">
-                    <term>Business</term>
-                </keywords>
-                <keywords scheme="original" n="topic">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="keywords">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="people">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="places">
-                    <term></term>
-                </keywords>
-            </textClass>
-            <particDesc><person role="recipient"><persName>Kelly, Katie</persName></person></particDesc>
-        </profileDesc>
-        
-        <revisionDesc>
-            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
-            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
-            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
-            
-        </revisionDesc>
-    </teiHeader>
-    
-    <text>
-        <body>
-            
-            <div1 type="letter">
-                
-                <pb facs="nei.j4c.65.5" />
-                
-                <fw type="curatorial">5</fw>
-                
-                <opener>
-                    <dateline>
-                        5835 Vine Street
-                        Lincoln, Nebraska 68505
-                        January 17, 1973
-                    </dateline>
-                
-                    <salute>Dear Katie Kelly:</salute>
-                </opener>
-                <p>It is most dear of you to care about my exposure to the flu but so far I seem to be protected. I had thflue<sic>the flu</sic> shot in September and perhaps that will do the necessary work. I have had rather hard touches of asthma, but am getting my work done anyway.</p>
-                
-                <p>What I really want to say <add>is</add> that we are <del>generally</del><add>greatly</add> sorry that you had such a hard time with the flue<sic>flu</sic> but we are grateful that you came through relatively unharmed. We all think you are an angel and we are very eager to know about the literary work you are doing. We want to know about this book. When did you write it, and what is it about? I'll' bet it's delightful.</p>
-                
-                <p>My book seems to be getting around, as we hear from many parts of the country about it. I am more than half way<sic>halfway</sic> through the second volume I think, but I am not quite sure. You will care to know that the Neihardt Foundation at Bancroft has bought land adjoining the present Prayer Garden and they are going after money to build a museum. They seem to have endless enthusiasm, bless their hearts, and enthusiasm will do almost anything.</p>
-                
-                <p>We are holding our breath until we can see a copy of your Saturday Review article. Of course it cannot be expected yet, but we are watching with all our eyes.</p>
-                <closer>
-                    <salute>With affectionate thoughts, dear lady, your friends,</salute>
-                
-                
-                    <signed>John Neiha<del>l</del><add>r</add>fdand<sic>Neihardt and</sic> Company</signed>
-                    
-                    <note>JGN:nh</note>
-                </closer>
-                
-                <postscript>
-                    <opener><hi rend="caps">P. S.</hi></opener> <p>I will meet in Columbia next week with the United Artists technicians. They are sending a sound truck from Hollywood and we will make <del>an</del> a Neihardt album. It's a sure go as we have a signed contract and liberal advance money.</p>                                      
-                </postscript>
-                
-            </div1>
-        </body>
-        
-        <back></back>
-    </text>
+<idno>nei.j4c.65.5</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<title level="m" type="main">Letter from John G. Neihardt to Katie Kelly</title>
+<date when="1973-01-17">January 17, 1973</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>1 type-written page</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>1 page
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+</condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="type"><p>Media: type</p></handNote>
+<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+
+
+
+
+
+
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+<date when="1900"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName></persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Kelly, Katie</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4c.65.5" />
+
+<fw type="curatorial">5</fw>
+
+<opener>
+<dateline>
+5835 Vine Street
+Lincoln, Nebraska 68505
+January 17, 1973
+</dateline>
+
+<salute>Dear Katie Kelly:</salute>
+</opener>
+<p>It is most dear of you to care about my exposure to the flu but so far I seem to be protected. I had thflue<sic>the flu</sic> shot in September and perhaps that will do the necessary work. I have had rather hard touches of asthma, but am getting my work done anyway.</p>
+
+<p>What I really want to say <add>is</add> that we are <del>generally</del><add>greatly</add> sorry that you had such a hard time with the flue<sic>flu</sic> but we are grateful that you came through relatively unharmed. We all think you are an angel and we are very eager to know about the literary work you are doing. We want to know about this book. When did you write it, and what is it about? I'll' bet it's delightful.</p>
+
+<p>My book seems to be getting around, as we hear from many parts of the country about it. I am more than half way<sic>halfway</sic> through the second volume I think, but I am not quite sure. You will care to know that the Neihardt Foundation at Bancroft has bought land adjoining the present Prayer Garden and they are going after money to build a museum. They seem to have endless enthusiasm, bless their hearts, and enthusiasm will do almost anything.</p>
+
+<p>We are holding our breath until we can see a copy of your Saturday Review article. Of course it cannot be expected yet, but we are watching with all our eyes.</p>
+<closer>
+<salute>With affectionate thoughts, dear lady, your friends,</salute>
+
+
+<signed>John Neiha<del>l</del><add>r</add>fdand<sic>Neihardt and</sic> Company</signed>
+
+<note>JGN:nh</note>
+</closer>
+
+<postscript>
+<opener><hi rend="caps">P. S.</hi></opener> <p>I will meet in Columbia next week with the United Artists technicians. They are sending a sound truck from Hollywood and we will make <del>an</del> a Neihardt album. It's a sure go as we have a signed contract and liberal advance money.</p>  
+</postscript>
+
+</div1>
+</body>
+
+<back></back>
+</text>
 </TEI>
 

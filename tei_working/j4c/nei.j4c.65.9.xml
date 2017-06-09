@@ -1,180 +1,191 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.65.9">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title type="main">Letter from John G. Neihardt to Dr. and Mrs. John Winkelman, January 29, 1973</title>
-                <author>Neihardt, John Gneisenau, 1881-1973</author>
-                <principal>Gossin, Pamela</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date>2013</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <authority>The Papers of John G. Neihardt</authority>
-                <publisher>University of Nebraska-Lincoln</publisher>
-                <distributor>
-                    <name>Center for Digital Research in the Humanities</name>
-                    <address>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Dr. and Mrs. John Winkelman, January 29, 1973</title>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
 <addrLine>319 Love Library</addrLine>
 <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 <addrLine>cdrh@unlnotes.unl.edu</addrLine>
 </address>
-                </distributor>
-                <pubPlace>Lincoln, Nebraska</pubPlace> 
-                <address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-                <idno>nei.j4c.65.9</idno>
-                <availability>
-                    <p></p>
-                </availability>
-            </publicationStmt>
-            
-            <notesStmt><note></note></notesStmt>
-            
-            <sourceDesc>
-                <bibl>
-                    <author>Neihardt, John Gneisenau, 1881-1973</author>
-                    <title level="m" type="main">Letter from John G. Neihardt to Dr. and Mrs. John Winkelman</title>
-                    <date when="1973-01-29">January 29, 1973</date>
-                    <extent>1 page</extent>
-                </bibl>
-                <msDesc>
-                    <msIdentifier>
-                        <repository></repository>
-                        <idno></idno>
-                    </msIdentifier>
-                    <msContents>
-                        <p>1 type-written page</p>
-                    </msContents>
-                    <physDesc>
-                        <objectDesc>
-                            <supportDesc>
-                                <support></support>
-                                <extent>1 page
-                                    <dimensions unit="mm"><height></height><width></width></dimensions>
-                                </extent>
-                                <condition>
-                                    <p></p></condition>
-                            </supportDesc>
-                        </objectDesc>
-                        <handDesc hands="1">
-                            <handNote xml:id="type"><p>Media: type</p></handNote>
-                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-                        </handDesc>
-                        <typeDesc>
-                            <typeNote><p></p></typeNote>
-                        </typeDesc>
-                    </physDesc>
-                    <history><origin></origin>
-                        <provenance></provenance>
-                        <acquisition></acquisition>
-                    </history>
-                </msDesc>
-                
-            </sourceDesc>
-        </fileDesc>
-        
-        <encodingDesc>
-            <editorialDecl>
-                <correction>
-                    <p></p>
-                </correction>
-                <normalization>
-                    <p></p>
-                </normalization>
-            </editorialDecl>
-        </encodingDesc>
-        
-        <profileDesc>
-            <textClass>
-                <keywords scheme="original" n="category">
-                    <term>Correspondence</term>
-                </keywords>
-                <keywords scheme="original" n="subcategory">
-                    <term>Business</term>
-                </keywords>
-                <keywords scheme="original" n="topic">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="keywords">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="people">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="places">
-                    <term></term>
-                </keywords>
-            </textClass>
-            <particDesc><person role="recipient"><persName>Winkelman, Dr. and Mrs. John</persName></person></particDesc>
-        </profileDesc>
-        
-        <revisionDesc>
-            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
-            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
-            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
-            
-        </revisionDesc>
-    </teiHeader>
-    
-    <text>
-        <body>
-            
-            <div1 type="letter">
-                
-                <pb facs="nei.j4c.65.9" />
-                
-                <fw type="curatorial">9</fw>
-                
-                <opener>
-                    <dateline>
-                        5835 Vine Street
-                        Lincoln, Nebraska 68505
-                        January 29, 1973
-                    </dateline>
-                    
-                    <address>
-                        <addrLine>Dr. and Mrs. John Winkelman</addrLine>
-                        <addrLine>33 Broadleaf Drive</addrLine>
-                        <addrLine>Clifton Knolls</addrLine>
-                        <addrLine>Elnora, New York 12065</addrLine>
-                    </address>
-                    
-                    <salute>Dear Dr. and Mrs. Winkelman:</salute>
-                </opener>
-                <p>It was a great joy to receive your birthday greeting.</p>
-                
-                <p>I often think of you and the old times when we were together, and I have regretted the wave of circumstance that pulled us apart.</p>
-                
-                <p>You are right; to be loved is the greatest thing in the world, but the word has been spoiled by careless usage. However, I know we understand what we mean.</p>
-                
-                <p>It has been astonishing how interest in my work has grown the last year. <hi rend="caps">BLACK ELK SPEAKS</hi> in the Pocket Books edition sold 250,000 copies during April and May of last year. It has been selling ever since but we have no report recently.</p>
-                
-                <p>My latest book,<hi rend="caps">ALL IS BUT A BEGINNING</hi>, has been doing well all over the country, judging by our mail. <hi rend="caps">WHEN THE TREE FLOWERED</hi> has just come out in Pocket Book series and is expected to sell as well as <hi rend="caps">BLACK ELK S<del>E</del><add>P</add>EAKS</hi>.</p>
-                
-                <p>I am working on the second volume of my autobiography now and it will appear within a year.</p>
-                
-                <p>United Artists of Hollywood has contracted to produce an album of my recitations. I expect to make the records within a month. They are sending a sound truck from Hollywood to Columbia to the recording.</p>
-                
-                <p>This is a portion of my news. I will be writing you again one of these times. In the meantime, know that I love you as always.</p> <closer><salute>With every good thought and thanks for all your goodness to me, your old friend,</salute>
-                
-                
-                    <signed>John Neihardt</signed>
-                
-                    <note>JGN:nh</note>       
-                </closer>
-                
-            </div1>
-        </body>
-        
-        <back></back>
-    </text>
+<idno>nei.j4c.65.9</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<title level="m" type="main">Letter from John G. Neihardt to Dr. and Mrs. John Winkelman</title>
+<date when="1973-01-29">January 29, 1973</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>1 type-written page</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>1 page
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+</condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="type"><p>Media: type</p></handNote>
+<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+
+
+
+
+
+
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+<date when="1900"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName></persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Winkelman, Dr. and Mrs. John</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4c.65.9" />
+
+<fw type="curatorial">9</fw>
+
+<opener>
+<dateline>
+5835 Vine Street
+Lincoln, Nebraska 68505
+January 29, 1973
+</dateline>
+
+<address>
+<addrLine>Dr. and Mrs. John Winkelman</addrLine>
+<addrLine>33 Broadleaf Drive</addrLine>
+<addrLine>Clifton Knolls</addrLine>
+<addrLine>Elnora, New York 12065</addrLine>
+</address>
+
+<salute>Dear Dr. and Mrs. Winkelman:</salute>
+</opener>
+<p>It was a great joy to receive your birthday greeting.</p>
+
+<p>I often think of you and the old times when we were together, and I have regretted the wave of circumstance that pulled us apart.</p>
+
+<p>You are right; to be loved is the greatest thing in the world, but the word has been spoiled by careless usage. However, I know we understand what we mean.</p>
+
+<p>It has been astonishing how interest in my work has grown the last year. <hi rend="caps">BLACK ELK SPEAKS</hi> in the Pocket Books edition sold 250,000 copies during April and May of last year. It has been selling ever since but we have no report recently.</p>
+
+<p>My latest book,<hi rend="caps">ALL IS BUT A BEGINNING</hi>, has been doing well all over the country, judging by our mail. <hi rend="caps">WHEN THE TREE FLOWERED</hi> has just come out in Pocket Book series and is expected to sell as well as <hi rend="caps">BLACK ELK S<del>E</del><add>P</add>EAKS</hi>.</p>
+
+<p>I am working on the second volume of my autobiography now and it will appear within a year.</p>
+
+<p>United Artists of Hollywood has contracted to produce an album of my recitations. I expect to make the records within a month. They are sending a sound truck from Hollywood to Columbia to the recording.</p>
+
+<p>This is a portion of my news. I will be writing you again one of these times. In the meantime, know that I love you as always.</p> <closer><salute>With every good thought and thanks for all your goodness to me, your old friend,</salute>
+
+
+<signed>John Neihardt</signed>
+
+<note>JGN:nh</note>   
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
 </TEI>

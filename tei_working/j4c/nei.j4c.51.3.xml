@@ -1,172 +1,183 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.51.3">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title type="main">Letter from John G. Neihardt to Dr. Slade Kendrick, January 24, 1967</title>
-                <author>Neihardt, John Gneisenau, 1881-1973</author>
-                <principal>Gossin, Pamela</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date>2013</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <authority>The Papers of John G. Neihardt</authority>
-                <publisher>University of Nebraska-Lincoln</publisher>
-                <distributor>
-                    <name>Center for Digital Research in the Humanities</name>
-                    <address>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Dr. Slade Kendrick, January 24, 1967</title>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
 <addrLine>319 Love Library</addrLine>
 <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 <addrLine>cdrh@unlnotes.unl.edu</addrLine>
 </address>
-                </distributor>
-                <pubPlace>Lincoln, Nebraska</pubPlace> 
-                <address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-                <idno>nei.j4c.51.3</idno>
-                <availability>
-                    <p></p>
-                </availability>
-            </publicationStmt>
-            
-            <notesStmt><note></note></notesStmt>
-            
-            <sourceDesc>
-                <bibl>
-                    <author>Neihardt, John Gneisenau, 1881-1973</author>
-                    <title level="m" type="main">Letter from John G. Neihardt to Dr. Slade Kendrick</title>
-                    <date when="1967-01-24">January 24, 1967</date>
-                    <extent>1 page</extent>
-                </bibl>
-                <msDesc>
-                    <msIdentifier>
-                        <repository></repository>
-                        <idno></idno>
-                    </msIdentifier>
-                    <msContents>
-                        <p>1 type-written page</p>
-                    </msContents>
-                    <physDesc>
-                        <objectDesc>
-                            <supportDesc>
-                                <support></support>
-                                <extent>1 page
-                                    <dimensions unit="mm"><height></height><width></width></dimensions>
-                                </extent>
-                                <condition>
-                                    <p></p></condition>
-                            </supportDesc>
-                        </objectDesc>
-                        <handDesc hands="1">
-                            <handNote xml:id="type"><p>Media: type</p></handNote>
-                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-                        </handDesc>
-                        <typeDesc>
-                            <typeNote><p></p></typeNote>
-                        </typeDesc>
-                    </physDesc>
-                    <history><origin></origin>
-                        <provenance></provenance>
-                        <acquisition></acquisition>
-                    </history>
-                </msDesc>
-                
-            </sourceDesc>
-        </fileDesc>
-        
-        <encodingDesc>
-            <editorialDecl>
-                <correction>
-                    <p></p>
-                </correction>
-                <normalization>
-                    <p></p>
-                </normalization>
-            </editorialDecl>
-        </encodingDesc>
-        
-        <profileDesc>
-            <textClass>
-                <keywords scheme="original" n="category">
-                    <term>Correspondence</term>
-                </keywords>
-                <keywords scheme="original" n="subcategory">
-                    <term>Business</term>
-                </keywords>
-                <keywords scheme="original" n="topic">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="keywords">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="people">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="places">
-                    <term></term>
-                </keywords>
-            </textClass>
-            <particDesc><person role="recipient"><persName>Kendrick, M. Slade</persName></person></particDesc>
-        </profileDesc>
-        
-        <revisionDesc>
-            <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
-            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
-            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
-            
-        </revisionDesc>
-    </teiHeader>
-    
-    <text>
-        <body>
-            
-            <div1 type="letter">
-                
-                <pb facs="nei.j4c.51.3" />
-                
-              <fw type="curatorial">3</fw>
-         
-         <opener>
-             <dateline>
-                Skyrim Farm      
-                Rt. #7
-                1 9 6 7                  
-                Columbia, Missouri 65201
-                January 24
-             </dateline>
-                
-             <address>
-                <addrLine>Dr. Slade Kendrick</addrLine>
-                <addrLine>Ithaca, <hi rend="caps">N. Y.</hi></addrLine>
-             </address>
-                
-             <salute>Dear Slade:</salute>
-         </opener>
-                <p>I don't know how long it has been since we exchanged letters, but I know I was glad for your latest one. I am writing this to give you some of my latest news.</p>
-                
-                <p>On January 19th, I gave a program at the Governor's Mansion at Lincoln, Nebraska. It was sponsored by the Ladies' Legislative League, which is composed of the wives of all state officials. It was a very distinguished audience and the League turned out in full force. The new Governor (Tiemann) and the Chancellor of the University came to grace the occasion. I had my picture taken with the Governor's lady and also with the Governor. Hilda's little girl Coralie (age 14) went along to take care of me, and she did a fine job, being as much at ease in the Governor's Mansion as she is at home.</p>
-                
-                <p>We are having spring weather here after a very cold snap that lasted only a few days. Bud s<sic>Buds</sic> are beginning to show up and a syringa bush has little leaves, which should take my advice and go back to bed for awhile. We have had almost no snow thus far, and it has become very dry.</p>
-                
-                <p>Well, there is my news, and here is my affection for you and Nita.</p>
-                <closer>
-                    <signed>John N.</signed>
-                    <signed>John Neihard t<sic>Neihardt</sic></signed>
+<idno>nei.j4c.51.3</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
 
-                    <note>JN:ENF</note>
-                </closer>
-                
-            </div1>
-        </body>
-        
-        <back></back>
-    </text>
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<title level="m" type="main">Letter from John G. Neihardt to Dr. Slade Kendrick</title>
+<date when="1967-01-24">January 24, 1967</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>1 type-written page</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>1 page
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+</condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="type"><p>Media: type</p></handNote>
+<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+
+
+
+
+
+
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+<date when="1900"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName></persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Kendrick, M. Slade</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4c.51.3" />
+
+  <fw type="curatorial">3</fw>
+ 
+ <opener>
+ <dateline>
+Skyrim Farm  
+Rt. #7
+1 9 6 7  
+Columbia, Missouri 65201
+January 24
+ </dateline>
+
+ <address>
+<addrLine>Dr. Slade Kendrick</addrLine>
+<addrLine>Ithaca, <hi rend="caps">N. Y.</hi></addrLine>
+ </address>
+
+ <salute>Dear Slade:</salute>
+ </opener>
+<p>I don't know how long it has been since we exchanged letters, but I know I was glad for your latest one. I am writing this to give you some of my latest news.</p>
+
+<p>On January 19th, I gave a program at the Governor's Mansion at Lincoln, Nebraska. It was sponsored by the Ladies' Legislative League, which is composed of the wives of all state officials. It was a very distinguished audience and the League turned out in full force. The new Governor (Tiemann) and the Chancellor of the University came to grace the occasion. I had my picture taken with the Governor's lady and also with the Governor. Hilda's little girl Coralie (age 14) went along to take care of me, and she did a fine job, being as much at ease in the Governor's Mansion as she is at home.</p>
+
+<p>We are having spring weather here after a very cold snap that lasted only a few days. Bud s<sic>Buds</sic> are beginning to show up and a syringa bush has little leaves, which should take my advice and go back to bed for awhile. We have had almost no snow thus far, and it has become very dry.</p>
+
+<p>Well, there is my news, and here is my affection for you and Nita.</p>
+<closer>
+<signed>John N.</signed>
+<signed>John Neihard t<sic>Neihardt</sic></signed>
+
+<note>JN:ENF</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
 </TEI>
