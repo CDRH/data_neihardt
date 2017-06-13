@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.47.4-7_0001-4">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.47.4-7">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to Dr. Slade Kendrick, September 17, 1965</title>
+<title type="main">Letter from John G. Neihardt to Slade Kendrick, September 17, 1965</title>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4c.47.4-7_0001-4</idno>
+<idno>nei.j4c.47.4-7</idno>
 <availability>
 <p></p>
 </availability>
@@ -42,7 +42,7 @@
 <sourceDesc>
 <bibl>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
-<title level="m" type="main">Letter from John G. Neihardt to Dr. Slade Kendrick</title>
+<title level="m" type="main">Letter from John G. Neihardt to Slade Kendrick</title>
 <date when="1965-09-17">September 17, 1965</date>
 <extent>6 pages</extent>
 </bibl>
@@ -54,44 +54,11 @@
 <msContents>
 <p>6 hand-written page</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>6 pages
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
+
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
-
 
 <profileDesc>
 <textClass>
@@ -104,11 +71,17 @@
 <keywords scheme="original" n="topic">
 <term></term>
 </keywords>
-<keywords scheme="lcsh" n="keywords">
-<term></term>
+<keywords scheme="lcsh" n="works">
+<term>Human Personality and Its Survival of Bodily Death</term>
+<term>Lyric and Dramatic Poems</term>
+<term>The Song of Hugh Glass</term>
+<term>The Song of the Messiah</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Pelly</term>
+<term>Myers, F. W. H. (Frederic William Henry), 1843-1901</term>
+<term>Freud, Sigmund, 1856-1939</term>
+<term>Jung, C.G. (Carl Gustav), 1875-1961</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
 <term></term>
@@ -117,18 +90,19 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Columbia (Mo.)</placeName>
+<date when="1965-09-17"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
+<persName>Kendrick, M. Slade (Myron Slade)</persName>
 <placeName></placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Kendrick, M. Slade</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Kendrick, M. Slade (Myron Slade)</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
 <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -166,7 +140,7 @@ that he is too self-conscious, too concerned with the effect he may be having on
 <pb facs="nei.j4c.47.4-7_0002a"/>
 <fw type="authorial">-3-</fw>
 
-for you would be  <hi rend="caps">F. W. H.</hi> Myer's <hi rend="underline">Human Personality</hi> &#8212; certainly one of the <hi rend="underline">great</hi> books of our age &#8212; far ahead of its time! If you decide to read it, get the one-volume abridged edition (abridged by the author's son). This will give you the background needed for thinking about the matter at all. You are a 20th-century
+for you would be  F. W. H. Myer's <hi rend="underline">Human Personality</hi> &#8212; certainly one of the <hi rend="underline">great</hi> books of our age &#8212; far ahead of its time! If you decide to read it, get the one-volume abridged edition (abridged by the author's son). This will give you the background needed for thinking about the matter at all. You are a 20th-century
 
 <pb facs="nei.j4c.47.4-7_0002b"/>
 <fw type="authorial">-4-</fw>
@@ -177,7 +151,7 @@ for you would be  <hi rend="caps">F. W. H.</hi> Myer's <hi rend="underline">Huma
 man, and Myers</del>
 man, and so is Myers. He was dealing with the <hi rend="underline">subconscious</hi> before Freud and Jung came on.</p>
 
-<p>I think I did not give you a copy of the <hi rend="underline">Lyrics</hi> &#8212; did I? I think I decided to send you a hard-back<sic>hardback</sic> copy.</p>
+<p>I think I did not give you a copy of the <hi rend="underline">Lyrics</hi> &#8212; did I? I think I decided to send you a hard-back copy.</p>
 
 <p>I am greatly interested in your next article based on a <hi rend="underline">sampling</hi> of
 

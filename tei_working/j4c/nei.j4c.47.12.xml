@@ -48,48 +48,16 @@
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
+<repository>Nebraska State Historical Society</repository>
 <idno></idno>
 </msIdentifier>
 <msContents>
 <p>2 hand-written pages</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>2 pages
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -108,27 +76,28 @@
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Nicoll, Bruce</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>Lincoln (Neb.)</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Columbia (Mo.)</placeName>
+<date when="1965-11-19"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
+<persName>Hull, Ronald Eugene, 1930-</persName>
 <placeName></placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Hull, Ron</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Hull, Ronald Eugene, 1930-</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
 <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -147,9 +116,9 @@
 
 <opener>
 <dateline>
-Route 7
-Columbia, Mo.
-November 19, '65
+Route 7<lb/>
+Columbia, Mo.<lb/>
+November 19, '65<lb/>
 </dateline>
 
 <salute>Dear Ron Hull:</salute>
