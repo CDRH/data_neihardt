@@ -5,7 +5,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, July 16, 1966</title>
+<title type="main">Letter from John G. Neihardt to Lucile Aly, July 16, 1966</title>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
@@ -42,7 +42,7 @@
 <sourceDesc>
 <bibl>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
-<title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
+<title level="m" type="main">Letter from John G. Neihardt to Lucile Aly</title>
 <date when="1966-07-16">July 16, 1966</date>
 <extent>1 page</extent>
 </bibl>
@@ -54,44 +54,10 @@
 <msContents>
 <p>1 type-written page</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>1 page
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
-
 
 <profileDesc>
 <textClass>
@@ -104,11 +70,13 @@
 <keywords scheme="original" n="topic">
 <term></term>
 </keywords>
-<keywords scheme="lcsh" n="keywords">
-<term></term>
+<keywords scheme="lcsh" n="works">
+<term>A Cycle of the West</term>
+<term>Lyric and Dramatic Poems</term>
+<term>Black Elk Speaks</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Sosa</term><!-- possibly Roberto -->
 </keywords>
 <keywords scheme="lcsh" n="places">
 <term></term>
@@ -117,18 +85,19 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Columbia (Mo.)</placeName>
+<date when="1966-07-16"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
+<persName>Aly, Lucile Folse, 1913-</persName>
 <placeName></placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Aly, Lucile Folse, 1913-</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
 <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -150,11 +119,11 @@
 
 <opener>
 <dateline>
-<hi rend="caps">SKYRIM FARM</hi>  
-Route #7 
-Columbia, Mo. 
-July 16
-1 9 6 6
+<hi rend="caps">SKYRIM FARM</hi>  <lb/>
+Route #7 <lb/>
+Columbia, Mo. <lb/>
+July 16<lb/>
+1 9 6 6<lb/>
 </dateline>
 
 <salute>Dear Lucile:</salute>
@@ -163,7 +132,7 @@ July 16
 
 <p>I had a wonderful two weeks at Wayne State &#8212;&#8212; a rather overwhelming experience. They had a sculptor engaged to do my bust, which will be unveiled in bronze at homecoming next October. At the homecoming, there will be a parade of forty-two floats, one from each of the dormitories and societies, and the subjects of the floats will be taken from my <hi rend="caps">CYCLE</hi>. These are high spots in my visit up there. Many asked about you.</p>
    
-<p>Signor<sic>Senor</sic>> Sosa and his son will translate my <hi rend="caps">LYRICS</hi> into Spanish. The elder Sosa was Secretary of State for Batista. Castro took over everything they owned and they got out of Cuba with their lives only. I had a meeting with them, and they were very enthusiastic. They said that two distinguished Cuban poets now in this country will help them. The Sosas, father and son, are both poets.</p>
+<p><choice><sic>Signor</sic><corr>Se&#241; or</corr></choice> Sosa and his son will translate my <hi rend="caps">LYRICS</hi> into Spanish. The elder Sosa was Secretary of State for Batista. Castro took over everything they owned and they got out of Cuba with their lives only. I had a meeting with them, and they were very enthusiastic. They said that two distinguished Cuban poets now in this country will help them. The Sosas, father and son, are both poets.</p>
    
 <p>I think I must have told you about <hi rend="caps">BLACK ELK</hi> going into Italian.</p>
 
