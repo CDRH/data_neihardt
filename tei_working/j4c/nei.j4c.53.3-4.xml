@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.53.3-4_0001-2">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.53.3-4">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, July 11, 1967</title>
+<title type="main">Letter from John G. Neihardt to Lucile Aly, July 11, 1967</title>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4c.53.3-4_0001-2</idno>
+<idno>nei.j4c.53.3-4</idno>
 <availability>
 <p></p>
 </availability>
@@ -42,7 +42,7 @@
 <sourceDesc>
 <bibl>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
-<title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
+<title level="m" type="main">Letter from John G. Neihardt to Lucile Aly</title>
 <date when="1967-07-11">July 11, 1967</date>
 <extent>2 pages, plus envelope</extent>
 </bibl>
@@ -54,44 +54,10 @@
 <msContents>
 <p>2 type-written pages, plus hand-written envelope</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>2 pages
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="2">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
-
 
 <profileDesc>
 <textClass>
@@ -104,31 +70,40 @@
 <keywords scheme="original" n="topic">
 <term></term>
 </keywords>
-<keywords scheme="lcsh" n="keywords">
-<term></term>
+<keywords scheme="lcsh" n="works">
+<term>The Poet's House</term>
+<term>The Song of Hugh Glass</term>
+<term>The Forum</term>
+<term>Aeneid</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Doak, Ruth Folse, 1915-2012</term>
+<term>Streamer, Volney, 1850-1915</term>
+<term>House, Julius T. (Julius Temple)</term>
+<term>Virgil</term>
+<term>Untermeyer, Louis, 1885-1977</term>
+<term>Aly, Bower, 1903-1977</term>
+<term>Aly, Stewart</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>Bancroft (Neb.)</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Columbia (Mo.)</placeName>
+<date when="1967-07-11"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<placeName></placeName>
+<persName>Aly, Lucile Folse, 1913-</persName>
+<placeName>Eugene (Or.)</placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Aly, Lucile Folse, 1913-</persName></person></particDesc>
 </profileDesc>
 
-<revisionDesc>
+<revisionDesc><change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
 <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -157,8 +132,8 @@
 </fw>
 <opener>
 <dateline>
-July 11
-1 9  6 7
+July 11<lb/>
+1967
 </dateline>
 
 <salute>Dear Lucile:</salute>
@@ -171,7 +146,7 @@ July 11
 
 <p>I do hope you are still planning on the trip to Bancroft. Perhaps we could get a clearer understanding than we seem to have now.</p>
 
-<p>The following is not too important, but I feel I should follow through. You had suggested that I may have gotten my interest in the Greeks from Dr. House, and I would be glad to admit it if it were true, just as I am glad to credit Volney Streamer for his influence on my way of reading poetry. The Greek interest came a long while before Dr. House, as both the <hi rend="underline">Poet's Town</hi> and <hi rend="caps">THE SONG OF HUGH GLASS</hi> show. Dr. House's first knowledge of me came from his reading of the <hi rend="underline">Poet's Town</hi> in <hi rend="caps">THE FORUM</hi> before he had seen <hi rend="caps">HUGH GLASS</hi>. The Greek influence is obvious in the <hi rend="underline">Poet's Town</hi> and also in <hi rend="caps">HUGH GLASS</hi>. In the latter it seems to be the tragic poets that influenced me most.</p>
+<p>The following is not too important, but I feel I should follow through. You had suggested that I may have gotten my interest in the Greeks from Dr. House, and I would be glad to admit it if it were true, just as I am glad to credit Volney Streamer for his influence on my way of reading poetry. The Greek interest came a long while before Dr. House, as both the <hi rend="underline">Poet's Town</hi> and THE SONG OF HUGH GLASS show. Dr. House's first knowledge of me came from his reading of the <hi rend="underline">Poet's Town</hi> in THE FORUM before he had seen HUGH GLASS. The Greek influence is obvious in the <hi rend="underline">Poet's Town</hi> and also in HUGH GLASS. In the latter it seems to be the tragic poets that influenced me most.</p>
 
 <p>My interest in the Greeks came to me through Virgil's <hi rend="underline">Aeneid</hi>, which, as you know, I was reading in the original at the age of fifteen. I began studying the Greek language long before Dr. House came to me. You remarked that it was amazing how wrong a logical inference can be. This is an example of what you mean.</p>
 
@@ -186,7 +161,7 @@ which you must have noticed.</p>
 
 <p>I want you <add>to</add> <del>will</del> feel a deep sincerity in my hope that our friendship is unchanged and will continue as it began. I <hi rend="underline">do</hi> want it to be so.</p>
 
-<p>Affectionate thoughts for you and Bower &#8212;&#8212; and for Stewart too, if he is there. Also give Jingle some especailly<sic>especially</sic> affectionate attention for me. I count her as one of my animal-people friends, which are scattered pretty much over the map of the country. It makes me happy to think of them.</p>
+<p>Affectionate thoughts for you and Bower &#8212;&#8212; and for Stewart too, if he is there. Also give Jingle some <choice><sic>especailly</sic><corr>especially</corr></choice> affectionate attention for me. I count her as one of my animal-people friends, which are scattered pretty much over the map of the country. It makes me happy to think of them.</p>
 <closer>
 <signed>John N.</signed>
 <signed>John G. Neihardt</signed>
