@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.53.18-19_0001-2">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.53.18-19">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to Dr. Lucile ALy, September 30, 1967</title>
+<title type="main">Letter from John G. Neihardt to Lucile ALy, September 30, 1967</title>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4c.53.18-19_0001-2</idno>
+<idno>nei.j4c.53.18-19</idno>
 <availability>
 <p></p>
 </availability>
@@ -42,7 +42,7 @@
 <sourceDesc>
 <bibl>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
-<title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
+<title level="m" type="main">Letter from John G. Neihardt to Lucile Aly</title>
 <date when="1967-09-30">September 30, 1967</date>
 <extent>2 pages, plus envelope</extent>
 </bibl>
@@ -54,44 +54,10 @@
 <msContents>
 <p>2 type-written pages, plus envelope</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>2 pages
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="2">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
-
 
 <profileDesc>
 <textClass>
@@ -108,21 +74,30 @@
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Ziolkowski, Korczak, 1908-1982</term>
+<term>Crazy Horse, approximately 1842-1877</term>
+<term>Neihardt, Mona Martinsen</term>
+<term>Young, Julius</term>
+<term>Young, Myrtle</term>
+<term>House, Julius T. (Julius Temple)</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>South Dakota</term>
+<term>Lincoln (Neb.)</term>
+<term>Spearfish (S.D.)</term>
+<term>Deadwood (S.D.)</term>
+<term>Nebraska</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Columbia (Mo.)</placeName>
+<date when="1967-09-30"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName>Aly, Lucile Folse, 1913-</persName>
-<placeName></placeName>
+<placeName>Eugene (Or.)</placeName>
 </correspAction>
 </correspDesc>
 <particDesc><person role="recipient"><persName>Aly, Lucile Folse, 1913-</persName></person></particDesc>
@@ -149,12 +124,12 @@
 
 <opener>
 <dateline>
-Skyrim Farm
-Route #7
-Columbia, Missouri 65201
+Skyrim Farm<lb/>
+Route #7<lb/>
+Columbia, Missouri 65201<lb/>
 
-September 30
-1 9  6 7
+September 30<lb/>
+1967
 </dateline>
 
 <salute>Dear Lucile:</salute>
@@ -163,9 +138,9 @@ September 30
 
 <p>We met a number of friends all over South Dakota, who have been friends of mine for years, although I did not know them. We went up to the Forks of the Grand River, and spent some time with our lonely little monument, which we erected 44 years ago. The Forks are 65 feet under water now, as the Grand River has been dammed &#8212;&#8212; yes, and I would say pretty well damned! Our little monument, however, with its restored plate is 25 ft. above high water mark.</p>
 
-<p>I think I neglected to state that the Youngs and I made this trip together. <hi rend="caps">J. D.</hi> Young has been my best man-friend since Dr. House. I believe you met him (of course you did!).</p>
+<p>I think I neglected to state that the Youngs and I made this trip together. J. D. Young has been my best man-friend since Dr. House. I believe you met him (of course you did!).</p>
 
-<p>I had hoped to see a letter from you when I arrived home day before yesterday. By now, you are teaching again and are very busy as always. I do hope you have found some time for the <hi rend="underline">MS</hi>. Will you be sending us some <hi rend="underline">MS</hi> to check one of these times?</p> 
+<p>I had hoped to see a letter from you when I arrived home day before yesterday. By now, you are teaching again and are very busy as always. I do hope you have found some time for the MS. Will you be sending us some MS to check one of these times?</p> 
 
 <p>I hope this letter sounds intelligent. I am really weary yet from the long journey and the many late nights.</p>
 
@@ -186,7 +161,7 @@ September 30
 <fw type="curatorial">19</fw>
 
 <postscript>
-<opener>Ps. &#8212;</opener><p> I almost forgot to tell you about one of the happiest experiences of the trip. You will remember, I think, that I spent the summer of 1907 in Spearfish Canyon of the Black Hills. I lived in a cabin at the top of Little Spearfish Falls that fell 60 ft. in my front yard. Within 10 feet of our front door. <del>t</del><add>T</add>he railroad from Deadwood to Spearfish passed once a day. Soon after I left there, a shepherd dog left his master and came to me, determined to be my dog. I tried to get him back to his master, but he wouldn't go. He and I became fast friends, and walked all over the northern hills together. Now and then, during the summer, I took the dinky little train to Deadwood, and my dog came to hate the train. He would attack it every time it stopped at our little station. When I left for good, at the end of the summer, he saw me of course going to the train, and shortly after I arrived home in Nebraska, I heard from friends up there that he had attacked the engine's cow-catcher, and had been killed. A friend of mine up there built a monument to him, and put up a headboard, telling of his virtues. Now here is the point of the story. &#8212;&#8212; My cabin is still there, as good as ever; only it has been given a coat of green paint. As soon as I went to the cabin, a big shepherd dog came leaping to gree t<sic>greet</sic> me. He kissed me all over the face, and showed in every way that he was over-joyed<sic>overjoyed</sic> to see me. His master, who runs a little restaurant there, said he never saw anything like it. Doesn't this stir one's imagination? Could there be something in this that we do not understand? You may show this story to <del>j</del><add>J</add>ingle, and kiss her on the side of her nose for me.</p>
+<opener>Ps. &#8212;</opener><p> I almost forgot to tell you about one of the happiest experiences of the trip. You will remember, I think, that I spent the summer of 1907 in Spearfish Canyon of the Black Hills. I lived in a cabin at the top of Little Spearfish Falls that fell 60 ft. in my front yard. Within 10 feet of our front door. <del>t</del><add>T</add>he railroad from Deadwood to Spearfish passed once a day. Soon after I left there, a shepherd dog left his master and came to me, determined to be my dog. I tried to get him back to his master, but he wouldn't go. He and I became fast friends, and walked all over the northern hills together. Now and then, during the summer, I took the dinky little train to Deadwood, and my dog came to hate the train. He would attack it every time it stopped at our little station. When I left for good, at the end of the summer, he saw me of course going to the train, and shortly after I arrived home in Nebraska, I heard from friends up there that he had attacked the engine's cow-catcher, and had been killed. A friend of mine up there built a monument to him, and put up a headboard, telling of his virtues. Now here is the point of the story. &#8212;&#8212; My cabin is still there, as good as ever; only it has been given a coat of green paint. As soon as I went to the cabin, a big shepherd dog came leaping to gree t<sic>greet</sic> me. He kissed me all over the face, and showed in every way that he was over-joyed to see me. His master, who runs a little restaurant there, said he never saw anything like it. Doesn't this stir one's imagination? Could there be something in this that we do not understand? You may show this story to <del>j</del><add>J</add>ingle, and kiss her on the side of her nose for me.</p>
 
 <p>I love to think of that shepherd dog.</p>
 

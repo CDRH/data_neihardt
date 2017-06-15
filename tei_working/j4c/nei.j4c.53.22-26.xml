@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.53.22-26_0001-5">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.53.22-26">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, November 4, 1967</title>
+<title type="main">Letter from John G. Neihardt to Lucile Aly, November 4, 1967</title>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4c.53.22-26_0001-5</idno>
+<idno>nei.j4c.53.22-26</idno>
 <availability>
 <p></p>
 </availability>
@@ -54,43 +54,11 @@
 <msContents>
 <p>8 hand-written pages, plus envelope</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>8 pages
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
+
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
 
 
 <profileDesc>
@@ -108,21 +76,25 @@
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Neihardt, Enid</term>
+<term>Petri, Gail</term>
+<term>Neihardt, Mona Martinsen</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>Joplin (Mo.)</term>
+<term>Spearfish Canyon (S.D.)</term>
+<term>Deadwood (S.D.)</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Columbia (Mo.)</placeName>
+<date when="1967-11-04"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName>Aly, Lucile Folse, 1913-</persName>
-<placeName></placeName>
+<placeName>Eugene (Or.)</placeName>
 </correspAction>
 </correspDesc>
 <particDesc><person role="recipient"><persName>Aly, Lucile Folse, 1913-</persName></person></particDesc>
@@ -156,7 +128,7 @@ Nov. 4, '67
 <pb facs="nei.j4c.53.22-26_0001b"/>
 <fw type="authorial">-2-</fw>
 
-in either, and your long silence increases my wonderment. There is so much in your <hi rend="caps">MS</hi> that is excellent, and the errors that need correction are mostly matters of fact. Enid and I have a big job on hand, catching up with my mail; but we can go ahead whenever you can send us a bunch of <del>copy</del> copy.</p>
+in either, and your long silence increases my wonderment. There is so much in your MS that is excellent, and the errors that need correction are mostly matters of fact. Enid and I have a big job on hand, catching up with my mail; but we can go ahead whenever you can send us a bunch of <del>copy</del> copy.</p>
 
 <fw type="curatorial">22</fw>
 <pb facs="nei.j4c.53.22-26_0002a"/>
@@ -171,7 +143,7 @@ in either, and your long silence increases my wonderment. There is so much in yo
 
 the two days and nights there.</p>
 
-<p>In September I re-visited<sic>revisited</sic> Spearfish Canyon, in the Black Hills of <hi rend="caps">S. D.</hi>, where I spent the summer of <hi rend="double underline">1907</hi>. It was a wonderful summer! Early in my stay there a shepherd dog from up the Canyon came to me and would <hi rend="double underline">not</hi> return to <del><unclear>his</unclear></del> his master. We became <hi rend="double underline">close</hi> friends. We really loved each other, and we 
+<p>In September I re-visited Spearfish Canyon, in the Black Hills of <hi rend="caps">S. D.</hi>, where I spent the summer of <hi rend="double underline">1907</hi>. It was a wonderful summer! Early in my stay there a shepherd dog from up the Canyon came to me and would <hi rend="double underline">not</hi> return to <del><unclear>his</unclear></del> his master. We became <hi rend="double underline">close</hi> friends. We really loved each other, and we 
 
 <fw type="curatorial">23</fw>
 <pb facs="nei.j4c.53.22-26_0003a"/>
