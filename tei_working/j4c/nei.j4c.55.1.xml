@@ -5,7 +5,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to Dr. Slade Kendrick, April 1, 1968</title>
+<title type="main">Letter from John G. Neihardt to Slade Kendrick, April 1, 1968</title>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
@@ -42,7 +42,7 @@
 <sourceDesc>
 <bibl>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
-<title level="m" type="main">Letter from John G. Neihardt to Dr. Slade Kendrick</title>
+<title level="m" type="main">Letter from John G. Neihardt to Slade Kendrick</title>
 <date when="1968-04-01">April 1, 1968</date>
 <extent>1 page</extent>
 </bibl>
@@ -54,44 +54,10 @@
 <msContents>
 <p>1 type-written page</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>1 page
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
-
 
 <profileDesc>
 <textClass>
@@ -104,28 +70,32 @@
 <keywords scheme="original" n="topic">
 <term></term>
 </keywords>
-<keywords scheme="lcsh" n="keywords">
-<term></term>
+<keywords scheme="lcsh" n="works">
+<term>All is but a beginning : youth remembered, 1881-1901</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>O'Neill, Rose Cecil, 1874-1944</term>
+<term>Pliny, the Younger</term>
+<term>Kendrick, Nita Collier</term>
+<term>Jefferson, Thomas, 1743-1826</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>Columbia (Mo.)</term>
+<term>Branson (Mo.)</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Lincoln (Neb.)</placeName>
+<date when="1968-04-01"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<placeName></placeName>
+<persName>Kendrick, M. Slade (Myron Slade)</persName>
+<placeName>Ithaca (N.Y.)</placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Kendrick, M. Slade</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Kendrick, M. Slade (Myron Slade)</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc><change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
@@ -147,8 +117,8 @@
 
 <opener>
 <dateline>
-5835 Vine Street
-Lincoln, Nebraska 68505
+5835 Vine Street<lb/>
+Lincoln, Nebraska 68505<lb/>
 April 1, 1968
 </dateline>
 
@@ -164,7 +134,7 @@ April 1, 1968
 
 <p>Since I wrote you last some nice things have been happening. First of all, the University of Missouri will give me the Thomas Jefferson Award on April 12. This is a much coveted honor, as I have no doubt you know. Then on April 20 there will be a ceremony at the University Library dedicating the Neihardt Collection and the bronze bust which has been mounted on a marble pedestal.</p>
 
-<p>I am leaving Wednesday for Columbia. On the 5th of April I will hold forth at a banquet given in memory of Rose O'Neill whose home was near Branson and whom we knew well. You will remember her as the maker kewpies<sic>maker of kewpies</sic>. She was also a very fine lyric poet, which is something the public doesn't know.</p>
+<p>I am leaving Wednesday for Columbia. On the 5th of April I will hold forth at a banquet given in memory of Rose O'Neill whose home was near Branson and whom we knew well. You will remember her as the <choice><sic>maker kewpies</sic><corr>maker of kewpies</corr></choice>. She was also a very fine lyric poet, which is something the public doesn't know.</p>
 
 <p>I am glad you have been reading Pliny. His description of the destruction of Pompeii is of course a classic.</p>
 
