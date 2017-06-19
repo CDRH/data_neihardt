@@ -1,16 +1,204 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.55.2-3_0001-2">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, April 1, 1968</title>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4c.55.2-3_0001-2</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
+<date when="1968-04-01">April 1, 1968</date>
+<extent>1 page, plus envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>1 type-written page, plus envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>1 page
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+</condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="type"><p>Media: type</p></handNote>
+<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
 
 
 
 
-<fw type="curatorial">449-2 Aly Collection GOS 2</fw>
 
+
+
+
+
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+<date when="1900"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName></persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc><change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
+<change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4c.55.2-3_0001" />
+
+<note type="curatorial">449-2 GOS</note><fw type="curatorial">2</fw>
+
+<opener>
+<dateline>
 5835 Vine Street
 Lincoln, Nebraska 68505
 April 1, 1968
+</dateline>
 
-Dear Lucile:
+<salute>Dear Lucile:</salute>
+</opener>
+<p>I've just heard from Mr. Szasz, the Hungarian artist, who is a close friend of Mr. Webster Shott, the critic, who is a top man in the Hallmark Company. Szasz said that Shott had reviewed portions of your biography for Life magazine. He didn't say what conclusions Shott reached. Do you know yet? Hallmark is considering publishing some of my stuff and I understand that Shott is a real fan of mine. I do hope he thought of some way to utilize portions of your biography.</p>
 
-<p>I've just heard from Mr. Szasz, the Hungarian artist, who is a close friend of Mr. Webster Shott, the critic, who is a top man in the Hallmark Company. Szazs said that Shott had reviewed portions of your biography for Life magazine. He didn't say what conclusions Shott reached. Do you know yet? Hallmark is considering publishing some of my stuff and I understand that Shott is a real fan of mine. I do hope he thought of some way to utilize portions of your biography.</p>
-<p>
+<p>I want to emphasize what I said in my hand-written letter that it's extremely important for me to check your manuscript for factual errors. It is so easy to make such mistakes and there is no reason why we should let them happen. This is not a matter of my interfering with your expression of opinion as a biographer; it is simply a matter of factual accuracy. Th<del>r</del><add>e</add>re are large sections of your work in which such errors do not occur. I told you that I would be confined to the house during May, and I want to say again that I would be glad to hear the manuscript read at that time.</p>
 
+<p>Did I send you a copy of my dog story? If I didn't, here is one enclosed, and if I did, it's enclosed anyway. In either case, you won't miss my dog story. It gives me a deep tickle in my chest to think about that doggie.</p>
+
+<p>I am wondering how you have handled <hi rend="caps">THE DIVINE ENCHANTMENT</hi>. Since Walt Black was here my respect for that little book has grown greatly. There's a lot of stuff in it as I think you suggested sometime back. It certainly can't be handled as merely the work of a boy of 16. You have said very little about <hi rend="caps">THE DIVINE ENCHANTMENT</hi> and I am eager to know how you have handled it.</p>
+
+<closer>
+<salute>With the old love,</salute>   <signed>&#8212; John N.</signed>
+</closer>
+
+</div1>
+
+
+<div1 type="envelope">
+
+<pb facs="nei.j4c.55.2-3_0002"/>
+
+<fw type="curatorial"><unclear reason="missing" cert="medium">3</unclear></fw>
+
+<ab type="return">
+John G. Neihardt
+<lb/>
+5835 Vine Street
+<lb/>
+Lincoln, Nebr. 68505
+</ab>
+
+<ab type="postmark">L<unclear cert="high">IN</unclear>COLN -PM 1 APR 1968</ab>
+<figure>
+<figDesc>6¢ FRANKLIN D.ROOSEVELT U.S.POSTAGE</figDesc>
+</figure>
+
+<ab type="address">
+<address>
+<addrLine>Dr. Lucile Aly</addrLine>
+<addrLine>1138 22nd Avenue East</addrLine>
+<addrLine>Eugene, Oregon</addrLine>
+</address>
+</ab>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
