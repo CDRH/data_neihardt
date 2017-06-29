@@ -1,210 +1,200 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.57.27-29_0001-3">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, March 1969</title>
-                <author>Neihardt, John Gneisenau, 1881-1973</author>
-                <principal>Gossin, Pamela</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date>2013</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <authority>The Papers of John G. Neihardt</authority>
-                <publisher>University of Nebraska-Lincoln</publisher>
-                <distributor>
-                    <name>Center for Digital Research in the Humanities</name>
-                    <address>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.57.27-29">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Lucile Aly, March 19, 1969</title>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2013</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
 <addrLine>319 Love Library</addrLine>
 <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 <addrLine>cdrh@unlnotes.unl.edu</addrLine>
 </address>
-                </distributor>
-                <pubPlace>Lincoln, Nebraska</pubPlace> 
-                <address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-                <idno>nei.j4c.57.27-29_0001-3</idno>
-                <availability>
-                    <p></p>
-                </availability>
-            </publicationStmt>
-            
-            <notesStmt><note>date from envelope</note></notesStmt>
-            
-            <sourceDesc>
-                <bibl>
-                    <author>Neihardt, John Gneisenau, 1881-1973</author>
-                    <title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
-                    <date when="1969-03">March, 1969</date>
-                    <extent>2 pages, plus envelope</extent>
-                </bibl>
-                <msDesc>
-                    <msIdentifier>
-                        <repository></repository>
-                        <idno></idno>
-                    </msIdentifier>
-                    <msContents>
-                        <p>2 hand-written pages, plus envelope</p>
-                    </msContents>
-                    <physDesc>
-                        <objectDesc>
-                            <supportDesc>
-                                <support></support>
-                                <extent>2 pages
-                                    <dimensions unit="mm"><height></height><width></width></dimensions>
-                                </extent>
-                                <condition>
-                                    <p></p></condition>
-                            </supportDesc>
-                        </objectDesc>
-                        <handDesc hands="1">
-                            <handNote xml:id="type"><p>Media: type</p></handNote>
-                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-                        </handDesc>
-                        <typeDesc>
-                            <typeNote><p></p></typeNote>
-                        </typeDesc>
-                    </physDesc>
-                    <history><origin></origin>
-                        <provenance></provenance>
-                        <acquisition></acquisition>
-                    </history>
-                </msDesc>
-                
-            </sourceDesc>
-        </fileDesc>
-        
-        <encodingDesc>
-            <editorialDecl>
-                <correction>
-                    <p></p>
-                </correction>
-                <normalization>
-                    <p></p>
-                </normalization>
-            </editorialDecl>
-        </encodingDesc>
-        
-        <profileDesc>
-            <textClass>
-                <keywords scheme="original" n="category">
-                    <term>Correspondence</term>
-                </keywords>
-                <keywords scheme="original" n="subcategory">
-                    <term>Business</term>
-                </keywords>
-                <keywords scheme="original" n="topic">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="keywords">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="people">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="places">
-                    <term></term>
-                </keywords>
-            </textClass>
-            <particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
-        </profileDesc>
-        
-        <revisionDesc>
-            <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
-            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
-            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
-            
-        </revisionDesc>
-    </teiHeader>
-    
-    <text>
-        <body>
-            
-            <div1 type="letter">
-                
-                <pb facs="nei.j4c.57.27-29_0001" />
-                
-                <fw type="curatorial">27</fw>
-                <note type="curatorial">Aly Collection
-                
-                277-2</note>
-                
-                <opener>
-                    5835 Vine St.
-                    
-                    <salute>Dear Lucile:</salute>
-                </opener>
-                
-                <p>You no doubt remember that Mayor <hi rend="caps">H. R.</hi> Lemly circulated a petition among the members of the Order of Indian Wars of the <hi rend="caps">U.S.</hi> urging an amendment of the Constitution. The purpose was to admit civilians as members, so that I would be eligible for membership.</p>
-                
-                <p>The petition was presented to me when I was taken in.
-                
-                    <pb facs="nei.j4c.57.27-29_0002"/>
-                    <fw type="curatorial">28</fw>
-                    <fw type="authorial">-2-</fw>
-                
-                It was signed by a considerable number of old Indian fighters, beginning with General Nelson <hi rend="caps">A.</hi> Miles.</p>
-                
-                <p>I have been hunting for that little document, and I've wondered if it may have been loaned to you. I'd give a lot to find it.</p>
-                
-                <p>I do hope you are well, and that you will write <unclear>soon</unclear>.</p>
-                <closer>
-                    <salute>With affection &#8212;</salute>
-                    
-                    <signed>John Neihardt</signed>
-                </closer>
-                
-                <postscript>
-                    <p>My eyes are doing their best with the new lenses</p>
-                </postscript>
-                
-            </div1>
-            
-            
-            <div1 type="envelope">
-                
-                <pb facs="nei.j4c.57.27-29_0003"/>
-                
-                <fw type="curatorial">29</fw>
-                
-                <ab type="return">John G. Neihardt
-                    <lb/>
-                5835 Vine Street
-                    <lb/>
-                Lincoln, Nebraska 68505</ab>
-                
-                <ab type="postmark">LINCOLN MAR 19 PM 1969 NEBR.</ab>
-                    <note type="authorial">==========
-                <hi rend="double underline">Air Mail</hi></note>
-                <figure>
-                    <figDesc>5 Cent Stamp</figDesc>
-                    <p>UNITED STATES WASHINGTON 5¢</p>
-                </figure>
-                <figure>
-                    <figDesc>5 Cent Stamp</figDesc>
-                    <p>UNITED STATES WASHINGTON 5¢</p>
-                </figure>
-                
-                <ab type="address">
-                    <address>
-                        <addrLine>Dr. Lucile Aly,</addrLine>
-                        <addrLine>1138 22nd Ave., East,</addrLine>
-                        <addrLine><hi rend="underline">Eugene, Oregon</hi></addrLine>
-                                                            <addrLine>97403</addrLine>
-                    </address>
-                </ab>
-                
-            </div1>
-        </body>
-        
-        <back></back>
-    </text>
+<idno>nei.j4c.57.27-29</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note>date from envelope</note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<title level="m" type="main">Letter from John G. Neihardt to Lucile Aly</title>
+<date when="1969-03-19">March 19, 1969</date>
+<extent>2 pages, plus envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>2 hand-written pages, plus envelope</p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Lemly, Henry Rowan, 1851-1925</term>
+<term>Miles, Nelson A.</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName>Lincoln (Neb.)</placeName>
+<date when="1969-03-19"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Aly, Lucile Folse, 1913-</persName>
+<placeName>Eugene (Or.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Aly, Lucile Folse, 1913-</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
+<change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4c.57.27-29_0001" />
+
+<fw type="curatorial">27</fw>
+<note type="curatorial">Aly Collection
+
+277-2</note>
+
+<opener>
+5835 Vine St.<lb/>
+
+<salute>Dear Lucile:</salute>
+</opener>
+
+<p>You no doubt remember that Major H. R. Lemly circulated a petition among the members of the Order of Indian Wars of the U.S. urging an amendment of the Constitution. The purpose was to admit civilians as members, so that I would be eligible for membership.</p>
+
+<p>The petition was presented to me when I was taken in.
+
+<pb facs="nei.j4c.57.27-29_0002"/>
+<fw type="curatorial">28</fw>
+<fw type="authorial">-2-</fw>
+
+It was signed by a considerable number of old Indian fighters, beginning with General Nelson A. Miles.</p>
+
+<p>I have been hunting for that little document, and I've wondered if it may have been loaned to you. I'd give a lot to find it.</p>
+
+<p>I do hope you are well, and that you will write <unclear>soon</unclear>.</p>
+<closer>
+<salute>With affection &#8212;</salute>
+
+<signed>John Neihardt</signed>
+</closer>
+
+<postscript>
+<p>My eyes are doing their best with the new lenses</p>
+</postscript>
+
+</div1>
+
+
+<div1 type="envelope">
+
+<pb facs="nei.j4c.57.27-29_0003"/>
+
+<fw type="curatorial">29</fw>
+
+<ab type="return">John G. Neihardt
+<lb/>
+5835 Vine Street
+<lb/>
+Lincoln, Nebraska 68505</ab>
+
+<ab type="postmark">LINCOLN MAR 19 PM 1969 NEBR.</ab>
+<note type="authorial">==========
+<hi rend="double underline">Air Mail</hi></note>
+<figure>
+<figDesc>5 Cent Stamp</figDesc>
+<p>UNITED STATES WASHINGTON 5¢</p>
+</figure>
+<figure>
+<figDesc>5 Cent Stamp</figDesc>
+<p>UNITED STATES WASHINGTON 5¢</p>
+</figure>
+
+<ab type="address">
+<address>
+<addrLine>Dr. Lucile Aly,</addrLine>
+<addrLine>1138 22nd Ave., East,</addrLine>
+<addrLine><hi rend="underline">Eugene, Oregon</hi></addrLine>
+<addrLine>97403</addrLine>
+</address>
+</ab>
+
+</div1>
+</body>
+
+<back></back>
+</text>
 </TEI>
