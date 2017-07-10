@@ -5,7 +5,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to Miss Seiler, November 2, 1969</title>
+<title type="main">Letter from John G. Neihardt to Grace Seiler, November 2, 1969</title>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
@@ -42,7 +42,7 @@
 <sourceDesc>
 <bibl>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
-<title level="m" type="main">Letter from John G. Neihardt to Miss Seiler</title>
+<title level="m" type="main">Letter from John G. Neihardt to Grace Seiler</title>
 <date when="1969-11-02">November 2, 1969</date>
 <extent>1 page</extent>
 </bibl>
@@ -54,44 +54,10 @@
 <msContents>
 <p>1 type-written page</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>1 page
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
-
 
 <profileDesc>
 <textClass>
@@ -104,31 +70,35 @@
 <keywords scheme="original" n="topic">
 <term></term>
 </keywords>
-<keywords scheme="lcsh" n="keywords">
-<term></term>
+<keywords scheme="lcsh" n="works">
+<term>John G. Neihardt: A Critical Biography</term>
+<term>All is but a beginning : youth remembered, 1881-1901</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Aly, Lucile Folse, 1913-</term>
+<term>Thompson, Lynn</term>
+<term>Thompson, Erica</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>Oregon</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Lincoln (Neb.)</placeName>
+<date when="1969-11-02"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
+<persName>Seiler, Grace</persName>
 <placeName></placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Seiler, Miss</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Seiler, Grace</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
 <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -147,8 +117,8 @@
 
 <opener>
 <dateline>
-5835 Vine Street
-Lincoln, Nebraska 68506
+5835 Vine Street<lb/>
+Lincoln, Nebraska 68506<lb/>
 November 2, 1969
 </dateline>
 
@@ -158,11 +128,11 @@ November 2, 1969
 
 <p>I know you must enjoy being in your childhood home, but I am sorry that you are having trouble finding someone to assist with the <add>"</add>chores<add>"</add>. I am wondering why you are in your childhood home if you have retired from teaching. It would interest me to know.</p>
 
-<p>You say you wish that I would publish the first part of my autobiography. I have decided not to do that because my biographe<add>y</add><sic>biography</sic>, <add>by</add> Dr. Lucile Aly of the University of Oregon, is scheduled for publication in 1970, and this should come out before my autobiography does. However, you will be interested in knowing that I am writing steadily and am very happy with the results I have been getting. I am now in the year 1898. The autobiography, as you know, is not a chronological record of events but rather a chain of recollections that seem to have special human meaning.</p>
+<p>You say you wish that I would publish the first part of my autobiography. I have decided not to do that because my biographe<add>y</add>, <add>by</add> Dr. Lucile Aly of the University of Oregon, is scheduled for publication in 1970, and this should come out before my autobiography does. However, you will be interested in knowing that I am writing steadily and am very happy with the results I have been getting. I am now in the year 1898. The autobiography, as you know, is not a chronological record of events but rather a chain of recollections that seem to have special human meaning.</p>
 
 <p>That is a good one about the Turkish farmers and the holes in the sky. It reminds me of the gardener who complained about Daylight Savings Time on the grounds that it caused his tomatoes to burn up because it gave them too much sunlight. Or how's this one&#8212;&#8212;which also appeared in the newspaper&#8212;&#8212;a woman actually wrote in the Letters to the Editor, back in the days when manned space flights were first seriously under consideration: "Why don't they stay home and watch television as God intended them to do?"</p>
 
-<p>My grandchildren are all fine. The one who named her doll "Grace Seiler"&#8212;&#8212;little Lynn&#8212;&#8212;was married last summer and is happily living in California. Or was it Erika<sic>Erica</sic>? She too is married and lives in St. Charles, Missouri.</p>
+<p>My grandchildren are all fine. The one who named her doll "Grace Seiler"&#8212;&#8212;little Lynn&#8212;&#8212;was married last summer and is happily living in California. Or was it Erika? She too is married and lives in St. Charles, Missouri.</p>
 
 <p>Thanks again for your letter. I hope you have a good winter.</p> <closer><salute>With all kind thoughts,</salute></closer>
 
