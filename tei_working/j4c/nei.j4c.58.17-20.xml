@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.58.17-20_0001-4">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.58.17-20">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, May 26, 1969</title>
+<title type="main">Letter from John G. Neihardt to Lucile Aly, May 26, 1969</title>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4c.58.17-20_0001-4</idno>
+<idno>nei.j4c.58.17-20</idno>
 <availability>
 <p></p>
 </availability>
@@ -42,56 +42,23 @@
 <sourceDesc>
 <bibl>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
-<title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
+<title level="m" type="main">Letter from John G. Neihardt to Lucile Aly</title>
 <date when="1969-05-26">May 26, 1969</date>
 <extent>5 pages, plus envelope</extent>
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
+<repository>Aly Collection</repository>
 <idno></idno>
 </msIdentifier>
 <msContents>
 <p>5 hand-written pages, plus envelope</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>5 pages
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
+
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
-
 
 <profileDesc>
 <textClass>
@@ -104,31 +71,33 @@
 <keywords scheme="original" n="topic">
 <term></term>
 </keywords>
-<keywords scheme="lcsh" n="keywords">
-<term></term>
+<keywords scheme="lcsh" n="works">
+<term>John G. Neihardt: A Critical Biography</term>
+<term>A Cycle of the West</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Nicoll, Bruce</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>Columbia (Mo.)</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Lincoln (Neb.)</placeName>
+<date when="1969-05-26"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<placeName></placeName>
+<persName>Aly, Lucile Folse, 1913-</persName>
+<placeName>Eugene (Or.)</placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Aly, Lucile Folse, 1913-</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
 <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -159,7 +128,7 @@
 
 actually <hi rend="underline">growing into the task</hi>, and you've come a long way.</p>
 
-<p>We are keeping a <hi rend="underline">suggestion</hi> and <hi rend="underline">error sheet</hi> separate from the <hi rend="caps">MS</hi>. It is not at all formidable &#8212; just an occasional slip, maybe, or in rare cases, perhaps a misleading slant given to a fact. The corrections are certainly <hi rend="underline">slight</hi>.</p>
+<p>We are keeping a <hi rend="underline">suggestion</hi> and <hi rend="underline">error sheet</hi> separate from the MS. It is not at all formidable &#8212; just an occasional slip, maybe, or in rare cases, perhaps a misleading slant given to a fact. The corrections are certainly <hi rend="underline">slight</hi>.</p>
 
 <p>I'm worried a bit about the publisher.
 
@@ -198,7 +167,7 @@ undoubtedly <hi rend="underline">increases</hi>.</p>
 
 <p>I had a fine experience in Columbia two weeks ago. I recited my poetry to 1500 Junior High youngsters (Jefferson Junior) and they actually gave me six (6) standing ovations! It was thrilling.</p>
 
-<p>This sort of thing happens very often &#8212; <hi rend="underline">always</hi> with a sizeable audience. I give my programs <hi rend="underline">by <unclear>memore</unclear><sic>memory</sic></hi> altogether now.</p>
+<p>This sort of thing happens very often &#8212; <hi rend="underline">always</hi> with a sizeable audience. I give my programs <hi rend="underline">by <choice><sic>memore</sic><corr>memory</corr></choice></hi> altogether now.</p>
 </postscript>
 
 </div1>

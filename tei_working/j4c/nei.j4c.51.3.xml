@@ -5,7 +5,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to Dr. Slade Kendrick, January 24, 1967</title>
+<title type="main">Letter from John G. Neihardt to Slade Kendrick, January 24, 1967</title>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
@@ -42,7 +42,7 @@
 <sourceDesc>
 <bibl>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
-<title level="m" type="main">Letter from John G. Neihardt to Dr. Slade Kendrick</title>
+<title level="m" type="main">Letter from John G. Neihardt to Slade Kendrick</title>
 <date when="1967-01-24">January 24, 1967</date>
 <extent>1 page</extent>
 </bibl>
@@ -54,44 +54,11 @@
 <msContents>
 <p>1 type-written page</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>1 page
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
+
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
-
 
 <profileDesc>
 <textClass>
@@ -108,27 +75,30 @@
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Tiemann, Norbert</term>
+<term>Petri, Hilda Neihardt</term>
+<term>Petri, Coralie</term>
+<term>Kendrick, Nita Collier</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>Lincoln (Neb.)</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Columbia (Mo.)</placeName>
+<date when="1967-01-24"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<placeName></placeName>
+<persName>Kendrick, M. Slade (Myron Slade)</persName>
+<placeName>Ithaca (N.Y.)</placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Kendrick, M. Slade</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Kendrick, M. Slade (Myron Slade)</persName></person></particDesc>
 </profileDesc>
 
-<revisionDesc>
+<revisionDesc><change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
 <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -147,10 +117,10 @@
  
  <opener>
  <dateline>
-Skyrim Farm  
-Rt. #7
-1 9 6 7  
-Columbia, Missouri 65201
+Skyrim Farm  <lb/>
+Rt. #7<lb/>
+1967 <lb/>
+Columbia, Missouri 65201<lb/>
 January 24
  </dateline>
 
@@ -165,12 +135,12 @@ January 24
 
 <p>On January 19th, I gave a program at the Governor's Mansion at Lincoln, Nebraska. It was sponsored by the Ladies' Legislative League, which is composed of the wives of all state officials. It was a very distinguished audience and the League turned out in full force. The new Governor (Tiemann) and the Chancellor of the University came to grace the occasion. I had my picture taken with the Governor's lady and also with the Governor. Hilda's little girl Coralie (age 14) went along to take care of me, and she did a fine job, being as much at ease in the Governor's Mansion as she is at home.</p>
 
-<p>We are having spring weather here after a very cold snap that lasted only a few days. Bud s<sic>Buds</sic> are beginning to show up and a syringa bush has little leaves, which should take my advice and go back to bed for awhile. We have had almost no snow thus far, and it has become very dry.</p>
+<p>We are having spring weather here after a very cold snap that lasted only a few days. Buds are beginning to show up and a syringa bush has little leaves, which should take my advice and go back to bed for awhile. We have had almost no snow thus far, and it has become very dry.</p>
 
 <p>Well, there is my news, and here is my affection for you and Nita.</p>
 <closer>
 <signed>John N.</signed>
-<signed>John Neihard t<sic>Neihardt</sic></signed>
+<signed>John Neihardt</signed>
 
 <note>JN:ENF</note>
 </closer>

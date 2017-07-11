@@ -54,43 +54,11 @@
 <msContents>
 <p>1 type-written page</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>1 page
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
+
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
 
 
 <profileDesc>
@@ -104,31 +72,34 @@
 <keywords scheme="original" n="topic">
 <term></term>
 </keywords>
-<keywords scheme="lcsh" n="keywords">
-<term></term>
+<keywords scheme="lcsh" n="works">
+<term>All is but a beginning : youth remembered, 1881-1901</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Sterling, George, 1869-1926</term>
+<term>Robinson, Edwin Arlington, 1869-1935</term>
+<term>Streamer, Volney, 1850-1915</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>New York</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Lincoln (Neb.)</placeName>
+<date when="1969-11-11"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<placeName></placeName>
+<orgName>Henry E Huntington Library</orgName>
+<placeName>San Marino (Calif.)</placeName>
 </correspAction>
 </correspDesc>
 <particDesc><person role="recipient"><persName>Librarian, Henry E. Huntington Library</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
 <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -147,14 +118,14 @@
 
 <opener>
 <dateline>
-5835 Vine Street
-Lincoln, Nebraska 68505
+5835 Vine Street<lb/>
+Lincoln, Nebraska 68505<lb/>
 November 11, 1969
 </dateline>
 
 <address>
 <addrLine>Librarian</addrLine>
-<addrLine>Henry <hi rend="caps">E</hi> Huntington Library</addrLine>
+<addrLine>Henry E Huntington Library</addrLine>
 <addrLine>1151 Oxford Road</addrLine>
 <addrLine>San Marino, California 91108</addrLine>
 </address>
@@ -163,10 +134,10 @@ November 11, 1969
 </opener>
 <p>I am very eager to find and obtain xerox copies of the following:
 <list>
-<item>1. Letters from George Sterling to John <hi rend="caps">G.</hi> Neihardt</item>
-<item>2. Letters from John <hi rend="caps">G.</hi> Neihardt to George Sterling</item>
-<item>3. Letters exchanged between John <hi rend="caps">G.</hi> Neihardt and Edwin Arlington Robinson</item>
-<item>4. Letters exchanged between John <hi rend="caps">G.</hi> Neihardt and Volney Streamer, curator of the Players Club, New York, during the first decade of the century.</item>
+<item>1. Letters from George Sterling to John G. Neihardt</item>
+<item>2. Letters from John G. Neihardt to George Sterling</item>
+<item>3. Letters exchanged between John G. Neihardt and Edwin Arlington Robinson</item>
+<item>4. Letters exchanged between John G. Neihardt and Volney Streamer, curator of the Players Club, New York, during the first decade of the century.</item>
 </list>
 </p>
 

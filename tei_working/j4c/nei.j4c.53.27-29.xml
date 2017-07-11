@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.53.27-29_0001-3">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.53.27-29">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, November 16, 1967</title>
+<title type="main">Letter from John G. Neihardt to Lucile Aly, November 16, 1967</title>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4c.53.27-29_0001-3</idno>
+<idno>nei.j4c.53.27-29</idno>
 <availability>
 <p></p>
 </availability>
@@ -42,7 +42,7 @@
 <sourceDesc>
 <bibl>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
-<title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
+<title level="m" type="main">Letter from John G. Neihardt to Lucile Aly</title>
 <date when="1967-11-16">November 16, 1967</date>
 <extent>2 pages, plus envelope</extent>
 </bibl>
@@ -54,44 +54,10 @@
 <msContents>
 <p>2 hand-written pages, plus envelope</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>2 pages
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="2">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
-
 
 <profileDesc>
 <textClass>
@@ -104,31 +70,40 @@
 <keywords scheme="original" n="topic">
 <term></term>
 </keywords>
-<keywords scheme="lcsh" n="keywords">
-<term></term>
+<keywords scheme="lcsh" n="works">
+<term>The Death of Crazy Horse</term>
+<term>The Vision of the Spirit World</term>
+<term>The Song of the Messiah</term>
+<term>Lyric and Dramatic Poems</term>
+<term>A Cycle of the West</term>
+<term>The Dawn Builder</term>
+<term>Black Elk Speaks</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Petri, Gail</term>
+<term>Aly, Bower, 1903-1977</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>Joplin (Mo.)</term>
+<term>London (England)</term>
+<term>Black Hills (S.D.)</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Columbia (Mo.)</placeName>
+<date when="1967-11-16"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<placeName></placeName>
+<persName>Aly, Lucile Folse, 1913-</persName>
+<placeName>Eugene (Or.)</placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Aly, Lucile Folse, 1913-</persName></person></particDesc>
 </profileDesc>
 
-<revisionDesc>
+<revisionDesc><change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
 <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -147,11 +122,11 @@
 
 <opener>
 <dateline>
-Skyrim Farm
-Rt. #7
-Columbia, Missouri 65201
-November 16
-1 9 6 7
+Skyrim Farm<lb/>
+Rt. #7<lb/>
+Columbia, Missouri 65201<lb/>
+November 16<lb/>
+1967
 </dateline>
 
 <salute>Dear Lucile:</salute>
@@ -164,7 +139,7 @@ November 16
 
 <p> When I was in the <hi rend="caps">BLACK HILLS</hi> district, I did a program for Black Hills State College. The whole student body came out, and that atmosphere of affection that I have mention<add>ed</add> to you before certainly developed in that crowd.</p>
 
-<p>You asked what has happened to the movie possibilities. It is too soon to know about this. By contract I conveyed a 5-yr. option on the movie rights of the <hi rend="caps">CYCLE</hi> to John Pennington, Inc., London. It is natural to suppose that they are working on the matter. If I hear anything, I' ll let you know. I wish that I could make a real chunk of money out of this, although I certainly don't expect it. If I did make money at this stage of the game, one thing I'd do would be this &#8212;&#8212; I'd buy at least
+<p>You asked what has happened to the movie possibilities. It is too soon to know about this. By contract I conveyed a 5-yr. option on the movie rights of the CYCLE to John Pennington, Inc., London. It is natural to suppose that they are working on the matter. If I hear anything, I' ll let you know. I wish that I could make a real chunk of money out of this, although I certainly don't expect it. If I did make money at this stage of the game, one thing I'd do would be this &#8212;&#8212; I'd buy at least
 
 <pb facs="nei.j4c.53.27-29_0002"/>
 <fw type="curatorial">28</fw>
@@ -172,7 +147,7 @@ November 16
 
 a semester for you, or maybe two semesters, so that you could devote all your time to the most important undertaking in your life thus far. I do believe that when you are an old woman, you will look back on this time and greatly begrudge these delays in realizing your project. I have noted with surprise for the past year or so that interest in my work springs up all over the country, here and there. Something is happening, and before you are through with this business, far more will happen; although I doubt that I shall be here to see. This does not seem to bother me, and I do feel sure in a way that is most convincing.</p>
 
-<p>I was glad to hear about the price asked for a copy of <hi rend="caps">THE DAWN BUILDER</hi>. Copies must be extremely scarce, as I, myself, had never seen one listed in a catalog. A year or so ago, a friend of mine bought one for fifteen or twenty dollars. It seemed a lot, but it's only a start. <hi rend="caps">BLACK ELK SPEAKS</hi> continues to rise, and several others are quoted at good premiums.</p>
+<p>I was glad to hear about the price asked for a copy of THE DAWN BUILDER. Copies must be extremely scarce, as I, myself, had never seen one listed in a catalog. A year or so ago, a friend of mine bought one for fifteen or twenty dollars. It seemed a lot, but it's only a start. BLACK ELK SPEAKS continues to rise, and several others are quoted at good premiums.</p>
 
 <p>Is there any possibility of your getting as much as a semester of free time? If any new arrangement of the sort could be made, you could count on my being present if you wanted me, to facilitate the correcting.</p>
 
@@ -187,7 +162,7 @@ a semester for you, or maybe two semesters, so that you could devote all your ti
 <postscript>
 <opener><hi rend="caps">P.</hi> s. &#8212;</opener> <p>On Sun. eve., Dec. 10th, I will give a program at Kearney State College on my <hi rend="underline">Cycle of the West</hi>. This paragraph is quoted from the letter: 
 <lb/>
-"We are holding an Interdisciplinary Conference on "Contemporary Trends in Literature and the Arts" sponsored by the <hi rend="caps">USOE</hi> Humanities and Social Sciences Development Program. We would like for you to talk on "The Cycle of the West"."</p>
+"We are holding an Interdisciplinary Conference on "Contemporary Trends in Literature and the Arts" sponsored by the USOE Humanities and Social Sciences Development Program. We would like for you to talk on "The Cycle of the West"."</p>
 </postscript>
 
 </div1>

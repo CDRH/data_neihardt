@@ -5,7 +5,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to Hilda, March 13, 1969</title>
+<title type="main">Letter from John G. Neihardt to Hilda Neihardt Petri, March 13, 1969</title>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
@@ -54,43 +54,10 @@
 <msContents>
 <p>1 type-written page</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>1 page
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
 
 
 <profileDesc>
@@ -104,31 +71,39 @@
 <keywords scheme="original" n="topic">
 <term></term>
 </keywords>
-<keywords scheme="lcsh" n="keywords">
-<term></term>
+<keywords scheme="lcsh" n="works">
+<term>When the Tree Flowered</term>
+<term>All is but a beginning : youth remembered, 1881-1901</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Madden, John G.</term>
+<term>Aly, Lucile Folse, 1913-</term>
+<term>Thompson, Erica</term>
+<term>DeWitt</term>
+<term>Neihardt, Alice</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>Eugene (Or.)</term>
+<term>Lincoln (Neb.)</term>
+<term>Columbia (Mo.)</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Lincoln (Neb.)</placeName>
+<date when="1969-03-13"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
+<persName>Petri, Hilda Neihardt</persName>
 <placeName></placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Hilda</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Petri, Hilda Neihardt</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
 <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -147,8 +122,8 @@
 
 <opener>
 <dateline>
-5835 Vine Street
-Lincoln, Nebraska 68505
+5835 Vine Street<lb/>
+Lincoln, Nebraska 68505<lb/>
 March 13, 1969
 </dateline>
 
@@ -157,9 +132,9 @@ March 13, 1969
 
 <p>I have been thinking that we should make an effort to interest some movie agent in my <hi rend="underline">When the Tree Flowered</hi>. As you know, it is ideal movie material, especially now that Indians are popular. It offers a complete Sioux story from boyhood and girlhood to maturity, and certainly it is romantic. It's a queer thing that no one has known of its value.</p>
 
-<p>I heard from John Maddon by phone this evening. He insists that I must let him know whnever I want to go any place, and there will be plane for me. I am considering taking up his offer for a flight to Eugene, Oregon, as I need desperately to have a talk with Lucile Aley<sic>Aly</sic>. John says he could get me there in an hour and forty-five minutes.from Lincoln. John and I have agreed to make the trip to Columbia in late May when Erica is married. I am to "give her away."</p>
+<p>I heard from John Maddon by phone this evening. He insists that I must let him know whnever I want to go any place, and there will be plane for me. I am considering taking up his offer for a flight to Eugene, Oregon, as I need desperately to have a talk with Lucile <choice><sic>Aley</sic><corr>Aly</corr></choice>. John says he could get me there in an hour and forty-five minutes.from Lincoln. John and I have agreed to make the trip to Columbia in late May when Erica is married. I am to "give her away."</p>
 
-<p>Do you have any way of learning the names of reputable movie agents? Do you think it might be all right to ask DeWitt too<sic>to</sic> help us in this, at the same time suggesting that he himself might be interested in <hi rend="underline">When the Tree Flowered</hi>?</p>
+<p>Do you have any way of learning the names of reputable movie agents? Do you think it might be all right to ask DeWitt <choice><sic>too</sic><corr>to</corr></choice> help us in this, at the same time suggesting that he himself might be interested in <hi rend="underline">When the Tree Flowered</hi>?</p>
 
 <p>I have just completed the first half of <hi rend="underline">The Old Man Remembers</hi> &#8212;&#8212; forty thousand words. I now see it, however, as a complete little book of about two hundred pages on my boyhood and early youth. It really is a complete thing and I judge from its effect on those who have heard it or read it that it does have quite a wallop. I am even thinking it might be well to offer it to a publisher. The Nebraska University Press of course will take it in a hurry, and I judge from the recent sucess of my books that I might have some bargaining power if they were given the book. I think it's pretty smart to consider the complete though shorter book. What do you think?</p>
 

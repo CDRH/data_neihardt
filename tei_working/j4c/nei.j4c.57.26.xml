@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.58.37">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.57.26">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to UPLI World Congress of Poets, July 3, 1969</title>
+<title type="main">Letter from John G. Neihardt to Tom, March 16, 1969</title>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
 <editionStmt>
 <edition>
-<date>2017</date>
+<date>2013</date>
 </edition>
 </editionStmt>
 <publicationStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4c.58.37</idno>
+<idno>nei.j4c.57.26</idno>
 <availability>
 <p></p>
 </availability>
@@ -42,8 +42,8 @@
 <sourceDesc>
 <bibl>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
-<title level="m" type="main">Letter from John G. Neihardt to UPLI World Congress of Poets</title>
-<date when="1969-07-03">July 3, 1969</date>
+<title level="m" type="main">Letter from John G. Neihardt to Tom</title>
+<date when="1969-03-16">March 16, 1969</date>
 <extent>1 page</extent>
 </bibl>
 <msDesc>
@@ -54,10 +54,22 @@
 <msContents>
 <p>1 type-written page</p>
 </msContents>
+
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
 
 <profileDesc>
 <textClass>
@@ -71,11 +83,16 @@
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="works">
-<term>Lyric and Dramatic Poems</term>
-<term>A Cycle of the West</term>
+<term>A Bundle of Myrrh</term>
+<term>Man-Song</term>
+<term>Boston Transcript</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term>Marcos, Ferdinand E. (Ferdinand Edralin), 1917-1989</term>
+<term>Rittenhouse, Jessie B. (Jessie Belle), 1869-1948</term>
+<term>Braithwaite, William Stanley, 1878-1962</term>
+<term>Pound, Ezra, 1885-1972</term>
+<term>Auslander, Joseph, 1897-1965</term>
+<term>Elaine</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
 <term></term>
@@ -85,14 +102,14 @@
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
 <placeName>Lincoln (Neb.)</placeName>
-<date when="1969-07-03"/>
+<date when="1969-03-16"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<orgName>UPLI World Congress of Poets</orgName>
-<placeName>Manila (Philippines)</placeName>
+<persName>Tom</persName>
+<placeName></placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>UPLI World Congress of Poets</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Tom</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
@@ -109,33 +126,29 @@
 
 <div1 type="letter">
 
-<pb facs="nei.j4c.58.37" />
+<pb facs="nei.j4c.57.26" />
 
-<fw type="curatorial">37</fw>
+<fw type="curatorial">26</fw>
 
 <opener>
 <dateline>
 5835 Vine Street<lb/>
 Lincoln, Nebraska 68505<lb/>
-July 3, 1969
+March 16, 1969
 </dateline>
 
-<address>
-<addrLine>UPLI World Congress of Poets Poetry Contests</addrLine>
-<addrLine>c/o Tambuli Philippines, Inc.</addrLine>
-<addrLine>Manila Hotel</addrLine>
-<addrLine>Manila, Philippines</addrLine>
-</address>
-
-<salute>Gentlemen:</salute>
+<salute>Dear Tom,</salute>
 </opener>
-<p>I am entering the poetry contest of UPLI, and I am <choice><sic>inclosing</sic><corr>enclosing</corr></choice> herewith the registration form and a bank draft for the registration fee of $75.00 At the same time I am sending by airmail two of my published volumes of verse, <hi rend="underline">A Cycle of the West</hi> and <hi rend="underline">Lyric and Dramatic Poems</hi>. I am also inclosing<sic>enclosing</sic> the biographical data in the form of a reprint from <hi rend="underline">Who's Who in America</hi> and the lists of honors and publications, with the two photographs you require of each contestant.</p>
 
-<p>I wish I could be with you at the World Congress of Poets, but, owing to previous commitments, it is impossible. I regret this more than I can say. I treasure so much the honor bestowed upon me by the UPLI in naming me Prairie Poet Laureate of America, along with the citation from President Marcos.</p>
+<p>We have been reading the extracts from reviews of <hi rend="underline">A Bundle of Myrrh</hi> in the back of <hi rend="underline">Man-Song</hi>. I had forgotten these extracts, although I believe at one time I did suggest that you read them. They all indicate the overwhelming consensus concerning the <hi rend="underline">Bundle of Myrrh</hi>, but the letter written by Jessie B. Rittenhouse is the most important comment. Jessie B. Rittenhouse was one of the two most important critics of American poetry at that time. The other was William Stanley Braithwaite of the <hi rend="underline">Boston Transcript</hi>. To be praised by these meant one had arrived. Don't quote the next sentence to your friends in the English department. Their error lies in the fact that they do not know what the mood of the time was and who were considered the most important critics. This is shown by the mention of Pound as though a young poet had to be accepted by Pound.</p>
+
+<p>I am hoping that Jessie Rittenhouse can do you some good. She certainly says a mouthful.</p>
+
+<p>I have just seen an old letter from Joseph Auslander about my poetry. He was himself a poet of importance and he was Professor of Poetry at Columbia University! I will send you a xeroxed copy of the letter later.</p>
+
+<p>Let me know how you are getting along with the dissertation.</p>
 <closer>
-<salute>With all kind thoughts.</salute>
-
-<salute>Sincerely yours,</salute>
+<salute>With all kind thoughts for you and Elaine,</salute>
 
 <note>JGN:fmb</note><signed>John G. Neihardt</signed>
 </closer>

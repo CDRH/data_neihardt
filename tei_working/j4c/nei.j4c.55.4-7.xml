@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.55.4-7_0001-4">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.55.4-7">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, April 15, 1968</title>
+<title type="main">Letter from John G. Neihardt to Lucile Aly, April 15, 1968</title>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
@@ -31,18 +31,18 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4c.55.4-7_0001-4</idno>
+<idno>nei.j4c.55.4-7</idno>
 <availability>
 <p></p>
 </availability>
 </publicationStmt>
 
-<notesStmt><note></note></notesStmt>
+<notesStmt><note>With enclosed press release.</note></notesStmt>
 
 <sourceDesc>
 <bibl>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
-<title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
+<title level="m" type="main">Letter from John G. Neihardt to Lucile Aly</title>
 <date when="1968-04-15">April 15, 1968</date>
 <extent>4 pages</extent>
 </bibl>
@@ -54,44 +54,11 @@
 <msContents>
 <p>4 hand-written pages</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>4 pages
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="2">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
+
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
-
 
 <profileDesc>
 <textClass>
@@ -104,31 +71,45 @@
 <keywords scheme="original" n="topic">
 <term></term>
 </keywords>
-<keywords scheme="lcsh" n="keywords">
-<term></term>
+<keywords scheme="lcsh" n="works">
+<term>A Cycle of the West</term>
+<term>Omaha World-Herald</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Weaver, John C. (John Carrier), 1915-</term>
+<term>Ellis, Elmer, 1901-1989</term>
+<term>Jefferson, Thomas, 1743-1826</term>
+<term>McConnell, Robert Earll</term>
+<term>Schwada, John W., 1919-1990</term>
+<term>Chapman, Carl H. (Carl Haley), 1915-1987</term>
+<term>Jenner, Edward, 1749–1823</term>
+<term>Lewis, Meriwether, 1774-1809</term>
+<term>Clark, William, 1770-1838</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>Lincoln (Neb.)</term>
+<term>Columbia (Mo.)</term>
+<term>Virginia</term>
+<term>Kentucky</term>
+<term>Nebraska</term>
+<term>Missouri</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
 <placeName></placeName>
-<date when="1900"/>
+<date when="1968-04-15"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
+<persName>Aly, Lucile Folse, 1913-</persName>
 <placeName></placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Aly, Lucile Folse, 1913-</persName></person></particDesc>
 </profileDesc>
 
-<revisionDesc>
+<revisionDesc><change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
 <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -148,7 +129,7 @@
 <opener>
 <salute>Dear Lucile:</salute>
 </opener>
-<p>How about my having <hi rend="caps">MS</hi> to check during May? I wish you &amp; I could be together while my eye is healing </p>
+<p>How about my having MS to check during May? I wish you &amp; I could be together while my eye is healing </p>
 
 <dateline>4-15-'68</dateline>
 
@@ -192,9 +173,9 @@ Jefferson Day Ceremonies
 
 <p>The award, established by the Robert Earll McConnell Foundation, is given to an individual in the University community who best exemplifies the attributes of Thomas Jefferson. The award comprises a citation and income from a $10,000 gift from the McConnell Foundation.</p>
 
-<p>Dr. John W. Schwada, <hi rend="caps">UMC</hi> chancellor, presided at the traditional observance, held each year near the Jefferson monument on the north side of Jesse Hall. Dr. Carl H. Chapman, the principal speaker, discussed "Jefferson in Science and Exploration."</p>
+<p>Dr. John W. Schwada, UMC chancellor, presided at the traditional observance, held each year near the Jefferson monument on the north side of Jesse Hall. Dr. Carl H. Chapman, the principal speaker, discussed "Jefferson in Science and Exploration."</p>
 
-<p>Dr. Chapman, who is professor of anthropology and director of archeology at <hi rend="caps">UMC</hi>, said that Jefferson was so outstanding as a political leader that his accomplishments in science and exploration have tended to be neglected.</p>
+<p>Dr. Chapman, who is professor of anthropology and director of archeology at UMC, said that Jefferson was so outstanding as a political leader that his accomplishments in science and exploration have tended to be neglected.</p>
 
 <note><hi rend="caps">L-68103-2</hi>(more)</note>
 
@@ -205,11 +186,11 @@ Jefferson Day Ceremonies
 <fw>Jefferson Day Ceremonies
 Page 2</fw>
 
-<p>"His application of science was a practical matter of useful application," Dr. Chapman said. "He invented the moldboard plow, the dry-dock used by our navy, a weather vane and ceiling dial for indoor wind observation, a clock that marked the days, a portable writing desk, a collapsible ladder and various items of furniture. He was particularly interested in agriculture and gardening and experimented with new plant<sic>plants</sic> and methods of cultivation." </p>
+<p>"His application of science was a practical matter of useful application," Dr. Chapman said. "He invented the moldboard plow, the dry-dock used by our navy, a weather vane and ceiling dial for indoor wind observation, a clock that marked the days, a portable writing desk, a collapsible ladder and various items of furniture. He was particularly interested in agriculture and gardening and experimented with new <choice><sic>plant</sic><corr>plants</corr></choice> and methods of cultivation." </p>
 
 <p>In the science of medicine, Jefferson's support of the introduction of the Jenner methods of smallpox vaccination forwarded the practice of vaccination in Virginia several years, the speaker said.</p>
 
-<p>Dr. Chapman said Jefferson was an amteur<sic>amateur</sic> archeologist, "but for his day surpassed any others in his scientific techniques in the excavation and interpretation of Indian mounds."</p>
+<p>Dr. Chapman said Jefferson was an <choice><sic>amteur</sic><corr>amateur</corr></choice> archeologist, "but for his day surpassed any others in his scientific techniques in the excavation and interpretation of Indian mounds."</p>
 
 <p>Dr. Chapman said Jefferson "is entitled to rank among the forerunners of the American school of anthropologists. He pointed to his studies of Indian languages and races, in addition to his acheological accomplishments. He also called Jefferson a pioneer in paleontology who promoted excavations and hired William Clark after his return from the famous Lewis and Clark expedition to dig up some of the bones at Big Bone Lick in Kentucky.</p>
 
@@ -222,7 +203,7 @@ Page 2</fw>
 <fw>Jefferson Day Ceremonies
 Page 3</fw>
 
-<p>Dr. Neihardt, poet, literary critic, authority on Indian<del>a</del> history, and teacher, is especially noted for his major work, "The Cycle of the West," which consists of five, book-length epic poems that he wrote over a 29-year period. He joined the faculty of <hi rend="caps">UMC</hi> in 1949, but gave up teaching a few years ago although his taped television lectures are still in use and he continues to meet individually with students. In recent months, however, he has been busy giving addresses at various functions in Missouri and nearby states.</p>
+<p>Dr. Neihardt, poet, literary critic, authority on Indian<del>a</del> history, and teacher, is especially noted for his major work, "The Cycle of the West," which consists of five, book-length epic poems that he wrote over a 29-year period. He joined the faculty of UMC in 1949, but gave up teaching a few years ago although his taped television lectures are still in use and he continues to meet individually with students. In recent months, however, he has been busy giving addresses at various functions in Missouri and nearby states.</p>
 
 <p>Dr. Neihardt became poet laureate of Nebraska by an act of its legislature in 1921. He was a longtime resident of that state before he came to Missouri. Last year, in a poll of Nebraska's college and university history professors conducted by the Omaha World-Herald, Dr. Neihardt was chosen one of the "Top 10" persons making significant contributions to the State of Nebraska.</p>
 

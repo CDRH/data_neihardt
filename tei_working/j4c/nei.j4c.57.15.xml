@@ -5,7 +5,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to Dr. Slade Kendrick, February 22, 1969</title>
+<title type="main">Letter from John G. Neihardt to Slade Kendrick, February 22, 1969</title>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
@@ -42,7 +42,7 @@
 <sourceDesc>
 <bibl>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
-<title level="m" type="main">Letter from John G. Neihardt to Dr. Slade Kendrick</title>
+<title level="m" type="main">Letter from John G. Neihardt to Slade Kendrick</title>
 <date when="1969-02-22">February 22, 1969</date>
 <extent>1 page</extent>
 </bibl>
@@ -54,44 +54,10 @@
 <msContents>
 <p>1 type-written page</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>1 page
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
-
 
 <profileDesc>
 <textClass>
@@ -104,31 +70,33 @@
 <keywords scheme="original" n="topic">
 <term></term>
 </keywords>
-<keywords scheme="lcsh" n="keywords">
-<term></term>
+<keywords scheme="lcsh" n="works">
+<term>All is but a beginning : youth remembered, 1881-1901</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Young, Myrtle</term>
+<term>Kendrick, Nita Collier</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>Missouri</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Lincoln (Neb.)</placeName>
+<date when="1969-02-22"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<placeName></placeName>
+<persName>Kendrick, M. Slade (Myron Slade)</persName>
+<placeName>Ithaca (N.Y.)</placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Kendrick, M. Slade</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Kendrick, M. Slade (Myron Slade)</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
 <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -148,8 +116,8 @@
 
 <opener>
 <dateline>
-5835 Vine Street
-Lincoln, Nebraska 68505
+5835 Vine Street<lb/>
+Lincoln, Nebraska 68505<lb/>
 February 22, 1969
 </dateline>
 
@@ -170,7 +138,7 @@ February 22, 1969
 
 <p>How is Nita? I often think of her too and hope she is well, still watching her birds. She and Mrs. Young would be good pals in the bird business.</p>
 
-<p>My little dog is trying to get me to do something different and Ican't<sic>I can't</sic> tell what it is. You know him I think&#8212;&#8212;my poodle? He is one of the best friends I have ever had and takes care of me day and night.</p>
+<p>My little dog is trying to get me to do something different and <choice><sic>Ican't</sic><corr>I can't</corr></choice> tell what it is. You know him I think&#8212;&#8212;my poodle? He is one of the best friends I have ever had and takes care of me day and night.</p>
 
 <p>We have had ten solid weeks of winter, but yesterday and today there has been some melting.</p>
 

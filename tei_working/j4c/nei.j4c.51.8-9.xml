@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.51.8-9_0001-2">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.51.8-9">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, February 28, 1967</title>
+<title type="main">Letter from John G. Neihardt to Lucile Aly, February 28, 1967</title>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
@@ -42,7 +42,7 @@
 <sourceDesc>
 <bibl>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
-<title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
+<title level="m" type="main">Letter from John G. Neihardt to Lucile Aly</title>
 <date when="1967-02-28">February 28, 1967</date>
 <extent>2 pages, plus envelope</extent>
 </bibl>
@@ -54,44 +54,11 @@
 <msContents>
 <p>2 type-written pages, plus envelope</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>2 pages
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
+
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
-
 
 <profileDesc>
 <textClass>
@@ -104,11 +71,16 @@
 <keywords scheme="original" n="topic">
 <term></term>
 </keywords>
-<keywords scheme="lcsh" n="keywords">
-<term></term>
+<keywords scheme="lcsh" n="works">
+<term>Bancroft Blade</term>
+<term>John G. Neihardt: A Critical Biography</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Neihardt, Enid</term>
+<term>Holm, Elmer E.</term>
+<term>Holm, Mrs. Elmer E.</term>
+<term>Aly, Stewart</term>
+<term>Aly, Bower, 1903-1977</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
 <term></term>
@@ -117,18 +89,18 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Columbia (Mo.)</placeName>
+<date when="1967-02-28"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<placeName></placeName>
+<persName>Aly, Lucile Folse, 1913-</persName>
+<placeName>Eugene (Or.)</placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Aly, Lucile Folse, 1913-</persName></person></particDesc>
 </profileDesc>
 
-<revisionDesc>
+<revisionDesc><change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
 <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -157,8 +129,8 @@
 
 <opener>
 <dateline>
-February 28
-1 9 6 7
+February 28<lb/>
+1967
 </dateline>
 
 <salute>Dear Lucile:</salute>
@@ -169,7 +141,7 @@ February 28
 
 <p>Of course I want to come when you can use me to the best advantage. If that is in April or May, I can arrange to suit your convenience.</p>
 
-<p>I note what you say about the Holm <hi rend="caps">MS</hi>. Yesterday I spent several hours in the Manuscripts Collection room looking for the Holm affair. No luck. I have told Mrs. Holm what you have said about the <hi rend="caps">MS</hi>, and I also relayed your question as to the files of the Bancroft Blade. Mrs. Holm has given me the address of a man who may have a copy of the Holm biography. In the <hi rend="caps">MSS</hi> room they can't imagine what could have happened to this <hi rend="caps">MS</hi>. If you can remember anything more about it, I wish you would tell me. The girl in the Collection room asked me to write you and asked if you had any memory as to the folder the <hi rend="caps">MS</hi> was in. It would probably be placed with related material, and that would help locate it if it is somehow hiding in the Collection here.</p>
+<p>I note what you say about the Holm MS. Yesterday I spent several hours in the Manuscripts Collection room looking for the Holm affair. No luck. I have told Mrs. Holm what you have said about the MS, and I also relayed your question as to the files of the Bancroft Blade. Mrs. Holm has given me the address of a man who may have a copy of the Holm biography. In the MSS room they can't imagine what could have happened to this MS. If you can remember anything more about it, I wish you would tell me. The girl in the Collection room asked me to write you and asked if you had any memory as to the folder the MS was in. It would probably be placed with related material, and that would help locate it if it is somehow hiding in the Collection here.</p>
 
 <p>I am glad to hear you will take account of all my corrections and suggestions. They are really necessary and you must know I am definitely on your side.</p> 
 
@@ -180,7 +152,7 @@ February 28
    
 <p>Hurrah for old Stewart! I like to think of him because he is fine all around. What a man he will make! Bless his heart!</p>
 
-<p>Hear's<sic>Here's</sic> an affectionate "arf" and two "woofs" for Jingle. I wish she could know Jacquot, because she would be cr- r -azy about him! He takes care of me night and day.</p>
+<p>Hear's an affectionate "arf" and two "woofs" for Jingle. I wish she could know Jacquot, because she would be cr- r -azy about him! He takes care of me night and day.</p>
 <closer>
 <salute>Affectionate thoughts for you and Bower.</salute>
 <signed>John</signed>

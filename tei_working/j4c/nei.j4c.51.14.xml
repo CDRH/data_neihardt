@@ -5,7 +5,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, March 30, 1967</title>
+<title type="main">Letter from John G. Neihardt to Lucile Aly, March 30, 1967</title>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
@@ -42,7 +42,7 @@
 <sourceDesc>
 <bibl>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
-<title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
+<title level="m" type="main">Letter from John G. Neihardt to Lucile Aly</title>
 <date when="1967-03-30">March 30, 1967</date>
 <extent>1 page</extent>
 </bibl>
@@ -54,44 +54,11 @@
 <msContents>
 <p>1 type-written page</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>1 page
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
+
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
-
 
 <profileDesc>
 <textClass>
@@ -108,27 +75,28 @@
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Richards, Tom</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>Eugene (Or.)</term>
+<term>Lincoln (Neb.)</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Columbia (Mo.)</placeName>
+<date when="1967-03-30"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
+<persName>Aly, Lucile Folse, 1913-</persName>
 <placeName></placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Aly, Lucile Folse, 1913-</persName></person></particDesc>
 </profileDesc>
 
-<revisionDesc>
+<revisionDesc><change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
 <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -157,8 +125,8 @@
 </fw>
 <opener>
 <dateline>
-March 30
-1 9 6 7   
+March 30<lb/>
+1967   
 </dateline>
 
 
@@ -166,7 +134,7 @@ March 30
 </opener>
 <p>Tom Richards was here briefly yesterday, and I gathered from what he said that in his letter to you he had made it seem, perhaps without intention, that he and I had definitely decided to go out to Eugene together sometime in April. My idea was that he would write to you and ask if you would be willing to let him see some of your sources for his dissertation, <hi rend="underline">if</hi> we came out together. What I mean to say here is that it is all up to you to say "no" or "yes". As I stated, I do feel sympathetic towards Tom. Please let me hear from you about this.</p>
 
-<p>I do wish you would write me about the corrected <hi rend="caps">MS</hi> I sent back to you. Has this been corrected for the final draft? I feel this ought to be ready when I come out.</p>
+<p>I do wish you would write me about the corrected MS I sent back to you. Has this been corrected for the final draft? I feel this ought to be ready when I come out.</p>
 <closer>
 <salute>With affectionate thoughts,</salute>
 

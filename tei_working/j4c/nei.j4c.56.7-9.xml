@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.56.7-9_0001-3">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.56.7-9">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, October 3, 1968</title>
+<title type="main">Letter from John G. Neihardt to Lucile Aly, October 3, 1968</title>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4c.56.7-9_0001-3</idno>
+<idno>nei.j4c.56.7-9</idno>
 <availability>
 <p></p>
 </availability>
@@ -42,7 +42,7 @@
 <sourceDesc>
 <bibl>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
-<title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
+<title level="m" type="main">Letter from John G. Neihardt to Lucile Aly</title>
 <date when="1968-10-03">October 3, 1968</date>
 <extent>4 pages, plus envelope</extent>
 </bibl>
@@ -54,44 +54,11 @@
 <msContents>
 <p>4 hand-written pages, plus envelope</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>4 pages
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
+
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
-
 
 <profileDesc>
 <textClass>
@@ -104,31 +71,34 @@
 <keywords scheme="original" n="topic">
 <term></term>
 </keywords>
-<keywords scheme="lcsh" n="keywords">
-<term></term>
+<keywords scheme="lcsh" n="works">
+<term>John G. Neihardt: A Critical Biography</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Young, Julius</term>
+<term>Young, Myrtle</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>Bancroft (Neb.)</term>
+<term>Bison (S.D.)</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Lincoln (Neb.)</placeName>
+<date when="1968-10-03"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<placeName></placeName>
+<persName>Aly, Lucile Folse, 1913-</persName>
+<placeName>Eugene (Or.)</placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Aly, Lucile Folse, 1913-</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
 <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -147,15 +117,15 @@
 
 <opener>
 <dateline>
-5835 Vine St,
-Lincoln, Neb.
+5835 Vine St,<lb/>
+Lincoln, Neb.<lb/>
 
 10-3-'68.
 </dateline>
 
 <salute>Dear Lucile:</salute>
 </opener>
-<p>The <hi rend="caps">MS</hi> was read aloud to me again last evening. I wanted to enjoy it again and also to make sure I marked the few minor errors. They were marked by the Youngs, but I dictated all of them.</p>
+<p>The MS was read aloud to me again last evening. I wanted to enjoy it again and also to make sure I marked the few minor errors. They were marked by the Youngs, but I dictated all of them.</p>
 
 <p>We three were delighted with the reading! Lucile,
 
@@ -168,7 +138,7 @@ it's a heluva good job of writing, critical analysis, appreciation of values. If
 <pb facs="nei.j4c.56.7-9_0002a"/>
 <fw type="authorial">-3</fw>
  
-"something" is increasing steadily. It seems to be wide-spread<sic>widespread</sic>, and the <add>general</add> attitude is much like what grows up when a man is dead, but whose work is being revived. It's very much in evidence locally too &#8212; but our correspondence shows how wide-spread<sic>widespread</sic> it is. We are having a tough time keeping
+"something" is increasing steadily. It seems to be wide-spread, and the <add>general</add> attitude is much like what grows up when a man is dead, but whose work is being revived. It's very much in evidence locally too &#8212; but our correspondence shows how wide-spread it is. We are having a tough time keeping
 
 <pb facs="nei.j4c.56.7-9_0002b"/>
 <fw type="authorial">-4-</fw>
@@ -181,7 +151,7 @@ up with letters!</p>
 <closer>
 <salute>Love to you, dear Lady!</salute>
 
-<signed>&#8212;<unclear/></signed>
+<signed>&#8212;<unclear>Gaki</unclear></signed>
 </closer>
 
 <note type="authorial">Fine time at Bison, <hi rend="caps">S. D.</hi> <unclear>They</unclear> brought all the school kids in by bus! It was thrilling, and they came across!</note>
@@ -211,7 +181,7 @@ up with letters!</p>
 </ab>
 
 <ab type="return">
-Neihardt
+Neihardt<lb/>
 Mr. and Mrs. Julius D. Young   
 <lb/>
 5835 Vine Street

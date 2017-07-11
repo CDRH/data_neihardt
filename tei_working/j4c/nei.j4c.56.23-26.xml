@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.56.23-26_0001-4">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.56.23-26">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, December 8, 1968</title>
+<title type="main">Letter from John G. Neihardt to Lucile Aly, December 8, 1968</title>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4c.56.23-26_0001-4</idno>
+<idno>nei.j4c.56.23-26</idno>
 <availability>
 <p></p>
 </availability>
@@ -42,7 +42,7 @@
 <sourceDesc>
 <bibl>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
-<title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
+<title level="m" type="main">Letter from John G. Neihardt to Lucile Aly</title>
 <date when="1968-12-08">December 8, 1968</date>
 <extent>6 pages, plus envelope</extent>
 </bibl>
@@ -54,44 +54,10 @@
 <msContents>
 <p>6 hand-written pages, plus envelope</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>6 pages
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
-
 
 <profileDesc>
 <textClass>
@@ -104,31 +70,35 @@
 <keywords scheme="original" n="topic">
 <term></term>
 </keywords>
-<keywords scheme="lcsh" n="keywords">
-<term></term>
+<keywords scheme="lcsh" n="works">
+<term>800 Rubles</term>
+<term>John G. Neihardt: A Critical Biography</term>
+<term>All is but a beginning : youth remembered, 1881-1901</term>
+<term>Neihardt: A Journey Home</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Folse, Charles D., 1881-1968</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>Grand Island (Neb.)</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Lincoln (Neb.)</placeName>
+<date when="1968-12-08"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<placeName></placeName>
+<persName>Aly, Lucile Folse, 1913-</persName>
+<placeName>Eugene (Or.)</placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Aly, Lucile Folse, 1913-</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
 <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -147,15 +117,15 @@
 
 <opener>
 <dateline>
-5835 Vine St.,
-Lincoln, Neb,
+5835 Vine St.,<lb/>
+Lincoln, Neb,<lb/>
 
 12-8-'68
 </dateline>
 
 <salute>Dear Lucile:</salute>
 </opener>
-<p>I am wondering <hi rend="underline">and</hi> wondering how things are with you and your father and the <hi rend="caps">MS</hi>.</p>
+<p>I am wondering <hi rend="underline">and</hi> wondering how things are with you and your father and the MS.</p>
 
 <p>Everything goes well here. So much has happened &#8212; and is happening. I gave a program at the Phi Beta Kappa annual banquet here on Wed. evening. The dining room was packed with alumni, students, and faculty &#8212; a <del>distinguish</del> distinguished audience. 
 
@@ -197,7 +167,7 @@ the two books will supplement each other!</p>
 
 <p>The 1-hr. <hi rend="caps">TV</hi> program entitled <hi rend="underline">Neihardt: A Journey Home</hi>, will be run on my birthday. The Director is lyrical in praise of it. He says he is "proud" of it.</p>
 
-<p>My Creative Writing <hi rend="caps">TV</hi> program pleased people over the state.</p>
+<p>My Creative Writing TV  program pleased people over the state.</p>
 
 <p>The Director here said he may be able to get my 1-hr program on a national hook-up</p>
 
@@ -206,7 +176,7 @@ the two books will supplement each other!</p>
 <pb facs="nei.j4c.56.23-26_0004a"/>
 <fw type="curatorial">26</fw>
 
-<opener><hi rend="underline"><hi rend="caps">P. S.</hi></hi></opener>   
+<p><hi rend="underline">P. S.</hi>   </p>
 
 <p>I've done a Xmas <hi rend="caps">TV</hi> show (1/2 hr) and one for Xmas too.</p>
 </postscript>

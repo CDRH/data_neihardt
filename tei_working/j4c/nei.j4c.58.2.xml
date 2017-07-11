@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.58.37">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.58.2">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to UPLI World Congress of Poets, July 3, 1969</title>
+<title type="main">Letter from John G. Neihardt to J. Golden Taylor, May 1, 1969</title>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4c.58.37</idno>
+<idno>nei.j4c.58.2</idno>
 <availability>
 <p></p>
 </availability>
@@ -42,8 +42,8 @@
 <sourceDesc>
 <bibl>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
-<title level="m" type="main">Letter from John G. Neihardt to UPLI World Congress of Poets</title>
-<date when="1969-07-03">July 3, 1969</date>
+<title level="m" type="main">Letter from John G. Neihardt to J. Golden Taylor</title>
+<date when="1969-05-01">May 1, 1969</date>
 <extent>1 page</extent>
 </bibl>
 <msDesc>
@@ -54,10 +54,12 @@
 <msContents>
 <p>1 type-written page</p>
 </msContents>
+
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
+
 
 <profileDesc>
 <textClass>
@@ -71,11 +73,12 @@
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="works">
-<term>Lyric and Dramatic Poems</term>
-<term>A Cycle of the West</term>
+<term>The Blue God: An Epic of Mesa Verde</term>
+<term>All is but a beginning : youth remembered, 1881-1901</term>
+<term>John G. Neihardt: A Critical Biography</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term>Marcos, Ferdinand E. (Ferdinand Edralin), 1917-1989</term>
+<term></term>
 </keywords>
 <keywords scheme="lcsh" n="places">
 <term></term>
@@ -85,14 +88,14 @@
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
 <placeName>Lincoln (Neb.)</placeName>
-<date when="1969-07-03"/>
+<date when="1969-05-01"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<orgName>UPLI World Congress of Poets</orgName>
-<placeName>Manila (Philippines)</placeName>
+<persName>Taylor, J. Golden</persName>
+<placeName>Fort Collins (Colo.)</placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>UPLI World Congress of Poets</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Taylor, J. Golden</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
@@ -109,36 +112,38 @@
 
 <div1 type="letter">
 
-<pb facs="nei.j4c.58.37" />
+<pb facs="nei.j4c.58.2" />
 
-<fw type="curatorial">37</fw>
+
+<fw type="curatorial">2</fw>
 
 <opener>
 <dateline>
 5835 Vine Street<lb/>
 Lincoln, Nebraska 68505<lb/>
-July 3, 1969
+May 1, 1969
 </dateline>
+   
+   <address>
+<addrLine>Mr. J. Golden Taylor, Editor</addrLine>
+<addrLine><hi rend="underline">Western American Literature</hi></addrLine>
+<addrLine>Colorado State University</addrLine>
+<addrLine>Fort Collins, Colorado 80521</addrLine>
+   </address>
 
-<address>
-<addrLine>UPLI World Congress of Poets Poetry Contests</addrLine>
-<addrLine>c/o Tambuli Philippines, Inc.</addrLine>
-<addrLine>Manila Hotel</addrLine>
-<addrLine>Manila, Philippines</addrLine>
-</address>
-
-<salute>Gentlemen:</salute>
+<salute>Dear Mr. Taylor:</salute>
 </opener>
-<p>I am entering the poetry contest of UPLI, and I am <choice><sic>inclosing</sic><corr>enclosing</corr></choice> herewith the registration form and a bank draft for the registration fee of $75.00 At the same time I am sending by airmail two of my published volumes of verse, <hi rend="underline">A Cycle of the West</hi> and <hi rend="underline">Lyric and Dramatic Poems</hi>. I am also inclosing<sic>enclosing</sic> the biographical data in the form of a reprint from <hi rend="underline">Who's Who in America</hi> and the lists of honors and publications, with the two photographs you require of each contestant.</p>
+<p>You have made me unhappy, although with the best intentions.I should like very much to know <hi rend="underline">The Blue God</hi> and review it, but I really should not undertake it now. During the past fall and winter I have had two cataract operations, and cannot take on any considerable amount of reading. Also within the next week I will have the complete manuscript of my biography, and this will require all my attention for some time. If I have any time left over, I feel obliged to continue work on my autobiography.</p>
 
-<p>I wish I could be with you at the World Congress of Poets, but, owing to previous commitments, it is impossible. I regret this more than I can say. I treasure so much the honor bestowed upon me by the UPLI in naming me Prairie Poet Laureate of America, along with the citation from President Marcos.</p>
+<p>Really, I am very sorry that I must refuse.</p>
+
+<p>I know your magazine and have high regards for it. Truly your English Department has reason to be proud of it.</p>
 <closer>
-<salute>With all kind thoughts.</salute>
+<salute>With all kind thoughts,</salute>
 
-<salute>Sincerely yours,</salute>
-
-<note>JGN:fmb</note><signed>John G. Neihardt</signed>
+<note>JGN:fmb </note>   <signed>John G. Neihardt</signed>   
 </closer>
+
 
 </div1>
 </body>

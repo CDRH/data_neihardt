@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.53.30-31_0001">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.57.30">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, November 17, 1967</title>
+<title type="main">Letter from John G. Neihardt to Michael J. Koury, March 20, 1969</title>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
 <editionStmt>
 <edition>
-<date>2017</date>
+<date>2013</date>
 </edition>
 </editionStmt>
 <publicationStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4c.53.30-31_0001</idno>
+<idno>nei.j4c.57.30</idno>
 <availability>
 <p></p>
 </availability>
@@ -42,9 +42,9 @@
 <sourceDesc>
 <bibl>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
-<title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
-<date when="1967-11-17">November 17, 1967</date>
-<extent>2 pages</extent>
+<title level="m" type="main">Letter from John G. Neihardt to Michael J. Koury</title>
+<date when="1969-03-20">March 20, 1969</date>
+<extent>1 page</extent>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -52,46 +52,24 @@
 <idno></idno>
 </msIdentifier>
 <msContents>
-<p>2 hand-written pages</p>
+<p>1 type-written page</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>2 pages
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
+
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
 
-
-
-
-
-
-
-
-
-
-
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
 
 <profileDesc>
 <textClass>
@@ -104,8 +82,8 @@
 <keywords scheme="original" n="topic">
 <term></term>
 </keywords>
-<keywords scheme="lcsh" n="keywords">
-<term></term>
+<keywords scheme="lcsh" n="works">
+<term>Diaries of the Little Big Horn</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
 <term></term>
@@ -117,18 +95,19 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Lincoln (Neb.)</placeName>
+<date when="1969-03-20"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
+<persName>Koury, Michael J.</persName>
 <placeName></placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Koury, Michael J.</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
 <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -141,29 +120,28 @@
 
 <div1 type="letter">
 
-<pb facs="nei.j4c.53.30-31_0001a" />
-
-
-<note type="curatorial">419-1</note>
-
-<opener>
-<dateline>Nov. 17, '67</dateline>
-
-<salute><hi rend="underline">Dear</hi> Lucile:</salute>
-</opener>
-<p>This is what I did not say in my dictated letter enclosed herewith: yes, "pallid" <hi rend="underline">is</hi> the word for my reference to our "old friendship". The fact is that I have loved you a long while, and, at the same time,
-
-<pb facs="nei.j4c.53.30-31_0001b"/>
-<fw type="authorial">-2-</fw>
-
-as you say, I have <hi rend="underline">liked you too</hi>.</p>
-
-<p>It is in the <hi rend="underline">Pattern of Things</hi> that we should be associated in the work undertaken long ago.</p>
-<closer>
-<signed>&#8212; John</signed>
-</closer>
+<pb facs="nei.j4c.57.30" />
 
 <fw type="curatorial">30</fw>
+
+<opener>
+<dateline>
+5835 Vine Street<lb/>
+Lincoln, Nebraska 68505<lb/>
+March 20, 1969
+</dateline>
+
+<salute>Dear Captain Koury,</salute>
+</opener>
+
+<p>It was good to hear from you and to know that you are planning to be in Lincoln before too long, when you will come to see me. I look forward to that time eagerly. We have a good deal to talk about, I know. I pleases me greatly to know that you are preparing a second printing of <choice><sic>youg</sic><corr>your</corr></choice> Bighorn Diaries. That first limited edition is a beautiful one, and I prize my copy.</p>
+
+<p>Do you happen to know anything about the Order of Indian Wars of the United States? It is no longer in existence, but it was a distinguished organization while it lasted. I am trying to get in touch withsomeone who knows where the archives of the Order are. We'll talk about this when you come.</p>
+<closer>
+<salute>Kindest thoughts,</salute>
+
+<note>JGN;fmt</note><signed>John G. Neihardt</signed>
+</closer>
 
 </div1>
 </body>

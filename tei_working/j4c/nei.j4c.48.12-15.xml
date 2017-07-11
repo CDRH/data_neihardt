@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.48.12-15_0001-4">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.48.12-15">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, February 26, 1966</title>
+<title type="main">Letter from John G. Neihardt to Lucile Aly, February 26, 1966</title>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4c.48.12-15_0001-4</idno>
+<idno>nei.j4c.48.12-15</idno>
 <availability>
 <p></p>
 </availability>
@@ -42,7 +42,7 @@
 <sourceDesc>
 <bibl>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
-<title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
+<title level="m" type="main">Letter from John G. Neihardt to Lucile Aly</title>
 <date when="1966-02-26">February 26, 1966</date>
 <extent>6 pages</extent>
 </bibl>
@@ -54,43 +54,11 @@
 <msContents>
 <p>6 hand-written pages</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>6 pages
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
+
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
 
 
 <profileDesc>
@@ -104,31 +72,43 @@
 <keywords scheme="original" n="topic">
 <term></term>
 </keywords>
-<keywords scheme="lcsh" n="keywords">
-<term></term>
+<keywords scheme="lcsh" n="works">
+<term>The Song of the Indian Wars</term>
+<term>The Divine Enchantment</term>
+<term>John G. Neihardt: A Critical Biography</term>
+<term>The Song of the Messiah</term>
+<term>The Twilight of the Sioux</term>
+<term>Black Elk Speaks</term>
+<term>The Minneapolis Journal</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Bennett, Mildred R.</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>Branson (Mo.)</term>
+<term>Nebraska</term>
+<term>Kansas</term>
+<term>Springfield (Mo.)</term>
+<term>Lincoln (Neb.)</term>
+<term>St. Paul (Minn.)</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
 <placeName></placeName>
-<date when="1900"/>
+<date when="1966-02-26"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
+<persName>Aly, Lucile Folse, 1913-</persName>
 <placeName></placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Aly, Lucile Folse, 1913-</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
 <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -163,7 +143,7 @@
 
 correct the <hi rend="caps">MS</hi> you gave me about two years ago? There was some excellent work in that installment too, but the corrections were very much needed, being mostly concerned with facts.</p>
 
-<p>I've just heard that Mildred Bennett has had a nervous breakdown! It seems to be quite serious. This is <hi rend="underline">such a pity</hi>, and it saddens me, deeply. I do hope to hear something encouraging from her husbad<sic>husband</sic>.</p>
+<p>I've just heard that Mildred Bennett has had a nervous breakdown! It seems to be quite serious. This is <hi rend="underline">such a pity</hi>, and it saddens me, deeply. I do hope to hear something encouraging from her <choice><sic>husbad</sic><corr>husband</corr></choice>.</p>
 
 <p>Wayne State College wants me to give a
    
@@ -197,7 +177,7 @@ it will be a whale!</p>
 <postscript>
 <p>Just heard that <hi rend="underline">Black Elk Speaks</hi> is appearing in Italian translation in Italy! I've received advance royalty.</p>	
 
-<p>Also, I've just been invited to lecture at Kansas State University <del/> in May. They tell me, incidentally, that the paper-backs<sic>paperbacks</sic> have greatly increased interest in my work, and they indicate <del>"widespread"</del>"wide interest" at <hi rend="caps">K. U.</hi>.</p>
+<p>Also, I've just been invited to lecture at Kansas State University <del/> in May. They tell me, incidentally, that the paper-backs have greatly increased interest in my work, and they indicate <del>"widespread"</del>"wide interest" at <hi rend="caps">K. U.</hi>.</p>
 
 <p>Also, I'm to lecture in Springfield next July <del>&#8212; $250 &amp;</del></p>
 </postscript>

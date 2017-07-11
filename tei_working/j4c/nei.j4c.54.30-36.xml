@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.54.30-36_0001-7">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.54.30-36">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, March 30, 1968</title>
+<title type="main">Letter from John G. Neihardt to Lucile Aly, March 30, 1968</title>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4c.54.30-36_0001-7</idno>
+<idno>nei.j4c.54.30-36</idno>
 <availability>
 <p></p>
 </availability>
@@ -42,7 +42,7 @@
 <sourceDesc>
 <bibl>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
-<title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
+<title level="m" type="main">Letter from John G. Neihardt to Lucile Aly</title>
 <date when="1968-03-30">March 30, 1968</date>
 <extent>8 pages, plus envelope</extent>
 </bibl>
@@ -54,44 +54,11 @@
 <msContents>
 <p>8 hand-written pages, plus envelope</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>8 pages
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
+
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
-
 
 <profileDesc>
 <textClass>
@@ -104,31 +71,39 @@
 <keywords scheme="original" n="topic">
 <term></term>
 </keywords>
-<keywords scheme="lcsh" n="keywords">
-<term></term>
+<keywords scheme="lcsh" n="works">
+<term>John G. Neihardt: A Critical Biography</term>
+<term>Omaha World-Herald</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Young, Juilus</term>
+<term>Young, Myrtle</term>
+<term>Ellis, Elmer, 1901-1989</term>
+<term>Aly, Bower, 1903-1977</term>
+<term>O'Neill, Rose Cecil, 1874-1944</term>
+<term>Szasz, Frank B.</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>Nebraska</term>
+<term>Branson (Mo.)</term>
+<term>Bancroft (Neb.)</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Lincoln (Neb.)</placeName>
+<date when="1968-03-30"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<placeName></placeName>
+<persName>Aly, Lucile Folse, 1913-</persName>
+<placeName>Eugene (Or.)</placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Aly, Lucile Folse, 1913-</persName></person></particDesc>
 </profileDesc>
 
-<revisionDesc>
+<revisionDesc><change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
 <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -148,8 +123,8 @@
 
 <opener>
 <dateline>
-5835 Vine Street
-Lincoln, Neb.
+5835 Vine Street<lb/>
+Lincoln, Neb.<lb/>
 March 30, '68
 </dateline>
 
@@ -164,7 +139,7 @@ either cheek, as you like; but I suggest reverently that you place it right on y
 
 <p>It's thrilling news that you are really nearing the end.</p>
 
-<p>Here is some important news in connection with the final stage of the <hi rend="caps">MS</hi>.</p>
+<p>Here is some important news in connection with the final stage of the MS.</p>
 
 <p>On April 29th I will have an operation on my right eye.
 
@@ -172,14 +147,14 @@ either cheek, as you like; but I suggest reverently that you place it right on y
 <pb facs="nei.j4c.54.30-36_0002a"/>
 <fw type="authorial">-3-</fw>
 
-I will be out of the hospital on May 5th. Then I expect to be in condition to <hi rend="underline">hear</hi> the parts I need to know, and make any comment that may be necessary. If I am here &#8212; and that is the plan now &#8212; then <hi rend="caps">J. D.</hi> Young will read to me and write the comment on the <hi rend="double underline">back</hi> of the page
+I will be out of the hospital on May 5th. Then I expect to be in condition to <hi rend="underline">hear</hi> the parts I need to know, and make any comment that may be necessary. If I am here &#8212; and that is the plan now &#8212; then J. D. Young will read to me and write the comment on the <hi rend="double underline">back</hi> of the page
 
 <pb facs="nei.j4c.54.30-36_0002b"/>
 <fw type="authorial">-4-</fw>
 
 corrected.</p>
 
-<p>I've been swamped with correspondence altho<sic>although</sic> I have a secretary come in once a week. Then Mrs. Young "pinch hits". She has written you the news. Isn't it bully about the Thomas Jefferson Award? Dr. Ellis wrote me that the whole committee was happy about the <del>choice</del><add>choice.</add>. 
+<p>I've been swamped with correspondence altho I have a secretary come in once a week. Then Mrs. Young "pinch hits". She has written you the news. Isn't it bully about the Thomas Jefferson Award? Dr. Ellis wrote me that the whole committee was happy about the <del>choice</del><add>choice.</add>. 
 
 <hi rend="double underline">And</hi> isn't it nice about the final
 
@@ -227,7 +202,7 @@ I don't base anything in it yet.</p>
 
 some money!</p>
 
-<p>I wish there were some way for me to be with you and read the <hi rend="caps">MS</hi> together.</p>
+<p>I wish there were some way for me to be with you and read the MS together.</p>
 
 <p>The Neihardt Foundation at Bancroft is flourishing &amp; seems <hi rend="underline">near to <unclear>big</unclear> money</hi> from a foundation. Yes, the annual pageant will be given on the 1st Sunday in Aug.</p>
 

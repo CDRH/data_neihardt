@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.55.8-9_0001-2">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.55.8-9">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4c.55.8-9_0001-2</idno>
+<idno>nei.j4c.55.8-9</idno>
 <availability>
 <p></p>
 </availability>
@@ -54,43 +54,11 @@
 <msContents>
 <p>2 type-written pages</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>2 pages
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
+
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
 
 
 <profileDesc>
@@ -104,11 +72,11 @@
 <keywords scheme="original" n="topic">
 <term></term>
 </keywords>
-<keywords scheme="lcsh" n="keywords">
-<term></term>
+<keywords scheme="lcsh" n="works">
+<term>Black Elk Speaks</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Rodnick, Judith</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
 <term></term>
@@ -117,18 +85,18 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Lincoln (Neb.)</placeName>
+<date when="1968-04-22"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<placeName></placeName>
+<orgName>Julius Beltz Verlag</orgName>
+<placeName>Weinheim (Germany)</placeName>
 </correspAction>
 </correspDesc>
 <particDesc><person role="recipient"><persName>Julius Beltz Verlag</persName></person></particDesc>
 </profileDesc>
 
-<revisionDesc>
+<revisionDesc><change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
 <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -160,7 +128,7 @@ April 22, 1968
 </opener>
 <p>I just received from William Morrow &amp; Co., Inc., New York, your request to include Hohen Pferds Brautwerbung from Schwarzer Hirsch, Ich Rufe Mein Volk (Black Elk Speaks) in an anthology. Your inquiry was forwarded to me, as I now control the rights which you requested.</p>
 
-<p>I shall be pleased to have this story included in your anthology and accept the terms set forth in your offer. I understand that you will pay <hi rend="caps">DM</hi> 10 per page, payable on publication.</p>
+<p>I shall be pleased to have this story included in your anthology and accept the terms set forth in your offer. I understand that you will pay DM 10 per page, payable on publication.</p>
 
 <p>I look forward to hearing from you.</p>
 <closer>
@@ -206,7 +174,7 @@ ________________________________________________________________________________
 <item>Sales price: not known</item>
 <item>Proportion of book occupied by above:not known</item>
 <item>Original publisher:  Otto Walter Verlag, Olten</item>
-<item>Division:They pay<add>, of course,</add> seperately for the use of Walter's translation.</item>
+<item>Division:They pay<add>, of course,</add> separately for the use of Walter's translation.</item>
 <item>Publication scheduled for</item>
 <item>Other contributors : not known.</item>
 </list>
@@ -215,14 +183,14 @@ ________________________________________________________________________________
 
 un</p>  <note>N</note>
  
-<opener>
+<p>
 <address>
 <addrLine><hi rend="caps">WILLIAM MORROW &amp; CO., INC. . PUBLISHERS</hi></addrLine>
 <addrLine>425 Park Avenue South. New York, <hi rend="caps">N. Y.</hi> 10016</addrLine>
 </address>
 
 <hi rend="caps">FORWARDED MAIL</hi>
-</opener>
+</p>
 
 
 <p>The attached inquiry is forwarded to you since you control the rights requested. Kindly mention in your reply that this letter was forwarded to you by William Morrow &amp; Co., Inc.</p>

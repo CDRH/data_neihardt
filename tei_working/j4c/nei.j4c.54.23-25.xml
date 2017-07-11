@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.54.23-25_0001-3">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.54.23-25">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, March 13, 1968</title>
+<title type="main">Letter from John G. Neihardt to Lucile Aly, March 13, 1968</title>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4c.54.23-25_0001-3</idno>
+<idno>nei.j4c.54.23-25</idno>
 <availability>
 <p></p>
 </availability>
@@ -42,7 +42,7 @@
 <sourceDesc>
 <bibl>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
-<title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
+<title level="m" type="main">Letter from John G. Neihardt to Lucile Aly</title>
 <date when="1968-03-13">March 13, 1968</date>
 <extent>1 page</extent>
 </bibl>
@@ -54,44 +54,11 @@
 <msContents>
 <p>1 type-written pages</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>1 page
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
+
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
-
 
 <profileDesc>
 <textClass>
@@ -105,30 +72,44 @@
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="keywords">
-<term></term>
+<term>The Divine Enchantment</term>
+<term>The Song of the Messiah</term>
+<!-- from P.S. which may belong to another letter -->
+<term>All is but a beginning : youth remembered, 1881-1901</term>
+<term>John G. Neihardt: A Critical Biography</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
+<term>Young, Julius</term>
+<term>Folse, Charles D., 1881-1968</term>
+<term>Black</term>
+<!-- from P.S. which may belong to another letter -->
+<term>Madden, John G.</term>
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>Kansas City (Mo.)</term>
+<term>Denver (Colo.)</term>
+<!-- from P.S. which may belong to another letter -->
+<term>Lincoln (Neb.)</term>
+<term>Eugene (Or.)</term>
+<!-- <term>Kansas City (Mo.)</term> -->
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Lincoln (Neb.)</placeName>
+<date when="1968-03-13"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<placeName></placeName>
+<persName>Aly, Lucile Folse, 1913-</persName>
+<placeName>Eugene (Or.)</placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Aly, Lucile Folse, 1913-</persName></person></particDesc>
 </profileDesc>
 
-<revisionDesc>
+<revisionDesc><change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
 <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -148,8 +129,8 @@
 
 <opener>
 <dateline>
-5835 Vine Street
-Lincoln, Nebraska 68505
+5835 Vine Street<lb/>
+Lincoln, Nebraska 68505<lb/>
 March 13, 1968
 </dateline>
 
@@ -161,7 +142,7 @@ March 13, 1968
 
    <salute>Dear Lucile:</salute>
 </opener>
-<p>I am greatly encouraged by your recent letter, as I understand from it that you will have a batch of manuscript to send to me before long. I have arrangementsmade<sic>arrangements made</sic> for handling the material at once. Mr. Young is a retired high school teacher and a very active person. He will help me with the manuscript by reading to me and taking down my comments.</p>
+<p>I am greatly encouraged by your recent letter, as I understand from it that you will have a batch of manuscript to send to me before long. I have arrangements made for handling the material at once. Mr. Young is a retired high school teacher and a very active person. He will help me with the manuscript by reading to me and taking down my comments.</p>
 
 <p>I am so sorry about your father. It is such a pity that he has to have such a struggle in getting to the other world. That's the only criticism I have of the Lord's business as he takes care of it. There surely should be a better way to exit.</p>
 
@@ -169,7 +150,7 @@ March 13, 1968
 
 <p>A Hungarian painter from Kansas City will be here three days this week to paint my portrait. He is a very remarkable person, and we are looking forward to having him here.</p>
 
-<p>I have hearl<sic>heard</sic> from Mr. Black of Denver University. He is not a professor, as I had supposed, but a graduate student 24 years old. I am glad he is a young man since he is the sort of man who can be interested in <hi rend="caps">THE DIVINE ENCHANTMENT</hi> and <hi rend="caps">THE MESSIAH</hi>.</p>
+<p>I have <choice><sic>hearl</sic><corr>heard</corr></choice> from Mr. Black of Denver University. He is not a professor, as I had supposed, but a graduate student 24 years old. I am glad he is a young man since he is the sort of man who can be interested in <hi rend="caps">THE DIVINE ENCHANTMENT</hi> and <hi rend="caps">THE MESSIAH</hi>.</p>
 
 <p>I can't be sure that I will be able to come out to see you for the final check-up. If I can I will, you know that, and I will let you know reasonably soon. I have sent your letter on to Enid to see if she might be interested but I have little hope that she would be able to come, especially this time of year.</p>
 <closer>
@@ -180,7 +161,7 @@ March 13, 1968
 
 <note>JGN:nh</note>
 </closer>
- <!--
+
 <pb facs="nei.j4c.54.23-25_0002"/>
 
 <fw type="curatorial">24</fw>
@@ -197,7 +178,7 @@ March 13, 1968
 <fw type="curatorial">25</fw>
 <fw type="authorial">-2-</fw>
 
-be on hand to take me there! I mentioned needing to see you, and he leaped at the idea &#8212; wanted to start next <del><unclear>morning</unclear></del>morning.He will take me to Eugene if it seems right for me to go. But there would have to be a co-pilot (government regulations) and <hi rend="underline">two</hi> men could not wait for me to be through talking with you; and I don't want to travel alone with my eyes. (They misinform me.)</p>
+be on hand to take me there! I mentioned needing to see you, and he leaped at the idea &#8212; wanted to start next <del><unclear>morning</unclear></del>morning. He will take me to Eugene if it seems right for me to go. But there would have to be a co-pilot (government regulations) and <hi rend="underline">two</hi> men could not wait for me to be through talking with you; and I don't want to travel alone with my eyes. (They misinform me.)</p>
 <closer>
 <salute>Affectionately</salute>
 
@@ -206,7 +187,7 @@ be on hand to take me there! I mentioned needing to see you, and he leaped at th
 
 <note type="authorial">Your biography will <hi rend="double underline">enrich</hi> my little book, and vice versa. J.N.</note>
 </postscript>
--->
+
 </div1>
 </body>
 

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.58.27-34_0001-8">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.58.27-34">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, June 26, 1969</title>
+<title type="main">Letter from John G. Neihardt to Lucile Aly, June 26, 1969</title>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4c.58.27-34_0001-8</idno>
+<idno>nei.j4c.58.27-34</idno>
 <availability>
 <p></p>
 </availability>
@@ -42,55 +42,23 @@
 <sourceDesc>
 <bibl>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
-<title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
+<title level="m" type="main">Letter from John G. Neihardt to Lucile Aly</title>
 <date when="1969-06-26">June 26, 1969</date>
 <extent>10 pages, plus envelope</extent>
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
+<repository>Aly Collection</repository>
 <idno></idno>
 </msIdentifier>
 <msContents>
 <p>10 hand-written pages, plus envelope</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>10 pages
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
+
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
 
 
 <profileDesc>
@@ -104,31 +72,39 @@
 <keywords scheme="original" n="topic">
 <term></term>
 </keywords>
-<keywords scheme="lcsh" n="keywords">
-<term></term>
+<keywords scheme="lcsh" n="works">
+<term>The Song of Jed Smith</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Young, Julius</term>
+<term>Young, Myrtle</term>
+<term>Young, Kay</term>
+<term>Johnson, Martin</term>
+<term>Aly, Bower, 1903-1977</term>
+<term>Aly, Stewart</term>
+<term>Ollie</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>Rock Springs (Wy.)</term>
+<term>Laramie (Wy.)</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Lincoln (Neb.)</placeName>
+<date when="1969-06-26"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<placeName></placeName>
+<persName>Aly, Lucile Folse, 1913-</persName>
+<placeName>Eugene (Or.)</placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Aly, Lucile Folse, 1913-</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
 <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -149,14 +125,14 @@
 
 <opener>
 <dateline>
-5835 Vine Street
-Lincoln, Neb.
+5835 Vine Street<lb/>
+Lincoln, Neb.<lb/>
 6-26-'69.
 </dateline>
 
 <salute>Dear Lucile:</salute>
 </opener>
-<p>We're back again, as you see, after 2000 miles of travel. Incidentally, we went up to South Pass from Rock Springs, and it was good to see that country again, altho'<sic>although</sic> I don't like the new highway arrangements, which <del><unclear>spoil the exaiste</unclear></del><add>spoil</add> the Pass for me. No one, now, ever gets on the <hi rend="underline">real</hi> old wagon road that I describe in <hi rend="underline">Jed Smith</hi> &#8212; that about a "hind-sight<sic>hindsight</sic> out of <unclear>true</unclear>,"  and the "left-hand shoulder  to the
+<p>We're back again, as you see, after 2000 miles of travel. Incidentally, we went up to South Pass from Rock Springs, and it was good to see that country again, altho' I don't like the new highway arrangements, which <del><unclear>spoil the exaiste</unclear></del><add>spoil</add> the Pass for me. No one, now, ever gets on the <hi rend="underline">real</hi> old wagon road that I describe in <hi rend="underline">Jed Smith</hi> &#8212; that about a "hind-sight out of <unclear>true</unclear>,"  and the "left-hand shoulder  to the
 
 <pb facs="nei.j4c.58.27-34_0002a"/>
 <fw type="authorial"><unclear>-2</unclear>-</fw>
@@ -214,15 +190,15 @@ In my work, the tool-making, <del>out</del><add>out</add> of nothing much (!) wa
 <pb facs="nei.j4c.58.27-34_0004b"/>
 <fw type="authorial">-<del>8-</del>7-</fw>
 
-Old Stewart <hi rend="underline">is good to see</hi>! And what was Bower doing in <unclear>charmed wreath</unclear>? Anyway, hurrah for him! <hi rend="underline">And</hi> how I'd love to get the major to talk to me! There's so much he <unclear>knows</unclear> that I'd love to <del><unclear>know</unclear></del>know. <hi rend="double underline">And</hi> <hi rend="underline">my next president</hi>!! I <hi rend="underline">tried</hi> hard to get him last time, but they headed me off. I'll try harder next time.</p>
+Old Stewart <hi rend="underline">is good to see</hi>! And what was Bower doing in <unclear/> <!-- <unclear>charmed wreath</unclear> -->? Anyway, hurrah for him! <hi rend="underline">And</hi> how I'd love to get the major to talk to me! There's so much he <unclear>knows</unclear> that I'd love to <del><unclear>know</unclear></del>know. <hi rend="double underline">And</hi> <hi rend="underline">my next president</hi>!! I <hi rend="underline">tried</hi> hard to get him last time, but they headed me off. I'll try harder next time.</p>
 
-<p>And <hi rend="underline">you</hi>! Pretty a<sic>as</sic> always &#8212; <del>altho</del>altho<sic>although</sic> I realize what a <hi rend="underline">weak</hi> word that is. I really mean <hi rend="underline">beautiful</hi>.</p>
+<p>And <hi rend="underline">you</hi>! Pretty <choice><sic>a</sic><corr>as</corr></choice> always &#8212; <del>altho</del>altho I realize what a <hi rend="underline">weak</hi> word that is. I really mean <hi rend="underline">beautiful</hi>.</p>
 
 <p>I've read Ollie's letter (careless), and it perfectly <unclear>expresses</unclear> my view.</p>
 
 <p>Your book <hi rend="underline">does not need the <del/> passages in question. It's a <hi rend="double underline">fine</hi> book.</hi></p>
 <closer>
-<salute>Love to <unclear>you</unclear> <unclear/></salute>`<signed>&#8212; John N.</signed>
+<salute>Love to <unclear>you</unclear> <unclear/></salute><signed>&#8212; John N.</signed>
 </closer>
 
 <note type="authorial"><milestone unit="section"/>_____________________
@@ -252,7 +228,7 @@ See <del>9</del> page<del/> 8 <del/></note>
 
 <p>This is some more good reading matter for you all.</p>
 
-<p>Mrs. Anderso<sic>Anderson</sic>, president of the Gem &amp; Mineral Show, wrote me a most gracious letter which I've just received. She also sent me a bolo tie &#8212; a combination of rock and gold with the inscription: <hi rend="underline">The Salt Palace &#8212; 1969</hi>.</p>
+<p>Mrs. <choice><sic>Anderso</sic><corr>Anderson</corr></choice>, president of the Gem &amp; Mineral Show, wrote me a most gracious letter which I've just received. She also sent me a bolo tie &#8212; a combination of rock and gold with the inscription: <hi rend="underline">The Salt Palace &#8212; 1969</hi>.</p>
 
 <p>Would a look at this letter do you any good? I can send xerox copies.</p>
 
@@ -262,7 +238,7 @@ See <del>9</del> page<del/> 8 <del/></note>
 <fw type="curatorial">33</fw>
 <fw type="authorial"><hi rend="underline">10</hi></fw>
 
-<p>This readin' matter is furnished free of charge by John the Gak. And is recommend<sic>recommended</sic> for people who are already quite pious. Follow the pagination, which are a fine word.</p>
+<p>This readin' matter is furnished free of charge by John the Gak. And is <choice><sic>recommend</sic><corr>recommended</corr></choice> for people who are already quite pious. Follow the pagination, which are a fine word.</p>
 </postscript>
 
 </div1>
@@ -289,8 +265,8 @@ See <del>9</del> page<del/> 8 <del/></note>
 </ab>
 
 <ab type="return">
-5835 Vine Street
-Lincoln, 
+5835 Vine Street<lb/>
+Lincoln, <lb/>
 Neb. 68505
 </ab>
 
