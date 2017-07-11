@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.61.11-12_0001-2">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.61.11-12">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to Dr. Slade Kendrick, February 18, 1971</title>
+<title type="main">Letter from John G. Neihardt to Slade Kendrick, February 18, 1971</title>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4c.61.11-12_0001-2</idno>
+<idno>nei.j4c.61.11-12</idno>
 <availability>
 <p></p>
 </availability>
@@ -42,7 +42,7 @@
 <sourceDesc>
 <bibl>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
-<title level="m" type="main">Letter from John G. Neihardt to Dr. Slade Kendrick</title>
+<title level="m" type="main">Letter from John G. Neihardt to Slade Kendrick</title>
 <date when="1971-02-18">February 18, 1971</date>
 <extent>4 pages</extent>
 </bibl>
@@ -54,44 +54,10 @@
 <msContents>
 <p>4 hand-written pages</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>4 pages
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
-
 
 <profileDesc>
 <textClass>
@@ -104,31 +70,37 @@
 <keywords scheme="original" n="topic">
 <term></term>
 </keywords>
-<keywords scheme="lcsh" n="keywords">
-<term></term>
+<keywords scheme="lcsh" n="works">
+<term>Black Elk Speaks</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Kendrick, Henry B.</term>
+<term>Cavett, Dick</term>
+<term>Godfrey, Arthur, 1903-1983</term>
+<term>Kendrick, Nita Collier</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>New York</term>
+<term>Omaha (Neb.)</term>
+<term>Europe</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Columbia (Mo.)</placeName>
+<date when="1971-02-18"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
+<persName>Kendrick, M. Slade (Myron Slade)</persName>
 <placeName></placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Kendrick, M. Slade</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Kendrick, M. Slade (Myron Slade)</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
 <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -146,7 +118,7 @@
 <fw type="curatorial"><del/></fw>
 
 <opener>
-<note>Skyrim Farm
+<note>Skyrim Farm<lb/>
 3-18-71</note>
 
 <dateline>Feb. 18, '71</dateline>
@@ -161,16 +133,16 @@
 <pb facs="nei.j4c.61.11-12_0001a"/>
 <fw type="authorial">-2-</fw>
 
-You remark that <hi rend="caps">H. B.</hi> was <add>perfectly</add> unselfish. That <hi rend="underline">is</hi> the outstanding fact about the man, along with an affectionate <del/><add>attitude</add> toward everyone and unfailing good will. <hi rend="underline">It is good to think of him</hi>.</p>
+You remark that H. B. was <add>perfectly</add> unselfish. That <hi rend="underline">is</hi> the outstanding fact about the man, along with an affectionate <del/><add>attitude</add> toward everyone and unfailing good will. <hi rend="underline">It is good to think of him</hi>.</p>
 
 <p>I'm just signing an option contract for the production of <hi rend="underline">Black Elk Speaks</hi> as a movie.</p>
 
-<p>Dick Cavett will run a <del/>90-minute <hi rend="caps">TV</hi> show <hi rend="underline">in color</hi> on
+<p>Dick Cavett will run a <del/>90-minute TV show <hi rend="underline">in color</hi> on
 
 <pb facs="nei.j4c.61.11-12_0002a"/>
 <fw type="authorial">-3-</fw>
 
-<hi rend="underline">me in March</hi>. He moved his whole studio force from <hi rend="caps">N. Y.</hi> to Omaha in order to <add>to</add> make the interview easy for me. <hi rend="underline">Actually</hi>, he told Arthur Godfrey, "Neihardt is the most interesting personality I've <del><unclear>ever</unclear></del>ever interviewed". <add><note type="authorial">This was in an interview a week ago.</note></add> Forgive me for seeming to brag I just want you to know.</p>
+<hi rend="underline">me in March</hi>. He moved his whole studio force from N. Y. to Omaha in order to <add>to</add> make the interview easy for me. <hi rend="underline">Actually</hi>, he told Arthur Godfrey, "Neihardt is the most interesting personality I've <del><unclear>ever</unclear></del>ever interviewed". <add><note type="authorial">This was in an interview a week ago.</note></add> Forgive me for seeming to brag I just want you to know.</p>
 
 <p>Tell me about your book. Is it doing well?</p>
 
@@ -186,9 +158,9 @@ from you, Slade. How is Nita? Give her my kind thoughts. And the old love to you
 </closer>
 
 <postscript>
-<opener><hi rend="caps">P. S.</hi></opener>
+<opener>P. S.</opener>
 
-<p>Black Elk continues to sell remarkably in the <hi rend="caps">U. S.</hi> and Europe,where it is translated into six languages Things are happening fast. Also, I give a good many public programs.</p> <closer><signed>J. N.</signed></closer>
+<p>Black Elk continues to sell remarkably in the U. S. and Europe, where it is translated into six languages Things are happening fast. Also, I give a good many public programs.</p> <closer><signed>J. N.</signed></closer>
 </postscript>
 
 <fw type="curatorial">12</fw>

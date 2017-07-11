@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.61.15-16_0001-2">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.61.15-16">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4c.61.15-16_0001-2</idno>
+<idno>nei.j4c.61.15-16</idno>
 <availability>
 <p></p>
 </availability>
@@ -54,44 +54,11 @@
 <msContents>
 <p>2 type-written pages</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>2 pages
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
+
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
-
 
 <profileDesc>
 <textClass>
@@ -104,24 +71,37 @@
 <keywords scheme="original" n="topic">
 <term></term>
 </keywords>
-<keywords scheme="lcsh" n="keywords">
-<term></term>
+<keywords scheme="lcsh" n="works">
+<term>The Song of the Indian Wars</term>
+<term>The Song of the Messiah</term>
+<term>The Twilight of the Sioux</term>
+<term>The Splendid Wayfaring</term>
+<term>When the Tree Flowered</term>
+<term>A Cycle of the West</term>
+<term>The River and I</term>
+<term>Black Elk Speaks</term>
+<term>All is but a beginning : youth remembered, 1881-1901</term>
+<term>John G. Neihardt: A Critical Biography</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Neihardt, Mona Martinsen</term>
+<term>Young, Myrtle</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>Bancroft (Neb.)</term>
+<term>Columbia (Mo.)</term>
+<term>Lincoln (Neb.)</term>
+<term>Missouri</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Lincoln (Neb.)</placeName>
+<date when="1970-03-08"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
+<persName>LaGorce, John</persName>
 <placeName></placeName>
 </correspAction>
 </correspDesc>
@@ -129,6 +109,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
 <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -147,8 +128,8 @@
 
 <opener>
 <dateline>
-5835 Vine Street
-Lincoln, Nebraska 68505
+5835 Vine Street<lb/>
+Lincoln, Nebraska 68505<lb/>
 March 8, 1970
 </dateline>
 <salute>Dear John,</salute>
@@ -163,7 +144,7 @@ March 8, 1970
 
 <p>Did you know that a bronze bust of me, made by my wife Mona, was placed in the rotunda of the Capitol Building here in Lincoln in 1961? You may know that I received the Thomas Jefferson Award from the University of Missouri two years ago. I think that is regarded as the highest award for a professor.</p>
 
-<p>My <hi rend="caps">TV</hi> program is still running at <hi rend="caps">M U</hi>. It is a continuation of the old "Epic America" and is concerned with <hi rend="underline">The Song of the Indian Wars</hi> and <hi rend="underline">The Song of the Messiah</hi>. The title of the course is "The Twilight of the Sioux." It is very popular.</p>
+<p>My TV program is still running at M U. It is a continuation of the old "Epic America" and is concerned with <hi rend="underline">The Song of the Indian Wars</hi> and <hi rend="underline">The Song of the Messiah</hi>. The title of the course is "The Twilight of the Sioux." It is very popular.</p>
 
 <pb facs="nei.j4c.61.15-16_0002"/>
 <fw type="curatorial">16</fw>
@@ -174,7 +155,7 @@ March 8, 1970
 
 <p>Mrs. Young, in whose home I am living and who has attended to much of my correspondence, is sending you some material that you will find useful. Although I plan to continue living and writing here in Lincoln, I sill own Skyrim and return occasionally to Columbia. I can arrange to be wherever you want me for photography.</p>
 
-<p>This letter is long enough for the first one. Perhaps you will have questions that yo uwill want to ask me, and you may be sure that I will do my best to answer them.</p>
+<p>This letter is long enough for the first one. Perhaps you will have questions that you will want to ask me, and you may be sure that I will do my best to answer them.</p>
 
 <p>Give my affectionate regards to your dear lady, hug those two youngsters for me, and pat Andrew on his nose. He won't know who I am but I love him. I have a poodle dog, Jacquot, who takes care of me night and day and is easily the most photographed dog in this section of the country. His French accent is very noticeable in his barking.</p>
 <closer>
