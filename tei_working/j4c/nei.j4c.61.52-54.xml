@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.61.52-54_0001-3">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.61.52-54">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, September 22, 1970</title>
+<title type="main">Letter from John G. Neihardt to Lucile Aly, September 22, 1970</title>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4c.61.52-54_0001-3</idno>
+<idno>nei.j4c.61.52-54</idno>
 <availability>
 <p></p>
 </availability>
@@ -42,7 +42,7 @@
 <sourceDesc>
 <bibl>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
-<title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
+<title level="m" type="main">Letter from John G. Neihardt to Lucile Aly</title>
 <date when="1970-09-22">September 22, 1970</date>
 <extent>4 pages, plus envelope</extent>
 </bibl>
@@ -54,44 +54,10 @@
 <msContents>
 <p>4 hand-written pages, plus envelope</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>4 pages
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
-
 
 <profileDesc>
 <textClass>
@@ -104,11 +70,14 @@
 <keywords scheme="original" n="topic">
 <term></term>
 </keywords>
-<keywords scheme="lcsh" n="keywords">
-<term></term>
+<keywords scheme="lcsh" n="works">
+<term>John G. Neihardt: A Critical Biography</term>
+<term>St. Louis Post-Dispatch</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Cather, Willa, 1873-1947</term>
+<term>Roosevelt, Theodore, 1858-1919</term>
+<term>Pershing, John J. (John Joseph), 1860-1948</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
 <term></term>
@@ -117,18 +86,19 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Lincoln (Neb.)</placeName>
+<date when="1970-09-22"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<placeName></placeName>
+<persName>Aly, Lucile Folse, 1913-</persName>
+<placeName>Eugene (Or.)</placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Aly, Lucile Folse, 1913-</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
 <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -150,7 +120,7 @@
 
 <salute>Dear Lucile:</salute>
 </opener>
-<p>A friend has been reading to me from the <hi rend="caps">MS</hi> of the Biography, and I am again <hi rend="underline">impressed with the book.</hi> There are still minor errors here and there, but I suppose they don't matter.</p>
+<p>A friend has been reading to me from the MS of the Biography, and I am again <hi rend="underline">impressed with the book.</hi> There are still minor errors here and there, but I suppose they don't matter.</p>
 
 <p>I have wondered <hi rend="underline">again</hi> why you insist that
 
@@ -187,10 +157,10 @@ gift for novel-writing. <del/>She said <del/> she believed I was right. She and 
 <fw type="curatorial">54</fw>
 
 <ab type="return">
-<hi rend="caps">RETURN TO</hi>
-5835 Vine St.
-Lincoln,
-Neb.<hi rend="caps">ZIP CODE</hi>
+<hi rend="caps">RETURN TO</hi><lb/>
+5835 Vine St.<lb/>
+Lincoln,<lb/>
+Neb.<hi rend="caps">ZIP CODE</hi><lb/>
 <hi rend="underline">68505</hi>
 </ab>
 

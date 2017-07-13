@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.61.49-51_0001-3">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.61.49-51">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, September 12, 1970</title>
+<title type="main">Letter from John G. Neihardt to Lucile Aly, September 12, 1970</title>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4c.61.49-51_0001-3</idno>
+<idno>nei.j4c.61.49-51</idno>
 <availability>
 <p></p>
 </availability>
@@ -42,56 +42,23 @@
 <sourceDesc>
 <bibl>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
-<title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
+<title level="m" type="main">Letter from John G. Neihardt to Lucile Aly</title>
 <date when="1970-09-12">September 12, 1970</date>
 <extent>2 pages, plus envelope</extent>
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
+<repository>Aly Collection</repository>
 <idno></idno>
 </msIdentifier>
 <msContents>
 <p>2 hand-written pages, plus envelope</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>2 pages
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
+
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
-
 
 <profileDesc>
 <textClass>
@@ -104,31 +71,37 @@
 <keywords scheme="original" n="topic">
 <term></term>
 </keywords>
-<keywords scheme="lcsh" n="keywords">
-<term></term>
+<keywords scheme="lcsh" n="works">
+<term>John G. Neihardt: A Critical Biography</term>
+<term>The Splendid Wayfaring</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Petri, Hilda Neihardt</term>
+<term>Hickock</term>
+<term>Szasz, Frank B.</term>
+<term>Aly, Stewart</term>
+<term>Aly, Bower, 1903-1977</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>Lincoln (Neb.)</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Columbia (Mo.)</placeName>
+<date when="1970-09-12"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<placeName></placeName>
+<persName>Aly, Lucile Folse, 1913-</persName>
+<placeName>Eugene (Or.)</placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Aly, Lucile Folse, 1913-</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
 <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -149,8 +122,8 @@
 
 <opener>
 <dateline>
-221 W. Brandon Road,
-Columbia, MO
+221 W. Brandon Road,<lb/>
+Columbia, MO<lb/>
 Sep. 12, '70
 </dateline>
 
@@ -158,7 +131,7 @@ Sep. 12, '70
 </opener>
 <p>I'm spending a few days here, and will return to Lincoln on Sunday. (This is Friday).</p>
 
-<p>I was greatly interested in what you said about your <hi rend="caps">MS</hi>. Please <hi rend="underline">do</hi> let me know all about the suggested changes. I wonder who is giving the book its fine reading. Anyway, it's a heluva good book.</p>
+<p>I was greatly interested in what you said about your MS. Please <hi rend="underline">do</hi> let me know all about the suggested changes. I wonder who is giving the book its fine reading. Anyway, it's a heluva good book.</p>
 
 <p>We sent (or did we?) several pages of minor, but necessary, corrections. Have you noted these?</p>
 
@@ -205,8 +178,8 @@ portrait of me and had presented it to the University of Missouri. I know the pa
 </address>
 </ab>
 
-<ab type="return">5835 Vine St.
-Lincoln
+<ab type="return">5835 Vine St.<lb/>
+Lincoln<lb/>
 Neb</ab>
 
 </div1>
