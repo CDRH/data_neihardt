@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.62.1-2_0001-2">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.62.1-2">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, January 18, 1971</title>
+<title type="main">Letter from John G. Neihardt to Lucile Aly, January 18, 1971</title>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4c.62.1-2_0001-2</idno>
+<idno>nei.j4c.62.1-2</idno>
 <availability>
 <p></p>
 </availability>
@@ -42,7 +42,7 @@
 <sourceDesc>
 <bibl>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
-<title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
+<title level="m" type="main">Letter from John G. Neihardt to Lucile Aly</title>
 <date when="1971-01-18">January 18, 1971</date>
 <extent>4 pages</extent>
 </bibl>
@@ -54,43 +54,11 @@
 <msContents>
 <p>4 hand-written pages</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>4 pages
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
+
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
 
 
 <profileDesc>
@@ -104,31 +72,36 @@
 <keywords scheme="original" n="topic">
 <term></term>
 </keywords>
-<keywords scheme="lcsh" n="keywords">
-<term></term>
+<keywords scheme="lcsh" n="works">
+<term>John G. Neihardt: A Critical Biography</term>
+<term>The Splendid Wayfaring</term>
+<term>The Dick Cavett Show</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Aly, Bower, 1903-1977</term>
+<term>Cavett, Dick</term>
+<term>Virginia</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>New York</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
 <placeName></placeName>
-<date when="1900"/>
+<date when="1971-01-18"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
+<persName>Aly, Lucile Folse, 1913-</persName>
 <placeName></placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Aly, Lucile Folse, 1913-</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
 <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -169,7 +142,7 @@ my experiences with <unclear>authorship</unclear> is a discerning thing, and I <
 
 that the cutting will be done intelligently and with a kindly purpose? (There are so many goddamn asses in the world &#8212; <hi rend="underline">along with so many almost incredibly fine people, I hasten to admit!</hi></p>
 
-<p>Dick Cavett, the top <hi rend="caps">TV</hi> star, is putting me on his program for a <hi rend="underline">special</hi> very soon. He will, it seems now, come here from New York to shoot me in
+<p>Dick Cavett, the top TV star, is putting me on his program for a <hi rend="underline">special</hi> very soon. He will, it seems now, come here from New York to shoot me in
 
 <pb facs="nei.j4c.62.1-2_0002b"/>
 <fw type="authorial">-4-</fw>
