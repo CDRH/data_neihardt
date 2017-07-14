@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.62.40-41_0001-4">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.62.40-41">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, October 25, 1971</title>
+<title type="main">Letter from John G. Neihardt to Lucile Aly, October 25, 1971</title>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4c.62.40-41_0001-4</idno>
+<idno>nei.j4c.62.40-41</idno>
 <availability>
 <p></p>
 </availability>
@@ -42,7 +42,7 @@
 <sourceDesc>
 <bibl>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
-<title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
+<title level="m" type="main">Letter from John G. Neihardt to Lucile Aly</title>
 <date when="1971-10-25">October 25, 1971</date>
 <extent>4 pages</extent>
 </bibl>
@@ -54,44 +54,10 @@
 <msContents>
 <p>4 hand-written pages</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>4 pages
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
-
 
 <profileDesc>
 <textClass>
@@ -104,31 +70,37 @@
 <keywords scheme="original" n="topic">
 <term></term>
 </keywords>
-<keywords scheme="lcsh" n="keywords">
-<term></term>
+<keywords scheme="lcsh" n="works">
+<term>John G. Neihardt: A Critical Biography</term>
+<term>A Cycle of the West</term>
+<term>All is but a beginning : youth remembered, 1881-1901</term>
+<term>Black Elk Speaks</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Cavett, Dick</term>
+<term>Aly, Bower, 1903-1977</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>Columbia (Mo.)</term>
+<term>New York</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Lincoln (Neb.)</placeName>
+<date when="1971-10-25"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
+<persName>Aly, Lucile Folse, 1913-</persName>
 <placeName></placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Aly, Lucile Folse, 1913-</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
 <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -148,8 +120,8 @@
 
 <opener>
 <dateline>
-Lincoln.
-Oct. 25th, 1971
+Lincoln.<lb/>
+Oct. 25th, 1971<lb/>
 </dateline>
 
 <salute>Dear Lucile:</salute>
@@ -177,7 +149,7 @@ is the outlook for the publication of your Biography. Please tell me. I'm "awful
 
 your bibliography.</p>
 
-<p>We have an agent working on Black Elk Speaks for a movie. Pocket Book will <del/> mass-publish <hi rend="underline">Black Elk Speaks</hi> and <hi rend="double underline">When</hi> <hi rend="underline">the Tree Flowered</hi> &#8212; <hi rend="underline">huge editions</hi>! We are having a hassel with Bruce, trying to transfer the <del/> <hi rend="underline">Black Elk Speaks</hi> over to Simon &amp; Shuster<sic>Schuster</sic>, who want to issue a <hi rend="underline">beautiful</hi>, hardback edition. We have the rights, but we don't want to be unkind. However, we can't afford to let <hi rend="underline">Black Elk</hi> go <del/> on with no books on sale. We hear from all over the country about the immense
+<p>We have an agent working on Black Elk Speaks for a movie. Pocket Book will <del/> mass-publish <hi rend="underline">Black Elk Speaks</hi> and <hi rend="double underline">When</hi> <hi rend="underline">the Tree Flowered</hi> &#8212; <hi rend="underline">huge editions</hi>! We are having a hassel with Bruce, trying to transfer the <del/> <hi rend="underline">Black Elk Speaks</hi> over to Simon &amp; <choice><sic>Shuster</sic><corr>Schuster</corr></choice>, who want to issue a <hi rend="underline">beautiful</hi>, hardback edition. We have the rights, but we don't want to be unkind. However, we can't afford to let <hi rend="underline">Black Elk</hi> go <del/> on with no books on sale. We hear from all over the country about the immense
 
 <note type="authorial"><del>(<unclear/></del>(over)</note>
 <pb facs="nei.j4c.62.40-41_0004"/>

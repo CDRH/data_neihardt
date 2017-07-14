@@ -5,7 +5,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to Dr. Bower Aly, April 9, 1971</title>
+<title type="main">Letter from John G. Neihardt to Bower Aly, April 9, 1971</title>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
@@ -42,7 +42,7 @@
 <sourceDesc>
 <bibl>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
-<title level="m" type="main">Letter from John G. Neihardt to Dr. Bower Aly</title>
+<title level="m" type="main">Letter from John G. Neihardt to Bower Aly</title>
 <date when="1971-04-09">April 9, 1971</date>
 <extent>1 pages</extent>
 </bibl>
@@ -54,43 +54,10 @@
 <msContents>
 <p>1 type-written page</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>1 page
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
 
 
 <profileDesc>
@@ -104,31 +71,33 @@
 <keywords scheme="original" n="topic">
 <term></term>
 </keywords>
-<keywords scheme="lcsh" n="keywords">
-<term></term>
+<keywords scheme="lcsh" n="works">
+<term>The Dick Cavett Show</term>
+<term>John G. Neihardt: A Critical Biography</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Cavett, Dick</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>New York (N.Y.)</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Lincoln (Neb.)</placeName>
+<date when="1971-04-09"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<placeName></placeName>
+<persName>Aly, Bower, 1903-1977</persName>
+<placeName>Eugene (Or.)</placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Aly, Bower</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Aly, Bower, 1903-1977</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
 <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -147,8 +116,8 @@
 
 <opener>
 <dateline>
-5835 Vine Street
-Lincoln, Nebraska 68<del>9</del><add>5</add>05
+5835 Vine Street<lb/>
+Lincoln, Nebraska 68<del>9</del><add>5</add>05<lb/>
 April 9, 1971
 </dateline>
 
@@ -163,7 +132,7 @@ April 9, 1971
 </opener>
 <p>Bless your heart and many thanks. I certainly do deeply appreciate what you have just done in the interest of the Dick Cavett show and my work generally. Your latest efforts are too characteristic for thanks and I feel almost guilty when I thank you again (nevertheless, please don't quit!). I note that the Dick Cavett address that you give is not quite correct. It should be American Broadcasting Company, 17<del>0</del><add>90</add> Broadway, New York, <hi rend="caps">N. Y.</hi> 10019.</p>
 
-<p>It does look as though there is a ground swell<sic>groundswell</sic> of interest in my stuff. It's a constant surprise to me.</p>
+<p>It does look as though there is a ground swell of interest in my stuff. It's a constant surprise to me.</p>
 
 <p>I have just signed an option contract with a movie producer.</p>
 
