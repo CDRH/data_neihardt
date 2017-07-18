@@ -54,44 +54,10 @@
 <msContents>
 <p>1 type-written page</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>1 page
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
-
 
 <profileDesc>
 <textClass>
@@ -104,31 +70,38 @@
 <keywords scheme="original" n="topic">
 <term></term>
 </keywords>
-<keywords scheme="lcsh" n="keywords">
-<term></term>
+<keywords scheme="lcsh" n="works">
+<term>A Cycle of the West</term>
+<term>The Twilight of the Sioux</term>
+<term>Black Elk Speaks</term>
+<term>The Dick Cavett Show</term>
+<term>All is but a beginning : youth remembered, 1881-1901</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Petri, Hilda Neihardt</term>
+<term>Cavett, Dick</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>Columbia (Mo.)</term>
+<term>New York</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Lincoln (Neb.)</placeName>
+<date when="1972-06-13"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<placeName></placeName>
+<persName>Haw, C. L. William</persName>
+<placeName>Kansas City (Mo.)</placeName>
 </correspAction>
 </correspDesc>
 <particDesc><person role="recipient"><persName>Haw, C. L. William</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
 <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -147,13 +120,13 @@
 
 <opener>
 <dateline>
-5835 Vine Street
-Lincoln, Nebraska 68505
+5835 Vine Street<lb/>
+Lincoln, Nebraska 68505<lb/>
 June 13, 1972
 </dateline>
 
 <address>
-<addrLine>Mr. <hi rend="caps">C. L.</hi> William Haw</addrLine>
+<addrLine>Mr. C. L. William Haw</addrLine>
 <addrLine>Senior Vice President</addrLine>
 <addrLine>Commerce Bank</addrLine>
 <addrLine>922 Walnut Street</addrLine>
@@ -170,7 +143,7 @@ June 13, 1972
 
 <p>I <del>lo</del><add>gi</add>ve a good many public recitals of my work, especially the <hi rend="caps">CYCLE OF THE WEST</hi>, and I am always greatly impressed by the response of audiences. They actually stand up. And yet there are some people who believe the public does not like poetry.</p>
 
-<p>I will be in Columbia again some time around the 20th of July. My daughter, Hilda N. Petri has an office in Columbia at 110 North 8th, or Box 1096 <hi rend="caps">(P.O.)</hi>. If you should knowlthat<sic>know that</sic> you would be in that part of the country, you might drop a line to my daughter. (Incidentally, she is my lawyer and agent.)</p>
+<p>I will be in Columbia again some time around the 20th of July. My daughter, Hilda N. Petri has an office in Columbia at 110 North 8th, or Box 1096 <hi rend="caps">(P.O.)</hi>. If you should know that you would be in that part of the country, you might drop a line to my daughter. (Incidentally, she is my lawyer and agent.)</p>
 
 <p>Kindest thoughts, old friend, and blessings on that boy.</p>
 <closer>
@@ -182,7 +155,7 @@ June 13, 1972
 </closer>
 
 <postscript>
-<opener><hi rend="caps">P.S.</hi></opener> <p>Did you see me on the Dick Cavett showlast<sic>show last</sic> night? By the way, the New York publishers &#8212; Harcourt Brace Jovanovich &#8212; will issue my autobiography on September 20. I don't think you'll have much trouble locating it.</p>
+<opener><hi rend="caps">P.S.</hi></opener> <p>Did you see me on the Dick Cavett show last night? By the way, the New York publishers &#8212; Harcourt Brace Jovanovich &#8212; will issue my autobiography on September 20. I don't think you'll have much trouble locating it.</p>
 </postscript>
 </div1>
 </body>
