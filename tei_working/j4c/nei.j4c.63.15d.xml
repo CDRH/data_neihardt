@@ -5,7 +5,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, April 25, 1972</title>
+<title type="main">Letter from John G. Neihardt to Lucile Aly, April 25, 1972</title>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
@@ -42,7 +42,7 @@
 <sourceDesc>
 <bibl>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
-<title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
+<title level="m" type="main">Letter from John G. Neihardt to Lucile Aly</title>
 <date when="1972-04-25">April 25, 1972</date>
 <extent>1 page</extent>
 </bibl>
@@ -54,43 +54,11 @@
 <msContents>
 <p>1 type-written page</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>1 page
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
+
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
 
 
 <profileDesc>
@@ -104,31 +72,42 @@
 <keywords scheme="original" n="topic">
 <term></term>
 </keywords>
-<keywords scheme="lcsh" n="keywords">
-<term></term>
+<keywords scheme="lcsh" n="works">
+<term>Black Elk Speaks</term>
+<term>John G. Neihardt: A Critical Biography</term>
+<term>All is but a beginning : youth remembered, 1881-1901</term>
+<term>Patterns and Coincidences: A Sequel to All Is But A Beginning</term>
+<term>The Song of the Messiah</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Cavett, Dick</term>
+<term>Petri, Hilda Neihardt</term>
+<term>Petri, Gail</term>
+<term>Aly, Bower, 1903-1977</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>New York</term>
+<term>London (England)</term>
+<term>Nebraska City (Neb.)</term>
+<term>Columbia (Mo.)</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Lincoln (Neb.)</placeName>
+<date when="1972-04-25"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<placeName></placeName>
+<persName>Aly, Lucile Folse, 1913-</persName>
+<placeName>Eugene (Or.)</placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Aly, Lucile Folse, 1913-</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
 <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -147,8 +126,8 @@
 
 <opener>
 <dateline>
-5835 Vine Street
-Lincoln, Nebraska 68505
+5835 Vine Street<lb/>
+Lincoln, Nebraska 68505<lb/>
 April 25, 1972
 </dateline>
 
@@ -160,7 +139,7 @@ April 25, 1972
 
 <salute>Dear Lucile:</salute>
 </opener>
-<p>It was a joy to receive your letter and it is good to know that my former letters did not offend you &#8212; which of course they wouldn't. It is very exciting to know of the distribution of <hi rend="caps">BLACK ELK SPEAKS</hi> and I suppose other books of mine out there around Eugene and the University. I heard from Dick Cavett to the effect that "everybody in New York is talking about Neihardt." Of course they aren't, but evidently Cavett meant to let me know that my books were being talked about back there. It is evident that the thing we call fame, when it lasts, and notriety<sic>notoriety</sic>, when it doesn't last, is abroad in the land and it is likely to last quite a while. I want it to last long enough and be intense enough to get a good commerical publisher for your biography and to take over my book in hardback editions.</p>
+<p>It was a joy to receive your letter and it is good to know that my former letters did not offend you &#8212; which of course they wouldn't. It is very exciting to know of the distribution of <hi rend="caps">BLACK ELK SPEAKS</hi> and I suppose other books of mine out there around Eugene and the University. I heard from Dick Cavett to the effect that "everybody in New York is talking about Neihardt." Of course they aren't, but evidently Cavett meant to let me know that my books were being talked about back there. It is evident that the thing we call fame, when it lasts, and <choice><sic>notriety</sic><corr>notoriety</corr></choice>, when it doesn't last, is abroad in the land and it is likely to last quite a while. I want it to last long enough and be intense enough to get a good commerical publisher for your biography and to take over my book in hardback editions.</p>
 
 <p>Did I tell you about Barrie and Jenkins of London? They will be bringing out <hi rend="caps">BLACK ELK</hi> in a hardback.</p>
 

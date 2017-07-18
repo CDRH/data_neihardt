@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.63.11-12_0001-3">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.63.11-12">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, February 13, 1972</title>
+<title type="main">Letter from John G. Neihardt to Lucile Aly, February 13, 1972</title>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
@@ -31,18 +31,18 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4c.63.11-12_0001-3</idno>
+<idno>nei.j4c.63.11-12</idno>
 <availability>
 <p></p>
 </availability>
 </publicationStmt>
 
-<notesStmt><note></note></notesStmt>
+<notesStmt><note>With enclosed letter from Hilda Neihardt Petri to John Neihardt.</note></notesStmt>
 
 <sourceDesc>
 <bibl>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
-<title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
+<title level="m" type="main">Letter from John G. Neihardt to Lucile Aly</title>
 <date when="1972-02-13">February 13, 1972</date>
 <extent>5 pages</extent>
 </bibl>
@@ -54,44 +54,10 @@
 <msContents>
 <p>5 hand-written pages</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>5 pages
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="2">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
-
 
 <profileDesc>
 <textClass>
@@ -104,11 +70,22 @@
 <keywords scheme="original" n="topic">
 <term></term>
 </keywords>
-<keywords scheme="lcsh" n="keywords">
-<term></term>
+<keywords scheme="lcsh" n="works">
+<term>John G. Neihardt: A Critical Biography</term>
+<term>All is but a beginning : youth remembered, 1881-1901</term>
+<term>Black Elk Speaks</term>
+<term>When the Tree Flowered</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Cavett, Dick</term>
+<term>Aly, Bower, 1903-1977</term>
+<term>Petri, Hilda Neihardt</term>
+<term>Muller</term>
+<term>Nicoll, Bruce</term>
+<term>Mosk</term>
+<term>DeWitt</term>
+<term>Young, Myrtle</term>
+<term>Neihardt, Alice</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
 <term></term>
@@ -118,17 +95,18 @@
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
 <placeName></placeName>
-<date when="1900"/>
+<date when="1972-02-13"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
+<persName>Aly, Lucile Folse, 1913-</persName>
 <placeName></placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Aly, Lucile Folse, 1913-</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc; transcription</change>
 <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -150,14 +128,14 @@
 
 <salute>Dear Lucile:</salute>
 </opener>
-<p>Since I wrote that lovely letter to you this <hi rend="caps">A. M.</hi> I received an exciting one from Hilda, a copy of which I enclose. You will see why I send it on. We have dreamed of Harcourt Brace <unclear>Jalnovitch</unclear><sic>Ivanovitch</sic> <del/> becoming <hi rend="double underline">my</hi> publisher, bringing all my work together. And how <unclear>fun</unclear> for your Book to come out with a big commerical <unclear>hunsa</unclear>?
+<p>Since I wrote that lovely letter to you this A. M. I received an exciting one from Hilda, a copy of which I enclose. You will see why I send it on. We have dreamed of Harcourt Brace <choice><sic>Jalnovich</sic><corr>Jovanovich</corr></choice> <del/> becoming <hi rend="double underline">my</hi> publisher, bringing all my work together. And how fun for your Book to come out with a big commerical <unclear>hunsa</unclear>?
 
 <pb facs="nei.j4c.63.11-12_0001b"/>
 <fw type="authorial">-2-</fw>
 
-Harcourt is tops <unclear>along</unclear> with Simon &amp; Shuster<sic>Schuster</sic> (whom we also have <unclear>now</unclear>!)</p>
+Harcourt is tops along with Simon &amp; <choice><sic>Shuster</sic><corr>Schuster</corr></choice> (whom we also have now!)</p>
 
-<p>You must know that Mr. <unclear>Millen</unclear> herein <del/> quoted, is vice president of Harcourt <del/> He it was who asked for a final chapter to my autobiography. You see how he feels about it! And to think that Dick Cavett will furnish (or at least <hi rend="underline">sign</hi> the Introduction! My final chapter is about 2000 words or a bit more.</p>
+<p>You must know that Mr. Muller herein <del/> quoted, is vice president of Harcourt <del/> He it was who asked for a final chapter to my autobiography. You see how he feels about it! And to think that Dick Cavett will furnish (or at least <hi rend="underline">sign</hi> the Introduction! My final chapter is about 2000 words or a bit more.</p>
 
 <pb facs="nei.j4c.63.11-12_0002a"/>
 <fw type="authorial">-3-</fw>
@@ -173,7 +151,7 @@ Harcourt is tops <unclear>along</unclear> with Simon &amp; Shuster<sic>Schuster<
 
 as when I was much younger. Maybe I write better, as some say. It's not  <hi rend="underline">easier</hi>, but the result has unshed tears in it &#8212; <unclear>along</unclear> with some unlaughed laughter!</p>
 
-<p>I may send you a copy of <hi rend="underline">The <unclear>Storming</unclear> of Bancroft</hi>. It is about my father and the 22nd regulars. this<sic>This</sic> chapter concludes my study of my Dad. Just a chapter! And I never knew him well until I recreated him on <del>paper</del> paper.</p>
+<p>I may send you a copy of <hi rend="underline">The <unclear>Storming</unclear> of Bancroft</hi>. It is about my father and the 22nd regulars. This chapter concludes my study of my Dad. Just a chapter! And I never knew him well until I recreated him on <del>paper</del> paper.</p>
 
 <p>I am <hi rend="double underline">not</hi> mad at you! I love you and Bower.</p>
 <closer>

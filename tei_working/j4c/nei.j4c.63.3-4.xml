@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.63.3-4_0001-4">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.63.3-4">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, February 15, 1972</title>
+<title type="main">Letter from John G. Neihardt to Lucile Aly, February 15, 1972</title>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4c.63.3-4_0001-4</idno>
+<idno>nei.j4c.63.3-4</idno>
 <availability>
 <p></p>
 </availability>
@@ -42,7 +42,7 @@
 <sourceDesc>
 <bibl>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
-<title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
+<title level="m" type="main">Letter from John G. Neihardt to Lucile Aly</title>
 <date when="1972-02-15">February 15, 1972</date>
 <extent>8 pages</extent>
 </bibl>
@@ -54,44 +54,11 @@
 <msContents>
 <p>8 hand-written pages</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>8 pages
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
+
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
-
 
 <profileDesc>
 <textClass>
@@ -104,31 +71,37 @@
 <keywords scheme="original" n="topic">
 <term></term>
 </keywords>
-<keywords scheme="lcsh" n="keywords">
-<term></term>
+<keywords scheme="lcsh" n="works">
+<term>Black Elk Speaks</term>
+<term>Patterns and Coincidences: A Sequel to All Is But A Beginning</term>
+<term>All is but a beginning : youth remembered, 1881-1901</term>
+<term>John G. Neihardt: A Critical Biography</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Cavett, Dick</term>
+<term>Petri, Hilda Neihardt</term>
+<term>Aly, Bower, 1903-1977</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>Canada</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Lincoln (Neb.)</placeName>
+<date when="1972-02-15"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
+<persName>Aly, Lucile Folse, 1913-</persName>
 <placeName></placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Aly, Lucile Folse, 1913-</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc; transcription</change>
 <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -145,24 +118,24 @@
 
 <opener>
 <dateline>
-5835 Vine
-Lincoln, Neb.
-68505
+5835 Vine<lb/>
+Lincoln, Neb.<lb/>
+68505<lb/>
 _____
-Tuesday <hi rend="caps">A. M.</hi>
+Tuesday <hi rend="caps">A. M.</hi><lb/>
 2-15-'72
 </dateline>
 
 <salute>Dear Lucile:</salute>
 </opener>
-<p>Your reply to my importunate letter of several days ago came in <unclear>record</unclear> time! &#8212; Practically instantaneous! I do hope my rude protest did not offend you. I <hi rend="underline">do</hi> hope it hurt enough to make you more thoughtful of this
+<p>Your reply to my importunate letter of several days ago came in record time! &#8212; Practically instantaneous! I do hope my rude protest did not offend you. I <hi rend="underline">do</hi> hope it hurt enough to make you more thoughtful of this
 
 <pb facs="nei.j4c.63.3-4_0001b"/>
 <fw type="curatorial">-2-</fw>
 
 poor old man who has so few pleasures, but sits around drooling and whispering.</p>
 
-<p>No, I was happy to hear from you, and it's good news that you are trying the Mo. University Press. There <hi rend="underline">is</hi> quite a <unclear>tradition</unclear> there, I gather from recent letters. Still, it may be that the popularity of <hi rend="underline">Black Elk</hi> <del/> may create a demand in the <hi rend="underline">commercial publishing</hi> <del><unclear>world</unclear></del>world. Simon &amp; Shuster<sic>Schuster</sic> 
+<p>No, I was happy to hear from you, and it's good news that you are trying the Mo. University Press. There <hi rend="underline">is</hi> quite a tradition there, I gather from recent letters. Still, it may be that the popularity of <hi rend="underline">Black Elk</hi> <del/> may create a demand in the <hi rend="underline">commercial publishing</hi> <del><unclear>world</unclear></del>world. Simon &amp; <choice><sic>Shuster</sic><corr>Schuster</corr></choice> 
 
 <fw type="curatorial">3</fw>
 <pb facs="nei.j4c.63.3-4_0002a"/>
@@ -193,16 +166,16 @@ anything extra for them. I'll bet you ran for the <hi rend="underline">Dictionar
 <pb facs="nei.j4c.63.3-4_0003a"/>
 <fw type="authorial">-3-</fw>
 <postscript>
-<p>with Dick Cavett's Introduction, may induce some big commercial publisher. <del>to</del> Why not Simon &amp; Shuster<sic>Schuster</sic> (owners of Pocket Book) or Harcourt Brace Jovanovich? I feel pretty sure that Harcourt will be happy with the Autobiography in the Fall.</p>
+<p>with Dick Cavett's Introduction, may induce some big commercial publisher. <del>to</del> Why not Simon &amp; <choice><sic>Shuster</sic><corr>Schuster</corr></choice> (owners of Pocket Book) or Harcourt Brace Jovanovich? I feel pretty sure that Harcourt will be happy with the Autobiography in the Fall.</p>
 
-<p>There <hi rend="underline">is</hi>, however, a big revival of Neihardt at <hi rend="caps">M. U.</hi> My <hi rend="caps">TV</hi> 
+<p>There <hi rend="underline">is</hi>, however, a big revival of Neihardt at M. U. My TV 
 
 <pb facs="nei.j4c.63.3-4_0003b"/>
 <fw type="authorial">-4-</fw>
 
 course is bigger than ever, and students clamoring for admission. At present there is room for only 250 and the rooms are crowded.</p>
 
-<p>I've recently heard <del/> the English Dept. at the <hi rend="underline">University</hi> of <hi rend="underline">Nebraska</hi> is planning a Neihardt Memorial &#8212; either <unclear>end</unclear> on the campus, <del><unclear>or perhaps</unclear> a scholarship.</del> in the English Dept.
+<p>I've recently heard <del/> the English Dept. at the <hi rend="underline">University</hi> of <hi rend="underline">Nebraska</hi> is planning a Neihardt Memorial &#8212; either <unclear>one</unclear> on the campus, <del><unclear>or perhaps</unclear> a scholarship.</del> in the English Dept.
 
 <fw type="curatorial">4</fw>
 <pb facs="nei.j4c.63.3-4_0004a"/>
@@ -210,7 +183,7 @@ course is bigger than ever, and students clamoring for admission. At present the
 
 <del/>There is some thought of a scholarship.</p>
 
-<p>Hilda has just phoned me saying she has received the Contract with Barrie<sic>Barry</sic> and Jenkins of London. Its for a hard-back<sic>hardback</sic> British edition <hi rend="underline">and</hi> a paper back<sic>paperback</sic>. This will include Canada. <del>as well as</del></p>
+<p>Hilda has just phoned me saying she has received the Contract with <choice><sic>Barrie</sic><corr>Barry</corr></choice> and Jenkins of London. Its for a hard-back British edition <hi rend="underline">and</hi> a paper back. This will include Canada. <del>as well as</del></p>
 
 <p>People are going to like the Autobiography <del/>
 
