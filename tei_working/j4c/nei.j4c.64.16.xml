@@ -5,7 +5,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to Mr. and Mrs. Ward Moore, November 10, 1972</title>
+<title type="main">Letter from John G. Neihardt to Ward and Marie Moore, November 10, 1972</title>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
@@ -42,7 +42,7 @@
 <sourceDesc>
 <bibl>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
-<title level="m" type="main">Letter from John G. Neihardt to Mr. and Mrs. Ward Moore</title>
+<title level="m" type="main">Letter from John G. Neihardt to Ward and Marie Ward Moore</title>
 <date when="1972-11-10">November 10, 1972</date>
 <extent>1 page</extent>
 </bibl>
@@ -54,43 +54,11 @@
 <msContents>
 <p>1 type-written page</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>1 page
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
+
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
 
 
 <profileDesc>
@@ -104,28 +72,36 @@
 <keywords scheme="original" n="topic">
 <term></term>
 </keywords>
-<keywords scheme="lcsh" n="keywords">
-<term></term>
+<keywords scheme="lcsh" n="works">
+<term>All is but a beginning : youth remembered, 1881-1901</term>
+<term>Patterns and Coincidences: A Sequel to All Is But A Beginning</term>
+<term>Kansas City Star</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Exon, J. James (John James), 1921-2005</term>
+<term>Nixon, Richard Milhous, 1913-1994</term>
+<term>Menn, Thorpe</term>
+<term>Young, Myrtle</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>Nebraska</term>
+<term>Bancroft (Neb.)</term>
+<term>Lincoln (Neb.)</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Lincoln (Neb.)</placeName>
+<date when="1972-11-10"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<placeName></placeName>
+<persName>Moore, Ward</persName>
+<persName>Moore, Marie</persName>
+<placeName>Poplar Bluff (Mo.)</placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Moore, Mr. and Mrs. Ward</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Moore, Ward and Marie</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
@@ -148,8 +124,8 @@
 
 <opener>
 <dateline>
-5835 Vine Street
-Lincoln, Nebraska 68505
+5835 Vine Street<lb/>
+Lincoln, Nebraska 68505<lb/>
 November 10, 1972
 </dateline>
 

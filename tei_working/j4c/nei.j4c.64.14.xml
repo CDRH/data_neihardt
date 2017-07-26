@@ -5,7 +5,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to Mrs. William Watkins, November 7, 1972</title>
+<title type="main">Letter from John G. Neihardt to Janet Gibson Watkins, November 7, 1972</title>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
@@ -42,7 +42,7 @@
 <sourceDesc>
 <bibl>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
-<title level="m" type="main">Letter from John G. Neihardt to Mrs. William Watkins</title>
+<title level="m" type="main">Letter from John G. Neihardt to Janet Gibson Watkins</title>
 <date when="1972-11-07">November 7, 1972</date>
 <extent>1 page</extent>
 </bibl>
@@ -54,44 +54,11 @@
 <msContents>
 <p>1 type-written page</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>1 page
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
+
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
-
 
 <profileDesc>
 <textClass>
@@ -108,7 +75,7 @@
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Young, Myrtle</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
 <term></term>
@@ -118,18 +85,18 @@
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
 <placeName></placeName>
-<date when="1900"/>
+<date when="1972-11-07"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
+<persName>Watkins, Janet Gibson</persName>
 <placeName></placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Watkins, Mrs. William</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Watkins, Janet Gibson</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
-<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc; transcription</change>
 <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -148,22 +115,22 @@
 
 <opener>
 <dateline>
-5835 Vine Street
-Lincoln, Nebraska 68505
+5835 Vine Street<lb/>
+Lincoln, Nebraska 68505<lb/>
 November 7, 1972
 </dateline>
 
 <address>
 <addrLine>Mrs. William Watkins</addrLine>
 <addrLine>209 College Avenue</addrLine>
-<addrLine>Swathmore, Pennsylvania 19081</addrLine>
+<addrLine>Swarthmore, Pennsylvania 19081</addrLine>
 </address>
 
 <salute>Dear Mrs. Watkins:</salute>
 </opener>
 <p>I am very much interested in your offer to paint the portrait of Jacquot, my good friend and colleague, and I understand that Mrs. Young is sending you herewith two photographs. I am sure that you will find him a "real people." I, myself, favor the full length picture, although the other one is a better portrait.</p>
 
-<p>Heretofor<sic>Heretofore</sic> artists have chosen to paint my portrait. I think it is very discerning of you to choose Jacquot instead of myself. I wish he could sit for you. He is a very satisfactory model and would like nothing better than to pose for your hours on end.</p>
+<p><choice><sic>Heretofor</sic><corr>Heretofore</corr></choice> artists have chosen to paint my portrait. I think it is very discerning of you to choose Jacquot instead of myself. I wish he could sit for you. He is a very satisfactory model and would like nothing better than to pose for you hours on end.</p>
 <closer>
 <salute>With all kind thoughts,</salute>
 
