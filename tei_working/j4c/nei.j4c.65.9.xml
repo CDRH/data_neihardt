@@ -5,7 +5,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to Dr. and Mrs. John Winkelman, January 29, 1973</title>
+<title type="main">Letter from John G. Neihardt to John and Phyllis Winkelman, January 29, 1973</title>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
@@ -42,7 +42,7 @@
 <sourceDesc>
 <bibl>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
-<title level="m" type="main">Letter from John G. Neihardt to Dr. and Mrs. John Winkelman</title>
+<title level="m" type="main">Letter from John G. Neihardt to John and Phyllis Winkelman</title>
 <date when="1973-01-29">January 29, 1973</date>
 <extent>1 page</extent>
 </bibl>
@@ -54,43 +54,11 @@
 <msContents>
 <p>1 type-written page</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>1 page
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
+
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
 
 
 <profileDesc>
@@ -104,31 +72,37 @@
 <keywords scheme="original" n="topic">
 <term></term>
 </keywords>
-<keywords scheme="lcsh" n="keywords">
-<term></term>
+<keywords scheme="lcsh" n="works">
+<term>Black Elk Speaks</term>
+<term>All is but a beginning : youth remembered, 1881-1901</term>
+<term>Patterns and Coincidences: A Sequel to All Is But A Beginning</term>
+<term>When the Tree Flowered</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>Hollywood (Calif.)</term>
+<term>Columbia (Mo.)</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Lincoln (Neb.)</placeName>
+<date when="1973-01-29"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<placeName></placeName>
+<persName>Winkleman, John H.</persName>
+<persName>Winkelman, Phyllis H.</persName>
+<placeName>Elnora (N.Y.)</placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Winkelman, Dr. and Mrs. John</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Winkelman, John and Phyllis</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
 <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -147,8 +121,8 @@
 
 <opener>
 <dateline>
-5835 Vine Street
-Lincoln, Nebraska 68505
+5835 Vine Street<lb/>
+Lincoln, Nebraska 68505<lb/>
 January 29, 1973
 </dateline>
 
@@ -167,9 +141,9 @@ January 29, 1973
 
 <p>You are right; to be loved is the greatest thing in the world, but the word has been spoiled by careless usage. However, I know we understand what we mean.</p>
 
-<p>It has been astonishing how interest in my work has grown the last year. <hi rend="caps">BLACK ELK SPEAKS</hi> in the Pocket Books edition sold 250,000 copies during April and May of last year. It has been selling ever since but we have no report recently.</p>
+<p>It has been astonishing how interest in my work has grown the last year. BLACK ELK SPEAKS in the Pocket Books edition sold 250,000 copies during April and May of last year. It has been selling ever since but we have no report recently.</p>
 
-<p>My latest book,<hi rend="caps">ALL IS BUT A BEGINNING</hi>, has been doing well all over the country, judging by our mail. <hi rend="caps">WHEN THE TREE FLOWERED</hi> has just come out in Pocket Book series and is expected to sell as well as <hi rend="caps">BLACK ELK S<del>E</del><add>P</add>EAKS</hi>.</p>
+<p>My latest book, ALL IS BUT A BEGINNING, has been doing well all over the country, judging by our mail. WHEN THE TREE FLOWERED has just come out in Pocket Book series and is expected to sell as well as BLACK ELK S<del>E</del><add>P</add>EAKS.</p>
 
 <p>I am working on the second volume of my autobiography now and it will appear within a year.</p>
 

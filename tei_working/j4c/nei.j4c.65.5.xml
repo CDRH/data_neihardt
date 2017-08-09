@@ -54,43 +54,11 @@
 <msContents>
 <p>1 type-written page</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>1 page
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
+
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
 
 
 <profileDesc>
@@ -104,24 +72,26 @@
 <keywords scheme="original" n="topic">
 <term></term>
 </keywords>
-<keywords scheme="lcsh" n="keywords">
-<term></term>
+<keywords scheme="lcsh" n="works">
+<term>Saturday Review of Literature</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>Bancroft (Neb.)</term>
+<term>Columbia (Mo.)</term>
+<term>Hollywood (Calif.)</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Lincoln (Neb.)</placeName>
+<date when="1973-01-17"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
+<persName>Kelly, Katie</persName>
 <placeName></placeName>
 </correspAction>
 </correspDesc>
@@ -129,6 +99,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
 <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -147,31 +118,31 @@
 
 <opener>
 <dateline>
-5835 Vine Street
-Lincoln, Nebraska 68505
+5835 Vine Street<lb/>
+Lincoln, Nebraska 68505<lb/>
 January 17, 1973
 </dateline>
 
 <salute>Dear Katie Kelly:</salute>
 </opener>
-<p>It is most dear of you to care about my exposure to the flu but so far I seem to be protected. I had thflue<sic>the flu</sic> shot in September and perhaps that will do the necessary work. I have had rather hard touches of asthma, but am getting my work done anyway.</p>
+<p>It is most dear of you to care about my exposure to the flu but so far I seem to be protected. I had <choice><sic>thflue</sic><corr>the flu</corr></choice> shot in September and perhaps that will do the necessary work. I have had rather hard touches of asthma, but am getting my work done anyway.</p>
 
-<p>What I really want to say <add>is</add> that we are <del>generally</del><add>greatly</add> sorry that you had such a hard time with the flue<sic>flu</sic> but we are grateful that you came through relatively unharmed. We all think you are an angel and we are very eager to know about the literary work you are doing. We want to know about this book. When did you write it, and what is it about? I'll' bet it's delightful.</p>
+<p>What I really want to say <add>is</add> that we are <del>generally</del><add>greatly</add> sorry that you had such a hard time with the <choice><sic>flue</sic><corr>flu</corr></choice> but we are grateful that you came through relatively unharmed. We all think you are an angel and we are very eager to know about the literary work you are doing. We want to know about this book. When did you write it, and what is it about? I'll' bet it's delightful.</p>
 
-<p>My book seems to be getting around, as we hear from many parts of the country about it. I am more than half way<sic>halfway</sic> through the second volume I think, but I am not quite sure. You will care to know that the Neihardt Foundation at Bancroft has bought land adjoining the present Prayer Garden and they are going after money to build a museum. They seem to have endless enthusiasm, bless their hearts, and enthusiasm will do almost anything.</p>
+<p>My book seems to be getting around, as we hear from many parts of the country about it. I am more than half way through the second volume I think, but I am not quite sure. You will care to know that the Neihardt Foundation at Bancroft has bought land adjoining the present Prayer Garden and they are going after money to build a museum. They seem to have endless enthusiasm, bless their hearts, and enthusiasm will do almost anything.</p>
 
 <p>We are holding our breath until we can see a copy of your Saturday Review article. Of course it cannot be expected yet, but we are watching with all our eyes.</p>
 <closer>
 <salute>With affectionate thoughts, dear lady, your friends,</salute>
 
 
-<signed>John Neiha<del>l</del><add>r</add>fdand<sic>Neihardt and</sic> Company</signed>
+<signed>John <choice><sic>Neiha<del>l</del><add>r</add>fdand</sic><corr>Neihardt and</corr></choice> Company</signed>
 
 <note>JGN:nh</note>
 </closer>
 
 <postscript>
-<opener><hi rend="caps">P. S.</hi></opener> <p>I will meet in Columbia next week with the United Artists technicians. They are sending a sound truck from Hollywood and we will make <del>an</del> a Neihardt album. It's a sure go as we have a signed contract and liberal advance money.</p>  
+<opener>P. S.</opener> <p>I will meet in Columbia next week with the United Artists technicians. They are sending a sound truck from Hollywood and we will make <del>an</del> a Neihardt album. It's a sure go as we have a signed contract and liberal advance money.</p>  
 </postscript>
 
 </div1>
