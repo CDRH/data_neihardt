@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.65.17-18_0001-3">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.65.17-18">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, February 18, 1973</title>
+<title type="main">Letter from John G. Neihardt to Lucile Aly, February 18, 1973</title>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4c.65.17-18_0001-3</idno>
+<idno>nei.j4c.65.17-18</idno>
 <availability>
 <p></p>
 </availability>
@@ -42,7 +42,7 @@
 <sourceDesc>
 <bibl>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
-<title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
+<title level="m" type="main">Letter from John G. Neihardt to Lucile Aly</title>
 <date when="1973-02-18">February 18, 1973</date>
 <extent>4 pages, plus envelope</extent>
 </bibl>
@@ -54,44 +54,11 @@
 <msContents>
 <p>4 hand-written pages, plus envelope</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>4 pages
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="2">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
+
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
-
 
 <profileDesc>
 <textClass>
@@ -104,31 +71,39 @@
 <keywords scheme="original" n="topic">
 <term></term>
 </keywords>
-<keywords scheme="lcsh" n="keywords">
-<term></term>
+<keywords scheme="lcsh" n="works">
+<term>John G. Neihardt: A Critical Biography</term>
+<term>All is but a beginning : youth remembered, 1881-1901</term>
+<term>Patterns and Coincidences: A Sequel to All Is But A Beginning</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Holm, Mrs. Elmer E.</term>
+<term>Young, Julius</term>
+<term>Young, Myrtle</term>
+<term>Peden, William</term>
+<term>Aly, Bower, 1903-1977</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>Columbia (Mo.)</term>
+<term>Hollywood (Calif.)</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Lincoln (Neb.)</placeName>
+<date when="1973-02-18"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<placeName></placeName>
+<persName>Aly, Lucile Folse, 1913-</persName>
+<placeName>Eugene (Or.)</placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Aly, Lucile Folse, 1913-</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
 <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -145,7 +120,7 @@
 
 <opener>
 <dateline>
-Lincoln,
+Lincoln,<lb/>
 2-18-'73
 </dateline>
 
@@ -157,11 +132,11 @@ Lincoln,
 <pb facs="nei.j4c.65.17-18_0001a"/>
 <fw type="authorial">-2-</fw>
 
-<hi rend="double underline">Dear</hi> <hi rend="underline">Lucile</hi>, its<sic>it's</sic> such a bully job, and often we remark on how excellent your anaylses are.</p>
+<hi rend="double underline">Dear</hi> <hi rend="underline">Lucile</hi>, its such a bully job, and often we remark on how excellent your anaylses are.</p>
 
-<p>How I do hope someone with real vision has the opportunity to read the <hi rend="caps">MS</hi>!</p>
+<p>How I do hope someone with real vision has the opportunity to read the MS!</p>
 
-<p>I wonder if <hi rend="underline">Dr. <unclear>Pedron</unclear></hi> is a member of the <hi rend="underline">Press</hi> board at <unclear>Missouri</unclear>. If so, has he explained my opinion or general
+<p>I wonder if <hi rend="underline">Dr. Peden</hi> is a member of the <hi rend="underline">Press</hi> board at Missouri. If so, has he explained my opinion or general
 
 <pb facs="nei.j4c.65.17-18_0002a"/>
 <fw type="authorial">-3-</fw>
@@ -174,11 +149,11 @@ attitude towards the book? Oh I am so eager for your book to get a fair break! L
 
 <pb facs="nei.j4c.65.17-18_0002b"/> 
 
-a record album of my recitations, I'm <unclear>aware</unclear> &#8212; <del/> ?</p>
+a record album of my recitations, I'm <unclear/> &#8212; <del/> ?</p>
 
 <p>I'm making progress on the new book. It is to be composed of <unclear>high</unclear> "spots" <del/> of my experiences only. There is no continuous <hi rend="underline">1, 2, 3</hi> narration of events. It will all be <hi rend="underline">rich</hi> I hope.</p>
 
-<p>"All is But a Beginning" is at the 4th printing &#8212; perhaps the 5th by now. Anway it is doing well, and all readers who will seem <hi rend="underline">hailing</hi> over it.</p>
+<p>"All is But a Beginning" is at the 4th printing &#8212; perhaps the 5th by now. Anyway it is doing well, and all readers who will seem <hi rend="underline">hailing</hi> over it.</p>
 
 <p><hi rend="underline">Do you hear or</hi> <hi rend="double underline">have</hi> <hi rend="underline">you</hi> heard of the book.</p>
 <closer>
@@ -197,8 +172,8 @@ a record album of my recitations, I'm <unclear>aware</unclear> &#8212; <del/> ?<
 <pb facs="nei.j4c.65.17-18_0003"/>
 
 <ab type="return">
-John G. Neihardt
-5835 Vine St.
+John G. Neihardt<lb/>
+5835 Vine St.<lb/>
 Lincoln, Neb. 68505
 </ab>
 

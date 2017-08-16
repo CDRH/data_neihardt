@@ -54,44 +54,11 @@
 <msContents>
 <p>1 type-written page</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>1 page
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
+
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
-
 
 <profileDesc>
 <textClass>
@@ -108,7 +75,7 @@
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Everett</term><!-- Mrs. David -->
 </keywords>
 <keywords scheme="lcsh" n="places">
 <term></term>
@@ -117,18 +84,19 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Lincoln (Neb.)</placeName>
+<date when="1973-05-24"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<placeName></placeName>
+<persName>Barber, Blanche</persName>
+<placeName>Merced (Calif.)</placeName>
 </correspAction>
 </correspDesc>
 <particDesc><person role="recipient"><persName>Barber, Blanche</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
 <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -147,15 +115,15 @@
 
 <opener>
 <dateline>
-5835 Vine Street
-Lincoln, Nebraska
+5835 Vine Street<lb/>
+Lincoln, Nebraska<lb/>
 May 24, 1973
 </dateline>
 
 <address>
 <addrLine>Miss Blanche Barber</addrLine>
 <addrLine>Hy Lond Convalescent Hospital</addrLine>
-<addrLine>3170 <hi rend="caps">M</hi> Street</addrLine>
+<addrLine>3170 M Street</addrLine>
 <addrLine>Merced, California 95340</addrLine>
 </address>
 
@@ -174,7 +142,7 @@ May 24, 1973
 </closer>
 
 <postscript>
-<opener><hi rend="caps">P. S.</hi> </opener> <p><hi rend="caps">BLACK ELK SPEAKS</hi> is still going strong all over the country and in Europe. We hear from both coasts and in between and we have many visitors. Sometimes it becomes a bit strenuous but we are grateful for the kind attention of our unknown friends.</p>
+<opener><hi rend="caps">P. S.</hi> </opener> <p>BLACK ELK SPEAKS is still going strong all over the country and in Europe. We hear from both coasts and in between and we have many visitors. Sometimes it becomes a bit strenuous but we are grateful for the kind attention of our unknown friends.</p>
 
 <closer>&#8212; <signed>John</signed></closer>
 </postscript>
