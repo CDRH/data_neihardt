@@ -54,43 +54,11 @@
 <msContents>
 <p>1 type-written page</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>1 page
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
+
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
 
 
 <profileDesc>
@@ -104,11 +72,15 @@
 <keywords scheme="original" n="topic">
 <term></term>
 </keywords>
-<keywords scheme="lcsh" n="keywords">
-<term></term>
+<keywords scheme="lcsh" n="wors">
+<term>Poetic Values</term>
+<term>A Cycle of the West</term>
+<term>A Stranger at the Gate</term>
+<term>The Mountain Men</term>
+<term>The Twilight of the Sioux</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Morgan</term><!-- Rev. -->
 </keywords>
 <keywords scheme="lcsh" n="places">
 <term></term>
@@ -117,18 +89,19 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Lincoln (Neb.)</placeName>
+<date when="1973-07-12"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<placeName></placeName>
+<persName>Jahren, Ida M.</persName>
+<placeName>Austin (Minn.)</placeName>
 </correspAction>
 </correspDesc>
 <particDesc><person role="recipient"><persName>Jahren, Ida M.</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
 <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -147,14 +120,14 @@
 
 <opener>
 <dateline>
-5835 Vine Street
-Lincoln, Nebraska 68505
+5835 Vine Street<lb/>
+Lincoln, Nebraska 68505<lb/>
 July 12, 1973
 </dateline>
 
 <address>
-<addrLine>Mrs. Ida. <hi rend="caps">M.</hi> Jahren</addrLine>
-<addrLine>405 5th Avenue <hi rend="caps">SW</hi></addrLine>
+<addrLine>Mrs. Ida. M. Jahren</addrLine>
+<addrLine>405 5th Avenue SW</addrLine>
 <addrLine>Austin, Minnesota 55912</addrLine>
 </address>
 
@@ -162,11 +135,11 @@ July 12, 1973
 </opener>
 <p>I was very glad for your excellent letter of June 5, 1973, and I wish I could have a good talk with you in reply to the questions you have asked. Unfortunately at the moment I am very much under the weather and can write only a sketchy letter at the best.</p>
 
-<p>I am wondering if you have seen my little book entitled <hi rend="caps">POETIC VALUES</hi>. I think it would interest you. It should be in your public library. It might serve to stimulate your thoughts about the differences in people. It has been out of print for some years.</p>
+<p>I am wondering if you have seen my little book entitled POETIC VALUES. I think it would interest you. It should be in your public library. It might serve to stimulate your thoughts about the differences in people. It has been out of print for some years.</p>
 
-<p>I am especially pleased to know that <hi rend="caps">THE STRANGER AT THE GATE</hi> was written for you.</p>
+<p>I am especially pleased to know that THE STRANGER AT THE GATE was written for you.</p>
 
-<p>Thus far I think you only know my lyric poems. Perhaps you know that the chief work of my life is titled <hi rend="caps">THE CYCLE OF THE WEST</hi> and consists of five heroic narrative poems. The work is issued in two volumes, the first being <hi rend="caps">THE MOUNTAIN MEN</hi> and the second being <hi rend="caps">THE TWILIGHT OF THE SIOUX</hi>. I worked eighteen years on it, actual time, and I think you will find much of me in it.</p>
+<p>Thus far I think you only know my lyric poems. Perhaps you know that the chief work of my life is titled THE CYCLE OF THE WEST and consists of five heroic narrative poems. The work is issued in two volumes, the first being THE MOUNTAIN MEN and the second being THE TWILIGHT OF THE SIOUX. I worked eighteen years on it, actual time, and I think you will find much of me in it.</p>
 
 <p>Thank you very much for the excerpt from Rev. Morgan's sermon.</p>
 <closer>
