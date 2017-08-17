@@ -54,44 +54,11 @@
 <msContents>
 <p>1 type-written page</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>1 page
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
+
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
-
 
 <profileDesc>
 <textClass>
@@ -104,31 +71,42 @@
 <keywords scheme="original" n="topic">
 <term></term>
 </keywords>
-<keywords scheme="lcsh" n="keywords">
-<term></term>
+<keywords scheme="lcsh" n="works">
+<term>The Song of the Indian Wars</term>
+<term>All is but a beginning : youth remembered, 1881-1901</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Young, Myrtle</term>
+<term>Rinehart, F. A. (Frank A.)</term>
+<term>Red Cloud, 1822-1909</term>
+<term>Sitting Bull, 1831?-1890</term>
+<term>Spotted Tail, 1823-1881</term>
+<term>Curly, approximately 1856-1923</term>
+<term>Iron Hawk</term>
+<term>Chase-in-the Morning</term>
+<term>American Horse, Dakota chief, 1840-1908</term>
+<term>Touch-the-Cloud</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>Slim Buttes (Wyo.)</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Lincoln (Neb.)</placeName>
+<date when="1972-11-20"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<placeName></placeName>
+<persName>Koury, Michael J.</persName>
+<placeName>Ft. Collins (Colo.)</placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Koury, Mike</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Koury, Michael J.</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
 <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -147,8 +125,8 @@
 
 <opener>
 <dateline>
-5835 Vine Street
-Lincoln, Nebraska 68505
+5835 Vine Street<lb/>
+Lincoln, Nebraska 68505<lb/>
 November 20, 1972
 </dateline>
 
@@ -164,7 +142,7 @@ November 20, 1972
 
 <p>I have four Rinehart originals &#8212; Red Cloud, Sitting Bull, Spotted Tail and Curly. Curly, as you probably know, is my Brother Friend, and he has long since been gathered to his fathers.</p>
 
-<p>I am much interested in the pictures of Chase-in-the Morning, Iron Hawk, and American Horse. The latter could not be the one killed at Slim Buttes but could be the son, I suppose. Chase-in-the-Morning and Iron Hawk could very well be the ones I know by those names. I knew them in 1930 and that would bring them to about the right age for my Indians. Chase-in-the-Morning had a beautiful tenor voice and he could sing like a nightingale. He woke me and my daughters in the morning by singing to use<sic>us</sic> in our sacred tepee<sic>tipi</sic>.</p>
+<p>I am much interested in the pictures of Chase-in-the Morning, Iron Hawk, and American Horse. The latter could not be the one killed at Slim Buttes but could be the son, I suppose. Chase-in-the-Morning and Iron Hawk could very well be the ones I know by those names. I knew them in 1930 and that would bring them to about the right age for my Indians. Chase-in-the-Morning had a beautiful tenor voice and he could sing like a nightingale. He woke me and my daughters in the morning by singing to <choice><sic>use</sic><corr>us</corr></choice> in our sacred tepee.</p>
 
 <p>Iron Hawk, who could well be Rinehart's man, was once telling me and my daughters and several friends how he fought at the Battle of the Little Big Horn. He was riding his pony and fighting in pantomime. I'd hate to meet a face like that in the dark, but he was a good man and he noted that my little daughter twelve years old was very much excited by his description of the battle. Her eyes were as big as saucers. When Iron Hawk noted her he evidently was afraid he was scaring the little girl so he stopped his pantomime battle, smiled down at the little girl and said, "Well, you know we were all crazy. We were thinking about the women and children down yonder in the valley, running away all out of breath." I said, "Iron Hawk, you needn't apologize to her. She is on your side." He grinned from ear to ear and said, "Ah-h-h-h."</p>
 

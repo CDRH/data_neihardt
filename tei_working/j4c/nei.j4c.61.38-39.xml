@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.61.38-39_0001-2">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.61.38-39">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to Dr. Slade Kendrick, June 1, 1970</title>
+<title type="main">Letter from John G. Neihardt to Slade Kendrick, June 1, 1970</title>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4c.61.38-39_0001-2</idno>
+<idno>nei.j4c.61.38-39</idno>
 <availability>
 <p></p>
 </availability>
@@ -42,7 +42,7 @@
 <sourceDesc>
 <bibl>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
-<title level="m" type="main">Letter from John G. Neihardt to Dr. Slade Kendrick</title>
+<title level="m" type="main">Letter from John G. Neihardt to Slade Kendrick</title>
 <date when="1970-06-01">June 1, 1970</date>
 <extent>4 pages</extent>
 </bibl>
@@ -54,44 +54,10 @@
 <msContents>
 <p>4 hand-written pages</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>4 pages
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
-
 
 <profileDesc>
 <textClass>
@@ -104,31 +70,35 @@
 <keywords scheme="original" n="topic">
 <term></term>
 </keywords>
-<keywords scheme="lcsh" n="keywords">
-<term></term>
+<keywords scheme="lcsh" n="works">
+<term>John G. Neihardt: A Critical Biography</term>
+<term>Patterns and Coincidences: A Sequel to All Is But A Beginning</term>
+<term>The Red Wind Comes</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Petri, Hilda Neihardt</term>
+<term>Aly, Lucile Folse, 1913-</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>Columbia (Mo.)</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
 <placeName></placeName>
-<date when="1900"/>
+<date when="1970-06-01"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
+<persName>Kendrick, M. Slade (Myron Slade)</persName>
 <placeName></placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Kendrick, M. Slade</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Kendrick, M. Slade (Myron Slade)</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
 <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -161,15 +131,15 @@ mansion I have in Heaven!! Of course, they may appear<del/> while I'm living, bu
 
 <p>I have decided to complete my "Autobiography" before publishing any of it. This seems the wiser way. I'll be busy on the <hi rend="underline">Adult Section</hi> most of the coming year.</p>
 
-<p>Dr. Aly's Biography of <hi rend="caps">J &#8212; G</hi> &#8212; Neihardt is complete and the <hi rend="caps">MS</hi><del/> is in the 
+<p>Dr. Aly's Biography of J &#8212; G &#8212; Neihardt is complete and the MS<del/> is in the 
 
 <fw type="curatorial">38</fw>
 <pb facs="nei.j4c.61.38-39_0002a"/>
 <fw type="authorial">-3-</fw>
 
-hands of the publisher. It is a large <unclear>work</unclear> &#8212; 1000 pages of <hi rend="caps">MS</hi> &#8212; and God alone knows what the publisher may decide, altho<sic>although</sic> the author has a contract. It <hi rend="double underline">is</hi> a remarkably <hi rend="underline">fine piece of work.</hi> Hilda pronounces it "magnificent." It is the result of <hi rend="double underline">ten</hi> years of scholarly research. And devotion.</p>
+hands of the publisher. It is a large <unclear>work</unclear> &#8212; 1000 pages of MS &#8212; and God alone knows what the publisher may decide, altho the author has a contract. It <hi rend="double underline">is</hi> a remarkably <hi rend="underline">fine piece of work.</hi> Hilda pronounces it "magnificent." It is the result of <hi rend="double underline">ten</hi> years of scholarly research. And devotion.</p>
 
-<p>It <hi rend="double underline">should</hi> apper<sic>appear</sic> in 1971.<del/></p>
+<p>It <hi rend="double underline">should</hi> <choice><sic>apper</sic><corr>appear</corr></choice> in 1971.<del/></p>
 
 <pb facs="nei.j4c.61.38-39_0002b"/>
 <fw type="authorial">-4-</fw>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.61.33-34_0001-4">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.61.33-34">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, May 17, 1970</title>
+<title type="main">Letter from John G. Neihardt to Lucile Aly, May 17, 1970</title>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4c.61.33-34_0001-4</idno>
+<idno>nei.j4c.61.33-34</idno>
 <availability>
 <p></p>
 </availability>
@@ -42,7 +42,7 @@
 <sourceDesc>
 <bibl>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
-<title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
+<title level="m" type="main">Letter from John G. Neihardt to Lucile Aly</title>
 <date when="1970-05-17">May 17, 1970</date>
 <extent>6 pages</extent>
 </bibl>
@@ -54,44 +54,11 @@
 <msContents>
 <p>6 hand-written pages</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>6 pages
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
+
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
-
 
 <profileDesc>
 <textClass>
@@ -104,31 +71,43 @@
 <keywords scheme="original" n="topic">
 <term></term>
 </keywords>
-<keywords scheme="lcsh" n="keywords">
-<term></term>
+<keywords scheme="lcsh" n="works">
+<term>John G. Neihardt: A Critical Biography</term>
+<term>All is but a beginning : youth remembered, 1881-1901</term>
+<term>Patterns and Coincidences: A Sequel to All Is But A Beginning</term>
+<term>Nebraskaland</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Nicoll, Bruce</term>
+<term>Charles</term>
+<term>Aly, Stewart</term>
+<term>Neihardt, Robin Petri</term>
+<term>Jones, John Paul, 1747-1792</term>
+<term>Boring, Florence</term>
+<term>Young, Myrtle</term>
+<term>Young, Julius</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>Bancroft (Neb.)</term>
+<term>Columbia (Mo.)</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
 <placeName></placeName>
-<date when="1900"/>
+<date when="1970-05-17"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
+<persName>Aly, Lucile Folse, 1913-</persName>
 <placeName></placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Aly, Lucile Folse, 1913-</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
 <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -150,7 +129,7 @@
 </opener>
 <p>Hurrah! Hurrah! The <hi rend="caps">BOOK</hi> <hi rend="underline">is</hi> finished and on its way! Now if Bruce will <hi rend="underline">act</hi>. He is rather a <unclear>Cunctator</unclear> (if you recall your Romans) If he seems to be delaying too long, <hi rend="underline">don't wait and wait,</hi> <hi rend="double underline">and</hi> wait.</p>
 
-<p>The Xerox copy of the <hi rend="caps">MS</hi> will be kept <hi rend="underline">in my bank box with other valuables. It</hi> <hi rend="double underline">is</hi> <hi rend="underline">precious beyond rubies and</hi>
+<p>The Xerox copy of the MS will be kept <hi rend="underline">in my bank box with other valuables. It</hi> <hi rend="double underline">is</hi> <hi rend="underline">precious beyond rubies and</hi>
 
 <pb facs="nei.j4c.61.33-34_0001b"/>
 <fw type="authorial">-2-</fw>
@@ -179,7 +158,7 @@ Day. They seem to have <hi rend="underline">Plans</hi> for a special meeting. We
 <pb facs="nei.j4c.61.33-34_0002b"/>
 <fw type="authorial">-4-</fw>
 
-negotiations will be <del/> resumed before long. I hope so. I'd love to see a <hi rend="underline">mess</hi> of <hi rend="underline">real money</hi> once in a long life; altho'<sic>although</sic> I <hi rend="underline">do</hi> feel I've  been <hi rend="underline">purposely</hi> protected from such <del/> a sight for my own good. <add><note type="authorial">I said <hi rend="double underline">mess</hi>!</note></add> Over and <del/> over I <unclear>may've</unclear> <hi rend="underline">just missed</hi> big <add>money</add> doings in most irrational ways! I guess Heaven is my <del/> home (and I <hi rend="underline">do</hi> have a Mansion <del/><add>there,</add> you know.)</p>
+negotiations will be <del/> resumed before long. I hope so. I'd love to see a <hi rend="underline">mess</hi> of <hi rend="underline">real money</hi> once in a long life; altho' I <hi rend="underline">do</hi> feel I've  been <hi rend="underline">purposely</hi> protected from such <del/> a sight for my own good. <add><note type="authorial">I said <hi rend="double underline">mess</hi>!</note></add> Over and <del/> over I <unclear>may've</unclear> <hi rend="underline">just missed</hi> big <add>money</add> doings in most irrational ways! I guess Heaven is my <del/> home (and I <hi rend="underline">do</hi> have a Mansion <del/><add>there,</add> you know.)</p>
 <closer>
 <salute><hi rend="underline">I love you and yours truly</hi> &#8212;</salute>
 

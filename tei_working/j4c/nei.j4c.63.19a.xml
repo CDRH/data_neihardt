@@ -5,7 +5,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to Precious Lucile, May 25, 1972</title>
+<title type="main">Letter from John G. Neihardt to Lucile Aly, May 25, 1972</title>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
@@ -42,7 +42,7 @@
 <sourceDesc>
 <bibl>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
-<title level="m" type="main">Letter from John G. Neihardt to Precious Lucile</title>
+<title level="m" type="main">Letter from John G. Neihardt to Lucile Aly</title>
 <date when="1972-05-25">May 25, 1972</date>
 <extent>1 page</extent>
 </bibl>
@@ -54,43 +54,10 @@
 <msContents>
 <p>1 type-written page</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>1 page
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
 
 
 <profileDesc>
@@ -104,11 +71,16 @@
 <keywords scheme="original" n="topic">
 <term></term>
 </keywords>
-<keywords scheme="lcsh" n="keywords">
-<term></term>
+<keywords scheme="lcsh" n="works">
+<term>Black Elk Speaks</term>
+<term>All is but a beginning : youth remembered, 1881-1901</term>
+<term>John G. Neihardt: A Critical Biography</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Cavett, Dick</term>
+<term>Aly, Bower, 1903-1977</term>
+<term>Aly, Stewart</term>
+<term>Jones, John Paul, 1747-1792</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
 <term></term>
@@ -117,18 +89,19 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Lincoln (Neb.)</placeName>
+<date when="1972-05-25"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
+<persName>Aly, Lucile Folse, 1913-</persName>
 <placeName></placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Aly, Lucile Folse, 1913-</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
 <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -147,8 +120,8 @@
 
 <opener>
 <dateline>
-5835 Vine Street
-Lincoln, Nebraska 68505
+5835 Vine Street<lb/>
+Lincoln, Nebraska 68505<lb/>
 May 25, 1972
 </dateline>
 
@@ -156,7 +129,7 @@ May 25, 1972
 </opener>
 <p>It has been a long time, I see, since you wrote me about my being in the hospital. As you see, I am out now and have been for some time. Things have been  booming along since I last wrote you. Pocket Books put <hi rend="caps">BLACK ELK</hi> on the market in April with 150,000 copies with an additional printing of 50,000 during the month. By May 5, the 200,000 were sold and the excitement still unabated.</p>
 
-<p>My autobiography, boyhood and youth section, will appear September 20, with an introduction by Dick Cavett. Also, the Neihardt-Cavett program will be repeated on June 12. I am forging ahead with the adult section. You excite me greatly when you tell me about the outlook for the biography. I do believe that whenit<sic>when it</sic> is issued there will be very considerable demand for it. Certainly news of it will be scattered widely and, as you say, the name Neihardt has come to have meaning to thousands upon thousands of people.</p>
+<p>My autobiography, boyhood and youth section, will appear September 20, with an introduction by Dick Cavett. Also, the Neihardt-Cavett program will be repeated on June 12. I am forging ahead with the adult section. You excite me greatly when you tell me about the outlook for the biography. I do believe that when it is issued there will be very considerable demand for it. Certainly news of it will be scattered widely and, as you say, the name Neihardt has come to have meaning to thousands upon thousands of people.</p>
 
 <p>I am so glad you still love me and you may be sure that I still love you and Bower. One of these days you will tell me the latest about Stewart. Just to think, a few weeks ago I was thinking of getting him another book on John Paul Jones. Ask him if he remembers that.</p>
 <closer>

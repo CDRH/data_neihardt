@@ -5,7 +5,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to Dr. Bower Aly, March 3, 1971</title>
+<title type="main">Letter from John G. Neihardt to Bower Aly, March 3, 1971</title>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
@@ -42,7 +42,7 @@
 <sourceDesc>
 <bibl>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
-<title level="m" type="main">Letter from John G. Neihardt to Dr. Bower Aly</title>
+<title level="m" type="main">Letter from John G. Neihardt to Bower Aly</title>
 <date when="1971-03-03">March 3, 1971</date>
 <extent>1 page</extent>
 </bibl>
@@ -54,44 +54,10 @@
 <msContents>
 <p>1 type-written page</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>1 page
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
-
 
 <profileDesc>
 <textClass>
@@ -104,31 +70,39 @@
 <keywords scheme="original" n="topic">
 <term></term>
 </keywords>
-<keywords scheme="lcsh" n="keywords">
-<term></term>
+<keywords scheme="lcsh" n="works">
+<term>The Splendid Wayfaring</term>
+<term>The Song of Jed Smith</term>
+<term>Black Elk Speaks</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Cavett, Dick</term>
+<term>Shepherd</term>
+<term>Smith, Jedediah Strong, 1799-1831</term>
+<term>Aly, Lucile Folse, 1913-</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>New York</term>
+<term>Oregon</term>
+<term>Kansas</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Lincoln (Neb.)</placeName>
+<date when="1971-03-03"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<placeName></placeName>
+<persName>Aly, Bower, 1903-1977</persName>
+<placeName>Eugene (Or.)</placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Aly, Bower</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Aly, Bower, 1903-1977</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
 <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -147,8 +121,8 @@
 
 <opener>
 <dateline>
-5835 Vine Street
-Lincoln, Nebraska 68505
+5835 Vine Street<lb/>
+Lincoln, Nebraska 68505<lb/>
 March 3, 1971
 </dateline>
 
@@ -159,7 +133,7 @@ March 3, 1971
 
 <salute>Dear Bower:</salute>
 </opener>
-<p>I see that I am further indebted to you for bringing the matter of the Dick Cavett interview to the attention of your Dr. Shepherd. It sounds like an exciting possibility and I am going to wait for it eagerly. I am afraid you will have difficulty getting anything out of Dick. He is ridiculously busy and I don't believe he sees a large percentage of his mail. Still, he is especially interested in this material and I hope he does give some time to what you have suggested. We here do not know yet when the show will come off. Perhaps inquiry should be made directly to <hi rend="caps">ABC</hi> in New York.</p>
+<p>I see that I am further indebted to you for bringing the matter of the Dick Cavett interview to the attention of your Dr. Shepherd. It sounds like an exciting possibility and I am going to wait for it eagerly. I am afraid you will have difficulty getting anything out of Dick. He is ridiculously busy and I don't believe he sees a large percentage of his mail. Still, he is especially interested in this material and I hope he does give some time to what you have suggested. We here do not know yet when the show will come off. Perhaps inquiry should be made directly to ABC in New York.</p>
 
 <p>I do wish your idea about Jed Smith could be worked out. I am a bit jealous for my book <hi rend="underline">The Splendid Wayfaring</hi>. It really is an easy book to read and I would like to get someone to think so. Incidentally, it was the Jed Smith massacre that occured in Oregon on the Umpqua. Jed got away safe. He died on the Cimarron River in southwestern Kansas in 1831.</p>
 

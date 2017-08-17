@@ -5,7 +5,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to Mrs. James E. Squire, February 19, 1973</title>
+<title type="main">Letter from John G. Neihardt to Mary Squire, February 19, 1973</title>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
@@ -42,7 +42,7 @@
 <sourceDesc>
 <bibl>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
-<title level="m" type="main">Letter from John G. Neihardt to Mrs. James E. Squire</title>
+<title level="m" type="main">Letter from John G. Neihardt to Mary Squire</title>
 <date when="1973-02-19">February 19, 1973</date>
 <extent>1 page</extent>
 </bibl>
@@ -54,43 +54,11 @@
 <msContents>
 <p>1 type-written page</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>1 page
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
+
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
 
 
 <profileDesc>
@@ -104,11 +72,12 @@
 <keywords scheme="original" n="topic">
 <term></term>
 </keywords>
-<keywords scheme="lcsh" n="keywords">
-<term></term>
+<keywords scheme="lcsh" n="works">
+<term>The Song of Hugh Glass</term>
+<term>A Cycle of the West</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Glass, Hugh, approximately 1780-approximately 1833</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
 <term></term>
@@ -117,18 +86,19 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Lincoln (Neb.)</placeName>
+<date when="1973-02-19"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<placeName></placeName>
+<persName>Squire, Mary</persName>
+<placeName>Elgin (Neb.)</placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Squire, Mrs. James E.</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Squire, Mary</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
 <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -147,13 +117,13 @@
 
 <opener>
 <dateline>
-5835 Vine Street
-Lincoln, Nebraska 68505
+5835 Vine Street<lb/>
+Lincoln, Nebraska 68505<lb/>
 February 19, 1973
 </dateline>
 
 <address>
-<addrLine>Mrs. James <hi rend="caps">E.</hi> Squire</addrLine>
+<addrLine>Mrs. James E. Squire</addrLine>
 <addrLine>Elgin, Nebraska 68636</addrLine>
 </address>
 
@@ -178,7 +148,7 @@ February 19, 1973
 </closer>
 
 <postscript>
-<opener><hi rend="caps">P. S.</hi></opener> <p>It may interest you to know that I described the terrain of Hugh's crawl in my poem eight years before I saw the country. Don't ask me how I knew, but it certainly seems that I did know.</p> <closer>&#8212; <signed><hi rend="caps">J. G. N.</hi></signed></closer>
+<opener>P. S.</opener> <p>It may interest you to know that I described the terrain of Hugh's crawl in my poem eight years before I saw the country. Don't ask me how I knew, but it certainly seems that I did know.</p> <closer>&#8212; <signed><hi rend="caps">J. G. N.</hi></signed></closer>
 </postscript>
 
 </div1>

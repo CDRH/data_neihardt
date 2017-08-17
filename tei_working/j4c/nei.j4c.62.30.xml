@@ -54,44 +54,11 @@
 <msContents>
 <p>1 type-written page</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>1 page
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
+
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
-
 
 <profileDesc>
 <textClass>
@@ -104,31 +71,35 @@
 <keywords scheme="original" n="topic">
 <term></term>
 </keywords>
-<keywords scheme="lcsh" n="keywords">
-<term></term>
+<keywords scheme="lcsh" n="works">
+<term>Black Elk Speaks</term>
+<term>All is but a beginning : youth remembered, 1881-1901</term>
+<term>When the Tree Flowered</term>
+<term>The Dick Cavett Show</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Smith, Stanley C.</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>Bancroft (Neb.)</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Lincoln (Neb.)</placeName>
+<date when="1971-08-10"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<placeName></placeName>
+<persName>Bennett, Mildred R.</persName>
+<placeName>Red Cloud (Neb.)</placeName>
 </correspAction>
 </correspDesc>
 <particDesc><person role="recipient"><persName>Bennett, Mildred R.</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
 <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -149,8 +120,8 @@
 
 <opener>
 <dateline>
-5835 Vine Street
-Lincoln, Nebraska 68505
+5835 Vine Street<lb/>
+Lincoln, Nebraska 68505<lb/>
 August 10, 1971
 </dateline>
 
@@ -163,9 +134,9 @@ August 10, 1971
 </opener>
 <p>It was certainly good to hear from you and to learn that your health is improving. I saw old Stanley at Bancroft on Neihardt Day and he seemed in good spirits and assured me that you were doing well. I wish you could be with us over there one of these times. We do have a happy time together</p>
 
-<p>Here is some news. Simon and Shuster<sic>Schuster</sic> has contracted for <hi rend="caps">BLACK ELK SPEAKS</hi> to be mass published in the pocketbook series. The first edition will come out in February.</p>
+<p>Here is some news. Simon and <choice><sic>Shuster</sic><corr>Schuster</corr></choice> has contracted for <hi rend="caps">BLACK ELK SPEAKS</hi> to be mass published in the pocketbook series. The first edition will come out in February.</p>
 
-<p>Also, Harcourt Brace Ibanovitch<sic>Jovanovich</sic> will publish the youth section of my autobiography in May. Also the Avon Company (mass publishers of paperbacks) have taken over <hi rend="caps">WHEN THE TREE FLOWERED</hi>. The Dick Cavett show had a tremendous effect on my affairs. It received a greater response than any program ever did before and it is still responding. There are three or four other probabilities brewing now. It's really most exciting. Simon and Shuster<sic>Schuster</sic> gave an advance of $20,000 and a royalty of ten percent. The other deals are just as good.</p>
+<p>Also, Harcourt Brace <choice><sic>Ibanovitch</sic><corr>Jovanovich</corr></choice> will publish the youth section of my autobiography in May. Also the Avon Company (mass publishers of paperbacks) have taken over <hi rend="caps">WHEN THE TREE FLOWERED</hi>. The Dick Cavett show had a tremendous effect on my affairs. It received a greater response than any program ever did before and it is still responding. There are three or four other probabilities brewing now. It's really most exciting. Simon and <choice><sic>Shuster</sic><corr>Schuster</corr></choice> gave an advance of $20,000 and a royalty of ten percent. The other deals are just as good.</p>
 
 <p>I am pushing along happily with the adult section of my autobiography. There is no hurry and I am not hurrying. We do want to get out to see you when it is possible. I was glad to hear about the success of your son.</p>
 

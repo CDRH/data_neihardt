@@ -5,8 +5,8 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to A. C. Kemble, May 16, 1973</title>
-<author>Neihardt, John Gneisenau, 1881-1973</author>
+<title type="main">Letter from unknown to A. C. Kemble, May 16, 1973</title>
+<author></author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
 <editionStmt>
@@ -41,7 +41,7 @@
 
 <sourceDesc>
 <bibl>
-<author>Neihardt, John Gneisenau, 1881-1973</author>
+<author></author>
 <title level="m" type="main">Letter from John G. Neihardt to A. C. Kemble</title>
 <date when="1973-05-16">May 16, 1973</date>
 <extent>1 page</extent>
@@ -54,43 +54,11 @@
 <msContents>
 <p>1 type-written page</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>1 page
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
+
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
 
 
 <profileDesc>
@@ -108,27 +76,28 @@
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Neihardt, John Gneisenau, 1881-1973</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>Columbia (Mo.)</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<persName>Unknown</persName>
+<placeName>Lincoln (Neb.)</placeName>
+<date when="1973-05-16"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<placeName></placeName>
+<persName>Kemble, A. C.</persName>
+<placeName>Lakeville (Conn.)</placeName>
 </correspAction>
 </correspDesc>
 <particDesc><person role="recipient"><persName>Kemble, A. C.</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
 <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -147,13 +116,13 @@
 
 <opener>
 <dateline>
-5835 Vine Street
-Lincoln, Nebraska 68505
+5835 Vine Street<lb/>
+Lincoln, Nebraska 68505<lb/>
 May 16, 1973
 </dateline>
 
 <address>
-<addrLine>Mr. <hi rend="caps">A. C.></hi> Kemble</addrLine>
+<addrLine>Mr. A. C. Kemble</addrLine>
 <addrLine>Ore Hill</addrLine>
 <addrLine>Lakeville, Connecticut 06039</addrLine>
 </address>

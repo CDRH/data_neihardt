@@ -54,44 +54,11 @@
 <msContents>
 <p>1 type-written page</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>1 page
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
+
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
-
 
 <profileDesc>
 <textClass>
@@ -104,31 +71,34 @@
 <keywords scheme="original" n="topic">
 <term></term>
 </keywords>
-<keywords scheme="lcsh" n="keywords">
-<term></term>
+<keywords scheme="lcsh" n="works">
+<term>Psychic Discoveries Behind the Iron Curtain</term>
+<term>Patterns and Coincidences: A Sequel to All Is But A Beginning</term>
+<term>Choice</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Young, Myrtle</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>Bancroft (Neb.)</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Lincoln (Neb.)</placeName>
+<date when="1972-11-15"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<placeName></placeName>
+<persName>Bennett, Mildred R.</persName>
+<placeName>Red Cloud (Neb.)</placeName>
 </correspAction>
 </correspDesc>
 <particDesc><person role="recipient"><persName>Bennett, Mildred R.</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
 <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -147,8 +117,8 @@
 
 <opener>
 <dateline>
-5835 Vine Street
-Lincoln, Nebraska 68505
+5835 Vine Street<lb/>
+Lincoln, Nebraska 68505<lb/>
 November 15, 1972
 </dateline>
 
@@ -177,7 +147,7 @@ November 15, 1972
 </closer>
 
 <postscript>
-<opener><hi rend="caps">P. S.</hi></opener> <p>Have you seen the <hi rend="caps">ETV</hi> magazine <hi rend="underline">Choice</hi> for November? If not, Myrtle will send you one. I want to mention that in my experience with the mysterious light came to me many years ago when I was living in Bancroft. I had not read anything about it and I don't think many people know about it.</p> 
+<opener>P. S.</opener> <p>Have you seen the ETV magazine <hi rend="underline">Choice</hi> for November? If not, Myrtle will send you one. I want to mention that in my experience with the mysterious light came to me many years ago when I was living in Bancroft. I had not read anything about it and I don't think many people know about it.</p> 
 </postscript>
 
 </div1>

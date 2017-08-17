@@ -5,7 +5,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to Dr. Frank P. Piskor, January 16, 1973</title>
+<title type="main">Letter from John G. Neihardt to Frank P. Piskor, January 16, 1973</title>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
@@ -42,7 +42,7 @@
 <sourceDesc>
 <bibl>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
-<title level="m" type="main">Letter from John G. Neihardt to Dr. Frank P. Piskor</title>
+<title level="m" type="main">Letter from John G. Neihardt to Frank P. Piskor</title>
 <date when="1973-01-16">January 16, 1973</date>
 <extent>1 page</extent>
 </bibl>
@@ -54,43 +54,11 @@
 <msContents>
 <p>1 type-written page</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>1 page
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
+
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
 
 
 <profileDesc>
@@ -104,31 +72,38 @@
 <keywords scheme="original" n="topic">
 <term></term>
 </keywords>
-<keywords scheme="lcsh" n="keywords">
-<term></term>
+<keywords scheme="lcsh" n="works">
+<term>All is but a beginning : youth remembered, 1881-1901</term>
+<term>Black Elk Speaks</term>
+<term>When the Tree Flowered</term>
+<term>Patterns and Coincidences: A Sequel to All Is But A Beginning</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Piskor, Anne</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>London (England)</term>
+<term>Canton (N.Y.)</term>
+<term>Columbia (Mo.)</term>
+<term>Hollywood (Calif.)</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Lincoln (Neb.)</placeName>
+<date when="1973-01-16"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<placeName></placeName>
+<persName>Piskor, Frank Peter</persName>
+<placeName>Canton (N.Y.)</placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Piskor, Frank P.</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Piskor, Frank Peter</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
 <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -148,8 +123,8 @@
 
 <opener>
 <dateline>
-5835 Vine Street
-Lincoln, Nebraska 68505
+5835 Vine Street<lb/>
+Lincoln, Nebraska 68505<lb/>
 January 16, 1973
 </dateline>
 
@@ -165,7 +140,7 @@ January 16, 1973
 
 <p>Things are going very well indeed for me. My <hi rend="caps">ALL IS BUT A BEGINNING</hi> is finding friends all over the country. Also <hi rend="caps">BLACK ELK SPEAKS</hi> continues its success. <hi rend="caps">WHEN THE TREE FLOWERED</hi> will appear in the Pocket Book series shortly, and it is expected to do as well at least as the Black Elk book. Barrie and Jenkins of London have brought it out over there.</p>
 
-<p>I am busy at work on the second volume of my so-called autobiography. I must have at least a half of it written and it should go much faster from now on, as I have a number of chapters written ahead. It is fun to re-live<sic>relive</sic> some of my experiences.</p>
+<p>I am busy at work on the second volume of my so-called autobiography. I must have at least a half of it written and it should go much faster from now on, as I have a number of chapters written ahead. It is fun to re-live some of my experiences.</p>
 
 <p>United Artists is making an album of my public recitations of my poetry. I meet their crew in Columbia next week. I understand they are bringing a sound truck from Hollywood.</p>
 

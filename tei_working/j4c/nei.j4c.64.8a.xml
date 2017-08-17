@@ -5,7 +5,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to Professor Sanford D. Gray, November 1, 1972</title>
+<title type="main">Letter from John G. Neihardt to Sanford D. Gray, November 1, 1972</title>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
@@ -42,7 +42,7 @@
 <sourceDesc>
 <bibl>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
-<title level="m" type="main">Letter from John G. Neihardt to Professor Sanford D. Gray</title>
+<title level="m" type="main">Letter from John G. Neihardt to Sanford D. Gray</title>
 <date when="1972-11-01">November 1, 1972</date>
 <extent>1 page</extent>
 </bibl>
@@ -54,44 +54,11 @@
 <msContents>
 <p>1 type-written page</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>1 page
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
+
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
-
 
 <profileDesc>
 <textClass>
@@ -105,30 +72,43 @@
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="keywords">
-<term></term>
+<term>Black Elk Speaks</term>
+<term>The Twilight of the Sioux</term>
+<term>All is but a beginning : youth remembered, 1881-1901</term>
+<term>Patterns and Coincidences: A Sequel to All Is But A Beginning</term>
+<!-- <term>Sanford Gray novella</term> -->
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Neihardt, Alice</term>
+<term>Neihardt, Enid</term>
+<term>Petri, Hilda Neihardt</term>
+<term>Neihardt, Sigurd</term>
+<term>Young, Julius</term>
+<term>Young, Myrtle</term>
+<term>Gray, Mrs. Sanford</term>
+<term>Milton, John R., 1924-1995</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>Europe</term>
+<term>London (England)</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Lincoln (Neb.)</placeName>
+<date when="1972-11-01"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<placeName></placeName>
+<persName>Gray, Sanford D.</persName>
+<placeName>Vermillion (S.D.)</placeName>
 </correspAction>
 </correspDesc>
 <particDesc><person role="recipient"><persName>Gray, Sanford D.</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
 <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -147,8 +127,8 @@
 
 <opener>
 <dateline>
-5835 Vine Street
-Lincoln, Nebraska 68505 
+5835 Vine Street<lb/>
+Lincoln, Nebraska 68505<lb/>
 November 1, 1972
 </dateline>
 
@@ -166,7 +146,7 @@ November 1, 1972
 
 <p>As for me, things have been going very well indeed. I think you probably know how <hi rend="caps">BLACK ELK SPEAKS</hi> has been selling all over the United States and in Europe. We have just received a copy of a British edition published in London, and we have also received a request from the British Broadcasting Company for permission to make an hour program based on the book.</p>
 
-<p>I suppose you know that I am no longer with the University of Missouri. I began teaching at the age of 68 and quit at the age of 85 because of my eyes. My principal course entitled "The Twilight of the Sioux," has continued <add>by <hi rend="caps">TV</hi></add> and is attracting more students than ever. There are 250 now in the class and I am told it would be 500 if there were room for them.</p>
+<p>I suppose you know that I am no longer with the University of Missouri. I began teaching at the age of 68 and quit at the age of 85 because of my eyes. My principal course entitled "The Twilight of the Sioux," has continued <add>by TV</add> and is attracting more students than ever. There are 250 now in the class and I am told it would be 500 if there were room for them.</p>
 
 <p>I am working on the second volume of my autobiography and have about one-half of it written. It will be quite different from the first volume which is concerned as you know with boyhood and youth.</p>
 
@@ -176,7 +156,7 @@ November 1, 1972
 
 <p>One of these days I may have occasion &#8212; I mean Hilda may have occasion &#8212; to write you about the two tapes you have of my stuff. Hilda does all my business, as you probably know.</p>
 
-<p>I have been living here with the Youngs for about four years now and it has become home. I am keeping Sky Rim<sic>Skyrim</sic> mostly for Alice to use in her business, and I am making some important improvements on it. I expect to go there now and then for a week or so at a time. Please give my warm regards to John Milton.</p>
+<p>I have been living here with the Youngs for about four years now and it has become home. I am keeping Sky Rim mostly for Alice to use in her business, and I am making some important improvements on it. I expect to go there now and then for a week or so at a time. Please give my warm regards to John Milton.</p>
 <closer>
 <salute>With the old affection,</salute>
 

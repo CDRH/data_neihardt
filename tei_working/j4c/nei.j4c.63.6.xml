@@ -54,44 +54,10 @@
 <msContents>
 <p>1 type-written page</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>1 page
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="2">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
-
 
 <profileDesc>
 <textClass>
@@ -104,11 +70,16 @@
 <keywords scheme="original" n="topic">
 <term></term>
 </keywords>
-<keywords scheme="lcsh" n="keywords">
-<term></term>
+<keywords scheme="lcsh" n="works">
+<term>The Ghost-dance religion and the Sioux outbreak of 1890</term>
+<term>Black Elk Speaks</term>
+<term>When the Tree Flowered</term>
+<term>The Song of the Messiah</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Mooney, James, 1861-1921</term>
+<term>Wovoka, approximately 1856-1932</term>
+<term>Russell, Charles Edward, 1860-1941</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
 <term></term>
@@ -117,18 +88,19 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Lincoln (Neb.)</placeName>
+<date when="1972-01-18"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<placeName></placeName>
+<persName>Roark, Cheryl</persName>
+<placeName>Detroit (Mich.)</placeName>
 </correspAction>
 </correspDesc>
 <particDesc><person role="recipient"><persName>Roark, Cheryl</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
 <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -147,8 +119,8 @@
 
 <opener>
 <dateline>
-5835 Vine Street
-Lincoln, Nebraska 68505
+5835 Vine Street<lb/>
+Lincoln, Nebraska 68505<lb/>
 January 18, 1972
 </dateline>
 
@@ -163,7 +135,7 @@ January 18, 1972
 </opener>
 <p>First of all I may say that the questions raised in your letter to me in care of the University of Nebraska Press would be best answered by Mooney's <hi rend="caps">GHOST DANCE RELIGION</hi>. This was published by the Bureau of American Ethnology. I am quite sure any large library could furnish you a copy of it or if your Detroit Library does not have it on its shelves it could procur<sic>procure</sic> it for you.</p>
 
-<p>You ask about Jack Wilson. He was the Piute<sic>Paiute</sic> Indian who was known by <del>his people</del><add><unclear>the Indians</unclear></add> as Wovoka, and he was the one who said <del>that</del><add>that he had a vision in which he <unclear>learned</unclear> that</add> Jesus was coming back. I have had considerable experience with Indian visions as you probably know if you are acquainted with my <hi rend="caps">BLACK ELK SPEAKS</hi> or my <hi rend="caps">WHEN THE TREE FLOWERED</hi>. These are published by the University of Nebraska Press. As a result of my experience with Indian visions I could very well believe that <del>Jack Wilson</del><add>Wovoka</add> was sincere and actually believed his own dreams. <del>For that matter, I am not certain that he was wrong.</del></p>
+<p>You ask about Jack Wilson. He was the <choice><sic>Piute</sic><corr>Paiute</corr></choice> Indian who was known by <del>his people</del><add><unclear>the Indians</unclear></add> as Wovoka, and he was the one who said <del>that</del><add>that he had a vision in which he <unclear>learned</unclear> that</add> Jesus was coming back. I have had considerable experience with Indian visions as you probably know if you are acquainted with my <hi rend="caps">BLACK ELK SPEAKS</hi> or my <hi rend="caps">WHEN THE TREE FLOWERED</hi>. These are published by the University of Nebraska Press. As a result of my experience with Indian visions I could very well believe that <del>Jack Wilson</del><add>Wovoka</add> was sincere and actually believed his own dreams. <del>For that matter, I am not certain that he was wrong.</del></p>
 
 <p>You ask if I knew Charlie Russell. I am sorry to say that during the period of his greatest activity I was too young and too <del>l</del> un<del>in<unclear>o</unclear><unclear/>tam</del>important to know him. He was certainly a great man.</p>
 

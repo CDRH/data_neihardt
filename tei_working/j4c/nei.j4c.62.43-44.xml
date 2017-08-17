@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.62.43-44_0001-2">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.62.43-44">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to Mrs. D.B. Marti, 1971</title>
+<title type="main">Letter from Hettie J. Marti to John G. Neihardt, with notation of response from Neihardt, December 1971-January 1972</title>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
@@ -37,12 +37,15 @@
 </availability>
 </publicationStmt>
 
-<notesStmt><note>date from envelope</note></notesStmt>
+<notesStmt>
+<note>Date from envelope.</note>
+<note>Contains letter from Marti and response from Neihardt. Response from Neihardt not in his hand.</note>
+</notesStmt>
 
 <sourceDesc>
 <bibl>
-<author>Neihardt, John Gneisenau, 1881-1973</author>
-<title level="m" type="main">Letter from John G. Neihardt to Mrs. D.B. Marti</title>
+<author>Marti, Hettie J.</author>
+<title level="m" type="main">Letter from Hettie J. Marti to John G. Neihardt, with notation of response from Neihardt, December 1971-January 1972</title>
 <date when="1971-12">December, 1971</date>
 <extent>3 pages, plus envelope</extent>
 </bibl>
@@ -54,44 +57,11 @@
 <msContents>
 <p>3 hand-written pages, plus envelope</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>3 pages
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="2">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
+
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
-
 
 <profileDesc>
 <textClass>
@@ -108,27 +78,28 @@
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Adams, Ann</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>Jacksonville (Fla.)</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Lincoln (Neb.)</placeName>
+<date when="1971-12"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<placeName></placeName>
+<persName>Marti, Mrs. D.B.</persName>
+<placeName>Lincoln (Neb.)</placeName>
 </correspAction>
 </correspDesc>
 <particDesc><person role="recipient"><persName>Marti, Mrs. D.B.</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
 <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -145,6 +116,7 @@
   
 <fw type="curatorial">43</fw>
   
+<figure>
 <p>The design on this card was drawn by Ann Adams, a polio patient, who prior to her illness was an artist. Through perseverance, she trained herself to draw by holdin a pencil between her teeth. Each original drawing takes up to two months to complete.</p>
 
 <ab type="address">
@@ -154,6 +126,7 @@
 <addrLine>Jacksonville, Florida 32207</addrLine>
 </address>
 </ab>
+</figure>
 
 <note>X
 <lb/>
@@ -210,8 +183,8 @@
 <pb facs="nei.j4c.62.43-44_0001b" />
 
 <ab type="return">
-Mrs. <hi rend="caps">D. B.</hi> Marti
-3303 M. Street
+Mrs. D. B. Marti<lb/>
+3303 M. Street<lb/>
 Lincoln, Nebraska 68510
 </ab>
 

@@ -54,43 +54,11 @@
 <msContents>
 <p>1 type-written page</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>1 page
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
+
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
 
 
 <profileDesc>
@@ -104,31 +72,42 @@
 <keywords scheme="original" n="topic">
 <term></term>
 </keywords>
-<keywords scheme="lcsh" n="keywords">
-<term></term>
+<keywords scheme="lcsh" n="works">
+<term>Patterns and Coincidences: A Sequel to All Is But A Beginning</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Christopher</term>
+<term>Young, Myrtle</term>
+<term>Young, Julius</term>
+<term>Howe, Oscar, 1915-1983</term>
+<term>Price</term>
+<term>Neihardt, Sigurd</term>
+<term>Marsh, Grant Prince, 1834-1916</term>
+<term>Curly, approximately 1856-1923</term>
+<term>Reno, Marcus A. (Marcus Albert), 1835-1889</term>
+<term>Gray, Joan</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>Bancroft (Neb.)</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<persName>Young, Myrtle</persName>
+<placeName>Lincoln (Neb.)</placeName>
+<date when="1973-07-12"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<placeName></placeName>
+<persName>Gray, Sanford D.</persName>
+<placeName>Vermillion (S.D.)</placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Gray, Sanford</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Gray, Sanford D.</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
 <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -147,8 +126,8 @@
 
 <opener>
 <dateline>
-5835 Vine Street
-Lincoln, Nebraska 68505
+5835 Vine Street<lb/>
+Lincoln, Nebraska 68505<lb/>
 July 12, 1973
 </dateline>
 
@@ -184,7 +163,7 @@ July 12, 1973
 </closer>
 
 <postscript>
-<opener>(<hi rend="caps">P.S.</hi></opener> <p>Gaki woke up at three o'clock on the morning of June 13 with stabbing pains in his ribs and back. X-rays revealed that the seventh lumbar <del>i</del><add>v</add>ertebra had collapsed, bringing undue pressure involving the ribs and the abdominal area. It was very painful and has now been alleviated to some extent by the wear<del>i</del>ing <del>p</del><add>o</add>f a brace when out of bed. He has been home from the hospital since July 3.</p> <closer>&#8212; <signed>Myrtle Young</signed>
+<opener>(P.S.</opener> <p>Gaki woke up at three o'clock on the morning of June 13 with stabbing pains in his ribs and back. X-rays revealed that the seventh lumbar <del>i</del><add>v</add>ertebra had collapsed, bringing undue pressure involving the ribs and the abdominal area. It was very painful and has now been alleviated to some extent by the wear<del>i</del>ing <del>p</del><add>o</add>f a brace when out of bed. He has been home from the hospital since July 3.</p> <closer>&#8212; <signed>Myrtle Young</signed>
 
 <note>JGN:nh</note></closer>
 </postscript>

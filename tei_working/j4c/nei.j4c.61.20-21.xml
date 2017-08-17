@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.61.20-21_0001-4">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.61.20-21">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to Dr. Lucile Aly, March 28, 1970</title>
+<title type="main">Letter from John G. Neihardt to Lucile Aly, March 28, 1970</title>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4c.61.20-21_0001-4</idno>
+<idno>nei.j4c.61.20-21</idno>
 <availability>
 <p></p>
 </availability>
@@ -42,7 +42,7 @@
 <sourceDesc>
 <bibl>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
-<title level="m" type="main">Letter from John G. Neihardt to Dr. Lucile Aly</title>
+<title level="m" type="main">Letter from John G. Neihardt to Lucile Aly</title>
 <date when="1970-03-28">March 28, 1970</date>
 <extent>8 pages</extent>
 </bibl>
@@ -54,44 +54,10 @@
 <msContents>
 <p>8 hand-written pages</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>8 pages
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
-
 
 <profileDesc>
 <textClass>
@@ -104,11 +70,19 @@
 <keywords scheme="original" n="topic">
 <term></term>
 </keywords>
-<keywords scheme="lcsh" n="keywords">
-<term></term>
+<keywords scheme="lcsh" n="works">
+<term>All is but a beginning : youth remembered, 1881-1901</term>
+<term>The Divine Enchantment</term>
+<term>John G. Neihardt: A Critical Biography</term>
+<term>Black Elk Speaks</term>
+<term>A Cycle of the West</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Nicoll, Bruce</term>
+<term>Aly, Stewart</term>
+<term>Smith, Stanley C.</term>
+<term>Aly, Bower, 1903-1977</term>
+<term>Young, Myrtle</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
 <term></term>
@@ -118,17 +92,18 @@
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
 <placeName></placeName>
-<date when="1900"/>
+<date when="1970-03-28"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
+<persName>Aly, Lucile Folse, 1913-</persName>
 <placeName></placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Aly, Lucile</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Aly, Lucile Folse, 1913-</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
 <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -166,7 +141,7 @@ which you said I must not trouble about any duplication in your biography or my 
 
 I am free to go on with the book, and I am hoping to do this.</p>
 
-<p>I've just recovered a sweet note from Stewart in which he says you have told him the book (yours) is coming out and I am left wondering who will publish it. &#8212; And you promised to send the whole <hi rend="caps">MS</hi>, which has not arrived. In fact, I've felt cut off from you.</p>
+<p>I've just recovered a sweet note from Stewart in which he says you have told him the book (yours) is coming out and I am left wondering who will publish it. &#8212; And you promised to send the whole MS, which has not arrived. In fact, I've felt cut off from you.</p>
 
 <p>Do tell me all
 
@@ -179,7 +154,7 @@ I need to know and very much want to know.</p>
 
 <p> Old Stan is <del/> reading <add>the</add> microfilm of your speech dissertation. He writes to me about it. "John," he says, "Lucile <hi rend="underline">can write</hi>." Of course, you can.</p>
 
-<p> My <hi rend="caps">MS</hi> is <hi rend="underline">almost</hi> complete &#8212; only 20 pages left to copy.</p>
+<p> My MS is <hi rend="underline">almost</hi> complete &#8212; only 20 pages left to copy.</p>
 <closer>
 <signed>John Gaki</signed>
 </closer>
@@ -204,7 +179,7 @@ I need to know and very much want to know.</p>
 </opener>
 <p>Myrtle has just read your wonderful last chapter again. We had not seen it since our first reading in December.</p>
 
-<p>It <hi rend="double underline">is</hi> perfectly bully, and I recall saying so in a letter at the time. We have <hi rend="underline">not</hi> yet seen the <hi rend="underline">whole</hi> <hi rend="caps">MS</hi>, but I have perfect faith in it, and need not see it all at once in complete
+<p>It <hi rend="double underline">is</hi> perfectly bully, and I recall saying so in a letter at the time. We have <hi rend="underline">not</hi> yet seen the <hi rend="underline">whole</hi> MS, but I have perfect faith in it, and need not see it all at once in complete
 
 <pb facs="nei.j4c.61.20-21_0003b"/>
 <fw type="authorial">-2-</fw>

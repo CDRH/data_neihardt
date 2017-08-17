@@ -54,43 +54,11 @@
 <msContents>
 <p>1 type-written page, plus envelope</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>1 page
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="2">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
+
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
 
 
 <profileDesc>
@@ -117,11 +85,11 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Lincoln (Neb.)</placeName>
+<date when="1972-11-07"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
+<persName>Kelly, Katie</persName>
 <placeName></placeName>
 </correspAction>
 </correspDesc>
@@ -129,6 +97,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc; transcription</change>
 <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -147,14 +116,14 @@
 
 <opener>
 <dateline>
-5835 Vine Street
-Lincoln, Nebraska 68505
+5835 Vine Street<lb/>
+Lincoln, Nebraska 68505<lb/>
 November 7, 1972
 </dateline>
 
 <salute>Dear Katie Kelly:</salute>
 </opener>
-<p>Bless you heart! It has been a pleasure to recieve your post cards about your European odyssey. It was very kind of you to think of us.</p>
+<p>Bless your heart! It has been a pleasure to recieve your post cards about your European odyssey. It was very kind of you to think of us.</p>
 
 <p>So you recited some of my poetry on <add>the</add> Acropolis. This thrills me. It is what I have wished to do for many years but I fear I shall never be able to do it.</p>
 
@@ -171,7 +140,7 @@ November 7, 1972
 
 </div1>
 
-<!--
+<!-- Envelope does not belong with this letter; it most likely belongs with j4a.37.1 
 <div1 type="envelope">
 
 <pb facs="nei.j4c.64.12b"/>

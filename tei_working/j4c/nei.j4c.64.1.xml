@@ -5,7 +5,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to Dr. Sisirkumar Ghose, September 13, 1972</title>
+<title type="main">Letter from John G. Neihardt to Sisirkumar Ghose, September 13, 1972</title>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
@@ -42,7 +42,7 @@
 <sourceDesc>
 <bibl>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
-<title level="m" type="main">Letter from John G. Neihardt to Dr. Sisirkumar Ghose</title>
+<title level="m" type="main">Letter from John G. Neihardt to Sisirkumar Ghose</title>
 <date when="1972-09-13">September 13, 1972</date>
 <extent>1 page</extent>
 </bibl>
@@ -54,43 +54,11 @@
 <msContents>
 <p>1 type-written page</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>1 page
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
+
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
 
 
 <profileDesc>
@@ -104,24 +72,27 @@
 <keywords scheme="original" n="topic">
 <term></term>
 </keywords>
-<keywords scheme="lcsh" n="keywords">
-<term></term>
+<keywords scheme="lcsh" n="works">
+<term>Encyclopedia Britannica</term>
+<term>Black Elk Speaks</term>
+<term>All is but a beginning : youth remembered, 1881-1901</term>
+<term>Patterns and Coincidences: A Sequel to All Is But A Beginning</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Cavett, Dick</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>New York</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Lincoln (Neb.)</placeName>
+<date when="1972-09-13"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
+<persName>Ghose, Sisirkumar</persName>
 <placeName></placeName>
 </correspAction>
 </correspDesc>
@@ -129,6 +100,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
 <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -147,8 +119,8 @@
 
 <opener>
 <dateline>
-5835 Vine Street
-Lincoln, Nebraska 68505
+5835 Vine Street<lb/>
+Lincoln, Nebraska 68505<lb/>
 September 13, 1972
 </dateline>
 
@@ -158,7 +130,7 @@ September 13, 1972
 
 <p>I was greatly disappointed when the accident made it impossible to go to India as planned. I had looked forward to that eagerly, for I felt that the likeness between Sioux and Indian mysticism was striking.</p>
 
-<p>I am very glad to know of your work and that you will have an article in the next edition of Britanica<sic>Britannica</sic> Be sure I am looking forward to it. You mention several items that you have sent to me and I am awaiting them eagerly, too.</p>
+<p>I am very glad to know of your work and that you will have an article in the next edition of <choice><sic>Britanica</sic><corr>Britannica</corr></choice> Be sure I am looking forward to it. You mention several items that you have sent to me and I am awaiting them eagerly, too.</p>
 
 <p>Things have been booming for me in my work. I suppose you heard of the Dick Cavett show in which I was featured. I suppose this is the television show you had in mind. The effect of that broadcast on the American public was tremendous and the public response was greater to that program than to any the broadcasting company had ever put on the air. I don't take credit for this for I believe that the mood of the time made all the difference and my book <hi rend="caps">BLACK ELK SPEAKS</hi> had to wait 40 years before the public would accept it. <hi rend="caps">BLACK ELK SPEAKS</hi> is of course mostly mysticism and I suppose you have seen it. If not, I must send you a copy. The book was published recently in the Pocket Book Series by Simon and Schuster of New York. The first edition of 200,000 copies was put on the market the first week of April and by May 5th 50,000 had been sold in addition to the 200,000. That was six months ago and meanwhile the book has made best seller list. Recently I received a check for $11,000 in payment of royalty due me from the University of Nebraska Press. This represents the sale 122,000 copies in less than a year by the University of Nebraska Press. I have no idea yet of what the sales of the Pocket Book series by Simon and Schuster must be by now but the total must be tremendous and the astonishing thing is that the book's message is spiritual.</p>
 

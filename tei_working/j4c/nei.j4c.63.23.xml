@@ -54,44 +54,11 @@
 <msContents>
 <p>1 type-written page</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>1 page
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
+
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
-
 
 <profileDesc>
 <textClass>
@@ -104,31 +71,39 @@
 <keywords scheme="original" n="topic">
 <term></term>
 </keywords>
-<keywords scheme="lcsh" n="keywords">
-<term></term>
+<keywords scheme="lcsh" n="works">
+<term>Bloomington Eye</term>
+<term>The Dick Cavett Show</term>
+<term>All is but a beginning : youth remembered, 1881-1901</term>
+<term>Who's Who in America</term>
+<term>The International Who's Who</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Drennen, Dorothy</term>
+<term>Cavett, Dick</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>Hawthorne (Ill.)</term>
+<term>Taylorville (Ill.)</term>
+<term>Christian County (Ill.)</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Lincoln (Neb.)</placeName>
+<date when="1972-06-05"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<placeName></placeName>
+<persName>George, Gregory</persName>
+<placeName>Bloomington (Ill.)</placeName>
 </correspAction>
 </correspDesc>
 <particDesc><person role="recipient"><persName>George, Gregory</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
 <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -147,8 +122,8 @@
 
 <opener>
 <dateline>
-5835 Vine Street
-Lincoln, Nebraska 68505
+5835 Vine Street<lb/>
+Lincoln, Nebraska 68505<lb/>
 June 5, 1972
 </dateline>
 
@@ -162,9 +137,9 @@ June 5, 1972
 </opener>
 <p>It was certainly a joy to hear from you, for I remember well my visit to Hawthorne. I believe that even my little dog Jacquot accompanied me on that visit and my memory of the whole affair is a happy one.</p>
 
-<p>It is especially interesting that you are attending school in Bloomington. My first "poem" so called was published in the <hi rend="underline">BLoomington Eye</hi> when I was about 14 years old. Don't look it up. It is terrible but I did feel that you would be interested.</p>
+<p>It is especially interesting that you are attending school in Bloomington. My first "poem" so called was published in the <hi rend="underline">Bloomington Eye</hi> when I was about 14 years old. Don't look it up. It is terrible but I did feel that you would be interested.</p>
 
-<p>I am enclosing a card beaering my autograph.</p>
+<p>I am enclosing a card bearing my autograph.</p>
 
 <p>Incidentally, it occurs to me that you might sometime be in Taylorville. I was born near there in 1881 and there is now a Christian County Historical Society there which features a collection of my work. The lady in charge is Miss Dorothy Drennen. I think a meeting between you two would be notable.</p>
 
@@ -180,7 +155,7 @@ June 5, 1972
 </closer>
 
 <postscript>
-<opener><hi rend="caps">P.S.</hi></opener> <p>I suggest that you look me up in <hi rend="caps">WHO'S WHO IN AMERICA</hi> and <hi rend="caps">INTERNATIONAL WHO'S WHO</hi>. You will find these in your library.</p> <closer>&#8212; <signed>J.G.N.</signed></closer>
+<opener><hi rend="caps">P.S.</hi></opener> <p>I suggest that you look me up in WHO'S WHO IN AMERICA and INTERNATIONAL WHO'S WHO. You will find these in your library.</p> <closer>&#8212; <signed>J.G.N.</signed></closer>
 </postscript>
 
 </div1>

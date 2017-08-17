@@ -54,44 +54,11 @@
 <msContents>
 <p>1 type-written page</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>1 type
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
+
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
-
 
 <profileDesc>
 <textClass>
@@ -104,31 +71,34 @@
 <keywords scheme="original" n="topic">
 <term></term>
 </keywords>
-<keywords scheme="lcsh" n="keywords">
-<term></term>
+<keywords scheme="lcsh" n="works">
+<term>All is but a beginning : youth remembered, 1881-1901</term>
+<term>Patterns and Coincidences: A Sequel to All Is But A Beginning</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Masters, Joseph G.</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>Omaha (Neb.)</term>
+<term>Hollywood (Calif.)</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Lincoln (Neb.)</placeName>
+<date when="1973-01-31"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<placeName></placeName>
+<persName>Stegner, Louise</persName>
+<placeName>Omaha (Neb.)</placeName>
 </correspAction>
 </correspDesc>
 <particDesc><person role="recipient"><persName>Stegner, Louise</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
 <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -147,8 +117,8 @@
 
 <opener>
 <dateline>
-5835 Vine Street
-Lincoln, Nebraska
+5835 Vine Street<lb/>
+Lincoln, Nebraska<lb/>
 January 31, 1973
 </dateline>
 
@@ -160,7 +130,7 @@ January 31, 1973
 
 <salute>Dear Miss Stegner:</salute>
 </opener>
-<p>It was a real pleasure to hear from you for it is clear to me that we have a great deal in common. To begin with, we have 92 years in common, which is a lot of years. And second, you were a friend of my old friend, <hi rend="caps">J. G.</hi> Masters. I remember giving a program of my work to the high school there when Masters was principal, and if you were around there at the time I am sure I must have met you.</p>
+<p>It was a real pleasure to hear from you for it is clear to me that we have a great deal in common. To begin with, we have 92 years in common, which is a lot of years. And second, you were a friend of my old friend, J. G. Masters. I remember giving a program of my work to the high school there when Masters was principal, and if you were around there at the time I am sure I must have met you.</p>
 
 <p>It is not impossible that I may be able to meet you sometime during the coming year. On our next trip to Omaha, whenever that is, we will make an effort to see you.</p>
 
@@ -175,7 +145,7 @@ January 31, 1973
 </closer>
 
 <postscript>
-<opener><hi rend="caps">P.S.</hi></opener> <p>United Artists have contracted to produce an album of my recitations. I expect to do the recording within a month. They are sending a sound truck from Hollywood to do the job.</p> <closer>&#8212; <signed>J.N.</signed>
+<opener>P.S.</opener> <p>United Artists have contracted to produce an album of my recitations. I expect to do the recording within a month. They are sending a sound truck from Hollywood to do the job.</p> <closer>&#8212; <signed>J.N.</signed>
 
 <note>JGN:nh</note></closer>
 </postscript>

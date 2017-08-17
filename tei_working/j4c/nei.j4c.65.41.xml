@@ -54,44 +54,11 @@
 <msContents>
 <p>1 type-written page</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>1 page
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
+
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
-
 
 <profileDesc>
 <textClass>
@@ -104,11 +71,13 @@
 <keywords scheme="original" n="topic">
 <term></term>
 </keywords>
-<keywords scheme="lcsh" n="keywords">
-<term></term>
+<keywords scheme="lcsh" n="works">
+<term>The Song of Hugh Glass</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Young, Julius</term>
+<term>Neihardt, Sigurd</term>
+<term>Glass, Hugh, approximately 1780-approximately 1833</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
 <term></term>
@@ -118,17 +87,18 @@
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
 <placeName></placeName>
-<date when="1900"/>
+<date when="1973-07-13"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<placeName></placeName>
+<orgName>Lemmon Chamber of Commerce</orgName>
+<placeName>Lemmon (S.D.)</placeName>
 </correspAction>
 </correspDesc>
 <particDesc><person role="recipient"><persName>Members of the Lemmon Chamber of Commerce</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
 <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
 <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
 <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
@@ -150,7 +120,7 @@
 
 <salute>Members of the Lemmon Chamber of Commerce, ladies and gentlemen:</salute>
 </opener>
-<p>It was my intention to be with you on this great day, but owing to illness I am unable to come. My old friend, <hi rend="caps">J. D.</hi> Young, has kindly consented to read this message to you. You may be sure, however, that my heart and soul are with you there, and I thank you for your thought of me.</p>
+<p>It was my intention to be with you on this great day, but owing to illness I am unable to come. My old friend, J. D. Young, has kindly consented to read this message to you. You may be sure, however, that my heart and soul are with you there, and I thank you for your thought of me.</p>
 
 <p>When I was a young man in the heyday of my writing years it was my habit to dedicate my books to the children of my family as they came along. When my <hi rend="underline">Song of Hugh Glass</hi> was completed after three years of devoted effort, I dedicated it to my only son Sigurd, then scarcely three. The dedication ran thus:</p>
 
