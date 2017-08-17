@@ -5,7 +5,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to Dr. Jack Marken, August 29, 1973</title>
+<title type="main">Letter from John G. Neihardt to Jack Marken, August 29, 1973</title>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
@@ -42,7 +42,7 @@
 <sourceDesc>
 <bibl>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
-<title level="m" type="main">Letter from John G. Neihardt to Dr. Jack Marken</title>
+<title level="m" type="main">Letter from John G. Neihardt to Jack Marken</title>
 <date when="1973-08-29">August 29, 1973</date>
 <extent>1 page</extent>
 </bibl>
@@ -54,44 +54,11 @@
 <msContents>
 <p>1 type-written page</p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>1 page
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
+
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-
-
-
-
-
-
-
-
-
-
 
 <profileDesc>
 <textClass>
@@ -104,11 +71,14 @@
 <keywords scheme="original" n="topic">
 <term></term>
 </keywords>
-<keywords scheme="lcsh" n="keywords">
-<term></term>
+<keywords scheme="lcsh" n="works">
+<term>The Indians and Eskimos of North America</term>
+<term>Black Elk Speaks</term>
+<term>When the Tree Flowered</term>
+<term>The Twilight of the Sioux</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Marken, Martha</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
 <term></term>
@@ -117,15 +87,15 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName>Lincoln (Neb.)</placeName>
+<date when="1973-08-29"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<placeName></placeName>
+<persName>Marken, Jack W.</persName>
+<placeName>Brookings (S.D.)</placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Marken, Jack</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Marken, Jack W.</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
@@ -148,8 +118,8 @@
 
 <opener>
 <dateline>
-5835 Vine Street
-Lincoln, Nebraska 68505
+5835 Vine Street<lb/>
+Lincoln, Nebraska 68505<lb/>
 August 29, 1973
 </dateline>
    
@@ -161,7 +131,7 @@ August 29, 1973
 
 <salute>Dear Dr. Marken,</salute>
 </opener>
-<p>It was very good of you to send me a copy of your bibliography of Indians and Eskimos of North America. I can see at a glance that it is a very valuable book for any one<sic>anyone</sic> interested in the subject. I intend to do a good deal of listening to it. I have difficulty in reading but I have good friends who read to me and we will explore your book.</p>
+<p>It was very good of you to send me a copy of your bibliography of Indians and Eskimos of North America. I can see at a glance that it is a very valuable book for any one interested in the subject. I intend to do a good deal of listening to it. I have difficulty in reading but I have good friends who read to me and we will explore your book.</p>
 
 <p>You would be interested to know that my <hi rend="caps">WHEN THE TREE FLOWERED</hi> sold 115,000 copies in three months. We have the report for only three months and are eager to know how many more <del/><add>h</add>ave been sold. <hi rend="caps">BLACK ELK SPEAKS</hi> is translated into nine foreign languages and is issued in a British edition. We are now about to negotiate for the rights in <hi rend="caps">THE TWILIGHT OF THE SIOUX</hi>; the idea I think is to make a television special of it.</p>
 
@@ -176,7 +146,7 @@ August 29, 1973
 </closer>
 
 <postscript>
-<opener><hi rend="caps">P.S.</hi></opener> <p>United Artists is bringing out records of my poetry. The first album will be on sale September 16. I understand there may be as many as 12 albums.</p> <closer>&#8212; <signed>J.N.</signed></closer>
+<opener>P.S.</opener> <p>United Artists is bringing out records of my poetry. The first album will be on sale September 16. I understand there may be as many as 12 albums.</p> <closer>&#8212; <signed>J.N.</signed></closer>
 </postscript>
 
 </div1>
