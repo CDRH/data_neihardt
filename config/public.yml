@@ -1,0 +1,7 @@
+default:
+  es_type: neihardt
+  collection_desc: Neihardt Across the Spectrum
+  es_type: neihardt
+  solr_core: neihardt
+  tei_solr_xsl: collections/neihardt/scripts/nonapi_neihardt2solr.xsl
+
