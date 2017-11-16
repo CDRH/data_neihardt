@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.28a.7-8">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Cyril Clemens to John G. Neihardt, July 23, 1960</title>
+<author>Clémens, Cyril 1902-1999</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+
+
+<idno>nei.j4a.28a.7-8</idno> 
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Clémens, Cyril 1902-1999</author>
+<title level="m" type="main">Letter from Cyril Clemens to John G. Neihardt</title>
+<date when="1960-07-23">July 23, 1960</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>2 typed page</p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Twain, Mark, 1835-1910</term>
+<term>Frost, Robert, 1874-1963</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>St. Louis (Mo.)</term>
+</keywords>
+<keywords scheme="lcsh" n="works">
+<term>When the Tree Flowered</term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Clémens, Cyril 1902-1999</persName>
+<placeName>Kirkwood (Mo.)</placeName>
+<date when="1960-07-23"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName>Columbia (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Proofreading and encoding</change>
+<change when="2017"><name xml:id="dh">Hahn, Danica</name> Transcription and Initial Encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<note type="curatorial">7</note>
+
+<fw>Cyril Clemens, Editor<lb/>
+Mark Twain Journal<lb/>
+Kirkwood 22, Missouri</fw>
+
+<opener>
+
+<dateline>23rd July 1960</dateline>
+<salute>Dear John </salute></opener>
+<p>It gives us very great pleasure to inform you that you have been voted 
+a complimentary life subscription to the Mark Twain Journal which we hope 
+that you will much enjoy reading.</p>
+<p>Thank you so much for sending me that fascinating book "When the Tree 
+Flowered" which I am reading with a great deal of interest, pleasure and 
+fascination. I have always been interested in the Sioux and your account tells 
+me so much about them that I never knew before.</p>
+<p>I hope you keep well these days. It was a great and real pleasure seeing you 
+at the Dedication.</p>
+<p>Do you ever get to St Louis? Next time you do I hope you can break bread 
+with me and see our Mark Twain collection.</p>
+
+<closer><signed>
+<unclear/>
+Cyril Clemens<lb/>
+Cyril Clemens</signed>>
+Just heard from Robert Frost
+He is well</closer>
+
+
+
+</div1>
+
+<div1 type="envelope">
+
+<ab type="return">
+Return Postage Guaranteed
+<address>
+<addrLine>Cyril Clemens, Editor</addrLine>
+<addrLine>Mark Twain Journal</addrLine>
+<addrLine>Kirkwood 22, Missouri</addrLine>
+</address>
+</ab>
+<ab type="address">
+<address>
+<addrLine>John G. Neihardt</addrLine>
+<addrLine>Skyrim Rte 7</addrLine>
+<addrLine>Columbia</addrLine>
+<addrLine>Missouri</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">Saint Louis, Mo. 9 1960 Jul 24 830PM</ab>
+
+<figure n="stamp"><p>The United States of America<lb/>
+4 &#162; Postage<lb/>
+Fear to do ill and you need fear nought else.</p></figure>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

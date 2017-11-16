@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.31.8">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Ron Hull to John G. Neihardt, November 22, 1965</title>
+<author>Hull, Ronald Eugene, 1930-</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+
+<idno>j4a.31.8</idno>
+
+<availability>
+<p> </p>
+</availability>
+</publicationStmt>
+
+
+<notesStmt>
+<note></note>
+</notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Hull, Ronald Eugene, 1930-</author>
+<title level="m" type="main">Letter from Ron Hull to John G. Neihardt</title>
+<date when="1965-11-22">November 22, 1965</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Nebraska State Historical Society</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>1 typed page</p>
+</msContents>
+<history>
+<origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Sandoz, Mari, 1896-1966</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>New York (N.Y.)</term>
+</keywords>
+<keywords scheme="lcsh" n="works">
+<term>Lyric and Dramatic Poems</term>
+<term>Black Elk Speaks</term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName>Columbia (Mo.)</placeName>
+<date when="1965-11-22"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Hull, Ronald Eugene, 1930-</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+</person>
+</particDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2017">
+<name xml:id="lkw">Weakly, Laura K.</name> Proofreading and encoding
+</change>
+<change when="2017">
+<name xml:id="ah">Hanson, Ali</name> Transcription and Initial Encoding
+</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<note type="curatorial">NSHS</note>
+<note type="curatorial">8</note>
+
+<opener>
+<salute>Dear Dr. Neihardt:</salute>
+</opener>
+
+<p>Receiving a letter from you this morning has made my day! I am very sorry I was unable to see you. I tried to arrange the taping of another program featuring you but your schedule wouldn't permit it. Next time let's get together for sure, and do another program.</p>
+
+<p>I was in New York City two weeks ago, and spent part of a morning at Mari Sandoz's apartment. She has the same kind of courage she writes about. Her health is not good, but she continues to work everyday. She can still get to the library for research and does her own shopping etc. While talking with her I noticed a copy of your "Black Elk Speaks" on her coffee table. She told me that when she's working she often reads your work to help give her the "atmosphere" and "flavor" of the west.</p>
+
+<p>I called the administration building of Peru College the day you were lecturing there, but I was unable to make any contact...but you see I did try. I have heard reports from persons all over the state who said your lectures were truy inspiring. I know they were, Dr. Neihardt, because I have had the good fortune to be so inspired.</p>
+
+<p>Please write again when you have the time. I gave my wife your "Lyric Poems", autographed of course, for her birthday last week. I hope you have that cold conquered by now.</p>
+<closer>
+<salute>Best regards,</salute>
+
+<signed>
+Ron Hull<lb/>
+Program Manager
+</signed>
+</closer>
+
+<note>RH:bb</note>
+
+
+</div1>
+
+<div1 type="envelope">
+
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

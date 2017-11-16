@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.31.21">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from James H. Jensen to John G. Neihardt, May 17, 1967</title>
+<author>Jensen, James H.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2016</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.31.21</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note></note>
+</notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Jensen, James H.</author>
+<title level="m" type="main">Letter from James H. Jensen to John Neihardt</title>
+<date when="1967-12-17">May 17, 1967</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>1 typed page</p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Omaha (Neb.)</term>
+<term>Lincoln (Neb.)</term>
+</keywords>
+<keywords scheme="lcsh" n="works">
+<term>Omaha World-Herald</term>
+<term>The Song of Three Friends</term>
+<term>The Song of the Indian Wars</term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Jensen, James H.</persName>
+<placeName>Corvallis (Ore.)</placeName>
+<date when="1967-05-17"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, John G.</persName>
+<placeName>Columbia (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient">
+<persName>Jensen, James H.</persName>
+</person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2016">
+<name xml:id="lkw">Weakly, Laura K.</name> 
+</change>
+<change when="2016">
+<name xml:id="RS">Styles, Ryan</name> Transcription and Initial Encoding
+</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<note type="curatorial">21</note>
+
+<fw>Oregon State University<lb/>
+Office of the President<lb/>
+Corvallis, Oregon 97331</fw>
+
+<opener>
+<dateline>May 17, 1967</dateline>
+
+<address><addrLine>Mr. John G. Neihardt</addrLine>
+<addrLine>Sky Rim Farm</addrLine>
+<addrLine>Route 7</addrLine>
+<addrLine>Columbia, Mo.</addrLine></address>
+
+<salute>Dear Mr. Neihardt:</salute>
+</opener>
+
+<p>
+Sometime ago, when visiting my son in Omaha, my attention
+was directed to a statement in the Omaha World-Herald which
+described an honor accorded you by Warren Methodist Church of
+Lincoln. I was thrilled to read the article and to see your picture.
+Your writings and particularly "The Song of Three Friends" have been
+constant companions of mine. In 1926, when I was a sophomore at the
+University of Nebraska, your trilogy, "The Songs of the Indian Wars"
+etc., were used for class exercises.
+</p>
+
+<p>I am sure you receive many communications and I have wished
+for some years to express my appreciation to you for your writings
+and for the many hours of pleasure and stimulation that your poetry has
+provided me. I am delighted that you have received a "notable Nebraska
+award" bearing the citation "Nebraska Poet of the Century." May you
+continue to enjoy good health, vigor and happiness.</p>
+
+<closer>
+<salute>Sincerely yours,</salute>
+
+<signed>
+James H. Jensen</signed>
+James H. Jensen,<lb/>
+President.
+
+</closer>
+
+<note type="curatorial">jhj:t</note>
+
+</div1>
+
+<div1 type="envelope">
+
+
+</div1>
+
+</body>
+
+<back></back>
+</text>
+</TEI>

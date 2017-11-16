@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.28a.1">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Bruce H. Nicoll to John G. Neihardt, July 13, 1960</title>
+<author>Nicoll, Bruce</author>
+
+
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+
+
+<idno>nei.j4a.28a.1</idno> 
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Nicoll, Bruce H.</author>
+<title level="m" type="main">Letter from Bruce H. Nicoll to John G. Neihardt</title>
+<date when="1960-07-13">July 13, 1960</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>1 typed page</p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Aly, Lucile Folse, 1913-</term>
+<term>Morris, Wright, 1910-1998</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Eugene (Ore.)</term>
+</keywords>
+<keywords scheme="lcsh" n="works">
+<term>Black Elk Speaks</term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Nicoll, Bruce H.</persName>
+<placeName>Lincoln (Neb.)</placeName>
+<date when="1960-07-13"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName>Columbia (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Proofreading and encoding</change>
+<change when="2017"><name xml:id="dh">Hahn, Danica</name> Transcription and Initial Encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<note type="curatorial">Aly Collection</note>
+<note type="curatorial">1</note>
+<note type="curatorial">113-1</note>
+
+<fw>The University of Nebraska<lb/>
+Lincoln 8, Nebraska<lb/>
+Office of the Director<lb/>
+University of Nebraska Press</fw>
+
+
+<opener>
+<dateline>July 13, 1960</dateline>
+
+<address>
+<addrLine>Mr. John G. Neihardt</addrLine>
+<addrLine>Skyrim</addrLine>
+<addrLine>Route 7</addrLine>
+<addrLine>Columbia, Missouri</addrLine>
+</address>
+
+<salute>Dear Mr. Neihardt:</salute></opener>
+
+<p>Thank you for returning the agreement covering publication of BLACK ELK 
+SPEAKS. There may be a slight delay in returning the completed agreement 
+of the Board of Regents until late August.</p>
+
+<p>We plan to publish BLACK ELK SPEAKS next spring. I would be grateful to 
+receive the new foreword by September 1. I assume this replaces the earlier 
+foreword.</p>
+
+<p>For some time we have been interested in publishing a biography of you which 
+will appear in a series concerned with modern writers, the first in the series 
+being on Wright Morris and appearing this fall. About a year ago I wrote a lady 
+by the name of Mrs. Bower Aly of Eugene, Oregon who is at work on such a writing 
+project. Do you know her and of her projected biography? We would very much like 
+to have her at least give us an opportunity to see it.</p>
+
+ <closer><salute>Cordially yours,</salute>
+UNIVERSITY OF NEBRASKA PRESS
+<signed>Bruce H. Nicoll </signed>
+Director</closer>
+
+
+</div1>
+
+</body>
+
+<back></back>
+</text>
+</TEI>

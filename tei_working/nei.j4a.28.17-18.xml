@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.28.17-18">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Donald Donahue to John Neihardt, May 1, 1960</title>
+<author>Donahue, Donald</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2016</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+
+
+<idno>nei.j4a.28.17-18</idno> 
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+
+<notesStmt><note>Shopping list on attached page not encoded.</note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Donahue, Donald</author>
+<title level="m" type="main">Letter from Donald Donahue to John Neihardt</title>
+<date when="1960-05-01">May 1, 1960</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>1 typed page</p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="works">
+<term>St. Louis Post-Dispatch</term>
+<term>Phantom Wells</term>
+<term>Precious Bane</term>
+<term>The Grapes of Wrath</term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Donahue, Donald</persName>
+<placeName></placeName>
+<date when="1960-05-01"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Proofreading and Encoding</change>
+<change when="2017"><name xml:id="dh">Hahn, Danica</name> Initial Encoding</change>
+<change when="2016"><name xml:id="dt">Taylor, Dakotah</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<note type="curatorial">Neihardt Collection</note>
+<note type="curatorial">17</note>
+
+<opener><dateline>May 1, 1960</dateline>
+
+<salute>Dear Dr. Neihardt:</salute></opener>
+
+<p>It has been over two years since I sat in awed silence listening to your 
+lectures in "Critical Essay" at the University. But in that space of time I 
+have never forgotten the intellectual impact you made on me.</p>
+
+<p>After perusing the enclosed article in today's Post-Dispatch I felt I had 
+to share it with you since you first instilled my interest in the subject. One 
+of my assignments while in your class was to analyze a book called "Phantom Wells."
+ I'll never forget the trip to your lovely farm to get the book. You graciously "showed 
+ me around" the stables and house. What a pleasant experience!</p>
+
+<p>I'm sure I made a shambles of my assignment but you never let it be known 
+to me. Bless you for your patience. Some of my other assignments in your class 
+were "The Precious Bane" and "The Grapes of Wrath." I mention these only in the 
+hope that they will help you to remember a far from impressionable student--but 
+you did give me an E in the course. This <hi rend="underline">did</hi> impress me coming from what I 
+consider one of the finest minds in the country today.</p>
+
+<p>I hope I haven't taken too much of your time with reminiscences. And I 
+especially hope I haven't been too presumptuous.</p>
+<p>Please take this minute token of appreciation (the enclosed article) for 
+all the inspiration you have given me during our fall term relationship.</p>
+
+<closer>
+<salute>Kindest personal regards,
+from A former student</salute>
+<signed>Donald Donahue</signed></closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

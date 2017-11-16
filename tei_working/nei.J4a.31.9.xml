@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.31.9">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Glenn Pedersen to John G. Neihardt, January 18, 1966</title>
+<author>Pedersen, Glenn</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2016</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.31.9</idno> 
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+<notesStmt><note></note></notesStmt>
+<sourceDesc>
+<bibl>
+<author>Pedersen, Glenn</author>
+<title level="m" type="main">Letter from Glenn Pedersen to John G. Neihardt</title>
+<date when="1966-01-18">January 18, 1966</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>1 typed page</p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Twain, Mark, 1835-1910</term>
+<term>Knoepfle, John</term>
+<term>Dickinson, Leon T. (Leon Townsend), 1912-</term>
+<term>Bray, Robert C.</term>
+<term>McCall, Edith S.</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="works">
+<term>None</term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Pedersen, Glenn</persName>
+<placeName>Springfield (Mo.)</placeName>
+<date when="1966-01-18"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName>Columbia (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Proofreading and encoding</change>
+<change when="2017"><name xml:id="dh">Hahn, Danica</name> Initial Encoding</change>
+<change when="2017"><name xml:id="lr">Reiner, Luke</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<note type="curatorial">9</note>
+
+<fw>NDEA Institute for Advanced Study in English<lb/>
+Southwest Missouri State College, Springfield, Missouri 65802
+</fw>
+
+
+
+<opener>
+<dateline>January 18, 1966</dateline>
+<address>
+<addrLine>Mr. John Neihardt</addrLine>
+<addrLine>Route 7</addrLine>
+<addrLine>Columbia, Missouri</addrLine>
+</address>
+
+<salute>Dear Professor Neihardt:</salute></opener>
+
+<p>Your accepting our invitation to lecture to the participants of our NDEA Institute
+for Advanced Study in English this summer between June 6 and July 22 pleases us, as
+you will contribute greatly to the success of the Institute. Our field of study is 
+American Literature for Grades 1-12, emphasizing Mark Twain and other Missouri writers
+and incorporating local and regional materials. Other guest speakers include John 
+Knoepfle, Leon Dickinson, Robert Bray, and Edith McCall. We plan to have the lectures 
+for Thursday evenings, hoping that you will be able to spend Friday morning informally 
+with the students, chatting with them at coffee and perhaps visiting them in class. As a 
+brochure, which will explain our Institute and help you to decide upon a subject for your 
+lecture. Our budget allows an honorarium of two hundred fifty dollars, but no expenses for 
+travel.</p>
+
+<p>Please indicate your preference of date in order 1 to 5 on the enclosed schedule. As 
+soon as we hear from all of you, we shall send the proposed program of lectures, hoping to 
+have accomodated your first or second choice.</p>
+
+<closer><salute>Sincerely yours,</salute>
+<signed>Glenn Pedersen<lb/>
+Glenn Pedersen<lb/>
+Director NDEA Institute in English</signed></closer>
+
+</div1>
+
+
+</body>
+
+<back></back>
+</text>
+</TEI>
