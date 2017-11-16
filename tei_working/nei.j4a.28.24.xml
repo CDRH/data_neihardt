@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.28.24">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Postcard from Mary and Frank Weymouth to John G. Neihardt, June 14, 1980</title>
+<author>Weymouth, Mary Balsbach</author>
+<author>Weymouth, Frank</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2016</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+
+
+<idno>nei.j4a.28.24</idno> 
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Weymouth, Mary Balsbach</author>
+<author>Weymouth, Frank</author>
+<title level="m" type="main">Postcard from Mary and Frank Weymouth to John G. Neihardt</title>
+<date when="1980-06-14">June 14, 1980</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>1 typed page</p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Berkeley (Calif.)</term>
+</keywords>
+<keywords scheme="lcsh" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Weymouth, Mary Balsbach</persName>
+<persName>Weymouth, Frank</persName>
+<placeName>Los Angeles (Calif.)</placeName>
+<date when="1980-06-14"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName>Clumbia (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>illegible</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Transcription and encoding</change>
+<change when="2017"><name xml:id="LJ">Jenkins, Leroy</name> Transcription and Initial Encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<note type="curatorial">24</note>
+
+<ab>MARY and FRANK WEYMOUTH <lb/>
+announce that after July 1st <lb/>
+their new address will be <lb/>
+1559 Posen Avenue <lb/>
+Berkeley 7, California </ab>
+
+<ab type="return"><address><addrLine>Weymouth</addrLine>
+<addrLine>3934 1/2 Arlington Avenue</addrLine>
+<addrLine>Los Angeles 8, California</addrLine></address></ab>
+
+<ab type="postmark">Los Angeles Jun 14 1130 AM 1960 Calif.</ab>
+
+<ab>This side of card is for address</ab>
+
+<figure n="stamp"><p>U.S. Postage 3 &#162; In God We Trust Liberty</p></figure>
+
+<ab type="address">
+<address><addrLine>Mr. John G Neihardt</addrLine>
+<addrLine>Route 6 Skyrim</addrLine>
+<addrLine>Columbia</addrLine>
+<addrLine>Missouri</addrLine></address></ab>
+
+
+</div1>
+
+
+</body>
+
+<back></back>
+</text>
+</TEI>

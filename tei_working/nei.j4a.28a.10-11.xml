@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.28a.10-11">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Bruce H. Nicoll to John G. Neihardt, August 1, 1960</title>
+<author>Nicoll, Bruce H.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+
+
+<idno>nei.j4a.28a.10-11</idno> 
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Nicoll, Bruce H.</author>
+<title level="m" type="main">Letter from Bruce H. Nicoll to John G. Neihardt</title>
+<date when="1960-08-01">August 1, 1960</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>1 typed page</p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Aly, Lucile Folse, 1913-</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Nicoll, Bruce</persName>
+<placeName>Lincoln (Neb.)</placeName>
+<date when="1960-08-01"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName>Columbia (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Proofreading and Encoding</change>
+<change when="2017"><name xml:id="dh">Hahn, Danica</name> Transcription and Initial Encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<note type="curatorial">10</note>
+
+<fw>The University of Nebraska<lb/>
+Lincoln 8, Nebraska<lb/>
+Office of the Director<lb/>
+University of Nebraska Press</fw>
+
+<opener>
+<dateline>August 1, 1960</dateline>
+
+<address>
+<addrLine>Mr. John G. Neihardt</addrLine>
+<addrLine>Skyrim</addrLine>
+<addrLine>Route 7</addrLine>
+<addrLine>Columbia, Missouri</addrLine>
+</address>
+
+ <salute>Dear Mr. Neihardt:</salute> </opener>
+
+<p>I hasten to reply to yours of the July 29.</p>
+
+<p>The approval of the Board is simply a routine since the Press is vested with the 
+authority of acceptance or rejection. The reason I mention this is that the Board may 
+not meet until after Labor Day. We would like to get your book in production and 
+we sincerely hope that it will be convenient for you to provide us with the new 
+foreword and the copy of the book sometime this month. I hope I do not appear to be 
+pressing.</p>
+
+<p>I appreciate your thoughtfulness in sending my letter forward to Dr. Aly. I hope 
+she will give us an opportunity to read it.</p>
+
+<closer><salute>Cordially yours,</salute>
+UNIVERSITY OF NEBRASKA PRESS<lb/>
+<signed>Bruce H. Nicoll
+Director</signed>
+</closer>
+
+<note>BHN:mv</note>
+
+</div1>
+
+<div1 type="envelope">
+
+
+<ab type="address">
+<address>
+<addrLine>Mr. John G. Neihardt</addrLine>
+<addrLine>Skyrim</addrLine>
+<addrLine>Route 7</addrLine>
+<addrLine>Columbia, Missouri</addrLine>
+</address>
+</ab>
+
+<ab>
+<address><addrLine>The University of Nebraska</addrLine>
+<addrLine>University of Nebraska Press</addrLine>
+<addrLine>Lincoln 8, Nebraska</addrLine></address>
+</ab>
+
+<ab type="postmark">Lincoln Aug-1'60 Nebr. U.S. Postage 04<lb/>
+P.B. Meter 359485</ab>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

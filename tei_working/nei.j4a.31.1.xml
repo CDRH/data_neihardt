@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.31.1">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Philippe Barbier Saint Hilaire to John G. Neihardt, May 8, 1963</title>
+<author>Saint Hilaire, Philippe Barbier, 1894-1969</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2016</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+
+
+<idno>j4a.31.1</idno>
+
+<availability>
+<p> </p>
+</availability>
+</publicationStmt>
+
+
+<notesStmt>
+<note></note>
+</notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Saint Hilaire, Philippe Barbier, 1894-1969</author>
+<title level="m" type="main">Letter from Philippe Barbier Saint Hilaire to John G. Neihardt</title>
+<date when="1963-05-08">May 8, 1963</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>1 typed page</p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Reddick, Olive I.</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Pondicherry (India)</term>
+<term>India</term>
+</keywords>
+<keywords scheme="lcsh" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Saint Hilaire, Philippe Barbier, 1894-1969</persName>
+<placeName>Pondicherry (India)</placeName>
+<date when="1963-05-08"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName>Columbia (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+</person>
+</particDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2017">
+<name xml:id="lkw">Weakly, Laura K.</name> Proofreading and encoding
+</change>
+
+<change when="2017">
+<name xml:id="ah">Hanson, Ali</name> Transcription and Initial Encoding
+</change>
+
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<note type="curatorial">1</note>
+
+<fw>Sri Aurobindo International Centre of Education<lb/>
+Pondicherry (India)</fw>
+
+<opener>
+<dateline>8th May, 1963</dateline>
+
+
+<salute>Dear Dr. Neihardt,</salute>
+</opener>
+
+<p>
+I have received a letter from Dr. Olive I. Reddick, Director of the United States Educational Foundation in India,
+asking us to confirm our invitation to you to pay a visit to our Centre of Education when you come to India and deliver here a series of lectures.
+We are also asked to give them the information regarding the peroid of your stay at our centre and the amount of maintenance and other amenites
+that you will be reciving from us.
+</p>
+
+<p>
+As you probably know, we do not give any salary to the teachers of our Centre, but they are all maintained by the Ashram on the same level
+as other members of the Ashram. We shall therefore provide you comfortable stay and board as our guest. Also, as I had suggested to you in my last letter,
+January would be the most suitable month for your stay here from the point of view of your age and the climatic conditons in Pondicherry.
+I would therefore request you kindly to drop ma a line to confirm if I should reply to Dr. Reddick that you will be staying here for a maintained by us during
+your peroid of stay here on a decent standard.
+</p>
+
+<p>As we are with holding our answer to Dr. Reddick, pending your answer to this letter, I shall be grateful if you kindly write to me at the earliest.</p>
+
+<closer>
+<salute>With kind regards, </salute>
+<salute>Yours sincerely,</salute>
+
+
+<signed>P.B. Saint-Hilaire<lb/> 
+Director of Education</signed>
+
+<address>
+<addrLine>Dr. John G. Neihardt,</addrLine>
+<addrLine>Lecturer in English, </addrLine>
+<addrLine>University of Missouri,</addrLine>
+<addrLine>Route 7,</addrLine>
+<addrLine>Columbia, Missouri</addrLine>
+</address>
+</closer>
+
+
+
+
+
+
+<!-- add text goes here -->
+
+<!-- common tags include
+
+<pb facs=""/> page breaks
+<opener><dateline></dateline><salute></salute></opener>
+<p></p> paragraphs
+<note type=""></note> notes
+<unclear reason="illegible"></unclear> unreadable text
+<del/> deleted text
+<add></add> added text
+ 
+-->
+
+</div1>
+
+<div1 type="envelope">
+
+<!-- envelope text goes here -->
+
+<!-- common tags include
+
+<ab type="address">
+<address><addrLine></addrLine></address>
+ 
+-->
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

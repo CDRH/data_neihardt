@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.28a.48-50">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Edna Skillings to John G. Neihardt, December 28, 1960</title>
+<author>Skillings, Edna</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2016</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.28a.48-50</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<title level="m" type="main">Letter from Edna Skillings to John G. Neihardt</title>
+<date when="1960-12-28">December 28, 1960</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>2 hand-written page</p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Aly, Lucile Folse, 1913-</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Skillings, Edna</persName>
+<placeName>Albany (Ore.)</placeName>
+<date when="1960-12-28"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName>Columbia (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2016"><name xml:id="lkw">Weakly, Laura K.</name> Proofreading and Initial Encoding</change>
+<change when="2016"><name xml:id="dsu">Dakota State University</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<note type="curatorial">48</note>
+
+<opener>
+<address><addrLine>Albany Ore</addrLine></address>
+<dateline>Dec. 28. 1960</dateline>
+
+<salute>Dear John:-</salute>
+</opener>
+
+
+<p>How can
+we thank you for
+your splendid gift!
+It was so thoughtful
+of you to send it. Thank you
+thank you.</p>
+
+<p>The sun is
+out today in all its
+glory after several days of
+heavy fog.</p>
+
+<p>Christmas was
+uneventful for us three
+old people - but pleasant 
+never the less with a small
+turkey and the trimming.</p>
+
+<pb/>
+<note type="curatorial">49</note>
+
+<p>We received many lovely
+gifts - which makes us 
+know we have wonderful 
+friends even tho at times
+we may feel so alone.</p>
+
+<p>We were delighted
+with a call this fall
+from Mrs Aly. Shes
+such a charming 
+person - It always gives 
+me a 'lift' to contact her.</p> 
+
+<p>Hope you had a joyous
+Christmas and that
+the New Year may bring
+you much happiness
+and many blessings.</p>
+
+<closer>
+<salute>Most sincerely</salute>
+<signed>Edna Skillings</signed>
+</closer>
+<postscript><p><hi rend="underline">Thank you</hi></p></postscript>
+
+</div1>
+
+<div1 type="envelope">
+
+<note type="curatorial">50</note>
+
+<ab type="return">
+<address>
+<addrLine>Albany. Ore</addrLine>
+</address>
+</ab>
+<ab type="address">
+<address>
+<addrLine>Mr. John G Neihardt</addrLine>
+<addrLine>Columbia Mo.</addrLine>
+<addrLine>Rt 7</addrLine>
+</address>
+</ab>
+
+<note>Ansd 5-7-61</note>
+
+<ab type="postmark">Albany Oreg. Dec 28 2-PM 1960</ab>
+
+<figure n="stamp"><p>United States Postage<lb/>
+Sacramento<lb/>
+1860-1960 Pony Express</p></figure>
+
+</div1>
+
+</body>
+
+<back></back>
+</text>
+</TEI>

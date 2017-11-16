@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.28a.15-16">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Marion Rhodes Williams to John Neihardt, August 2, 1960</title>
+<author>Williams, Marion</author>
+
+
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2016</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+
+
+<idno>nei.j4a.28a.15-16</idno> 
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Williams, Marion</author>
+<title level="m" type="main">Letter from Marion Williams to John Neihardt</title>
+<date when="1960-08-02">August 2, 1960</date>
+<extent>1 page</extent><!-- Ex: 2 pages -->
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>3 hand-written pages</p><!-- Ex: 2 hand-written pages -->
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+<p></p></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1"><!-- change number to reflect number of writers -->
+<!-- delete if type-written only -->
+</handDesc>
+<typeDesc>
+<typeNote xml:id="type"><p>Media: type</p></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Williams, Marion</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Wallingford (CT)</term>
+</keywords>
+<keywords scheme="lcsh" n="works">
+<term>None</term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Williams, Marion</persName><!-- Ex: Neihardt, John Gneisenau, 1881-1973 -->
+<placeName>Wallingford (CT)</placeName><!-- Ex. Columbia (Mo.) -->
+<date when="1960-08-20"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, John</persName>
+<placeName>Columbia (MO)</placeName>
+<date when="1960-08-20"/><!-- delete unless this is known -->
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Neihardt, John</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="XX">Jenkins, Leroy</name> Initial Encoding</change>
+<change when="2017"><name xml:id="X">Jenkins, Leroy</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<opener><address><addrLine>45 East Main St.,</addrLine>
+<addrLine>Wallingford, CT. </addrLine>
+</address>
+<dateline>Aug - 2nd - '60 </dateline>
+<salute>My dear Dr. Neihardt:</salute></opener>
+<p>Greetings from a Conn. yankee. poet newly admitted to membership in
+Mo. Chaparrals.</p>
+<p>Our regent sent me the bulletin which had your name among others, and the 
+suggestion that greetings might be exchanged.</p>
+<p>So as a passport to friendship and as proof that I write (after my own fashion) 
+I enclose a clipping -</p>
+<p>In fifteen years or longer I have been a member of the Meriden (Conn) Poetry 
+Society, which is a rather small organization and not as active as one might wish 
+it was through an ad in Candor - that I joined Chaparrals. It seems to offer 
+interesting contacts. I am hoping to correspond with many poets.</p>
+<p>I note that you are Poet Laureate for which I offer congratulations.</p>
+
+<closer>
+<salute>With Kindest regards </salute>
+<signed>Marion Rhodes Williams </signed>
+(Mrs. Robert C. Williams, Sr)</closer>
+
+</div1>
+
+<div1 type="envelope">
+
+<note type="curatorial">16</note>
+
+<ab type="return">
+<address>
+<addrLine>Marion Rhodes Williams</addrLine>
+<addrLine>45 East Main St.</addrLine>
+<addrLine>Wallingford Conn</addrLine>
+</address>
+</ab>
+
+<ab type="address">
+<address>
+<addrLine>Dr. John Neihardt</addrLine>
+<addrLine>Skyrim #6</addrLine>
+<addrLine>Columbia</addrLine>
+<addrLine>Mo.</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">Wallingford Conn. Aug 2 6 PM 1960<lb/>
+Pray For Peace</ab>
+
+<figure n="stamp"><p>Lincoln U.S. Postage 4 &#162;</p></figure>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
