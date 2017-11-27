@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.28.21-22">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Jack and Willa Roberts to John G. Neihardt, May 23, 1960</title>
+<author>Roberts, Jack</author>
+<author>Roberts, Willa</author>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.28.21-22</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Roberts, Jack</author>
+<author>Roberts, Willa</author>
+<title level="m" type="main">Letter from Jack and Willa Roberts to John G. Neihardt</title>
+<date when="1960-05-23">May 23, 1960</date>
+<extent>1 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>1 hand-written page, plus envelope</p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="works">
+<term type="Neihardt"></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Roberts, Jack</persName>
+<persName>Roberts, Willa</persName>
+<placeName>Websgter Groves (Mo.)</placeName>
+<date when="1960-05-23"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName>Columbia (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name>Weakly, Laura K.</name> transcription and encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<note type="curatorial">21</note>
+
+<opener>
+<address>
+<addrLine>614 Mildred</addrLine>
+<addrLine>Webster Grove 19, Mo</addrLine>
+</address>
+<dateline>May 23, 1960</dateline>
+
+<salute>Dear Dr Neihardt</salute>
+
+</opener>
+
+<p>We will look forward to
+seeing you Sunday. We will
+leave here 8:00-8:30 (depending
+upon how much progress can be
+made in preparing the children for
+the trip). It takes about 2 1/2 hours
+for us to make the trip, so we
+should be there 10:30-11:00. We
+are on Daylight Saving time, so
+if you aren't on it we will be
+there an hour earlier your time.</p>
+
+<p>We will bring deviled eggs, olives,
+potato chips, fruit and anything
+else we can think of between now
+and then</p>
+
+<p>The girls are quite thrilled
+over the prospect of seeing the
+horses.</p>
+
+<closer><salute>Our love to you,</salute>
+<signed>Jack &amp; Willa</signed></closer>
+
+
+</div1>
+
+
+<div1 type="envelope">
+
+<note type="curatorial">22</note>
+
+<ab type="return">
+<address><addrLine>614 Mildred Ave</addrLine>
+<addrLine>Webster Groves 19, Mo.</addrLine>
+</address>
+</ab>
+
+
+
+<ab type="postmark">SAINT LOUIS, MO. 3<lb/>
+MAY 24<lb/>
+1130 AM<lb/>
+1960</ab>
+
+<figure n="stamp"><p>NATIONAL<lb/>
+SALVATION ARMY WEEK<lb/>
+FOURTH WEEK IN MAY<lb/>
+Lincoln 4 &#162; U.S. Postage</p></figure>
+
+<ab type="address">
+<address><addrLine>Dr. John G. Neihardt</addrLine>
+<addrLine>"Skyrim"</addrLine>
+<addrLine>RT 7</addrLine>
+<addrLine>Columbia</addrLine>
+<addrLine>Missouri</addrLine>
+</address>
+</ab>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
