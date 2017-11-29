@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.28.26">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Virginia Cragen to John G. Neihardt, June 14, 1960</title>
+<author>Cragen, Virginia</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.28.26</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Cragen, Virginia</author>
+<title level="m" type="main">Letter from Virginia Cragen to John G. Neihardt</title>
+<date when="1960-06-14">June 14, 1960</date>
+<extent>1 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>1 typed page</p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Cragen, William C.</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="works">
+<term type="Neihardt"></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Cragen, Virginia</persName>
+<placeName></placeName>
+<date when="1960-06-14"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName>Columbia (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> transcription and encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<note type="curatorial">69-1</note>
+<note type="curatorial">Neihardt Collection</note>
+<note type="curatorial">26</note>
+
+<fw>Office Telephone 6821<lb/>
+Columbia Council of Camp Fire Girls<lb/>
+Elvira Building Columbia, Missouri
+</fw>
+
+<opener>
+<dateline>June 14, 1960</dateline>
+<address>
+<addrLine>Dr. John G. Neihardt</addrLine>
+<addrLine>R.F.D. #7</addrLine>
+<addrLine>Columbia, Missouri</addrLine>
+</address>
+<salute>Dear Dr. Neihardt:</salute>
+</opener>
+
+<p>Bless your heart for all the time you spent with our Blue Birds and Camp Fire Girls last June 2nd. Nor can I leave out mention of us so-called adults. All of us were spellbound with your account of your life and adventures with the Sioux Indians. We were all especially inspired with the way you told of them. Indeed, it was a privilege for everone there that afternoon and an experience none of us will ever forget. We all hope that perhaps sometime during next year's day camp you'll make a return visit to us.</p>
+
+<p>Bill and I are still looking forward to coming by to see you in the country -- and to see those horses we've heard so much about.</p>
+
+<p>In the meantime, all of the best of good wishes to you. Again, our deepenst thanks for being with us; your visit was indeed the big high point of this year's day camp.</p>
+
+<closer>
+<salute>Most sincerely,</salute>
+<signed>Virginia Cragen<lb/>
+Mrs. William C. Cragen<lb/>
+Day Camp Director</signed>
+</closer>
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
