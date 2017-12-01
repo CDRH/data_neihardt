@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.28.23">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.28a.34">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Slade Kendrick to John G. Neihardt, May 27, 1960</title>
-<author>Kendrick, M. Slade (Myron Slade)</author>
+<title type="main">Letter from Sol Lewis to John G. Neihardt, November 21, 1960</title>
+<author>Lewis, Sol</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
 <editionStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4a.28.23</idno>
+<idno>nei.j4a.28a.34</idno>
 <availability>
 <p></p>
 </availability>
@@ -41,9 +41,9 @@
 
 <sourceDesc>
 <bibl>
-<author>Kendrick, M. Slade (Myron Slade)</author>
-<title level="m" type="main">Letter from Slade Kendrick to John G. Neihardt, </title>
-<date when="1960-05-27">May 27, 1960</date>
+<author>Lewis, Sol</author>
+<title level="m" type="main">Letter from Sol Lewis to John G. Neihardt</title>
+<date when="1960-11-21">November 21, 1960</date>
 <extent>1 page</extent>
 </bibl>
 <msDesc>
@@ -52,7 +52,7 @@
 <idno></idno>
 </msIdentifier>
 <msContents>
-<p>1 hand-written page</p>
+<p>1 typed page</p>
 </msContents>
 </msDesc>
 
@@ -85,24 +85,24 @@
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term>Neihardt, Alice</term>
+<term>Price</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term>Hawaii</term>
+<term></term>
 </keywords>
 <keywords scheme="lcsh" n="works">
-<term type="Neihardt">Easter</term>
+<term type="Neihardt">Laureate Address</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Kendrick, M. Slade (Myron Slade)</persName>
-<placeName>Ithaca (N.Y.)</placeName>
-<date when="1960-05-27"/>
+<persName>Lewis, Sol</persName>
+<placeName>New York (N.Y.)</placeName>
+<date when="1960-11-21"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
+<placeName>Columbia (Mo.)</placeName>
 </correspAction>
 </correspDesc>
 <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person></particDesc>
@@ -119,27 +119,47 @@
 
 <div1 type="letter">
 
+<note type="curatorial">49-1</note>
 <note type="curatorial">Neihardt Collection</note>
-<note type="curatorial">23</note>
+<note type="curatorial">34</note>
+
+<fw>Antiquarian Press, Ltd.<lb/>
+<del>303 Fourth Avenue, New York 10, N.Y. * ALgonquin 4-8494</del>
+</fw>
 
 <opener>
 <address>
-<addrLine>225 Willard Way, Ithaca, N.Y.</addrLine>
+<addrLine>45 West 57th St. New York 19, N.Y.</addrLine>
 </address>
-<dateline>May 27, 1960</dateline>
+<dateline>November 21, 1960</dateline>
+<address>
+<addrLine>Mr. John G. Neihardt,</addrLine>
+<addrLine>Skyrim Farm,</addrLine>
+<addrLine>Route #7</addrLine>
+<addrLine>Columbia, Missouri</addrLine>
+</address>
+<salute>Dear Mr. Neihardt</salute>
 </opener>
 
-<p>Dear John: &#8212; Ten copies of your Easter poem arrived. Thank you so much. I shall not hurry with their distribution, but as I run across people who would appreciate your poetry, I shall give one. I hope to make as many fans for you as I have copies. You see, your poetry is so wonderful to me, so helpful to the inner life of me, that I would share it.</p>
+<p>Please forgive me for not writing sooner to thank you most gratefully for the pleasure of your visit to our Westerners meeting. It was indeed a singular privilege to have you with us. I'm sure our entire membership echo my own sentiments</p>
 
-<p>How good that Alice &amp; the girls are back at Skyrim and that the plans once more alive with laughter and loveliness. I know that you are happy to have them with you and to be living once more in your own home with its dear memories</p>
+<p>I would be honored to receive your Laureate address, and as promised, the Price book has today gone forward to you. I hope you have as much enjoyment in reading it as I had in re-publishing it.</p>
 
-<p>This is only a brief message. But we are very <unclear>busyed &amp; we</unclear> leave Thursday for Hawaii. On return the latter part of August, I should be in Columbia for two or three days &amp; shall be certain to pay you a visit.</p>
+<p>Please let me hear from you, and be assured of my continuing respect and lasting admiration of your great contributions to the worthwhile literature of our County.</p>
+
+<p>With every best wish and warmest personal regards,</p>
 
 <closer>
-<salute>Always with my affection,</salute>
-<signed>Slade</signed>
+<salute>Cordially,</salute>
+<signed>Sol Lewis<lb/>
+Sol Lewis</signed>
 </closer>
 
+<note>sl/d</note>
+
+<note>The "Address" was the only rare book I had to offer. He was very kind to give me the valuable Price book. J.N.</note>
+
+<fw>Publishers of Rare and Historical Americana for Libraries, Scholars and Collectors</fw>
 </div1>
 </body>
 

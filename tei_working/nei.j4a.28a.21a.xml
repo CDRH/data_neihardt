@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.28a.21a">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Lewis Atherton to John G. Neihardt, October 6, 1960</title>
+<author>Atherton, Lewis Eldon</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.28a.21a</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Atherton, Lewis Eldon</author>
+<title level="m" type="main">Letter from Lewis Atherton to John G. Neihardt</title>
+<date when="1960-10-06">October 6, 1960</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>1 typed page</p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Peterson, John E.</term>
+<term>Parker, Ralph Halsted, 1909-1990</term>
+<term>Neihardt, Mona Martinsen</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="works">
+<term type="Neihardt"></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Atherton, Lewis Eldon</persName>
+<placeName>Columbia (Mo.)</placeName>
+<date when="1960-10-06"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName>Columbia (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> transcription and encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<note type="curatorial">21a</note>
+
+<fw>University of Missouri<lb/>
+Columbia</fw>
+
+<opener>
+
+<address><addrLine>305 Main Library Building</addrLine></address>
+<dateline>October 6, 1960</dateline>
+<address>
+<addrLine>Dr. John G. Neihardt</addrLine>
+<addrLine>Jesse Hall</addrLine>
+<addrLine>Columbia, Missouri</addrLine>
+</address>
+<salute>Dear Dr. Neihardt</salute>
+</opener>
+
+<p>I have talked with Mr. Peterson, the university attorney, on a number of occasion in regard to the contract for the deposit of your library and manuscripts. At his request, I have furnished him with a list of the major points on which you and I have agreed, and he has tried to state these in legal terms. The enclosed contract is the result. Will you please look this over and then call me on the phone so that we can get togerher and discuss any changes or improvements that you would like to include in the contract. We are looking forward to announcing your gift on the eve of our annual dinner meeting next May and to giving it a big play in the newspapers. We are also hoping that you will make the talk at the dinner meeting in May. You can reach me by telephone at 9-9410, 9-9715, or at my home phone 3-4512.
+</p>
+
+<closer>
+<salute> With best regards,</salute>
+<signed>Lewis Atherton<lb/>
+Lewis Atherton, Professor of History<lb/>
+Director, Friends of the Library<lb/>
+and Western Historical Manuscripts<lb/>
+Collection</signed>
+</closer>
+
+<postscript><p>P.S. I am hoping in the course of the next couple of years, perhaps from the enthusiasm that will be created from the announcement of your gift next spring, to obtain the necessary funds to have the bust of you by Mrs. Neihardt cast in bronze. This, of course, can not be included in the contract but I assure you that Dr. Parker and I will both contribute to seeing this carried through.</p></postscript>
+
+<note>LA:ST</note>
+<note>Enclosure</note>
+
+<note>Catalog separate<lb/>
+Firsts &amp; rare<lb/>
+Americana listed together<lb/>
+Mending of few damaged bindings?<lb/>
+How about Thomas Wright?</note>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
