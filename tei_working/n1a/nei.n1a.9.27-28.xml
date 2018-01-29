@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1a.9.27-28">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Erling O. Duus to John G. Neihardt, May 24, 1970</title>
+                <author>Duus, Erling, 1940-2000</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1a.9.27-28</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Duus, Erling, 1940-2000</author>
+                    <title level="m" type="main">Letter from Erling O. Duus to John G. Neihardt</title>
+                    <date when="1970-05-24">May 24, 1970</date>
+                    <extent>1 page; 1 envelope</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 page; 1 envelope</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page; 1 envelope
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="people">
+                    <term>Duus, Erling, 1940-2000</term>
+                    <term>Hegstrom, Lois</term>
+                    <term>Whitman, Walt, 1819-1892</term>
+                    <term>Teilhard de Chardin, Pierre</term>
+                    <term>Emerson, Ralph Waldo, 1803-1882</term>
+                    <term>Sandburg, Carl, 1878-1967</term>
+                </keywords>
+                <keywords scheme="original" n="places">
+                    <term>Lincoln (Neb.)</term>
+                    <term>Columbia (Mo.)</term>
+                    <term>Jellico (Tenn.)</term>
+                    <term>Williamsburg, Ky.</term>
+                    <term>Cumberland Mountains</term>
+                    <term>Nebraska</term>
+                </keywords>
+                <keywords scheme="original" n="works">
+                    <term>Poet's Town</term>
+                    <term>April Theology</term>
+                    <term>Black Elk Speaks</term>
+                    <term>The River and I</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Duus, Erling, 1940-2000</persName>
+                    <placeName ref="http://www.geonames.org/5074472">Omaha (Neb.)</placeName>
+                    <date when="1970-05-24"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+            </particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2017"><name>Weakly, Laura K.</name> correspDesc Encoding</change>
+            <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
+            <change when="2012-02-29"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
+            <change when="2011-11-28"><name xml:id="ep">Pedigo, Erin</name> Proofreading</change>
+            <change when="2011"><name xml:id="az">Zeljkovic</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.n1a.9.27-28.xml"/>
+                <note type="curatorial">27</note>
+                <note type="authorial"></note>
+                <fw type="authorial"></fw>
+
+                <dateline>
+                    Jellico, Tenn. 
+                    May 24, 1970
+                </dateline>
+                
+                <salute>Dear John G. Neihardt;</salute>
+                
+                <p>Since I discovered a year or so ago that you are still very much alive, I have intended to write to you to express my pleasure in your writing. It is your lyrical poetry and your prose that has meant the most to <del/>e. I presently teach literature at Cumberland College in Williamsburg, Ky. and also an founder and director of a folk school amongst the mountain folk of the Cumberland Mountains. This year in a seminar course which I taught entitled "Romanticism in Amer-ican Literature," I taught your "Poet's Town" and "April Theology." It is the later which is my favorite of your poems. It expresses for me a prarie embodiment of the magnificient evolutionary faith of Whitman, the kind of thing he looked to the prarie for. At the folk school we teach that theology, combining the Whitman and the American aadventure and tradition with Teilhard De Chardin, the great Jesuit. In addition to the poems named above, we will use your great book, Black Elk Speaks to admit us both into the purity of the American spirit as symbolized with the Indian, and the inutterable guilt and searing tragedy. I think that Black Elk Speaks is a great and important book, and I think you for the soul and sorrow and loneliness which allowed you to record it and write it. I have not as yet read The River and I, but I intend to.</p> 
+                <p>I come from Danish immigrant stock who settled all over the prarie, and I have lived in Nebraska. Though I wonder the American earth and love all the variety of it, it is always the prarie as myth and reality that centers my spirit. I believe with Whitman that the American soul will enter into the fullest realization on its great sweep. For me and for the future, you will be one of its great poets, one of the few who gave your-self "outright."</p> 
+                <p>Across a gap of years I salute a man who wears in my mind the garment of Emerson, Whitman, Sandburg. And I thank you for the great beauty and richness of your work.</p>   
+                
+                <salute>Sincerely,</salute> 
+                <signed>Erling Dus</signed>
+                <signed>Erling O. Duus</signed> 
+                
+            </div1>
+            
+            <div1 type="envelope">
+                <pb facs="nei.n1a.9.27-28.xml"/>
+                <note type="curatorial">28</note>
+                <note type="authorial"></note>
+                
+                <ab type="postmark">
+                    COLUMBIA, MO JUN 2 PM 1970 65201 
+                    6c FRANKLIN D. ROOSEVELT U.S. POSTAGE
+                </ab>
+                
+                <ab type="stamp">
+                    6c FRANKLIN D. ROOSEVELT U.S. POSTAGE 
+                </ab>
+                
+                <note type="authorial">
+                    <unclear/> 
+                    <unclear/> -3-70 Florence 
+                    Florence
+                </note>
+                
+                <ab type="address">
+                    MR. JOHN G. NEIHARDT 
+                    ENGLISH DEPT. 
+                    U. OF MISSOURI 
+                    COLUMBIA MISSOURI
+                </ab>
+                
+                <ab type="return">
+                    E. DUUS
+                    ENG. DEPT
+                    CUMBERLAND COLLEGE
+                    WILLIAMSBURG, KY. 
+                    40769
+                </ab>
+                
+                <ab type="forward">
+                    Forward to: 
+                    5835 VINE ST. 
+                    LINCOLN, 
+                    NEBR. 68505 
+                    <unclear/>
+                </ab>
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

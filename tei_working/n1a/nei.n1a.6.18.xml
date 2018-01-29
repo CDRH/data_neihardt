@@ -1,14 +1,195 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Carbon 
-J.G.Neihardt
-April 11, 1967
-5835 Vine Street
-Lincoln, Nebraska 68505
-April 11, 1967
-18
-Dear Friend: 
-We returned from our week-end trip to Lyons and Bancroft yesterday afternoon and were glad to receive your two letters and to know you had a pleasant and safe trip home. We are already looking forward to your return in the not-too-distant future. There is much more to show you and share with you and others interested. We have not had time to talk to anyone at the Historical Society since you were here, and by our week-end trip we missed church. So we haven't seen many people but we know all were greatly pleased with all you did while here. 
-I took the silhouette (your 1922 profile) up to Bancroft Friday and went with Mrs. Canarsky to the "Neihardt Study" and Mr. and Mrs. Vogt were along too. They were happy to receive the profile and picture frame and it will be displayed. You will recall that you suggested at Bancroft as its new home. I had it in my file since the Alumni banquet at Wayne in '22. They were all so sorry they were unable to come to Lincoln while you were here, but circumstances prevented. You remember Doll Copple Ross came with the Glenn Prestons from Lyons. You visited with them in our home after the Church affair, and we got some good pictures. 
-The taped interview our daughter (Mrs. Lloyd <unclear>Hinkley</unclear>) had with you Wednesday morning is very interesting. My wife and I "played it" at Lyons at my invalid sister's apartment for a group of interested ladies assembled by Doll Ross. She lives in an apartment next door to my sister and her husband Waldo Christensen. We had a very enjoyable "Neihardt-fest." Doll knows much "Bright Eyes" history too. I'm enclosing a clipping from West Point Republican. Bancroft Blade may have  something later. My wife gave Esther Montgomery Mrs. Aly's address. I sent Mr. Otto Weinkauf at <unclear>Lemmon</unclear> some clippings with his birthday greeting for April 14. (93 I believe) In haste. 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-Julius D. Young 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1a.6.18">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Julius Young to John G. Neihardt, April 11, 1967</title>
+                <author>Young, Julius</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1a.6.18</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Young, Julius</author>
+                    <title level="m" type="main">Letter from Julius Young to John G. Neihardt</title>
+                    <date when="1967-04-11">April 11, 1967</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 hand-written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="people">
+                    <term>Young, Julius</term>
+                    <term>Canarsky, Mrs.</term>
+                    <term>Vogt, Mrs.</term>
+                    <term>Vogt, Mr.</term>
+                    <term>Ross Copple, Doll</term>
+                    <term>Preston, Glenn</term>
+                    <term>Hinkley, Lloyd</term>
+                    <term>Christensen, Waldo</term>
+                    <term>Young, Myrtle</term>
+                    <term>Montgomery, Esther</term>
+                    <term>Aly, Lucile Folse, 1913-</term>
+                    <term>Weinkauf, Otto</term>
+                </keywords>
+                <keywords scheme="original" n="places">
+                    <term>Lincoln (Neb.)</term>
+                    <term>Lyons (Neb.)</term>
+                    <term>Bancroft (Neb.)</term>
+                    <term>Wayne (Neb.)</term>
+                    <term>Lemmon (S.D.)</term>
+                </keywords>
+                <keywords scheme="original" n="works">
+                    <term>Bancroft Blade</term>
+                    <term>West Point Republican</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Young, Julius</persName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                    <date when="1967-04-11"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+                    <placeName ref="http://www.geonames.org/4575352">Columbia (Mo.)</placeName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+            </particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2017"><name>Weakly, Laura K.</name> correspDesc Encoding</change>
+            <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
+            <change when="2012-02-29"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
+            <change when="2011-11-28"><name xml:id="ep">Pedigo, Erin</name> Proofreading</change>
+            <change when="2011"><name xml:id="az">Zeljkovic</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.n1a.6.18.xml" />
+                <note type="curatorial">18</note>
+                <fw type="curatorial"></fw>
+                
+                <opener>
+                    <note>Carbon</note>
+                    <dateline>
+                        J.G.Neihardt
+                        April 11, 1967
+                        5835 Vine Street
+                        Lincoln, Nebraska 68505
+                        April 11, 1967
+
+                    </dateline>
+                    <salute>Dear Friend:</salute>
+                </opener>
+                <p>We returned from our week-end trip to Lyons and Bancroft yesterday afternoon and
+                    were glad to receive your two letters and to know you had a pleasant and safe trip home. We are already looking forward to your return in the not-too-distant future. There is much more to show you and share with you and others interested. We have not had time to talk to anyone at the Historical Society since you were here, and by our week-end trip we missed church. So we haven't seen many people but we know all were greatly pleased with all you did while here.</p>
+                <p>I took the silhouette (your 1922 profile) up to Bancroft Friday and went with Mrs. Canarsky to the "Neihardt Study" and Mr. and Mrs. Vogt were along too. They were happy to receive the profile and picture frame and it will be displayed. You will recall that you suggested at Bancroft as its new home. I had it in my file since the Alumni banquet at Wayne in '22. They were all so sorry they were unable to come to Lincoln while you were here, but circumstances prevented. You remember Doll Copple Ross came with the Glenn Prestons from Lyons. You visited with them in our home after the Church affair, and we got some good pictures.</p>
+                <p>The taped interview our daughter (Mrs. Lloyd <unclear>Hinkley</unclear>) had with you Wednesday morning is very interesting. My wife and I "played it" at Lyons at my invalid sister's apartment for a group of interested ladies assembled by Doll Ross. She lives in an apartment next door to my sister and her husband Waldo Christensen. We had a very enjoyable "Neihardt-fest." Doll knows much "Bright Eyes" history too. I'm enclosing a clipping from West Point Republican. Bancroft Blade may have  something later. My wife gave Esther Montgomery Mrs. Aly's address. I sent Mr. Otto Weinkauf at <unclear>Lemmon</unclear> some clippings with his birthday greeting for April 14. (93 I believe) In haste.</p> 
+                <closer>
+                    <signed>Julius D. Young</signed>
+                </closer>
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

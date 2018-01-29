@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1a.6.50-51">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Julius Young to John G. Neihardt, November 12, 1967</title>
+                <author>Young, Julius</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1a.6.50-51</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Young, Julius</author>
+                    <title level="m" type="main">Letter from Julius Young to John G. Neihardt</title>
+                    <date when="1967-11-12">November 12, 1967</date>
+                    <extent>2 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 hand-written pages</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>2 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="people">
+                    <term>Young, Myrtle</term>
+                    <term>Ollie</term>
+                    <term>Young, Julius</term>
+                    <term>Petri, Hilda Neihardt</term>
+                    <term>Ernst, Arthur</term>
+                    <term>Holm, Mary</term>
+                    <term>Hull, Ronald Eugene, 1930-</term>
+                </keywords>
+                <keywords scheme="original" n="places">
+                    <term>Lincoln (Neb.)</term>
+                    <term>Branson (Mo.)</term>
+                    <term>Bancroft (Mo.)</term>
+                    <term>Kearney (Neb.)</term>
+                </keywords>
+                <keywords scheme="original" n="works">
+                    <term>Lincoln Journal</term>
+                    <term>Rockhound Magazine</term>
+                </keywords>
+            </textClass>
+            <correspDesc ref="">
+                <correspAction type="sentBy">
+                    <persName>Young, Julius</persName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                    <date when="1967-11-12"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+                    <placeName ref="http://www.geonames.org/4575352">Columbia (Mo.)</placeName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+            </particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2017"><name>Weakly, Laura K.</name> correspDesc Encoding</change>
+            <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
+            <change when="2012-02-29"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
+            <change when="2011-11-28"><name xml:id="ep">Pedigo, Erin</name> Proofreading</change>
+            <change when="2011"><name xml:id="az">Zeljkovic</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.n1a.6.50-51.xml" />
+                <note type="curatorial">50</note>
+                <fw type="curatorial"></fw>
+                
+                <opener>
+                    Copy J.G.Neihardt
+                    <dateline>
+                        5835 Vine Street,
+                        Lincoln, Nebr 68505
+                        November 12, 1967 
+
+                    </dateline>
+                    <salute>Dear Gaki:</salute>
+                </opener>
+                <p>Myrtle has been doing most of the writing lately - I'm almost out of practice. First, about the "contribution to the welfare of nations". Since you have indicated that it not be returned, it will be kept and used in anyway for the benefit of "worthy causes" in the future. Please accept our sincere thanks for your thoughtful generosity. We are grateful for the opportunity over the years, and especially the past year to enjoy and turn into fond memories our experiences with you, your great works, and your family. The pleasure is ours, and we have hopes of its long continuance.</p>
+                <p>We went to the Lincoln Journal day-before-yesterday and fortunately found the Latvian boy who made the fine photo's of your in our home last spring. We ordered six 8"x10" press prints. When they come we will send one to you, one to Western Manuscripts, and one to Mr. <unclear/>-Myrtle received two photos from Ollie and replied to him.</p>
+
+                <pb facs="nei.n1a.6.50-51.xml" />
+                <note type="curatorial">51</note>
+                <fw type="curatorial"></fw>
+                 
+                <p>Also, we'll see that Western Rockhound Magazine gets one, and keep the others for future need. This may qualify as a "worthy cause." Ha!</p>
+                <p>We asked about the color photo taken last spring. It probably will be used as a cover page on the Journal-Stare Sunday Focus Magazine at some future time, but we cannot obtain a copy until after it has been so used. We'll keep in touch about that.</p>
+                <p>Myrtle wrote to Hilda, and I think she can explain the plan Rev. Art Ernst said the <unclear>Kuvanis</unclear> Club has about possible projects. Art said he would write to Hilda too.</p>
+                <p>We are having extra prints made of color photos we took while at your home and
+                    we'll be sending some to you and to the girls soon. Some of the color prints and 2"x2" color slides are good. Those taken at Branson are still in the camera. They will come later.</p> 
+                <p>We enjoyed a Sunday noon dinner at Mary Holm's today. She sends warm greetings, and we add ours too. We hope you continue<note>(over)</note></p>
+                
+                <note>P.3</note>
+                <p>to ^re-gain your strength, and can come back to be with us again soon. Your know "the latch-string is always out" and we consider you as part of our household-so come when you can. Have you heard anything more from Kearney College abut your function there? Let us know if it is to be done, and we want to be of any service possible. We have not talked with Ron Hull about Bancroft Prayer Garden tape project! We are wondering about a possible combination with that, if and when the Kearney event occurs. Perhaps that should wait until next flower season. We have not herad anything from Bancroft about the old P.O. building museum project. Hope it is progressing.</p>
+
+            <closer>
+                <salute>Hope it is progressing. Love and best wishes to all the "Sky-rim people"- 2 leggeds and 4-leggeds. As ever</salute>
+                <signed>Julius D. Young</signed>
+            </closer>
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

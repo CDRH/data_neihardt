@@ -1,12 +1,181 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Carbon 
-to J.G.N. Apr. 
-5835 Vine Street
-Lincoln, Nebr. 68505
-April 6, 1967
-17
-Dear Friend: 
-You have been gone just one day; we have missed your delightful presence already, and we think of "dozens" of items of interest we did not have time to enjoy with you - so you must plan to return! What a whirlwind finish the last day was, and all of the time was filled since last Friday with so much pleasure. We hope you arrived home safely, and that this trip to our sentennial state was not too wearing on you. 
-People have expressed to us as many kind thoughts about you and much appreciation concerning all that you did. The admiration is from old and young. Your physical and mental stamina and endurance amazes everyone - and at 86!! The Warren Methodist Church people regard this event as the greatest in their history. We hope all of your "trophies" carried O.K. in your travel case. Myrtle tried to pack them well. She had to do it in such a hurry. 
-No doubt you will receive a letter from an official of the Retired Teachers Assn. soon. They loved your performance, even if the news papers failed on it. The editorial you liked was written by Kathryn Duerfeldt Asst City Editor of the Journal. She promised to send marked copies to your two newspapers. I'm enclosing a few clippings etc. 
-Sincerely, as ever Julius D. Young 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1a.6.17">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Julius Young to John G. Neihardt, April 6, 1967</title>
+                <author>Young, Julius</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1a.6.17</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Young, Julius</author>
+                    <title level="m" type="main">Letter from Julius Young to John G. Neihardt</title>
+                    <date when="1967-04-06">April 6, 1967</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 hand-written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="people">
+                    <term>Young, Julius</term>
+                    <term>Young, Myrtle</term>
+                    <term>Duerfeldt, Kathryn</term>
+                </keywords>
+                <keywords scheme="original" n="places">
+                    <term>Lincoln (Neb.)</term>
+                </keywords>
+                <keywords scheme="original" n="works">
+                    <term>Lincoln Journal</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Young, Julius</persName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                    <date when="1967-04-06"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+                    <placeName ref="http://www.geonames.org/4575352">Columbia (Mo.)</placeName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+            </particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2017"><name>Weakly, Laura K.</name> correspDesc Encoding</change>
+            <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
+            <change when="2012-02-29"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
+            <change when="2011-11-28"><name xml:id="ep">Pedigo, Erin</name> Proofreading</change>
+            <change when="2011"><name xml:id="az">Zeljkovic</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.n1a.6.17.xml" />
+                <note type="curatorial">17</note>
+                <fw type="curatorial"></fw>
+                
+                <opener>
+                    <note>Carbon</note>
+                    <dateline>
+                        to J.G.N. Apr. 
+                        5835 Vine Street
+                        Lincoln, Nebr. 68505
+                        April 6, 1967
+
+                    </dateline>
+                    <salute>Dear Friend:</salute>
+                </opener>
+                <p>You have been gone just one day; we have missed your delightful presence already, and we think of "dozens" of items of interest we did not have time to enjoy with you - so you must plan to return! What a whirlwind finish the last day was, and all of the time was filled since last Friday with so much pleasure. We hope you arrived home safely, and that this trip to our sentennial state was not too wearing on you.</p>
+                <p>People have expressed to us as many kind thoughts about you and much appreciation concerning all that you did. The admiration is from old and young. Your physical and mental stamina and endurance amazes everyone - and at 86!! The Warren Methodist Church people regard this event as the greatest in their history. We hope all of your "trophies" carried O.K. in your travel case. Myrtle tried to pack them well.</p>
+                <p>She had to do it in such a hurry.</p>
+                <p>No doubt you will receive a letter from an official of the Retired Teachers Assn. soon. They loved your performance, even if the news papers failed on it. The editorial you liked was written by Kathryn Duerfeldt Asst City Editor of the Journal. She promised to send marked copies to your two newspapers. I'm enclosing a few clippings etc.</p>
+                <closer>
+                    <salute>Sincerely, as ever</salute>
+                    <signed>Julius D. Young</signed>
+                </closer>
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

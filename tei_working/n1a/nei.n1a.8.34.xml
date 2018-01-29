@@ -1,15 +1,192 @@
 <?xml version="1.0" encoding="UTF-8"?>
-34
-MIDLAND LUTHERAN COLLEGE 
-FREMONT, NEBRASKA 68025
-OFFICES OF ADMINISTRATION 
-November 8, 1969 
-Dr. John G. Neihardt 
-5835 Vine Street 
-Lincoln, Nebraska 68505
-Dear Dr. Neihardt:
-I must tell you again how delighted we are that you could spend last Wednesday on our campus. You captivated your audiences this year, just as you did in the fall of 1965, by the magnetism of your personality and poetic art. The intense, expectant stillness in both the auditorium and the classroom while you were speaking proved that your power to quicken and illumine continues undiminished. Your fine craftsmanship, sensitivity, inclusive sympathy, bright humor, con-trolled dramatic force, tested wisdom, and, above all, your genuine-ness, create a flow of communication with everyone who hears you. From our most experienced teachers to our underclassmen have come tributes stating, in essence, "Wasn't he wonderful!" What you have  achieved and what you are make you a revered spokesman for the great tradition to which you have given your life. 
-Because you have had such a distinguished part in creating an enduring literary heritage for the Great Plains and the Rocky Mountain region, your counsel will be of the utmost importance to Dr. Lueninghoener and me as we collaborate on our "planevista" programs, combining high fidelity sound with color triad, panoramic projection. We hope to make good headway on the Neihardt unit this winter and, aided by a foundation grant, to travel in the summer and gather photographic documentation of settings in A CYCLE OF THE WEST. 
-Yours in deep respect,
-Herman Gimmestad, Chairman 
-Division  of Humanities 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1a.8.34">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Herman Gimmestad to John G. Neihardt, November 8, 1969</title>
+                <author>Gimmestad, Herman</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1a.8.34</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Gimmestad, Herman</author>
+                    <title level="m" type="main">Letter from Herman Gimmestad to John G. Neihardt</title>
+                    <date when="1969-11-08">November 8, 1969</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="people">
+                    <term>Lueninghoener, Gilbert Carl</term>
+                    <term>Gimmestad, Herman</term>
+                </keywords>
+                <keywords scheme="original" n="places">
+                    <term>Fremont (Neb.)</term>
+                    <term>Lincoln (Neb.)</term>
+                </keywords>
+                <keywords scheme="original" n="works">
+                    <term>A Cycle of the West</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Gimmestad, Herman</persName>
+                    <placeName ref="http://www.geonames.org/5068725">Fremont (Neb.)</placeName>
+                    <date when="1969-11-08"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+            </particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2017"><name>Weakly, Laura K.</name> correspDesc Encoding</change>
+            <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
+            <change when="2012-02-29"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
+            <change when="2011-11-28"><name xml:id="ep">Pedigo, Erin</name> Proofreading</change>
+            <change when="2011"><name xml:id="az">Zeljkovic</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.n1a.8.34.xml"/>
+                <note type="curatorial">34</note>
+                <fw type="authorial">
+                    MIDLAND LUTHERAN COLLEGE 
+                    FREMONT, NEBRASKA 68025
+                    OFFICES OF ADMINISTRATION
+                </fw>
+                
+                <opener>
+                    
+                    <dateline>November 8, 1969</dateline>
+                    
+                    <address>
+                        <addrLine>
+                            Dr. John Neihardt 
+                            5835 Vine Street
+                            Lincoln
+                            Nebraska 68505
+                        </addrLine>
+                    </address>
+                    
+                    <salute>
+                        Dear Dr. Neihardt:
+                    </salute>
+                </opener>
+                
+                <p>I must tell you again how delighted we are that you could spend last Wednesday on our campus. You captivated your audiences this year, just as you did in the fall of 1965, by the magnetism of your personality and poetic art. The intense, expectant stillness in both the auditorium and the classroom while you were speaking proved that your power to quicken and illumine continues undiminished. Your fine craftsmanship, sensitivity, inclusive sympathy, bright humor, con-trolled dramatic force, tested wisdom, and, above all, your genuine-ness, create a flow of communication with everyone who hears you. From our most experienced teachers to our underclassmen have come tributes stating, in essence, "Wasn't he wonderful!" What you have  achieved and what you are make you a revered spokesman for the great tradition to which you have given your life.</p>
+                <p>Because you have had such a distinguished part in creating an enduring literary heritage for the Great Plains and the Rocky Mountain region, your counsel will be of the utmost importance to Dr. Lueninghoener and me as we collaborate on our "planevista" programs, combining high fidelity sound with color triad, panoramic projection. We hope to make good headway on the Neihardt unit this winter and, aided by a foundation grant, to travel in the summer and gather photographic documentation of settings in A CYCLE OF THE WEST.</p>
+                
+                <salute>Yours in deep respect,</salute>
+                <signed>Herman Gimmestad, Chairman</signed>
+                <note>Division of Humanities</note>
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

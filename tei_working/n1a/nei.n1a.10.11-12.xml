@@ -1,22 +1,197 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Feb. 3, 1971 
-11
-Dear Doc, 
-Just a note to you to let you know how things are coming. I wrote you a letter after Christmas, but sent it to Missourri, so it may not have reached you yet. My mother called me the other day to say that Dick Cavett had interviewed you and the tape may be on his show soon--I certainly hope so! I just rushed into my typewriter because I was watching Cavett talk to Arthur Godfrey, and he said he thought you were one of the most, if not the most interesting, men he had ever met! Well, hooray for you! And I wish he'd say it on network television every night. 
-I have the feeling, that you are about to take your rightful place among the great American poets, if not the great poets of the world. I wrote my seminar paper on your prose, as I told you, but as I got into it, I abandoned the treatment of the novels<del/> and devoted the whole paper to The River and I. I suddenly felt I Understood your intent and your message better than ever before--almost as if I had help writing the paper from someone outside myself--and I want to tell you that while I admired the Cycle before, I suddenly felt dazzled by it,  as if I understand, now, really, what your philosophy is and why you picked the episodes you did to recount and why you used the techniques you did. I am so anxious to talk to you at Easter about this, and a friend <del/> has promised to drive me to see you; and this time I promise to make my pilgrimage to you if I have to crawl like Hugh Glass! 
-So--I guess this is a letter to say (1) I am coming to see you (2) I am mightily excited by about working with your poems (3) I think you're glorious. You're the most extraordianry man I've 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-Feb 
-12
-met, too; you are, I am convinced, the poet that Emerson looked in vain for, and I am delighted to get deepre and deeper into your work; its like going more deeply into a wonderful garden! 
-As for personal news, now that I've taken a breath from admiration, we are doing fine here, although it's too cold for my taste. I read that you wrote part of "Hugh Glass" in mittens, and I find myself in similar apparel, as the January gusts are sweeping through<del/> my house as if they had paid the rent. Pete, his teacher tells <del/> me, excels in Kindergarten. He remembers you, and from time to time he composes, verbally, little poems, such as 
-the rooster gets up to crow ever single morning
-so the stars go 'night. 
-I don't think he's half bad, do you? I've got six more hours to complete on my doctoral course work, and I plan to do another paper on you this semester, perhaps treating the novels, this time. If you could write or dictate me a note on any thoughts you have about either of the novels, their execution, their theme, their philosophy, I would appreciate it, but if this is invonven<del/>ent, I can wait until I see you at Easter. I feel now that I have a pretty good idea of what you were ukp to in them, but I'd like to know if my intuitions are right. I'll bring my paper on the River and I with me when I come, and you comment on it, as I'd like to revise it for a chapter of my dissertation. 
-Tellex the Youngs "hello" for me, and do have a happy and prosperous beginning to your ninetieth year. 
-Love, 
-Sally
-Sally McCluskey
-1808 West st
-Cortland, Ill
-60112 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1a.10.11-12">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Sally McCluskey to John G. Neihardt, February 3, 1971</title>
+                <author>McCluskey, Sally</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1a.10.11-12</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>McCluskey, Sally</author>
+                    <title level="m" type="main">Letter from Sally McCluskey to John G. Neihardt</title>
+                    <date when="1971-02-03">February 3, 1971</date>
+                    <extent>2 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 pages</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>2 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="people">
+                    <term>Cavett, Dick</term>
+                    <term>Godfrey, Arthur, 1903-1983</term>
+                    <term>Glass, Hugh, approximately 1780-approximately 1833</term>
+                    <term>Emerson, Ralph Waldo, 1803-1882</term>
+                    <term>Pete</term>
+                    <term>Young, Myrtle</term>
+                    <term>Young, Julius</term>
+                    <term>McCluskey, Sally</term>
+                </keywords>
+                <keywords scheme="original" n="places">
+                    <term>Missouri</term>
+                    <term>Cortland (Ill.)</term>
+                </keywords>
+                <keywords scheme="original" n="works">
+                    <term>The River and I</term>
+                    <term>A Cycle of the West</term>
+                    <term>The Song of Hugh Glass</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>McCluskey, Sally</persName>
+                    <placeName ref="http://www.geonames.org/4888810">Cortland (Ill.)</placeName>
+                    <date when="1971-02-03"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+            </particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2017"><name>Weakly, Laura K.</name> correspDesc Encoding</change>
+            <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
+            <change when="2012-02-29"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
+            <change when="2011-11-28"><name xml:id="ep">Pedigo, Erin</name> Proofreading</change>
+            <change when="2011"><name xml:id="az">Zeljkovic</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.n1a.10.11-12.xml"/>
+                <note type="curatorial">11</note>
+                <note type="authorial"></note>
+                <fw type="authorial">
+                </fw>
+
+                <dateline>Feb. 3, 1971</dateline>
+                
+                <salute>Dear Doc,</salute>
+                
+                <p>Just a note to you to let you know how things are coming. I wrote you a letter after Christmas, but sent it to Missourri, so it may not have reached you yet. My mother called me the other day to say that Dick Cavett had interviewed you and the tape may be on his show soon--I certainly hope so! I just rushed into my typewriter because I was watching Cavett talk to Arthur Godfrey, and he said he thought you were one of the most, if not the most interesting, men he had ever met! Well, hooray for you! And I wish he'd say it on network television every night.</p> 
+                <p>I have the feeling, that you are about to take your rightful place among the great American poets, if not the great poets of the world. I wrote my seminar paper on your prose, as I told you, but as I got into it, I abandoned the treatment of the novels<del/> and devoted the whole paper to The River and I. I suddenly felt I Understood your intent and your message better than ever before--almost as if I had help writing the paper from someone outside myself--and I want to tell you that while I admired the Cycle before, I suddenly felt dazzled by it,  as if I understand, now, really, what your philosophy is and why you picked the episodes you did to recount and why you used the techniques you did. I am so anxious to talk to you at Easter about this, and a friend <del/> has promised to drive me to see you; and this time I promise to make my pilgrimage to you if I have to crawl like Hugh Glass!</p> 
+                <p>So--I guess this is a letter to say (1) I am coming to see you (2) I am mightily excited by about working with your poems (3) I think you're glorious. You're the most extraordianry man I've</p>
+
+                <pb facs="nei.n1a.10.11-12.xml"/>
+                <note type="curatorial">12</note>
+                <note type="authorial"></note>
+                <fw type="authorial"></fw>
+                
+                <p>Feb</p> 
+                <p>met, too; you are, I am convinced, the poet that Emerson looked in vain for, and I am delighted to get deepre and deeper into your work; its like going more deeply into a wonderful garden!</p> 
+                <p>As for personal news, now that I've taken a breath from admiration, we are doing fine here, although it's too cold for my taste. I read that you wrote part of "Hugh Glass" in mittens, and I find myself in similar apparel, as the January gusts are sweeping through<del/> my house as if they had paid the rent. Pete, his teacher tells <del/> me, excels in Kindergarten. He remembers you, and from time to time he composes, verbally, little poems, such as</p> 
+                <l>the rooster gets up to crow ever single morning</l>
+                <l>so the stars go 'night.</l> 
+                <p>I don't think he's half bad, do you? I've got six more hours to complete on my doctoral course work, and I plan to do another paper on you this semester, perhaps treating the novels, this time. If you could write or dictate me a note on any thoughts you have about either of the novels, their execution, their theme, their philosophy, I would appreciate it, but if this is invonven<del/>ent, I can wait until I see you at Easter. I feel now that I have a pretty good idea of what you were ukp to in them, but I'd like to know if my intuitions are right. I'll bring my paper on the River and I with me when I come, and you comment on it, as I'd like to revise it for a chapter of my dissertation.</p> 
+                <p>Tellex the Youngs "hello" for me, and do have a happy and prosperous beginning to your ninetieth year.</p> 
+                <salute>Love,</salute> 
+                <signed>Sally</signed>
+                <signed>Sally McCluskey</signed>
+                <note>
+                1808 West st
+                Cortland, Ill
+                60112
+                </note> 
+            </div1>
+        </body>
+    </text>
+</TEI>

@@ -1,127 +1,358 @@
 <?xml version="1.0" encoding="UTF-8"?>
-6
-FOUNDED 
-1965
-NEIHARDT STUDY RESTORATION 
-<figure>BANCROFT NEBRASKA</figure>
-Non-profit Organization 
-Exempt under Section 501 (c) (3)
-and Section 170 of the Internal 
-Revenue Code of 1954 
-OFFICERS 
-Dr. L. B. Egerman
-President
-Ruth Canarsky 
-Vice President 
-Diane Nottleman 
-Secretary 
-Hilmer I. Wiig
-Treasurer
-BOARD OF DIRECTORS
-Fern Nelson
-Horticulturist 
-Evelyn R. Vogt
-Public Relations 
-Marie Vogt 
-Planning 
-Co-ordinator 
-Robert Tushla
-Publicity 
-HONORARY BOARD OF GOVERNORS 
-Norbert T. Tiemann 
-Governor 
-State Capitol, Lincoln, Nebraska 
-Mrs. Hugh Bullock 
-President 
-The Academy of 
-American Poets 
-New York City, N. Y. 
-Hyle G. Burke 
-Vice President and 
-General Counsel 
-Indiana Bell Telephone Co. 
-Indianapolis, Indiana 
-Robert L. Bennett
-Commissioner of 
-Indian Affairs
-Department of the Interior 
-Washington D.C. 
-Mr. and Mrs. George Diedrichson 
-Ranchers 
-Dumas, Texas and 
-Bancroft, Nebraska 
-Dr. Elmer Ellis 
-President Emeritus 
-The University of Missouri 
-Columbia, Missouri 
-Don Russell 
-Editor
-The Chicago Westerners 
-Brand Book 
-Elmhurst, Illinois 
-Keith W. Vogt 
-Secretary-Treasurer
-Minnesota Telephone 
-Association, Inc. 
-St. Paul, Minnesota
-Mr. and Mrs. Charles Thono
-Lincoln, Nebraska 
-The John G. Neihardt Foundation, Inc. 
-<figure/> 
-Bancroft, Nebraska 68004
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1a.10.6-10">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Fern Nelson to John G. Neihardt, January 5, 1971</title>
+                <author>Nelson, Fern</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1a.10.6-10</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Nelson, Fern</author>
+                    <title level="m" type="main">Letter from Fern Nelson to John G. Neihardt</title>
+                    <date when="1971-01-05">January 5, 1971</date>
+                    <extent>4 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>3 page and 1 envelope</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>4 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="people">
+                    <term>Egerman, L. B.</term>
+                    <term>Canarsky, Ruth</term> 
+                    <term>Nottlemann, Diane</term> 
+                    <term>Wiig, Hilmer</term>
+                    <term>Nelson, Fern</term>
+                    <term>Vogt, Evelyn R.</term>
+                    <term>Vogt, Marie</term> 
+                    <term>Tushla, Robert</term>
+                    <term>Tiemann, Norbert T.</term> 
+                    <term>Bullock, Marie, 1911-1986</term> 
+                    <term>Burke, Hyle G.</term> 
+                    <term>Bennett, Robert L.</term>
+                    <term>Diedrichsen, George P.</term> 
+                    <term>Ellis, Elmer, 1901-1989</term> 
+                    <term>Russell, Don</term> 
+                    <term>Vogt, Keith W.</term> 
+                    <term>Thono, Charles</term>
+                    <term>Nelson, Jim</term>
+                    <term>Young, Julius</term>
+                </keywords>
+                <keywords scheme="original" n="places">
+                    <term>Lincoln (Neb.)</term> 
+                    <term>New York (N.Y.)</term> 
+                    <term>Indianapolis (Ind.)</term> 
+                    <term>Washington (D.C.)</term> 
+                    <term>Dumas (Texas)</term>
+                    <term>Bancroft (Neb.)</term> 
+                    <term>Columbia (Mo.)</term> 
+                    <term>Elmhurst (Ill.)</term> 
+                    <term>St. Paul (Minn.)</term>
+                    <term>Sioux City (Iowa)</term>
+                </keywords>
+                <keywords scheme="original" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Nelson, Fern</persName>
+                    <placeName ref="http://www.geonames.org/5063451">Bancroft (Neb.)</placeName>
+                    <date when="1971-01-05"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+            </particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2017"><name>Weakly, Laura K.</name> correspDesc Encoding</change>
+            <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
+            <change when="2012-02-29"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
+            <change when="2011-11-28"><name xml:id="ep">Pedigo, Erin</name> Proofreading</change>
+            <change when="2011"><name xml:id="az">Zeljkovic</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.n1a.10.6-10.xml"/>
+                <note type="curatorial">6</note>
+                <note type="authorial"></note>
+                <fw type="authorial">
+                    FOUNDED 
+                    1965
+                    NEIHARDT STUDY RESTORATION 
+                    <figure><p>BANCROFT NEBRASKA</p></figure>
+                </fw>
+                
+                <fw type="authorial">
+                    Non-profit Organization 
+                    Exempt under Section 501 (c) (3)
+                    and Section 170 of the Internal 
+                    Revenue Code of 1954 
+                </fw>
+                
+                <fw type="list">
+                    OFFICERS 
+                    Dr. L. B. Egerman
+                    President
+                    Ruth Canarsky 
+                    Vice President 
+                    Diane Nottleman 
+                    Secretary 
+                    Hilmer I. Wiig
+                    Treasurer
+                    BOARD OF DIRECTORS
+                    Fern Nelson
+                    Horticulturist 
+                    Evelyn R. Vogt
+                    Public Relations 
+                    Marie Vogt 
+                    Planning 
+                    Co-ordinator 
+                    Robert Tushla
+                    Publicity 
+                    HONORARY BOARD OF GOVERNORS 
+                    Norbert T. Tiemann 
+                    Governor 
+                    State Capitol, Lincoln, Nebraska 
+                    Mrs. Hugh Bullock 
+                    President 
+                    The Academy of 
+                    American Poets 
+                    New York City, N. Y. 
+                    Hyle G. Burke 
+                    Vice President and 
+                    General Counsel 
+                    Indiana Bell Telephone Co. 
+                    Indianapolis, Indiana 
+                    Robert L. Bennett
+                    Commissioner of 
+                    Indian Affairs
+                    Department of the Interior 
+                    Washington D.C. 
+                    Mr. and Mrs. George Diedrichson 
+                    Ranchers 
+                    Dumas, Texas and 
+                    Bancroft, Nebraska 
+                    Dr. Elmer Ellis 
+                    President Emeritus 
+                    The University of Missouri 
+                    Columbia, Missouri 
+                    Don Russell 
+                    Editor
+                    The Chicago Westerners 
+                    Brand Book 
+                    Elmhurst, Illinois 
+                    Keith W. Vogt 
+                    Secretary-Treasurer
+                    Minnesota Telephone 
+                    Association, Inc. 
+                    St. Paul, Minnesota
+                    Mr. and Mrs. Charles Thono
+                    Lincoln, Nebraska 
+                </fw>
+                
+                <fw type="authorial">
+                    The John G. Neihardt Foundation, Inc. 
+                    <figure/> 
+                    Bancroft, Nebraska 68004
+                </fw>
+                
+                <dateline>Jan. 5, 1971</dateline>
+                
+                <salute>Dear Dr Neihardt</salute>
+                
+                <p>I wish you many happy birthdays. I hope you enjoyed the dinner for you. I am sorry I am not able to come in person. I have been sick with the 6 month Mono and still not able to go out in the cold.</p> 
+                <p>I wrote you on another sheet this town as I think you look back at Bancroft. You can see I am not a writer</p> 
+                <p>I was ask this summer when I was in Sioux City, Iowa hospital. Where in Bancroft I answer a little town to south west. The people there have a big heart. In the last six months that I haven't  been well, the people here have been very good to me and my husband.</p> 
+                <salute>The best of everything to you Dr. Neihardt</salute> 
+                <salute>Sincerely</salute> 
+                <signed>Fern Nelson</signed>
+            </div1>
 
-Jan. 5, 1971
-Dear Dr Neihardt
-I wish you many happy birthdays. I hope you enjoyed the dinner for you. I am sorry I am not able to come in person. I have been sick with the 6 month Mono and still not able to go out in the cold. 
-I wrote you on another sheet this town as I think you look back at Bancroft. You can see I am not a writer 
-I was ask this summer when I was in Sioux City, Iowa hospital. Where in Bancroft I answer a little town to south west. The people there have a big heart. In the last six months that I haven't  been well, the people here have been very good to me and my husband. 
-The best of everything to you Dr. Neihardt 
-Sincerely 
-Fern Nelson 
-
-7
-This Town 
-This little town is my town 
-This town my mother live 
-This town I watch my chlidren 
-grow. 
-Here I learn the life of the Indian, of him I wrote on paper. 
-I a writer, mail was a big part of me. 
-There was a buildling I call my study. 
-Here I spent many an hour 
-Here I wrote the first books
-you know. 
-Never did I dream when I lived in this little town 
-
-8
-That some day, I recall Nebraska's poet laureate. 
-And the books I wrote would some day, he in other parts of the world. 
-I left this little town for other parts. 
-Many a year went by, but one fall day I went back. 
-To my surprise I found that old study still there. 
-I told the people of the town how dear the study was. What do you know, they restored that study I loved so dear. 
-I love to go back to that little town of my 
-over 
-
-Today I call it my second home. 
-wrote by 
-Fern Nelson 
-Bancroft 
-
-Jim Nelson
-Bancroft, Nebr. 
-68004 
-10
-To read again 
-and 1/11
-BANCROFT, NE 
-JAN 6 
--AM
-1971
-68004 
-<figure>UNITED STATES 6c</figure>
-John G. Neihardt 
-co Julius Young 
-5835 Vine St. 
-Lincoln, Nebr. 68505 
+            <div1 type="poem">
+                <pb facs="nei.n1a.10.6-10.xml"/>
+                <note type="curatorial">7</note>
+                <note type="authorial"></note>
+                <fw type="authorial">This Town</fw>
+                
+                <l>This little town is my town</l> 
+                <l>This town my mother live</l> 
+                <l>This town I watch my chlidren</l> 
+                <l>grow.</l> 
+                <l>Here I learn the life of the Indian, of him I wrote on paper.</l> 
+                <l>I a writer, mail was a big part of me.</l> 
+                <l>There was a buildling I call my study.</l> 
+                <l>Here I spent many an hour</l> 
+                <l>Here I wrote the first books</l>
+                <l>you know.</l> 
+                <l>Never did I dream when I lived in this little town</l> 
+                
+                <pb facs="nei.n1a.10.6-10.xml"/>
+                <note type="curatorial">8</note>
+                <note type="authorial"></note>
+                <fw type="authorial"></fw>
+                
+                <l>That some day, I recall Nebraska's poet laureate.</l> 
+                <l>And the books I wrote would some day, he in other parts of the world.</l> 
+                <l>I left this little town for other parts.</l> 
+                <l>Many a year went by, but one fall day I went back.</l> 
+                <l>To my surprise I found that old study still there.</l> 
+                <l>I told the people of the town how dear the study was. What do you know, they restored that study I loved so dear.</l> 
+                <l>I love to go back to that little town of my</l> 
+                <note>over</note> 
+                
+                <pb facs="nei.n1a.10.6-10.xml"/>
+                <note type="curatorial"></note>
+                <note type="authorial"></note>
+                <fw type="authorial"></fw>
+                
+                <l>Today I call it my second home.</l> 
+                <p>wrote by</p> 
+                <p>Fern Nelson</p> 
+                <p>Bancroft</p>
+            </div1>
+            
+            <div1 type="envelope">
+                <pb facs="nei.n1a.10.6-10.xml"/>
+                <note type="curatorial">10</note>
+                <note type="authorial"></note>
+                <fw type="authorial"></fw>
+                
+                <ab type="return">
+                    Jim Nelson
+                    Bancroft, Nebr. 
+                    68004 
+                </ab>
+                
+                <ab type="postmark">
+                    BANCROFT, NE 
+                    JAN 6 
+                    -AM
+                    1971
+                    68004
+                </ab> 
+                
+                <ab type="postmark">
+                    GIVE TO MARCH OF DIMES
+                </ab> 
+                
+                <ab type="stamp">
+                    <figure><p>UNITED STATES 6c</p></figure>
+                </ab> 
+                
+                <note type="authorial">
+                    To read again 
+                    ans 1/11
+                </note>
+                
+                <ab type="address">
+                    John G. Neihardt 
+                    co Julius Young 
+                    5835 Vine St. 
+                    Lincoln, Nebr. 68505
+                </ab> 
+            </div1>
+        </body>
+    </text>
+</TEI>

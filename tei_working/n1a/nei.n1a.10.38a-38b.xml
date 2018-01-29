@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1a.10.38a-38b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Letter from Ruth Beasley Schram to John G. Neihardt, April 28, 1971</title>
+                <author>Schram, Ruth Beasley</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1a.10.38a-38b</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Schram, Ruth Beasley</author>
+                    <title level="m" type="main">Letter from Ruth Beasley Schram to John G. Neihardt</title>
+                    <date when="1973-04-28">April 28, 1971</date>
+                    <extent>2 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 hand-written pages</p>
+                    </msContents>
+                    
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Crazy Horse, approximately 1842-1877</term>
+                    <term>Cavett, Dick</term>
+                    <term>Beasley, Lorenzo James</term>
+                    <term>Beasley, Samuel, 1907-</term>
+                    <term>Beasley, Gertie May Sheems</term>
+                    <term>Bausch, Tony</term>
+                    <term>Beasley, Maudie May</term>
+                    <term>Beasley, Jess</term>
+                    <term>Beasley, Jennie Alice</term>
+                    <term>Beasley, Rania</term>
+                    <term>Ammon, Nancy</term>
+                    <term>Schram, Ruth Beasley</term>
+                    <term>Beasley, Samuel; Jr.</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>El Cajon (Calif.)</term>
+                    <term>Omaha (Neb.)</term>
+                    <term>Huron (Ind.)</term>
+                    <term>Newton (Iowa)</term>
+                    <term>Banner County (Neb.)</term>
+                    <term>Thurston County (Neb.)</term>
+                    <term>Tekamah (Neb.)</term>
+                    <term>Linton (Ind.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term>The Dick Cavett Show</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Schram, Ruth Beasley</persName>
+                    <placeName ref="http://www.geonames.org/4381982">Columbia (Mo.)</placeName>
+                    <date when="1973-04-28"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.n1a.38a-38b"/>
+                <fw type="curatorial">38a</fw>
+                
+                <opener>
+
+                    <fw type="authorial">
+                        8787 Aft Avenue 
+                        El Cajon, Calif. 92020 
+                    </fw>
+                    
+                    <dateline>April 28, 1971</dateline>
+                    
+                    <fw type="authorial">
+                        Dr. John Neihardt 
+                        Omaha 
+                        Nebraska 68501 
+                        C/o Postmaster
+                    </fw>
+                    
+                    <salute>Dear Dr. Neihardt,</salute>
+                </opener>
+                <p>I watched the Dick Cavett program last night and was so impressed by your knowledge and love of the Indians. Bless you for taking the time to share your feelings with millions of your fellow Americans. I was so moved by your poem about Chief Crazy Horse!</p> 
+                <p>I've always had a latent interest in the Indians as I have been told that my father was born on an Indian Reservation and that his mother was half Indian. My father has been dead for 19 years this June 26th and I'm sorry I never questioned him while he was still alive and about his birth and boyhood. He was born on June 23, 1892, 2 1/2 miles Southwest of Tekamah, Burt County, Nebraska. Yesterday I was looking on my Road Atlas and did not find any Indian Reservation shown in that area now. I thought perhaps you might be able to tell me</p> 
+                
+                <pb facs="nei.n1a.10.38a-38b"/>
+                <fw type="curatorial">38b</fw>
+                
+                <p>the name of the reservation and what tribe of Indians they were, when they closed the reservation, etc. Any information you can furnish me will be most deeply appreciated.</p> 
+                <p>My father's name was Lorenzo James Beasley and his parents were Samuel Beasley born 6-27-1851 in Huron, Indiana and his mother was Gertie (Girty?) May Sheems Beasley born 11-11-1867 in Newton, Jasper County, Iowa. After the death of Samuel Beasley she married Tony Bausch.</p> 
+                <p>My father had the following Sisters and Brothers.</p> 
+                <p>Maudie May Beasley 3-13-1888</p> 
+                <p>Banner Co, Neb.</p> 
+                <p>Samuel B., Jr. 2-9-90</p> 
+                <p>Burt, Co., Neb.</p> 
+                <p>Jess B. 5-10-95 Burt Co., Neb.</p> 
+                <p>Jennie Alice B. 3-1-98 " " "</p> 
+                <p>Rania B. 928-1900 Thurston Co., Neb.</p> 
+                <p>Nancy Ammon B. 6-25-1904 Linton, Ind.</p> 
+                <p>Have you written an autobiography? If not, you shsould consider doing so immediately. What a wealth of knowledge and experience you have to pass on to future generations!</p> 
+                <p>If you can be of any help to me, I'd be most grateful.</p>
+                
+                <closer>
+                    <salute>Sincerely,</salute>
+                    <signed>
+                        Ruth Beasley Schram 
+                        (Mrs. Orville R. Schram)
+                    </signed>
+                </closer>
+            </div1>
+        </body>
+        
+    </text>
+</TEI>

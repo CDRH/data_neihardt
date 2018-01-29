@@ -1,24 +1,205 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<unclear/>30 
-April 27-90 <figure/> 25
-721 Harrison St.,
-Sheridan, Wyoming 82801
-12 April 1971 
-Dr. John G. Neihardt,
-5835 Vine St., 
-Lincoln, Nebraska 68505 
-Dear Dr. Neihardt:
-Please allow me to introduce myself - I am the daughter of lst Sgt. Samuel Gibson, U.S.A., retired December 1904 - deceased 21 July 1932. I have the lovely picture showing you and my Father together, taken many, many years ago. It is one of my prized possessions. 
-As a Historian am now writing my Book on the "Life of my Father" covering his Indian Fighting Days 1866/1890 - then on thru Spanish-American War 1891 - and then with General Arthur MacArthur during the Philippine Insurrection in the early 1900's. 
-My husband was a military man - passed to God at Fort Ord, California 12 March 1967. I came to Wyoming 16 May 1968 - to be in the proper perspective re-our Indian Wars. My home is twenty (20) miles from the three (3) sacred Sites - For Phil Kearny, Fetterman and the Great Wagon Box Fight. Wyoming, Montana and the Dakotas are called The Last Frontier. 
-I must give credit, to my getting in touch with you, to the T.V. Guide, now on sale, which states "Mr. John G. Neihardt will be interviewed on the Dick Cavett show the week of 16 April 1971". I, then, wrote a letter to the University of Nebraska Press for your address. I was such a young girl during those years you and my Father were such good freidns - now that I am older, hearing your voice, will be a real pleasure to me. 
-I have most of my Father's books, his manuscript, etc. I, now, and trying to get a complete set of your Bison Books. I intend, at the end of my Life Time, to give all my Father's things to the Museum. 
-Do let me hear from you. With sincere best wishes for your good health and happiness and with God's Blessing's on you, I am 
-Sincerely your friend, 
-Encl: Program Dedication 28 June 1970 
-designating Site of Fort Phil Kearny
-as a Registered National Historic Landmark. 
-Harriet Gibson Weaver
-Harriett Gibson Weaver
-307-674-9747
-+
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1a.10.25">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Harriett Gibson Weaver to John G. Neihardt, April 12,
+                    1971</title>
+                <author>Weaver, Harriett Gibson</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1a.10.25</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Weaver, Harriett Gibson</author>
+                    <title level="m" type="main">Letter from Harriett Gibson Weaver to John G. Neihardt</title>
+                    <date when="1971-04-12">April 12, 1971</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="people">
+                    <term>Weaver, Harriett Gibson</term>
+                    <term>Gibson, Samuel</term>
+                    <term>MacArthur, Arthur, Jr., 1845-1912</term>
+                    <term>Cavett, Dick</term>
+                </keywords>
+                <keywords scheme="original" n="places">
+                    <term>Lincoln (Neb.)</term>
+                    <term>Sheridan (Wy.)</term>
+                    <term>Fort Ord (Calif.)</term>
+                    <term>Wyoming</term>
+                    <term>Montana</term>
+                    <term>North Dakota</term>
+                    <term>South Dakota</term>
+                </keywords>
+                <keywords scheme="original" n="works">
+                    <term>Life of My Father</term>
+                    <term>The Dick Cavett Show</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Weaver, Harriett Gibson</persName>
+                    <placeName ref="http://www.geonames.org/5838198">Sheridan (Wy.)</placeName>
+                    <date when="1971-04-12"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+            </particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2017"><name>Weakly, Laura K.</name> correspDesc Encoding</change>
+            <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
+            <change when="2012-02-29"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
+            <change when="2011-11-28"><name xml:id="ep">Pedigo, Erin</name> Proofreading</change>
+            <change when="2011"><name xml:id="az">Zeljkovic</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.n1a.10.25.xml"/>
+                <note type="curatorial">25</note>
+                <fw type="authorial"></fw>
+                <note type="authorial">
+                    <unclear/>30 
+                    April 27-90 <figure/>
+                </note>
+                
+                <fw type="address">
+                    721 Harrison St.,
+                    Sheridan, Wyoming 82801  
+                </fw>
+                
+                <dateline>12 April 1971</dateline>
+                
+                <fw type="address">
+                    Dr. John G. Neihardt,
+                    5835 Vine St., 
+                    Lincoln, Nebraska 68505
+                </fw>
+                
+                <salute>Dear Dr. Neihardt:</salute>
+                <p>Please allow me to introduce myself - I am the daughter of lst Sgt. Samuel Gibson, U.S.A., retired December 1904 - deceased 21 July 1932. I have the lovely picture showing you and my Father together, taken many, many years ago. It is one of my prized possessions.</p> 
+                <p>As a Historian am now writing my Book on the "Life of my Father" covering his Indian Fighting Days 1866/1890 - then on thru Spanish-American War 1891 - and then with General Arthur MacArthur during the Philippine Insurrection in the early 1900's.</p> 
+                <p>My husband was a military man - passed to God at Fort Ord, California 12 March 1967. I came to Wyoming 16 May 1968 - to be in the proper perspective re-our Indian Wars. My home is twenty (20) miles from the three (3) sacred Sites - For Phil Kearny, Fetterman and the Great Wagon Box Fight. Wyoming, Montana and the Dakotas are called The Last Frontier.</p> 
+                <p>I must give credit, to my getting in touch with you, to the T.V. Guide, now on sale, which states "Mr. John G. Neihardt will be interviewed on the Dick Cavett show the week of 16 April 1971". I, then, wrote a letter to the University of Nebraska Press for your address. I was such a young girl during those years you and my Father were such good freidns - now that I am older, hearing your voice, will be a real pleasure to me.</p> 
+                <p>I have most of my Father's books, his manuscript, etc. I, now, and trying to get a complete set of your Bison Books. I intend, at the end of my Life Time, to give all my Father's things to the Museum.</p> 
+                <p>Do let me hear from you. With sincere best wishes for your good health and happiness and with God's Blessing's on you, I am</p> 
+                
+                <salute>Sincerely your friend,</salute>
+                <postscript>
+                    <p>Encl: Program Dedication 28 June 1970 
+                        designating Site of Fort Phil Kearny</p>
+                </postscript>
+                <signed>Harriett Gibson Weaver</signed>
+                <signed>Harriett Gibson Weaver</signed>
+             
+                <note type="authorial">
+                    307-674-9747
+                </note>
+                
+            </div1>
+        </body>
+    </text>
+</TEI>

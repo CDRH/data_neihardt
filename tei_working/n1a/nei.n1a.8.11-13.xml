@@ -1,30 +1,225 @@
 <?xml version="1.0" encoding="UTF-8"?>
-11
-THE UNIVERSITY OF SOUTH DAKOTA 
-April 8, 1969
-Dr. John G Neihardt 
-5835 Vine Road 
-Lincoln, Nebraska
-Dear John, 
-Well, it looks like i"m up to my old tricks again. I promised to reply to your letters prompty and sudenly find that the months have gone by before I pick up a pen and answer. I am glad to hear that the cataract operation was a success, and it sounds like the autobiography is coming along great. I am looking forward to its release and will twist your arm to get an autographed copy to put on that special bookshelf that I reserve for my dear friends. We are still planning to bring you up here and either film or Video-tape more of your material to fill out our collection. Incidently, we are planning to transfer all of our Video-tapes of you to Motion Picture film for greater permanence and ease of distribution. 
-Things have been going great in our Department. We have more work than we can handle which is the only way I would have it. You know me well enough to know that I cna't stand to sit still (which probably accounts for the long delays between my letters. I'm always out somehwere doing something.) We have a dded one full time position next year. Which doens't mean that I can sit back and take it easy, but rather that we can accomplish more. Never having done much sitting still yourself, I guess you know what it feels like. 
-I have had a number of requests for your records and although I am out of stock right now and am low on funds at present, I am expecting a sizeable refund on my income tax and will place an order for additional records in the near future. I hope I can interest some larger record company or some foundation to take up the responsibility of producing and distributing the tapes and the records we now have. The master tapes and the stampers for the records permanent repository for these materials so that they will be more readily available for reserach and distribution. At present I don't see any way that I can bring out a new record of our latest tapes from my personal resources. Hopefully we can find some financial support from a foundation, library fund, or some other source. They should be made available. The last tapes we did I think are among the best we have done. 
-telecommunications center 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-12
-Say hello to your family for me, especially to those lovely grand-daughters of yours. Is Alice still raising and training horses? Write to me and let me know how you are and how the book is coming. We miss you up here. My students are always asking "When will we get to see Dr. Neihardt again?" I hope very soon. 
-Your friend,
-Sandy 
-
-Film Department 
-13 THE UNIVERSITY OF SOUTH DAKOTA
-VERMILLION 57069
-The University of South Dakota Home of "The Coyotes" Since 1882
-VERMILLION 
-APR-9'69
-S DAK. P.B. METER 326664 U.S. POSTAGE 06: <figure/>
-Ans. 6-10-69
-Dr. John G. Neihardt
-C/O Mr. Julius D. Young 
-5835 Vine Street 
-Lincoln, Nebraska 68505 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1a.8.11-13">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Sandy to John G. Neihardt, April 8, 1969</title>
+                <author>Sandy</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1a.8.11-13</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Sandy</author>
+                    <title level="m" type="main">Letter from Sandy to John G. Neihardt</title>
+                    <date when="1969-04-08">April 8, 1969</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="people">
+                    <term>Sandy</term>
+                </keywords>
+                <keywords scheme="original" n="places">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Sandy</persName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                    <date when="1969-04-08"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+                    <placeName></placeName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+            </particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2017"><name>Weakly, Laura K.</name> correspDesc Encoding</change>
+            <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
+            <change when="2012-02-29"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
+            <change when="2011-11-28"><name xml:id="ep">Pedigo, Erin</name> Proofreading</change>
+            <change when="2011"><name xml:id="az">Zeljkovic</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.n1a.8.11-13.xml"/>
+                <note type="curatorial">11</note>
+                <fw type="authorial">
+                    THE UNIVERSITY OF SOUTH DAKOTA
+                </fw>
+                
+                <opener>
+                    <dateline>April 8, 1969</dateline>
+                    
+                    <address>
+                        <addrLine>
+                            Dr. John G Neihardt 
+                            5835 Vine Road 
+                            Lincoln, Nebraska
+                        </addrLine>
+                    </address>
+                    
+                    <salute>
+                        Dear John,
+                    </salute>
+                </opener>
+                
+                <p>Well, it looks like i"m up to my old tricks again. I promised to reply to your letters prompty and sudenly find that the months have gone by before I pick up a pen and answer. I am glad to hear that the cataract operation was a success, and it sounds like the autobiography is coming along great. I am looking forward to its release and will twist your arm to get an autographed copy to put on that special bookshelf that I reserve for my dear friends. We are still planning to bring you up here and either film or Video-tape more of your material to fill out our collection. Incidently, we are planning to transfer all of our Video-tapes of you to Motion Picture film for greater permanence and ease of distribution.</p> 
+                <p>Things have been going great in our Department. We have more work than we can handle which is the only way I would have it. You know me well enough to know that I cna't stand to sit still (which probably accounts for the long delays between my letters. I'm always out somehwere doing something.) We have a dded one full time position next year. Which doens't mean that I can sit back and take it easy, but rather that we can accomplish more. Never having done much sitting still yourself, I guess you know what it feels like.</p>
+                <p>I have had a number of requests for your records and although I am out of stock right now and am low on funds at present, I am expecting a sizeable refund on my income tax and will place an order for additional records in the near future. I hope I can interest some larger record company or some foundation to take up the responsibility of producing and distributing the tapes and the records we now have. The master tapes and the stampers for the records permanent repository for these materials so that they will be more readily available for reserach and distribution. At present I don't see any way that I can bring out a new record of our latest tapes from my personal resources. Hopefully we can find some financial support from a foundation, library fund, or some other source. They should be made available. The last tapes we did I think are among the best we have done.</p>
+                
+                <note type="authorial">telecommunications center</note>
+                
+                <pb facs="nei.n1a.8.11-13.xml"/>
+                <note type="curatorial">12</note>
+                <fw type="authorial"></fw>
+                
+                <p>Say hello to your family for me, especially to those lovely grand-daughters of yours. Is Alice still raising and training horses? Write to me and let me know how you are and how the book is coming. We miss you up here. My students are always asking "When will we get to see Dr. Neihardt again?" I hope very soon.</p>
+                
+                <salute>Your friend,</salute>
+                <signed>Sandy</signed>
+            </div1>
+            
+            <div1 type="envelope">
+                
+                <pb facs="nei.n1a.8.11-13.xml"/>
+                <note type="curatorial">13</note>
+                <fw type="authorial"></fw>
+                
+                <p>Film Department</p>
+                
+                <ab type="return">
+                    13 THE UNIVERSITY OF SOUTH DAKOTA
+                    VERMILLION 57069
+                </ab>
+                
+                <ab type="postmark">
+                    The University of South Dakota Home of "The Coyotes" Since 1882
+                    
+                    VERMILLION 
+                    APR-9'69
+                    S DAK. P.B. METER 326664 U.S. POSTAGE 06: <figure/>
+                </ab>
+                
+                <note>Ans. 6-10-69</note>
+                
+                <ab type="address">
+                    Dr. John G. Neihardt
+                    C/O Mr. Julius D. Young 
+                    5835 Vine Street 
+                    Lincoln, Nebraska 68505
+                </ab>
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

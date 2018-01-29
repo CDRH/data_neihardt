@@ -1,31 +1,232 @@
 <?xml version="1.0" encoding="UTF-8"?>
-922 South 87 Avenue 
-Omaha, Nebraska 68114
-May 24, 1970 
-Dr. John G. Neihardt 
-5835 Vine Street 
-Lincoln, Nebraska 
-My dear Dr. Neihardt: 
-Mrs. Lois Hegstrom tells me that you have consented to attend the Phi Delta Gamma Convention luncheon Saturday, June 27th, 12:15 p.m., at the Kellogg Center and that you will address us briefly at that time. 
-Will you kindly choose a topic and send me the title so that we may send it, with other information, to the printer. Our chapter, Pi, at Creighton University, is in charge of details for the Saturday noon event. 
-We shall look forward with great pleasure to meeting you next month in Lincoln. 
-Sincerely yours, 
-Mary Alice Engles
-MARY ALICE ENGLES 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-922 South 87 Avenue 
-Omaha, Nebraska 68114 
-OMAHA. NE 
-PM
-24 MAY 
-3B 
-1970 
-ALWAYS USE 
-ZIP CODE 
-UNITED STATES 6c 
-<unclear/> - m.m.y
-<unclear/> - 26 - 70
-Engles 
-Dr. John Neihardt
-5835 Vine Street 
-Lincoln, Nebraska 68500 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1a.9.25-26">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Mary Alice Engles to John G. Neihardt, May 24, 1970</title>
+                <author>Engles, Mary Alice</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1a.9.25-26</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Engles, Mary Alice</author>
+                    <title level="m" type="main">Letter from Mary Alice Engles to John G. Neihardt</title>
+                    <date when="1970-05-24">May 24, 1970</date>
+                    <extent>1 page; 1 envelope</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 page; 1 envelope</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page; 1 envelope
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="people">
+                    <term>Engles, Mary Alice</term>
+                    <term>Hegstrom, Lois</term>
+                </keywords>
+                <keywords scheme="original" n="places">
+                    <term>Lincoln (Neb.)</term>
+                    <term>Omaha (Neb.)</term>
+                </keywords>
+                <keywords scheme="original" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Engles, Mary Alice</persName>
+                    <placeName ref="http://www.geonames.org/5074472">Omaha (Neb.)</placeName>
+                    <date when="1970-05-24"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+            </particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2017"><name>Weakly, Laura K.</name> correspDesc Encoding</change>
+            <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
+            <change when="2012-02-29"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
+            <change when="2011-11-28"><name xml:id="ep">Pedigo, Erin</name> Proofreading</change>
+            <change when="2011"><name xml:id="az">Zeljkovic</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.n1a.9.25-26.xml"/>
+                <note type="curatorial"></note>
+                <note type="authorial"></note>
+                <fw type="authorial"></fw>
+
+                <fw type="address">
+                    <address>
+                        <addrLine>
+                            922 South 87 Avenue 
+                            Omaha, Nebraska 68114
+                        </addrLine>
+                    </address>
+                </fw>
+                
+                <dateline>May 24, 1970</dateline>
+                
+                <fw type="address">
+                    <address>
+                        <addrLine>
+                            Dr. John G. Neihardt 
+                            5835 Vine Street 
+                            Lincoln, Nebraska 
+                        </addrLine>
+                    </address>
+                </fw>
+                
+                <salute>My dear Dr. Neihardt:</salute>
+                
+                <p>Mrs. Lois Hegstrom tells me that you have consented to attend the Phi Delta Gamma Convention luncheon Saturday, June 27th, 12:15 p.m., at the Kellogg Center and that you will address us briefly at that time.</p> 
+                <p>Will you kindly choose a topic and send me the title so that we may send it, with other information, to the printer. Our chapter, Pi, at Creighton University, is in charge of details for the Saturday noon event.</p> 
+                <p>We shall look forward with great pleasure to meeting you next month in Lincoln.</p>  
+                
+                <salute>Sincerely yours,</salute> 
+                <signed>Mary Alice Engles</signed>
+                <signed>MARY ALICE ENGLES</signed> 
+
+            </div1>
+            
+            <div1 type="envelope">
+                <pb facs="nei.n1a.9.25-26.xml"/>
+                <note type="curatorial"></note>
+                <note type="authorial"></note>
+                
+                <ab type="postmark">
+                    OMAHA. NE 
+                    PM
+                    24 MAY 
+                    3B 
+                    1970 
+                </ab>
+                
+                <ab type="stamp">
+                    ALWAYS USE 
+                    ZIP CODE 
+                    UNITED STATES 6c 
+                </ab>
+                
+                <note type="authorial">
+                    <unclear/> - m.m.y
+                    <unclear/> - 26 - 70
+                    Engles 
+                </note>
+                
+                <ab type="address">
+                    Dr. John Neihardt
+                    5835 Vine Street 
+                    Lincoln, Nebraska 68500 
+                </ab>
+
+                <ab type="return">
+                    922 South 87 Avenue 
+                    Omaha, Nebraska 68114
+                </ab>
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

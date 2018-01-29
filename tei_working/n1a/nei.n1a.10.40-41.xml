@@ -1,33 +1,173 @@
 <?xml version="1.0" encoding="UTF-8"?>
-40
-Wednesday, April, 28, 1971 
-Dear Dr. Neihardt. - 
-What a great enjoyable evening April 27th was for me. 
-My big regret is that my two grand daughters did not hear and see you give the very wonderful poem "Crazy Horse" in way it could be understood. 
-I have your Lyric and dramatic poems, now. must get Black Elk speaks 
-Thank you so much 
-Sincerely
-Blanche A. Cole 
-3102 Fontenelle Blvd
-Omaha, Nebr. 68104
-Hope that K.E.T.V. will have your program "on" in daytime so the children will have chance to see again a big thankyou. 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-41
-Mrs. Argyle I. Cole 
-3102 Fontenelle Blvd. 
-Omaha, Nebr. 68104 
-U.S.POSTAGE SERVICES 
-PM
-29 APR
-1971 
-<unclear/> ZIP CODE WILDLIFE
-UNITED STATES 6c
-4-30-71
-Dr. John G. Neihardt 
-K.E.T.V. Douglas St 
-Omaha, Nebr. 
-Forward 
-5835 Vine St
-Lincoln, Nebr
-68505 
-Please forward 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1a.10.40-41">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Blanche A. Cole to John G. Neihardt, April 28, 1971</title>
+                <author>Cole, Blanche A.</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1a.10.40-41</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            <notesStmt><note></note></notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Cole, Blanche A.</author>
+                    <title level="m" type="main">Letter from Blanche A. Cole to John G. Neihardt</title>
+                    <date when="1973-04-28">April 28, 1971</date>
+                    <extent>2 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 hand-written pages</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Cole, Blanche A.</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Omaha (Neb.)</term>
+                    <term>Lincoln (Neb.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term>The Death of Crazy Horse</term>
+                    <term>Black Elk Speaks</term>
+                    <term>Lyric and Dramatic Poems</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Cole, Blanche A.</persName>
+                    <placeName ref="http://www.geonames.org/5074472">Omaha (Neb.)</placeName>
+                    <date when="1973-04-28"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2017"><name xml:id="lkw">Weakly, Laura K.</name></change>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.n1a.10.40-41"/>
+                <fw type="curatorial">40</fw>
+                <fw type="authorial"></fw>
+                
+                <opener>
+                    <dateline>
+                        Wednesday, April, 28, 1971
+                    </dateline>
+                    
+                    <salute>Dear Dr. Neihardt. -</salute>
+                </opener>
+                <p>What a great enjoyable evening April 27th was for me.</p> 
+                <p>My big regret is that my two grand daughters did not hear and see you give the very wonderful poem "Crazy Horse" in way it could be understood.</p> 
+                <p>I have your Lyric and dramatic poems, now. must get Black Elk speaks</p>
+                <closer>
+                    <salute>Thank you so much</salute> 
+                    <salute>Sincerely</salute>
+                    <signed>Blanche A. Cole</signed> 
+                    
+                    <fw type="address">
+                        3102 Fontenelle Blvd
+                        Omaha, Nebr. 68104
+                    </fw>
+                    
+                    <note>Hope that K.E.T.V. will have your program "on" in daytime so the
+                        children will have chance to see again a big thankyou.</note>
+                </closer>
+            </div1>
+            
+            <div1 type="envelope">
+                
+                <ab type="return">
+                    Mrs. Argyle I. Cole 
+                    3102 Fontenelle Blvd. 
+                    Omaha, Nebr. 68104
+                </ab> 
+                
+                <ab type="postmark">
+                    U.S.POSTAGE SERVICES 
+                    PM
+                    29 APR
+                    1971
+                    <unclear/> ZIP CODE WILDLIFE
+                </ab>
+                
+                <ab type="stamp">
+                    UNITED STATES 6c
+                    4-30-71
+                </ab>
+                
+                <ab type="address">
+                    Dr. John G. Neihardt 
+                    K.E.T.V. Douglas St 
+                    Omaha, Nebr. 
+                    Forward 
+                    5835 Vine St
+                    Lincoln, Nebr
+                    68505
+                </ab> 
+                
+                <note type="authorial">
+                    Please forward
+                </note> 
+                
+            </div1>
+        </body>
+    </text>
+</TEI>

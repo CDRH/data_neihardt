@@ -1,14 +1,196 @@
 <?xml version="1.0" encoding="UTF-8"?>
-11
-From:
-THE DESK OF March 16, 1964
-JOSEPH AUSLANDER
-Dear John Neihardt, 
-What shall I say? What are the words? The vocabulary of gratitude has become tired and insipid. But you know. That is enough. 
-I said long ago that you are the greatest poet in our land. I said it in public print. I have read a CYCLE OF THE WEST many times -- often in the dead of night, being a bad sleeper -- and I repeat that you are the only Homeric singer of the AMerican song; that neither Poe nor Whitman nor anybody else can even remotely touch your unique splendor. After all, Whitman, for all his hairy chest-thumping, was no epic poet; he was infatuated with himself. In all candor -- and, this side idolatry, I loved and admired Steve Benet, person and poet and story-teller, as much as any man -- I must confess that his most celebrated poem, JOHN BROWN'S BODY, leaves me quite cold. I smell in it a sense of something hortatory, something contrived and manufactured. He simply lacked the lung power. 
-It's a funny thing, but I noted that you sent me your generously inscribed book in a wrapper from THE AMERICAN ACADEMY OF ARTS AND LETTERS. What's funny is this: that, although my dossier is decent, I've never been invited to join. 
-Finally, let me tell you that your dedication to HILDA made me weep. Greek is one of my few accomplishments. I am sick and old and lonely. Bless you, John, and thank you again for being the man and the poet you are. 
-Joe
-Joseph Auslander 901 COUNTRY CLUB PRADO
-CORAL GABLES 34, FLORIDA 
-<unclear/>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1a.4.11">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Joseph Auslander to John G. Neihardt, March 16, 1964</title>
+                <author>Auslander, Joseph, 1897-1965</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1a.4.11</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Auslander, Joseph, 1897-1965</author>
+                    <title level="m" type="main">Letter from Joseph Auslander to John G. Neihardt</title>
+                    <date when="1964-03-16">March 16, 1964</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 typed page and one envelope</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="people">
+                    <term>Auslander, Joseph, 1897-1965</term>
+                    <term>Poe, Edgar Allen, 1809-1849</term>
+                    <term>Whitman, Walt, 1819-1892</term>
+                    <term>Bénet, Stephen Vincent, 1898-1943</term>
+                    <term>Petri, Hilda Neihardt</term>
+                </keywords>
+                <keywords scheme="original" n="places">
+                    <term>Coral Gables (Fla.)</term>
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="works">
+                    <term>A Cycle of the West</term>
+                    <term>John Brown's Body</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName ref= "http://viaf.org/viaf/8402815">Auslander, Joseph, 1897-1965</persName>
+                    <placeName ref="http://www.geonames.org/4151871">Coral Gables (Fla.)</placeName>
+                    <date when="1964-03-16"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+                    <placeName></placeName>
+                    <date when="1964-03-16"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <person role="recipient"><persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName></person>
+            </particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2017"><name>Weakly, Laura K.</name> correspDesc Encoding</change>
+            <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
+            <change when="2012-02-29"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
+            <change when="2011-11-28"><name xml:id="ep">Pedigo, Erin</name> Proofreading</change>
+            <change when="2011"><name xml:id="az">Zeljkovic</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.n1a.4.11.xml" />
+                <note type="curatorial">11</note>
+                <fw type="curatorial"></fw>
+                
+                <opener>
+          
+                    <dateline>
+                        From:
+                        THE DESK OF March 16, 1964
+                        JOSEPH AUSLANDER
+                    </dateline>
+
+                    <salute>Dear John Neihardt,</salute>
+                </opener>
+                <p>What shall I say? What are the words? The vocabulary of gratitude has become tired and insipid. But you know. That is enough.</p>
+                    <p>I said long ago that you are the greatest poet in our land. I said it in public print. I have read a CYCLE OF THE WEST many times -- often in the dead of night, being a bad sleeper -- and I repeat that you are the only Homeric singer of the AMerican song; that neither Poe nor Whitman nor anybody else can even remotely touch your unique splendor. After all, Whitman, for all his hairy chest-thumping, was no epic poet; he was infatuated with himself. In all candor -- and, this side idolatry, I loved and admired Steve Benet, person and poet and story-teller, as much as any man -- I must confess that his most celebrated poem, JOHN BROWN'S BODY, leaves me quite cold. I smell in it a sense of something hortatory, something contrived and manufactured. He simply lacked the lung power.</p>
+                <p>It's a funny thing, but I noted that you sent me your generously inscribed book in a wrapper from THE AMERICAN ACADEMY OF ARTS AND LETTERS. What's funny is this: that, although my dossier is decent, I've never been invited to join.</p>
+                <p>Finally, let me tell you that your dedication to HILDA made me weep. Greek is one of my few accomplishments. I am sick and old and lonely.</p>               
+                <closer>
+                    <salute>Bless you, John, and thank you again for being the man and the poet you are.</salute>
+                    
+                    <signed>Joe</signed>
+
+                </closer>
+                
+            </div1>
+            <div1 type= "envelope">
+                <pb facs="nei.n1a.4.11.xml"/>
+                <fw type="authorial">
+                    Joseph Auslander
+                    901 COUNTRY CLUB PRADO
+                    CORAL GABLES 34, FLORIDA  <unclear/>
+                </fw>               
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

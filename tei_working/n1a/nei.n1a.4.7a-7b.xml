@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1a.4.7a-7b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from P.B. Saint-Hilaire to John G. Neihardt, May 8, 1963</title>
+                <author>Saint Hilaire, Philippe Barbier, 1894-1969</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1a.4.7a-7b</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Saint Hilaire, Philippe Barbier, 1894-1969</author>
+                    <title level="m" type="main">Letter from P.B. Saint-Hilaire to John G. Neihardt</title>
+                    <date when="1963-05-08">May 8, 1963</date>
+                    <extent>2 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 typed pages</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>2 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="people">
+                    <term>Saint Hilaire, Philippe Barbier, 1894-1969</term>
+                    <term>Reddick, Dr. Olive I.</term>
+                    <term>Neihardt, Enid</term>
+                    <term>Neihardt, Sigurd</term>
+                    <term>Petri, Hilda Neihardt</term>
+                    <term>Neihardt, Alice Culler </term>
+                    <term>Neihardt, Mona Martinsen</term>
+                    <term>Neihardt, Nicholas Nathan</term>
+                    <term>Roxburg, Johanna</term>
+                    <term>Neihardt, John</term>
+                    <term>Kruagor, Elisabeth</term>
+                    <term>Neighhard, Christian</term>
+                    <term>Neihardt, Eva</term>
+                    <term>Shade, Capt. Henry</term>
+                </keywords>
+                <keywords scheme="original" n="places">
+                    <term>India</term>
+                    <term>Pondicherry (India)</term>
+                    <term>Germany</term>
+                    <term>Berks County (Pa.)</term>
+                    <term>Reading (Pa.)</term>
+                    <term>Coal City (In.)</term>
+                    <term>Springfield (Ill.)</term>
+                    <term>Branson (Mo.)</term>
+                    <term>Pennsylvania</term>
+                </keywords>
+                <keywords scheme="original" n="works">
+                    <term></term>
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName ref="https://viaf.org/viaf/61550561">Saint Hilaire, Philippe Barbier, 1894-1969</persName>
+                    <placeName ref="http://www.geonames.org/1259425">Pondicherry (India)</placeName>
+                    <date when="1963-05-08"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+                    <placeName ref="http://www.geonames.org/4575352">Columbia (Miss.)</placeName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+            </particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2017"><name>Weakly, Laura K.</name> correspDesc Encoding</change>
+            <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
+            <change when="2012-02-29"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
+            <change when="2011-11-28"><name xml:id="ep">Pedigo, Erin</name> Proofreading</change>
+            <change when="2011"><name xml:id="az">Zeljkovic</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.n1a.4.7a-7b"/>
+                <note type="curatorial">7a</note>
+                <fw type="authorial">
+                    SRI AUROBINDO INTERNATIONAL CENTRE OF EDUCATION 
+                    PONDICHERRY (India)
+                </fw>
+                
+                <opener>
+
+                    <dateline>
+                        8th May, 1963
+                    </dateline>
+
+                    <salute>Dear Dr. Neihardt,</salute>
+                </opener>
+                <p>I have received a letter from Dr. Olive I. Reddick, Director of the United States Educational Foundation in India, asking us to confirm our invitation to you to pay and deliver here a series of lectures. We are also asked to give them the information regarding the period of your stay at our centre and the amount of maintenance and other amenities that you will be receiving from us.</p>
+                <p>As you probably know, we do not give any salary to the teachers of our Centre, but they are all maintained by the Ashram on the same level as other members of the Ashram. We shall therefore provide you comfortable stay and board as our guest. Also, as I had suggested to you in my last letter, January would be the most suitable month for your stay here form the point of view of your age and the climatic conditions in Pondicherry. I would therefore request you kindly to drop me a line to confirm if I should reply to Dr. Reddick that you will be staying here for a month and that youw ill be treated as our guest and thus maintained by us during your period of stay here on a decent standard.</p>
+                <p>As we are withholding our answer to Dr. Reddick, pending your answer to this letter, I shall be grateful if you kindly write to me at the earliest.</p>
+                
+                <closer>
+                    <salute>With kind regards,</salute>
+                    <salute>Yours sincerely,</salute>
+                    
+                    <signed>P.B. Saint-Hilaire
+                        Director of Education
+                        Dr. John G. Neihardt,
+                        Lecturer in English, 
+                        University of Missouri, 
+                        Route 7, 
+                        Columbia, Missouri</signed>
+                </closer>
+                
+            </div1>
+            
+            <div1 type="attachment">
+                
+                <note>(should be Neihardt of <unclear>Neihardt)</unclear></note>
+                <opener>
+                    7b
+                </opener>
+                <p>Christian Neighhard                              Eva N.</p>
+                <p>born in Germany, died                          born in Germany</p>
+                <p>August 27, 1776. Private                      married 1757, died</p>
+                <p>in Berks Co. Pennsylvania                  1784</p>
+                <p>Militia, part of Pa. Rifle</p>
+                <p>Regiment. Served under Capt.</p>
+                <p>Henry Shade. Residence Berks</p>
+                <p>County. Enlisted April 14, 
+                    1776. Killed in action - re-
+                    ported missing Battle of Long
+                    Island, Aug. 27, 1776. Ser-
+                    vice, 4 mo. 13 days. Reference: 
+                    Pennsylvania in the Revolution
+                    Page 222, Vol. II and p. 172.</p>
+                
+                <p>(Nihard or                                                                   nee
+                    Conrad (<unclear>Neighhard</unclear>    Elisabeth/Kruagor</p>
+                <p>                                                                        Born 1775, married</p>
+                <p>1772 Reading, Pa., born Sept.                   March 1795, died</p>
+                <p>7, 1772, died April 23,                                 Dec. 1862 (Center Co., Pa.)
+                    1862. </p>
+                
+                <p>John Neihardt                                        Johanna nee Roxburg</p>
+                <p>Coal City, Indiana;                                Reading, Pa., born 1809,</p>
+                <p>born January 8, 1802, 1801                married may 1826, died</p>
+                <p>died July 1879.                                      May 1889.</p>
+                
+                <p>Nicholas Neihardt                                Alice nee Culler</p>
+                <p>born July 1852,                                    born December 21, 1858,</p> 
+                <p>died in 1929                                         died F <unclear/> .12,1935</p>
+                <p>                                                               Married march 1876.</p>
+                
+                <p>John Gneisenau Neihardt                              Mona nee Martinsen,</p> 
+                <p>born January 8, 1881,                                     born May 26,1884, New</p>
+                <p><unclear>Springfield</unclear>, Illinois.     York City</p>
+                <p>Branson, Mo.                                                    Married<del>1997</del> (Nov. 28)</p>
+                <p>                                                                            Nov. 28, 1908</p>
+
+                <p>Enid         Sigurd          Hilda           Alice</p>
+                
+                <note>Christened; John Greenfield?
+                    name changed to <unclear/> <unclear/> 
+                    when <unclear/> <unclear/> <unclear/><unclear/><unclear/><unclear/>
+                    <unclear/><unclear/><unclear/></note>
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

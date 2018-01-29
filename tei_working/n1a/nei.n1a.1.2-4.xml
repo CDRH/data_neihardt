@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1a.1.2-4">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Don Sloggy to John G. Neihardt and Mr. and Mrs.Young,
+                    July 29, 1932</title>
+                <author>Sloggy, Don</author>
+                <principal>Neihardt, John Gneisenau, 1881-1973</principal>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1a.1.2-4</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Sloggy, Don</author>
+                    <title level="m" type="main">Letter from Don Sloggy to John G. Neihardt and Mr. and Mrs.Young</title>
+                    <date when="1932-07-29">July 29, 1932</date>
+                    <extent>4 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>4 hand-written pages</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>4 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="people">
+                    <term>Sloggy, Don</term>
+                    <term>Young, Julius</term>
+                    <term>Van der Post, Laurens</term>
+                    <term>Black Elk, 1863-1950</term>
+                    <term>Jung, C.G. (Carl Gustav), 1875-1961</term>
+                    <term>Crazy Horse, approximately 1842-1877</term>
+                    <term>Standing Bear, Luther, 1868?-1939</term>
+                    <term>Korzack</term>
+                    <term>Ruth</term>
+                </keywords>
+                <keywords scheme="original" n="places">
+                    <term>San Gabriel (Calif.)</term>
+                    <term>South Africa</term>
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="works">
+                    <term>The Lost World of the Kalahari</term>
+                    <term>The Heart of the Hunter</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Sloggy, Don</persName>
+                    <placeName ref="http://www.geonames.org/5392034">San Gabriel (Calif.)</placeName>
+                    <date when="1932-07-29"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Neihardt, John Gneisenau, 1881-1973</persName>
+                    <persName>Young, Julius</persName>
+                    <placeName></placeName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <person role="recipient">
+                    <persName>Neihardt, John Gneisenau, 1881-1973</persName>
+                    <persName>Young, Julius</persName>
+                </person>
+            </particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2017"><name>Weakly, Laura K.</name> correspDesc Encoding</change>
+            <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
+            <change when="2012-02-29"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
+            <change when="2011-11-28"><name xml:id="ep">Pedigo, Erin</name> Proofreading</change>
+            <change when="2011"><name xml:id="az">Zeljkovic</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.n1a.1.2-4"/>
+                <note type="curatorial">2</note>
+                <fw type="curatorial"></fw>
+                
+                <opener>
+                    <dateline>
+                        7-29-32
+                    </dateline>
+                    <salute>Dear Mr. &amp; Mrs. Young &amp; Dr. Neihardt...</salute>
+                </opener>
+                <p>Just a few words to express my deepest, deepest appreciation for your warm hospitality and kindness. I cannot say how much this has meant to me - only that it has been "giant" for my heart and spirit...</p>
+                <p>I looked all over town today, trying to find a couple of books for you thre, but
+                    had no luck - so I ordered them from a store and they will be sent to you in 3
+                    or 4 weeks. The two books are "LOST WORLD OF THE KALAHARI &amp; "THE HEART OF
+                    THE HUNTER", both written by Laurens Van Der Post. They are about the Bushman people in South Africa, whom Van Der Post lived with for a time. His writing expresses much of the mystery of life - the hidden secrets that Dr. has come to know and expresses in his life. The Bushman carried the same aboriginal spirit as Black Elk and others, Almost mystical, and yet it was their way of life - Van Der Post and Carl Jung were quite close for some years. I hope</p>
+                
+                <pb facs="nei.n1a.1.2-4.xml" />
+                <note type="curatorial"></note>
+                
+                <p>you folks and Dr. enjoy these writings.</p>
+                <p>The xeroxed article of Crazy Horse was written by Luther Standing Bear. - I made this from the original which I left with Korzack &amp; Ruth &amp; the mountain</p>
+
+                <l>to Gaki...</l>
+                
+                <l>who would not know</l> 
+                <l>except for looking</l>
+                <l>that you are a giant.</l>
+                <l>your word-prayers</l>
+                <l>live out of some place</l>
+                <l>much deeper than the mind..</l>
+                <l>perhaps a shaft</l>
+                <l>driven deep down</l>
+                <l>to the very depth</l> 
+                <l>of your bowels</l>
+                <l>somewhere the first spirit</l>
+                <l>of the dream and life are born</l>
+                <l>lapping at the shores of dawn</l>
+                <l>in crimson flame.</l>
+                           
+                <closer>
+                    <salute>Warm Regards
+                        &amp; Thanks Again...</salute>
+                    
+                    <signed>Don Sloggy
+                        "Tree Man"
+                        6956 La Presa
+                        San Gabriel, Calif.</signed>
+                </closer>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>
+

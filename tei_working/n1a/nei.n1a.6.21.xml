@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1a.6.21">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Julius Young to John G. Neihardt, May 3, 1967</title>
+                <author>Young, Julius</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1a.6.21</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Young, Julius</author>
+                    <title level="m" type="main">Letter from Julius Young to John G. Neihardt</title>
+                    <date when="1967-05-03">May 3, 1967</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 hand-written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="people">
+                    <term>Young, Julius</term>
+                    <term>Bruce Nichol</term>
+                    <term>Dr. House</term>
+                    <term>Dr. Danker</term>
+                    <term>Otto Weinkauf</term>
+                </keywords>
+                <keywords scheme="original" n="places">
+                    <term>Lincoln (Neb.)</term>
+                    <term>Denver (Co.)</term>
+                    <term>Bancroft (Neb.)</term>
+                </keywords>
+                <keywords scheme="original" n="works">
+                    <term>Song of the Messiah</term>
+                    <term>The River and I</term>
+                    <term>The Splendid Wayfaring</term>
+                </keywords>
+            </textClass>
+            <correspDesc ref="">
+                <correspAction type="sentBy">
+                    <persName>Young, Julius</persName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                    <date when="1967-05-03"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+                    <placeName ref="http://www.geonames.org/4575352">Columbia (Mo.)</placeName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+            </particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2017"><name>Weakly, Laura K.</name> correspDesc Encoding</change>
+            <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
+            <change when="2012-02-29"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
+            <change when="2011-11-28"><name xml:id="ep">Pedigo, Erin</name> Proofreading</change>
+            <change when="2011"><name xml:id="az">Zeljkovic</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.n1a.6.21.xml" />
+                <note type="curatorial">21</note>
+                <fw type="curatorial"></fw>
+                
+                <opener>
+                    <note>Carbon To J.G.N.</note>
+                    <dateline>
+                        5-3-67
+                        5835 Vine Street 
+                        Lincoln, Nebraska 68505
+                        May 3, 1967
+
+                    </dateline>
+                    <salute>Dear Friend:</salute>
+                </opener>
+                <p>We are glad to learn from your letter written May 1st that you are still planning to be with us again soon, and we'll be ready to do your bidding about reservations, either plane or train. You probably will be able to tell us "which and when" before long. Travel should not be over-crowded at this time of year but the girl I talked with at the travel agency some time ago did advice early-as-possible reservations.</p>
+                <p>If weather conditions would be favorable we would almost be tempted to drive you to the air port in Denver, ^(so no further change of plane would be needed) if you had the time and cared to make such a trip. We had about three inches of wet snow here to-day, after many days of unpleasant weather - much wind and freezing, but little moisture. Winter has returned with a vengeance north and west. Much of our fruit and early vegetation has suffered. We have some garden up, but it is dormant.</p>
+                <p>I'm afraid in my haste to answer your letters recently I failed to comment on some items, and please be assured we loved every word and line. Your reception upon your return from Lincoln by your pets was very interesting and we know from experience how to visualize the emotions displayed by the so called "dumb-animals." We remember well your little white dog at Bancroft last summer. We are looking forward to a visit some time this summer to your farm.</p> 
+                <p>That was a fine and well deserved honor to you and your Song of the Messiah in the recent speech by the Secretary of the National Association of Secondary Teachers, you mentioned in your April 6th letter. Congratulations! We are wondering about Bruce Nichol's apparent interest in making paperback copies of "The River and I" and of "The Splendid Wayfaring." He seemed favorable that day we ate lunch with you at Miller's before your autograph party. I told him then that I ^<unclear>personally</unclear> wanted 25 of each as soon as available. The Retired Teachers again last Monday (at the May meeting) were still thrilling over the memories of your fine part in the April 3 meeting. Some are still asking for Dr. House's book. They sold all 25 ordered and I bought and gave 21 besides that to friends and relatives since you mentioned the discovery of the "cache" last January.</p>
+                <p>I'm so glad you told me about them then: so others now share them.</p>
+
+                <pb facs="nei.n1a.6.21.xml"/>
+                <p>I have not been down to see Dr. Danker since I took the Otto Weinkauf file to him about 2 weeks ago. We talked then about your plan to come in May, and agreed to have you visit the Historical Society establishment while here. We would gladly invite him, or anyone else you wish to have, to come to our house to see you also while you are here.</p>
+                <p>Let us know as soon as you can what plans or arrangements for interviews you may desire, and we'll gladly implement all.</p>
+                <p>Myrtle joins me in extending to you and any who may accompany you a warm welcome to our home again, we have been happily thrilled and honored - and it pleases us greatly to know that you have enjoyed our home (and the occupants!). So again "get out the old looking glass" and flash us the message of your plans to come to our simple "lodge" in the near future.</p>
+                
+
+                <closer>
+                    <salute>With sincere affection
+                        as ever</salute>
+                    <signed>Julius D. Young</signed>
+                </closer>
+
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

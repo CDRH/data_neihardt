@@ -1,73 +1,253 @@
 <?xml version="1.0" encoding="UTF-8"?>
-24
-SOUTH DAKOTA STATE UNIVERSITY 
-BROOKINGS, SOUTH DAKOTA 57006 
-COLLEGE OF ARTS AND SCIENCE
-ENGLISH DEPARTMENT 
-July 8, 1969
-Dear Mr. Neihardt: 
-Here are some flowers which have some of the spirit of your writings. You can just leave the vase behind when you go. 
-And here is some wisdom from Black Elk, and a poem of yours, which I'll be distributing to the audience tomorrow night before I read from Black Elk Speaks. Friday morning I'll be discussing the psychic phenomena in it, and other aspects. But I realize that you may not feel like attending either of my meetings. You'll remain one of my few living heroes, anyway. 
-Yours, 
-Dexter Martin
-Dexter Martin 
-Assistant Professor of English 
-Hope we can talk for a few minutes! 
-A land-grant university serving South Dakotans through Teaching-Research-Extension 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-25
-Black Elk speaks (from the book by that name, as told through John G. Neihardt): 
-1. Who see the Morning Star shall see more, for he shall be wise. 
-2. ...our thoughts should rise high as the eagles do. 
-3. ...such things are of the spirit, and it is in the darkness of their eyes that men get lost. 
-4. ...no good thing can be done by any man alone... 
-5. ...the great white cleansing wind... 
-6. ...the east... where the morning star lives to give men  wisdom...
-7. ...face the winds and walk the good road...
-8. ...the yellow metal that (the Whites) worship and that makes them crazy...      
-9. Sometimes dreams are wiser than waking. 
-10. ...the power that is peace... 
-11. ...the people ran here and there, for each one seemed to have his own little vision that he followed and his own rules... 
-12. ...from the same good spirit we must find another strength. 
-13. ...calling for spirit power... 
-14. ...anywhere is the center of the world... 
-15. ...the world where there is nothing but the spirits of all things. 
-16. It does not matter where his body lies, for it is grass; but where his spirit is, it will be good to be. 
-17. I knew the real was yonder and the darkened dream of it was here. 
-18. From that time on, I always got up very early to see the rising of the daybreak star. People knwe that I did this, and many would get up to see it with me, and when it came we said: "Behold the star of understanding." 
-19. ...I looked yonder towards the place whence comes the life of things...
-20. You have noticed that the truth comes into this world with two faces. One is sad with suffering, and the other laughs; but it is the same face, laughing or weeping. 
-21. The day of the sun has been my strength. 
-The path of the moon shall be my robe. 
-22. ...to see the greenness of the world, the wideness of the sacred day the colors of the earth, and to set these in (our) minds. 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1a.8.24-26">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Dexter Martin to John G. Neihardt, July 8, 1969</title>
+                <author>Martin, Dexter</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1a.8.24-26</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Martin, Dexter</author>
+                    <title level="m" type="main">Letter from Dexter Martin to John G. Neihardt</title>
+                    <date when="1969-07-08">July 8, 1969</date>
+                    <extent>2 pages and 1 envelope</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 hand written page and 1 envelope</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>2 pages and 1 envelope
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="people">
+                    <term>Black Elk, 1863-1950</term>
+                    <term>Martin, Dexter</term>
+                </keywords>
+                <keywords scheme="original" n="places">
+                    <term>Brookings (S.D.)</term>
+                </keywords>
+                <keywords scheme="original" n="works">
+                    <term>Black Elk Speaks</term>
+                    <term>Envoi</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Martin, Dexter</persName>
+                    <placeName ref="http://www.geonames.org/5226534">Brookings (S.D.)</placeName>
+                    <date when="1969-07-08"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+            </particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2017"><name>Weakly, Laura K.</name> correspDesc Encoding</change>
+            <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
+            <change when="2012-02-29"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
+            <change when="2011-11-28"><name xml:id="ep">Pedigo, Erin</name> Proofreading</change>
+            <change when="2011"><name xml:id="az">Zeljkovic</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.n1a.8.24-26.xml"/>
+                <note type="curatorial">24</note>
+                <fw type="authorial">
+                    SOUTH DAKOTA STATE UNIVERSITY 
+                    BROOKINGS, SOUTH DAKOTA 57006 
+                    COLLEGE OF ARTS AND SCIENCE
+                    ENGLISH DEPARTMENT 
+                </fw>
+                
+                <opener>
+                    
+                    <dateline>July 8, 1969</dateline>
+                    
+                    <salute>
+                        Dear Mr. Neihardt:
+                    </salute>
+                </opener>
+                
+                <p>Here are some flowers which have some of the spirit of your writings. You can just leave the vase behind when you go.</p>
+                <p>And here is some wisdom from Black Elk, and a poem of yours, which I'll be distributing to the audience tomorrow night before I read from Black Elk Speaks. Friday morning I'll be discussing the psychic phenomena in it, and other aspects. But I realize that you may not feel like attending either of my meetings. You'll remain one of my few living heroes, anyway.</p>
 
-26
--2-
-23. ...the mystery and power of things. 
-24. ...the source of life and the mystery of growing. 
-25. I could see that the (Whites) did not care for each other the way our people did before the nation's hoop was broken. They would take everything from each other if they could, and so there were some who had more of everything than they could use, while crowds of people has nothing at all and maybe were starving. 
-26. It is hard to follow one great vision in this world of darkness and of many changing shadows. 
-27. ...the beauty and the strangeness of the earth... 
-28. The good road and the road of difficulties you have made to cross; and where they cross, the place is holy. 
-ENVOI 
-John G. Neihardt
-Oh seek me not within a tomb; 
-Thou shalt not find me in the clay! 
-I pierce a little the wall of gloom
-To mingle with the Day! 
-I brothered with the things that pass, 
-Poor giddy Joy and puckered Grief; 
-I got to brother with the Grass
-And with the sunning Leaf. 
-Not Death can sheathe me in a shroud; 
-A joy-sword whetted keen with pain, 
-I join the armies of the Cloud, 
-The Lightning and the Rain. 
-Oh subtle in the sap athrill, 
-Athletic in the glad uplift, 
-A portion of the Cosmic Will, 
-I pierce the planet-drift. 
-My God and I shall interknit 
-As rain and Ocean, breath and Air;
-And Oh, the luring thought of it
-Is prayer! 
+                <salute>Yours,</salute>
+                <signed>Dexter Martin</signed>
+                <signed>Dexter Martin</signed>
+                <signed>Assistant Professor of English</signed>
+                
+                <note>Hope we can talk for a few minutes!</note>
+                <note>A land-grant university serving South Dakotans through Teaching-Research-Extension</note>
+                
+                <pb facs="nei.n1a.8.24-26.xml"/>
+                <note type="curatorial">25</note>
+                <fw type="authorial"></fw>
+                
+                <fw type="list">
+                    1. Who see the Morning Star shall see more, for he shall be wise. 
+                    2. ...our thoughts should rise high as the eagles do. 
+                    3. ...such things are of the spirit, and it is in the darkness of their eyes that men get lost. 
+                    4. ...no good thing can be done by any man alone... 
+                    5. ...the great white cleansing wind... 
+                    6. ...the east... where the morning star lives to give men  wisdom...
+                    7. ...face the winds and walk the good road...
+                    8. ...the yellow metal that (the Whites) worship and that makes them crazy...      
+                    9. Sometimes dreams are wiser than waking. 
+                    10. ...the power that is peace... 
+                    11. ...the people ran here and there, for each one seemed to have his own little vision that he followed and his own rules... 
+                    12. ...from the same good spirit we must find another strength. 
+                    13. ...calling for spirit power... 
+                    14. ...anywhere is the center of the world... 
+                    15. ...the world where there is nothing but the spirits of all things. 
+                    16. It does not matter where his body lies, for it is grass; but where his spirit is, it will be good to be. 
+                    17. I knew the real was yonder and the darkened dream of it was here. 
+                    18. From that time on, I always got up very early to see the rising of the daybreak star. People knwe that I did this, and many would get up to see it with me, and when it came we said: "Behold the star of understanding." 
+                    19. ...I looked yonder towards the place whence comes the life of things...
+                    20. You have noticed that the truth comes into this world with two faces. One is sad with suffering, and the other laughs; but it is the same face, laughing or weeping. 
+                    21. The day of the sun has been my strength. 
+                    The path of the moon shall be my robe. 
+                    22. ...to see the greenness of the world, the wideness of the sacred day the colors of the earth, and to set these in (our) minds.
+                </fw>
+                
+                <pb facs="nei.n1a.8.24-26.xml"/>
+                <note type="curatorial">26</note>
+                <fw type="authorial">-2-</fw>
+                
+                <fw type ="list">
+                    23. ...the mystery and power of things. 
+                    24. ...the source of life and the mystery of growing. 
+                    25. I could see that the (Whites) did not care for each other the way our people did before the nation's hoop was broken. They would take everything from each other if they could, and so there were some who had more of everything than they could use, while crowds of people has nothing at all and maybe were starving. 
+                    26. It is hard to follow one great vision in this world of darkness and of many changing shadows. 
+                    27. ...the beauty and the strangeness of the earth... 
+                    28. The good road and the road of difficulties you have made to cross; and where they cross, the place is holy. 
+                    ENVOI 
+                    John G. Neihardt
+                    Oh seek me not within a tomb; 
+                    Thou shalt not find me in the clay! 
+                    I pierce a little the wall of gloom
+                    To mingle with the Day! 
+                    I brothered with the things that pass, 
+                    Poor giddy Joy and puckered Grief; 
+                    I got to brother with the Grass
+                    And with the sunning Leaf. 
+                    Not Death can sheathe me in a shroud; 
+                    A joy-sword whetted keen with pain, 
+                    I join the armies of the Cloud, 
+                    The Lightning and the Rain. 
+                    Oh subtle in the sap athrill, 
+                    Athletic in the glad uplift, 
+                    A portion of the Cosmic Will, 
+                    I pierce the planet-drift. 
+                    My God and I shall interknit 
+                    As rain and Ocean, breath and Air;
+                    And Oh, the luring thought of it
+                    Is prayer!
+                </fw>
+   
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

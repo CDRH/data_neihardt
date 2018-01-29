@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1a.10.1-5">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Rueben H. Nelson to John G. Neihardt, January 1, 1971</title>
+                <author>Nelson, Rueben H.</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1a.10.1-5</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note>No "page 4"</note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Nelson, Rueben H.</author>
+                    <title level="m" type="main">Letter from Rueben H. Nelson to John G. Neihardt</title>
+                    <date when="1971-01-01">January 1, 1971</date>
+                    <extent>4 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>3 page and 1 envelope</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>4 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="people">
+                    <term>Russell, Charles M. (Charles Marion), 1864-1926</term>
+                    <term>Chilson, Herman P. (Herman Palmer), 1905-</term>
+                    <term>Jennewein, Leonard</term>
+                    <term>Miller, Alfred Jacob, 1810-1874</term>
+                    <term>Stewart, William Drummond, Sir, 1795-1871</term>
+                    <term>Young, Julius</term>
+                    <term>Young, Myrtle</term>
+                </keywords>
+                <keywords scheme="original" n="places">
+                    <term>Boulder (Colo.)</term>
+                    <term>South Dakota</term>
+                    <term>Scotland</term>
+                    <term>Lincoln (Neb.)</term>
+                    <term>Tempe (Ariz.)</term>
+                </keywords>
+                <keywords scheme="original" n="works">
+                    <term>The Foundation</term>
+                    <term>When the Tree Flowered: The Story of Eagle Voice, a Sioux Indian</term>
+                    <term>The Splendid Wayfaring</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Nelson, Rueben H.</persName>
+                    <placeName ref="http://www.geonames.org/5317058">Tempe (Ariz.)</placeName>
+                    <date when="1971-01-01"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+            </particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2017"><name>Weakly, Laura K.</name> correspDesc Encoding</change>
+            <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
+            <change when="2012-02-29"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
+            <change when="2011-11-28"><name xml:id="ep">Pedigo, Erin</name> Proofreading</change>
+            <change when="2011"><name xml:id="az">Zeljkovic</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.n1a.10.1-5.xml"/>
+                <note type="curatorial">1</note>
+                <note type="authorial"></note>
+                <fw type="authorial"></fw>
+                
+                <dateline>
+                    Tempe - 01-01-71
+                </dateline>
+                
+                <salute>Dear Dr. Neihardt - Flaming Rainbow!</salute>
+                
+                <p>How Kola! - It is too long since I have greeted you. A letter has been on my mind &amp; your address on my work table since October. Surgery for myself &amp; three deaths in the family have delayed me. Even now there is not time for the type of letter I would prefer to send, but, I can not let the holiday season</p> 
+                <p>(over)</p> 
+                
+                <pb facs="nei.n1a.10.1-5.xml"/>
+                <note type="curatorial">2</note>
+                <note type="authorial"></note>
+                <fw type="authorial">
+                    ORIGINAL PAINTING BY CHARLES M. RUSSELL
+                    PUBLISHED IN USA BY THE LEANIN' TREE, BOULDER, COLORADO 
+                    21
+                </fw>
+                
+                <p>pass without at least wishing you a "Happy New Year" (of course it should be properly "toasted" &amp; a fine place would have been the place Russell depicts here on)</p>
+                <p>I have had reports of your activities up to July 1970 - through "The Foundation", Herman Chilson, and news chips sent by friends in South Dakota etc.</p> 
+                <p>Of course - your current book - is still being looked foreward to with patience</p> 
+                <p>-cont'd-</p>
+                <figure><p>SALOON 1920</p></figure>
+                
+                <p>for I know that you have so very much to "remember". Also, I suppose your propensity for "living" every day "now" tends to slow up the completion of the books (I should say books &amp; for I understand it is running to two volumes at least)</p> 
+                <p>At long last - Leonard Jennewein's daughter has completed a through survey of her fathers notes and tapes and has reported to me - unfortunately the result as far as</p>
+                <note type="curatorial">2</note>
+                
+                <pb facs="nei.n1a.10.1-5.xml"/>
+                <note type="curatorial">3</note>
+                <note type="authorial"></note>
+                <fw type="authorial"></fw>
+                
+                <p>we are concerned is negative</p> 
+                <p>So, we ^still do not know what he wanted to tell me about the printings and Murthly Castle in Scotland (you may recall I sent you pictures of the paintings - which were taken by Jennewin - they appear to be Miller's painted for Sir Wm <sic>Durmond</sic><corr>Drummond</corr> Stewart)</p>
+                <p>Two more Neihardt's added to my library - at last "When the Tree Flowered"; also "The Splendid Wayfaring"</p>
+                
+            </div1>
+            
+            <div1 type="envelope">
+                <pb facs="nei.n1a.10.1-5.xml"/>
+                <note type="curatorial">5</note>
+                <note type="authorial"></note>
+                <fw type="authorial"></fw>
+                
+                <ab type="return">
+                    RUEBEN H. NELSON 
+                    10 E. ELLIS DR. 
+                    TEMPE, ARIZ. 
+                    85281
+                </ab>
+
+                <ab type="postmark">
+                    PHOENIX. AZ 
+                    PM 
+                    4 JAN 
+                    2B 
+                    1971
+                </ab> 
+                
+                <ab type="postmark">
+                    GIVE TO MARCH OF DIMES
+                </ab> 
+                
+                <ab type="stamp">
+                    <unclear/> Christmas 6 U.S.
+                </ab> 
+                 
+                <note type="curatorial">71</note>
+                
+                <ab type="address">
+                    Mr. John G. Neihardt 
+                    5835 - Vine Street 
+                    Lincoln 
+                    Nebraska 68505
+                    (Mr. &amp; Mrs. Julius D. Young
+                </ab> 
+            </div1>
+        </body>
+    </text>
+</TEI>

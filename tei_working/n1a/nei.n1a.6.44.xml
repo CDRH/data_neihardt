@@ -1,13 +1,202 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Copy J.G. Neihardt
-5835 Vine Street
-Lincoln, Nebr. 68505 
-July 7, 1967 
-44
-Dear Friend: 
-Yours of July 4th come yesterday and we were happy to know that Hilda, and possibly Alice, may be able to accompany you to Bancroft Aug. 6. When you were here in May we talked with you about the Pageant trip, and we suggeted to you that you come via Lincoln and stop over with^ us enroute, and that if you wanted to go to Bancroft with us from here we would take you. From your recent letter we assume that you are planning to go directly to Bancroft and not via Lincoln. 
-Please do as you like aobut coming this way we would be going up to Bancroft in ample time. For the pageant anyway. If your daughters are along they are welcome to stop over here with us. Myrtle and I probably would stay Sunday night with relatives at Lyon we have been to Bancroft recently, and as Mrs. Vogt wrote you, we did work on the silhouette from the garden was looking even better than ever. We attended alumni Reunion at Wayne last Saturday. Dr. J.G.W. Lewis was an honored guest. Prof. <unclear>Gullin</unclear> was there too. Mrs. Bright was unable to be present. The Wayne Campus is beautiful. Book store still has copies of - "Man and Poet." much flooding was experienced over much of Eastern Nebraska. The old lake bed south of Bancroft, where you told of your experience through the ice, was filled again. Our friends who own that land (Glenn Preston's) lost much corn crop. You met them at our house after the Warren church program. Mrs. Doll Ross was with them that day and visited with you in our home. 
-You asked if we had seen a certain article in the May 21st World-Herald. No, we did not, but we may still have it somewhere, and we'll keep it in mind. Dr. Danker is leaving after July '28. I asked him about the Zerox copies and he said he had sent copies to Missouri and Oregon; and I believe he said he sent a copy to one of your daughters. This refers to the Elmer Holm and the Otto Weinkauf collections you saw. There are many news clippings and Wayne Goldenrods in my own collection which neither you nor Dr. Danker have seen. Sometime I would like to show more of it to you or any interested historians. I doubt its importance to the "Biography," but we cherish it. 
-Our tenants moved from our rental property next door. So we are busy redecorating. Our daughter Kay Hinkley and her 3 sons left by car Looking forward to seeing you soon! 
-As ever
-Julius D. Young 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1a.6.44">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Julius Young to John G. Neihardt, July 7, 1967</title>
+                <author>Young, Julius</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1a.6.44</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Young, Julius</author>
+                    <title level="m" type="main">Letter from Julius Young to John G. Neihardt</title>
+                    <date when="1967-04-07">July 7, 1967</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 hand-written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="people">
+                    <term>Young, Julius</term>
+                    <term>Petri, Hilda Neihardt</term>
+                    <term>Neihardt, Alice</term>
+                    <term>Young, Myrtle</term>
+                    <term>Vogt</term>
+                    <term>Lewis, J.G.W.</term>
+                    <term>Gullin</term>
+                    <term>Bright</term>
+                    <term>Preston, Glenn</term>
+                    <term>Ross, Doll</term>
+                    <term>Danker, Donald F. (Donald Floyd)</term>
+                    <term>Holm, Elmer E.</term>
+                    <term>Weinkauf, Otto</term>
+                    <term>Goldenrods, Wayne</term>
+                    <term>Hinkley, Kay</term>
+                </keywords>
+                <keywords scheme="original" n="places">
+                    <term>Lincoln (Neb.)</term>
+                    <term>Columbia (Mo.)</term>
+                    <term>Bancroft (Neb.)</term>
+                    <term>Wayne (Neb.)</term>
+                    <term>Nebraska</term>
+                    <term>Missouri</term>
+                    <term>Oregon</term>
+                </keywords>
+                <keywords scheme="original" n="works">
+                    <term>John G. Neihardt, Man and Poet</term>
+                    <term>Omaha World-Herald</term>
+                </keywords>
+            </textClass>
+            <correspDesc ref="">
+                <correspAction type="sentBy">
+                    <persName>Young, Julius</persName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                    <date when="1967-04-07"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+                    <placeName ref="http://www.geonames.org/4575352">Columbia (Mo.)</placeName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+            </particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2017"><name>Weakly, Laura K.</name> correspDesc Encoding</change>
+            <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
+            <change when="2012-02-29"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
+            <change when="2011-11-28"><name xml:id="ep">Pedigo, Erin</name> Proofreading</change>
+            <change when="2011"><name xml:id="az">Zeljkovic</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.n1a.6.44.xml" />
+                <note type="curatorial">44</note>
+                <fw type="curatorial"></fw>
+                
+                <opener>
+                    <note>Copy J.G. Neihardt</note>
+                    <dateline>
+                        5835 Vine Street
+                        Lincoln, Nebr. 68505 
+                        July 7, 1967 
+
+                    </dateline>
+                    <salute>Dear Friend:</salute>
+                </opener>
+                <p>Yours of July 4th come yesterday and we were happy to know that Hilda, and possibly Alice, may be able to accompany you to Bancroft Aug. 6. When you were here in May we talked with you about the Pageant trip, and we suggeted to you that you come via Lincoln and stop over with^ us enroute, and that if you wanted to go to Bancroft with us from here we would take you. From your recent letter we assume that you are planning to go directly to Bancroft and not via Lincoln.</p>
+                <p>Please do as you like aobut coming this way we would be going up to Bancroft in ample time. For the pageant anyway. If your daughters are along they are welcome to stop over here with us. Myrtle and I probably would stay Sunday night with relatives at Lyon we have been to Bancroft recently, and as Mrs. Vogt wrote you, we did work on the silhouette from the garden was looking even better than ever. We attended alumni Reunion at Wayne last Saturday. Dr. J.G.W. Lewis was an honored guest. Prof. <unclear>Gullin</unclear> was there too.</p>
+                <p>Mrs. Bright was unable to be present. The Wayne Campus is beautiful. Book store still has copies of - "Man and Poet." much flooding was experienced over much of Eastern Nebraska. The old lake bed south of Bancroft, where you told of your experience through the ice, was filled again. Our friends who own that land (Glenn Preston's) lost much corn crop. You met them at our house after the Warren church program. Mrs. Doll Ross was with them that day and visited with you in our home.</p>
+                <p>You asked if we had seen a certain article in the May 21st World-Herald. No, we did not, but we may still have it somewhere, and we'll keep it in mind. Dr. Danker is leaving after July '28. I asked him about the Zerox copies and he said he had sent copies to Missouri and Oregon; and I believe he said he sent a copy to one of your daughters. This refers to the Elmer Holm and the Otto Weinkauf collections you saw. There are many news clippings and Wayne Goldenrods in my own collection which neither you nor Dr. Danker have seen. Sometime I would like to show more of it to you or any interested historians. I doubt its importance to the "Biography," but we cherish it.</p>
+                <p>Our tenants moved from our rental property next door. So we are busy redecorating. Our daughter Kay Hinkley and her 3 sons left by car</p>
+                <p>Looking forward to seeing you soon!</p>
+
+            <closer>
+                <salute>As ever</salute>
+                <signed>Julius D. Young</signed>
+            </closer>
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

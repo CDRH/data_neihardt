@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.3.3-6">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Lucile Aly to John G. Neihardt, March 16, 1961</title>
+                <author>Aly, Lucile Folse, 1913-</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4c.3.3-6</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Aly, Lucile Folse, 1913-</author>
+                    <title level="m" type="main">Letter from Lucile Aly to John G. Neihardt</title>
+                    <date when="1961-03-16">March 16, 1961</date>
+                    <extent>1 hand-written page, 2 type written pages, plus envelope</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 hand-written page, 2 type written pages, plus envelope</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 hand-written page, 2 type written pages, plus envelope
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="people">
+                    <term>Aly, Lucile Folse, 1913-</term>
+                    <term>Lemons</term>
+                    <term>Neihardt, Enid</term>
+                    <term>Pirky</term>
+                    <term>Aly, Stewart</term>
+                    <term>Aly, Bower, 1903-1977</term>
+                    <term>Blake, William, 1757-1827</term>
+                    <term>Black Elk, 1863-1950</term>
+                    <term>Skinner, Constance Lindsay, 1882-1939</term>
+                    <term>Chamberlain, John, 1903-1995</term>
+                    <term>Childs, Marquis W. (Marquis William), 1903-1990</term>
+                    <term>Fenton, Carroll Lane, 1900-1969.</term>
+                    <term>Brooks, Walter R., 1886-1958</term>
+                </keywords>
+                <keywords scheme="original" n="places">
+                    <term>Denver (Colo.)</term>
+                    <term>Wisconsin</term>
+                </keywords>
+                <keywords scheme="original" n="works">
+                    <term>Black Elk Speaks</term>
+                    <term>Words of Beauty and Sorrow</term>
+                    <term>New York Herald Tribune </term>
+                    <term>The New York Times</term>
+                    <term>A Sioux Indian Tells a Tragic Story</term>
+                    <term>Morituri</term>
+                    <term>The New Republic</term>
+                    <term>The Outlook</term>
+                    <term>The Christian Century</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName ref="http://viaf.org/viaf/50467731">Aly, Lucile Folse, 1913-</persName>
+                    <placeName ref="http://www.geonames.org/5725846">Eugene (Or.)</placeName>
+                    <date when="1961-03-16"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+                    <placeName ref="http://www.geonames.org/4575352">Columbia (Mo.)</placeName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+            </particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2017"><name>Weakly, Laura K.</name> correspDesc Encoding</change>
+            <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
+            <change when="2012-02-29"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
+            <change when="2011-11-28"><name xml:id="ep">Pedigo, Erin</name> Proofreading</change>
+            <change when="2011"><name xml:id="az">Zeljkovic</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4c.3.3-6"/>
+                <note type="curatorial">3</note>
+                <fw type="curatorial"></fw>
+                
+                <opener>
+                    <dateline>
+                        March 16, 1961
+                    </dateline>
+
+                    <salute>Dear John,</salute>
+                </opener>
+                <p>Here is the <unclear>Limons</unclear> material. I did it myself because the typist disappointed me. I think it's readable, but it doesn't look like Enid's typing by a long shot. I went all through the chapter. I'm not sure these are the best reviews, though. As soon as I can I'll Try to check at the library and <del>try to</del> run down some better ones. Right now I'm making a gorgeous new dress to wear to the banquet for you in April. I certainly can't come in any old thing I've worn before to a big event like that! I'm also making a dress to wear to the President's Reception in the afternoon.</p>
+                
+                <p>My grades are in, and I'm working on the letter and the biography - what bliss it is to work all day!</p>
+                
+                <p>Today I must take some time to answer the excited letter of a child (high school) who wants information for a term paper. She thinks her classmates know too little about you, and I'm going to send her a few items I have duplicates of and tell her some little things that ought to help her project. I'm going to tell her what it's like to be in the same room with you (as well as words allow, that is), and direct her to some of the articles about you. It is always a pleasure to write about you.</p>
+                
+                <p><unclear>Pirky</unclear> and Stewart send regards. They are down romping in the family room. Bower is in Denver, en route to Wisconsin, but he sends regards too.</p>
+                
+                <closer>
+
+                    <salute>Love,</salute>
+                    
+                    <signed>Lucile</signed>
+                </closer>
+                   
+                    <note>Horray for April!</note>               
+                
+                    </div1>
+            
+<div1 type="review">
+    <pb facs="nei.j4c.3.3-6" />
+    <note type="curatorial">4</note>
+    <fw type="curatorial"></fw>
+<p>Reviews of Black Elk Speaks</p>
+<p>quoted by Lemons in his dissertation</p>
+                    
+<p>...in Black Elk "poets may see the prototype of the English mystic, William Blake... No prejudiced reader will doubt that John Neihardt has set down honestly what Black Elk told him. "  "... this is not a literal translation of the medicine man's words but it expresses the mind of an Indian."</p>
+                    <p>Constance Lindsay Skinner, "Words of Beauty and Sorrow,"</p>
+                    <p>New York Herald Tribune Books, February 21, 1932, p. 3</p>
+
+<p>"...excellent straightfoward narrative," "purely poetic" compares the Wounded Knee massacre to Tolstoy's War and Peace.</p>
+                    <p>John Chamberlain, "A Sioux Indian Tells a Tragic Story,"</p>
+                    <p>New York Times, March 6, 1932, p. 4.</p>
+                    
+<p>...reminded of Hemingway's writing in the chapter on the Custer fight, saw "plainly throughout the narrative those deep sources of primitive being which have been so glossed over by modern life."</p>
+                    <p>Marquis Childs, "Morituri," New Republic, LXXXI (1932),161</p>
+                    
+<p>"It is about as near as you can get to seeing life and death, war and religion, through an Indian's eyes,</p>
+                    <p>Walter R. Brooks, "The New Books," Outlook. CLX (1932), 194</p>
+                    
+<p>Black Elk's story "is one of the most moving and beautiful in the whole field of Indian literature."</p>
+                    <p>Carroll Lane Fenton, "Civilication and the Savage,"</p> 
+                    <p>Christian Century, XXXXIX (1932), 1343</p>
+                    
+<p>This "absolutely Indian book" is the "earnest, pathetic, and profound revelation of the spiritual nature of a warrior" and "nothing like it has ever before been attmpted... Neihardt's are has added truth to Black Elk's truth." Black Elk is "as pathetic as Lear" and his story similar to "Apocalypse."</p>
+                    <p>J.Frank Dobie, "Son-of-a-Gun Stew," Southwest Review,</p>
+                    <p><del/> XVII (1932), pp. ix, x.</p>
+                
+    <pb facs="nei.j4c.3.3-6" />
+    <note type="curatorial">5</note>
+    <fw type="curatorial">-2-</fw>
+    
+<p>"Author Neihardt knows his Indians well."</p>
+                    <p>Time (February 29, 1932), p. 47</p>
+                    
+<p>..."faithful transcript of an Indian autobiography."</p> 
+                    <p>Herschel Brickell, North American Review, CCXXXIII</p>
+                    <p>(1932), 379</p>
+                    
+<p>Black Elk an "uncorrupted" Indian... "He is to be included among those authentic and special human beings whose traffic with the second world moves them to the prodigies of the spirit."</p>
+                    <p>Paul Horgan, Yale Review, XXII (1932), 206-207</p>
+                    
+<p>..."probably the best extant description of the development of a shaman."</p>
+                    <p>George a Pettit, Primitive Education in North America (berkeley and Los
+                        Angeles: University of California, 1946), p. 139</p>
+                    <p>Pettit is an anthropologist</p>
+                    
+<p>"To sum up the conclusions reached about Black Elk Speaks, the unanimously enthusiastic reception by the literary people and the endorsement by at least  one scientist, George Pettit, mark the book as one having the ring of authenticity. Other extremist features, when discovered, lend the book prestige in spite of all the difficulties noted in reproducing truly a primitive narrative."</p>
+                    <p>William E. Lemons, Jr. unpublished Master's thesis,</p>
+                    <p>University of Colorado, 1950, p. 209</p>
+       
+                </div1>
+            
+<div1 type = "envelope">
+    <pb facs="nei.n1a.3.3-6.xml"/>
+    <ab type="recipient">
+        6
+        air mail 
+        EUGENE MAR 19 650 PM 1961 OREG. 
+        GI RED <unclear/> US AIR MAIL 7 cents
+        Dr. John G. Neihardt Route 7
+        Columbia, Missouri
+    </ab>
+</div1>
+<div1 type = "envelope">
+    <pb facs="nei.n1a.3.3-6_0002.xml"/>
+    <ab type="sender">
+         Mrs. Bower Aly 
+         1086 East Twenty-First Street
+         Eugene, Oregon
+         1138 22nd Ave E. 
+    </ab>
+</div1>
+        </body>
+        <back></back>
+    </text>
+</TEI>

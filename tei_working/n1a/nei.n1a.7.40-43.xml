@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1a.7.40-43">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Nancy C. Prewitt to John G. Neihardt, December 17, 1968</title>
+                <author>Prewitt, Nancy C.</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1a.7.40-43</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Prewitt, Nancy C.</author>
+                    <title level="m" type="main">Letter from Nancy C. Prewitt to John G. Neihardt</title>
+                    <date when="1968-12-17">December 17, 1968</date>
+                    <extent>4 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>4 handwritten pages</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>4 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="people">
+                    <term>Brownlee, Richard S.</term>
+                    <term>Prewitt, Nancy C.</term>
+                    <term>Bell, A. A.</term>
+                    <term>Jensen, Peter</term>
+                    <term>Dobbirn, Joseph</term>
+                    <term>Garwood, J.</term>
+                    <term>Moderator, Schroeder</term>
+                </keywords>
+                <keywords scheme="original" n="places">
+                    <term>Columbia (Mo.)</term>
+                    <term>Lincoln (Neb.)</term>
+                    <term>Wayne (Neb.)</term>
+                </keywords>
+                <keywords scheme="original" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Prewitt, Nancy C.</persName>
+                    <placeName ref="http://www.geonames.org/4575352">Columbia (Mo.)</placeName>
+                    <date when="1968-12-17"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+            </particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2017"><name>Weakly, Laura K.</name> correspDesc Encoding</change>
+            <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
+            <change when="2012-02-29"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
+            <change when="2011-11-28"><name xml:id="ep">Pedigo, Erin</name> Proofreading</change>
+            <change when="2011"><name xml:id="az">Zeljkovic</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.n1a.7.40-43.xml"/>
+                <note type="curatorial">40</note>
+                <fw type="authorial">
+                    WESTERN HISTORICAL MANUSCRIPT COLLECTION 
+                    STATE HISTORICAL SOCIETY MANUSCRIPTS
+                    UNIVERSITY OF MISSOURI LIBRARY  COLUMBIA, MISSOURI
+                </fw>
+                
+                <figure>
+                    <p>Joint Collection</p>
+                </figure>
+                
+                <fw type="list">
+                    Richard S. Brownlee
+                    Director
+                    Nancy C. Prewitt 
+                    Asst. Director
+                </fw>
+                
+                <opener>
+                    <dateline>
+                        December 17, 1968
+                    </dateline>
+                    
+                    <address>
+                        <addrLine>
+                            Mr. John G. Neihardt
+                            5835 Vine Street
+                            Lincoln, Nebraska
+                        </addrLine>
+                    </address>
+                    
+                    <salute>Dear Mr. Neihardt:</salute>
+                </opener>
+                
+                <p>We are enclosing xerox copies of three teacher's contracts found in your collection. If these are not the ones you are interested in, please let us know and we will look further.</p>
+                
+                <closer>
+                    <salute>Sincerely,</salute>
+                    <signed>Nancy C Prewitt</signed>
+                    <signed>(Mrs.) Nancy C. Prewitt</signed>
+                </closer>
+                
+                <note>NCP/nl</note>
+                <note>encs.</note>
+            </div1>
+            
+            <div1 type="contracts">
+                
+                <pb facs="nei.n1a.7.40-43.xml"/>
+                <note type="curatorial">41</note>
+                <fw type="authorial">
+                    TEACHER'S CONTRACT. 
+                    SEC. 11, SUBDIVISION 4. - SCHOOL LAWS.
+                </fw>
+                
+                <figure/>
+                <p>This Agreement, Entered into this 26th day of November 1898 between School
+                    District No. 77, of Wayne County, Nebraska, and John G. Neihardt a qualified teacher of said County.</p> 
+                <p>Witnesseth, that the said John G. Neihardt agrees to teach the school of said District in a faithful and efficient manner of the term of four (4) months, Commencing on the <del>first</del> <unclear>8th</unclear> day of December, 1898, and agrees to keep himself qualified, and agrees in all things to observe the rules and regulations of the District Board.</p> 
+                <figure/>
+                <p>In Consideration, whereof, said School District agrees to pay said teacher the sum of $ thirty ($30) per month for said services, and agrees to keep the school house in good repair, to provide the necessary fuel and supplies <del>and to furnish janitor work.</del></p>
+                <p>Provided, That in case said John G. Neihardt shall be discharged for sufficient
+                    cause by the District Board, or shall have certificate annulled, he shall not be entitled to any compensation from and after such dismissal or annulment.</p> 
+                <p>In witness whereof, We have hereunto subscribed our  names this 26th day of
+                    <del>De</del> November, A.D. 1898.</p> 
+                <p>A A.  Bell Director</p>
+                <p>John G. Neihardt Teacher.</p> 
+                <p>Approved</p>
+                <p><unclear/> Schroeder Moderator.</p> 
+                <p><unclear/> Treasurer.</p> 
+                <p>[N.B.-All contracts should be made in duplicate, one for the School District, and
+                one for the Teacher.]</p>
+                
+                <pb facs="nei.n1a.7.40-43.xml"/>
+                <note type="curatorial">42</note>
+                <fw type="authorial">
+                    No. 31. 
+                    TEACHER'S CONTRACT. 
+                    Sec. II, Subdivision 4 -- School Laws.
+                </fw>
+                
+                <figure/>
+                    <p>This Agreement, Entered into this 18th day of August 1899 between School
+                        District. Vo. 55 of Wayne County, Nebraska, and John G. Neihardt, a
+                        qualified teacher of said county.</p>
+                    <p>Witnesseth, That the said John G Neihardt agrees to teach the school of said
+                        District in a faithful and efficient manner for the term of two months,
+                        commencing on the 28th day of August, 1899, and agrees to keep himself qualified, and agrees in all things to observe the rules and regulations of the District Board.</p> 
+                    <figure/>
+                    <p>In Consideration, whereof, said School District agrees to pay said teacher
+                        the sum of $30.00 per month for said services, and agrees to keep the school house in good repair, to provide the necessary fuel and supplies, and to furnish janitor work.</p> 
+                    <p>Provided, That in case said Teacher shall be discharged for sufficient cause
+                        by the District Board, or shall have his certificate annulled, he shall not
+                        be entitled to any compensation from and after such dismissal or annulment.</p> 
+                    <p>In Witness Whereof We have hereunto subscribed our names this 18th day of
+                        August, A.D., 1899.</p> 
+                    <p>Approved: Peter Jensen Moderator.</p> 
+                    <p>Joseph <unclear>Dobbirn</unclear> Treasurer.</p> 
+                    <p>J <unclear>Garwood</unclear> Director.</p> 
+                    <p>John G. Neihardt Teacher.</p>
+                    <p>B. -All contracts should be made in duplicate, one for the School District and one for the Teacher.</p>
+                
+                <pb facs="nei.n1a.7.40-43.xml"/>
+                <note type="curatorial">43</note>
+                <fw type="authorial">
+                    No. 31. 
+                    TEACHER'S CONTRACT.
+                    SEC. 11, SUBDIVISION 4,-SCHOOL LAWS.
+                </fw>
+                
+                <figure/>
+                    <p>This Agreement, Entered into this Twentieth day of Oct, 20th, 1899 between
+                        School District No. 55, of Wayne County, Nebraska, and JG Neihardt, a qualified teacher of said County.</p> 
+                    <p>Witnesseth, That the said J G Neihardt agrees to teach the school of said
+                        District in a faithful and eficient manner for the term of Four months, Commencing on the First Mon. day of Dec., 1899, and agrees to keep himself qualified, and agrees in all things to observe the rules and regulations of the District Board.</p> 
+                    <figure/>
+                    <p>In Consideration whereof, said School District agrees to pay said teacher the
+                        sum of $35.00 per month for said services, and agrees to keep the school house in good repair, to provide the necessary fuel and supplies and to <del>furnish janitor work.</del></p>
+                    <p>Provided, that in case said J G Neihardt shall be discharged for sufficient
+                        cause by the District Board, or shall have his certificate annulled, he-shall not be entitled to any compensation from and after such dismissal or annulment.</p> 
+                    <p>In witness whereof, We have hereunto subscribed our names this 20th day of
+                        Oct., A.D. 1899.</p>
+                    <p>J Garwood. Director.</p>
+                    <p>J.G.Neihardt Teacher.</p>
+                    <p>Approved { Peter Jensen Moderator Joseph <unclear>Dobbirn</unclear>
+                        Treasurer.</p> 
+                    <p>[N.B.-All contracts should be made in duplicate, one for the School District,
+                        and one for the Teacher.]</p>
+                
+            </div1>
+           
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

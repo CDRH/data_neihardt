@@ -1,14 +1,186 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Carbon 
-J.G.Neihardt
-5835 Vine Street 
-Lincoln, Nebr., 68505
-August 24, 1969
-47
-Dear Friend:
-Congratulations! The event at Joplin, Festival of the Arts in October, the two programs and the parade! Of course, you probably have become accustomed to invitations and honors such as this. We notice your situation regarding you house and fence repairs, and of course we extend our "sympathy". Our rental property is gradually shaping up, but still not ready for occupancy. 
-We expect our youngest son and his family (wife, 2 boys, 1 girl) to arrive from Santa Barbara, California about tomorrow or Saturday. He is the one who teaches in the classics department in U. of Cal. there. The kiddies range in age from 3 to 6 yrs. so we'll have fun! Our older son, unmarried, came by bus from Minneapolis yesterday for a long week end here. 
-Yes, we still would like to drive with you to the Forks of the Grand sometime about the middle of September. We could take in the Black Hills and Badlands on one part of the trip and return in time for the Rock Show here. Our lincoln Gem and Mineral Club would be honored to have you as a guest, and also as an exhibitor if you care to bring something for display. The show is Sept. 22, 23, and 24. 
-I called Esther Montgomery and she said Ron Hull is out of town for a week. I'll contact him when he returns to tell him of your possible visit here in Sept. You remember we discussed the possibility of making video tape with you at that time. I'll write again soon! 
-Sincerely
-Julius D. Young 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1a.6.47">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Julius Young to John G. Neihardt, August 24, 1969</title>
+                <author>Young, Julius</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1a.6.47</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Young, Julius</author>
+                    <title level="m" type="main">Letter from Julius Young to John G. Neihardt</title>
+                    <date when="1967-08-24">August 24, 1969</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 hand-written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="people">
+                    <term>Westcott, Esther Montgomery</term>
+                    <term>Hull, Ronald Eugene, 1930-</term>
+                    <term>Young, Julius</term>
+                </keywords>
+                <keywords scheme="original" n="places">
+                    <term>Joplin (Mo.)</term>
+                    <term>Santa Barbara (Calif.)</term>
+                    <term>Minneapolis (Minn.)</term>
+                    <term>Lincoln (Neb.)</term>
+                </keywords>
+                <keywords scheme="original" n="works">
+                    <term></term>
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc ref="">
+                <correspAction type="sentBy">
+                    <persName>Young, Julius</persName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                    <date when="1967-08-24"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+                    <placeName ref="http://www.geonames.org/4575352">Columbia (Mo.)</placeName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+            </particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2017"><name>Weakly, Laura K.</name> correspDesc Encoding</change>
+            <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
+            <change when="2012-02-29"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
+            <change when="2011-11-28"><name xml:id="ep">Pedigo, Erin</name> Proofreading</change>
+            <change when="2011"><name xml:id="az">Zeljkovic</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.n1a.6.47.xml" />
+                <note type="curatorial">47</note>
+                <fw type="curatorial"></fw>
+                
+                <opener>
+                    Carbon 
+                    <dateline>
+                        J.G.Neihardt
+                        5835 Vine Street 
+                        Lincoln, Nebr., 68505
+                        August 24, 1969
+
+                    </dateline>
+                    <salute>Dear Friend:</salute>
+                </opener>
+                <p>Congratulations! The event at Joplin, Festival of the Arts in October, the two programs and the parade! Of course, you probably have become accustomed to invitations and honors such as this. We notice your situation regarding you house and fence repairs, and of course we extend our "sympathy". Our rental property is gradually shaping up, but still not ready for occupancy.</p>
+                <p>We expect our youngest son and his family (wife, 2 boys, 1 girl) to arrive from Santa Barbara, California about tomorrow or Saturday. He is the one who teaches in the classics department in U. of Cal. there. The kiddies range in age from 3 to 6 yrs. so we'll have fun! Our older son, unmarried, came by bus from Minneapolis yesterday for a long week end here.</p>
+                <p>Yes, we still would like to drive with you to the Forks of the Grand sometime about the middle of September. We could take in the Black Hills and Badlands on one part of the trip and return in time for the Rock Show here. Our lincoln Gem and Mineral Club would be honored to have you as a guest, and also as an exhibitor if you care to bring something for display. The show is Sept. 22, 23, and 24.</p>
+                <p>I called Esther Montgomery and she said Ron Hull is out of town for a week. I'll contact him when he returns to tell him of your possible visit here in Sept. You remember we discussed the possibility of making video tape with you at that time. I'll write again soon!</p>
+
+            <closer>
+                <salute>Sincerely</salute>
+                <signed>Julius D. Young</signed>
+            </closer>
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

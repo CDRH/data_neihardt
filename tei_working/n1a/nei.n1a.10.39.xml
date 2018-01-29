@@ -1,14 +1,131 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Send photo See "When the Tree Flowered" 
-551 Mary Street 
-Marion, Ohio 43302 
-April 28, 1971 
-39 
-Dear Dr. Neihardt, 
-For the last two years, I have been doing research on you. You can imagine my surprise to find you, and the pleasure of being able to tape your conversation with Dick Cavett, which I heard locally, last night. I am one of your most devoted fans with a fond admir-ation for your work, though my intentions are not as involved as your dear wife's were. 
-I became acquainted with you through a geneology search for one of your distant relatives who once lived here in Marion. He too, is a poet, but a secret perhaps I shouldn't tell, since he is a business man in the Oklahoma City area. It is evident since "Neidhart the Fox," yours is poetic family. Between the tape, your writings, and the research material received from the Nebraska Historical Society, and the University of Nebra-ska, I've become as well acquainted with you as I am my own father. 
-I am freelance writer who leans toward the "unknown" factors of thinking. As you stated in the interview, you know Black Elk Speaks has caused quite an interest among the "now" generation. The young people are looking for a better understanding of religious belief. They want a meaning be-hind their faith that can be worn like a cloak to keep them warm in all they do. 
-This brought about an idea taken from the Indian legends, of a white coming into their midst, and the Indian nation shall rise again. I am looking at this from a spiritual point of view with you as the "white man" in the midst. The "now' generation holds a high respect for the wisdom of age. I would be very have a few words from you, your opinion, perhaps some small gems in message to the young people in antedote for my article. Being a theosopher with my own philosophy, it would please me to know yours in com-parison. Thank you for your time and consideration. 
-Yours very sincerely,
-S Anne Larkin 
-(Mrs.) S. Anne Larkin 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1a.10.39">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from S. Anne Larkin to John G. Neihardt, April 28, 1971</title>
+                <author>Larkin, S. Anne</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1a.10.39</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            <notesStmt><note></note></notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Larkin, S. Anne</author>
+                    <title level="m" type="main">Letter from S. Anne Larkin to John G. Neihardt</title>
+                    <date when="1973-04-28">April 28, 1971</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 hand-written page</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Cavett, Dick</term>
+                    <term>Larkin, S. Anne</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Marion (Ohio)</term>
+                    <term>Oklahoma City (Okla.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term>The Dick Cavett Show</term>
+                    <term>Black Elk Speaks</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Larkin, S. Anne</persName>
+                    <placeName ref="http://www.geonames.org/5161902">Marion (Ohio)</placeName>
+                    <date when="1973-04-28"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2017"><name xml:id="lkw">Weakly, Laura K.</name></change>
+            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.n1a.10.39"/>
+                <fw type="curatorial">39</fw>
+                <fw type="authorial">Send photo See "When the Tree Flowered"</fw>
+                
+                <opener>
+                    <dateline>
+                        551 Mary Street 
+                        Marion, Ohio 43302 
+                        April 28, 1971
+                    </dateline>
+                    
+                    <salute>Dear Dr. Neihardt,</salute>
+                </opener>
+                <p>For the last two years, I have been doing research on you. You can imagine my surprise to find you, and the pleasure of being able to tape your conversation with Dick Cavett, which I heard locally, last night. I am one of your most devoted fans with a fond admir-ation for your work, though my intentions are not as involved as your dear wife's were.</p> 
+                <p>I became acquainted with you through a geneology search for one of your distant relatives who once lived here in Marion. He too, is a poet, but a secret perhaps I shouldn't tell, since he is a business man in the Oklahoma City area. It is evident since "Neidhart the Fox," yours is poetic family. Between the tape, your writings, and the research material received from the Nebraska Historical Society, and the University of Nebra-ska, I've become as well acquainted with you as I am my own father.</p> 
+                <p>I am freelance writer who leans toward the "unknown" factors of thinking. As you stated in the interview, you know Black Elk Speaks has caused quite an interest among the "now" generation. The young people are looking for a better understanding of religious belief. They want a meaning be-hind their faith that can be worn like a cloak to keep them warm in all they do.</p> 
+                <p>This brought about an idea taken from the Indian legends, of a white coming into their midst, and the Indian nation shall rise again. I am looking at this from a spiritual point of view with you as the "white man" in the midst. The "now' generation holds a high respect for the wisdom of age. I would be very have a few words from you, your opinion, perhaps some small gems in message to the young people in antedote for my article. Being a theosopher with my own philosophy, it would please me to know yours in com-parison. Thank you for your time and consideration.</p> 
+                <closer>
+                    <salute>Yours very sincerely,</salute>
+                    <signed>S Anne Larkin</signed> 
+                    <signed>(Mrs.) S. Anne Larkin</signed> 
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI>

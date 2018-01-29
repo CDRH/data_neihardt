@@ -1,60 +1,257 @@
 <?xml version="1.0" encoding="UTF-8"?>
-7
-1123 McAllister Ave
-Tempe, Ariz. 85281
-Oct. 8, 1966
-Dear Mr. Neihardt
-Flaming Rainbow - How Kola! 
-Well, you have me hanging on the rope. I must get a copy of "When the Tree Flowered" - I've just finished reading the "Cycle of the West" and rereading "Black Elk Speaks" and now I must see how you handle the "mysteries", the "feel" for and of the people, as I understand in the essence of the stories told in "When the Tree Flowered". 
-Thank you for your kind reply to my letter of introduction. I note that it was written Sept. 21st - the day that I submitted to surgery here in Tempe. Then in Sunday, Sept. 25th, I seemed to have a mild heart attack! So, I am in the midst of a rather long - forced "rest". Fortunately all is going well so that since October 2nd I have been able to continue my recuperation at home. This of course gave me an opportunity to again read your works mentioned above - 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-8
-2
-and to read them slowly, thoughtfully, with time to reread passages for the real savoring of thoughts and "atmosphere", or "mood" creating word assembly. Altogether, a grand and pleasurable experience. What a master of the word, what a singer of the epic mood, what a story teller you are - Tae-Nuga-Zhinga!
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1a.5.7-13">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Rueben H. Nelson to John G. Neihardt, Oct. 8, 1966</title>
+                <author>Nelson, Rueben H.</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1a.5.7-13</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Nelson, Rueben H.</author>
+                    <title level="m" type="main">Rueben H. Nelson to John G. Neihardt</title>
+                    <date when="1966-10-08">Oct. 8, 1966</date>
+                    <extent>7 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>7 hand-written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>7 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="people">
+                    <term>Nelson, Rueben H.</term>
+                    <term>Black Elk, Henry</term>
+                    <term>Mesbeth, James</term>
+                    <term>Beard, Dewey</term>
+                    <term>Owl King, Edward</term>
+                    <term>Fire Thunder, William</term>
+                    <term>Black Elk, 1863-1950</term>
+                    <term>Black Hawk, Sauk chief, 1767-1838</term>
+                    <term>Black Elk, Benjamin, ?-1973</term>
+                </keywords>
+                <keywords scheme="original" n="places">
+                    <term>Tempe (Ariz.)</term>
+                    <term>Harney Peak (S.D.)</term>
+                </keywords>
+                <keywords scheme="original" n="works">
+                    <term>When the Tree Flowered</term>
+                    <term>A Cycle of the West</term>
+                    <term>Black Elk Speaks</term>
+                    <term>The Song of the Indian Wars</term>
+                    <term>The Song of the Messiah</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Nelson, Rueben H.</persName>
+                    <placeName ref="http://www.geonames.org/5317058">Tempe (Ariz.)</placeName>
+                    <date when="1966-10-08"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+                    <placeName></placeName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <person role="recipient"><persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName></person>
+            </particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2017"><name>Weakly, Laura K.</name> correspDesc Encoding</change>
+            <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
+            <change when="2012-02-29"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
+            <change when="2011-11-28"><name xml:id="ep">Pedigo, Erin</name> Proofreading</change>
+            <change when="2011"><name xml:id="az">Zeljkovic</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.n1a.5.7-13.xml" />
+                <note type="curatorial">7</note>
+                <fw type="authorial"></fw>
+                
+                <opener>
 
-With all the references to familiar names and places as well as events in both the Song of the Indian Wars and the Song of the Messiah bringing back to mind stories told to me by Henry Black Elk, James <unclear>Mesbeth</unclear>, <unclear>Dewey Beard</unclear>, Edward Owl King, William Fire Thunder and others - I repeatedly was struck by the feeling that I was reading "family" history. 
-It, however, was in the rereading of "Black Elk Speaks" that I was most impressed by the effect of time and experience changing ones reaction to or understanding of an authors work. Some 15 or 20 years ago when I first read "Black Elk Speaks" - I was young and busy with "a dream" of my own. The dream? To bring reality, efficiency, equality
+                    <dateline>
+                        1123 McAllister Ave
+                        Tempe, Ariz. 85281
+                        Oct. 8, 1966
+                    </dateline>
+                    
+                    <salute>Dear Mr. Neihardt</salute>
+                </opener>
+                <p>Flaming Rainbow - How Kola!</p>
+                
+                <p>Well, you have me hanging on the rope. I must get a copy of "When the Tree Flowered" - I've just finished reading the "Cycle of the West" and rereading "Black Elk Speaks" and now I must see how you handle the "mysteries", the "feel" for and of the people, as I understand in the essence of the stories told in "When the Tree Flowered".</p>
+                
+                <p>Thank you for your kind reply to my letter of introduction. I note that it was written Sept. 21st - the day that I submitted to surgery here in Tempe. Then in Sunday, Sept. 25th, I seemed to have a mild heart attack! So, I am in the midst of a rather long - forced "rest". Fortunately all is going well so that since October 2nd I have been able to continue my recuperation at home. This of course gave me an opportunity to again read your works mentioned above -</p>
 
-9
-3
-and some degree of business commmonsense into the Federal Service! So, while I found it very interesting and informa-tive as well as useful to me in having some understanding of the "long hairs" I met from time to time - I now am certain that I failed to grasp the greater meaning and significance of the Flaming Rainbow <unclear>Tepe</unclear> in the Clouds. The Six Grandfathers, the Black and Red Roads, and the Protecting Tree. 
-Now-the past tend days or so - as I reread the quite often familiar chapters - I was amazed to find new meaning and depth to my feeling of understanding and empathy with Black Elk - a man with a vision who found himself unable to ful-fill its promise or to fully use the "powers" of his vision! How I could give with him - while reading his story I was passing the anniversary of my 24th year in Federal Service - nothing that my dream was ^seemingly as useful filled as Black Elk's vision! 
-Someday when we get to know one another better I hope I shall be able to tell you 
+                    <pb facs="nei.n1a.5.7-13"/>
+                    <note type="curatorial">8</note>
+                    <fw type="authorial">2</fw>
 
-10
-4
-of my visit to the Spirit World in an episode with the "shade" of Black Hawk! The famous Sac & Fox leader of the 1830's. 
-What a moving, dramatic, "goose pimple raising", emotional experience that must have been when you were with Black Elk on Harney Peak! God! I can taste my "want" to have been with you. In matters of this nature I have great respect for the sincerity, <unclear>conviction</unclear>, and integrity of the old time so called "long hair". Like Ben <unclear/> used to say "Hell, Nelson you're more Indian than I am!" Well, maybe he is right - for in him I see an example of the terrible price paid by Indians to succeed in our Culture - the destroying of their pride in their ancestors and cultural patterns. He tells me he had to "learn" it all over again - after our schools had finally convinced him that there "was nothing good that was Indian"
-So much for the "preaching"! 
-While "reading" in the hospital I "doodled" around with some colored pencils
+                    <p>and to read them slowly, thoughtfully, with time to reread passages for the real savoring of thoughts and "atmosphere", or "mood" creating word assembly. Altogether, a grand and pleasurable experience. What a master of the word, what a singer of the epic mood, what a story teller you are - Tae-Nuga-Zhinga!</p>
+                
+                    <p>With all the references to familiar names and places as well as events in both the Song of the Indian Wars and the Song of the Messiah bringing back to mind stories told to me by Henry Black Elk, James <unclear>Mesbeth</unclear>, <unclear>Dewey Beard</unclear>, Edward Owl King, William Fire Thunder and others - I repeatedly was struck by the feeling that I was reading "family" history.</p>
+                        <p>It, however, was in the rereading of "Black Elk Speaks" that I was most impressed by the effect of time and experience changing ones reaction to or understanding of an authors work. Some 15 or 20 years ago when I first read "Black Elk Speaks" - I was young and busy with "a dream" of my own. The dream? To bring reality, efficiency, equality</p>
 
-11
-5
--two shirts of which I'm forwarding here with for your critical comment - if you could find time! Since you were "on the ground" so many years before me, you may have actually seen authentic "ghost shirts". If my sketches are anywhere near to depicting the real thing - I would like to work up some drawings from them to add color to a Black Elk display on the wall of my den. 
-It always seems I come begging and imploring on your time and that I have to little to "give" in return. 
-Thank you - Flaming Rainbow!
-In anticipation of our redezvous this winter. 
-Sincerely
-Rueben H. Nelson
-Wanblee Ska
-(White Eagle)
-"The Psuedo Hawk papa" 
-Ha! Ha!
-P.s.I'm enclosing a self addressed stamped envelope for your use should you wish to advise me on the sketch plans 
+                        <pb facs="nei.n1a.5.7-13"/>
+                <note type="curatorial">9</note>
+                <fw type="authorial">3</fw>
+                
+                        <p>and some degree of business commmonsense into the Federal Service! So, while I found it very interesting and informa-tive as well as useful to me in having some understanding of the "long hairs" I met from time to time - I now am certain that I failed to grasp the greater meaning and significance of the Flaming Rainbow <unclear>Tepe</unclear> in the Clouds. The Six Grandfathers, the Black and Red Roads, and the Protecting Tree.</p>
+                        <p>Now-the past tend days or so - as I reread the quite often familiar chapters - I was amazed to find new meaning and depth to my feeling of understanding and empathy with Black Elk - a man with a vision who found himself unable to ful-fill its promise or to fully use the "powers" of his vision! How I could give with him - while reading his story I was passing the anniversary of my 24th year in Federal Service - nothing that my dream was ^seemingly as useful filled as Black Elk's vision!</p>
+                        <p>Someday when we get to know one another better I hope I shall be able to tell you</p>
 
-12
-Shirt #I
-Dr. Neihardt = Does the sketch below come anywhere near what a "Ghost Shirt", according to Black Elk, looked like? I've only seen one - claimed at least to be - "ghost  shirt" - it was just a part of one really and very faded, so one couldn't get much of an idea as to how it at looked originally. These sketches are based on the desciption given on page 55 of your "The Song of the Messiah"
-<figure/>
-Front
-Plan 
-<figure/>
-Back 
+                            <pb facs="nei.n1a.5.7-13"/>
+                <note type="curatorial">10</note>
+                <fw type="authorial">4</fw>
+                            
+                            <p>of my visit to the Spirit World in an episode with the "shade" of Black Hawk! The famous Sac &amp; Fox leader of the 1830's.</p>
+                            <p>What a moving, dramatic, "goose pimple raising", emotional experience that must have been when you were with Black Elk on Harney Peak! God! I can taste my "want" to have been with you. In matters of this nature I have great respect for the sincerity, <unclear>conviction</unclear>, and integrity of the old time so called "long hair". Like Ben <unclear/> used to say "Hell, Nelson you're more Indian than I am!" Well, maybe he is right - for in him I see an example of the terrible price paid by Indians to succeed in our Culture - the destroying of their pride in their ancestors and cultural patterns. He tells me he had to "learn" it all over again - after our schools had finally convinced him that there "was nothing good that was Indian"</p>
+                            <p>So much for the "preaching"!</p>
+                            <p>While "reading" in the hospital I "doodled" around with some colored pencils</p>
 
-13
-Shirt # II
-Dr. Neihardt = do you think Black Elk's sacred shirt - which he describes on pages 259 and 260 of "Black Elk Speaks" - may have looked something like this? 
-<figure/> Plan 
-Front
-<figure/>
-Back 
+                <pb facs="nei.n1a.5.7-13"/>
+                <note type="curatorial">11</note>
+                <fw type="authorial">5</fw>
+                
+                <p>-two shirts of which I'm forwarding here with for your critical comment - if you could find time! Since you were "on the ground" so many years before me, you may have actually seen authentic "ghost shirts". If my sketches are anywhere near to depicting the real thing - I would like to work up some drawings from them to add color to a Black Elk display on the wall of my den.</p>
+                <p>It always seems I come begging and imploring on your time and that I have to little to "give" in return.</p>
+                <p>Thank you - Flaming Rainbow!</p>
+                <p>In anticipation of our redezvous this winter.</p>
+                <closer>
+                <salute>Sincerely</salute>
+                <signed>Rueben H. Nelson
+                Wanblee Ska
+                (White Eagle)</signed>
+                <note>"The Psuedo Hawk papa" 
+                    Ha! Ha!</note>
+                </closer>
+                <postscript><p>P.s.I'm enclosing a self addressed stamped envelope for your use should you wish to advise me on the sketch plans</p></postscript> 
+            </div1>
+            
+            <div1 type="attachement">
+                <pb facs="nei.n1a.5.7-13"/>
+                <note type="curatorial">12</note>
+                
+                <p>Shirt #I</p>
+                <p>Dr. Neihardt = Does the sketch below come anywhere near what a "Ghost Shirt", according to Black Elk, looked like? I've only seen one - claimed at least to be - "ghost  shirt" - it was just a part of one really and very faded, so one couldn't get much of an idea as to how it at looked originally. These sketches are based on the desciption given on page 55 of your "The Song of the Messiah"</p>
+                    <figure/>
+                    <p>Front</p>
+                    <p>Plan</p>
+                    <figure/>
+                    <p>Back</p>
+
+                    <pb facs="nei.n1a.5.7-13"/>
+                <note type="curatorial">13</note>
+                
+                    <p>Shirt # II</p>
+                    <p>Dr. Neihardt = do you think Black Elk's sacred shirt - which he describes on pages 259 and 260 of "Black Elk Speaks" - may have looked something like this?</p> 
+                    <figure/> 
+                    <p>Plan</p>
+                    <p>Front</p>
+                    <figure/>
+                    <p>Back</p>
+                </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

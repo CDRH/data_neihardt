@@ -1,26 +1,223 @@
 <?xml version="1.0" encoding="UTF-8"?>
-37
-Sept. 17, 1968
-English Dept. 
-State University 
-Brookings, S.D. 
-57006
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-John G. Neihardt
-Skyrim Farm 
-Route #7
-Columbia, Mo. 
-65201  
-Dear Mr. Neihardt: 
-I obtained your address from Dr. Grace Seiler, who taught here last year. She admires you very much. 
-Next summer, our School of Arts and Sciences will institute a Humanitites program for adults, the subject  being "The Great Plains." We would be greatly honored to have you as a speaker. 
-If you are interested , would you write to Dr. Jack  Marken, the Chairman of the English Department? He can give you the details, about the length of your stay, the stipend, and so on. I realize, that you may not want to decide until you hear from him. 
-Thirty years ago, in my teens, I discovered Black Elk Speaks and have read it many times since -- in Minneapolis, on the north shore of Lake Superior, at Dartmouth College, in a farmhouse in Vermont, in New York City, in San Francisco, in Carmel, in the Coast Range below Big Sur, and in Philadelphia. When I began teaching here a year ago, I put the book into my "Literature of the West" course and have had it there ever since. Other books come and go in that course but Black Elk  Speaks will always be a part of it. Such noble prose! -- befitting so beautifully such a noble subject! I had myself photographed at Black Elk's grave last month. 
-If you have any further information  about him or have writ-ten anything else about him (I have Brown's Sacred Pipe), I'd like to tell my students. Mr. Gildersleeve (I don't know his first name), the museum owner at Wounded Knee, has an unpublished photo-graph of Black Elk, in full head-dress. I've asked for a copy. Do you think it would  be a good idea to ask Ben Black to par-ticipate in our Great Plains program? And can you suggest any-body else? 
-You appeared three times last spring on the University's TV. 
-With thanks for having written 
-Black Elk Speaks, 
- Dexter Martin 
-Dexter Martin
-Asst. Prof. 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1a.7.37">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">Letter from Dexter Martin to John G. Neihardt, September 17, 1968</title>
+    <author>Martin, Dexter</author>
+    <principal>Gossin, Pamela</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     <date>2017</date>
+    </edition>
+   </editionStmt>
+   <publicationStmt>
+    <authority>The Papers of John G. Neihardt</authority>
+    <publisher>University of Nebraska-Lincoln</publisher>
+    <distributor>
+     <name>Center for Digital Research in the Humanities</name>
+     <address>
+      <addrLine>319 Love Library</addrLine>
+      <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+      <addrLine>Lincoln, NE 68588-4100</addrLine>
+      <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+     </address>
+    </distributor>
+    <pubPlace>Lincoln, Nebraska</pubPlace> 
+    <address>
+     <addrLine>University of Nebraska-Lincoln</addrLine>
+     <addrLine>Lincoln, NE 68588-4100</addrLine>
+    </address>
+    <idno>nei.n1a.7.37</idno>
+    <availability>
+     <p></p>
+    </availability>
+   </publicationStmt>
+   
+   <notesStmt><note></note></notesStmt>
+   
+   <sourceDesc>
+    <bibl>
+     <author>Martin, Dexter</author>
+     <title level="m" type="main">Letter from Dexter Martin to John G. Neihardt</title>
+     <date when="1968-09-17">September 17, 1968</date>
+     <extent>1 page</extent>
+    </bibl>
+    <msDesc>
+     <msIdentifier>
+      <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+      <idno></idno>
+     </msIdentifier>
+     <msContents>
+      <p>1 typewritten page</p>
+     </msContents>
+     <physDesc>
+      <objectDesc>
+       <supportDesc>
+        <support></support>
+        <extent>1 page
+         <dimensions unit="mm"><height></height><width></width></dimensions>
+        </extent>
+        <condition>
+         <p></p></condition>
+       </supportDesc>
+      </objectDesc>
+      <handDesc hands="2">
+       <handNote xml:id="type"><p>Media: type</p></handNote>
+       <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+      </handDesc>
+      <typeDesc>
+       <typeNote><p></p></typeNote>
+      </typeDesc>
+     </physDesc>
+     <history><origin></origin>
+      <provenance></provenance>
+      <acquisition></acquisition>
+     </history>
+    </msDesc>
+    
+   </sourceDesc>
+  </fileDesc>
+  
+  <encodingDesc>
+   <editorialDecl>
+    <correction>
+     <p></p>
+    </correction>
+    <normalization>
+     <p></p>
+    </normalization>
+   </editorialDecl>
+  </encodingDesc>
+  
+  <profileDesc>
+   <textClass>
+    <keywords scheme="original" n="category">
+     <term>Correspondence</term>
+    </keywords>
+    <keywords scheme="original" n="subcategory">
+     <term>Business</term>
+    </keywords>
+    <keywords scheme="original" n="topic">
+     <term></term>
+    </keywords>
+    <keywords scheme="original" n="keywords">
+     <term></term>
+    </keywords>
+    <keywords scheme="original" n="people">
+     <term>Martin, Dexter</term>
+     <term>Seiler, Grace</term>
+     <term>Marken, Jack W.</term>
+     <term>Gildersleeve</term>
+     <term>Black Elk, 1863-1950</term>
+     <term>Black Elk, Benjamin, ?-1973</term>
+    </keywords>
+    <keywords scheme="original" n="places">
+     <term>Minneapolis (Minn.)</term>
+     <term>Lake Superior</term>
+     <term>Vermont</term>
+     <term>New York (N.Y.)</term>
+     <term>San Fransisco (Calif.)</term>
+     <term>Carmel (Calif.)</term>
+     <term>Big Sur (Calif.)</term>
+     <term>Philadelphia (Penn.)</term>
+     <term>Brookings (S.D.)</term>
+     <term>Columbia (Mo.)</term>
+    </keywords>
+    <keywords scheme="original" n="works">
+     <term>Black Elk Speaks</term>
+    </keywords>
+   </textClass>
+   <correspDesc>
+    <correspAction type="sentBy">
+     <persName>Martin, Dexter</persName>
+     <placeName ref="http://www.geonames.org/5226534">Brookings (S.D.)</placeName>
+     <date when="1968-09-17"/>
+    </correspAction>
+    <correspAction type="deliveredTo">
+     <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+     <placeName ref="http://www.geonames.org/4381982">Columbia (Mo.)</placeName>
+    </correspAction>
+   </correspDesc>
+   <particDesc>
+    <person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+   </particDesc>
+  </profileDesc>
+  
+  <revisionDesc>
+   <change when="2017"><name>Weakly, Laura K.</name> correspDesc Encoding</change>
+   <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
+   <change when="2012-02-29"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
+   <change when="2011-11-28"><name xml:id="ep">Pedigo, Erin</name> Proofreading</change>
+   <change when="2011"><name xml:id="az">Zeljkovic</name> Transcription</change>
+   
+  </revisionDesc>
+ </teiHeader>
+ 
+ <text>
+  <body>
+   
+   <div1 type="letter">
+    
+    <pb facs="nei.n1a.7.37.xml"/>
+    <note type="curatorial">37</note>
+    <fw type="authorial"></fw>
+    
+    <opener>
+     <dateline>
+      Sept. 17, 1968
+     </dateline>
+     
+     <address>
+      <addrLine>
+       English Dept. 
+       State University 
+       Brookings, S.D. 
+       57006
+      </addrLine>
+     </address>
+     
+     <address>
+      <addrLine>
+       John G. Neihardt
+       Skyrim Farm 
+       Route #7
+       Columbia, Mo. 
+       65201
+      </addrLine>
+     </address>
+ 
+     <salute>Dear Mr. Neihardt:</salute>
+    </opener>
+    <p>I obtained your address from Dr. Grace Seiler, who taught here last year. She admires you very much.</p>
+    
+    <p>Next summer, our School of Arts and Sciences will institute a Humanitites program for adults, the subject  being "The Great Plains." We would be greatly honored to have you as a speaker.</p>
+    
+    <p>If you are interested , would you write to Dr. Jack  Marken, the Chairman of the English Department? He can give you the details, about the length of your stay, the stipend, and so on. I realize, that you may not want to decide until you hear from him.</p>
+    
+    <p>Thirty years ago, in my teens, I discovered Black Elk Speaks and have read it many times since -- in Minneapolis, on the north shore of Lake Superior, at Dartmouth College, in a farmhouse in Vermont, in New York City, in San Francisco, in Carmel, in the Coast Range below Big Sur, and in Philadelphia. When I began teaching here a year ago, I put the book into my "Literature of the West" course and have had it there ever since. Other books come and go in that course but Black Elk  Speaks will always be a part of it. Such noble prose! -- befitting so beautifully such a noble subject! I had myself photographed at Black Elk's grave last month.</p>
+    
+    <p>If you have any further information  about him or have writ-ten anything else about him (I have Brown's Sacred Pipe), I'd like to tell my students. Mr. Gildersleeve (I don't know his first name), the museum owner at Wounded Knee, has an unpublished photo-graph of Black Elk, in full head-dress. I've asked for a copy. Do you think it would  be a good idea to ask Ben Black to par-ticipate in our Great Plains program?</p>
+    
+    <p>And can you suggest any-body else?</p>
+    
+    <p>You appeared three times last spring on the University's TV.</p>
 
+    <closer>
+     <salute>With thanks for having written 
+      Black Elk Speaks,</salute>
+     <signed>Dexter Martin</signed>
+     <signed>Dexter Martin</signed>
+     <signed>Asst. Prof.</signed>
+
+    </closer>
+   </div1>
+   
+  </body>
+  
+  <back></back>
+ </text>
+</TEI>

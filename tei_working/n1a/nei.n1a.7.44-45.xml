@@ -1,31 +1,220 @@
 <?xml version="1.0" encoding="UTF-8"?>
-May you have 
-the gladness of Christmas
-which is Hope
-the spirit of Christmas
-which is Peace
-the heart of Christmas 
-which is Love. 
-Our warmest thoughts for the Christmas Season, 
-Ivan & Mildred Painton 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-
-<unclear/>
-45
-Ivan E. Painton 
-ORION
-FAIRVIEW, OKLAHOMA
-73737
-CHESTER, OK. 
-DEC
-18
-P.M.
-1968
-73838
-U.S. POSTAGE
-6c
-FRANKLIN D. ROOSEVELT
-Dr. John Neihardt 
-5835 Vine, 
-Lincoln, Nebraska
-68503
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1a.7.44-45">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Ivan E. Painton to John G. Neihardt, December 18, 1968</title>
+                <author>Painton, Ivan E. (Ivan Emory), 1909-</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1a.7.44-45</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Painton, Ivan E. (Ivan Emory), 1909-</author>
+                    <title level="m" type="main">Letter from Ivan E. Painton to John G. Neihardt</title>
+                    <date when="1968-12-18">December 18, 1968</date>
+                    <extent>2 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 pages</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>2 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="people">
+                    <term>Painton, Ivan E. (Ivan Emory), 1909-</term>
+                    <term>Painton, Mildred</term>
+                </keywords>
+                <keywords scheme="original" n="places">
+                    <term>Fairview (Okla.)</term>
+                    <term>Lincoln (Neb.)</term>
+                    <term>Chester (Okla.)</term>
+                </keywords>
+                <keywords scheme="original" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Painton, Ivan E. (Ivan Emory), 1909-</persName>
+                    <placeName ref="http://www.geonames.org/4536124">Fairview (Okla.)</placeName>
+                    <date when="1968-12-18"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+            </particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2017"><name>Weakly, Laura K.</name> correspDesc Encoding</change>
+            <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
+            <change when="2012-02-29"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
+            <change when="2011-11-28"><name xml:id="ep">Pedigo, Erin</name> Proofreading</change>
+            <change when="2011"><name xml:id="az">Zeljkovic</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="card">
+                
+                <pb facs="nei.n1a.7.44-45.xml"/>
+                <note type="curatorial"></note>
+                <fw type="authorial"></fw>
+                
+                <l>May you have</l> 
+                <l>the gladness of Christmas</l>
+                <l>which is Hope</l>
+                <l>the spirit of Christmas</l>
+                <l>which is Peace</l>
+                <l>the heart of Christmas</l> 
+                <l>which is Love.</l> 
+                
+                <salute>Our warmest thoughts for the Christmas Season,</salute> 
+                <signed>Ivan &amp; Mildred Painton</signed>
+            </div1>
+            
+            <div1 type="envelope">
+                
+                <pb facs="nei.n1a.7.44-45.xml"/>
+                <note type="curatorial">45</note>
+                <fw type="authorial"></fw>
+                
+                <ab type="return">
+                    <address>
+                    <addrLine>
+                        Ivan E. Painton 
+                        ORION
+                        FAIRVIEW, OKLAHOMA
+                        73737
+                    </addrLine>
+                    </address>
+                </ab>
+                
+                <ab type="postmark">
+                    <lb/>
+                    CHESTER, OK.
+                    DEC
+                    18
+                    P.M.
+                    1968
+                    73838
+                </ab>
+                
+                <figure>
+                    <p>U.S. POSTAGE
+                    6c
+                    FRANKLIN D. ROOSEVELT</p>
+                </figure>
+                
+                <ab type="address">
+                    <address>
+                        <addrLine>
+                            Dr. John Neihardt 
+                            5835 Vine, 
+                            Lincoln, Nebraska
+                            68503
+                        </addrLine>
+                    </address>
+                </ab>
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

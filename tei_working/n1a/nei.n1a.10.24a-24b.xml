@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1a.10.24a-24b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Mareta B. Williams to John G. Neihardt, March 5, 1971</title>
+                <author>Williams, Mareta B.</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1a.10.24a-24b</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Williams, Mareta B.</author>
+                    <title level="m" type="main">Letter from Mareta B. Williams to John G. Neihardt</title>
+                    <date when="1971-03-05">March 5, 1971</date>
+                    <extent>2 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 pages</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>2 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="people">
+                    <term>Williams, Mareta B.</term>
+                </keywords>
+                <keywords scheme="original" n="places">
+                    <term>Springfield (Mo.)</term>
+                    <term>Missouri</term>
+                    <term>Branson (Mo.)</term>
+                </keywords>
+                <keywords scheme="original" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Williams, Mareta B.</persName>
+                    <placeName ref="http://www.geonames.org/4409896">Springfield (Mo.)</placeName>
+                    <date when="1971-03-05"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+            </particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2017"><name>Weakly, Laura K.</name> correspDesc Encoding</change>
+            <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
+            <change when="2012-02-29"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
+            <change when="2011-11-28"><name xml:id="ep">Pedigo, Erin</name> Proofreading</change>
+            <change when="2011"><name xml:id="az">Zeljkovic</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.n1a.10.24a-24b.xml"/>
+                <note type="curatorial">24</note>
+                <fw type="authorial">
+                    <figure/>
+                    SOUTHWEST MISSOURI 
+                    STATE COLLEGE 
+                    SPRINGFIELD
+                </fw>
+                <note type="authorial">
+                    Ans. 3/15/71
+                    Dictated
+                </note>
+
+                <fw type="address">
+                        1111 East Normal 
+                        Springfield, Mo.  
+                </fw>
+                    
+                <dateline>March 5, 1971</dateline>
+                
+                <salute>Dear Mr. Neihardt,</salute>
+                <p>I am deeply sorry the Missouri's Writers has not been sent to you. I left it up to my Editor but he has been very busy working on his Ph.D. and that accounts for the delay.</p> 
+                <p>I hope you like the book</p>  
+                
+                <fw type="authorial">
+                    <figure/>
+                    SOUTHWEST MISSOURI 
+                    STATE COLLEGE 
+                    SPRINGFIELD
+                </fw>
+                
+                <p>of Teachers of English  Literary Landmarks Committee I have to read in material concerning literary landmarks which are already established in Missouri.</p> 
+                <p>That brings me to my question concerning you. Is there any house in Missouri where you have lived that has an especial significance. Is the hosue still standing in Branson where you lived?</p>
+                <p>I shall enclose a format</p>
+                
+                <pb facs="nei.n1a.10.24a-24b.xml"/>
+                <note type="curatorial">24b</note>
+                
+                <p>We hope to publish a second edition soon if ^we can come out financially  solvent on the first edition. We have not sold enough copies as yet to pay the printer.  If you know of anyone who would like another copy send $1 to me and I'll see that you get one.</p> 
+                <p>I got a pamphlet advertising your record and plan to order one.</p> 
+                <p>Your picture celebrating your 89th birthday was in the Springfield paper. I clipped it for my files.</p> 
+                <p>I am on the National Council</p>
+                
+                <p>to fill out if you have any information.</p> 
+                <p>I hope you are in good health and that your eyes are better.</p> 
+                
+                <salute>Sincerely,</salute>
+                <signed>Mareta B. Williams</signed>
+                <postscript><p>send mail to home address</p></postscript>
+                <note type="address">
+                    1111 East Normal  
+                    Springfield, Mo. 
+                    65804 
+                    245
+                </note>
+
+            </div1>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1a.8.27-29">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Ernest Kay to John G. Neihardt, August 6, 1969</title>
+                <author>Kay, Ernest</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1a.8.27-29</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Kay, Ernest</author>
+                    <title level="m" type="main">Letter from Ernest Kay to John G. Neihardt</title>
+                    <date when="1969-08-06">August 6, 1969</date>
+                    <extent>2 pages and 1 envelope</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 hand written page and 1 envelope</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>2 pages and 1 envelope
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="people">
+                    <term>Kay, Ernest</term>
+                    <term>Cavett, Dick</term>
+                    <term>Masefield, John, 1878-1967</term>
+                    <term>Elizabeth‎ II Queen of Great Britain 1926-</term>
+                </keywords>
+                <keywords scheme="original" n="places">
+                    <term>London (England)</term>
+                    <term>Lincoln (Neb.)</term>
+                    <term>Nebraska</term>
+                    <term>England</term>
+                </keywords>
+                <keywords scheme="original" n="works">
+                    <term>Who's Who in Poetry</term>
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Kay, Ernest</persName>
+                    <placeName ref="http://www.geonames.org/2643743">London (England)</placeName>
+                    <date when="1969-08-06"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+            </particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2017"><name>Weakly, Laura K.</name> correspDesc Encoding</change>
+            <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
+            <change when="2012-02-29"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
+            <change when="2011-11-28"><name xml:id="ep">Pedigo, Erin</name> Proofreading</change>
+            <change when="2011"><name xml:id="az">Zeljkovic</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.n1a.8.27-29.xml"/>
+                <note type="curatorial">27</note>
+                <fw type="authorial"></fw>
+                
+                <opener>
+                    
+                    <address>
+                        <addrLine>
+                            Mr. John G. Neihardt, 
+                            Poet Laureate of the State of Nebraska, 
+                            5835 Vine Street, 
+                            LINCOLN,
+                            Nebraska 68505, 
+                            United States of America.
+                        </addrLine>
+                    </address>
+                    
+                    <dateline>6th August 1969.</dateline>
+                    
+                    <salute>
+                        Dear Mr. Neihardt,
+                    </salute>
+                </opener>
+                
+                <p>At the request of many libraries, institutions, poetry organizations and poets in many parts of the world, we have decided to produce a very much enlarged Second Edition of the International Who's Who in Poetry early in 1970, and I am enclosing for your interest a brochure regarding this work together with an Entry Form for USS1,000 Poetry Awards. I am also enclosing a personal biographical questionnaire for your own use as we much want to include your own biography and bibliography in the enlarged Second Edition.</p>
+                <p>It is my intention to devote a considerable section of the book to Poets Laureate of the world and I would be most grateful if you could kindly send a photograph of yourself to me for inclusion in this particular section.</p>
+                <p>We are most anxious to be as comprehensive as we possibly can and I would indeed be grateful if you could let me have any information you can obtain regarding names and addresses of poets in the State of Nebraska (to whom we will immediately airmail identical questionnaires) and also of poetry societies, clubs and other organizations in the State of Nebraska, as we want to include a substantial appendix listing, so far as possible, all poetry organizations in the world.</p>
+                <p>.../</p>
+                
+                <pb facs="nei.n1a.8.27-29.xml"/>
+                <note type="curatorial"></note>
+                <fw type="authorial"></fw>
+                
+                <p>I do hope you will see fit to co-operate with us in this important venture and I am very much looking forward to hearing from you.</p>
+                
+                <salute>With thanks and best wishes,</salute>
+                <salute>Sincerely yours,</salute>
+                <signed>Ernest Kay</signed>
+                <signed>Ernest Kay,</signed>
+                <signed>Editor.</signed>
+                
+                <note>Encs.</note>
+                <note>Sent address head to Dick Cavett 4-19-71</note>
+                
+                <pb facs="nei.n1a.8.27-29.xml"/>
+                <note type="curatorial">28</note>
+                <fw type="authorial">
+                    INTERNATIONAL WHO'S WHO IN POETRY
+                    SECOND EDITION  1970-1971   IN ACTIVE PREPARATION
+                </fw>
+                
+                <figure/>
+                <fw>The late John Masefield, O.M., Poet Laureate to Queen Elizabeth II of England from 1930 to 1967, to whom the First Edition of the International Who's Who in Poetry was dedicated, by permission.</fw>
+  
+            </div1>
+            
+            <div1 type="envelope">
+                <pb facs="nei.n1a.8.27-29.xml"/>
+                <note type="curatorial">28</note>
+                <fw type="authorial"></fw>
+                
+                <note type="authorial">
+                    International 
+                    Who's who in 
+                    Poetry
+                    <del/> Ernest Kay 
+                    <del/>
+                    Artillery Mansion
+                    Victoria St.
+                    London S.W.
+                    England
+                    Tel 01-7994864
+                </note>
+                
+                <pb facs="nei.n1a.8.27-29.xml"/>
+                <note type="curatorial">29</note>
+                <fw type="authorial"></fw>
+                
+                <ab type="address">
+                    Mr. John G. Neihardt 
+                    Poet Laureate of the State of Nebraska, 
+                    5835 Vine Street, 
+                    LINCOLN, 
+                    Nebraska 68505, 
+                    United States of America.
+                </ab>
+                
+                <ab type="postmark">
+                    BY AIR MAIL 
+                    PAR AVION
+                </ab>
+
+                <ab type="postmark">
+                    LONDON.S.W.I.
+                    715 PM
+                    6AUG
+                    1969
+                    D
+                    <figure/> 1'6
+                </ab>
+                
+                <note type="curatorial">
+                    -Kay 
+                    Mailed 
+                    8-24-69
+                    JGN
+                </note>
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

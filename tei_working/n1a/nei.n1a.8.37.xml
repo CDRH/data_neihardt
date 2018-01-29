@@ -1,23 +1,203 @@
 <?xml version="1.0" encoding="UTF-8"?>
-37
-THE UNIVERSITY OF NEBRASKA 
-TEACHERS COLLEGE 
-ELEMENTARY EDUCATION 
-LINCOLN, NEBRASKA 68508 
-OFFICE OF 
-ELEMENTARY EDUCATION 
-November 25, 1969
-Dr. John Neihardt
-% J.D. Young
-5835 Vine 
-Lincoln, Nebraska 
-Dear Dr. Neihardt: 
-On behalf of my students , may I say that we thoroughly enjoyed your poems and thoughts. 
-I don't know whether you are aware of the term "happening" or not, but we all felt tha tlast night was a "happening" in our lives. 
-For the past several years I have been a student of the Nebraska history. Both you and Mari Sandoz have breathed a special meaning into mortal man's kinship with nature - in fact, the total oneness of all life that springs from the land or the cosmos to be more precise. Although most of us will never experience that oneness which you and Miss Sandoz shared, we can at least wonder about the great spirit-ual and terrestrial communion you shared and which you gave to us through your works. 
-Thank you again, Dr. Neihardt, for an unforgettable evening. 
-Respectfully yours, 
-Max Poole
-Max Poole
-On Nov. 24 I gave 
-a recital of my poetry - J.G.N. 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1a.8.37">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Max Poole to John G. Neihardt, November 25, 1969</title>
+                <author>Poole, Max</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1a.8.37</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Poole, Max</author>
+                    <title level="m" type="main">Letter from Max Poole to John G. Neihardt</title>
+                    <date when="1969-11-25">November 25, 1969</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="people">
+                    <term>Sandoz, Mari, 1896-1966</term>
+                    <term>Poole, Max</term>
+                </keywords>
+                <keywords scheme="original" n="places">
+                    <term>Lincoln (Neb.)</term>
+                    <term>Nebraska</term>
+                </keywords>
+                <keywords scheme="original" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Poole, Max</persName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                    <date when="1969-11-25"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+            </particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2017"><name>Weakly, Laura K.</name> correspDesc Encoding</change>
+            <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
+            <change when="2012-02-29"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
+            <change when="2011-11-28"><name xml:id="ep">Pedigo, Erin</name> Proofreading</change>
+            <change when="2011"><name xml:id="az">Zeljkovic</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.n1a.8.37.xml"/>
+                <note type="curatorial">37</note>
+                <fw type="authorial">
+                    THE UNIVERSITY OF NEBRASKA 
+                    TEACHERS COLLEGE 
+                    ELEMENTARY EDUCATION 
+                    LINCOLN, NEBRASKA 68508
+                    
+                    OFFICE OF 
+                    ELEMENTARY EDUCATION
+                </fw>
+                
+                <opener>
+                    
+                    <dateline>November 25, 1969</dateline>
+                    
+                    <address>
+                        <addrLine>
+                            Dr. John Neihardt
+                            % J.D. Young
+                            5835 Vine 
+                            Lincoln, Nebraska 
+                        </addrLine>
+                    </address>
+                    
+                    <salute>
+                        Dear Dr. Neihardt: 
+                    </salute>
+                </opener>
+                
+                <p>On behalf of my students , may I say that we thoroughly enjoyed your poems and thoughts.</p>
+                <p>I don't know whether you are aware of the term "happening" or not, but we all felt that last night was a "happening" in our lives.</p>
+                <p>For the past several years I have been a student of the Nebraska history. Both you and Mari Sandoz have breathed a special meaning into mortal man's kinship with nature - in fact, the total oneness of all life that springs from the land or the cosmos to be more precise. Although most of us will never experience that oneness which you and Miss Sandoz shared, we can at least wonder about the great spirit-ual and terrestrial communion you shared and which you gave to us through your works.</p>
+                <p>Thank you again, Dr. Neihardt, for an unforgettable evening.</p>
+                
+                <salute>Respectfully yours,</salute>
+                <signed>Max Poole</signed>
+                <signed>Max Poole</signed>
+
+                <note type="authorial">
+                    On Nov. 24 I gave 
+                    a recital of my poetry - J.G.N.
+                </note>
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

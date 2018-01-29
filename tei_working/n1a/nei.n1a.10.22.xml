@@ -1,17 +1,187 @@
 <?xml version="1.0" encoding="UTF-8"?>
-22
-5662 Waterman Blvd. 
-St. Louis, Mo. 
-63112
-March 6, 1971
-Dear. Dr. Neihardt, Mr. &Mrs. Young, 
-Thank you for writing and telling me about the Dick Cavett special. If you find out exactly when it will be, please let me know. Cavett's show comes on here in St. Louis at midnight, so it would be very hard for me to watch every night for the special. Some of the people in my course on Indians mentioned that Cavett said that he would be having a program with one of the most interesting people he has ever met. I'm really looking forward to it. 
-I hope that you have heard from John Collier Jr. by now. 
-I'm sure that he has gotten my letter. 
-Almost everyone in my Indians class has already read Black Elk on their own, but none of them have heard of When the Tree Flowered. Needless to say, I have recommended it to them. 
-I was just thinking...... if you don't hear from Col-lier soon you could try reaching him care of the Field Mus-uem of Natural History, of Chicago. If he isn't there I'm sure they will forward your message to him. As far as I know, he's still there as Curator of Ethnology or something similar to that. 
-I hope this letter finds all of you in good health and in peace. 
-Love, 
-Jim Libensky
-ans. 3/15/71
-dictated 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1a.10.22">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Jim Libensky to John G. Neihardt, March 6, 1971</title>
+                <author>Libensky, Jim</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1a.10.22</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Libensky, Jim</author>
+                    <title level="m" type="main">Letter from Jim Libensky to John G. Neihardt</title>
+                    <date when="1971-03-06">March 6, 1971</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="people">
+                    <term>Young, Myrtle</term>
+                    <term>Young, Julius</term>
+                    <term>Cavett, Dick</term>
+                    <term>Collier, John, 1884-1968</term>
+                    <term>Libensky, Jim</term>
+                </keywords>
+                <keywords scheme="original" n="places">
+                    <term>St. Louis (Mo.)</term>
+                    <term>Chicago (Ill.)</term>
+                </keywords>
+                <keywords scheme="original" n="works">
+                    <term>Black Elk Speaks</term>
+                    <term>When the Tree Flowered: The Story of Eagle Voice, a Sioux Indian</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Libensky, Jim</persName>
+                    <placeName ref="http://www.geonames.org/4407066">St. Louis (Mo.)</placeName>
+                    <date when="1971-03-06"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+            </particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2017"><name>Weakly, Laura K.</name> correspDesc Encoding</change>
+            <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
+            <change when="2012-02-29"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
+            <change when="2011-11-28"><name xml:id="ep">Pedigo, Erin</name> Proofreading</change>
+            <change when="2011"><name xml:id="az">Zeljkovic</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.n1a.10.22.xml"/>
+                <note type="curatorial">22</note>
+                <note type="authorial"></note>
+                <fw type="authorial">
+                    5662 Waterman Blvd. 
+                    St. Louis, Mo. 
+                    63112
+                </fw>
+                
+                <dateline>
+                    March 6, 1971
+                </dateline>
+                
+                <salute>Dear. Dr. Neihardt, Mr. &amp;Mrs. Young,</salute>
+                
+                <p>Thank you for writing and telling me about the Dick Cavett special. If you find out exactly when it will be, please let me know. Cavett's show comes on here in St. Louis at midnight, so it would be very hard for me to watch every night for the special. Some of the people in my course on Indians mentioned that Cavett said that he would be having a program with one of the most interesting people he has ever met. I'm really looking forward to it.</p> 
+                <p>I hope that you have heard from John Collier Jr. by now.</p> 
+                <p>I'm sure that he has gotten my letter.</p> 
+                <p>Almost everyone in my Indians class has already read Black Elk on their own, but none of them have heard of When the Tree Flowered. Needless to say, I have recommended it to them.</p> 
+                <p>I was just thinking...... if you don't hear from Col-lier soon you could try reaching him care of the Field Mus-uem of Natural History, of Chicago. If he isn't there I'm sure they will forward your message to him. As far as I know, he's still there as Curator of Ethnology or something similar to that.</p> 
+                <p>I hope this letter finds all of you in good health and in peace.</p> 
+                <salute>Love,</salute> 
+                <signed>Jim Libensky</signed>
+                
+                <note type="authorial">
+                    ans. 3/15/71
+                    dictated
+                </note> 
+                
+            </div1>
+        </body>
+    </text>
+</TEI>

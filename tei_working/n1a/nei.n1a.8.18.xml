@@ -1,25 +1,212 @@
 <?xml version="1.0" encoding="UTF-8"?>
-18
-FRNM
-Foundation for Research on the Nature of Man 
-THE INSTITUTE FOR PARAPSYCHOLOGY    BOX 6847, COLLEGE STATION 
-PARAPSYCHOLOGY PRESS    DURHAM, N.C. 27708
-May 17, 1969
-Dr. John G. Neihardt
-5835 Vine Street 
-Lincoln, Nebraska 68505 
-Dear Dr. Neihardt: 
-I hope the book has reached you by this time. I have thought many times of writing you since I received your last letter, but it is hard to find a letter in the pile on my desk when I get as far behind as I am now. But finally I have come to yours and Tom's, which I kept together. 
-I like your story about your son leading you to the tombstone in York, South Carolina. We never can make an absolutely conclusive case from these experiences anyhow, but it would appear as though your son was guided by an unconscious association to something that was meaningful to you both in connection with the story to which you have given so much inspired thought. The angle that interests me most is the question the story raises as to how far these unconscious leakages will reach out. Perhaps even probably your son did not know the name Captain George D. Wallace, or know his connection with the battle at Wounded Knee. That would make the chain of connections still more extended. 
-I am putting down for one of my treats of the future the reading of your Cycle of the West. I know about it only very generally, but since reading Peter Farb's book on the Indian cultures of North America I am more than ever interested. 
-I am glad you are going great guns on your auto-biography. Some day through that I will really become acquainted with you, but perhaps I will meet you personally one of these days. 
-Tom and Elaine are keeping up the program of investigation, and I am glad to be kept in touch. I am going to write him now. 
-Give Joe my greetings if you are in touch with him. I have not been. 
-Give Joe my greetings if you are in touch with him. I have not been. 
-Do drop me a card if the book did not reach you yet. 
-There will be parts in it toward the end that may be of interested. I hope your experience with the eye doctor has turned out perfectly. Kind regards. 
-Sincerely yours,
-<unclear>JB Rhine</unclear>
-J.B. Rhine
-f/
-402 BUCHANAN    FOUNDATION HOUSE    TEL. (919) 688-8241
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1a.8.18">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Joseph Banks Rhine to John G. Neihardt, May 17, 1969</title>
+                <author>Rhine, J. B. (Joseph Banks), 1895-1980</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1a.8.18</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Rhine, J. B. (Joseph Banks), 1895-1980</author>
+                    <title level="m" type="main">Letter from Joseph Banks Rhine to John G. Neihardt</title>
+                    <date when="1969-05-17">May 17, 1969</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="people">
+                    <term>Rhine, J. B. (Joseph Banks), 1895-1980</term>
+                    <term>Tom</term>
+                    <term>Elaine</term>
+                    <term>Wallace, George D.</term>
+                    <term>Farb, Peter</term>
+                </keywords>
+                <keywords scheme="original" n="places">
+                    <term>Durham (N.C.)</term>
+                    <term>York (S.C.)</term>
+                </keywords>
+                <keywords scheme="original" n="works">
+                    <term>A Cycle of the West</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName ref="http://viaf.org/viaf/57445782">Rhine, J. B. (Joseph Banks), 1895-1980</persName>
+                    <placeName ref="http://www.geonames.org/4464368">Durham (N.C.)</placeName>
+                    <date when="1969-05-17"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+            </particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2017"><name>Weakly, Laura K.</name> correspDesc Encoding</change>
+            <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
+            <change when="2012-02-29"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
+            <change when="2011-11-28"><name xml:id="ep">Pedigo, Erin</name> Proofreading</change>
+            <change when="2011"><name xml:id="az">Zeljkovic</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.n1a.8.18.xml"/>
+                <note type="curatorial">18</note>
+                <fw type="authorial">
+                    FRNM
+                    Foundation for Research on the Nature of Man 
+                    
+                    THE INSTITUTE FOR PARAPSYCHOLOGY
+                    PARAPSYCHOLOGY PRESS
+                </fw>
+                
+                <opener>
+                    
+                    <address>
+                        <addrLine>
+                            BOX 6847, COLLEGE STATION
+                            DURHAM, N.C. 27708
+                        </addrLine>
+                    </address>
+                    
+                    <dateline>May 17, 1969</dateline>
+                    
+                    <address>
+                        <addrLine>
+                            Dr. John G. Neihardt
+                            5835 Vine Street 
+                            Lincoln, Nebraska 68505
+                        </addrLine>
+                    </address>
+                    
+                    <salute>
+                        Dear Dr. Neihardt:
+                    </salute>
+                </opener>
+                
+                <p>I hope the book has reached you by this time. I have thought many times of writing you since I received your last letter, but it is hard to find a letter in the pile on my desk when I get as far behind as I am now. But finally I have come to yours and Tom's, which I kept together.</p> 
+                <p>I like your story about your son leading you to the tombstone in York, South Carolina. We never can make an absolutely conclusive case from these experiences anyhow, but it would appear as though your son was guided by an unconscious association to something that was meaningful to you both in connection with the story to which you have given so much inspired thought. The angle that interests me most is the question the story raises as to how far these unconscious leakages will reach out. Perhaps even probably your son did not know the name Captain George D. Wallace, or know his connection with the battle at Wounded Knee. That would make the chain of connections still more extended.</p>
+                <p>I am putting down for one of my treats of the future the reading of your Cycle of the West. I know about it only very generally, but since reading Peter Farb's book on the Indian cultures of North America I am more than ever interested.</p>
+                <p>I am glad you are going great guns on your auto-biography. Some day through that I will really become acquainted with you, but perhaps I will meet you personally one of these days.</p>
+                <p>Tom and Elaine are keeping up the program of investigation, and I am glad to be kept in touch. I am going to write him now.</p>
+                <p>Give Joe my greetings if you are in touch with him. I have not been.</p>
+                <p>Do drop me a card if the book did not reach you yet.</p>
+                <p>There will be parts in it toward the end that may be of interested. I hope your experience with the eye doctor has turned out perfectly. Kind regards.</p>
+                
+                <salute>Sincerely yours,</salute>
+                <signed>JB Rhine</signed>
+                <signed>J.B. Rhine</signed>
+                
+                <note>f/</note>
+                
+                <note>402 BUCHANAN    FOUNDATION HOUSE    TEL. (919) 688-8241</note>
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

@@ -1,32 +1,221 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-Dear Dr Neihardt: 
-We think of you often & wish you the best 89th year anyone ever had! 
-God Bless you! 
-Here's hoping you'll remember 
-That this is wishing you 
-The very nicest things there are--
-And plenty of them, too! 
-Here's hoping you'll remember
-It's a wish that's most sincere, 
-And just forget that it arrived 
-A trifle late this year. 
-Many Happy Returns 
-Of the Day
-The gang at
-Scout's Rest Ranch. 
-(Buffalo Bills home)
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1a.9.4-5">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Scout's Rest Ranch to John G. Neihardt, January 13, 1970</title>
+                <author>Scout's Rest Ranch</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1a.9.4-5</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Scout's Rest Ranch</author>
+                    <title level="m" type="main">Scout's Rest Ranch</title>
+                    <date when="1969-01-13">January 13, 1970</date>
+                    <extent>1 page; 1 envelople</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 hand written page; 1 envelople</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page; 1 envelople
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="people">
+                    <term>Day, Bess E.</term>
+                    <term>Young, Myrtle</term>
+                    <term>Young, Julius</term>
+                </keywords>
+                <keywords scheme="original" n="places">
+                    <term>Lincoln (Neb.)</term>
+                    <term>North Platte (Neb.)</term>
+                </keywords>
+                <keywords scheme="original" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Scout's Rest Ranch</persName>
+                    <placeName ref="http://www.geonames.org/5697939">North Platte (Neb.)</placeName>
+                    <date when="1969-01-13"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+            </particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2017"><name>Weakly, Laura K.</name> correspDesc Encoding</change>
+            <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
+            <change when="2012-02-29"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
+            <change when="2011-11-28"><name xml:id="ep">Pedigo, Erin</name> Proofreading</change>
+            <change when="2011"><name xml:id="az">Zeljkovic</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.n1a.9.4-5.xml"/>
+                <note type="curatorial">4</note>
+                <fw type="authorial"></fw>
+                
+                <salute>Dear Dr Neihardt:</salute>
+                <p>We think of you often &amp; wish you the best 89th year anyone ever had!</p> 
+                <p>God Bless you!</p>
+                
+                <pb facs="nei.n1a.9.2-3.xml"/>
+                <note type="curatorial"></note>
+                <fw type="authorial">1-14-70</fw>
+                
+                <p>
+                    Here's hoping you'll remember 
+                    That this is wishing you 
+                    The very nicest things there are--
+                    And plenty of them, too! 
+                    Here's hoping you'll remember
+                    It's a wish that's most sincere, 
+                    And just forget that it arrived 
+                    A trifle late this year. 
+                    Many Happy Returns 
+                    Of the Day
+                </p>
+                
+                <p>
+                    The gang at
+                    Scout's Rest Ranch. 
+                    (Buffalo Bills home)
+                </p>
+            </div1>
+            
+            <div1 type="envelope">
+                <pb facs="nei.n1a.9.4-5.xml"/>
+                <note type="curatorial">5</note>
+                <fw type="authorial"></fw>
+                
+                <ab type="postmark">
+                    NORTH PLATTE. 
+                    JAN 13
+                    1970
+                    69101
+                </ab>
+                
+                <ab type="stamp">
+                    <figure>
+                        <p>
+                            U.S.POSTAGE 
+                            6c
+                            FRANKLIN.D.ROOSEVELT
+                        </p>
+                    </figure>
+                </ab>
+                
+                <ab type="address">
+                    Dr John Neihardt, 
+                    co J.D. Young 
+                    5835 Vine Street, 
+                    Lincoln, Nebraska 68505 
+                </ab>
 
-5
-1-14-70 
-NORTH PLATTE. 
-JAN 13
-1970
-69101 
-U.S.POSTAGE 
-6c
-FRANKLIN.D.ROOSEVELT 
-Dr John Neihardt, 
-co J.D. Young 
-5835 Vine Street, 
-Lincoln, Nebraska 68505 
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

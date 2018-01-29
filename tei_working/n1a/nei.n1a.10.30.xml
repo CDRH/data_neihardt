@@ -1,12 +1,173 @@
 <?xml version="1.0" encoding="UTF-8"?>
-30
-WILLIAM JEWELL COLLEGE 
-LIBERTY, MISSOURI 64068 
-April 28, 1971
-Dear Dr. Neihardt, 
-Haywood, my parents and I wanted to let you know how much pleasure your T.V. interview with Dick Cavatt gave us. We had been looking forward to it since February when Hilda was in Kansas City and told us that it had been taped. Of course, we knew that it would be delightful but it even exceeded our expectations. 
-Moreoever, it came at just exactly the right time. I had spent all day Tuesday grading freshman research papers. Basically because of the tremendous problem of plagiarism, this is a difficult and discouraging task for me. And even at the time for your program to begin I was still angry. But you calmed me and made me feel good again with your comment: "It takes courage to be good." I had never thought of it that way. 
-Thank you for that and for a perfect evening. 
-Fondly, 
-Lyn 
-Lyn Hall Walker 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1a.10.30">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Lyn Hall Walker to John G. Neihardt, April 28, 1971</title>
+                <author>Walker, Lyn Hall</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1a.10.30</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Walker, Lyn Hall</author>
+                    <title level="m" type="main">Letter from Lyn Hall Walker to John G. Neihardt</title>
+                    <date when="1971-04-28">April 28, 1971</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="people">
+                    <term>Haywood</term>
+                    <term>Petri, Hilda Neihardt</term>
+                    <term>Cavett, Dick</term>
+                    <term>Walker, Lyn Hall</term>
+                </keywords>
+                <keywords scheme="original" n="places">
+                    <term>Liberty (Mo.)</term>
+                    <term>Kansas City (Mo.)</term>
+                </keywords>
+                <keywords scheme="original" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Walker, Lyn Hall</persName>
+                    <placeName ref="http://www.geonames.org/4395052">Liberty (Mo.)</placeName>
+                    <date when="1971-04-28"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+            </particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2017"><name>Weakly, Laura K.</name> correspDesc Encoding</change>
+            <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
+            <change when="2012-02-29"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
+            <change when="2011-11-28"><name xml:id="ep">Pedigo, Erin</name> Proofreading</change>
+            <change when="2011"><name xml:id="az">Zeljkovic</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.n1a.10.30.xml"/>
+                <note type="curatorial">30</note>
+                <fw type="authorial"></fw>
+                <note type="authorial">
+                    WILLIAM JEWELL COLLEGE 
+                    LIBERTY, MISSOURI 64068
+                </note>
+                
+                <dateline>April 28, 1971</dateline>
+                
+                <salute>Dear Dr. Neihardt,</salute> 
+                <p>Haywood, my parents and I wanted to let you know how much pleasure your T.V. interview with Dick Cavatt gave us. We had been looking forward to it since February when Hilda was in Kansas City and told us that it had been taped. Of course, we knew that it would be delightful but it even exceeded our expectations.</p> 
+                <p>Moreoever, it came at just exactly the right time. I had spent all day Tuesday grading freshman research papers. Basically because of the tremendous problem of plagiarism, this is a difficult and discouraging task for me. And even at the time for your program to begin I was still angry. But you calmed me and made me feel good again with your comment: "It takes courage to be good." I had never thought of it that way.</p> 
+                <p>Thank you for that and for a perfect evening.</p> 
+                <salute>Fondly,</salute> 
+                <signed>Lyn</signed> 
+                <signed>Lyn Hall Walker</signed> 
+            </div1>
+        </body>
+    </text>
+</TEI>

@@ -1,18 +1,183 @@
 <?xml version="1.0" encoding="UTF-8"?>
-18
-Blair, Nebraska 
-February 16, 1971
-Dear Dr. Neihardt: 
-We are sitting here this evening listening a_gain to your record. It is as if you are here in the room with us. I remember you once told me that poetry is a vocal art--I realize this now more than ever. 
-In The Death of Crazy Horse, you indeed paint with words, and we are there, and aprt of it, including the guilt. 
-The Black Elk prayer is of course more intangible, more abstract--and I think the most beautiful prayer that I have ever heard. 
-With your permission, I am going to use a phrase from your Song of The Messiah, ----"the green with which that breathing land was green"---as a title for one of my Sand Hills paintings. This will be one of the paintings in my spring show in Lincoln, opening March 14th. When it comes to naming my paintings, I wish I could employ you full time. 
-We wanted to let you know how pleased we are to have the record, so that we may hear your voice reciting your poetry whenever we wish. The record must have been very well engineered--your voice is so natural and so clear. 
-I want to tell you a little story: The other evening, Betty and I were watching television and our collie, Pinto, happened to be indoors. He was lying in the middle of the floor, apparently sound asleep. A dog in the television pro-gram started whimpering. Pinto perked ukp, ran over to your portrait on the studio wall, and looked up at Jacquot with great concern, cocking his head questioningly. I considered this a compliment. 
-We were interested in the television presentation of the Crazy Horse monument project the other night, especially since hearing of your association with the sculptor. He must be a tremendous man. 
-We were interested in the television presentation of the Crazy Horse monument project the other night, especially sicne hearing of your association with the sculptor. He must be a tremendous man. 
-Today was a beautiful warm day---the snow was melting, the creek in the pasture was running full--and I painted. I like my start very much; it needs more work--maybe tomorrow if the weather is the same. I think I got the beginning of what I set out to do. 
-We enjoyed sharing in your birthday celebration, and it was a pleasure to meet your two daughters. 
-We hope to be seeing you one of these days soon. 
-Sincerely,
-Alton L. Larsen 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1a.10.18">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Alton L. Larsen to John G. Neihardt, February 16, 1971</title>
+                <author>Larsen, Alton L.</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1a.10.18</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Larsen, Alton L.</author>
+                    <title level="m" type="main">Letter from Alton L. Larsen to John G. Neihardt</title>
+                    <date when="1971-02-16">February 16, 1971</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="people">
+                    <term>Larsen, Betty</term>
+                    <term>Crazy Horse, approximately 1842-1877</term>
+                    <term>Larsen, Alton L.</term>
+                </keywords>
+                <keywords scheme="original" n="places">
+                    <term>Blair (Neb.)</term>
+                    <term>Lincoln (Neb.)</term>
+                </keywords>
+                <keywords scheme="original" n="works">
+                    <term>The Death of Crazy Horse</term>
+                    <term>The Song of the Messiah</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Larsen, Alton L.</persName>
+                    <placeName ref="http://www.geonames.org/5064236">Blair (Neb.)</placeName>
+                    <date when="1971-02-16"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+            </particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2017"><name>Weakly, Laura K.</name> correspDesc Encoding</change>
+            <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
+            <change when="2012-02-29"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
+            <change when="2011-11-28"><name xml:id="ep">Pedigo, Erin</name> Proofreading</change>
+            <change when="2011"><name xml:id="az">Zeljkovic</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.n1a.10.18.xml"/>
+                <note type="curatorial">18</note>
+                <note type="authorial"></note>
+                <fw type="authorial">
+                </fw>
+                
+                <dateline>
+                    Blair, Nebraska 
+                    February 16, 1971
+                </dateline>
+                
+                <salute>Dear Dr. Neihardt:</salute>
+                
+                <p>We are sitting here this evening listening a_gain to your record. It is as if you are here in the room with us. I remember you once told me that poetry is a vocal art--I realize this now more than ever.</p> 
+                <p>In The Death of Crazy Horse, you indeed paint with words, and we are there, and aprt of it, including the guilt.</p> 
+                <p>The Black Elk prayer is of course more intangible, more abstract--and I think the most beautiful prayer that I have ever heard.</p> 
+                <p>With your permission, I am going to use a phrase from your Song of The Messiah, ----"the green with which that breathing land was green"---as a title for one of my Sand Hills paintings. This will be one of the paintings in my spring show in Lincoln, opening March 14th. When it comes to naming my paintings, I wish I could employ you full time.</p> 
+                <p>We wanted to let you know how pleased we are to have the record, so that we may hear your voice reciting your poetry whenever we wish. The record must have been very well engineered--your voice is so natural and so clear.</p> 
+                <p>I want to tell you a little story: The other evening, Betty and I were watching television and our collie, Pinto, happened to be indoors. He was lying in the middle of the floor, apparently sound asleep. A dog in the television pro-gram started whimpering. Pinto perked ukp, ran over to your portrait on the studio wall, and looked up at Jacquot with great concern, cocking his head questioningly. I considered this a compliment.</p> 
+                <p>We were interested in the television presentation of the Crazy Horse monument project the other night, especially since hearing of your association with the sculptor. He must be a tremendous man.</p> 
+                <p>Today was a beautiful warm day---the snow was melting, the creek in the pasture was running full--and I painted. I like my start very much; it needs more work--maybe tomorrow if the weather is the same. I think I got the beginning of what I set out to do.</p> 
+                <p>We enjoyed sharing in your birthday celebration, and it was a pleasure to meet your two daughters.</p> 
+                <p>We hope to be seeing you one of these days soon.</p> 
+                
+                <salute>Sincerely,</salute>
+                <signed>Alton L. Larsen</signed> 
+                
+            </div1>
+        </body>
+    </text>
+</TEI>

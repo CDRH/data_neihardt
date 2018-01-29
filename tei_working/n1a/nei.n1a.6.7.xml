@@ -1,14 +1,194 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Carbon 
-To J.G. Neihardt 
-5835 Vine Street 
-Lincoln, Nebr 68505
-February 24, 1967
-7
-Dear Friend:
-Since I wrote to you yesterday regarding the April 2nd and 3rd programs here for you to appear at the Warren Methodist Church and the Lancaster County Retired Teachers Association, I have had conversations with Mrs. Bruce Nichol at Miller's Book Store and with Dr. Donald Danker at the Historical Society. Now, <del>have</del> I have a plan that might help to offset some of the expenses of your transportation, since the church and the Teachers both are lacking in funds for such a worthy cause. 
-Would you be willing to participate in an autograph party at Millers' while you are in Lincoln? Mrs. Nichol would make the usual arrangements for this and promote the advertising, and she wil write to you if this is agreeable with you. We certainly would hope this would not be too tiring for you; I remember you said the affair at Miller's in October 1965 <unclear>had</unclear> tired your arm. All groups concerned would be very appreciative of this feature of your visit, and would give publicity. 
-Remember, you are welcome to be our guest more than the April 2nd and 3rd dates if you can spend more time here. If your time is limited we will plan the time for all phases of the trip to best suit your desires. Mrs. Nichol seems to favor a Saturday autographing session if possible. Perhaps this could be done if you could arrive here Friday. Monday afternoon would be best from teh standpoitn of the publicity at the forenoon program, but that might be too much activity for you in one day. Tuesday would be good if you can stay over. Please advice me at your earliest convenience how you feel about this, and I'll call Mrs. Nichol at once. 
-Dr. Danker expects to see you when you are here too, - we're all looking forward to your visit. 
-Sincerely
-Julius D. Young 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1a.6.7">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Julius Young to John G. Neihardt, February 24, 1967</title>
+                <author>Young, Julius</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1a.6.7</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Young, Julius</author>
+                    <title level="m" type="main">Letter from Julius Young to John G. Neihardt</title>
+                    <date when="1967-02-24">February 24, 1967</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 hand-written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="people">
+                    <term>Nichol, Bruce; Mrs.</term>
+                    <term>Danker, Donald F. (Donald Floyd)</term>
+                    <term>Young, Julius</term>
+                </keywords>
+                <keywords scheme="original" n="places">
+                    <term>Lincoln (Neb.)</term>
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc ref="">
+                <correspAction type="sentBy">
+                    <persName>Young, Julius</persName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                    <date when="1967-02-24"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+            </particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2017"><name>Weakly, Laura K.</name> correspDesc Encoding</change>
+            <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
+            <change when="2012-02-29"><name xml:id="lkw">Weakly, Laura K.</name>Initial Encoding</change>
+            <change when="2011-11-28"><name xml:id="ep">Pedigo, Erin</name> Proofreading</change>
+            <change when="2011"><name xml:id="az">Zeljkovic</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.n1a.6.7.xml" />
+                <note type="curatorial">7</note>
+                <fw type="curatorial"></fw>
+                
+                <note type="authorial">
+                    Carbon 
+                    To J.G. Neihardt 
+                </note>
+                
+                <opener>
+                    <address>
+                        <addrLine>
+                            5835 Vine Street 
+                            Lincoln, Nebr 68505
+                        </addrLine>
+                    </address>
+                    
+                        <dateline>February 24, 1967</dateline>
+                    
+                    <salute>Dear Friend:</salute>
+                </opener>
+                <p>Since I wrote to you yesterday regarding the April 2nd and 3rd programs here for you to appear at the Warren Methodist Church and the Lancaster County Retired Teachers Association, I have had conversations with Mrs. Bruce Nichol at Miller's Book Store and with Dr. Donald Danker at the Historical Society. Now, <del>have</del> I have a plan that might help to offset some of the expenses of your transportation, since the church and the Teachers both are lacking in funds for such a worthy cause.</p>
+                
+                <p>Would you be willing to participate in an autograph party at Millers' while you are in Lincoln? Mrs. Nichol would make the usual arrangements for this and promote the advertising, and she wil write to you if this is agreeable with you. We certainly would hope this would not be too tiring for you; I remember you said the affair at Miller's in October 1965 <unclear>had</unclear> tired your arm. All groups concerned would be very appreciative of this feature of your visit, and would give publicity.</p>
+                
+                <p>Remember, you are welcome to be our guest more than the April 2nd and 3rd dates if you can spend more time here. If your time is limited we will plan the time for all phases of the trip to best suit your desires. Mrs. Nichol seems to favor a Saturday autographing session if possible. Perhaps this could be done if you could arrive here Friday. Monday afternoon would be best from teh standpoitn of the publicity at the forenoon program, but that might be too much activity for you in one day. Tuesday would be good if you can stay over. Please advice me at your earliest convenience how you feel about this, and I'll call Mrs. Nichol at once.</p>
+                
+                <p>Dr. Danker expects to see you when you are here too, - we're all looking forward to your visit.</p>
+
+                <closer>
+                    <salute>Sincerely</salute>
+                    
+                    <signed>Julius D. Young</signed>
+
+                </closer>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

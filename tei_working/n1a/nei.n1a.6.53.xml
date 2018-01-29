@@ -1,15 +1,187 @@
 <?xml version="1.0" encoding="UTF-8"?>
-copy 
-to 
-J.G.Neihardt 
-5835 Vine St. 
-Lincoln, Nebr. 68505 
-Dec. 21, 1967 
-53
-Dear Gaki: 
-We received your two letters today written the 19th and 20th and have noted the news about the books, the autobiography and the January trips to K.C. and to Lincoln. 
-First, we are hoping you will spend as much time with as you wish and especially we want to help in any way to implement any programs or conferences you may have a part in. You just come as soon as you can and stay as long as you like - and we'll be happy. 
-The autobiography could really take shape while you are here. Rem^ember Art Ernst offered his services as typist, when we visited him last time you were here. The Youngs offer a good, warm "study" - with all good wishes and enthusiasm for the project. So come! 
-We don't know how your trip to K.C. will fit into your Lincoln "sojourn", but ^could the man from K.C. come here for you and return you here? We seem to recall that he was planning to fly for you in his own plane, - right? Have you had any more word from Wayne? 
-Myrtle will add a sheet to this. Season's Greetings to all the Skyrim folks. 
-As ever J.D. Young 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1a.6.53">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Julius Young to John G. Neihardt, December 21, 1967</title>
+                <author>Young, Julius</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1a.6.53</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Young, Julius</author>
+                    <title level="m" type="main">Letter from Julius Young to John G. Neihardt</title>
+                    <date when="1967-12-21">December 21, 1967</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 hand-written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="people">
+                    <term>Ernst, Arthur</term>
+                    <term>Young, Myrtle</term>
+                    <term>Young, Julius</term>
+                </keywords>
+                <keywords scheme="original" n="places">
+                    <term>Lincoln (Neb.)</term>
+                    <term>Kansas City (Mo.)</term>
+                </keywords>
+                <keywords scheme="original" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Young, Julius</persName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                    <date when="1967-12-21"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+                    <placeName ref="http://www.geonames.org/4575352">Columbia (Mo.)</placeName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+            </particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2017"><name>Weakly, Laura K.</name> correspDesc Encoding</change>
+            <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
+            <change when="2012-02-29"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
+            <change when="2011-11-28"><name xml:id="ep">Pedigo, Erin</name> Proofreading</change>
+            <change when="2011"><name xml:id="az">Zeljkovic</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.n1a.6.53.xml" />
+                <note type="curatorial">53</note>
+                <fw type="curatorial"></fw>
+                
+                <opener>
+                    copy
+                    <dateline>
+                        to 
+                        J.G.Neihardt 
+                        5835 Vine St. 
+                        Lincoln, Nebr. 68505 
+                        Dec. 21, 1967 
+
+                    </dateline>
+                    <salute>Dear Gaki:</salute>
+                </opener>
+                <p>We received your two letters today written the 19th and 20th and have noted the news about the books, the autobiography and the January trips to K.C. and to Lincoln.</p>
+                <p>First, we are hoping you will spend as much time with as you wish and especially we want to help in any way to implement any programs or conferences you may have a part in. You just come as soon as you can and stay as long as you like - and we'll be happy.</p> 
+                <p>The autobiography could really take shape while you are here. Rem^ember Art Ernst offered his services as typist, when we visited him last time you were here. The Youngs offer a good, warm "study" - with all good wishes and enthusiasm for the project. So come!</p>
+                <p>We don't know how your trip to K.C. will fit into your Lincoln "sojourn", but ^could the man from K.C. come here for you and return you here?</p>
+                <p>We seem to recall that he was planning to fly for you in his own plane, - right? Have you had any more word from Wayne?</p>
+                <p>Myrtle will add a sheet to this. Season's Greetings to all the Skyrim folks.</p>
+                
+
+            <closer>
+                <salute>As ever</salute> <signed>J. D. Young</signed>
+
+            </closer>
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

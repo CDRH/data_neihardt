@@ -1,25 +1,194 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Department of Speech 
-COLLEGE OF LIBERAL ARTS 21
-Rhetoric and Public Address
-Speech Education 
-Radio-Television 
-Speech Pathology and Audiology
-Theatre
-UNIVERSITY OF OREGON <figure/> 
-EUGENE, OREGON 97403
-telephone (code 503) 342-1411
-March 5, 1971
-Dr. John G. Neihardt
-5835 Vine Street
-Lincoln, Nebraska 68505
-Dear John: 
-Your welcome letter of March 3 arrived as I was on the point of mailing you the enclosed photocopy of the lead article in the current College English. As you know, College English is one of the most influential journals in its field, and the article should be helpful in the resurgence of the Neihardt story in the colleges. I suggest that you send it to Dick Cavett with some special mark to see that he receives it, for I share your view that he does not see most of his mail. I would send it to him myself, but he is not likely to have a letter from me brought to his attention, whereas one from you would doubtless be read. 
-Thank you for reminding me about Jed Smith. The massacre on the Umpqua still leaves the story one of immediate interast to Cre-gonians and will doubtless provide an entree for the program that Dr. Shepherd wishes to do. 
-Lucile is steadily at work on the revision of the manuscript. I have come to believe that the reduction will not only make the book more readily availabe but may improve it for the general reader. Since the complete version will be available in Xeros to those scholars who work in libraries, I suppose there is no loss. I hope that the publisher will bring out a paperback in due course, so that everyone can have a copy. 
-I am delighted to learn that you have signed the option for the movie rights. Keep in touch and let us hear all the news. 
-Affectionately,
-Bower
-Bower Aly 
-BA:mo
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1a.10.21">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Bower Aly to John G. Neihardt, March 5, 1971</title>
+                <author>Aly, Bower, 1903-1977</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1a.10.21</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Black Elk, Benjamin, ?-1973</author>
+                    <title level="m" type="main">Letter from Bower Aly to John G. Neihardt</title>
+                    <date when="1971-03-05">March 5, 1971</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="people">
+                    <term>Shepherd, John R.</term>
+                    <term>Cavett, Dick</term>
+                    <term>Aly, Lucile Folse, 1913-</term>
+                    <term>Smith, Jedediah Strong, 1799-1831</term>
+                    <term>Aly, Bower, 1903-1977</term>
+                </keywords>
+                <keywords scheme="original" n="places">
+                    <term>Eugene (Or.)</term>
+                    <term>Lincoln (Neb.)</term>
+                </keywords>
+                <keywords scheme="original" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Aly, Bower, 1903-1977</persName>
+                    <placeName ref="http://www.geonames.org/5725846">Eugene (Or.)</placeName>
+                    <date when="1971-03-05"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+            </particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2017"><name>Weakly, Laura K.</name> correspDesc Encoding</change>
+            <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
+            <change when="2012-02-29"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
+            <change when="2011-11-28"><name xml:id="ep">Pedigo, Erin</name> Proofreading</change>
+            <change when="2011"><name xml:id="az">Zeljkovic</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.n1a.10.21.xml"/>
+                <note type="curatorial">21</note>
+                <note type="authorial"></note>
+                <fw type="authorial">
+                    Department of Speech
+                    COLLEGE OF LIBERAL ARTS 19
+                    Rhetoric and Public Address
+                    Speech Education 
+                    Radio Television 
+                    Speech Pathology and Audiology 
+                    Theatre
+                    UNIVERSITY OF OREGON <figure/> 
+                    EUGENE, OREGON 97403
+                    telephone (code 503) 342-1411
+                </fw>
+                
+                <dateline>March 5, 1971</dateline>
+                
+                <fw type="address">
+                    Dr. John G. Neihardt
+                    5835 Vine Street 
+                    Lincoln, Nebraska 68505
+                </fw>
+                
+                <salute>Dear John:</salute>
+                
+                <p>Your welcome letter of March 3 arrived as I was on the point of mailing you the enclosed photocopy of the lead article in the current College English. As you know, College English is one of the most influential journals in its field, and the article should be helpful in the resurgence of the Neihardt story in the colleges. I suggest that you send it to Dick Cavett with some special mark to see that he receives it, for I share your view that he does not see most of his mail. I would send it to him myself, but he is not likely to have a letter from me brought to his attention, whereas one from you would doubtless be read.</p> 
+                <p>Thank you for reminding me about Jed Smith. The massacre on the Umpqua still leaves the story one of immediate interast to Cre-gonians and will doubtless provide an entree for the program that Dr. Shepherd wishes to do.</p> 
+                <p>Lucile is steadily at work on the revision of the manuscript. I have come to believe that the reduction will not only make the book more readily availabe but may improve it for the general reader. Since the complete version will be available in Xeros to those scholars who work in libraries, I suppose there is no loss. I hope that the publisher will bring out a paperback in due course, so that everyone can have a copy.</p> 
+                <p>I am delighted to learn that you have signed the option for the movie rights. Keep in touch and let us hear all the news.</p> 
+                <salute>Affectionately,</salute>
+                <signed>Bower</signed>
+                <signed>Bower Aly</signed> 
+                
+                <note>BA:mo</note>
+
+            </div1>
+        </body>
+    </text>
+</TEI>

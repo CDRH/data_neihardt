@@ -1,13 +1,182 @@
 <?xml version="1.0" encoding="UTF-8"?>
-7
-1123 McAllister Ave
-<unclear>Tempe</unclear>, Ariz. 85281
-Oct. 8, 1966
-Dear Mr. Neihardt
-Flaming Rainbow - How <unclear/>! 
-Well, you have me hanging on the rope. I must get a copy of "When the Tree Flowered" - I've just finished reading the "Cycle of the West" and rereading "Black Elk Speaks" and now I must see how you handle the "mysteries", the "feel" for and of the people, as I understand in the essence of the stories told in "When the Tree Flowered". 
-Thank you for your kind reply to my letter of introduction. I note that it was written Sept. 21st - the day that I <unclear/> to purgery here in <unclear/>. Then in Sunday, Sept. 25th, I <unclear/> to have a mild heart attack! So, I am in the midst of a rather long - forced "rest". Fortunately all is going well so that since October 2nd I have been able to continue my recuperation at <unclear/>. This of course gave me an opportunity to again read your works mentioned above - 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-8
-2
-and to read them slowly, thoughtfully, with time to reread passages for the real savoring of thoughts and "atmosphere", or "mood" creating word assembly. Altogether, a grand and pleasurable experience. What a master of the word, what a singer of the epic mood, what a story teller you are - Tae-Nuga-wut??
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1a.4.7-13">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter to John G. Neihardt, Oct. 8, 1966</title>
+                <author></author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1a.4.7-13</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note>This letter is not in the contents page?</note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author></author>
+                    <title level="m" type="main">Letter to John G. Neihardt</title>
+                    <date when="1966-10-08">Oct. 8, 1966</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 hand-written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="people">
+                    <term>Tae-Nuga-wut</term>
+                </keywords>
+                <keywords scheme="original" n="places">
+                    <term>Tempe (Ariz.)</term>
+                </keywords>
+                <keywords scheme="original" n="works">
+                    <term>When the Tree Flowered: The Story of Eagle Voice, a Sioux Indian</term>
+                    <term>A Cycle of the West</term>
+                    <term>Black Elk Speaks</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName></persName>
+                    <placeName></placeName>
+                    <date when="1966-10-08"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+                    <placeName ref="http://www.geonames.org/4575352">Columbia (Miss.)</placeName>
+                    <date when="1966-10-08"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+            </particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2017"><name>Weakly, Laura K.</name> correspDesc Encoding</change>
+            <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
+            <change when="2012-02-29"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
+            <change when="2011-11-28"><name xml:id="ep">Pedigo, Erin</name> Proofreading</change>
+            <change when="2011"><name xml:id="az">Zeljkovic</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.n1a.4.7-13" />
+                <note type="curatorial">7</note>
+                <fw type="curatorial"></fw>
+                
+                <opener>
+                    1123 McAllister Ave
+                    <unclear>Tempe</unclear>, Ariz. 85281
+                    <dateline>
+                        Oct. 8, 1966
+                    </dateline>
+
+                    <salute>Dear Mr. Neihardt</salute>
+                </opener>
+                <p>Flaming Rainbow - How <unclear/>!</p>
+                <p>Well, you have me hanging on the rope. I must get a copy of "When the Tree Flowered" - I've just finished reading the "Cycle of the West" and rereading "Black Elk Speaks" and now I must see how you handle the "mysteries", the "feel" for and of the people, as I understand in the essence of the stories told in "When the Tree Flowered".</p>
+                <p>Thank you for your kind reply to my letter of introduction. I note that it was written Sept. 21st - the day that I <unclear/> to purgery here in <unclear/>. Then in Sunday, Sept. 25th, I <unclear/> to have a mild heart attack! So, I am in the midst of a rather long - forced "rest".</p>
+                <p>Fortunately all is going well so that since October 2nd I have been able to continue my recuperation at <unclear/>. This of course gave me an opportunity to again read your works mentioned above -</p>   
+            </div1>
+            
+                <pb facs="nei.n1a.4.7-13"/>
+                <fw type="authorial">2</fw>
+                <fw type="curatorial">8</fw>
+                
+                <p>and to read them slowly, thoughtfully, with time to reread passages for the real savoring of thoughts and "atmosphere", or "mood" creating word assembly. Altogether, a grand and pleasurable experience. What a master of the word, what a singer of the epic mood, what a story teller you are - Tae-Nuga-wut??</p>
+
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

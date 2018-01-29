@@ -1,14 +1,188 @@
 <?xml version="1.0" encoding="UTF-8"?>
-J.G. Neihardt 
-5835 Vine Street 
-Lincoln, Nebraska 68505
-August 10, 1967
-46
-Dear Friend: 
-We are pleased to learn from yours of August 8th that you arrived home safely. Thanks for your kind of expression of friendship to us. The pleasure is ours and we enjoy your visits greatly. The trips to Grand Island and Bancroft will remain among our delightful memories too. Of course, the memory highlight goes back to 1923 and the Grand! 
-We can picture the greeting your received from Jacquot! He knew he had played "second-fiddle" to the great-grandson who out-ranked him on the Bancroft trip. Congratulations to Alice and all concerned on the success of the stallion. You mentioned being visited by young people while writing to us. The adoration of young and old alike is a great compliment to you: we have seen this demonstrated many times. Magnificient! 
-Our Texas friends with the 3 young folks left for Omaha and Wausa Monday p.m. The rock-hound couple from Salt Lake City went to   Minneapolis via Omaha soon after we left for Bancroft. All had a joyous and never-to-be-forgotten visit here with you. They appreciated very much the kind thoughts you included with the autographs you gave in all the books. I mailed the ones to my niece in Denver too, in which you mentioned her interest in E.S.P.
-I hope you are able to obtain the copies you wanted of Dr. House's book from Wayne Book Store. Mine are being donated to friends and institutions, but I have some left to keep.  We presented one (by mail) to Stuhr Museum (Dr. Shaeffer) and to Neihardt Study (Mrs. Vogt) you had autographed them here. 
-Do you still feel that you want to make a trip in our car to Lemmon S.D. next month, as we mentioned. We could leave after Sept. 10th to be gone not much over a week. We must be back in Lincoln a few days before our Gem Club show Sept 22, 23, 24. Would like to have you exhibit some of yoru work and attend some of the show at Pershing Municipal Auditorium if possible. Note the enclosed program sheet. We already miss you and hope to see you again soon. 
-As ever
-Julius D. Young 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1a.6.46">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Julius Young to John G. Neihardt, August 10, 1967</title>
+                <author>Young, Julius</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1a.6.46</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Young, Julius</author>
+                    <title level="m" type="main">Letter from Julius Young to John G. Neihardt</title>
+                    <date when="1967-08-10">August 10, 1967</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 hand-written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="people">
+                    <term>Young, Julius</term>
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="places">
+                    <term>Lincoln (Neb.)</term>
+                    <term>Grand Island (Neb.)</term>
+                    <term>Bancroft (Neb.)</term>
+                    <term>Columbia (Mo.)</term>
+                    <term>Salt Lake City (Utah)</term>
+                    <term>Missouri</term>
+                    <term>Oregon</term>
+                </keywords>
+                <keywords scheme="original" n="works">
+                    <term>John G. Neihardt, Man and Poet</term>
+                    <term>Omaha World-Herald</term>
+                </keywords>
+            </textClass>
+            <correspDesc ref="">
+                <correspAction type="sentBy">
+                    <persName>Young, Julius</persName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                    <date when="1967-08-10"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+                    <placeName ref="http://www.geonames.org/4575352">Columbia (Mo.)</placeName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+            </particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2017"><name>Weakly, Laura K.</name> correspDesc Encoding</change>
+            <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
+            <change when="2012-02-29"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
+            <change when="2011-11-28"><name xml:id="ep">Pedigo, Erin</name> Proofreading</change>
+            <change when="2011"><name xml:id="az">Zeljkovic</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.n1a.6.46.xml" />
+                <note type="curatorial">46</note>
+                <fw type="curatorial"></fw>
+                
+                <opener>
+                    <dateline>
+                        J.G. Neihardt 
+                        5835 Vine Street 
+                        Lincoln, Nebraska 68505
+                        August 10, 1967
+
+                    </dateline>
+                    <salute>Dear Friend:</salute>
+                </opener>
+                <p>We are pleased to learn from yours of August 8th that you arrived home safely. Thanks for your kind of expression of friendship to us. The pleasure is ours and we enjoy your visits greatly. The trips to Grand Island and Bancroft will remain among our delightful memories too. Of course, the memory highlight goes back to 1923 and the Grand!</p>
+                <p>We can picture the greeting your received from Jacquot! He knew he had played "second-fiddle" to the great-grandson who out-ranked him on the Bancroft trip. Congratulations to Alice and all concerned on the success of the stallion. You mentioned being visited by young people while writing to us. The adoration of young and old alike is a great compliment to you: we have seen this demonstrated many times. Magnificient!</p>
+                <p>Our Texas friends with the 3 young folks left for Omaha and Wausa Monday p.m. The rock-hound couple from Salt Lake City went to   Minneapolis via Omaha soon after we left for Bancroft. All had a joyous and never-to-be-forgotten visit here with you. They appreciated very much the kind thoughts you included with the autographs you gave in all the books. I mailed the ones to my niece in Denver too, in which you mentioned her interest in E.S.P.</p>
+                <p>I hope you are able to obtain the copies you wanted of Dr. House's book from Wayne Book Store. Mine are being donated to friends and institutions, but I have some left to keep.  We presented one (by mail) to Stuhr Museum (Dr. Shaeffer) and to Neihardt Study (Mrs. Vogt) you had autographed them here.</p>
+                <p>Do you still feel that you want to make a trip in our car to Lemmon S.D. next month, as we mentioned. We could leave after Sept. 10th to be gone not much over a week. We must be back in Lincoln a few days before our Gem Club show Sept 22, 23, 24. Would like to have you exhibit some of yoru work and attend some of the show at Pershing Municipal Auditorium if possible. Note the enclosed program sheet. We already miss you and hope to see you again soon.</p>
+
+            <closer>
+                <salute>As ever</salute>
+                <signed>Julius D. Young</signed>
+            </closer>
+            </div1>
+        </body>
+
+        <back></back>
+    </text>
+</TEI>

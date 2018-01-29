@@ -1,23 +1,215 @@
 <?xml version="1.0" encoding="UTF-8"?>
-1
-THE PORTLAND HIGH SCHOOL CURRICULUM STUDY
-631 NORTHEAST CLACKAMAS STREET
-PORTLAND 8, OREGON
-Albert R. Kitzhaber
-Director
-July 25, 1960
-Dear John: 
-I have just received your letter. It awaited me on my return from teaching out at the Center. I'm glad that you enjoyed your visit with us--you know that you are always welcome. I'd like to think that you count our place as one of your homes. I know that you have a number of them--Skyrim, and the home of each of your children; but I am confident that you have none in which you are more welcome or more cherished. You were a friend of mine long before you ever saw me. 
-Lucile is en route to Texas, where she will visit with her father and mother and pick up our big (little is a naughty word in our house now) boy and bring him home. Martha is in Pullman visiting with her new nephew and his parents. We have left Beverly, who will always remember you with such pleasure, to care for the house--and the dogs! Martha will come back to Portland on Friday and I will take her to Eugene with me. 
-Take care of yourself and let us hear from you. 
-As ever,
-Bower
-P.S. I enclose the receipt for your books. The boy did a good job I think and was glad to do it. 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-2
-PORTLAND JUL 25 830 PM 5 1960 OREG.
-ABILITY COUNTS
-UNITED STATES POSTAGE FOUR4CENTS
-Dr. John G. Neihardt
-Skyrim Farm, Route 7
-Columbia, Missouri 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1a.3.1-2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Bower Aly to John G. Neihardt, July 25, 1960</title>
+                <author>Aly, Bower, 1903-1977</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1a.3.1-2</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Aly, Bower, 1903-1977</author>
+                    <title level="m" type="main">Letter from Bower Aly to John G. Neihardt</title>
+                    <date when="1960-07-25">July 25, 1960</date>
+                    <extent>1 pages, plus envelope</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page, plus envelope</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page, plus envelope
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="people">
+                    <term>Aly, Lucile Folse, 1913-</term>
+                    <term>Aly, Martha</term>
+                    <term>Aly, Beverly</term>
+                    <term>Aly, Bower, 1903-1977</term>
+                </keywords>
+                <keywords scheme="original" n="places">
+                    <term>Portland (Or.)</term>
+                    <term>Columbia (Mo.)</term>
+                    <term>Texas</term>
+                    <term>Pullman (Wash.)</term>
+                    <term>Portland (Or.)</term>
+                    <term>Eugene (Or.)</term>
+                </keywords>
+                <keywords scheme="original" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName ref="http://viaf.org/viaf/111613405">Aly, Bower, 1903-1977</persName>
+                    <placeName ref="http://www.geonames.org/5746545">Portland (Or.)</placeName>
+                    <date when="1960-07-25"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+                    <placeName></placeName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+            </particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2017"><name>Weakly, Laura K.</name> correspDesc Encoding</change>
+            <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
+            <change when="2012-02-29"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
+            <change when="2011-11-28"><name xml:id="ep">Pedigo, Erin</name> Proofreading</change>
+            <change when="2011"><name xml:id="az">Zeljkovic</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.n1a.3.1-2"/>
+                <note type="curatorial">1</note>
+                <fw type="curatorial">THE PORTLAND HIGH SCHOOL CURRICULUM STUDY</fw>
+                
+                <opener>
+                    <address>
+                        <addrLine>
+                        631 NORTHEAST CLACKAMAS STREET
+                        PORTLAND 8, OREGON
+                        </addrLine>
+                    </address>
+                        
+                    <fw type="list">
+                        Albert R. Kitzhaber
+                        Director
+                    </fw>
+         
+         <dateline>
+             July 25, 1960
+         </dateline>
+         
+                    <salute>Dear John:</salute>
+                </opener>
+                <p>I have just received your letter. It awaited me on my return from teaching out at the Center. I'm glad that you enjoyed your visit with us--you know that you are always welcome. I'd like to think that you count our place as one of your homes. I know that you have a number of them--Skyrim, and the home of each of your children; but I am confident that you have none in which you are more welcome or more cherished. You were a friend of mine long before you ever saw me.</p>
+                
+                <p>Lucile is en route to Texas, where she will visit with her father and mother and
+                    pick up our big (little is a naughty word in our house now) boy and bring him home. Martha is in Pullman visiting with her new nephew and his parents. We have left Beverly, who will always remember you with such pleasure, to care for the house--and the dogs! Martha will come back to Portland on Friday and I will take her to Eugene with me.</p>
+                
+                <p>Take care of yourself and let us hear from you.</p>
+                
+                <closer>
+                    <salute>As ever,</salute>
+                    
+                    <signed>Bower</signed>
+
+                </closer>
+                <postscript><p>P.S. I enclose the receipt for your books. The boy did a good job I
+                    think and was glad to do it.</p></postscript>
+              
+
+            </div1>
+            <div1 type="envelope">
+                <pb facs="nei.n1a.3.1-2"/>
+                <ab type="recipient">
+                    2
+                    PORTLAND JUL 25 830 PM 5 1960 OREG.
+                    ABILITY COUNTS
+                    UNITED STATES POSTAGE FOUR4CENTS
+                    Dr. John G. Neihardt
+                    Skyrim Farm, Route 7
+                    Columbia, Missouri
+                </ab>
+            </div1>
+        </body>
+        <back></back>
+    </text>
+</TEI>

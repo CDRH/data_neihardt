@@ -1,22 +1,259 @@
 <?xml version="1.0" encoding="UTF-8"?>
-1
-UNIVERSITY OF OREGON
-COLLEGE OF LIBERAL ARTS
-EUGENE, OREGON 
-April 3, 1958
-DEPARTMENT OF SPEECH 
-DRAMA
-PUBLIC SPEAKING 
-RADIO-TELEVISION
-SPEECH CORRECTION 
-Mr. John G. Neihardt
-University of Missouri
-Columbia, Missouri 
-Dear John: 
-Many thanks for your good letter of March 23 which arrived during my recent trek to Eastern Oregon. I traveled up the Columbia River Gorge as far as Pendleton and watched a good many of the rivers, including the Snake, empty into the tremendously signigicant and provocative Columbia. 
-I certainly appreciated your characteristically good and gracious letter. I share with you the feeling that Lucile must have been sent for the work she is doing. She is certainly giving her complete mind and energy to the task. I am troubled as you are about  the difficulties of documentation and about the tendency to error where documentation cannot be provided. That is why I am so deeply concerned that all manuscripts should be safeguarded. Mr. Leslie Bliss of the Huntington LIbrary was here to see us today. he is interested in housing the Neihardt collection, and I am confident that the Huntington would exercise every proper care for all the materials, including some that will deteriorate within a few years. Mr. Bliss was not certain that he could provide photostats. I think he should, and perhaps he will be able to when he consults his ex-chequer. If he is not able to provide the photostats, I would suggest a contact with the New York Public Library which would provide equally meticulous care for the documents. I would have suggested the New York earlier except for the thought that Mrs. Ryskind might be more willing to see her collection in the Huntington than in New York. 
-But my prime intent is to see that the materials are safeguarded and made available to future scholars. I shall let you know what trans-spires and of course I shall not do anything without your approval. 
-Sincerely yours, 
-Bower
-Bower Aly 
-BA:ml
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1a.2.1-2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Bower Aly to John G. Neihardt, April 3, 1958</title>
+                <author>Aly, Bower, 1903-1977</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1a.2.1-2</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Aly, Bower, 1903-1977</author>
+                    <title level="m" type="main">Letter from Bower Aly to John G. Neihardt</title>
+                    <date when="1958-04-03">April 3, 1958</date>
+                    <extent>1 page and 1 envelope</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page and 1 envelope</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page and 1 envelope
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="people">
+                    <term>Aly, Bower, 1903-1977</term>
+                    <term>Aly, Lucile Folse, 1913-</term>
+                    <term>Bliss, Leslie</term>
+                    <term>Ryskind, Mary House</term>
+                </keywords>
+                <keywords scheme="original" n="places">
+                    <term>Columbia River Gorge</term>
+                    <term>Pendleton (Or.)</term>
+                    <term>Snake River</term>
+                    <term>Columbia (Mo.)</term>
+                </keywords>
+                <keywords scheme="original" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName ref="http://viaf.org/viaf/111613405">Aly, Bower, 1903-1977</persName>
+                    <placeName ref="http://www.geonames.org/5725846">Eugene (Or.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+                    <placeName ref="http://www.geonames.org/4575352">Columbia (Mo.)</placeName>
+                    <date when="1958-04-03"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+            </particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2017"><name>Weakly, Laura K.</name> correspDesc Encoding</change>
+            <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
+            <change when="2012-02-29"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
+            <change when="2011-11-28"><name xml:id="ep">Pedigo, Erin</name> Proofreading</change>
+            <change when="2011"><name xml:id="az">Zeljkovic</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.n1a.2.1-2"/>
+                <note type="curatorial">1</note>
+                <fw type="curatorial">
+                    UNIVERSITY OF OREGON
+                    COLLEGE OF LIBERAL ARTS
+                    EUGENE, OREGON
+                </fw>
+                
+                <opener>
+                    <dateline>
+                        April 3, 1958
+                    </dateline>
+                    
+                    <address>
+                        <addrLine>
+                        DEPARTMENT OF SPEECH 
+                        DRAMA
+                        PUBLIC SPEAKING 
+                        RADIO-TELEVISION
+                        SPEECH CORRECTION
+                        </addrLine>
+                    </address>
+                    
+                    <address>
+                        <addrLine>
+                            Mr. John G. Neihardt
+                            University of Missouri
+                            Columbia, Missouri 
+                        </addrLine>
+                    </address>
+
+                    <salute>Dear John:</salute>
+                </opener>
+                <p>Many thanks for your good letter of March 23 which arrived during my recent trek to Eastern Oregon. I traveled up the Columbia River Gorge as far as Pendleton and watched a good many of the rivers, including the Snake, empty into the tremendously signigicant and provocative Columbia.</p>
+                <p>I certainly appreciated your characteristically good and gracious letter. I share
+                    with you the feeling that Lucile must have been sent for the work she is doing. She is certainly giving her complete mind and energy to the task. I am troubled as you are about  the difficulties of documentation and about the tendency to error where documentation cannot be provided. That is why I am so deeply concerned that all manuscripts should be safeguarded. Mr. Leslie Bliss of the Huntington LIbrary was here to see us today. he is interested in housing the Neihardt collection, and I am confident that the Huntington would exercise every proper care for all the materials, including some that will deteriorate within a few years. Mr. Bliss was not certain that he could provide photostats. I think he should, and perhaps he will be able to when he consults his ex-chequer. If he is not able to provide the photostats, I would suggest a contact with the New York Public Library which would provide equally meticulous care for the documents. I would have suggested the New York earlier except for the thought that Mrs. Ryskind might be more willing to see her collection in the Huntington than in New York.</p>
+                    <p>But my prime intent is to see that the materials are safeguarded and made available to future scholars. I shall let you know what trans-spires and of course I shall not do anything without your approval.</p>
+
+                <closer>
+                    <salute>Sincerely yours,</salute>
+                    
+                    <signed>Bower</signed>
+                    <signed>Bower Aly</signed>
+                    
+                    <note>BA:ml</note>
+                </closer>
+                
+            </div1>
+            
+            <div1 type="envelope">
+                
+                <pb facs="nei.n1a.2.1-2"/>
+                <note type="curatorial">2</note>
+                <fw type="curatorial"></fw>
+                
+                <ab type="return">
+                    <address>
+                        <addrLine>
+                            209 Villard Hall
+                            UNIVERSITY OF OREGON
+                            DEPARTMENT OF SPEECH
+                            EUGENE, OREGON
+                        </addrLine>
+                    </address>
+                </ab>
+                
+                <ab type="postmark">
+                    EUGENE 
+                    APR 4
+                    730 PM
+                    1958
+                    OREG.
+                </ab>
+                
+                <figure>
+                    <p>
+                    STRIKE BACK AT CANCER
+                    GIVE TO
+                    AMERICAN CANCER SOCIETY
+                    </p>
+                </figure>
+
+                <figure>
+                    <p>
+                        UNITED STATES POSTAGE THREE 3 CENTS
+                    </p>
+                </figure>
+                    
+                    <ab type="address">
+                        <address>
+                        <addrLine>
+                            Mr. John G. Neihardt
+                            University of Missouri
+                            Columbia, Missouri
+                        </addrLine>
+                        </address>
+                    </ab>
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

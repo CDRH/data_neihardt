@@ -1,14 +1,187 @@
 <?xml version="1.0" encoding="UTF-8"?>
-39
-HASTINGS MUSEUM
-HASTINGS, NEBRASKA, 68901
-NOV. 18, 1968
-DEAR DR. NEIHARDT,
-I HAVE LIVED ONLY 38 YEARS, BUT I HAVE COME TO REALIZE THAT IN EVERY MAN'S LIFE THERE ARE MOMENTS WHICH ARE JEWELS TO BE PUT IN HIS TREAURE CHEST OF MEMORIES. 
-LAST SATURDAY NIGHT AT THE STHUR MUSEUM YOU GAVE MY WIFE AND I A WHOLE STRING OF PEARLS. 
-TO HEAR YOU RECITE YOUR OWN WORK MADE SUCH A DIFFERENCE. I HAVE ALWAYS FELT WHEN I READ A POEM OR LYRIC MYSELF, IT WAS LIKE PLAYING A FLUTE SONG ON THE TUBA - AND YOU PROVED ME RIGHT! THE PITCH, INFLECTION ETC. OF YOUR OWN VOICE MADE IT RIGHT. 
-THANK YOU AGAIN FOR A WONDERFUL MEMORY. 
-SINCERELY,
-BURTON R. NELSON DIR.
-HASTINGS MUSEUM
-J.M. MCDONALD PLANETARIUM . HOUSE OF YESTERDAY 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1a.7.39">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Burton R. Nelson to John G. Neihardt, November 18, 1968</title>
+                <author>Nelson, Burton R.</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1a.7.39</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Nelson, Burton R.</author>
+                    <title level="m" type="main">Letter from Burton R. Nelson to John G. Neihardt</title>
+                    <date when="1968-11-18">November 18, 1968</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 handwritten page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="people">
+                    <term>Nelson, Burton R.</term>
+                </keywords>
+                <keywords scheme="original" n="places">
+                    <term>Hastings (Neb.)</term>
+                </keywords>
+                <keywords scheme="original" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc ref="">
+                <correspAction type="sentBy">
+                    <persName>Nelson, Burton R.</persName>
+                    <placeName ref="http://www.geonames.org/5069802">Hastings (Neb.)</placeName>
+                    <date when="1968-11-18"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+            </particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2017"><name>Weakly, Laura K.</name> correspDesc Encoding</change>
+            <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
+            <change when="2012-02-29"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
+            <change when="2011-11-28"><name xml:id="ep">Pedigo, Erin</name> Proofreading</change>
+            <change when="2011"><name xml:id="az">Zeljkovic</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.n1a.7.39.xml"/>
+                <note type="curatorial">39</note>
+                <fw type="authorial">HASTINGS MUSEUM</fw>
+                
+                <opener>
+                    
+                    <address>
+                        <addrLine>
+                            HASTINGS, NEBRASKA, 68901
+                        </addrLine>
+                    </address>
+                    
+                    <dateline>
+                        NOV. 18, 1968
+                    </dateline>
+                    
+                    <salute>DEAR DR. NEIHARDT,</salute>
+                </opener>
+                
+                <p>I HAVE LIVED ONLY 38 YEARS, BUT I HAVE COME TO REALIZE THAT IN EVERY MAN'S LIFE THERE ARE MOMENTS WHICH ARE JEWELS TO BE PUT IN HIS TREAURE CHEST OF MEMORIES.</p>
+                <p>LAST SATURDAY NIGHT AT THE STHUR MUSEUM YOU GAVE MY WIFE AND I A WHOLE STRING OF PEARLS.</p>
+                <p>TO HEAR YOU RECITE YOUR OWN WORK MADE SUCH A DIFFERENCE. I HAVE ALWAYS FELT WHEN I READ A POEM OR LYRIC MYSELF, IT WAS LIKE PLAYING A FLUTE SONG ON THE TUBA - AND YOU PROVED ME RIGHT! THE PITCH, INFLECTION ETC. OF YOUR OWN VOICE MADE IT RIGHT.</p>
+                <p>THANK YOU AGAIN FOR A WONDERFUL MEMORY.</p>
+                
+                <closer>
+                    <salute>SINCERELY,</salute>
+                    <signed>BURTON R. NELSON DIR.</signed>
+                    <signed>HASTINGS MUSEUM</signed>
+                </closer>
+                
+                <note>J.M. MCDONALD PLANETARIUM . HOUSE OF YESTERDAY</note>
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

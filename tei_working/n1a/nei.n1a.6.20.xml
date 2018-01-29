@@ -1,12 +1,187 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Carbon J.G.N. April 20, 1967
-5835 Vine Street 
-Lincoln, Nebraska
-April 20, 1967
-20
-Dear Friend:
-Yours of April 19th at hand and we are glad to know you may be with us again soon. I contacted the Lincoln Tour and Travel agency regarding transportation to Portland, both by rail and by plane, as you requested. I assume that the trip from Portland to Eugene did not need to be  considered. 
-First of all, the fare as quoted for first class one-way was: U.P. railroad $69_84 Omaha to Portland; United Airline $109_10. The train leaves Omaha at 11:35p.m. and arrives at Portland at 9 a.m. with one whole day between. For example, Lv monday 11:35 p.m. arrive Portland Wed. 9:00 a.m. apparently no changes of train are involved. United Airline plane would leave Omaha at 8:35 a.m. (our time) and arrive Portland at 12:13 noon (their time) same day. Another plane leaves at 11:51 a.m. and arrives at 4:23, and I believe the girl said there is still another later in the day. The times of leaving and arriving refer to present standard times, and are subject to change when "daylight" time schedules go in effect May 1. There is a change of plane at Denver, with 30 min. wait, but same air port. 
-From the above you will note that the departure is from Omaha, not Lincoln. We will gladly drive ^you to Omaha for either the train or plane contact. Also, regarding fares, the quotation for round trip for either mode seemed to be just double the one-way fare. As soon as you know for sure the day and mode of travel you desire, reservation should be made at once. Let us know if you want us to make all arrangements. Also we want you to spend ample time here before going to Portland. Our home bids you welcome as always, and remember this includes members of your family. I visited with Dr. Danker this afternoon, and he'll look up the Writers Project file with the Elmer Holm report in it soon, and we can go down there with you to his office. 
-Sincerely
-Julius D. Young
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1a.6.20">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Julius Young to John G. Neihardt, April 20, 1967</title>
+                <author>Young, Julius</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1a.6.20</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Young, Julius</author>
+                    <title level="m" type="main">Letter from Julius Young to John G. Neihardt</title>
+                    <date when="1967-04-20">April 20, 1967</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 hand-written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="people">
+                    <term>Young, Julius</term>
+                    <term>Danker, Donald F. (Donald Floyd)</term>
+                    <term>Holm, Elmer E.</term>
+                </keywords>
+                <keywords scheme="original" n="places">
+                    <term>Lincoln (Neb.)</term>
+                    <term>Portland (Or.)</term>
+                    <term>Eugene (Or.)</term>
+                    <term>Omaha (Neb.)</term>
+                    <term>Denver (Co.)</term>
+                </keywords>
+                <keywords scheme="original" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc ref="">
+                <correspAction type="sentBy">
+                    <persName>Young, Julius</persName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                    <date when="1967-04-20"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+                    <placeName ref="http://www.geonames.org/4575352">Columbia (Mo.)</placeName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+            </particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2017"><name>Weakly, Laura K.</name> correspDesc Encoding</change>
+            <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
+            <change when="2012-02-29"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
+            <change when="2011-11-28"><name xml:id="ep">Pedigo, Erin</name> Proofreading</change>
+            <change when="2011"><name xml:id="az">Zeljkovic</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.n1a.6.20.xml" />
+                <note type="curatorial">20</note>
+                <fw type="curatorial"></fw>
+                
+                <opener>
+                    <note>Carbon J.G.N. April 20, 1967</note>
+                    <dateline>
+                        5835 Vine Street 
+                        Lincoln, Nebraska
+                        April 20, 1967
+
+                    </dateline>
+                    <salute>Dear Friend:</salute>
+                </opener>
+                <p>Yours of April 19th at hand and we are glad to know you may be with us again soon. I contacted the Lincoln Tour and Travel agency regarding transportation to Portland, both by rail and by plane, as you requested. I assume that the trip from Portland to Eugene did not need to be  considered.</p>
+                <p>First of all, the fare as quoted for first class one-way was: U.P. railroad $69_84 Omaha to Portland; United Airline $109_10. The train leaves Omaha at 11:35p.m. and arrives at Portland at 9 a.m. with one whole day between. For example, Lv monday 11:35 p.m. arrive Portland Wed. 9:00 a.m. apparently no changes of train are involved. United Airline plane would leave Omaha at 8:35 a.m. (our time) and arrive Portland at 12:13 noon (their time) same day. Another plane leaves at 11:51 a.m. and arrives at 4:23, and I believe the girl said there is still another later in the day. The times of leaving and arriving refer to present standard times, and are subject to change when "daylight" time schedules go in effect May 1. There is a change of plane at Denver, with 30 min. wait, but same air port.</p>
+                <p>From the above you will note that the departure is from Omaha, not Lincoln. We will gladly drive ^you to Omaha for either the train or plane contact. Also, regarding fares, the quotation for round trip for either mode seemed to be just double the one-way fare. As soon as you know for sure the day and mode of travel you desire, reservation should be made at once. Let us know if you want us to make all arrangements. Also we want you to spend ample time here before going to Portland. Our home bids you welcome as always, and remember this includes members of your family. I visited with Dr. Danker this afternoon, and he'll look up the Writers Project file with the Elmer Holm report in it soon, and we can go down there with you to his office.</p> 
+
+                <closer>
+                    <salute>Sincerely</salute>
+                    <signed>Julius D. Young</signed>
+                </closer>
+                
+            </div1>
+            
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

@@ -1,13 +1,185 @@
 <?xml version="1.0" encoding="UTF-8"?>
-To J.G. Neihardt
-July 24, 1967
-5835 Vine St. 
-Lincoln, Nebr. 68505
-July 24, 1967
-45
-Dear Friend: 
-We are so happy to know that you will be with us again soon. We understood from your phone call that you would fly to Lincoln Monday July 31, and that we would take you in our car to Grand Island august 1st a nd your would return with us to stay until the trip to Bancroft, and we we assume back again to Lincoln after the august 6th pageant. We mentioned some time ago that Rev. Art Ernst (Warren Methodist Pastor) wanted to be present at Bancroft and that he would drive you back to Columbia. Last week he had surgery on his spine and must remain in Bryon Memorial Hospital a few more days. After the returns home he will be incapacitated for some time; so I am sorry to say he won't be able to take you home. 
-We have several obstacles in the way the week following August 6th (house repairs on the rental property next door east is quite involved, also company coming from Salt Lake City) or we would gladly take you back to Columbia after the Bancroft affair. We hope to hear from you again soon telling more details about your desires in connection with the Grand Island and the Bancroft trips. Also let us know what meetings on conferences you would like to have us arrange for your time in Lincoln. 
-Sincerely
-Julius D. Young 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1a.6.45">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Julius Young to John G. Neihardt, July 24, 1967</title>
+                <author>Young, Julius</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1a.6.45</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Young, Julius</author>
+                    <title level="m" type="main">Letter from Julius Young to John G. Neihardt</title>
+                    <date when="1967-07-24">July 24, 1967</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 hand-written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="people">
+                    <term>Young, Julius</term>
+                    <term>Ernst, Arthur</term>
+                </keywords>
+                <keywords scheme="original" n="places">
+                    <term>Lincoln (Neb.)</term>
+                    <term>Grand Island (Neb.)</term>
+                    <term>Bancroft (Neb.)</term>
+                    <term>Columbia (Mo.)</term>
+                    <term>Salt Lake City (Utah)</term>
+                    <term>Missouri</term>
+                    <term>Oregon</term>
+                </keywords>
+                <keywords scheme="original" n="works">
+                    <term>John G. Neihardt, Man and Poet</term>
+                    <term>Omaha World-Herald</term>
+                </keywords>
+            </textClass>
+            <correspDesc ref="">
+                <correspAction type="sentBy">
+                    <persName>Young, Julius</persName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                    <date when="1967-07-24"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+                    <placeName ref="http://www.geonames.org/4575352">Columbia (Mo.)</placeName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+            </particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2017"><name>Weakly, Laura K.</name> correspDesc Encoding</change>
+            <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
+            <change when="2012-02-29"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
+            <change when="2011-11-28"><name xml:id="ep">Pedigo, Erin</name> Proofreading</change>
+            <change when="2011"><name xml:id="az">Zeljkovic</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.n1a.6.45.xml" />
+                <note type="curatorial">45</note>
+                <fw type="curatorial"></fw>
+                
+                <opener>
+                    <note>To J.G. Neihardt</note>
+                    <dateline>
+                        July 24, 1967
+                        5835 Vine St. 
+                        Lincoln, Nebr. 68505
+                        July 24, 1967
+                    </dateline>
+                    <salute>Dear Friend:</salute>
+                </opener>
+                <p>We are so happy to know that you will be with us again soon. We understood from your phone call that you would fly to Lincoln Monday July 31, and that we would take you in our car to Grand Island august 1st a nd your would return with us to stay until the trip to Bancroft, and we we assume back again to Lincoln after the august 6th pageant. We mentioned some time ago that Rev. Art Ernst (Warren Methodist Pastor) wanted to be present at Bancroft and that he would drive you back to Columbia. Last week he had surgery on his spine and must remain in Bryon Memorial Hospital a few more days. After the returns home he will be incapacitated for some time; so I am sorry to say he won't be able to take you home.</p>
+                <p>We have several obstacles in the way the week following August 6th (house repairs on the rental property next door east is quite involved, also company coming from Salt Lake City) or we would gladly take you back to Columbia after the Bancroft affair. We hope to hear from you again soon telling more details about your desires in connection with the Grand Island and the Bancroft trips. Also let us know what meetings on conferences you would like to have us arrange for your time in Lincoln.</p>
+
+            <closer>
+                <salute>Sincerely</salute>
+                <signed>Julius D. Young</signed>
+            </closer>
+            </div1> 
+        </body>
+
+        <back></back>
+    </text>
+</TEI>

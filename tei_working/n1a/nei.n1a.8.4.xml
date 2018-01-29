@@ -1,18 +1,196 @@
 <?xml version="1.0" encoding="UTF-8"?>
-4
-SAN DIEGO STATE COLLEGE 
-School of Social Work 
-February 1, 1969 
-Dear Mr. Neihardt, 
-Another student and I are currently engaged in a research project concerning the attitudes of a selected group of the most significant creative people of our time. We are graduate students doing research for our Master's Degree and would greatly appreciate your completing and returning to us the enclosed questionnaire. The questionnaire will only require about ten minutes of your time. For your convenience, we have enclosed a stamped self-addressed envelope. 
-This questionnaire is not a psychological or personality inventory, and your response will be guaranteed complete anonymity. However, in order to enable us to send out follow-up letters to those who do not respond, we have coded the return envelope. This code number will be obliterated before the envelope is opened, thus assuring you of remaining anonymous. 
-Because we have selected a small number of people who have achieved the recognition for their creative works, we are depending on your response. We would appreciate receiving your questionnaire within the next three weeks. We realize that your time is extremely valuable and want to thank you very much for your cooperation. 
-Sincerely yours,
-Sheila Sharpe
-(Mrs.) Sheila Sharpe 
-Enclosures: Questionnaire
-Return Envelope
-Mrs. Sheila Sharpe
-355 Gravilla Street
-La Jolla, California 92037
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1a.8.4">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Sheila Sharpe to John G. Neihardt, February 1, 1969</title>
+                <author>Sharpe, Sheila</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1a.8.4</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Sharpe, Sheila</author>
+                    <title level="m" type="main">Letter from Sheila Sharpe to John G. Neihardt</title>
+                    <date when="1969-02-01">February 1, 1969</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="people">
+                    <term>Sharpe, Sheila</term>
+                </keywords>
+                <keywords scheme="original" n="places">
+                    <term>San Diego (Calif.)</term>
+                    <term>La Jolla (Calif.)</term>
+                </keywords>
+                <keywords scheme="original" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName ref="https://viaf.org/viaf/50884752">Sharpe, Sheila</persName>
+                    <placeName></placeName>
+                    <date when="1969-02-01"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+                    <placeName></placeName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+            </particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2017"><name>Weakly, Laura K.</name> correspDesc Encoding</change>
+            <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
+            <change when="2012-02-29"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
+            <change when="2011-11-28"><name xml:id="ep">Pedigo, Erin</name> Proofreading</change>
+            <change when="2011"><name xml:id="az">Zeljkovic</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.n1a.8.4.xml"/>
+                <note type="curatorial">4</note>
+                <fw type="authorial">
+                    SAN DIEGO STATE COLLEGE 
+                    School of Social Work
+                </fw>
+                
+                <opener>
+                    <dateline>February 1, 1969</dateline>
+                    
+                    <salute>
+                        Dear Mr. Neihardt,
+                    </salute>
+                </opener>
+                
+                <p>Another student and I are currently engaged in a research project concerning the attitudes of a selected group of the most significant creative people of our time. We are graduate students doing research for our Master's Degree and would greatly appreciate your completing and returning to us the enclosed questionnaire. The questionnaire will only require about ten minutes of your time. For your convenience, we have enclosed a stamped self-addressed envelope.</p> 
+                <p>This questionnaire is not a psychological or personality inventory, and your response will be guaranteed complete anonymity. However, in order to enable us to send out follow-up letters to those who do not respond, we have coded the return envelope. This code number will be obliterated before the envelope is opened, thus assuring you of remaining anonymous.</p>
+                <p>Because we have selected a small number of people who have achieved the recognition for their creative works, we are depending on your response. We would appreciate receiving your questionnaire within the next three weeks. We realize that your time is extremely valuable and want to thank you very much for your cooperation.</p>
+                
+                <salute>Sincerely yours,</salute>
+                <signed>Sheila Sharpe</signed>
+                <signed>(Mrs.) Sheila Sharpe</signed>
+                
+                <note type="authorial">
+                    Enclosures: Questionnaire
+                    Return Envelope
+                </note>
+                
+                <fw type="return">
+                <address>
+                    <addrLine>
+                        Mrs. Sheila Sharpe
+                        355 Gravilla Street
+                        La Jolla, California 92037
+                    </addrLine>
+                </address>
+                </fw>
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

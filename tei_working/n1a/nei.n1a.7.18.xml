@@ -1,29 +1,202 @@
 <?xml version="1.0" encoding="UTF-8"?>
-O. MYKING MEHUS 18
-The Old Shepherd's Book Shop 
-Flag Route, Highway 76 W. 
-Branson, Missouri 65616
-June 28, 1968
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-My dear Dr. Neihardt,
-God gave us memory that we might have roses in December-so says the poet - and now I know you will not mind the "rocking chair" days if ever they come to you. - all of which means I've just read "The River an I: 
-
-In fact I came up stairs with the dawn to finish it - began last evening - thank you -
-Three of my mother's brothers and one of my Father's went west to Montana as youngsters -
-
-We often visited there - Once when draught came Uncle Joe with camp outfit  and
-family including Missouri relatives drove the stock from Musselshell to near Canadian border
-- Once he shipped near train load of horses to Missouri Market- 
-
-Then my grad Norweigan husband grew up just east of Devil's Lake N. D- you go to the farm -
-and the brother-in-law drives us over "townships."
-
-So I lived <unclear/> from Fort Benton. For once I taught in high school. 30 miles from the
-Fort a few years ago we stayed in the old hotel - not much changed-
-
-But best of all - was just you in the book. Thank you - do come back to Branson often - we so
-enjoyed you at the Library Club and the daughters, too. 
-
-Sincerely
-Jewell Ross Mehus
-(Mr. D. Myking Mehus.)
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1a.7.18">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Jewell Ross Mehus to John G. Neihardt, June 28, 1968</title>
+                <author>Mehus, Jewell Ross</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1a.7.18</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Mehus, Jewell Ross</author>
+                    <title level="m" type="main">Letter from Jewell Ross Mehus to John G. Neihardt</title>
+                    <date when="1968-06-28">June 28, 1968</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 handwritten page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="people">
+                    <term>Mehus, Jewell Ross</term>
+                </keywords>
+                <keywords scheme="original" n="places">
+                    <term>Branson (Mo.)</term>
+                    <term>Montana</term>
+                    <term>Missouri</term>
+                    <term>Musselshell (Mo.)</term>
+                    <term>Devils Lake (N.D.)</term>
+                    <term>Fort Benton (Mont.)</term>
+                </keywords>
+                <keywords scheme="original" n="works">
+                    <term>The River and I</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Mehus, Jewell Ross</persName>
+                    <placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+                    <date when="1968-06-28"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+                    <placeName></placeName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+            </particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2017"><name>Weakly, Laura K.</name> correspDesc Encoding</change>
+            <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
+            <change when="2012-02-29"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
+            <change when="2011-11-28"><name xml:id="ep">Pedigo, Erin</name> Proofreading</change>
+            <change when="2011"><name xml:id="az">Zeljkovic</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.n1a.7.18.xml"/>
+                <note type="curatorial">18</note>
+                <fw type="authorial">O. MYKING MEHUS</fw>
+                
+                <opener>
+                    <address>
+                        <addrLine>
+                            The Old Shepherd's Book Shop 
+                            Flag Route, Highway 76 W. 
+                            Branson, Missouri 65616
+                        </addrLine>
+                    </address>
+                    <dateline>
+                        June 28, 1968
+                    </dateline>
+                    <salute>My dear Dr. Neihardt,</salute>
+                </opener>
+                <p>God gave us memory that we might have roses in December-so says the poet - and now I know you will not mind the "rocking chair" days if ever they come to you. - all of which means I've just read "The River an I:</p>
+                
+                <p>In fact I came up stairs with the dawn to finish it - began last evening - thank you -</p>
+                <p>Three of my mother's brothers and one of my Father's went west to Montana as youngsters -</p>
+                
+                <p>We often visited there - Once when draught came Uncle Joe with camp outfit  and
+                    family including Missouri relatives drove the stock from Musselshell to near Canadian border
+                    - Once he shipped near train load of horses to Missouri Market-</p>
+                
+                <p>Then my grad Norweigan husband grew up just east of Devil's Lake N. D- you go to the farm -
+                    and the brother-in-law drives us over "townships."</p>
+                
+                <p>So I lived <unclear/> from Fort Benton. For once I taught in high school. 30 miles from the
+                    Fort a few years ago we stayed in the old hotel - not much changed-</p>
+  
+                <p>But best of all - was just you in the book. Thank you - do come back to Branson often - we so
+                    enjoyed you at the Library Club and the daughters, too.</p>
+                
+                <closer>
+                    <salute>Sincerely</salute>
+                    <signed>Jewell Ross Mehus</signed>
+                    <signed>(Mr. D. Myking Mehus.)</signed>
+                </closer>
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

@@ -1,58 +1,283 @@
 <?xml version="1.0" encoding="UTF-8"?>
-22
-10-E. Ellis Dr. 
-Tempe, Ariz. 85281
-July 8, 1968
-Dear Dr. Neihardt - Tae-Nuga-Zhinga
-On Jan 22nd I talked by phone to Sigurd's wife - she told me of the successful eye operation and the fact that you are working on the story of your life! Wonderful-I am so pleased. Caroline, my wife, and I are thrilled that you are taking on the job yourself. May it all go well is our hope and prayer. 
-I wish to place my order for a copy of your forthcoming book - tentatively tilted - "An old man Remembers"
-Sigurd's wife also tells me that the Bison Press has just issued a reprint of "The River and I" - please accept my order for a copy from you. I am enclosing a check for $5.00 which should cover cost of the book and mailing charges. If there is a balance, please apply 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-23
-#2
-it to hold ^when it is printed a copy of "An Old Man Remembers" until I can find out the cost- Sort of a retainer! Ha!
-I am also enclosing a copy of a picture of J. Leonard Jennewein sitting on the rocks at Lands End, England meditating and gazing out to sea. This pix was taken in 1965 by his daughter, Sylvia, when Leonard and she were visiting Europe. Leonard was <del/> presenting a series of lectures to groups in England and Scotland who were in-terested in Western History. I assume that you are aware that Leonard passed away suddenly this past January. You will recall that he was the son of Fred Jennewein with whom you once made a trip to the Hugh Glass country. 
-I have been waiting to get <del/> copies of other pictures and slides - but it will be another 10 days before I'll get them back so I'm rushing ahead with this letter. I will send you another when I get the picture and slides for you. I
-
-#3 24
-just wanted to congratulate you on your new project, to express our joy over your successful eye operation, to place my advance order for "An Old Man Remembers", and to order from you a copy of the reprint of "The River and I". 
-The pictures and slides which I will be sending you are copies of those taken by J. Leonard Jennewein and his daughter when they visited Murthly Castle an the Jay River in Scotland. There are 8 slides and 5 prints. They include "photo" of the grounds, the front gate, the preserve where Capt Stewart or Sir William kept the Western animals, the castle, a huge Alfred Jacob Miller painting in the castle, a chair decorated with the horns and hoofs of one of the buffalo that Antoine Clement brought from the Far West to Scotland in 1839, and of the current "Laird". 
-I thought you might be interested and like to have them - they do tie 
-
-#4 25
-into the Mountain Men and Far West period. 
-Sincerely
-Rhueben H. Nelson
-Wamblee Sha
-P.S. I have been unable to complete the editing of the tape we made over a year ago-hope to get it finished and to you for approval by this fall. 
-RHn
-Please note-my change of address from 1123-McAllister Ave-My new address is 
-Rueben H Nelson
-10 East Ellis Drive 
-Tempe 
-Arizona 85281
-
-Rueben H Nelson
-10 East Ellis Dr. 
-Tempe, Ariz. 85281
-26
-FRANK LLOYD WRIGHT 
-US POSTAGE
-AIRMAIL 
-To reply 
-7-11-'68
-Return check, send River & I
-Mr. John G. Neihardt
-% Mr. & Mrs. Julius D. Young 
-5835 - Vine Street 
-Lincolon
-Nebraska 68505 
-answered 
-
-Mr. Neihardt- 8-1-68 27
-I hesitate - and I am not pleased - to send you this poorly typed letter as well as the notes and comments on the slides and prints. But to get a good typing job done would mean another delay until August 10th 
-so
-
-28
-Please accept my apology for  the crudities - we will trust that next time there will be better craftsmanship available. 
-Wanblee Sha 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1a.7.22-28">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Rueben H. Nelson to John G. Neihardt, July 8, 1968</title>
+                <author>Nelson, Rueben H.</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1a.7.22-28</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Nelson, Rueben H.</author>
+                    <title level="m" type="main">Letter from Rueben H. Nelson to John G. Neihardt</title>
+                    <date when="1968-07-08">July 8, 1968</date>
+                    <extent>6 pages; 1 envelope</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>6 handwritten pages; 1 envelope</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>6 pages; 1 envelope
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="people">
+                    <term>Neihardt, Maxine Melton</term>
+                    <term>Nelson, Caroline</term>
+                    <term>Jennewein, L.</term>
+                    <term>Jennewein, Sylvia</term>
+                    <term>Jennewein, Fred</term>
+                    <term>Stewart, William Drummond, Sir, 1795-1871</term>
+                    <term>Miller, Alfred Jacob, 1810-1874</term>
+                    <term>Clement, Anthony, 1620-1657</term>
+                </keywords>
+                <keywords scheme="original" n="places">
+                    <term>Tempe (Ariz.)</term>
+                    <term>Land's End (England)</term>
+                    <term>Lincoln (Neb.)</term>
+                    <term>England</term>
+                    <term>Scotland</term>
+                    <term>Jay River (Scotland)</term>
+                </keywords>
+                <keywords scheme="original" n="works">
+                    <term>All is but a beginning : youth remembered, 1881-1901</term>
+                    <term>The River and I</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Nelson, Rueben H.</persName>
+                    <placeName ref="http://www.geonames.org/5317058">Tempe (Ariz.)</placeName>
+                    <date when="1968-07-08"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+            </particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2017"><name>Weakly, Laura K.</name> correspDesc Encoding</change>
+            <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
+            <change when="2012-02-29"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
+            <change when="2011-11-28"><name xml:id="ep">Pedigo, Erin</name> Proofreading</change>
+            <change when="2011"><name xml:id="az">Zeljkovic</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.n1a.7.22-28.xml"/>
+                <note type="curatorial">22</note>
+                <fw type="authorial"></fw>
+                
+                <opener>
+                    <address>
+                        <addrLine>
+                            10-E. Ellis Dr. 
+                            Tempe, Ariz. 85281
+                        </addrLine>
+                    </address>
+                    <dateline>
+                        July 8, 1968
+                    </dateline>
+                    <salute>Dear Dr. Neihardt - Tae-Nuga-Zhinga</salute>
+                </opener>
+                <p>On Jan 22nd I talked by phone to Sigurd's wife - she told me of the successful eye operation and the fact that you are working on the story of your life! Wonderful-I am so pleased. Caroline, my wife, and I are thrilled that you are taking on the job yourself. May it all go well is our hope and prayer.</p>
+                <p>I wish to place my order for a copy of your forthcoming book - tentatively tilted - "An old man Remembers"</p>
+                <p>Sigurd's wife also tells me that the Bison Press has just issued a reprint of "The River and I" - please accept my order for a copy from you. I am enclosing a check for $5.00 which should cover cost of the book and mailing charges. If there is a balance, please apply</p>
+                
+                <pb facs="nei.n1a.7.22-28.xml"/>
+                <note type="curatorial">23</note>
+                <note type="authorial">#2</note>
+                
+                <p>it to hold ^when it is printed a copy of "An Old Man Remembers" until I can find out the cost- Sort of a retainer! Ha!</p>
+                <p>I am also enclosing a copy of a picture of J. Leonard Jennewein sitting on the rocks at Lands End, England meditating and gazing out to sea. This pix was taken in 1965 by his daughter, Sylvia, when Leonard and she were visiting Europe. Leonard was <del/> presenting a series of lectures to groups in England and Scotland who were in-terested in Western History. I assume that you are aware that Leonard passed away suddenly this past January. You will recall that he was the son of Fred Jennewein with whom you once made a trip to the Hugh Glass country.</p>
+                <p>I have been waiting to get <del/> copies of other pictures and slides - but it will be another 10 days before I'll get them back so I'm rushing ahead with this letter. I will send you another when I get the picture and slides for you. I</p>
+                
+                <pb facs="nei.n1a.7.22-28.xml"/>
+                <note type="curatorial">24</note>
+                <note type="authorial">#3</note>
+                
+                <p>just wanted to congratulate you on your new project, to express our joy over your successful eye operation, to place my advance order for "An Old Man Remembers", and to order from you a copy of the reprint of "The River and I".</p>
+                <p>The pictures and slides which I will be sending you are copies of those taken by J. Leonard Jennewein and his daughter when they visited Murthly Castle an the Jay River in Scotland. There are 8 slides and 5 prints. They include "photo" of the grounds, the front gate, the preserve where Capt Stewart or Sir William kept the Western animals, the castle, a huge Alfred Jacob Miller painting in the castle, a chair decorated with the horns and hoofs of one of the buffalo that Antoine Clement brought from the Far West to Scotland in 1839, and of the current "Laird".</p> 
+                 <p>I thought you might be interested and like to have them - they do tie</p>
+                
+                <pb facs="nei.n1a.7.22-28.xml"/>
+                <note type="curatorial">25</note>
+                <note type="authorial">#4</note>
+                
+                <p>into the Mountain Men and Far West period.</p>
+                
+                <closer>
+                    <salute>Sincerely</salute>
+                    <signed>Rhueben H. Nelson</signed>
+                    <signed>Wamblee Sha</signed>
+                </closer>
+                
+                <postscript><p>P.S. I have been unable to complete the editing of the tape we made over a year ago-hope to get it finished and to you for approval by this fall.</p></postscript>
+                <signed>RHn</signed>
+                <postscript>
+                    <p>Please note-my change of address from 1123-McAllister Ave-My new address is</p>
+                    <p>Rueben H Nelson</p>
+                    <p>10 East Ellis Drive</p>
+                    <p>Tempe</p>
+                    <p>Arizona 85281</p>
+                </postscript>
+            </div1>
+            
+            <div1 type="envelope">
+                
+                <pb facs="nei.n1a.7.22-28.xml"/>
+                <note type="curatorial">26</note>
+                <fw type="authorial"></fw>
+            
+            <ab type="return">
+                Rueben H Nelson
+                10 East Ellis Dr. 
+                Tempe, Ariz. 85281
+                26
+            </ab>
+                
+             <figure>
+                 <figDesc>FRANK LLOYD WRIGHT</figDesc> 
+                 <figDesc>US POSTAGE</figDesc>
+                 <figDesc>AIRMAIL</figDesc>
+             </figure>
+                
+                <note>
+                    To reply 
+                    7-11-'68
+                    Return check, send River &amp; I
+                </note>
+                
+                <ab type="address">
+                    <address>
+                        <addrLine>Return check, send River &amp; I</addrLine>
+                        <addrLine>Mr. John G. Neihardt</addrLine>
+                        <addrLine>% Mr. &amp; Mrs. Julius D. Young</addrLine> 
+                        <addrLine>5835 - Vine Street</addrLine>
+                        <addrLine>Lincolon</addrLine>
+                        <addrLine>Nebraska 68505</addrLine> 
+                        <note>answered</note>
+                    </address>
+                </ab>
+            </div1>
+            
+            <div1 type="note">
+                <pb facs="nei.n1a.7.22-28.xml"/>
+                <note type="curatorial">27</note>
+                <fw type="authorial"></fw>
+                
+                <dateline>8-1-68 27</dateline>
+                <salute>Mr. Neihardt-</salute>
+                
+                <p>I hesitate - and I am not pleased - to send you this poorly typed letter as well as the notes and comments on the slides and prints. But to get a good typing job done would mean another delay until August 10th</p>
+                <p>so</p>
+                
+                <pb facs="nei.n1a.7.22-28.xml"/>
+                <note type="curatorial">28</note>
+                <fw type="authorial"></fw>
+                
+                <p>Please accept my apology for  the crudities - we will trust that next time there will be better craftsmanship available.</p> 
+                <signed>Wanblee Sha</signed>
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

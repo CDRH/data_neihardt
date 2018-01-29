@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1a.6.48-49">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Julius Young to John G. Neihardt, September 7, 1967</title>
+                <author>Young, Julius</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1a.6.48-49</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Young, Julius</author>
+                    <title level="m" type="main">Letter from Julius Young to John G. Neihardt</title>
+                    <date when="1967-09-07">September 7, 1967</date>
+                    <extent>2 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 hand-written pages</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>2 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="people">
+                    <term>Young, Myrtle</term>
+                    <term>Hull, Ronald Eugene, 1930-</term>
+                    <term>Young, Julius</term>
+                    <term>Black Elk, Benjamin, ?-1973</term>
+                </keywords>
+                <keywords scheme="original" n="places">
+                    <term>Lincoln (Neb.)</term>
+                    <term>Santa Barbara (Calif.)</term>
+                    <term>Rapid City (S.D.)</term>
+                    <term>Spearfish (S.D.)</term>
+                    <term>Pierre (S.D.)</term>
+                    <term>Mobridge (S.D.)</term>
+                    <term>Lemmon (S.D.)</term>
+                </keywords>
+                <keywords scheme="original" n="works">
+                    <term>Dakota Panorama: A History of Dakota</term>
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc ref="">
+                <correspAction type="sentBy">
+                    <persName>Young, Julius</persName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                    <date when="1967-09-07"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+                    <placeName ref="http://www.geonames.org/4575352">Columbia (Mo.)</placeName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+            </particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2017"><name>Weakly, Laura K.</name> correspDesc Encoding</change>
+            <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
+            <change when="2012-02-29"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
+            <change when="2011-11-28"><name xml:id="ep">Pedigo, Erin</name> Proofreading</change>
+            <change when="2011"><name xml:id="az">Zeljkovic</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.n1a.6.48-49.xml" />
+                <note type="curatorial">48</note>
+                <fw type="curatorial"></fw>
+                
+                <opener>
+                    (Copy) to J.G. Neihardt
+                    9-7-67 
+                    P.1. 
+                    <dateline>
+                        5835 Vine Street 
+                        Lincoln, Nebr. 68505
+                        September 7, 1967 
+
+                    </dateline>
+                    <salute>Dear Friend:</salute>
+                </opener>
+                <p>Yours of September 4th was received yesterday, and I hope I have time to answer it this morning before I have to go with the Warren Methodist Church group (via Volkswagon Microbus) to work at their food booth at the fair. This is last day of Nebr. State Fair, and Mrs. Young and I donate our services along with several other devoted workers and we have operated a very successful food dining hall for the past several years. We clear over $2,500.00 each year during the week. This year we will do even better.</p>
+                <p>About the Grand River trip, we are very uncertain at thsi time because we are still involved in our house repair and the matter of reuniting it to suitable tenants when we have finished. There are so many delays in the process, but the way the thing looks now we could take a week or more just before the Rock Show (Sept. 22, 23, 24) or just after the show.  Really, our time has been so "cut up in little pieces" that we have not been able to plan as we would like. Our son and his family from Santa Barbara have retunred, and we are alone again. Have had much company during the summer with much of pleasure. The real high lights of the year have been our glorious times with you and the wonderful people we hve met through your presence as well as old acquaintances we have invited in to visit with you. We are looking forward to more of the same soon if you can come.</p>
+
+            <pb facs="nei.n1a.6.48-49.xml" />
+                <note type="curatorial">49</note>
+                <fw type="curatorial"></fw>
+                <note>Copy to J.G.N. 9-7-67</note>   
+                <p>Again, about the trip - you asked if we were planning the trip for your sake, or if we were going anyway and would be taking you along.</p>
+                <p>Frankly, we have desired a trip back to the old monument to see just what has been done since we we last there in May 1965. We, ourselves, would enjoy such a trip - even if you could not be along, but to have you with us would make it superb. We would like to go via Black Hills and Badlands either going to the Grand or on our return trip, if you owuld enjoy it too. You have some very interested young "Neihardt Fans" in the younger set around Rapid City and Spearfish, and we are hoping some of them could meet you.</p>
+                <p>We could go via Pierre, Mobridge and Standing Rock area and visit Historical Society, the several historical monuments near the mouth of the Grand near Mobridge and many other points of interest enroute to and from Lemmon, if you would like to do so. Weather, of course, is always uncertain. We have a good car heater, and motels are not crowded around this time of year. We hope our old Rambler "pony drag is roadworthy enough. I think your return to the Hugh Glass Monument after 44 years would make hitory. We are glad to know that you enjoyed the book, Dakota Panorama, and I've forgotten just what I put in my letter of March 1st.</p>
+                <p>I just called Ron Hull. He said he could make some tapes whenever you come. Also,
+                    he said to tell you he recently visited Ben Black Elk at Rushmore Memorial. He told Ben about his recent visit with you here in Lincoln, and Ben was much interested and would like to hear from you some time. We don't know his address, but I'm sure I could find out some one. <note>(Over)</note></p>
+                
+                <p>Our Rapid City relatives could find out for us. I think they know him. They know most of the people in Western S. Dak. Ha!</p>
+                <p>Again, please be very frank about coming to go  with us on a trip. If, for any reason, you feel it unwise, or not easily possible for you, do not hesitate to tell us and we'll hope to plan it for next spring on summer if you prefer to postpone the "venture". Whether we go or not, we do hope you can come for the Rock Show and be with us a few days either before or after - and bring something to exhibit if you care to do so.</p>
+                <p>We are hoping you can.</p>
+                <p>Let us know soon how you feel about all this. If you can join us we could leave about Wednesday a.m. Spet. 13 and should be able to get back before Sept. 22. We'll be home most of the time after today, especially in evening, if you care to phone us.</p>
+
+            <closer>
+                <salute>Sincerely</salute>
+                <signed>Julius D Young</signed>
+            </closer>
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

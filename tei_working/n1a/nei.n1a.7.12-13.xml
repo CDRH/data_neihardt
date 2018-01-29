@@ -1,20 +1,190 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<note>Mrs. Dion's home in Wayne NE was once the home of the Neihardt family. The present bath room was J.N.'s bedroom.</note>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1a.7.12-13">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Lora Dion to John G. Neihardt, April 23, 1968</title>
+                <author>Dion, Lora</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1a.7.12-13</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Dion, Lora</author>
+                    <title level="m" type="main">Letter from Lora Dion to John G. Neihardt</title>
+                    <date when="1968-04-23">April 23, 1968</date>
+                    <extent>2 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 hand-written pages</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>2 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="people">
+                    <term>Dion, Lora</term>
+                </keywords>
+                <keywords scheme="original" n="places">
+                    <term>Wayne (Neb.)</term>
+                    <term>Nebraska</term>
+                </keywords>
+                <keywords scheme="original" n="works">
+                    <term>Black Elk's Prayer</term>
+                    <term>Omaha World Herald</term>
+                    <term>Easter</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Dion, Lora</persName>
+                    <placeName ref="http://www.geonames.org/5081454">Wayne (Neb.)</placeName>
+                    <date when="1968-04-23"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+                    <placeName></placeName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+            </particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2017"><name>Weakly, Laura K.</name> correspDesc Encoding</change>
+            <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
+            <change when="2012-02-29"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
+            <change when="2011-11-28"><name xml:id="ep">Pedigo, Erin</name> Proofreading</change>
+            <change when="2011"><name xml:id="az">Zeljkovic</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.n1a.7.12-13.xml"/>
+                <note type="curatorial">12</note>
+                <fw type="authorial"></fw>
+                
+                <opener>
+                    <note>Mrs. Dion's home in Wayne NE was once the home of the Neihardt family. The present bath room was J.N.'s bedroom.</note>
+                    <dateline>
+                        Tuesday, Apr 23, 1968
+                    </dateline>
+                    <salute>Dear Mr. Neihardt,</salute>
+                </opener>
+                <p>Thank you so much for the nice letters and the copy of "Black Elk's Prayer" - we really appreciate it. I have showed it to many of our friends with great pride and they all agree that we should feel honored to have it and also to have your acquaintance. - I know you are such a busy man and the fact that you have acknowledged my letter makes it that much more treasured. -</p>
+                <p>We have enjoyed the newspaper write ups about you. - Especially the one in the Omaha World Herald before Easter about the Easter poem you wrote many years ago from a dream you had. -</p>
+                <p>You said you would send me a copy of your book as soon as you have a hard bound copy. We</p>
+                    
+                    <pb facs="nei.n1a.7.12-13.xml"/>
+                    <note type="curatorial">13</note>
+                    <fw type="authorial"></fw>
 
-Tuesday, Apr 23, 1968
-Dear Mr. Neihardt,
-Thank you so much for the nice letters and the copy of "Black Elk's Prayer" - we really appreciate it. I have showed it to many of our friends with great pride and they all agree that we should feel honored to have it and also to have your acquaintance. - I know you are such a busy man and the fact that you have acknowledged my letter makes it that much more treasured. - 
-We have enjoyed the newspaper write ups about you. - Especially the one in the Omaha World Herald before Easter about the Easter poem you wrote many years ago from a dream you had. - 
-You said you would send me a copy of your book as soon as you have a hard bound copy. We 
-
-
-13
-would just love it and I will gladly return to you all postage costs. -
-I imagine you are busy on your autobiography. That must be quite an undertaking. 
-Our Nebraska weather is terrible windy, isn't it.- 
-Thank you, most sincerely. - 
-Yours truly,
-Mrs. Dick Dion
-208 East 5th 
-Wayne, Neb. 68787
+                    <p>would just love it and I will gladly return to you all postage costs. -</p>
+                    <p>I imagine you are busy on your autobiography. That must be quite an undertaking.</p>
+                    <p>Our Nebraska weather is terrible windy, isn't it.-</p>
+                
+            <closer>
+                <salute>Yours truly,</salute>
+                <signed>Lora Dion</signed>
+                <signed>Mrs. Dick Dion</signed>
+                <dateline>208 East 5th 
+                    Wayne, Nebraska 
+                    68787</dateline>
+            </closer>
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

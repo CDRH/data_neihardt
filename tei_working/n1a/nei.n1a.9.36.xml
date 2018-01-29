@@ -1,15 +1,188 @@
 <?xml version="1.0" encoding="UTF-8"?>
-36 
-<figure/> UNIVERSITY OF SOUTH DAKOTA <figure/> VERITAS 
-August 18, 1970
-Dr. John G. Neihardt
-Bancroft, Nebraska 
-Dear John: 
-It has been so long since we last talked that I hardly dare use your first name. I wanted to see you at Bancroft on your special day earlier this month, but I was in Rapid City speaking to a group of aspiring writers. While there, I did have a chance to talk to Ben Black Elk, and we reminisced over the day all three of us were together in Vermillion, which must be seven years ago now. Too long. 
-I have two things to ask you. Do you know where I might get a photograph, or a copy of one, or a realistic drawing of Black Elk, Ben's father? A small movie company in Albuquerque, run by a friend of mine, is making a documentary which may include Black Elk to some degree. I'm uncertain of the film, but I belive it is to be on "trails." Both old and modern. Indian trails, jet trails, and so on. They would like an old photo or a copy. Where would I look? 
-The other matter concerns the video tapes you made here in Vermillion. These and some I made with western writers have  been of concern to me because of the inadequate storage facilities at KUSD-TV. I have taken most of them home. where I know they will be safe. But it also occurs to me that some day we might like to publish some of the material on these tapes. We have already started to do so with a few of the conversa-tions I had with western writers. But we have discovered, of course, that the University has never made any arrangements, such as getting permission, releases. I have set about obtaining releases. In the case of Frederick Manfred there were all kinds of stipula-tions. The others are simply releasing all rights to us, with no restrictions. I have not listened to your tapes for fice or six years, and I have nothing specific in mind. What I would like, if you are agreeable, is a release from you, so that if we ever do want to publish some of that material we will feel free to do so. Normally we are strictly a non-profit publisher of course. In fact, ew seem to lose money on most things, as university presses are supposed to do. But if you are willing to give us permission to publish, you might want to add some kind of restriction so that if, by chance, we did manage to show a profit on something of yours, a royalty would be paid to you or your family. 
-We can have the agreement drawn up here, but I would be pleased to hear from you and to know how you feel about this and what specific instructions you would have in case we do draw up an agreement. 
-And, needless to say, I would enjoy visiting with you again if we could arrange it. 
-Sincerely,
-John 
-John R. Milton  
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1a.9.36">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John R. Milton to John G. Neihardt, August 18, 1970</title>
+                <author>Milton, John R., 1924-1995</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1a.9.36</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Milton, John R., 1924-1995</author>
+                    <title level="m" type="main">Letter from John R. Milton to John G. Neihardt</title>
+                    <date when="1970-08-18">August 18, 1970</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="people">
+                    <term>Black Elk, Benjamin, ?-1973</term>
+                    <term>Milton, John R., 1924-1995</term>
+                    <term>Black Elk, 1863-1950</term>
+                    <term>Manfred, Frederick Feikema, 1912-1994</term>
+                </keywords>
+                <keywords scheme="original" n="places">
+                    <term>Rapid City (S.D.)</term>
+                    <term>Bancroft (Neb.)</term>
+                    <term>Vermillion (S.D.)</term>
+                    <term>Albuquerque (N.M.)</term>
+                </keywords>
+                <keywords scheme="original" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName ref="http://viaf.org/viaf/109173665">Milton, John R., 1924-1995</persName>
+                    <placeName ref="http://www.geonames.org/5232592">Vermillion (S.D.)</placeName>
+                    <date when="1970-08-18"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+                    <placeName ref="http://www.geonames.org/5063451">Bancroft (Neb.)</placeName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+            </particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2017"><name>Weakly, Laura K.</name> correspDesc Encoding</change>
+            <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
+            <change when="2012-02-29"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
+            <change when="2011-11-28"><name xml:id="ep">Pedigo, Erin</name> Proofreading</change>
+            <change when="2011"><name xml:id="az">Zeljkovic</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.n1a.9.36.xml"/>
+                <note type="curatorial">36</note>
+                <note type="authorial"></note>
+                <fw type="authorial">
+                    <figure/> UNIVERSITY OF SOUTH DAKOTA <figure/> VERITAS
+                    VERMILLION 57069
+                </fw>
+                
+                <dateline>
+                    August 18, 1970
+                </dateline>
+                
+                <fw type="address">
+                    Dr. John G. Neihardt
+                    Bancroft, Nebraska
+                </fw>
+                
+                <salute>Dear John:</salute>
+                
+                <p>It has been so long since we last talked that I hardly dare use your first name. I wanted to see you at Bancroft on your special day earlier this month, but I was in Rapid City speaking to a group of aspiring writers. While there, I did have a chance to talk to Ben Black Elk, and we reminisced over the day all three of us were together in Vermillion, which must be seven years ago now. Too long.</p> 
+                <p>I have two things to ask you. Do you know where I might get a photograph, or a copy of one, or a realistic drawing of Black Elk, Ben's father? A small movie company in Albuquerque, run by a friend of mine, is making a documentary which may include Black Elk to some degree. I'm uncertain of the film, but I belive it is to be on "trails." Both old and modern. Indian trails, jet trails, and so on. They would like an old photo or a copy. Where would I look?</p> 
+                <p>The other matter concerns the video tapes you made here in Vermillion. These and some I made with western writers have  been of concern to me because of the inadequate storage facilities at KUSD-TV. I have taken most of them home. where I know they will be safe. But it also occurs to me that some day we might like to publish some of the material on these tapes. We have already started to do so with a few of the conversa-tions I had with western writers. But we have discovered, of course, that the University has never made any arrangements, such as getting permission, releases. I have set about obtaining releases. In the case of Frederick Manfred there were all kinds of stipula-tions. The others are simply releasing all rights to us, with no restrictions. I have not listened to your tapes for fice or six years, and I have nothing specific in mind. What I would like, if you are agreeable, is a release from you, so that if we ever do want to publish some of that material we will feel free to do so. Normally we are strictly a non-profit publisher of course. In fact, ew seem to lose money on most things, as university presses are supposed to do. But if you are willing to give us permission to publish, you might want to add some kind of restriction so that if, by chance, we did manage to show a profit on something of yours, a royalty would be paid to you or your family.</p> 
+                <p>We can have the agreement drawn up here, but I would be pleased to hear from you and to know how you feel about this and what specific instructions you would have in case we do draw up an agreement.</p> 
+                <p>And, needless to say, I would enjoy visiting with you again if we could arrange it.</p> 
+                
+                <salute>Sincerely,</salute>
+                <signed>John</signed> 
+                <signed>John R. Milton</signed>
+
+            </div1>
+        </body>
+    </text>
+</TEI>

@@ -1,17 +1,204 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Copy 
-J.G. Neihardt 
-6-7-67
-5835 Vine Street 
-Lincoln Nebr. 68505
-June 7, 1967
-23
-Dear Friend: 
-I hope this will reach you in Phoenix before you leave June 12th as you had planned when you wrote to us June 2. We had not learned previously about the experiences from the time of your trip from Eugene. In spite of the disappointing delays it was fortunate that you finally arrived at Phoenix, and that no injuries resulted from the car accident. Some speed from Oregon to S. F. that 1 hour and 5 minutes! 
-We are glad you found the lens at last, but so sorry you were without its use for some time, even though you did O.K. without it. Let us know if you think of any materials we may have that Dr. Aly might use, and we'll gladly send them to her. We have not been to the Historical Society since you left. We hope the materials from Dr. Danker arrived satisfactorily. Did you know that Dr Danker is planning to leave for another job soon? I do not know details yet, but it seems he is going to a better paying position. Sorry to lose him. Rev. Art Ernst starts his month's vacation this week, but I do not know where they plan to go. Some times they go to his wife's home in Tennessee - and the Great Smokies. His secretary, Mrs. Norene Hill, told Myrtle 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-24
-yesterday that she and her mother when returning from Vermillion, S.D. recently had visited the Bancroft Prayer Garden, which they enjoyed seeing. The Study was not open at the time they were there, but they peeked through the window. We are looking forward to the August Pageant, and hope you can come to our place well in advance of it, and let us take you up there, and return you to Lincoln. Do you remember Rev. Art Ernst told you he wants to drive you back to Columbia from Lincoln? So, let us know what you want to do. 
-I attended the U of Neb. graduation at Pershing Auditorium last Saturday a.m. at the point in the ceremony where honorary degrees were conferred, the chancellor called attention to the ceremony 50 years ago when "our Poet Laureate" was among those honored. In the p.m. the other half of the graduating membership was given their degrees at Pershing Auditorium too, and I understood that the 50 year historical fact was to be mentioned again, but I have not yet contacted anyone who attended the p.m. program we had hoped that this could have had a more prominent part in the ceremonies (a.m. and p.m.), but for some reason it did not materialize. Maybe the 100th anniversary will rate greater coverage! 
-We appreciate your comment about Phoenix and the desert. Hope you and your dear relatives everywhere are well, and that you have a safe and pleasant trip home. Would love to hear Sigurd's fine music. Blessings on all of you! Do come and see us again soon = there are still many items in my collection of probable interest yet. As ever your devoted friend Julius D. Young
-P.S. Let us know when to send things that were left here J.D.Y. 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1a.6.23-24">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Julius Young to John G. Neihardt, June 7, 1967</title>
+                <author>Young, Julius</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1a.6.23-24</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Young, Julius</author>
+                    <title level="m" type="main">Letter from Julius Young to John G. Neihardt</title>
+                    <date when="1967-06-07">June 7, 1967</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 hand-written page</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>1 page
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="people">
+                    <term>Young, Julius</term>
+                    <term>Aly, Bower, 1903-1977</term>
+                    <term>Aly, Lucile Folse, 1913-</term>
+                    <term>Danker, Donald F. (Donald Floyd)</term>
+                    <term>Ernst, Arthur</term>
+                    <term>Hill, Norene</term>
+                    <term>Young, Myrtle</term>
+                    <term>Neihardt, Sigurd</term>
+                </keywords>
+                <keywords scheme="original" n="places">
+                    <term>Lincoln (Neb.)</term>
+                    <term>Phoenix (Ariz.)</term>
+                    <term>Eugene (Or.)</term>
+                    <term>Oregon</term>
+                    <term>San Fransisco (Calif.)</term>
+                    <term>Tennessee</term>
+                    <term>Vermillion (S.D.)</term>
+                    <term>Bancroft (Neb.)</term>
+                    <term>Columbia (Mo.)</term>
+                </keywords>
+                <keywords scheme="original" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc ref="">
+                <correspAction type="sentBy">
+                    <persName>Young, Julius</persName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                    <date when="1967-06-07"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+                    <placeName ref="http://www.geonames.org/4575352">Columbia (Mo.)</placeName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+            </particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2017"><name>Weakly, Laura K.</name> correspDesc Encoding</change>
+            <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
+            <change when="2012-02-29"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
+            <change when="2011-11-28"><name xml:id="ep">Pedigo, Erin</name> Proofreading</change>
+            <change when="2011"><name xml:id="az">Zeljkovic</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.n1a.6.23-24.xml" />
+                <note type="curatorial">23</note>
+                <fw type="curatorial"></fw>
+                
+                <opener>
+                    <note>Copy 
+                        J.G. Neihardt</note>
+                    <dateline>
+                        6-7-67
+                        5835 Vine Street 
+                        Lincoln Nebr. 68505
+                        June 7, 1967
+                        23
+                    </dateline>
+                    <salute>Dear Friend:</salute>
+                </opener>
+                <p>I hope this will reach you in Phoenix before you leave June 12th as you had planned when you wrote to us June 2. We had not learned previously about the experiences from the time of your trip from Eugene. In spite of the disappointing delays it was fortunate that you finally arrived at Phoenix, and that no injuries resulted from the car accident. Some speed from Oregon to S. F. that 1 hour and 5 minutes!</p>
+                <p>We are glad you found the lens at last, but so sorry you were without its use for some time, even though you did O.K. without it. Let us know if you think of any materials we may have that Dr. Aly might use, and we'll gladly send them to her. We have not been to the Historical Society since you left. We hope the materials from Dr. Danker arrived satisfactorily. Did you know that Dr Danker is planning to leave for another job soon? I do not know details yet, but it seems he is going to a better paying position. Sorry to lose him. Rev. Art Ernst starts his month's vacation this week, but I do not know where they plan to go. Some times they go to his wife's home in Tennessee - and the Great Smokies. His secretary, Mrs. Norene Hill, told Myrtle</p>
+
+                <pb facs="nei.n1a.6.23-24.xml"/>
+               <note type="curatorial">24</note>
+                
+                <p>yesterday that she and her mother when returning from Vermillion, S.D. recently
+                    had visited the Bancroft Prayer Garden, which they enjoyed seeing. The Study was not open at the time they were there, but they peeked through the window. We are looking forward to the August Pageant, and hope you can come to our place well in advance of it, and let us take you up there, and return you to Lincoln. Do you remember Rev. Art Ernst told you he wants to drive you back to Columbia from Lincoln? So, let us know what you want to do.</p>
+                <p>I attended the U of Neb. graduation at Pershing Auditorium last Saturday a.m. at
+                    the point in the ceremony where honorary degrees were conferred, the chancellor called attention to the ceremony 50 years ago when "our Poet Laureate" was among those honored. In the p.m. the other half of the graduating membership was given their degrees at Pershing Auditorium too, and I understood that the 50 year historical fact was to be mentioned again, but I have not yet contacted anyone who attended the p.m. program we had hoped that this could have had a more prominent part in the ceremonies (a.m. and p.m.), but for some reason it did not materialize. Maybe the 100th anniversary will rate greater coverage!</p>
+                <p>We appreciate your comment about Phoenix and the desert. Hope you and your dear relatives everywhere are well, and that you have a safe and pleasant trip home. Would love to hear Sigurd's fine music. Blessings on all of you! Do come and see us again soon = there are still many items in my collection of probable interest yet.</p>
+
+            <closer>
+                <salute>As ever your devoted friend</salute>
+                <signed>Julius D. Young</signed>
+            </closer>
+            <postscript><p>P.S. Let us know when to send things that were left here J.D.Y.</p></postscript>
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

@@ -1,133 +1,390 @@
 <?xml version="1.0" encoding="UTF-8"?>
-26
-1123-McAllister Ave
-Tempe, Ariz 85281
-July 4, 1967
-Dear Mr. Neihardt - Tae-Nuga-Zhinga-
-"Little Buffalo Bull" is a fine name - but truely I like "Flaming Rainbow" a little better. Maybe just because it was given to you by the Ogalala Sioux!
-It is hard for me to start this letter - for my heart is still sad because I was to ill to keep our second <unclear>rendevouz</unclear>. It was so good of you to offer to give me more of your time - I just can not seem to because accustomed to the fact that I can no longer disregard the demands of my body and health. You must believe that it was a great disappointment for me - like the missing of ^a contact with a fond friend whom we had not seen for a long time. 
-You also, should know that the 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-visit we did get to have, was wonderfully stimulating to me. 
-In the near future I hope to send you a copy of the material that we put on the tape. Black Elk's prayer came off just fine. I am afraid that the quality of some of the other parts will require considerable editing. As usual I did too much talking, ha! I will not play the tape to outsiders until I get your approval to the edited version which I will send you. 
-It may be August before I get the editing completed - because Mrs. Nelson and I will be moving during July. The University is taking our home for expansion space. We have not completed a new house deal - so can not give you our new address - I shall send it to you as soon as things are setlled. We may move between August 1st and 15th. 
-Speaking of Mrs. Nelson - she was so very pleased to meet you. Both Caroline and I were both struck by the feeling that 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1a.4.26-43">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Rueben G. Nelson to John G. Neihardt, July 4, 1967</title>
+                <author>Nelson, Rueben G.</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1a.4.26-43</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Nelson, Rueben G.</author>
+                    <title level="m" type="main">Letter from Rueben G. Nelson to John G. Neihardt</title>
+                    <date when="1964-07-04">July 4, 1967</date>
+                    <extent>18 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>18 pages</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>18 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="people">
+                    <term>Nelson</term>
+                    <term>Nelson, Caroline</term>
+                    <term>Neihardt, Sigurd</term>
+                    <term>Neihardt, Maxine Melton</term>
+                    <term>Black Elk, 1863-1950</term>
+                    <term>Nelson, Rueben G.</term>
+                    <term>Fire Thunder, William</term>
+                    <term>Merteth, James</term>
+                    <term>Jennewein, Jim</term>
+                    <term>Beard, Dewey</term>
+                    <term>Calamity Jane, 1856-1903</term>
+                    <term>Jennewein, Fred</term>
+                    <term>Jennewein, John Leonard, 1910-1968</term>
+                    <term>Norman, Robert C. Olson</term>
+                    <term>Eigsti, Carl</term>
+                    <term>Claymore, John</term>
+                    <term>Clamouex, Antoine</term>
+                    <term>Claymore, Basil</term>
+                    <term>American Horse, Ben</term>
+                    <term>McGillicuddy</term>
+                    <term>Sword</term>
+                    <term>Two Sticks</term>
+                    <term>Red Cloud, 1822-1909</term>
+                    <term>American Horse, Dakota chief, 1840-1908</term>
+                </keywords>
+                <keywords scheme="original" n="places">
+                    <term>Tempe (Ariz.)</term>
+                    <term>Pine Ridge (S.D.)</term>
+                    <term>North Dakota</term>
+                    <term>South Dakota</term>
+                    <term>Bison (S.D.)</term>
+                    <term>Cheyenne (Wy.)</term>
+                    <term>Fort Whipple (Ariz.)</term>
+                    <term>Mitchell (S.D.)</term>
+                    <term>Huron (S.D.)</term>
+                    <term>Phoenix (Ariz.)</term>
+                    <term>Rapid City (S.D.)</term>
+                </keywords>
+                <keywords scheme="original" n="works">
+                    <term>Sioux Prayer</term>
+                    <term>Lyric and Dramatic Poems</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Nelson, Rueben G.</persName>
+                    <placeName ref="http://www.geonames.org/5317058">Tempe (Ariz.)</placeName>
+                    <date when="1964-07-04"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+                    <placeName></placeName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <person role="recipient"><persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName></person>
+            </particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2017"><name>Weakly, Laura K.</name> correspDesc Encoding</change>
+            <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
+            <change when="2012-02-29"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
+            <change when="2011-11-28"><name xml:id="ep">Pedigo, Erin</name> Proofreading</change>
+            <change when="2011"><name xml:id="az">Zeljkovic</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.n1a.6.26-43"/>
+                <note type="curatorial">26</note>
+                <fw type="authorial">
+                    <address>
+                        <addrLine>
+                            1123-McAllister Ave
+                            Tempe, Ariz 85281
+                        </addrLine>
+                    </address>
 
-#3 28
+                </fw>
+                
+                <opener>
+                    <dateline>
+                        July 4, 1967
+                    </dateline>
 
--We are impresed and pleased with the empathy that Caroline and I seem to be experiencing with your fine son, Sigurd, and his lovely wife. <unclear/> 
+                    <salute>Dear Mr. Neihardt - Tae-Nuga-Zhinga-</salute>
+                </opener>
+                <p>"Little Buffalo Bull" is a fine name - but truely I like "Flaming Rainbow" a little better. Maybe just because it was given to you by the Ogalala Sioux!</p>
+                <p>It is hard for me to start this letter - for my heart is still sad because I was to ill to keep our second <unclear>rendevouz</unclear>. It was so good of you to offer to give me more of your time - I just can not seem to because accustomed to the fact that I can no longer disregard the demands of my body and health. You must believe that it was a great disappointment for me - like the missing of ^a contact with a fond friend whom we had not seen for a long time.</p> 
+                <p>You also, should know that the</p> 
+                
+                <pb facs="nei.n1a.6.26-43"/>
+                <note type="curatorial">27</note>
+                <fw type="authorial">#2</fw>
 
-We had known you for a long time even though it was our first meeting. During our years in the Indian country, I was always pleased and impressed by the manner in which the Indian men, women, and children always responded to Caroline and she to them. 
-I hope that you were able to get a copy made of the Black Elk plaque. The pictures in the package are those of which my notes indicated that you ^ wished to have copies made. I've included a few others which I thought might be of a interest to you. There is also a copy of the line drawing I tried to make using your picture on the cover of "Lyric and Dramatic Poems" as a model. The last envelope contains some sketches of "Holy Garments"
-Ah! So the time has come to part again! May yours be a trail of easy <del/> ridin' until we meet again this winter. 
-Sincerely, Rueben G Nelson
-Wanblee Ska
+<p>visit we did get to have, was wonderfully stimulating to me.</p> 
+                <p>In the near future I hope to send you a copy of the material that we put on the tape. Black Elk's prayer came off just fine. I am afraid that the quality of some of the other parts will require considerable editing. As usual I did too much talking, ha! I will not play the tape to outsiders until I get your approval to the edited version which I will send you.</p> 
+                <p>It may be August before I get the editing completed - because Mrs. Nelson and I will be moving during July. The University is taking our home for expansion space. We have not completed a new house deal - so can not give you our new address - I shall send it to you as soon as things are setlled. We may move between August 1st and 15th.</p> 
+                <p>Speaking of Mrs. Nelson - she was so very pleased to meet you. Both Caroline and I were both struck by the feeling that</p>
 
-Black Elk said-
-"...thus were the 12 strange men and 12 strange women dressed who danced beneath the Tree of Life - The Holy Tree-. They sang. "The people clad as we shall fear no evil thing; for they shall see as you have seen it. Hundreds shall be flame!"
+                <pb facs="nei.n1a.6.26-43"/>
+                <note type="curatorial">28</note>
+                <fw type="authorial">#3</fw>
+                
+                <p>-We are impresed and pleased with the empathy that Caroline and I seem to be experiencing with your fine son, Sigurd, and his lovely wife. <unclear/> </p>
+                
+                <p>We had known you for a long time even though it was our first meeting. During our years in the Indian country, I was always pleased and impressed by the manner in which the Indian men, women, and children always responded to Caroline and she to them.</p> 
+                <p>I hope that you were able to get a copy made of the Black Elk plaque. The pictures in the package are those of which my notes indicated that you ^ wished to have copies made. I've included a few others which I thought might be of a interest to you. There is also a copy of the line drawing I tried to make using your picture on the cover of "Lyric and Dramatic Poems" as a model. The last envelope contains some sketches of "Holy Garments"</p>
+                <p>Ah! So the time has come to part again! May yours be a trail of easy <del/> ridin' until we meet again this winter.</p> 
+                <closer>
+                    <salute>Sincerely,</salute> <signed>Rueben G Nelson</signed>
+                    <signed>Wanblee Ska</signed>
+                </closer>
 
-le and Trust Company 
+               
+            </div1>
+            
+            <div1 type= "attachment">
+                <pb facs="nei.n1a.6.26-43"/>
+                <note type="curatorial">29</note>
+                <fw type="authorial"></fw>
 
---copied by W-G-
-30
-Listing of Items
-in Package to John G. Niehardt 
-Numbers Correspond to numbers on back of Pictures - 
-#1. Manderson Trading Park - pix by R. Nelson taken 1945. Black Elk is standing under the porch - unfortunately in heavy shadow. His light trousers out the bottom of his long black coat are clearly visible. He is holding a long beaded pouch in his right hand. It held his pipe, <unclear>cleaning</unclear> and tamping stick, and tobacco. 
-#2. Rain In the face - from a <unclear>Fiske</unclear> Photo - may have been taken in the 1880's
-#3. <unclear>Si tanka</unclear> lies in Death - Pix taken 2 or 3 days after Battle of Wounded Knee - 1 - 1 or 2 - 91
-#4 No Escape - Dealth Gulch - This is claimed to be a pix of the draw or gulch running toward Pine Ridge - scene some 2 miles from battleground. Pix taken 1-1 or 2-1891. 
+<p>Black Elk said-</p>
+<p>"...thus were the 12 strange men and 12 strange women dressed who danced beneath the Tree of Life - The Holy Tree-. They sang. "The people clad as we shall fear no evil thing; for they shall see as you have seen it. Hundreds shall be flame!"</p>
 
-31
-#2
-#5 Wm Fire Thunder (l.) and James <unclear>Merteth</unclear> (r.). Pix taken at Pine Ridge Agency in 1945 by R. Nelson. Fire Thunder was at that time serving one of his many terms as President of the Ogalala Sioux Tribal Council. It is my understanding that his father was in the Wagon Box Fight and other incidents of The Red Cloud War. 
-James <unclear>Merteth</unclear> was a Guard of the Black Hills Ordnance Depot at this time. I traveled with him, and several recruiting trips, all over the reservations of North and South Dakota. Among many stories Jim could tell was one about his (James') finding of Dewey Beard in a deserted, tumbled down cabin 7 or 8 miles from the Wounded Knee fight. This was several days after the battle. Beard who was terribly wounded had crawled there from the battle field - Jim and his father (a Mexican who was in charge of the Pine Ridge beef herd) rescued Beard by hauling him in a load of hay up beyond Manderson Trading Post near the head waters of Wounded Knee Creek.
+<p>le and Trust Company</p> 
+                
+            </div1>
+            
+            <div1 type="attachment">
+                <pb facs="nei.n1a.6.26-43"/>
+                <note type="curatorial">30</note>
+                <note type="authorial">--copied by W-G-</note>
+                <fw type="authorial">
+                    Listing of Items
+                    in Package to John G. Niehardt
+                </fw>
 
-32
-#3
-#6 Calmity Jane - Could Look Like a Woman - Pix may have been taken about 1881 - when she was supposed to be 29/30 years of age.  
-I
- knew the elder Jennewein quite # well. He was with my wife and me when we attended the old settlers' banquet, and I dedicated the monument <unclear>and</unclear> the very school <unclear>house</unclear> - John Neihardt 
+                <p>Numbers Correspond to numbers on back of Pictures -</p> 
+                <p>#1. Manderson Trading Park - pix by R. Nelson taken 1945. Black Elk is standing under the porch - unfortunately in heavy shadow. His light trousers out the bottom of his long black coat are clearly visible. He is holding a long beaded pouch in his right hand. It held his pipe, <unclear>cleaning</unclear> and tamping stick, and tobacco.</p> 
+                <p>#2. Rain In the face - from a <unclear>Fiske</unclear> Photo - may have been taken in the 1880's</p>
+                <p>#3. <unclear>Si tanka</unclear> lies in Death - Pix taken 2 or 3 days after Battle of Wounded Knee - 1 - 1 or 2 - 91</p>
+                <p>#4 No Escape - Dealth Gulch - This is claimed to be a pix of the draw or gulch running toward Pine Ridge - scene some 2 miles from battleground. Pix taken 1-1 or 2-1891.</p> 
+                
+                <pb facs="nei.n1a.6.26-43"/>
+                <note type="curatorial">31</note>
+                <fw type="authorial">#2</fw>
+                
+                <p>#5 Wm Fire Thunder (l.) and James <unclear>Merteth</unclear> (r.). Pix taken at Pine Ridge Agency in 1945 by R. Nelson. Fire Thunder was at that time serving one of his many terms as President of the Ogalala Sioux Tribal Council. It is my understanding that his father was in the Wagon Box Fight and other incidents of The Red Cloud War.</p> 
+                <p>James <unclear>Merteth</unclear> was a Guard of the Black Hills Ordnance Depot at this time. I traveled with him, and several recruiting trips, all over the reservations of North and South Dakota. Among many stories Jim could tell was one about his (James') finding of Dewey Beard in a deserted, tumbled down cabin 7 or 8 miles from the Wounded Knee fight. This was several days after the battle. Beard who was terribly wounded had crawled there from the battle field - Jim and his father (a Mexican who was in charge of the Pine Ridge beef herd) rescued Beard by hauling him in a load of hay up beyond Manderson Trading Post near the head waters of Wounded Knee Creek.</p>
+                
+                <pb facs="nei.n1a.6.26-43"/>
+                <note type="curatorial">32</note>
+                <fw type="authorial">#3</fw>
 
-Fred Jennewein, Red Horn to the Sioux, before 1902 Cowboy, rancher on the Grand; last owner of the Hat brand, in his Cowboy or Open Range Days Museum at Bison, South Dakota. Pix Taken about 1945 by his son J. Leonard Jennewein. Jennewein's Collection now owned by the State of South Dakota and displayed in the Norbeck Lodge, at the Summer White House, in the Black Hills. The robe in the background is a painted, Indian tanned buffalo robe. The items in Fred's lap is a horse hair bridle made by some early day cowboy serving time for cattle rustling in the prison in Cheyenne - a la Harte! It is said that old Fred raised considerable sums of money for the Museum by raffling off the bridle and then buying it back from the winner for his <unclear/> <unclear/>. 
+                <p>#6 Calmity Jane - Could Look Like a Woman - Pix may have been taken about 1881 - when she was supposed to be 29/30 years of age.</p>
+                
+                <note>I knew the elder Jennewein quite # well. He was with my wife and me when we attended the old settlers' banquet, and I dedicated the monument <unclear>and</unclear> the very school <unclear>house</unclear> - John Neihardt</note> 
+                
+                <p>Fred Jennewein, Red Horn to the Sioux, before 1902 Cowboy, rancher on the Grand; last owner of the Hat brand, in his Cowboy or Open Range Days Museum at Bison, South Dakota. Pix Taken about 1945 by his son J. Leonard Jennewein. Jennewein's Collection now owned by the State of South Dakota and displayed in the Norbeck Lodge, at the Summer White House, in the Black Hills. The robe in the background is a painted, Indian tanned buffalo robe. The items in Fred's lap is a horse hair bridle made by some early day cowboy serving time for cattle rustling in the prison in Cheyenne - a la Harte! It is said that old Fred raised considerable sums of money for the Museum by raffling off the bridle and then buying it back from the winner for his <unclear/> <unclear/>.</p> 
+                
+                <pb facs="nei.n1a.6.26-43"/>
+                <note type="curatorial">33</note>
+                <fw type="authorial">#4</fw>
+                
+                <p>#8 The Brands of Yesteryear - the front wall. of Fred Jennewein - Cowboy - or Open Range Days Museum - Bison So Dak. Old Fred explaining to a <unclear>village</unclear> housewife the "trick" of "reading" brands. Pix taken about 1945 by J. Leonard Jennewein. Red Horn's son.</p> 
+                
+                <p>#9 A voice from Wounded Knee - Robert C. Olson Norman (l.) age 93 - was a Private in Co. C. 3rd U.S. 
+                Infantry - he claimed to have been in the Battle of Wounded Knee. 
+                (r.) R. Nelson - pix taken 9-8-63 by Carl <unclear>Eigsti</unclear> on the porch of
+                    the <unclear>Domocillary</unclear> Building at Fork Whipple, Ariz.</p> 
+                <p>#10 Another "shot" of Mr. Norman - with Carl <unclear>Eigsti</unclear> - pix by R. Nelson 9/8/63</p>
+                <p>#11 J. Leonard Jennewein - son of Fred - Professor at Dakota Wesleyan an University, Mitchell, S. Dak. Pix taken 9/65 by R. Nelson - Room housing Jennewein collections.</p> 
+                
+                <pb facs="nei.n1a.6.26-43"/>
+                <note type="curatorial">34</note>
+                <fw type="authorial">#5</fw>
+                
+                <p>#12 Ben American Horse's Camp - pix taken 1952 by R. Nelson at Old Cheyenne River Agency - celebration of 101 Anniversary of the signing of the Laramie Treaty. Attended this celebration will John Claymore, Huron, So. Dakota, who was a descendant of <unclear>Antoine</unclear> <unclear>Clamouex</unclear> and related to Basil Claymore. This area now underwater.</p> 
+                <p>#13 A "Surface find" at Old Fort Pierre - R. Nelson holding a trader axe over spot where he has just found it -  September, 1949. Note monument in background. Pix by J. Leonard Jennewein.</p> 
+                <p>Note: #14, 15, 16, 17, 18 &amp; 19 - are pictures made from glass negatives found a few years ago in the attic of a house in Rapid City, So. Dak. in which Dr. McGillicuddy had once lived. All except #19 appear to have been taken during McGillicuddy's time as Pine Ridge Agent in the late 1870's and early 1880's.</p>
+                
+                <pb facs="nei.n1a.6.26-43"/>
+                <note type="curatorial">35</note>
+                <fw type="authorial">#6</fw>
 
-33
-#4
-#8 The Brands of Yesteryear - the front wall. of Fred Jennewein - Cowboy - or Open Range Days Museum - Bison So Dak. Old Fred explaining to a <unclear>village</unclear> housewife the "trick" of "reading" brands. Pix taken about 1945 by J. Leonard Jennewein. Red Horn's son. 
-
-#9 A voice from Wounded Knee - Robert C. Olson Norman (l.) age 93 - was a Private in Co. C. 3rd U.S. 
-Infantry - he claimed to have been in the Battle of Wounded Knee. 
-(r.) R. Nelson - pix taken 9-8-63 by Carl <unclear>Eigsti</unclear> on the porch of the <unclear>Domocillary</unclear> Building at Fork Whipple, Ariz. 
-#10 Another "shot" of Mr. Norman - with Carl <unclear>Eigsti</unclear> - pix by R. Nelson 9/8/63
-#11 J. Leonard Jennewein - son of Fred - Professor at Dakota Wesleyan an University, Mitchell, S. Dak. Pix taken 9/65 by R. Nelson - Room housing Jennewein collections. 
-
-34
-#5
-#12 Ben American Horse's Camp - pix taken 1952 by R. Nelson at Old Cheyenne River Agency - celebration of 101 Anniversary of the signing of the Laramie Treaty. Attended this celebration will John Claymore, Huron, So. Dakota, who was a descendant of <unclear>Antoine</unclear> <unclear>Clamouex</unclear> and related to Basil Claymore. This area now underwater. 
-#13 A "Surface find" at Old Fort Pierre - R. Nelson holding a trader axe over spot where he has just found it -  September, 1949. Note monument in background. Pix by J. Leonard Jennewein. 
-Note: #14, 15, 16, 17, 18 &amp; 19 - are pictures made from glass negatives found a few years ago in the attic of a house in Rapid City, So. Dak. in which Dr. McGillicuddy had once lived. All except #19 appear to have been taken during McGillicuddy's time as Pine Ridge Agent in the late 1870's and early 1880's. 
-
-35
-#6 
-#14 Hairy Chin - a Metal <unclear>Breast</unclear> - Indian Policeman 
-#15 Unidentified - a Metal <unclear>Breast</unclear>  - 
-#16 Full Dress Inspection - McGilicuddy's Indian Police Force drawn up before the Guard house and officers. 
-#17 The Meeting of the Board - a fine group! 
-Note the proud and haughty <unclear/> to their elegant heads. Unfortunately todate I have positive indentification for only two - both are in the back row - 2nd from left - Dr. McGillicuddy and last in the row, Capt. Sword. In the middle of the front row I have tentative identification of 3rd, 4th, and 5th, from the left  as Two Sticks, Red Cloud, and American Horse (the father of Ben American Horse). 
-It seemed to me that the picture must have been taken before 1880 - since Capt Sword has not yet and his long braids. 
-
-36
-#7
-#18. In Town for Rations - Indian wagons and teams - but <unclear/> <!-- beef issue --> and/or rations day at the Pine Ridge Agency. Note the wagons and teams so typical of those issued by the government to the Indians. 
-#19. On the Border with McGillicuddy - this is a pix of Dr. McGillicuddy in the early 1870's when he was in charge of the Survey Commission surveying the boundary between the U.S. and Canada. 
-#20. This envelope contains a print of a line drawing which I made in 11-66 from a 1965 photo of Dr. Neihardt which was used as the cover ^of two paper back edition of Neihardts "Lyric and Dramatic Poems" 
- 37
-#8
-#21 This envelope consists of some sketches which I had hurridly thrown together in anticipation of <del/> our second meeting on the Sunday before you left Phoenix. 
-If you care to comment as to whether or not these look anything like "holy garments" - I would appreciate your doing so. 
-I realize, of course, that the actual items would not have had such bright colors - at least the white would have been a little more "off white" as best even if I am lucky enough to have designed or depicted a garment somewhat like the real article. 
-Thanks - 
-<unclear>Wanbbe</unclear> Sha 
-P.S. Hope these pix's are what you wanted and can use -
-<unclear/> - 
-
-Shoulder-Sleeve
-Detail
-<figure/>
-Eagle Feathers - to speed the homing soul- 
-The Holy Garment-
-<figure/>
-Front and Back 
-painted with fields of blue - Neck and fringe painted red - the hue of life - 
-Moon of Promise
-leading to the West (end of days)
-Called a "Ghost" or "Medicine Shirt" by Wasichus!
-Back = Same as Front 
-except Star and Road instead of Moon- 
-Front "Ghost Shirt" ??
-<figure/>
-Morning Star 
-to glimmer on the black &amp; fearful Road-
-Garment created by Sioux from instructions give by Black Elk in a discription of what he had seen in a vision (see reverse)
-from John G. Neihardt's "The Song at the Messiah"
-by Wanbleeska-'67 
-40
-
-<figure/>
-Back 
-The Holy Garment - 
-<figure/>
-Front - 
-
-<figure/>
-Back
-The Holy Garment
-<figure/>
-Front 
-
-a garment same thing like this was show as a "Ghost Shirt" in 
-<figure/>
-Front of badly discolor Garment show years ago in Haley's Museum, Rapid City S.D. 
-43
-
-
+                <p>#14 Hairy Chin - a Metal <unclear>Breast</unclear> - Indian Policeman</p> 
+                <p>#15 Unidentified - a Metal <unclear>Breast</unclear>  -</p> 
+                <p>#16 Full Dress Inspection - McGilicuddy's Indian Police Force drawn up before the Guard house and officers.</p> 
+                <p>#17 The Meeting of the Board - a fine group!</p> 
+                <p>Note the proud and haughty <unclear/> to their elegant heads. Unfortunately todate I have positive indentification for only two - both are in the back row - 2nd from left - Dr. McGillicuddy and last in the row, Capt. Sword. In the middle of the front row I have tentative identification of 3rd, 4th, and 5th, from the left  as Two Sticks, Red Cloud, and American Horse (the father of Ben American Horse).</p> 
+                <p>It seemed to me that the picture must have been taken before 1880 - since Capt Sword has not yet and his long braids.</p> 
+                
+                <pb facs="nei.n1a.6.26-43"/>
+                <note type="curatorial">36</note>
+                <fw type="authorial">#7</fw>
+                
+                <p>#18. In Town for Rations - Indian wagons and teams - but <unclear/> <!-- beef issue --> and/or rations day at the Pine Ridge Agency. Note the wagons and teams so typical of those issued by the government to the Indians.</p> 
+                <p>#19. On the Border with McGillicuddy - this is a pix of Dr. McGillicuddy in the early 1870's when he was in charge of the Survey Commission surveying the boundary between the U.S. and Canada.</p> 
+                <p>#20. This envelope contains a print of a line drawing which I made in 11-66 from a 1965 photo of Dr. Neihardt which was used as the cover ^of two paper back edition of Neihardts "Lyric and Dramatic Poems"</p>
+                
+                <pb facs="nei.n1a.6.26-43"/>
+                <note type="curatorial">37</note>
+                <fw type="authorial">#8</fw>
+                
+                <p>#21 This envelope consists of some sketches which I had hurridly thrown together in anticipation of <del/> our second meeting on the Sunday before you left Phoenix.</p> 
+                <p>If you care to comment as to whether or not these look anything like "holy garments" - I would appreciate your doing so.</p> 
+                <p>I realize, of course, that the actual items would not have had such bright colors - at least the white would have been a little more "off white" as best even if I am lucky enough to have designed or depicted a garment somewhat like the real article.</p> 
+                <salute>Thanks -</salute> 
+                <signed><unclear>Wanbbe</unclear> Sha</signed> 
+                <postscript><p>P.S. Hope these pix's are what you wanted and can use -
+                <unclear/> -</p></postscript> 
+                
+            </div1>
+            
+            <div1 type="attachment">
+                <pb facs="nei.n1a.6.26-43"/>
+                <note type="curatorial">40</note>
+                <fw type="authorial"></fw>
+                
+                <p>Shoulder-Sleeve
+                Detail
+                <figure/>
+                Eagle Feathers - to speed the homing soul- 
+                The Holy Garment-
+                <figure/>
+                Front and Back 
+                painted with fields of blue - Neck and fringe painted red - the hue of life - 
+                Moon of Promise
+                leading to the West (end of days)
+                Called a "Ghost" or "Medicine Shirt" by Wasichus!
+                Back = Same as Front 
+                except Star and Road instead of Moon- 
+                Front "Ghost Shirt" ??
+                <figure/>
+                Morning Star 
+                to glimmer on the black &amp; fearful Road-
+                Garment created by Sioux from instructions give by Black Elk in a discription of what he had seen in a vision (see reverse)
+                from John G. Neihardt's "The Song at the Messiah"
+                by Wanbleeska-'67</p>
+                
+                <pb facs="nei.n1a.6.26-43"/>
+                <note type="curatorial">41</note>
+                <fw type="authorial"></fw>
+                <p><figure/>
+                Back 
+                The Holy Garment - 
+                <figure/>
+                Front -</p>
+                
+                <pb facs="nei.n1a.6.26-43"/>
+                <note type="curatorial">42</note>
+                <fw type="authorial"></fw>
+                
+                <p><figure/>
+                Back
+                The Holy Garment
+                <figure/>
+                Front</p>
+                
+                <pb facs="nei.n1a.6.26-43"/>
+                <note type="curatorial">43</note>
+                <fw type="authorial"></fw>
+                
+                <p>a garment same thing like this was show as a "Ghost Shirt" in 
+                <figure/>
+                Front of badly discolor Garment show years ago in Haley's Museum, Rapid City S.D.</p> 
+                
+            </div1>
+                
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

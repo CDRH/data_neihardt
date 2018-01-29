@@ -1,17 +1,205 @@
 <?xml version="1.0" encoding="UTF-8"?>
-14
-1403 Summit Street S.W. 
-April 10, 1969
-Calgary, Alberta
-Dear Mr. Neihardt: 
-What a delight to have your letter. It was like a warm handshake. You have always had that warm quality, as I remember it. I particularly want to thank you for writing to mother. She unquestionably got a great deal of quiet enjoyment from the gesture, even though she is unable to respond directly. You probably know she is not very well, and cannot read at all, so she, who was such a fine correspondent, must leave her correspondence to others. She was the most swift, wide-ranging and voracious reader of my circle. Now she enjoys the talking books, which are of very fine quality, both as to the spoken word, and as to the selections. 
-We are glad that the operation on your second eye has gone by successfully, and by this time, I do believe you probably are able to read with far less difficulty than before. 
-I am sending some of the clippings Mrs. Young sent me, to my daughter, Gretchen Bronaugh, in Iowa City. It would not surprise me if she stopped in Lincoln to see you on her way to Agate in July, if she finds that will not interfere in any way with your schedule. She will be prompted to do so both by her interest in literary matters and her abiding interest in horses, as well as for family reasons. Her own mare is a quarter horse, very fine, and lives in Texas at the Leonards, where some of the finest quarter horse studs are. Gretchen is a rider who hopes eventually to breed horses herself, but that is the future. 
-Spring is coming - even here. It was a very tough winter, and I understand Lincoln suffered too. 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-15
-We are all so proud of you - I am glad Nebraska appreciates, in some degree, what your interest has done for the history of the area. Your distillation of the events of the days of the Indian Wars holds special appeal for me. Fancy my never having owned copies of these volumes that really mean so much to me! Perhaps that was because I always felt the copies at the ranch were mine or part mine, from re-reading every time I was there. 
-In any event, I hope to move to remedy this lack soon. 
-We wait your autobiography -- your chain of recollections! - with pleasure. 
-Fondly, 
-Dorothy C. Meade
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1a.8.14-15">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Dorothy C. Meade to John G. Neihardt, April 10, 1969</title>
+                <author>Meade, Dorothy C.</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1a.8.14-15</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Meade, Dorothy C.</author>
+                    <title level="m" type="main">Letter from Dorothy C. Meade to John G. Neihardt</title>
+                    <date when="1969-04-10">April 10, 1969</date>
+                    <extent>2 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 type written pages</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>2 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="2">
+                            <handNote xml:id="type"><p>Media: type</p></handNote>
+                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="people">
+                    <term>Meade, Dorothy C.</term>
+                    <term>Mrs. Young</term>
+                    <term>Gretchen Bronaugh</term>
+                    <term>the Leonards</term>
+                </keywords>
+                <keywords scheme="original" n="places">
+                    <term>Calgary (Canada)</term>
+                    <term>Iowa City (Iowa)</term>
+                    <term>Lincoln (Neb.)</term>
+                    <term>Agate (Neb.)</term>
+                    <term>Texas</term>
+                    <term>Nebraska</term>
+                </keywords>
+                <keywords scheme="original" n="works">
+                    <term>The Song of the Indian Wars</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Meade, Dorothy C.</persName>
+                    <placeName ref="http://www.geonames.org/5913490">Calgary (Canada)</placeName>
+                    <date when="1969-04-10"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+                    <placeName></placeName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+            </particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2017"><name>Weakly, Laura K.</name> correspDesc Encoding</change>
+            <change when="2013-08"><name xml:id="jg">Gavran, Julie</name> <name>Weakly, Laura K.</name> Keywords</change>
+            <change when="2012-02-29"><name xml:id="lkw">Weakly, Laura K.</name> Initial Encoding</change>
+            <change when="2011-11-28"><name xml:id="ep">Pedigo, Erin</name> Proofreading</change>
+            <change when="2011"><name xml:id="az">Zeljkovic</name> Transcription</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.n1a.8.14-15.xml"/>
+                <note type="curatorial">14</note>
+                <fw type="authorial"></fw>
+                
+                <opener>
+                    
+                    <address>
+                        <addrLine>
+                            1403 Summit Street S.W.
+                        </addrLine>
+                    </address>
+                    
+                    <dateline>April 10, 1969</dateline>
+                    
+                    <address>
+                        <addrLine>
+                            Calgary, Alberta
+                        </addrLine>
+                    </address>
+                    
+                    <salute>
+                        Dear Mr. Neihardt:
+                    </salute>
+                </opener>
+                
+                <p>What a delight to have your letter. It was like a warm handshake. You have always had that warm quality, as I remember it. I particularly want to thank you for writing to mother. She unquestionably got a great deal of quiet enjoyment from the gesture, even though she is unable to respond directly. You probably know she is not very well, and cannot read at all, so she, who was such a fine correspondent, must leave her correspondence to others. She was the most swift, wide-ranging and voracious reader of my circle. Now she enjoys the talking books, which are of very fine quality, both as to the spoken word, and as to the selections.</p> 
+                <p>We are glad that the operation on your second eye has gone by successfully, and by this time, I do believe you probably are able to read with far less difficulty than before.</p>
+                <p>I am sending some of the clippings Mrs. Young sent me, to my daughter, Gretchen Bronaugh, in Iowa City. It would not surprise me if she stopped in Lincoln to see you on her way to Agate in July, if she finds that will not interfere in any way with your schedule. She will be prompted to do so both by her interest in literary matters and her abiding interest in horses, as well as for family reasons. Her own mare is a quarter horse, very fine, and lives in Texas at the Leonards, where some of the finest quarter horse studs are. Gretchen is a rider who hopes eventually to breed horses herself, but that is the future.</p>
+                <p>Spring is coming - even here. It was a very tough winter, and I understand Lincoln suffered too.</p>
+                
+                <pb facs="nei.n1a.8.14-15.xml"/>
+                <note type="curatorial">15</note>
+                <fw type="authorial"></fw>
+                
+                <p>We are all so proud of you - I am glad Nebraska appreciates, in some degree, what your interest has done for the history of the area. Your distillation of the events of the days of the Indian Wars holds special appeal for me. Fancy my never having owned copies of these volumes that really mean so much to me! Perhaps that was because I always felt the copies at the ranch were mine or part mine, from re-reading every time I was there.</p>
+                <p>In any event, I hope to move to remedy this lack soon.</p>
+                <p>We wait your autobiography -- your chain of recollections! - with pleasure.</p>
+                
+                <salute>Fondly,</salute>
+                <signed>Dorothy C. Meade</signed>
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>
