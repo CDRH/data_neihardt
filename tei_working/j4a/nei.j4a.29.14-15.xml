@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.29.3-4">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.29.14-15">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Letter from E. Leigh to John G. Neihardt, January 6, 1961</title>
-                <author>Brown, E. Leigh</author>
+                <title type="main">Letter from Dwight Eisenhower to John G. Neihardt, January 10, 1961</title>
+                <author>Eisenhower, Dwight D., (Dwight David), 1890-1969</author>
                 <principal>Gossin, Pamela</principal>
             </titleStmt>
             <editionStmt>
@@ -31,7 +31,7 @@
                     <addrLine>University of Nebraska-Lincoln</addrLine>
                     <addrLine>Lincoln, NE 68588-4100</addrLine>
                 </address>
-                <idno>nei.j4a.29.3-4</idno>
+                <idno>nei.j4a.29.14-15</idno>
                 <availability>
                     <p></p>
                 </availability>
@@ -41,9 +41,9 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Brown, E. Leigh</author>
-                    <title level="m" type="main">Letter from E. Leigh to John G. Neihardt</title>
-                    <date when="1961-01-06">January 6, 1961</date>
+                    <author>Eisenhower, Dwight D., (Dwight David), 1890-1969</author>
+                    <title level="m" type="main">Letter from Dwight Eisenhower to John G. Neihardt</title>
+                    <date when="1961-01-10">January 10, 1961</date>
                     <extent>1 page</extent>
                 </bibl>
                 <msDesc>
@@ -85,12 +85,12 @@
                     <term></term>
                 </keywords>
                 <keywords scheme="lcsh" n="people">
-                    <term>Brown, E. Leigh</term>
-                    <term>Brown, Marion G.</term>
+                    <term>Fox, Frederic</term>
+                    <term>Eisenhower, Dwight D., (Dwight David), 1890-1969</term>
                 </keywords>
                 <keywords scheme="lcsh" n="places">
                     <term>Columbia (Mo.)</term>
-                    <term>Branson (Mo.)</term>
+                    <term>Washington (D.C.)</term>
                 </keywords>
                 <keywords scheme="lcsh" n="works">
                     <term></term>
@@ -98,9 +98,9 @@
             </textClass>
             <correspDesc>
                 <correspAction type="sentBy">
-                    <persName>Brown, E. Leigh</persName>
-                    <placeName></placeName>
-                    <date when="1961-01-06"/>
+                    <persName ref="http://viaf.org/viaf/100176316">Eisenhower, Dwight D., (Dwight David), 1890-1969</persName>
+                    <placeName ref="http://www.geonames.org/4140963">Washington (D.C.)</placeName>
+                    <date when="1961-01-10"/>
                 </correspAction>
                 <correspAction type="deliveredTo">
                     <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
@@ -120,62 +120,79 @@
         <body>
             
             <div1 type="letter">
-                <pb facs="nei.j4a.29a.3-4"/>
-                <note type="curatorial">3</note>
-                <note type="curatorial">78-1 Neihardt Collection</note>
+                <pb facs="nei.j4a.29.14-15"/>
+                <note type="curatorial">14</note>
+                <note type="curatorial">AU Neihardt Collection</note>
+                
                 <fw type="authorial">
-                    Mrs. E. Leigh Brown
-                    821 West Main Street
-                    Branson Missiouri
+                    The White House
+                    Washington
                 </fw>
+                
                 <opener>
-                    <address>
-                        <addrLine>Dr. John G. Neihardt,</addrLine>
-                        <addrLine>Skyrim, Route 7,</addrLine>
-                        <addrLine>Columbia, Missouri</addrLine>
-                    </address>
-                    
+                    <dateline>January 10,1961</dateline>
                 </opener>
                 
-                <salute>Dear Dr. Neihardt,</salute>
+                <salute>Dear Dr. Neihardt:</salute>
                 
-                <p>Marion and I would like to be with you on your eightieth birthday, but due to necessary refrains in the front of our car and the uncertain wether conditions, it will be impossible for us to be with you and family, but we are remembering the occassion with a small gift we mailed yesterday from Mau's Land. We hope this gift given with affection, will replace our absence. We plan to see you all somethime during the spring or early summer. Until then we wish you many more happy birthdays.</p>
+                <p>It was good to learn of the Surprise Dinner given last Sunday in honor of your 80th birthday.</p>
+                <p>As belated greetings for this occasion, I am delighted to enclose the President's personal card of congratulations.</p>
                 
                 <closer>
-                    <salute>Yours Sincerely,</salute>
-                    <signed>E. Leigh and Marion G. Brown</signed>
+                    
+                    <salute>Sincerely,</salute>
+                    <signed>Frederic Fox</signed>
+                    <signed>Frederic Fox</signed>
+                    <signed>Staff Assistant 
+                        to the President</signed>
+                    
+                    <note type="authorial">Dr. John G. Neihardt
+                        c/o University of Missouri 
+                        Columbia
+                        Missouri</note>
+                    <note type="authorial">Enclosure</note>
+                </closer>
+            </div1>
+            
+            <div1 type="attachment">
+                <pb facs="nei.j4a.29.14-15"/>
+                <note type="curatorial">15</note>
+                <fw type="authorial"></fw>
+                
+                <p>Please accept my sincere congratulations upon your birthday. May good health be yours through many more happy years.</p>
+                
+                <closer>
+                    <signed>Dwight Eisenhower</signed>
                 </closer>
             </div1>
             
             <div1 type="envelope">
-                <pb facs="nei.j4a.29.3-4"/>
-                <note type="curatorial">4</note>
+                <pb facs="nei.j4a.29.14-15"/>
                 
-                <ab type="postmark">
-                    Reeds Spring, JAN 5 %-PM 1961 MO.
+                <ab type="return">
+                    The White House
                 </ab>
                 
+                <ab type="postmark">
+                    Washington Jan 10 PM 1961 D.C.
+                </ab>
+                
+                <note type="authorial">
+                    AIR MAIL
+                </note>
+                
                 <ab type="stamp">
-                    4 cents U.S. Postage
+                    ALIENS MUST <unclear/> THEIR ADDRESSES DURING J<unclear/> 
+                    US AIR MAIL
                 </ab>
                 
                 <ab type="address">
                     Dr. John G. Neihardt
-                    Skyrim, Route 7
-                    Columbia Missouri
+                    c/o University of Missouri 
+                    Columbia 
+                    Missouri
                 </ab>
-            </div1>
-            
-            <div1 type="envelope">
-                <pb facs="nei.j4a.29.3-4"/>
-                <note type="curatorial"></note>
                 
-                <ab type="return">
-                    Mrs. E. Leigh Brown
-                    821 West main Street
-                    Branson Missouri
-                    John G. Neihardt Center
-                </ab>
             </div1>
             
         </body>

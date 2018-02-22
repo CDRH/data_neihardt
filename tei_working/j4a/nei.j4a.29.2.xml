@@ -1,11 +1,155 @@
 <?xml version="1.0" encoding="UTF-8"?>
-78-1 Neihardt Collection Page 2
-January 5, 1961
-Dear John,
-<p>Bower and I are sorry not to be present for the celebration of your eightieth birthday, but we are with you in spirit at this gathering of your friends to wish you well.</p>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<p>As I have said before, my study of your life has impressed me with the richness of all your days. I cannot point to any one period and say, These were the Golden Years. They were and are all golden--the story years when you edited the Blade and wrote long letters to Bob Davis; the lyric yers when you sang as the wind; the Cycle years when heroes came to life again; the critic years when you reminded readers of the White Radiance; and now the teaching years. They are all you finest. your life is a rich stream, flowing its gold into the lives of your family, your colleagues, your students, your friends, your audiences. WE are all grateful for the privilege of knowing you.</p>
-
-<p>On this your day, we join the hosts of your friends in wishing for you--and for us all--many more golden years for you.</p>
-With our love,
-Lucile and Bower
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.29.2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Lucile Aly to John G. Neihardt, January 5, 1961</title>
+                <author>Aly, Lucile Folse, 1913-</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4a.29.2</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Aly, Lucile Folse, 1913-</author>
+                    <title level="m" type="main">Letter from Lucile Aly to John G. Neihardt</title>
+                    <date when="1961-01-05">January 5, 1961</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Aly, Bower, 1903-1977</term>
+                    <term>Aly, Lucile Folse, 1913-</term>
+                    <term>Davis, Robert H. (Robert Hobart), 1869-1942</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term>Bancroft Blade</term>
+                    <term>Lyric and Dramatic Poems</term>
+                    <term>A Cycle of the West</term>
+                    <term>The White Radiance</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName ref="http://viaf.org/viaf/50467731">Aly, Lucile Folse, 1913-</persName>
+                    <placeName></placeName>
+                    <date when="1961-01-05"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <placeName></placeName>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="amm">Morrison, Ashley</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.j4a.29.2"/>
+                <note type="curatorial">2</note>
+                <note type="curatorial">78-1 Neihardt Collection</note>
+                
+                <opener>
+                    
+                    <dateline>January 5, 1961</dateline>
+                    
+                </opener>
+                
+                <salute>Dear John,</salute>
+                
+                <p>Bower and I are sorry not to be present for the celebration of your eightieth birthday, but we are with you in spirit at this gathering of your friends to wish you well.</p>
+                
+                <p>As I have said before, my study of your life has impressed me with the richness
+                    of all your days. I cannot point to any one period and say, These were the Golden Years. They were and are all golden--the story years when you edited the Blade and wrote long letters to Bob Davis; the lyric years when you sang as the wind; the Cycle years when heroes came to life again; the critic years when you reminded readers of the White Radiance; and now the teaching years. They are all you finest. your life is a rich stream, flowing its gold into the lives of your family, your colleagues, your students, your friends, your audiences. WE are all grateful for the privilege of knowing you.</p>
+                
+                <p>On this your day, we join the hosts of your friends in wishing for you--and for us all--many more golden years for you.</p>
+                <closer>
+                    <salute>With our love,</salute>
+                    <signed>Lucile and Bower</signed>
+                </closer>
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

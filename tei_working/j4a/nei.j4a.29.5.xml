@@ -1,15 +1,157 @@
 <?xml version="1.0" encoding="UTF-8"?>
-76 Neihardt Collection
-Page 5 LHL
-2440 Thormuood
-Wilmette, Ill.
-Jan. 6, 1961
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-Dear Old Friend,
-<p>So! you are having a birthday! you, your magnificent writings, and your adorable family, are constantly in my thoughts I like to think of you as "resident" on a campus! Fortunate students and Faculty! My brother Julius House, S.A.E. Frat. attended Missouri U. in 1893. I am glad it has remained idealistic and wholesome. So much of the world has lost its <unclear/> of discrimination and appreciation!</p>
-<p>Please write me some of the family, I wish I be at the party! My heart will be there and I wish you could have eternal youth and life! A hundred years your now your great lines will be singing strongly in the world, while lesser writings are gone!</p>
-<p>So, you really will "live forever"! Sincere affection to all the family and a special wish for you birthday!</p>
-Rebon, my son joins me in greetings.
-Sincerely, 
-Lelah N. Stoker
-(Mrs. John E.)
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.29.5">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Lelah H. Stoker to John G. Neihardt, January 6, 1961</title>
+                <author>Stoker, Lelah H.</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4a.29.5</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Stoker, Lelah H.</author>
+                    <title level="m" type="main">Letter from Lelah H. Stoker to John G. Neihardt</title>
+                    <date when="1961-01-06">January 6, 1961</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>House, Julius T. (Julius Temple)</term>
+                    <term>Stoker, Lelah H.</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Wilmette (Ill.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Stoker, Lelah H.</persName>
+                    <placeName ref="http://www.geonames.org/4916732">Wilmette (Ill.)</placeName>
+                    <date when="1961-01-06"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <placeName></placeName>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="amm">Morrison, Ashley</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.j4a.29.5"/>
+                <note type="curatorial">5</note>
+                <note type="curatorial">76 Neihardt Collection</note>
+                
+                <fw type="authorial">
+                    LHL
+                </fw>
+                <opener>
+                    
+                    <address>
+                        <addrLine>2440 Thormuood</addrLine>
+                        <addrLine>Wilmette, Ill.</addrLine>
+                    </address>
+                    <dateline>Jan. 6, 1961</dateline>
+                </opener>
+                
+                <salute>Dear Old Friend,</salute>
+                
+                <p>So! you are having a birthday! you, your magnificent writings, and your adorable family, are constantly in my thoughts I like to think of you as "resident" on a campus! Fortunate students and Faculty! My brother Julius House, S.A.E. Frat. attended Missouri U. in 1893. I am glad it has remained idealistic and wholesome. So much of the world has lost its <unclear/> of discrimination and appreciation!</p>
+                <p>Please write me some of the family, I wish I be at the party! My heart will be there and I wish you could have eternal youth and life! A hundred years your now your great lines will be singing strongly in the world, while lesser writings are gone!</p>
+                <p>So, you really will "live forever"! Sincere affection to all the family and a special wish for you birthday!</p>
+                <p>Rebon, my son joins me in greetings.</p>
+                
+                <closer>
+                    <salute>Sincerely,</salute>
+                    <signed>Lelah H. Stoker</signed>
+                    <signed>(Mrs. John E.)</signed>
+                </closer>
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

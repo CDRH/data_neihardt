@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.29.3-4">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.29.44">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Letter from E. Leigh to John G. Neihardt, January 6, 1961</title>
-                <author>Brown, E. Leigh</author>
+                <title type="main">Letter from William R. Laird to John G. Neihardt, February 15, 1961</title>
+                <author>Laird, William R.</author>
                 <principal>Gossin, Pamela</principal>
             </titleStmt>
             <editionStmt>
@@ -31,7 +31,7 @@
                     <addrLine>University of Nebraska-Lincoln</addrLine>
                     <addrLine>Lincoln, NE 68588-4100</addrLine>
                 </address>
-                <idno>nei.j4a.29.3-4</idno>
+                <idno>nei.j4a.29.44</idno>
                 <availability>
                     <p></p>
                 </availability>
@@ -41,9 +41,9 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Brown, E. Leigh</author>
-                    <title level="m" type="main">Letter from E. Leigh to John G. Neihardt</title>
-                    <date when="1961-01-06">January 6, 1961</date>
+                    <author>Laird, William R.</author>
+                    <title level="m" type="main">Letter from William R. Laird to John G. Neihardt</title>
+                    <date when="1961-02-15">February 15, 1961</date>
                     <extent>1 page</extent>
                 </bibl>
                 <msDesc>
@@ -85,12 +85,13 @@
                     <term></term>
                 </keywords>
                 <keywords scheme="lcsh" n="people">
-                    <term>Brown, E. Leigh</term>
-                    <term>Brown, Marion G.</term>
+                    <term>Laird, William R.</term>
+                    <term>Troelstrup</term>
+                    <term>Vining, Roscoe H.</term>
                 </keywords>
                 <keywords scheme="lcsh" n="places">
                     <term>Columbia (Mo.)</term>
-                    <term>Branson (Mo.)</term>
+                    <term>Kanawha Falls (W. Va.)</term>
                 </keywords>
                 <keywords scheme="lcsh" n="works">
                     <term></term>
@@ -98,9 +99,9 @@
             </textClass>
             <correspDesc>
                 <correspAction type="sentBy">
-                    <persName>Brown, E. Leigh</persName>
-                    <placeName></placeName>
-                    <date when="1961-01-06"/>
+                    <persName>Laird, William R.</persName>
+                    <placeName ref="http://www.geonames.org/4810636">Kanawha Falls (W. Va.)</placeName>
+                    <date when="1961-02-15"/>
                 </correspAction>
                 <correspAction type="deliveredTo">
                     <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
@@ -120,62 +121,40 @@
         <body>
             
             <div1 type="letter">
-                <pb facs="nei.j4a.29a.3-4"/>
-                <note type="curatorial">3</note>
-                <note type="curatorial">78-1 Neihardt Collection</note>
+                <pb facs="nei.j4a.29.44"/>
+                <note type="curatorial">44</note>
+                <note type="curatorial">74-1 Neihardt Collection</note>
                 <fw type="authorial">
-                    Mrs. E. Leigh Brown
-                    821 West Main Street
-                    Branson Missiouri
+                    Tweedsuir
+                    Kanawha Falls,
+                    West Virginia
                 </fw>
+                
                 <opener>
-                    <address>
-                        <addrLine>Dr. John G. Neihardt,</addrLine>
-                        <addrLine>Skyrim, Route 7,</addrLine>
-                        <addrLine>Columbia, Missouri</addrLine>
-                    </address>
-                    
+                    <salute>My dear Doctor Neihardt:</salute>
                 </opener>
                 
-                <salute>Dear Dr. Neihardt,</salute>
-                
-                <p>Marion and I would like to be with you on your eightieth birthday, but due to necessary refrains in the front of our car and the uncertain wether conditions, it will be impossible for us to be with you and family, but we are remembering the occassion with a small gift we mailed yesterday from Mau's Land. We hope this gift given with affection, will replace our absence. We plan to see you all somethime during the spring or early summer. Until then we wish you many more happy birthdays.</p>
+                <p>Mrs. Troelstrup sent me the interesting clipping about the birthday celebration.</p>
+                <p>Doctor Vining is now feeling the whips and scorns of time but is living usefully, albeit a bit irrespons-ibly and unpredictably. I believe he is writing you.</p>
+                <p>I consider myself a rarely privileged person to have known you. It is one of the most rewarding and stimulating experiences of my life. I am reading your poetry continually and enjoy it just as much as ever.</p>
+                <p>Permit me to extend to you a very special salutations. No brighter light than yours has been shed on the dark wilderness of thsi world, where the Chorus sings of terror, pity, and the tears of things.</p>
+                <p>May the richest blessings be your portion.</p>
                 
                 <closer>
-                    <salute>Yours Sincerely,</salute>
-                    <signed>E. Leigh and Marion G. Brown</signed>
+                    <salute>Faithfully yours,</salute>
+                    <signed>William R. Laird</signed>
+                    
+                    <note>
+                        <address>
+                            <addrLine>Dr. John G. Neihardt</addrLine>
+                            <addrLine>Columbia</addrLine>
+                            <addrLine>Missiouri</addrLine>
+                            <addrLine>15 February 1961</addrLine>
+                        </address>
+                    </note>
+                    
                 </closer>
-            </div1>
-            
-            <div1 type="envelope">
-                <pb facs="nei.j4a.29.3-4"/>
-                <note type="curatorial">4</note>
                 
-                <ab type="postmark">
-                    Reeds Spring, JAN 5 %-PM 1961 MO.
-                </ab>
-                
-                <ab type="stamp">
-                    4 cents U.S. Postage
-                </ab>
-                
-                <ab type="address">
-                    Dr. John G. Neihardt
-                    Skyrim, Route 7
-                    Columbia Missouri
-                </ab>
-            </div1>
-            
-            <div1 type="envelope">
-                <pb facs="nei.j4a.29.3-4"/>
-                <note type="curatorial"></note>
-                
-                <ab type="return">
-                    Mrs. E. Leigh Brown
-                    821 West main Street
-                    Branson Missouri
-                    John G. Neihardt Center
-                </ab>
             </div1>
             
         </body>

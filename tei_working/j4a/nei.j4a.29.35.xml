@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.29.3-4">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.29.35">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Letter from E. Leigh to John G. Neihardt, January 6, 1961</title>
-                <author>Brown, E. Leigh</author>
+                <title type="main">Letter from Helen Pile Newton to John G. Neihardt, February 7th, 1961</title>
+                <author>Newton, Helen Pile</author>
                 <principal>Gossin, Pamela</principal>
             </titleStmt>
             <editionStmt>
@@ -31,7 +31,7 @@
                     <addrLine>University of Nebraska-Lincoln</addrLine>
                     <addrLine>Lincoln, NE 68588-4100</addrLine>
                 </address>
-                <idno>nei.j4a.29.3-4</idno>
+                <idno>nei.j4a.29.35</idno>
                 <availability>
                     <p></p>
                 </availability>
@@ -41,9 +41,9 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Brown, E. Leigh</author>
-                    <title level="m" type="main">Letter from E. Leigh to John G. Neihardt</title>
-                    <date when="1961-01-06">January 6, 1961</date>
+                    <author>Newton, Helen Pile</author>
+                    <title level="m" type="main">Letter from Helen Pile Newton to John G. Neihardt</title>
+                    <date when="1961-02-07">February 7th, 1961</date>
                     <extent>1 page</extent>
                 </bibl>
                 <msDesc>
@@ -85,22 +85,24 @@
                     <term></term>
                 </keywords>
                 <keywords scheme="lcsh" n="people">
-                    <term>Brown, E. Leigh</term>
-                    <term>Brown, Marion G.</term>
+                    <term>Newton, George Reid</term>
+                    <term>Newton, Helen Pile</term>
                 </keywords>
                 <keywords scheme="lcsh" n="places">
+                    <term>Skokie (Ill.)</term>
                     <term>Columbia (Mo.)</term>
-                    <term>Branson (Mo.)</term>
+                    <term>Arkansas</term>
                 </keywords>
                 <keywords scheme="lcsh" n="works">
-                    <term></term>
+                    <term>The Divine Enchantment</term>
+                    <term>Chicago Tribune</term>
                 </keywords>
             </textClass>
             <correspDesc>
                 <correspAction type="sentBy">
-                    <persName>Brown, E. Leigh</persName>
-                    <placeName></placeName>
-                    <date when="1961-01-06"/>
+                    <persName>Newton, Helen Pile</persName>
+                    <placeName ref="http://www.geonames.org/4911600">Skokie (Ill.)</placeName>
+                    <date when="1961-02-07"/>
                 </correspAction>
                 <correspAction type="deliveredTo">
                     <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
@@ -120,62 +122,42 @@
         <body>
             
             <div1 type="letter">
-                <pb facs="nei.j4a.29a.3-4"/>
-                <note type="curatorial">3</note>
-                <note type="curatorial">78-1 Neihardt Collection</note>
+                <pb facs="nei.j4a.29.35"/>
+                <note type="curatorial">35</note>
+                <note type="curatorial">Neihardt Collection</note>
                 <fw type="authorial">
-                    Mrs. E. Leigh Brown
-                    821 West Main Street
-                    Branson Missiouri
+                    7912 NORTH KARLOV AVENUE 
+                    SKOKIE 6, ILLINOIS
                 </fw>
+                
+                <note type="authorial">
+                    I remember your first poem "Divine Enchantment" and how proud my partner was when you sent him a copy!! A.P.N.
+                </note>
+                
                 <opener>
+                    <dateline>Tuesday Feb. 7th, 1961</dateline>
+                    
                     <address>
-                        <addrLine>Dr. John G. Neihardt,</addrLine>
-                        <addrLine>Skyrim, Route 7,</addrLine>
+                        <addrLine>Mr. John G. Neihardt</addrLine>
+                        <addrLine>Skyrim</addrLine>
+                        <addrLine>R. D. 7</addrLine>
                         <addrLine>Columbia, Missouri</addrLine>
                     </address>
-                    
                 </opener>
                 
-                <salute>Dear Dr. Neihardt,</salute>
+                <salute>Dear Mr. Neihardt:</salute>
                 
-                <p>Marion and I would like to be with you on your eightieth birthday, but due to necessary refrains in the front of our car and the uncertain wether conditions, it will be impossible for us to be with you and family, but we are remembering the occassion with a small gift we mailed yesterday from Mau's Land. We hope this gift given with affection, will replace our absence. We plan to see you all somethime during the spring or early summer. Until then we wish you many more happy birthdays.</p>
+                <p>Dear John: Your note concerning your vivid dream of Fred was so interesting and
+                    such experiences are difficult of explanations.</p>
+                <p>I am sending you a clipping from last Sundays "Letters to Editor" from our Chicago Tribune, you may have seen it but it was along your line-and maybe you can understand it all-(I'm frank to say I cannot). To you work so hard on your poems? So sorry I missed session of your birthday celebration and how old are you? Fred was 2 years older than I and shall be 75 my next birthday.  I think I read everything in Chigo Tribune, but that I missed. My daughter in law was in Arkansas and I was looking after family. So May have been careless at that time.</p>
+                <p>May I wish for Mrs. Neihardt and you a comfortable 1961 and wish sincere regards to you both, I am</p>
                 
                 <closer>
-                    <salute>Yours Sincerely,</salute>
-                    <signed>E. Leigh and Marion G. Brown</signed>
+                    <salute>Sincerely,</salute>
+                    <signed>Helena Pale Newton</signed>
+                    
                 </closer>
-            </div1>
-            
-            <div1 type="envelope">
-                <pb facs="nei.j4a.29.3-4"/>
-                <note type="curatorial">4</note>
                 
-                <ab type="postmark">
-                    Reeds Spring, JAN 5 %-PM 1961 MO.
-                </ab>
-                
-                <ab type="stamp">
-                    4 cents U.S. Postage
-                </ab>
-                
-                <ab type="address">
-                    Dr. John G. Neihardt
-                    Skyrim, Route 7
-                    Columbia Missouri
-                </ab>
-            </div1>
-            
-            <div1 type="envelope">
-                <pb facs="nei.j4a.29.3-4"/>
-                <note type="curatorial"></note>
-                
-                <ab type="return">
-                    Mrs. E. Leigh Brown
-                    821 West main Street
-                    Branson Missouri
-                    John G. Neihardt Center
-                </ab>
             </div1>
             
         </body>
@@ -183,3 +165,4 @@
         <back></back>
     </text>
 </TEI>
+

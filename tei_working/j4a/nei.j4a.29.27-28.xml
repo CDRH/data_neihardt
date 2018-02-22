@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.29.3-4">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.29.27-28">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Letter from E. Leigh to John G. Neihardt, January 6, 1961</title>
-                <author>Brown, E. Leigh</author>
+                <title type="main">Letter from Slade Kendrick to John G. Neihardt, January 27, 1961</title>
+                <author>Kendrick, M. Slade (Myron Slade)</author>
                 <principal>Gossin, Pamela</principal>
             </titleStmt>
             <editionStmt>
@@ -31,7 +31,7 @@
                     <addrLine>University of Nebraska-Lincoln</addrLine>
                     <addrLine>Lincoln, NE 68588-4100</addrLine>
                 </address>
-                <idno>nei.j4a.29.3-4</idno>
+                <idno>nei.j4a.29.27-28</idno>
                 <availability>
                     <p></p>
                 </availability>
@@ -41,10 +41,10 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Brown, E. Leigh</author>
-                    <title level="m" type="main">Letter from E. Leigh to John G. Neihardt</title>
-                    <date when="1961-01-06">January 6, 1961</date>
-                    <extent>1 page</extent>
+                    <author>Kendrick, M. Slade (Myron Slade)</author>
+                    <title level="m" type="main">Letter from Slade Kendrick to John G. Neihardt</title>
+                    <date when="1961-01-27">January 27, 1961</date>
+                    <extent>2 pages</extent>
                 </bibl>
                 <msDesc>
                     <msIdentifier>
@@ -52,7 +52,7 @@
                         <idno></idno>
                     </msIdentifier>
                     <msContents>
-                        <p>1 type-written page</p>
+                        <p>2 hand-written pages</p>
                     </msContents>
                 </msDesc>
                 
@@ -85,22 +85,20 @@
                     <term></term>
                 </keywords>
                 <keywords scheme="lcsh" n="people">
-                    <term>Brown, E. Leigh</term>
-                    <term>Brown, Marion G.</term>
+                    <term>Kendrick, M. Slade (Myron Slade)</term>
                 </keywords>
                 <keywords scheme="lcsh" n="places">
-                    <term>Columbia (Mo.)</term>
-                    <term>Branson (Mo.)</term>
+                    <term>Ithaca (N.Y.)</term>
                 </keywords>
                 <keywords scheme="lcsh" n="works">
-                    <term></term>
+                    <term>St. Louis Post-Dispatch</term>
                 </keywords>
             </textClass>
             <correspDesc>
                 <correspAction type="sentBy">
-                    <persName>Brown, E. Leigh</persName>
-                    <placeName></placeName>
-                    <date when="1961-01-06"/>
+                    <persName ref="http://viaf.org/viaf/42749633">Kendrick, M. Slade (Myron Slade)</persName>
+                    <placeName ref="http://www.geonames.org/5122432">Ithaca (N.Y.)</placeName>
+                    <date when="1961-01-27"/>
                 </correspAction>
                 <correspAction type="deliveredTo">
                     <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
@@ -120,62 +118,33 @@
         <body>
             
             <div1 type="letter">
-                <pb facs="nei.j4a.29a.3-4"/>
-                <note type="curatorial">3</note>
-                <note type="curatorial">78-1 Neihardt Collection</note>
-                <fw type="authorial">
-                    Mrs. E. Leigh Brown
-                    821 West Main Street
-                    Branson Missiouri
-                </fw>
-                <opener>
-                    <address>
-                        <addrLine>Dr. John G. Neihardt,</addrLine>
-                        <addrLine>Skyrim, Route 7,</addrLine>
-                        <addrLine>Columbia, Missouri</addrLine>
-                    </address>
-                    
-                </opener>
-                
-                <salute>Dear Dr. Neihardt,</salute>
-                
-                <p>Marion and I would like to be with you on your eightieth birthday, but due to necessary refrains in the front of our car and the uncertain wether conditions, it will be impossible for us to be with you and family, but we are remembering the occassion with a small gift we mailed yesterday from Mau's Land. We hope this gift given with affection, will replace our absence. We plan to see you all somethime during the spring or early summer. Until then we wish you many more happy birthdays.</p>
-                
-                <closer>
-                    <salute>Yours Sincerely,</salute>
-                    <signed>E. Leigh and Marion G. Brown</signed>
-                </closer>
-            </div1>
-            
-            <div1 type="envelope">
-                <pb facs="nei.j4a.29.3-4"/>
-                <note type="curatorial">4</note>
-                
-                <ab type="postmark">
-                    Reeds Spring, JAN 5 %-PM 1961 MO.
-                </ab>
-                
-                <ab type="stamp">
-                    4 cents U.S. Postage
-                </ab>
-                
-                <ab type="address">
-                    Dr. John G. Neihardt
-                    Skyrim, Route 7
-                    Columbia Missouri
-                </ab>
-            </div1>
-            
-            <div1 type="envelope">
-                <pb facs="nei.j4a.29.3-4"/>
+                <pb facs="nei.j4a.29.27-28"/>
+                <note type="curatorial">27</note>
                 <note type="curatorial"></note>
                 
-                <ab type="return">
-                    Mrs. E. Leigh Brown
-                    821 West main Street
-                    Branson Missouri
-                    John G. Neihardt Center
-                </ab>
+                <opener>
+                    <dateline>
+                        225 Willard Way, Ithaca, N.Y.
+                        Jan 27, 1961
+                    </dateline>
+                </opener>
+                
+                <salute>Dear John:</salute> <p>What a wonderful birthday party! And how I wish I could have been there and have heard those speeches. And how lovely it was that your daughters stood beside you while cutting the cake. Now you have a good start on the years beyond, while I trust will cover "many grasses, many <unlcear/>".</p>
+                <p>And the new students, too, have already given you their approval, by thronging to enter your class <unclear>on</unclear> Epic America. How much you will influence them all their days. I envy them the chance to take your courses. But I am blessed in another way - your friendship.</p>
+                <p>That experience of seeking at the past in the Post Dispatch Building was interesting. A newspaper is such a busy place with all the scattered of recording and correcting on the news and with those deadlines to meet. The stillness must be days when the presses have stopped and the people have gone, and later is only emptiness. And, as you <unclear>know</unclear>, "life is a <unclear/> business." You add that we know so little about life. To this I would</p>
+                
+                <pb facs="nei.j4a.29.27-28"/>
+                <note type="curatorial">28</note>
+                <fw type="authorial">-2.</fw>
+                
+                <p>respond that we know much more about death, or what we take to be death. And that, came to think of it is singular. Surely the positive side of human existence is to be emphasized.</p>
+                <p>We have been having very cold weather of late, the temperatures at night, hovering around zero and often below, But we have late kept well and have gone about our respective duties. Yesterday afternoon, I saw an extra ordinary phenomenon. Looking at the lake, as I always do, I saw beyond the wide margin of ice at this end a low pink fog extending to the horizon. It was at once strange and beautiful. I cannot re-call another like view, although I have looked upon that lake for many years.</p>
+                <p>I'll close now my dear, dear friend.</p>
+                
+                <closer>
+                    <salute>Affectionately,</salute>
+                    <signed>Slade</signed>
+                </closer>
             </div1>
             
         </body>
