@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1b.5.6">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1b.5.9">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Letter from John G. Neihardt to Members of the Lemmon Chamber of Commerce, July 13, 1973</title>
+                <title type="main">Letter from John G. Neihardt to Linda D. DeLowry, September 4, 1973</title>
                 <author>Neihardt, John G., 1881-1973.</author>
                 <principal>Gossin, Pamela</principal>
             </titleStmt>
@@ -31,7 +31,7 @@
                     <addrLine>University of Nebraska-Lincoln</addrLine>
                     <addrLine>Lincoln, NE 68588-4100</addrLine>
                 </address>
-                <idno>nei.n1b.5.6</idno>
+                <idno>nei.n1b.5.9</idno>
                 <availability>
                     <p></p>
                 </availability>
@@ -42,8 +42,8 @@
             <sourceDesc>
                 <bibl>
                     <author>Neihardt, John G., 1881-1973.</author>
-                    <title level="m" type="main">Letter from John G. Neihardt to Members of the Lemmon Chamber of Commerce</title>
-                    <date when="1973-07-13">July 13, 1973</date>
+                    <title level="m" type="main">Letter from John G. Neihardt to Linda D. DeLowry</title>
+                    <date when="1973-09-04">September 4, 1973</date>
                     <extent>1 page</extent>
                 </bibl>
                 <msDesc>
@@ -85,15 +85,16 @@
                     <term></term>
                 </keywords>
                 <keywords scheme="lcsh" n="people">
-                    <term>Young, Julius</term>
-                    <term>Glass, Hugh, approximately 1780-approximately 1833</term>
-                    <term>Neihardt, Sigurd</term>
+                    <term>DeLowry, Linda D.</term>
+                    <term>Aly, Lucile Folse, 1913-</term>
+                    <term>Prewitt, Nancy C.</term>
                 </keywords>
                 <keywords scheme="lcsh" n="places">
-                    <term>Lemmon (S.D.)</term>
+                    <term>Lincoln (Neb.)</term>
+                    <term>Columbia (Mo.)</term>
                 </keywords>
                 <keywords scheme="lcsh" n="works">
-                    <term>The Song of Hugh Glass</term>
+                    <term></term>
                 </keywords>
             </textClass>
             <correspDesc>
@@ -102,9 +103,9 @@
                     <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
                 </correspAction>
                 <correspAction type="deliveredTo">
-                    <persName></persName>
-                    <placeName ref="http://www.geonames.org/5766453">Lemmon (S.D.)</placeName>
-                    <date when="1973-07-13"/>
+                    <persName>DeLowry, Linda D.</persName>
+                    <placeName ref="http://www.geonames.org/4381982">Columbia (Mo.)</placeName>
+                    <date when="1973-09-04"/>
                 </correspAction>
             </correspDesc>
             <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
@@ -120,66 +121,42 @@
         <body>
             
             <div1 type="letter">
-                <pb facs="nei.n1b.5.6"/>
-                <note type="curatorial">6</note>
+                <pb facs="nei.n1b.5.9"/>
+                <note type="curatorial">9</note>
                 
                 <opener>
-
-                    <dateline>July 13, 1973</dateline>
+                    <address>
+                        <addrLine>5835 Vine Street</addrLine> 
+                        <addrLine>Lincoln, Nebraska 68505</addrLine>
+                    </address>    
+                    <dateline>September 4, 1973</dateline>
+                    <address>
+                        <addrLine>Miss Linda DeLowry</addrLine>
+                        <addrLine>c/o Western Manuscripts Collection</addrLine> 
+                        <addrLine>Library Building</addrLine> 
+                        <addrLine>University of Missouri</addrLine> 
+                        <addrLine>Columbia, Missouri 65201</addrLine> 
+                    </address>
                     
-                    <salute>Members of the Lemmon Chamber of Commerce, ladies and gentlemen:</salute>
+                    <salute>Dear Miss DeLowry:</salute>
                     
                 </opener>
                 
-                <p>It was my intention to be with you on this great day, but owing to illness I am unable to come. My
-                old friend, J.D. Young, has kindly consented to read this message to you. You may be sure, however,
-                that my heart and soul are with you there, and I thank you for your thought of me.</p> 
-                <p>When I was a young man in the heyday of my writing years it was my habit to dedicate my books to
-                the children of my family as they came along. When my Song of Hugh Glass was completed after three
-                years of devoted effort, I dedicated it to my only son, Sigurd, then scarcely three. The dedication
-                ran thus:</p>
+                <p>I am interested in your project - a somatic study of Neihardt's work - and I note that you would be
+                principally interested in the short stories. I think you and I should have a meeting, and I think
+                you should consult Dr. Lucile Aly's bibliography, which lists practically everything that  I have
+                written. I have a copy here but am not free to loan it.</p> 
+                <p>I have written Mrs. Prewitt of the Western Manuscripts Col-lection, and a copy of that letter is
+                enclosed.</p> 
+                <p>If you can come to Lincoln to talk with me, it would be well to call us for an appointment.</p> 
                 
-                <p>TO SIGURD, SCARCELY THREE</p> 
-                <l>When you are old enough to know</l>
-                <l>the joys of kite and boat and bow</l>
-                <l>and other suchlike splendid things</l>
-                <l>That boyhood's rounded decade brings,</l> 
-                <l>I shall not give you tropes and rhymes;</l>
-                <l>But, rising to those rousing times,</l>
-                <l>I shall ply well and craft I know</l> 
-                <l>Of shaping kite and boat and bow,</l>  
-                <l>For you shall teach me once again</l>
-                <l>The goodly art of being ten.</l> 
-                <l>Meanwhile, as on a rainy day</l>
-                <l>When 'tis not possible to play, The while you do your best to grow</l>
-                <l>I ply the other craft I know</l> 
-                <l>And strive to build for you the mood</l>
-                <l>of daring and fortitude</l> 
-                <l>With fitted word and shapen phrase,</l>
-                <l>Against those later wonder-days</l>
-                <l>When first you glimpse the world of men</l>
-                <l>Beyond the bleaker side of ten.</l> 
-                
-                <p>That was in 1915, more than half a century ago. I have kept my promise to the boy of ten and made
-                kites, and boats and bows; I have built the mood of daring and of fortitude for the growing man,
-                exemplified by old Hugh Glass.</p> 
-                <p>I watched my boy grow old -- and full of sleep -- and now that it has been getting later and later
-                for me recently, it thrills me to think innumberable men, women, and children will spend happy times
-                in this recreation park near where Hugh Glass fought alone for life.</p> 
-                <p>And may many learn the great lessons set forth in Hugh Glass. For instance: 
-                "nor might treachery recall the miracle of being loved at all."</p> 
-                
-                
-                <p>And also-</p>
-                <p>"The duty and the beauty of endeavor, the privilege of going on forever, a victor in the moment!"
-                Again, I thank you for this very special honor that has come to me in the dedication of this Hugh
-                Glass Park.</p> 
-
                 <closer>
-                    <salute>Sincerely,</salute>
-                    <signed>(signed) John G. Neihardt</signed>
+                    <salute>Yours,</salute>
+                    <signed>John Neihardt</signed>
                 </closer>
-                                
+                
+                <note type="authorial">JGN:nh</note>
+                
             </div1>
             
         </body>

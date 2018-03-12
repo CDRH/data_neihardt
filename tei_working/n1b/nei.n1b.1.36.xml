@@ -1,23 +1,170 @@
 <?xml version="1.0" encoding="UTF-8"?>
-36 
-5835 Vine Street 
-Lincoln, Nebraska 68505 
-November 11, 1969 
-Librarian 
-Henry E Huntington Library 
-1151 Oxford Road 
-San Marino, California 91108 
-Dear Sir: 
-I am very eager to find and obtain xerox copies of the following: 
-1. Letters from George Sterling to John G. Neihardt
-2. Letters from John G. Neihardt to George Sterling 
-3. Letters exchanged between John G. Neihardt and Edwin Arlington Robinson 
-4. Letters exchanged between John G. Neihardt and Volney Streamer, curator of the Players Club, New
-York, during the first decade of the century. 
-These were sold sometime between 1920 and 1930 through a well-known New York book dealer to an
-institu-tion whose name I no longer recall. I am in the process of writing my autobiography and
-would like very much to refresh my memory concerning these letters. 
-I feel that you might have information regarding the location of such collections as this. Anything
-you can do to help me locate these letters will be much appreciated. 
-Sincerely yours, 
-JGN:fmb John G. Neihardt 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1b.1.36">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to Librarian at the Henry E.
+                    Huntington Library, November 11, 1969</title>
+                <author>Neihardt, John G., 1881-1973.</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1b.1.36</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John G., 1881-1973.</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Librarian at the Henry E.
+                        Huntington Library</title>
+                    <date when="1969-11-11">November 11, 1969</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Sterling, George, 1869-1926</term>
+                    <term>Robinson, Edwin Arlington, 1869-1935</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Lincoln (Neb.)</term>
+                    <term>San Marino (Calif.)</term>
+                    <term>New York</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName></persName>
+                    <placeName ref="http://www.geonames.org/5392400">San Marino (Calif)</placeName>
+                    <date when="1969-11-11"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.n1b.1.36"/>
+                <note type="curatorial">36</note>
+                
+                <opener>
+                    <address>
+                        <addrLine>5835 Vine Street</addrLine> 
+                        <addrLine>Lincoln, Nebraska 68505</addrLine> 
+                    </address>
+                    <dateline>November 11, 1969</dateline>
+                    <address>
+                        <addrLine>Librarian</addrLine> 
+                        <addrLine>Henry E Huntington Library</addrLine> 
+                        <addrLine>1151 Oxford Road</addrLine> 
+                        <addrLine>San Marino, California 91108</addrLine>
+                    </address>
+                    
+                    <salute>Dear Sir:</salute>
+                </opener>
+                
+                <p>I am very eager to find and obtain xerox copies of the following:</p> 
+                <p>1. Letters from George Sterling to John G. Neihardt</p>
+                <p>2. Letters from John G. Neihardt to George Sterling</p> 
+                <p>3. Letters exchanged between John G. Neihardt and Edwin Arlington Robinson</p> 
+                <p>4. Letters exchanged between John G. Neihardt and Volney Streamer, curator of the Players Club, New
+                York, during the first decade of the century.</p> 
+                <p>These were sold sometime between 1920 and 1930 through a well-known New York book dealer to an
+                institu-tion whose name I no longer recall. I am in the process of writing my autobiography and
+                would like very much to refresh my memory concerning these letters.</p> 
+                <p>I feel that you might have information regarding the location of such collections as this. Anything
+                you can do to help me locate these letters will be much appreciated.</p> 
+                
+                <closer>
+                    <salute>Sincerely yours,</salute>
+                    <signed>John G. Neihardt </signed>
+                
+                <note type="authorial">JGN:fmb</note>
+                </closer>
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

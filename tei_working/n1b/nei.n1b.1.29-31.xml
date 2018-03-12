@@ -1,42 +1,209 @@
 <?xml version="1.0" encoding="UTF-8"?>
-29
-5835 Vine Street
-Lincoln, Nebraska 68505 
-August 24, 1969 
-Mr. John Converse
-Box 307 
-Bancroft, Nebraska 68004
-Dear John Converse:
-I have only now been able to read the manuscript you left for me in Bancroft. As a rule, when alleged poetry is given to me for my opinion, what I read makes me very unhappy; for it is seldom that such offerings are of any value, and it is not a pleasure to comment on them. I have not had an unhappy experience in reading your verse, for I have been both surprised and pleased. 
-In the first place, you have something that you actually want to communicate to others--genuine human experiences that you want to share. This is the necessary beginning, and you have it. 
-I should say that a general view of your work would justify my saying that much of what you have written is either eloquent declamation arranged in long and short lines or the notes for poems as yet unwritten, often remarkably beautiful suggestions. This comment applies to a large percentage of teh work done by the poets of our day. In reading what I have just dictated, I feel that I have not expressed a certain delight I have in flashes of wisdom and beauty that I find here and there in your work. 
-I would suggest that you go over your manuscript very care-fully, combing it for minor errors in
-arrangement and punctuation, and that thereafter you write to Mrs. Hugh Bullock, President of the
-Academy of American Poets, 1078 Madison Avenue, New York City, New York, 10028, stating that I found
-much good in your manuscript and would like to see it given a chance. Ask her if she would read it
-and would give you any suggestions that may occur to her. I was one of the chancellors of the
-Academy of American Poets for a number of years, and I feel that Mrs. Bullock will be interested. 
-I hope that we may meet again and have a good talk before too long. 
-With all kind thoughts,
-JGN:fmb John G. Neihardt 
-cc 
-Mrs. Hugh Bullock 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-30
-verse poems-Bancroft-1969-Gaki stopped mailing a this letter at the last moment - to reconsider a
-day or two- 
-He never did want it sent
-finally - 
-I have inquired at Bancroft about <unclear>Converse</unclear>-He is established in New York & doing well by 1972
-M. M. N - 
-
-31
-John G. Neihardt 
-5835 Vine Street 
-Lincoln, Nebraska 68505 
-6c <figure/> FRANKLIN D. ROOSEVELT 
-U.S.POSTAGE 
-Mrs. Hugh Bullock, President 
-The Academy of American Poets 
-1078 Madison Avenue 
-New York City, New York 10028 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1b.1.29-31">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to John Converse, August 24, 1969</title>
+                <author>Neihardt, John G., 1881-1973.</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1b.1.29-31</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John G., 1881-1973.</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to John Converse</title>
+                    <date when="1969-08-24">August 24, 1969</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Converse, John</term>
+                    <term>Bullock, Marie, 1911-1986</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Lincoln (Neb.)</term>
+                    <term>Bancroft (Neb.)</term>
+                    <term>New York City (N.Y.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Converse, John</persName>
+                    <placeName ref="http://www.geonames.org/5063451">Bancroft (Neb.)</placeName>
+                    <date when="1969-08-24"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.n1b.1.29-31"/>
+                <note type="curatorial">29</note>
+                
+                <opener>
+                    <address>
+                        <addrLine>5835 Vine Street</addrLine> 
+                        <addrLine>Lincoln, Nebraska 68505</addrLine> 
+                    </address>
+                    <dateline>August 24, 1969</dateline>
+                    <address>
+                        <addrLine>Mr. John Converse</addrLine>
+                        <addrLine>Box 307</addrLine> 
+                        <addrLine>Bancroft, Nebraska 68004</addrLine>
+                    </address>
+                    
+                    <salute>Dear John Converse:</salute>
+                </opener>
+                
+                <p>I have only now been able to read the manuscript you left for me in Bancroft. As a rule, when alleged poetry is given to me for my opinion, what I read makes me very unhappy; for it is seldom that such offerings are of any value, and it is not a pleasure to comment on them. I have not had an unhappy experience in reading your verse, for I have been both surprised and pleased.</p> 
+                <p>In the first place, you have something that you actually want to communicate to others--genuine human experiences that you want to share. This is the necessary beginning, and you have it.</p> 
+                <p>I should say that a general view of your work would justify my saying that much of what you have written is either eloquent declamation arranged in long and short lines or the notes for poems as yet unwritten, often remarkably beautiful suggestions. This comment applies to a large percentage of teh work done by the poets of our day. In reading what I have just dictated, I feel that I have not expressed a certain delight I have in flashes of wisdom and beauty that I find here and there in your work.</p> 
+                <p>I would suggest that you go over your manuscript very care-fully, combing it for
+                minor errors in arrangement and punctuation, and that thereafter you write to Mrs. Hugh Bullock, President of the
+                Academy of American Poets, 1078 Madison Avenue, New York City, New York, 10028, stating that I found
+                much good in your manuscript and would like to see it given a chance. Ask her if she would read it
+                and would give you any suggestions that may occur to her. I was one of the chancellors of the
+                Academy of American Poets for a number of years, and I feel that Mrs. Bullock will be interested.</p> 
+                <p>I hope that we may meet again and have a good talk before too long.</p> 
+                
+                <closer>
+                    <salute>With all kind thoughts,</salute>
+                    <signed>John G. Neihardt </signed>
+                </closer>
+                
+                <note type="authorial">
+                    JGN:fmb
+                    cc
+                    Mrs. Hugh Bullock
+                </note>
+                
+            </div1>
+            
+            <div1 type="attachment">
+                <pb facs="nei.n1b.1.29-31"/>
+                <note type="curatorial">30</note>
+                
+                <p>verse poems-Bancroft-1969-Gaki stopped mailing a this letter at the last moment - to reconsider a
+                day or two- 
+                He never did want it sent
+                finally -</p> 
+                <p>I have inquired at Bancroft about Converse-He is established in New York &amp; doing well by 1972</p>
+                <closer>
+                    <signed>M. M. N -</signed>
+                </closer> 
+                
+            </div1>
+            
+            <div1 type="envelope">
+                <pb facs="nei.n1b.1.29-31"/>
+                <note type="curatorial">31</note>
+                
+                <ab type="return">
+                    John G. Neihardt 
+                    5835 Vine Street 
+                    Lincoln, Nebraska 68505
+                </ab>
+                
+                <ab type="stamp">
+                    6c <figure/> FRANKLIN D. ROOSEVELT 
+                    U.S.POSTAGE
+                </ab> 
+                
+                <ab type="address">
+                    Mrs. Hugh Bullock, President 
+                    The Academy of American Poets 
+                    1078 Madison Avenue 
+                    New York City, New York 10028
+                </ab> 
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

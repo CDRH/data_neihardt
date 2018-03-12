@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1b.2.13-14">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to Stanley C. Smith, February 14, 1970</title>
+                <author>Neihardt, John G., 1881-1973.</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1b.2.13-14</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John G., 1881-1973.</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Stanley C. Smith</title>
+                    <date when="1970-02-14">February 14, 1970</date>
+                    <extent>2 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 type-written pages</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Smith, Stanley C.</term>
+                    <term>Turner, Frederick Jackson, 1861-1932</term>
+                    <term>Dickinson, John Ada</term>
+                    <term>Crazy Horse, approximately 1842-1877</term>
+                    <term>Roman Nose</term>
+                    <term>Spotted Tail, 1823-1881</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Lincoln (Neb.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term>The Song of the Indian Wars</term>
+                    <term>The Song of Three Friends</term>
+                    <term>The Song of Hugh Glass</term>
+                    <term>The Frontier in American History</term>
+                    <term>A Cycle of the West</term>
+                    <term>The World's Best books, Homer to Hemingway: 3000 books of 3000 years, 1050 B.C. to 1950 A.D., selected on the basis of a consensus of expert opinion</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Smith, Stanley C.</persName>
+                    <placeName></placeName>
+                    <date when="1970-02-14"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.n1b.2.13-14"/>
+                <note type="curatorial">13</note>
+                
+                <opener>
+                    <address>
+                        <addrLine>5835 Vine Street</addrLine> 
+                        <addrLine>Lincoln, Nebraska 68505</addrLine> 
+                    </address>
+                    <dateline>February 14, 1970</dateline>
+                    
+                    <salute>Dear Stan,</salute>
+                </opener>
+                
+                <p>It was good to hear from you again, as always.</p> 
+                <p>Of course I am interested in what you say about The Song of the Indian Wars. Here are a few points
+                that you might be able to use. First, as to the acceptance of the book: When it appeared in 1925 it
+                was chosen from world literature by a national committee as one of the 500 books to constitute the
+                White House Library. Second, Dr. Frederick Jackson Turner of Harvard, author of the famous book, The
+                Frontier in American History, read The Song of the Indian Wars and remarked when he returned the
+                copy to one of his graduate students, who had been my student also: "After all, perhaps the poet is
+                the best historian." Third, while it is true to recorded history, most of the material was obtained
+                from those who were in the Indian Wars, both whites and Indians. I was the first civil-ian member of
+                the Order of the Indian Wars, and knew officers who had fought on the Plains.</p> 
+                <p>As you know, The Song of the Indian Wars deals with the great westward migration which took place
+                after the Civil War adn with the last great fight for the bison pastures between the westering white
+                man and the Plains Indians--the Sioux, the Cheyenne, and the Arapahoe. It is interesting to note
+                also that The Cycle of the West, which includes the Song of the Indian Wars, was chosen as one of
+                the best 3000 books appearing in the 3000 years form Homer to Hemingway. These were chosen by a
+                consensus of expert opinion aver a period of thirty years. The book, The World's Best Books from
+                Homer to Hemingway, edited by John Ada Dickinson, is available in any large library. The foregoing
+                points are given merely to suggest the importance of the book.</p> 
+                <p>As to heroes, the prefatory material in the school edi-tion of The Song of Three Friends and The
+                Song of Hugh Glass</p>
+                
+                <pb facs="nei.n1b.2.13-14"/>
+                <note type="curatorial">14</note>
+                
+                <p>gives the reason for regarding the movement as typically epic and the heroes as epic heroes. This
+                edition is now a collector's item, and if it isn't available to you, I will xerox the pertinent
+                material. The Cycle of the West, including The Song of the Indian Wars, has been characterized as
+                teh first democratic epic, the heroes being common men. If you will read it through again (How many
+                times already!), you will find that heroism occurs often adn at various levels in The Song of the
+                Indian Wars; at the highest level in Crazy Horse and at a lower level in Condon, standing on his
+                barrel of beans and telling Death, the blackguard, what he thought of him. In order to choose the
+                heroes you need only to read the Song again. Beecher's Island has several examples of heroism, both
+                white and Indian (remember Roman Nose), and so have the Wagon Box fight and the Custer fight. 
+                Think of the heroism of Spotted Tail, who put the death paint on his face and offered himself to be
+                punished for his depredations on the Platte, thus shielding his warriors. You could find, I think, a
+                score of unquestionable examples of heroism on various levels.</p> 
+                <p>I should think that it would not be necessary to argue the importance of this American theme and the
+                American heroes, both Indian and white.</p> 
+                <p>I know that you know these things I have pointed out, but I am only tyring to remind you. I suggest
+                tha tyou write out a statement including all the opints that I have made, using my order and as much
+                of my own wording as seems desirable. In fact, yoiu may make any use of this letter you like.</p> 
+                <p>I am glad that you would like to teach my stuff, becasue I know the power of your enthusiasm.</p>
+                
+                <closer>
+                    <salute>With the old love for you, Alicia, and the youngsters,</salute>
+                    <signed>John G. Neihardt </signed>
+                </closer>
+                
+                <note type="authorial">JGN:fmb</note>
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

@@ -1,15 +1,163 @@
 <?xml version="1.0" encoding="UTF-8"?>
-4
-5835 Vine Street 
-Lincoln, Nebraska 68505 
-February 8, 1969
-Manager, Chamber of Commerce
-York, South Carolina 
-Dear Sir: 
-I am trying to establish the exact location of the grave of Lieutenant George Wallace who was killed in the battle of Wounded Knee, South Dakota, against the Sioux December 29, 1890. I have the following quotation from the book by Robert M. Utley, entitled The Last Days of the Sioux Nation": 
-"On the 7th of January the body of the gallant officer (Wallace), which had been sent ot his home in Yorkville, South Carolina draped in the flag of his troop, was buried with solemn ceremonies at that place. The schools of the town and many of the people joined in the funeral procession; and when the well deserved eulogies had been pronounced the local military body fired a salute over his grave." 
-I personally have visited that grave, but I cannot remember the exact location and I cannot find the town of Yorkville on any of the available maps. Could it be that York, South Carolina, was once called Yorkville? Or could there have been a smaller establishment somwhere nearby by that name? 
-Any help on this question that you can give me will be much appreciated. An intriging story lies behind my knowledge of Wallace's grave and I will be happy to tell it to you when we get this matter settled. I am inclosing a stamped, self-addressed envelope for your reply. 
-Sincerely yours, 
-JGN:fmb John G. Neihardt 
-Poet Laureate of Nebraska 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1b.1.4">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to Manager of the York, South Carolina
+                    Chamber of Commerce, February 8, 1969</title>
+                <author>Neihardt, John G., 1881-1973.</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1b.1.4</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John G., 1881-1973.</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Manager of the
+                        York, South Carolina Chamber of Commerce</title>
+                    <date when="1969-02-08">February 8, 1969</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Wallace, George D., 1849-1890</term>
+                    <term>Utley, Robert M., 1929-</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Wounded Knee (S.D.)</term>
+                    <term>York (S.C.)</term>
+                    <term>Lincoln (Neb.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term>The Last Days of the Sioux Nation</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Manager of the York, South Carolina Chamber of Commerce</persName>
+                    <placeName ref="http://www.geonames.org/4601703">York (S.C.)</placeName>
+                    <date when="1969-02-08"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.n1b.1.4"/>
+                <note type="curatorial">4</note>
+                
+                <opener>
+                    <address>
+                        <addrLine>5835 Vine Street</addrLine> 
+                        <addrLine>Lincoln, Nebraska 68505</addrLine> 
+                    </address>
+                    <dateline>February 8, 1969</dateline>
+                    <address>
+                        <addrLine>Manager, Chamber of Commerce</addrLine>
+                        <addrLine>York, South Carolina</addrLine>
+                    </address> 
+                    
+                    <salute>Dear Sir:</salute>
+                </opener>
+                
+                <p>I am trying to establish the exact location of the grave of Lieutenant George Wallace who was killed in the battle of Wounded Knee, South Dakota, against the Sioux December 29, 1890. I have the following quotation from the book by Robert M. Utley, entitled The Last Days of the Sioux Nation":</p> 
+                <p>"On the 7th of January the body of the gallant officer (Wallace), which had been sent ot his home in Yorkville, South Carolina draped in the flag of his troop, was buried with solemn ceremonies at that place. The schools of the town and many of the people joined in the funeral procession; and when the well deserved eulogies had been pronounced the local military body fired a salute over his grave."</p> 
+                <p>I personally have visited that grave, but I cannot remember the exact location and I cannot find the town of Yorkville on any of the available maps. Could it be that York, South Carolina, was once called Yorkville? Or could there have been a smaller establishment somwhere nearby by that name?</p> 
+                <p>Any help on this question that you can give me will be much appreciated. An intriging story lies behind my knowledge of Wallace's grave and I will be happy to tell it to you when we get this matter settled. I am inclosing a stamped, self-addressed envelope for your reply.</p>
+                
+                <closer>
+                    <salute>Sincerely yours,</salute>
+                    <signed>John G. Neihardt</signed>
+                </closer>
+                
+                <note type="authorial">JGN:fmb</note>
+                <note type="authorial">
+                    Poet Laureate of Nebraska 
+                </note>
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

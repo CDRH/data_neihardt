@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1b.1.27">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1b.1.24-25">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Letter from John G. Neihardt to Ethel D. Johnson, May 18, 1969</title>
+                <title type="main">Letter from John G. Neihardt to Amado M. Yuzon, May 11, 1969</title>
                 <author>Neihardt, John G., 1881-1973.</author>
                 <principal>Gossin, Pamela</principal>
             </titleStmt>
@@ -31,7 +31,7 @@
                     <addrLine>University of Nebraska-Lincoln</addrLine>
                     <addrLine>Lincoln, NE 68588-4100</addrLine>
                 </address>
-                <idno>nei.n1b.1.27</idno>
+                <idno>nei.n1b.1.24-25</idno>
                 <availability>
                     <p></p>
                 </availability>
@@ -42,8 +42,8 @@
             <sourceDesc>
                 <bibl>
                     <author>Neihardt, John G., 1881-1973.</author>
-                    <title level="m" type="main">Letter from John G. Neihardt to Ethel D. Johnson</title>
-                    <date when="1969-05-18">May 18, 1969</date>
+                    <title level="m" type="main">Letter from John G. Neihardt to Amado M. Yuzon</title>
+                    <date when="1969-05-11">May 11, 1969</date>
                     <extent>1 page</extent>
                 </bibl>
                 <msDesc>
@@ -85,16 +85,17 @@
                     <term></term>
                 </keywords>
                 <keywords scheme="lcsh" n="people">
-                    <term>Donnelly, Ralph W.</term>
-                    <term>Johnson, Ethel D.</term>
-                    <term>Miles, Nelson A.</term>
+                    <term>Yuzon, Amado M. (Amado Magcalaz), 1906-1979</term>
+                    <term>Lindbergh, Charles A. (Charles Augustus), 1902-1974</term>
                 </keywords>
                 <keywords scheme="lcsh" n="places">
                     <term>Lincoln (Neb.)</term>
-                    <term>Fairfax (Va.)</term>
+                    <term>Quezon City (Phillippines)</term>
+                    <term>St. Louis (Mo.)</term>
                 </keywords>
                 <keywords scheme="lcsh" n="works">
-                    <term></term>
+                    <term>St. Louis Post-Dispatch</term>
+                    <term>The Lyric Deed</term>
                 </keywords>
             </textClass>
             <correspDesc>
@@ -103,9 +104,9 @@
                     <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
                 </correspAction>
                 <correspAction type="deliveredTo">
-                    <persName>Johnson, Ethel D.</persName>
-                    <placeName ref="http://www.geonames.org/4758023">Fairfax (Va.)</placeName>
-                    <date when="1969-05-18"/>
+                    <persName ref="https://viaf.org/viaf/7186897">Yuzon, Amado M. (Amado Magcalaz), 1906-1979</persName>
+                    <placeName ref="http://www.geonames.org/1692192">Quezon City (Phillippines)</placeName>
+                    <date when="1969-05-11"/>
                 </correspAction>
             </correspDesc>
             <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
@@ -121,33 +122,83 @@
         <body>
             
             <div1 type="letter">
-                <pb facs="nei.n1b.1.27"/>
-                <note type="curatorial">27</note>
+                <pb facs="nei.n1b.1.24-25"/>
+                <note type="curatorial">24</note>
                 
                 <opener>
                     <address>
                         <addrLine>5835 Vine Street</addrLine> 
                         <addrLine>Lincoln, Nebraska 68505</addrLine> 
                     </address>
-                    <dateline>May 18, 1969</dateline>
+                    <dateline>May 11, 1969</dateline>
                     <address>
-                        <addrLine>Miss Ethel D. Johnson</addrLine>
-                        <addrLine>9712 Ranger Road</addrLine>
-                        <addrLine>Fairfax, Virginia 22030</addrLine>  
+                        <addrLine>Hon. Amado M. Yuzon</addrLine>
+                        <addrLine>United Poets Laureate International</addrLine>
+                        <addrLine>124 Mayon</addrLine>
+                        <addrLine>Quezon City, Philippines</addrLine>
                     </address>
                     
-                    <salute>Dear Miss Johnson:</salute>
+                    <salute>Dear Mr. Yuzon:</salute>
                 </opener>
                 
-                <p>I have received the various documents relating to the Order of the Indian Wars which you had received from Mr. Donnelly, and I want to thank you heartily for your efforts in my behalf. These documents will be filed with my Manuscript Collection at the University of Missouri and will be of value to many students in the future. When I began this search, I was thinking chiefly of the petition of 1923 with the signatures of General Miles, then Commander of the Order, and ten or twelve others. I know the original has been lost, but I had hoped to find a copy of it with the list of signatures.</p> 
-                <p>I have written Mr. Donnelly, thanking him for all he has done and expressing the hope that a copy of this petition may still be found.</p>
+                <p>Thank you for your invitation to attend the World Congress of Poets. In response, I am inclosing a
+                poem on the famous Lindbergh flight, written for the Post-Dispatch upon Lindbergh's return in 1927.</p>
+                <p>This is not to be considered for competition, but I am sending it at the suggestion of friends who
+                thing it is appro--priate for the occasion.</p>
+                <p>You are at liberty to use it if you wish, and if so, I will obtain permission from the St. Louis
+                Post-Dispatch.</p> 
                 
                 <closer>
-                    <salute>With all kind thoughts to you and your sister,</salute>
+                    <salute>With all kind thoughts,</salute>
                     <signed>John G. Neihardt </signed>
                 </closer>
                 
-                <note type="authorial">JGN:fmb</note>
+                <note type="authorial">
+                    JGN:fmb
+                </note>
+                
+            </div1>
+            
+            <div1 type="attachment">
+                <pb facs="nei.n1b.1.24-25"/>
+                <note type="curatorial">25</note>
+                
+                <fw type="authorial">John G. Neihardt, 5835 Vine Street, Lincoln, Nebraska, U.S.A.</fw>
+                <p>THE LYRIC DEED</p>
+                <l>We sighed and said, The world's high purpose falters;</l>
+                <l>Here in the West the human hope is sold;</l>
+                <l>Behorld, out cities are but monstrous altars</l>
+                <l>The reek in worship to the Beast of Gold!</l>
+                
+                <l>Now no rapt silence hears the bard intoning;</l>
+                <l>Our lurid stacks paint out the ancient awe,</l>
+                <l>And lock-step millions to the motor's moaning</l>
+                <l>Are herded into Moloch's yawning maw.</l>
+                
+                <l>With men we stoke our diabolic fires;</l>
+                <l>Of smithied hearts the soaring steel is made</l>
+                <l>To dwarf and darken all our godward spires</l>
+                <l>With drunken towers of Trade.</l>
+                
+                <l>We said it, blinded with the sweat of duty,</l>
+                <l>And now, behold, emerging from the dark,</l>
+                <l>Winged with the old divinity of beauty,</l>
+                <l>Our living dream mounts morning like a lark!</l>
+                
+                <l>Of common earth men wought it, and of wonder;</l>
+                <l>With lightning have men bitted it and shod;</l>
+                <l>The throat of it is clothed with singing thunder--</l>
+                <l>And Lindbergh rides with God!</l>
+                
+                <l>We have not known, but surely now we know it;</l>
+                <l>Not this achieve vvenality and greed;</l>
+                <l>The dreaming doer is the master poet--</l>
+                <l>And lo, the pergect lyric in a deed!</l>
+                
+                <l>The sunset and the world's new morning hear it;</l>
+                <l>Ecstatic is the rhythmic motor's roar;</l>
+                <l>Not seas shall sunder now the human spirit,</l>
+                <l>For space shall be no more!</l>
                 
             </div1>
             

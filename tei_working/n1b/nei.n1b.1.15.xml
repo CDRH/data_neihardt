@@ -1,16 +1,159 @@
 <?xml version="1.0" encoding="UTF-8"?>
-15
-5835 Vine Street
-Lincoln, Nebraska 68505 
-February 21, 1969 
-Mr. Bruce Nicoll
-Lincoln, Nebraska 
-Dear Bruce, 
-It has been a long time since you and I have com-municated, and I am writing this more to say hello than anything else. I have been working steadily this winter on my book, The Old Man Remembers, and have made great progress. I am really having the time of my life doing the job. Even when I was recuperating from my eye opera-tions I continued to work--with one eye! 
-That matter concerning the use of Hugh Glass material has come to nothing, although we were able to deal satis-factorily with the London firm. 
-There is something special that I want to ask of you. I have long wanted to correct several lines in The Song of the Indian Wars, and I wonder if this cannot be done now so that the correction will be in any future printing. 
-I suppose you have noted that we have had a good deal of publicity this winter--really quite remarkable. 
-It seems now that I will have two fairly good eyes to use from now on. I am just now getting lenses. 
-With all kind thoughts,
-JGN:fmb John G. Neihardt 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1b.1.15">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to Bruce Hilton Nicoll, February 21, 1969</title>
+                <author>Neihardt, John G., 1881-1973.</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1b.1.15</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John G., 1881-1973.</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Bruce Hilton Nicoll</title>
+                    <date when="1969-02-21">February 21, 1969</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Nicoll, Bruce Hilton (1912- )</term>
+                    <term>Glass, Hugh, approximately 1780-approximately 1833</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>London (England)</term>
+                    <term>Lincoln (Neb.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term>The Song of the Indian Wars</term>
+                    <term>All is but a beginning : youth remembered, 1881-1901</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/311317741">Nicoll, Bruce Hilton (1912- )</persName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                    <date when="1969-02-21"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.n1b.1.15"/>
+                <note type="curatorial">15</note>
+                
+                <opener>
+                    <address>
+                        <addrLine>5835 Vine Street</addrLine> 
+                        <addrLine>Lincoln, Nebraska 68505</addrLine> 
+                    </address>
+                    <dateline>February 21, 1969</dateline>
+                    <address>
+                        <addrLine>Mr. Bruce Nicoll</addrLine>
+                        <addrLine>Lincoln, Nebraska</addrLine>
+                    </address> 
+                    
+                    <salute>Dear Bruce,</salute>
+                </opener>
+                
+                <p>It has been a long time since you and I have com-municated, and I am writing this more to say hello than anything else. I have been working steadily this winter on my book, The Old Man Remembers, and have made great progress. I am really having the time of my life doing the job. Even when I was recuperating from my eye opera-tions I continued to work--with one eye!</p> 
+                <p>That matter concerning the use of Hugh Glass material has come to nothing, although we were able to deal satis-factorily with the London firm.</p> 
+                <p>There is something special that I want to ask of you. I have long wanted to correct several lines in The Song of the Indian Wars, and I wonder if this cannot be done now so that the correction will be in any future printing.</p> 
+                <p>I suppose you have noted that we have had a good deal of publicity this winter--really quite remarkable.</p> 
+                <p>It seems now that I will have two fairly good eyes to use from now on. I am just now getting lenses.</p>
+                
+                <closer>
+                    <salute>With all kind thoughts,</salute>
+                    <signed>John G. Neihardt</signed>
+                </closer>
+                
+                <note type="authorial">JGN:fmb</note>
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

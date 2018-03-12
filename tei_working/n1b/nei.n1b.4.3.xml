@@ -1,19 +1,169 @@
 <?xml version="1.0" encoding="UTF-8"?>
-3
-5835 Vine Street 
-Lincoln, Nebraska 68505 
-June 5, 1972
-Mr. Gregory George
-1907 Garling Drive 
-Bloomington, Illinois 61701
-Dear Friend Greg:
-It was certainly a joy to hear from you, for I remember well my visit to Hawthorne. I believe that even my little dog Jacquot accompanied me on that visit and my memory of the whole affair is a happy one. 
-It is especially interesting that you are attending school in Bloomington. My first "poem" so called was published in the Bloomington Eye when I was about 14 years old. Don't look it up. It is terrible but I did feel that you would be interested. 
-I am enclosing a card bearing my autograph. 
-Incidentally, it occurs to me that you might sometime be in Taylorville. I was born near there in 1881 and there is now a Christian County Historical Society there which features a collection of my work. The lady in charge is Miss Dorothy Drennen. I think a meeting between you two would be notable. 
-Did you see the Neihardt-Cavett television show last year? You may want to know that it will be repeated on the ABC network on June 12. 
-My autobiography, ALL IS BUT A BEGINNING, is being published by Harcourt Brace Jovanovich of New York on September 20. No doubt it will be in your library. 
-With affectionate thoughts, your old friend 
-John G. Neihardt
-JGN:nh 
-P.S. I suggest tha tyou look me up in WHO'S WHO IN AMERICA and INTERNATIONAL WHO'S WHO. you will find these in your library. - J.G.N.
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1b.4.3">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to Gregory George, June 5, 1972</title>
+                <author>Neihardt, John G., 1881-1973.</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1b.4.3</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John G., 1881-1973.</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Gregory George</title>
+                    <date when="1972-06-05">June 5, 1972</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>George, Gregory</term>
+                    <term>Drennen, Dorothy</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Lincoln (Neb.)</term>
+                    <term>Bloomington (Ill.)</term>
+                    <term>Hawthorne (Ill.)</term>
+                    <term>Taylorville (Ill.)</term>
+                    <term>New York</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term>Bloomington Eye</term>
+                    <term>All is but a beginning : youth remembered, 1881-1901</term>
+                    <term>Who's Who in America</term>
+                    <term>The International Who's Who</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>George, Gregory</persName>
+                    <placeName ref="http://www.geonames.org/4885164">Bloomington (Ill.)</placeName>
+                    <date when="1972-06-05"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.n1b.4.3"/>
+                <note type="curatorial">3</note>
+                
+                <opener>
+                    <address>
+                        <addrLine>5835 Vine Street</addrLine> 
+                        <addrLine>Lincoln, Nebraska 68505</addrLine> 
+                    </address>
+                    <dateline>June 5, 1972</dateline>
+                    <address>
+                        <addrLine>Mr. Gregory George</addrLine>
+                        <addrLine>1907 Garling Drive</addrLine> 
+                        <addrLine>Bloomington, Illinois 61701</addrLine>
+                    </address>
+                    
+                    <salute>Dear Friend Greg:</salute>
+                </opener>
+                
+                <p>It was certainly a joy to hear from you, for I remember well my visit to Hawthorne. I believe that even my little dog Jacquot accompanied me on that visit and my memory of the whole affair is a happy one.</p> 
+                <p>It is especially interesting that you are attending school in Bloomington. My first "poem" so called was published in the Bloomington Eye when I was about 14 years old. Don't look it up. It is terrible but I did feel that you would be interested.</p> 
+                <p>I am enclosing a card bearing my autograph.</p> 
+                <p>Incidentally, it occurs to me that you might sometime be in Taylorville. I was born near there in 1881 and there is now a Christian County Historical Society there which features a collection of my work. The lady in charge is Miss Dorothy Drennen. I think a meeting between you two would be notable.</p> 
+                <p>Did you see the Neihardt-Cavett television show last year? You may want to know that it will be repeated on the ABC network on June 12.</p> 
+                <p>My autobiography, ALL IS BUT A BEGINNING, is being published by Harcourt Brace Jovanovich of New York on September 20. No doubt it will be in your library.</p> 
+
+                <closer>
+                    <salute>With affectionate thoughts, your old friend</salute>
+                    <signed>John G. Neihardt</signed>
+                </closer>
+                
+                <note type="authorial">JGN:nh</note>
+                
+                <postscript><p>P.S. I suggest tha tyou look me up in WHO'S WHO IN AMERICA and INTERNATIONAL WHO'S WHO. you will find these in your library. - J.G.N.</p></postscript>
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

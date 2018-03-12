@@ -1,16 +1,159 @@
 <?xml version="1.0" encoding="UTF-8"?>
-8
-5835 Vine Street 
-Lincoln, Nebraska 68505 
-November 21, 1972
-Mr. Dick Cavett 
-109 E. 79 
-New York, N. Y. 10021
-Dear Dick: 
-I wish I knew how best to answer your precious letter of November 13, 1972. It saddens me greatly, for it is your first request for anything from me and I am unfortunately in no position to grant it. I have definitely promised the sacred Black Elk symbols to the Neihardt Center at Bancroft, which is planned as a Black Elk shrine with the symbols as central in it. Thsi is a definite promise and is being relied upon. They were given to me as the spiritual son of the old man and they must remain with me until my death when they will be turned over to an insti-tutuion for safe keeping, according to my promise. These are sacred objects, as you understand, and I was placed under sacred obligation when I received them. 
-The Smithsonian Institution has asked for the symbols, but I have no intention to consider their request. 
-I do feel that your promotion of the Black Elk cause deserves public acknowledgement and this can be managed by the Neihardt Foundation. I think you are already associated with the Foundation. 
-Dick, I wish I were not under obligation to write this letter, for I am deeply grateful for what you have done for me. However, I do trust you and I know you will read what I have written with understanding. 
-Affectionately your friend,
-John G. Neihardt 
-JGN:nh 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1b.4.8">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to Dick Cavett, November 21, 1972</title>
+                <author>Neihardt, John G., 1881-1973.</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1b.4.8</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John G., 1881-1973.</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Dick Cavett</title>
+                    <date when="1972-11-21">November 21, 1972</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Cavett, Dick</term>
+                    <term>Black Elk, 1863-1950</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Lincoln (Neb.)</term>
+                    <term>New York City (N.Y.)</term>
+                    <term>Bancroft (Neb.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="http://viaf.org/viaf/70256878">Cavett, Dick</persName>
+                    <placeName ref="http://www.geonames.org/5328041">Beverly Hills (Calif.)</placeName>
+                    <date when="1972-11-21"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.n1b.4.8"/>
+                <note type="curatorial">8</note>
+                
+                <opener>
+                    <address>
+                        <addrLine>5835 Vine Street</addrLine> 
+                        <addrLine>Lincoln, Nebraska 68505</addrLine> 
+                    </address>
+                    <dateline>November 21, 1972</dateline>
+                    <address>
+                        <addrLine>Mr. Dick Cavett</addrLine> 
+                        <addrLine>109 E. 79</addrLine> 
+                        <addrLine>New York, N. Y. 10021</addrLine>
+                    </address>
+                    
+                    <salute>Dear Dick:</salute>
+                </opener>
+                
+                <p>I wish I knew how best to answer your precious letter of November 13, 1972. It saddens me greatly, for it is your first request for anything from me and I am unfortunately in no position to grant it. I have definitely promised the sacred Black Elk symbols to the Neihardt Center at Bancroft, which is planned as a Black Elk shrine with the symbols as central in it. Thsi is a definite promise and is being relied upon. They were given to me as the spiritual son of the old man and they must remain with me until my death when they will be turned over to an insti-tutuion for safe keeping, according to my promise. These are sacred objects, as you understand, and I was placed under sacred obligation when I received them.</p> 
+                <p>The Smithsonian Institution has asked for the symbols, but I have no intention to consider their request.</p> 
+                <p>I do feel that your promotion of the Black Elk cause deserves public acknowledgement and this can be managed by the Neihardt Foundation. I think you are already associated with the Foundation.</p> 
+                <p>Dick, I wish I were not under obligation to write this letter, for I am deeply grateful for what you have done for me. However, I do trust you and I know you will read what I have written with understanding.</p> 
+                
+                <closer>
+                    <salute>Affectionately your friend,</salute>
+                    <signed>John G. Neihardt</signed>
+                </closer>
+                
+                <note type="authorial">JGN:nh</note>
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

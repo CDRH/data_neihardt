@@ -1,31 +1,176 @@
 <?xml version="1.0" encoding="UTF-8"?>
-August 4, 1970
-Mr. Otha D. Wearin
-Nishna Vale Farm 
-Hastings, Iowa
-Dear Mr. Wearin:
-When "Bright Eyes" (Susette LaFlesche Tibbles) died in 1903, she and her husband had been living on
-their farm about 4 miles north of Bancroft. Tibbles and I were well acquainted. He was not very well
-liked in the community largely because of his Populist activities. The family of "Bright Eyes" was
-not friendly to him. When Susette died Tibbles sent word to me asking if I would spend the ngith
-with him and his dead wife. I suspect he did this because he had no intimate friends in the
-community. 
-I was glad to go because I respected the man's political and social views. He was a pioneer both in
-the physical and the intellectual sense and he was far superior to some of those who disliked him.
-The night I spent with Tibbles was a strange and beautiful one. her body was lying in the bedroom
-off the front room where we sat and talked. Ever now and then we would go out to change the wet
-cloth on her face. I think the body was not embalmed else we would not have done this. He would
-stand there with his shoudlers shaking saying, "Isn't she beautiful: Isn't she beautiful:" And she
-was beautiful, even more beautiful in death than in life. All night long Tibbles talked about his
-life with her. And what a book it would make if we had a copy of what he said that nigth: Sometimes
-he would forget that she was dead and some amusing incident would cause him to laugh heartily. Then
-he would remember and we would go in together to loko at her dead face. 
-I did not go to the funeral. Somone came after me before breadfast and that was the last I saw of
-"Bright Eyes". 
-Mrs. Green's book on the children of Iron Eye has a paragraph on page 149 telling of my
-relationshipo with Susette's famous sister, Dr. Susan LaFlesche Picotte. Nothing is told of the
-night I spent with Tibbles and his dead wife. I made reference to it in a speech I gave at Bancroft
-several years ago when the highway marker was being dedicated. The reference in that speech and this
-letter are the only written accounts of the matter so far as I can remember at present. 
-With all good wishes, 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1b.2.17">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to Otha D. Wearin, August 4, 1970</title>
+                <author>Neihardt, John G., 1881-1973.</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1b.2.17</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John G., 1881-1973.</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Otha D. Wearin</title>
+                    <date when="1970-08-04">August 4, 1970</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Wearin, Otha Donner, 1903-</term>
+                    <term>Tibbles, Susette La Flesche, 1854-1903</term>
+                    <term>Tibbles, Thomas Henry, 1840-1928</term>
+                    <term>Green, Norma Kidd</term>
+                    <term>Diddock, Joseph LaFlesche</term>
+                    <term>Picotte, Susan LaFlesche, 1865-1915</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Lincoln (Neb.)</term>
+                    <term>Bancroft (Neb.)</term>
+                    <term>Hastings (Iowa)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/57855993">Wearin, Otha Donner, 1903-</persName>
+                    <placeName ref="http://www.geonames.org/4860019">Hastings (Iowa)</placeName>
+                    <date when="1970-08-04"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.n1b.2.17"/>
+                <note type="curatorial">17</note>
+                
+                <opener>
+                    <dateline>August 4, 1970</dateline>
+                    <address>
+                        <addrLine>Mr. Otha D. Wearin</addrLine>
+                        <addrLine>Nishna Vale Farm</addrLine> 
+                        <addrLine>Hastings, Iowa</addrLine>
+                    </address>
+                    
+                    <salute>Dear Mr. Wearin:</salute>
+                </opener>
+                
+                <p>When "Bright Eyes" (Susette LaFlesche Tibbles) died in 1903, she and her husband had been living on
+                their farm about 4 miles north of Bancroft. Tibbles and I were well acquainted. He was not very well
+                liked in the community largely because of his Populist activities. The family of "Bright Eyes" was
+                not friendly to him. When Susette died Tibbles sent word to me asking if I would spend the ngith
+                with him and his dead wife. I suspect he did this because he had no intimate friends in the
+                community.</p> 
+                <p>I was glad to go because I respected the man's political and social views. He was a pioneer both in
+                the physical and the intellectual sense and he was far superior to some of those who disliked him.
+                The night I spent with Tibbles was a strange and beautiful one. her body was lying in the bedroom
+                off the front room where we sat and talked. Ever now and then we would go out to change the wet
+                cloth on her face. I think the body was not embalmed else we would not have done this. He would
+                stand there with his shoudlers shaking saying, "Isn't she beautiful: Isn't she beautiful:" And she
+                was beautiful, even more beautiful in death than in life. All night long Tibbles talked about his
+                life with her. And what a book it would make if we had a copy of what he said that nigth: Sometimes
+                he would forget that she was dead and some amusing incident would cause him to laugh heartily. Then
+                he would remember and we would go in together to loko at her dead face.</p> 
+                <p>I did not go to the funeral. Somone came after me before breadfast and that was the last I saw of
+                "Bright Eyes".</p> 
+                <p>Mrs. Green's book on the children of Iron Eye has a paragraph on page 149 telling of my
+                relationshipo with Susette's famous sister, Dr. Susan LaFlesche Picotte. Nothing is told of the
+                night I spent with Tibbles and his dead wife. I made reference to it in a speech I gave at Bancroft
+                several years ago when the highway marker was being dedicated. The reference in that speech and this
+                letter are the only written accounts of the matter so far as I can remember at present.</p> 
+                
+                <closer>
+                    <salute>With all good wishes,</salute>
+                </closer>
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

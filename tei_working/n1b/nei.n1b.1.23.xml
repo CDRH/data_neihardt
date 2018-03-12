@@ -1,18 +1,165 @@
 <?xml version="1.0" encoding="UTF-8"?>
-23
-5835 Vine Street 
-Lincoln, Nebraska 68505 
-May 1, 1969 
-Dr. Frank Piskor, Vice President
-Administration Building
-Syracuse University 
-Syracuse, New York 13210 
-Dear Dr. Piskor:
-I really am not ashamed of myself, but I am sorry that I must seem to be less than kind. I should have written you sooner but there have been many distractions, which I need not enumberate. 
-What matters is that I am returning your xeroxed copy of the pre-publication Bundle of Myrrh, together with a new xeroxed copy of my 1952 autographed comments on the little book. I suggest that the old xeroxed pages of my autographed remarks be discarded and the new xeroxed pages be inserted when you re-bind the book. These new xeroxed pages be inserted when you re-bind the book. These new xeroxed pages should not be crowded together but should have separate pages, so that the text will not be damaged by trimming in the new binding. 
-I am including a separate page with my presentation inscription. I fyou thin of soemthing more or something different I should do, please let me know, and I shall be glad to do anythign tha tyou wnat me to do. What you are doing there means more to me than I can say. 
-Incidentally, have you had any correspondence with the Educational Television Department of the University of Missouri regarding my Twilight of the Sioux? 
-With warm regards,
-Your friend,
-JGN:fmb John G. Neihardt
-P.S. I have completed the Boyhood section of my autobiography. 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1b.1.23">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to Frank Peter Piskor, May 1, 1969</title>
+                <author>Neihardt, John G., 1881-1973.</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1b.1.23</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John G., 1881-1973.</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Frank Peter Piskor</title>
+                    <date when="1969-05-01">May 1, 1969</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Piskor, Frank Peter</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Lincoln (Neb.)</term>
+                    <term>Syracuse (N.Y.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term>A Bundle of Myrrh</term>
+                    <term>The Twilight of the Sioux</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="http://viaf.org/viaf/57967790">Piskor, Frank Peter</persName>
+                    <placeName ref="http://www.geonames.org/5140405">Syracuse (N.Y.)</placeName>
+                    <date when="1969-05-01"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.n1b.1.23"/>
+                <note type="curatorial">23</note>
+                
+                <opener>
+                    <address>
+                        <addrLine>5835 Vine Street</addrLine> 
+                        <addrLine>Lincoln, Nebraska 68505</addrLine> 
+                    </address>
+                    <dateline>May 1, 1969</dateline>
+                    <address>
+                        <addrLine>Dr. Frank Piskor, Vice President</addrLine>
+                        <addrLine>Administration Building</addrLine>
+                        <addrLine>Syracuse University</addrLine> 
+                        <addrLine>Syracuse, New York 13210</addrLine>  
+                    </address>
+                    
+                    <salute>Dear Dr. Piskor:</salute>
+                </opener>
+                
+                <p>I really am not ashamed of myself, but I am sorry that I must seem to be less than kind. I should have written you sooner but there have been many distractions, which I need not enumberate.</p> 
+                <p>What matters is that I am returning your xeroxed copy of the pre-publication Bundle of Myrrh, together with a new xeroxed copy of my 1952 autographed comments on the little book. I suggest that the old xeroxed pages of my autographed remarks be discarded and the new xeroxed pages be inserted when you re-bind the book. These new xeroxed pages be inserted when you re-bind the book. These new xeroxed pages should not be crowded together but should have separate pages, so that the text will not be damaged by trimming in the new binding.</p> 
+                <p>I am including a separate page with my presentation inscription. I fyou thin of soemthing more or something different I should do, please let me know, and I shall be glad to do anythign tha tyou wnat me to do. What you are doing there means more to me than I can say.</p> 
+                <p>Incidentally, have you had any correspondence with the Educational Television Department of the University of Missouri regarding my Twilight of the Sioux?</p>
+                
+                <closer>
+                    <salute>With warm regards,</salute>
+                    <salute>Your friend,</salute>
+                    <signed>John G. Neihardt </signed>
+                </closer>
+                
+                <note type="authorial">JGN:fmb</note>
+                
+                <postscript>
+                    <p>P.S. I have completed the Boyhood section of my autobiography.</p>
+                </postscript>
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

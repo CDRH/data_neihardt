@@ -1,15 +1,163 @@
 <?xml version="1.0" encoding="UTF-8"?>
-1
-5835 Vine Street 
-Lincoln, Nebraska 68505 
-January 18, 1972
-Miss Cheryl Roark 
-13160 W. Outer Drive 
-Apt. 307
-Detroit, Michigan 48223
-Dear Miss Roark:
-First of all I may say that the questions raised in your letter to me in care of the University of Nebraska Press would be best answered by Mooney's GHOST DANCE RELIGION. This was published by the Bureau of American Ethnology. I am quite sure any large library could furnish you a copy of it or if your Detroit Library does not have it on its shelves it could procur it for you. 
-You ask about Jack Wilson. He was the Piute Indian who was known by <del>his people</del> the Indians as Wovoka, and he was the one who said -that he had a vision <unclear/> <unclear/> <del>that</del> Jesus was coming back. I have considerable experience with Indian visions as you probably know if you are acquainted with my BLACK ELK SPEAKS or my WHEN THE TREE FLOWERED. These are published by the University of Nebraska Press. As a result of my experience with Indian visions I could very well believe  that <del>Jack Wilson</del> Wovoka was sincere and actually believed his own dreams. <del>For that matter, I am not certain that he was wrong.</del>
-You ask if I knew Charlie Russell. I am sorry to say that during the period of his greatest acticity I was too yoiung and too lxx un-<del/> to know him. He was certainly a great man. 
-No, I did not know any outstanding painter of the Old West. I hope I have said something that may help you. Do try to get Mooney's work. But in the meanwhile I do hope you may become acquainted with my SONG OF THE MESSIAH. You will see how far I go with visions. 
-With all kind thoughts,
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1b.4.1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to Cheryl Roark, January 18, 1972</title>
+                <author>Neihardt, John G., 1881-1973.</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1b.4.1</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John G., 1881-1973.</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Cheryl Roark</title>
+                    <date when="1972-01-18">January 18, 1972</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Roark, Cheryl</term>
+                    <term>Mooney, James, 1861-1921</term>
+                    <term>Wovoka, approximately 1856-1932</term>
+                    <term>Jesus Christ</term>
+                    <term>Russell, Charles Edward, 1860-1941</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Lincoln (Neb.)</term>
+                    <term>Detroit (Mich.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term>The Ghost-dance Religion and the Sioux Outbreak of 1890</term>
+                    <term>Black Elk Speaks</term>
+                    <term>When the Tree Flowered: The Story of Eagle Voice, a Sioux Indian</term>
+                    <term>The Song of the Messiah</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Roark, Cheryl</persName>
+                    <placeName ref="http://www.geonames.org/4990729">Detroit (Mich.)</placeName>
+                    <date when="1972-01-18"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.n1b.4.1"/>
+                <note type="curatorial">1</note>
+                
+                <opener>
+                    <address>
+                        <addrLine>5835 Vine Street</addrLine> 
+                        <addrLine>Lincoln, Nebraska 68505</addrLine> 
+                    </address>
+                    <dateline>January 18, 1972</dateline>
+                    <address>
+                        <addrLine>Miss Cheryl Roark</addrLine> 
+                        <addrLine>13160 W. Outer Drive</addrLine> 
+                        <addrLine>Apt. 307</addrLine>
+                        <addrLine>Detroit, Michigan 48223</addrLine>
+                    </address>
+                    
+                    <salute>Dear Miss Roark:</salute>
+                </opener>
+                
+                <p>First of all I may say that the questions raised in your letter to me in care of the University of Nebraska Press would be best answered by Mooney's GHOST DANCE RELIGION. This was published by the Bureau of American Ethnology. I am quite sure any large library could furnish you a copy of it or if your Detroit Library does not have it on its shelves it could procur it for you.</p> 
+                <p>You ask about Jack Wilson. He was the Piute Indian who was known by <del>his people</del> the Indians as Wovoka, and he was the one who said -that he had a vision <unclear/> <unclear/> <del>that</del> Jesus was coming back. I have considerable experience with Indian visions as you probably know if you are acquainted with my BLACK ELK SPEAKS or my WHEN THE TREE FLOWERED. These are published by the University of Nebraska Press. As a result of my experience with Indian visions I could very well believe  that <del>Jack Wilson</del> Wovoka was sincere and actually believed his own dreams. <del>For that matter, I am not certain that he was wrong.</del>
+                You ask if I knew Charlie Russell. I am sorry to say that during the period of his greatest acticity I was too yoiung and too lxx un-<del/> to know him. He was certainly a great man.</p> 
+                <p>No, I did not know any outstanding painter of the Old West. I hope I have said something that may help you. Do try to get Mooney's work. But in the meanwhile I do hope you may become acquainted with my SONG OF THE MESSIAH. You will see how far I go with visions.</p> 
+                
+                <closer>
+                    <salute>With all kind thoughts,</salute>
+                </closer>
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

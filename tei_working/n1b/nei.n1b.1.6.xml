@@ -1,15 +1,159 @@
 <?xml version="1.0" encoding="UTF-8"?>
-6
-5835 Vine Street 
-Lincoln, Nebraska 68505 
-February 9, 1969 
-Colonel William G. Bell, USA (Retired) 
-Office of the Chief of Military History 
-2nd and R Streets, Southwest
-Washington, D. C. 20315 
-Dear Colonel Bell: 
-Thank you for your assistance to my friend, Colonel Ralph Reed, last week in obtaining information on the location of the grave of Captain George Wallace, who was killed in the Battle of Wounded Knee, South Dakota, against the Sioux December 29, 1890. An intriguing story lies behind my knowledge of this grave, which I shall be glad to tell you when we get the matter settled. 
-Any additional information that you may be able to give me concerning Captain Wallace's burial will be most appreciated. 
-Sincerely yours, 
-JGN:fmb John G. Neihardt 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1b.1.6">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to Colonel William G. Bell, February 9, 1969</title>
+                <author>Neihardt, John G., 1881-1973.</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1b.1.6</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John G., 1881-1973.</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Colonel William G. Bell</title>
+                    <date when="1969-02-09">February 9, 1969</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Reed, Ralph</term>
+                    <term>Bell, William G.</term>
+                    <term>Wallace, George D., 1849-1890</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Wounded Knee (S.D.)</term>
+                    <term>Washington (D.C.)</term>
+                    <term>Lincoln (Neb.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Bell, William G.</persName>
+                    <placeName ref="http://www.geonames.org/4140963">Washington (D.C.)</placeName>
+                    <date when="1969-02-09"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.n1b.1.6"/>
+                <note type="curatorial">6</note>
+                
+                <opener>
+                    <address>
+                        <addrLine>5835 Vine Street</addrLine> 
+                        <addrLine>Lincoln, Nebraska 68505</addrLine> 
+                    </address>
+                    <dateline>February 9, 1969</dateline>
+                    <address>
+                        <addrLine>Colonel William G. Bell, USA (Retired)</addrLine> 
+                        <addrLine>Office of the Chief of Military History</addrLine> 
+                        <addrLine>2nd and R Streets, Southwest</addrLine>
+                        <addrLine>Washington, D. C. 20315</addrLine> 
+                    </address> 
+                    
+                    <salute>Dear Colonel Bell:</salute>
+                </opener>
+                
+                <p>Thank you for your assistance to my friend, Colonel Ralph Reed, last week in obtaining information on the location of the grave of Captain George Wallace, who was killed in the Battle of Wounded Knee, South Dakota, against the Sioux December 29, 1890. An intriguing story lies behind my knowledge of this grave, which I shall be glad to tell you when we get the matter settled.</p> 
+                <p>Any additional information that you may be able to give me concerning Captain Wallace's burial will be most appreciated.</p> 
+                
+                <closer>
+                    <salute>Sincerely yours,</salute>
+                    <signed>John G. Neihardt</signed>
+                </closer>
+                
+                <note type="authorial">JGN:fmb</note>
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

@@ -1,16 +1,163 @@
 <?xml version="1.0" encoding="UTF-8"?>
-2
-5835 Vine Street 
-Lincoln, Nebraska 68505 
-May 24, 1972
-Mr. Guy O. Karnes
-1115 Fifth Street 
-Brookings, South Dakota 57006
-Dear Mr. Karnes: 
-I have been looking over my accumulation of letters and I find that yours of March 16 has been neglected for some time. This was not owing to any lack of appreciation of your letter but we do often get crowded with mail and this is one of the times. 
-I want to tell you that I was extremely interested in what you had to tell about your family in the early West. It is a really good letter deserving to be preserved and I shall see tha tit is saved along with many other good letters that I receive. 
-You may be interested to know that my BLACK ELK SPEAKS, which is mentioned several times in Dee Brown's book, was issued a month ago by Pocket Books. Two hundred thousand copies sold in April and the first week of May. The book is still a best seller and will probably remain so for a long time. It is having success in Europe, also. Perhaps you would want to know that my autobiography, ALL IS BUT A BEGINNING, will be published by Harcourt Brace Jovanovich of New York on September 20. Dick Cavett has written an introduction: and inci-dentally, the Cavett-Neihardt television program of April 27, 1971, will be repeated on June 12, 1972. 
-You state that it is possible that you may come by our way some time and if you do, you must drop in to see us. 
-With all kind thoughts, 
-John G. Neihardt 
-JGN:nh 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1b.4.2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to Guy O. Karnes, May 24, 1972</title>
+                <author>Neihardt, John G., 1881-1973.</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1b.4.2</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John G., 1881-1973.</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Guy O. Karnes</title>
+                    <date when="1972-05-24">May 24, 1972</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Karnes, Guy O.</term>
+                    <term>Brown, Dee, 1908-2002</term>
+                    <term>Cavett, Dick</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Lincoln (Neb.)</term>
+                    <term>Brookings (S.D.)</term>
+                    <term>New York</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term>Black Elk Speaks</term>
+                    <term>All is but a beginning : youth remembered, 1881-1901</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Karnes, Guy O.</persName>
+                    <placeName ref="http://www.geonames.org/5226534">Brookings (S.D.)</placeName>
+                    <date when="1972-05-24"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.n1b.4.2"/>
+                <note type="curatorial">2</note>
+                
+                <opener>
+                    <address>
+                        <addrLine>5835 Vine Street</addrLine> 
+                        <addrLine>Lincoln, Nebraska 68505</addrLine> 
+                    </address>
+                    <dateline>May 24, 1972</dateline>
+                    <address>
+                        <addrLine>Mr. Guy O. Karnes</addrLine>
+                        <addrLine>1115 Fifth Street</addrLine> 
+                        <addrLine>Brookings, South Dakota 57006</addrLine>
+                    </address>
+                    
+                    <salute>Dear Mr. Karnes:</salute>
+                </opener>
+                
+                <p>I have been looking over my accumulation of letters and I find that yours of March 16 has been neglected for some time. This was not owing to any lack of appreciation of your letter but we do often get crowded with mail and this is one of the times.</p> 
+                <p>I want to tell you that I was extremely interested in what you had to tell about your family in the early West. It is a really good letter deserving to be preserved and I shall see tha tit is saved along with many other good letters that I receive.</p> 
+                <p>You may be interested to know that my BLACK ELK SPEAKS, which is mentioned
+                    several times in Dee Brown's book, was issued a month ago by Pocket Books. Two hundred thousand copies sold in April and the first week of May. The book is still a best seller and will probably remain so for a long time. It is having success in Europe, also. Perhaps you would want to know that my autobiography, ALL IS BUT A BEGINNING, will be published by Harcourt Brace Jovanovich of New York on September 20. Dick Cavett has written an introduction: and inci-dentally, the Cavett-Neihardt television program of April 27, 1971, will be repeated on June 12, 1972.</p> 
+                <p>You state that it is possible that you may come by our way some time and if you do, you must drop in to see us.</p> 
+                
+                <closer>
+                    <salute>With all kind thoughts,</salute>
+                    <signed>John G. Neihardt</signed>
+                </closer>
+                
+                <note type="authorial">JGN:nh</note>
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

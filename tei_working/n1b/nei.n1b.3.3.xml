@@ -1,25 +1,171 @@
 <?xml version="1.0" encoding="UTF-8"?>
-3
-5835 Vine Street
-Lincoln, Nebraska 68505 
-February 9 1971
-Mrs. Sally McCluskey 
-1808 West Street 
-Cortland, Illinois 60112
-Dear Sally McCluskey: 
-Your letter of February 3 did not reach me at once as I was moving around. First of all there was
-the Cavett interview (certainly a wow) and after that I gave a program to the Shawnee Mission School
-in Kansas City - a big affair and another wow. Sicne you are my friend you won't mind my telling you
-that for some reason or other I get standing ovations, always several of them. I think I would be
-disappointed if it didn't happen although each time before I go before an audience I think it wonn't
-happen. 
-I am much interested in what you say about my work and your response to it. I am looking forward to
-your Easter visit and I am sure you will hear from Mrs. Young. 
-Yes, I wrote most of the crawl in an unheated room when the temperature frequently fell to 30 below.
-Once that winter it was 40 below. 
-I wish you would hug that boy pete for me and give the dog special pats for me. My Jacquot, who
-barks French, sends you a number of joyful arfs because he likes anybody who is my friend. When I
-leave him here with the Youngs he mourns the first four or five days. 
-With every kind thought, your friend 
-John G. Neihardt 
-JGN:nh 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1b.3.3">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to Sally McCluskey, February 9, 1971</title>
+                <author>Neihardt, John G., 1881-1973.</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1b.3.3</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John G., 1881-1973.</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Sally McCluskey</title>
+                    <date when="1971-02-09">February 9, 1971</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>McCluskey, Sally</term>
+                    <term>Cavett, Dick</term>
+                    <term>Young, Julius</term>
+                    <term>Young, Myrtle</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Lincoln (Neb.)</term>
+                    <term>Cortland (Ill.)</term>
+                    <term>Kansas City (Mo.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>McCluskey, Sally</persName>
+                    <placeName ref="http://www.geonames.org/4888810">Cortland (Ill.)</placeName>
+                    <date when="1971-02-09"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.n1b.3.3"/>
+                <note type="curatorial">3</note>
+                
+                <opener>
+                    <address>
+                        <addrLine>5835 Vine Street</addrLine>
+                        <addrLine>Lincoln, Nebraska 68505</addrLine> 
+                    </address>
+                    <dateline>February 9 1971</dateline>
+                    <address>
+                        <persName>Mrs. Sally McCluskey</persName> 
+                        <persName>1808 West Street</persName> 
+                        <persName>Cortland, Illinois 60112</persName>
+                    </address>
+                    
+                    <salute>Dear Sally McCluskey:</salute>
+                </opener>
+                
+                <p>Your letter of February 3 did not reach me at once as I was moving around. First of all there was
+                the Cavett interview (certainly a wow) and after that I gave a program to the Shawnee Mission School
+                in Kansas City - a big affair and another wow. Since you are my friend you won't mind my telling you
+                that for some reason or other I get standing ovations, always several of them. I think I would be
+                disappointed if it didn't happen although each time before I go before an audience I think it wonn't
+                happen.</p> 
+                <p>I am much interested in what you say about my work and your response to it. I am looking forward to
+                your Easter visit and I am sure you will hear from Mrs. Young.</p> 
+                <p>Yes, I wrote most of the crawl in an unheated room when the temperature frequently fell to 30 below.
+                Once that winter it was 40 below.</p> 
+                <p>I wish you would hug that boy pete for me and give the dog special pats for me. My Jacquot, who
+                barks French, sends you a number of joyful arfs because he likes anybody who is my friend. When I
+                leave him here with the Youngs he mourns the first four or five days.</p>
+                
+                <closer>
+                    <salute>With every kind thought, your friend</salute>
+                    <signed>John G. Neihardt</signed>
+                </closer>
+                
+                <note type="authorial">JGN:nh</note>
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

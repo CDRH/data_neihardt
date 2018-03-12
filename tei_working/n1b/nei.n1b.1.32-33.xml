@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1b.5.6">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1b.1.32-33">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Letter from John G. Neihardt to Members of the Lemmon Chamber of Commerce, July 13, 1973</title>
+                <title type="main">Letter from John G. Neihardt to Ann Winfrey, October 28, 1969</title>
                 <author>Neihardt, John G., 1881-1973.</author>
                 <principal>Gossin, Pamela</principal>
             </titleStmt>
@@ -31,7 +31,7 @@
                     <addrLine>University of Nebraska-Lincoln</addrLine>
                     <addrLine>Lincoln, NE 68588-4100</addrLine>
                 </address>
-                <idno>nei.n1b.5.6</idno>
+                <idno>nei.n1b.1.32-33</idno>
                 <availability>
                     <p></p>
                 </availability>
@@ -42,9 +42,9 @@
             <sourceDesc>
                 <bibl>
                     <author>Neihardt, John G., 1881-1973.</author>
-                    <title level="m" type="main">Letter from John G. Neihardt to Members of the Lemmon Chamber of Commerce</title>
-                    <date when="1973-07-13">July 13, 1973</date>
-                    <extent>1 page</extent>
+                    <title level="m" type="main">Letter from John G. Neihardt to Ann Winfrey</title>
+                    <date when="1969-10-28">October 28, 1969</date>
+                    <extent>2 pages</extent>
                 </bibl>
                 <msDesc>
                     <msIdentifier>
@@ -52,7 +52,7 @@
                         <idno></idno>
                     </msIdentifier>
                     <msContents>
-                        <p>1 type-written page</p>
+                        <p>2 type-written pages</p>
                     </msContents>
                 </msDesc>
                 
@@ -85,15 +85,18 @@
                     <term></term>
                 </keywords>
                 <keywords scheme="lcsh" n="people">
-                    <term>Young, Julius</term>
-                    <term>Glass, Hugh, approximately 1780-approximately 1833</term>
-                    <term>Neihardt, Sigurd</term>
+                    <term>Winfrey, Ann</term>
+                    <term>Domly</term>
                 </keywords>
                 <keywords scheme="lcsh" n="places">
-                    <term>Lemmon (S.D.)</term>
+                    <term>Lincoln (Neb.)</term>
+                    <term>Columbia (Mo.)</term>
                 </keywords>
                 <keywords scheme="lcsh" n="works">
-                    <term>The Song of Hugh Glass</term>
+                    <term>A Cycle of the West</term>
+                    <term>The Twilight of the Sioux</term>
+                    <term>The Song of the Indian Wars</term>
+                    <term>Savitar</term>
                 </keywords>
             </textClass>
             <correspDesc>
@@ -102,9 +105,9 @@
                     <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
                 </correspAction>
                 <correspAction type="deliveredTo">
-                    <persName></persName>
-                    <placeName ref="http://www.geonames.org/5766453">Lemmon (S.D.)</placeName>
-                    <date when="1973-07-13"/>
+                    <persName>Winfrey, Ann</persName>
+                    <placeName ref="http://www.geonames.org/4381982">Columbia (Mo.)</placeName>
+                    <date when="1969-10-28"/>
                 </correspAction>
             </correspDesc>
             <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
@@ -120,66 +123,61 @@
         <body>
             
             <div1 type="letter">
-                <pb facs="nei.n1b.5.6"/>
-                <note type="curatorial">6</note>
+                <pb facs="nei.n1b.1.32-33"/>
+                <note type="curatorial">32</note>
                 
                 <opener>
-
-                    <dateline>July 13, 1973</dateline>
+                    <address>
+                        <addrLine>5835 Vine Street</addrLine> 
+                        <addrLine>Lincoln, Nebraska 68505</addrLine> 
+                    </address>
+                    <dateline>October 28, 1969</dateline>
+                    <address>
+                        <addrLine>Miss Ann Winfrey</addrLine> 
+                        <addrLine>Editor--Academics Division</addrLine> 
+                        <addrLine>Savitar</addrLine> 
+                        <addrLine>University of Missouri</addrLine> 
+                        <addrLine>303 Read Hall</addrLine> 
+                        <addrLine>Columbia, Missouri 65201</addrLine> 
+                    </address>
                     
-                    <salute>Members of the Lemmon Chamber of Commerce, ladies and gentlemen:</salute>
-                    
+                    <salute>Dear Miss Winfrey:</salute>
                 </opener>
                 
-                <p>It was my intention to be with you on this great day, but owing to illness I am unable to come. My
-                old friend, J.D. Young, has kindly consented to read this message to you. You may be sure, however,
-                that my heart and soul are with you there, and I thank you for your thought of me.</p> 
-                <p>When I was a young man in the heyday of my writing years it was my habit to dedicate my books to
-                the children of my family as they came along. When my Song of Hugh Glass was completed after three
-                years of devoted effort, I dedicated it to my only son, Sigurd, then scarcely three. The dedication
-                ran thus:</p>
+                <p>I am greatly pleased to have been selected as an outstanding educator in the College of Arts and
+                Science by the editorial staff of the 1970 Savitar.</p> 
+                <p>You asked why I have taught Twilight of the Sioux.</p>
+                <p>It is a tremendous human story dealing with a great nation's last years of triumph and defeat. While
+                it is specifically about Indians, it is essen-tially the story of the human race itself struggling
+                in the grip of fate to survive and achieve.</p> 
+                <p>The course deals with the two final stories of my Cycle of the West, "The Song of the Indian Wars"
+                and "The Song of the Messiah." The former is concerned with the last great fight for the bison
+                pastures between the Plains Indians and the westering white men. The second deals with the attempt
+                of the Sioux to save their old way of life by appealing to the Spirit, the essential rightness of
+                their last great dream and the tragedy of its worldly failure.</p> 
+                <p>Great truths seem to have a way of triumphing in this world through apparent defeat.</p> 
                 
-                <p>TO SIGURD, SCARCELY THREE</p> 
-                <l>When you are old enough to know</l>
-                <l>the joys of kite and boat and bow</l>
-                <l>and other suchlike splendid things</l>
-                <l>That boyhood's rounded decade brings,</l> 
-                <l>I shall not give you tropes and rhymes;</l>
-                <l>But, rising to those rousing times,</l>
-                <l>I shall ply well and craft I know</l> 
-                <l>Of shaping kite and boat and bow,</l>  
-                <l>For you shall teach me once again</l>
-                <l>The goodly art of being ten.</l> 
-                <l>Meanwhile, as on a rainy day</l>
-                <l>When 'tis not possible to play, The while you do your best to grow</l>
-                <l>I ply the other craft I know</l> 
-                <l>And strive to build for you the mood</l>
-                <l>of daring and fortitude</l> 
-                <l>With fitted word and shapen phrase,</l>
-                <l>Against those later wonder-days</l>
-                <l>When first you glimpse the world of men</l>
-                <l>Beyond the bleaker side of ten.</l> 
+                <pb facs="nei.n1b.1.32-33"/>
+                <note type="curatorial">33</note>
                 
-                <p>That was in 1915, more than half a century ago. I have kept my promise to the boy of ten and made
-                kites, and boats and bows; I have built the mood of daring and of fortitude for the growing man,
-                exemplified by old Hugh Glass.</p> 
-                <p>I watched my boy grow old -- and full of sleep -- and now that it has been getting later and later
-                for me recently, it thrills me to think innumberable men, women, and children will spend happy times
-                in this recreation park near where Hugh Glass fought alone for life.</p> 
-                <p>And may many learn the great lessons set forth in Hugh Glass. For instance: 
-                "nor might treachery recall the miracle of being loved at all."</p> 
+                <p>That the course does have human significance is indicated by the fact that student interest has
+                continued for fifteen years.</p> 
+                <p>The foregoing is my reason for teaching Twilight of the Sioux. My reason for teaching at all is that
+                I sincerely love students and have been happy with them.</p> 
                 
-                
-                <p>And also-</p>
-                <p>"The duty and the beauty of endeavor, the privilege of going on forever, a victor in the moment!"
-                Again, I thank you for this very special honor that has come to me in the dedication of this Hugh
-                Glass Park.</p> 
-
                 <closer>
-                    <salute>Sincerely,</salute>
-                    <signed>(signed) John G. Neihardt</signed>
+                    <salute>With all kind thoughts,</salute>
+                    <signed>John G. Neihardt </signed>
                 </closer>
-                                
+                
+                <note type="authorial">JGN:fmb</note>
+                
+                <postscript>
+                    <p>Please give my regards to Mr. Domly.</p> 
+                    <p>If this is not exactly waht you had in mind--if you would prefer to quote from my workers-just let
+                me know how much space you wish to give me and I will suggest quotable passages.</p>
+                </postscript> 
+                
             </div1>
             
         </body>
