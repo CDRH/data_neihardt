@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.3.35-39">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Alice Culler Neihardt to Mildred Piper, October 28, 1922</title>
+                <author>Neihardt, Alice Culler</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.3.35-39</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, Alice Culler</author>
+                    <title level="m" type="main">Letter from Alice Culler Neihardt to Mildred Piper</title>
+                    <date when="1922-10-28">October 28, 1922</date>
+                    <extent>5 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>5 hand-written pages</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Piper, Mildred</term>
+                    <term>Neihardt, Alice Culler</term>
+                    <term>Neihardt, Mona Martinsen</term>
+                    <term>Minnie</term>
+                    <term>Mabel</term>
+                    <term>Garner</term>
+                    <term>Ball</term>
+                    <term>Mitchel, Mrs.</term>
+                    <term>Mitchel, Dr.</term>
+                    <term>Stoekle</term>
+                    <term>Plumber</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Hastings (Neb.)</term>
+                    <term>Branson (Mo.)</term>
+                    <term>Omaha (Neb.)</term>
+                    <term>Sioux City (Iowa)</term>
+                    <term>California</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Neihardt, Alice Culler</persName>
+                    <placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Piper, Mildred</persName>
+                    <placeName ref="http://www.geonames.org/5069802">Hastings (Neb.)</placeName>
+                    <date when="1922-10-28"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="envelope">
+                <pb facs="nei.j4b.3.35-39"/>
+                <note type="curatorial">35</note>
+                <note type="curatorial">16 Piper Collection</note>
+
+                <ab type="note">
+                    #145 Branson Mo.
+                </ab> 
+                
+                <ab type="postmark">
+                    OCT. 1922 MO. UNITED STATES POSTAGE 2CENTS2
+                </ab>
+                
+                <ab type="address">
+                    Miss Mildred Piper 
+                    809 North Hastings ave
+                    Hastings
+                    Nebraska
+                </ab> 
+            </div1>
+
+            <div1 type="letter">
+                <pb facs="nei.j4b.3.35-39"/>
+                <note type="curatorial">36</note>
+                
+                <opener>
+                    
+                <dateline>
+                    Branson Mo. 
+                    Oct 28-1922.
+                </dateline> 
+                
+                <salute>My Dear little girl-</salute>
+                    
+                </opener>
+                
+                <p>I don't just remember where I left off in my last letter to you. I think tho I was in the throes of a Tick Contest and the weather still very hot. I am surely glad to report that old "Lol" sums to have exausted himself and like wise the "Tick." The weather is very fine and the hills are gorgeous in their array of red and yellow How we have wished for you, you <unclear/> so thoroughly <unclear/> it all. Swimming is gone too. has been for some time. long before the heat abated, simply because the streams just dried up because of the big drought. "Blue hole" is a watching place for the horses and cows for miles around. Our well went dry. JOhn's cistern went dry and I had not very much water in my cistern. We had to have water hauled and put into John's cistern and we used magic for hours purposes. We could get two pails a day from the <unclear/> which made us drinking water and just think of this, John away, the water condition as I have described and this house on <unclear/> I never saw people gather as they did here. in 15 minutes there must ahve been 45 men here and all the women in the neighborhood <unclear/></p> 
+                
+                <pb facs="nei.j4b.3.35-39"/>
+                <note type="curatorial">37</note>
+                
+                <p>it water they had in the house some Even best <unclear/> paris with <unclear/>
+                    water. Thank the Lord it was put out before much damage was done it caught in John's Literary form the chimney they got insurance and Mona had all the traces obliterated before John returned. Oh I have so many things to tell you and if I tell them all there will be no other letters writen-Toning back I must tell you that I am going to Omaha sometime in Nov. John's portrait was finished <unclear/> he was there this time, and they are going to have a big time when it is placed in the Omaha Library and I am actually going to see it. And I had a letter from <unclear/> today <unclear/> me b-go on to Minnie after and spend the winter with her. I may, but that will have to develop yet. I surely want to go very much. <unclear/> she worked for a whole month about <unclear/> women of us on our Street Carnival, Everything went fine and all the Carnival was just watching for the day to arrive to begin operations. It was to be the 6th of <unclear/>. and the night of the fourth and all day the 5th it poured rain the 6th was <unclear/> and cold and sloppy. None of the <unclear/> could be pent up in fact nothing could be done <unclear/> of doors. "As luck would have it"</p> 
+                
+                <pb facs="nei.j4b.3.35-39"/>
+                <note type="curatorial">38</note>
+                
+                <p>there was an supply building. We went into that, had fancy work, cider &amp; ginger bread cake and ice cream, served meals and chilli. And we took in $150.00 but of course the fun was all cut out, wrestling match shooting gallery, fat man's race, fat woman's race, old fiddle's contest, baley contest. We were just sick over the whole business From a financial point we did well enough but it was because people pittied us and I just hated the whole thing, and when you think that was the only rain we have had since you were here. It was awful How I wish I could see you when I get to Nebr. If I possibly can will see your mother and Mabel in Sioux City.</p> 
+                <p>John is home again but will go to Southern California the last of Nov. OH how I wish he might have been one of those wonders in Hastings, maybe he can be there next year. I am actually making my silk dress you saw this summe rto take with me to Omaha. And I'm going to make the checked</p>
+                
+                <pb facs="nei.j4b.3.35-39"/>
+                <note type="curatorial">39</note>
+                
+                <p>it into a dress. fix my old black taffetta to travel in, make a night gown and some Teddy's then I'll be ready. 
+                I saw Mrs. Garner yesterday she always ask of you. So does Mr. G. and the Balls Dr and Mrs. Mitchel wish to be remember and poor old Mrs. Stoekle still has <unclear/> over you. I'll tell you what! You made quite a bit here altho you were in M social whirl. I always have been so grateful that you got no ticks when you were here.</p> 
+                <p>I am going to send you a box of persimmons real soon.</p> 
+                <p>Oh say I'm afraid our rug venture no "nipped in the bud" for a while any way. Mrs. Plumber who does the weaving has been, and is, in very poor health. It may be a little later in the year we can still have them. And I'll see to them-when we can. Mercy I must shut this off. I had such a sweet letter form your mother and received the seeds, my love to you dear girl.</p> 
+                <closer>
+                    <signed>Alice M. Neihardt</signed>
+                </closer>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

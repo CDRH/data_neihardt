@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.4.46-48">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Alice Culler Neihardt to Mildred Piper, July 26, 1923</title>
+                <author>Neihardt, Alice Culler</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.4.46-48</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, Alice Culler</author>
+                    <title level="m" type="main">Letter from Alice Culler Neihardt to Mildred Piper</title>
+                    <date when="1923-07-26">July 26, 1923</date>
+                    <extent>3 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>3 hand-written pages</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Neihardt, Alice Culler</term>
+                    <term>Piper, Mildred</term>
+                    <term>Neihardt, Mona Martinsen</term>
+                    <term>Neihardt, Alice</term>
+                    <term>Ryskind, Mary House</term>
+                    <term>Culler, Catherine</term>
+                    <term>Garner</term>
+                    <term>Ball</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Branson (Mo.)</term>
+                    <term>Sioux City (Iowa)</term>
+                    <term>Wayne (Neb.)</term>
+                    <term>Lincoln (Neb.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Neihardt, Alice Culler</persName>
+                    <placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Piper, Mildred</persName>
+                    <placeName ref="http://www.geonames.org/4876523">Sioux City (Iowa)</placeName>
+                    <date when="1923-07-26"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="envelope">
+                <pb facs="nei.j4b.4.46-48"/>
+                <note type="curatorial">46</note>
+                <note type="curatorial">40 Piper Collection</note>
+                <note type="curatorial">
+                    July 26, 1923
+                    
+                    #255 <unclear/>
+                </note>
+                
+                <ab type="postmark">
+                    BRANSON Jul 26 11 PM MO. 
+                </ab>
+                
+                <ab type="stamp">
+                    U.S.POSTAGE <figure/> 2CENT2
+                </ab>
+                
+                <ab type="address">
+                    Miss Mildred Piper 
+                    1921 West 7th Street
+                    Soo City
+                    Iowa 
+                </ab> 
+                
+            </div1>
+            
+            <div1 type="letter">
+                <pb facs="nei.j4b.4.46-48"/>
+                <note type="curatorial">47</note>
+                
+                <opener>
+                    <dateline>
+                        July 20, 1923
+                    </dateline>
+                    
+                    <salute>My Dear little girl;</salute>
+                </opener>
+                
+                <p>If you could know how many times I think of you; it might be some compen-sation for my tardy letter writing has been so hard this summer. For weeks I have not been well, Have been to "blue hole" but once this summer, but Mona has been going, little alice to and they can hardly get her out. She tells Daddy "No sir I swim" and back she wades. I was so glad for your letter weeks ago and I hope you are having a pleasant vacation. So glad to know you have bot the home and how pretty it must be all <unclear/>.</p> 
+                <p>I hope you will get into Soo City to teach. They have been having a great time here for teachers this summer the school is much better unclear the new <unclear/> and wages are better but teacher have so much to do I did not want you to have so much work, but oh! I did want you here. Mary House of Wayne was elected to the Primary at $10. I board here for $20, she is a dear little girl but I did so wish it were you to be here.</p>  
+                
+                <pb facs="nei.j4b.4.46-48"/>
+                <note type="curatorial">48</note>
+                
+                <p>y yard has been so beautiful this summer and I have a lovely garden.</p> 
+                <p>Mother has gone to Lincoln I hardly expect her back again. With there she can go out in their car. Here she could not get around.</p> 
+                <p>The weather has been so hot here. John is gone again and I am doing the milking, we are making cheese too, we make a 2lb cheese every other day. And we have 5 of them now. I don't need to can peaches this year I have so many left I think of you every time I open a can. How you did help. And I wish you were her this Summer. Peaches are not so plentiful this year melons too are scarce, they had to give up for the tobacco craze. Every one is raining tobacco this year. Lots of plums and apples I have such lots of ripe tomatoes. Must can this week get Mrs. Garner always asks for you and so do the Balls. I have not been out there this summer. Think I shall go before school begins. Remember me to your father and mother all the boys and your own dear self I am so glad for the sweet photo of yourself lovingly</p> <closer><signed>Alice Neihardt</signed></closer>
+
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

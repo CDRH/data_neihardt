@@ -1,16 +1,168 @@
 <?xml version="1.0" encoding="UTF-8"?>
-52
-MISSOURI COLLECTION 
-FACULTY CLUB
-UNIVERSITY OF CALIFORNIA 
-5.30 p.m. March 4, '18
-Dear Ones:-
-Came up from Carmel with Sterling & the Howards last night. Sent you some photos of this place today. Will send some more in S. F. wonderful peace. Today the HOwards drove me all around. I've met a lot of Profs.-some very nice. Herbert cory of the English Dept. & a noted critic will send his study of <unclear/> Lane. had lunch with him & Howard & Prof Hart today. Feel well will 
-read tonight in the U. auditorium - big, easy place for speaking. Don't feel nervous. 
-Lord! but they're treating the Little Buffalo like a whwite man! 
-Evelyn S <unclear/> will probably be out to hear me. (Damn the Cody!) I'd like to rub it in for you, Mona dear! Shefords are Howards' particular friends. 
-Going down to eat now. Wanted to touch you all again. Sigs kiss Enid's kiss Hilda's kiss
-x x x 
-x Everybody's kiss (I mean the five)
-Lovingly Jno. 
-See inside 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.1.52">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to Mona Marinsen Neihardt, March 4, 1918</title>
+                <author>Neihardt, John G., 1881-1973.</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.1.52</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John G., 1881-1973.</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Mona Marinsen Neihardt</title>
+                    <date when="1918-03-04">March 4, 1918</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 hand-written page</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Howard</term>
+                    <term>Cary, Herbert</term>
+                    <term>Cary, Herbert</term>
+                    <term>Shepard, Evelyn</term>
+                    <term>Neihardt, Mona Martinsen</term>
+                    <term>Neihardt, Sigurd</term>
+                    <term>Neihardt, Enid</term>
+                    <term>Petri, Hilda Neihardt</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Carmel (Calif.)</term>
+                    <term>San Fransisco (Calif.)</term>
+                    <term>Berkeley (Calif.)</term>
+                    <term>Greece</term>
+                    <term>Nebraska</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Neihardt, Mona Martinsen</persName>
+                    <date when="1918-03-04"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.j4b.1.52"/>
+                <note type="curatorial">52</note>
+                <note type="curatorial">MISSOURI COLLECTION</note>
+                
+                <opener>
+                    
+                    <fw type="authorial">
+                        FACULTY CLUB
+                        UNIVERSITY OF CALIFORNIA
+                    </fw>
+                    
+                    <dateline>5.30 p.m. March 4, '18</dateline>
+                    
+                    <salute>Dear Ones:-</salute>
+                </opener>
+                
+                <p>Came up from Carmel with Sterling &amp; the Howards last night. Sent you some photos
+                of this place today. Will send some more in S. F. wonderful peace. Today the Howards
+                drove me all around. I've met a lot of Profs.-some very nice. Herbert cory of the
+                English Dept. &amp; a noted critic will send his study of <unclear/> Lane. had lunch
+                with him &amp; Howard &amp; Prof Hart today. Feel well will 
+                read tonight in the U. auditorium - big, easy place for speaking. Don't feel nervous. 
+                Lord! but they're treating the Little Buffalo like a white man! 
+                Evelyn Shepard will probably be out to hear me. (Damn the lady!) I'd like to rub it
+                in for you, Mona dear! Shepards are Howards' particular friends. 
+                Going down to eat now. Wanted to touch you all again. Sigs kiss Enid's kiss Hilda's kiss</p>
+                <p>x x x</p> 
+                <salute>x Everybody's kiss (I mean the five)</salute>
+                <signed>Lovingly Jno.</signed> 
+                
+                <note type="authorial">See inside</note>
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

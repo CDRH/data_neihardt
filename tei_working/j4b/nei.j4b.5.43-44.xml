@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.5.43-44">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Alice Culler Neihardt to Caroline D. Berg, September 22, 1924</title>
+                <author>Neihardt, Alice Culler</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.5.43-44</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, Alice Culler</author>
+                    <title level="m" type="main">Letter from Alice Culler Neihardt to Caroline D. Berg</title>
+                    <date when="1924-09-22">September 22, 1924</date>
+                    <extent>2 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 hand-written pages</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Neihardt, Alice Culler</term>
+                    <term>Berg, Caroline D.</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Pender (Neb.)</term>
+                    <term>Buffalo (N.Y.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Neihardt, Alice Culler</persName>
+                    <placeName ref="http://www.geonames.org/5110629">Buffalo (N.Y.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Berg, Caroline D.</persName>
+                    <placeName ref="http://www.geonames.org/5074969">Pender (Neb.)</placeName>
+                    <date when="1924-09-22"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.j4b.5.43-44"/>
+                <note type="curatorial">43</note>
+                <note type="curatorial">
+                    4 Berg Collection
+                </note>
+                
+                <opener>
+                    <note type="authorial">When I <unclear/> again I will tell you about the rest of my trip the "Falls" a.m.</note>
+                    
+                    <dateline>
+                        276 Linwood Ave
+                        Buffalo N.Y. 
+                        Sep. 22-1924
+                    </dateline>
+                    
+                    <salute>My Dear Mrs. Berg:</salute>
+                </opener>
+                
+                <p>You will be surprised to get a letter from me with the address above. I am really, and truly ashamed. That I did not get even a short note <unclear/> to you before leaving Branson, I think I told ^you that I had a daugh-ter in Buffalo in the</p>
+                
+                <pb facs="nei.j4b.5.43-44"/>
+                <note type="curatorial">44</note>
+                
+                <p>Public Library. She had been beg-ing me to come to her so long. So I rented my home furnished to reliable people and I lift Branson Aug. 31st my life has been completely changed around It seems that the only natural things I do is to eat and slep I don't always cook what I eat and never make my bed Lawn mowers, rakes and hoes are resting from one and in turn I am having a good time in the Library the Art Galery the Movies the Parks, to church and many other things so new and strange to me but very delightful I assure you. I can have all the time to read I want and any thing I want to read But I don't always wnat to read I <unclear/> to have passed that hungry time. I think of the story</p> 
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

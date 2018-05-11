@@ -1,35 +1,187 @@
 <?xml version="1.0" encoding="UTF-8"?>
-(Dedication for "Song of Hugh Glass")
-24
-TO SIGURD, SCARCELY THREE. 
-When you are old enough to know
-The joys of kite and boat and bow 
-And other suchlike splendid things 
-That boyhood's rounded decade brings,
-I shall not give you tropes and rhymes;
-But, rising to those rousing times,
-I shall ply well the craft I know 
-Of shaping kite and boat and bow,
-For you shall teach me once again 
-The goodly art of being ten.
-Meanwhile, as on a rainy day
-When 'tis not possible to play,
-The while you do your best to grow 
-I ply the other craft I know
-And strive to build for you the mood
-Of daring and of fortitude 
-In fitted word and shapen phrase, 
-Against those later wonder-days
-When first you glimpse the world of men
-Beyond the other side of ten. 
-- 
-Implement & Tractor
-Trade Journal 
-KANSAS CITY, MO. 
-OMAHA, NEBS. JUN 14 3 PM 1922 HARNEY STATE 
-U.S. POSTAGE <figure/> 2CENTS2
-Mrs. A.M. Neihardt
-Branson, Mo. 
-Taney Co 
-"Published in the Heart of the Tractor and Farm Equipment Market"
-Missouri Collection 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.3.24">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to Alice Culler Neihardt, June 14, 1922</title>
+                <author>Neihardt, John G., 1881-1973.</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.3.24</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John G., 1881-1973.</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Alice Culler Neihardt</title>
+                    <date when="1922-06-14">June 14, 1922</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 hand-written page</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Neihardt, Sigurd</term>
+                    <term>Neihardt, Alice Culler</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Kansas City (Mo.)</term>
+                    <term>Omaha (Neb.)</term>
+                    <term>Branson (Mo.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term>The Song of Hugh Glass</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <placeName ref="http://www.geonames.org/4393217">Kansas City (Mo.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Neihardt, Alice Culler</persName>
+                    <placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+                    <date when="1922-06-14"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.j4b.3.24"/>
+                <note type="curatorial">Missouri Collection</note>
+                <note type="curatorial">24</note>
+                    
+                    <fw type="authorial">
+                        (Dedication for "Song of Hugh Glass")
+                    </fw>
+                    
+                    <p>TO SIGURD, SCARCELY THREE.</p> 
+                    <l>When you are old enough to know</l>
+                    <l>The joys of kite and boat and bow</l> 
+                    <l>And other suchlike splendid things</l> 
+                    <l>That boyhood's rounded decade brings,</l>
+                    <l>I shall not give you tropes and rhymes;</l>
+                    <l>But, rising to those rousing times,</l>
+                    <l>I shall ply well the craft I know</l> 
+                    <l>Of shaping kite and boat and bow,</l>
+                    <l>For you shall teach me once again</l> 
+                    <l>The goodly art of being ten.</l>
+                    <l>Meanwhile, as on a rainy day</l>
+                    <l>When 'tis not possible to play,</l>
+                    <l>The while you do your best to grow</l> 
+                    <l>I ply the other craft I know</l>
+                    <l>And strive to build for you the mood</l>
+                    <l>Of daring and of fortitude</l> 
+                    <l>In fitted word and shapen phrase,</l> 
+                    <l>Against those later wonder-days</l>
+                    <l>When first you glimpse the world of men</l>
+                    <l>Beyond the other side of ten.</l> 
+                    <p>-</p> 
+            </div1>
+            
+            <div1 type="envelope">
+                    <ab type="return">
+                        Implement &amp; Tractor
+                        Trade Journal 
+                        KANSAS CITY, MO.
+                    </ab> 
+                
+                    <ab type="postmark">
+                        OMAHA, NEBR. JUN 14 3 PM 1922 HARNEY STATE
+                    </ab> 
+                
+                    <ab type="stamp">
+                        U.S. POSTAGE <figure/> 2CENTS2
+                    </ab>
+                
+                    <ab type="address">
+                        Mrs. A.M. Neihardt
+                        Branson, Mo. 
+                        Taney Co
+                    </ab> 
+                
+                    <ab type="note">
+                        "Published in the Heart of the Tractor and Farm Equipment Market"
+                    </ab> 
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

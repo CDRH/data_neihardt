@@ -1,15 +1,162 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Missouri Collection 
-29
-Wayne, Monday April 30, 1923
-Dear Mama:-
-I've been having a hard run, but am in position to rest here. Another hard new later, and then home. But I'll tell you I'm grateful that I can go out like this and pick up enough money for a long spell of uninterrupted work down there. 
-Ed. Burke (!) was out to hear me in Omaha & he was affectionate. Insisted upon my staying all night at his home. I'll probably do it. Let them all ride in the wagon - that is waht the wagon is for! 
-I hope you and Grandma are both well. Are the spring days heping Grandma's rheumatism? I tried to plan a stop in Fremont, but could not. Was sorry. 
-That is the country to live in. It grows more beautiful & lovely in every way by comparison with this. I do not want to leave it, and I wish it could develope in five years to that we could raise our children there. Almost no one nowadays knows what life is for. I do. And that is one reason people listen to me as they do. I am so. glad Mona isn't a modern fool, itching 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-30
-for city advantages! Wouldn't I be out of luck if she were one of these "superior" females who know so much that isn't so! You see too, and you must let no monetary whim fool you. In the "progressive" places, people run themselves to death hunting happiness. We know how to stand still and be overtaken by it. That is the greatest wealth. 
-I think I may have found one of the young facts I've been dreaming of - his name is Konecky. He is in his 20's & already has excellent <unclear/> & much insight. I'll watch him five or ten year, & maybe I can use him. I'll see him when I return to Omaha, but I'll not tell him what I'm thinking of. 
-Lots of love to you and Grandma.
-Jno- 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.4.29-30">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to Alice Culler Neihardt, April 30, 1923</title>
+                <author>Neihardt, John G., 1881-1973.</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.4.29-30</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John G., 1881-1973.</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Alice Culler Neihardt</title>
+                    <date when="1923-04-30">April 30, 1923</date>
+                    <extent>2 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 hand-written pages</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Burke, Ed</term>
+                    <term>Neihardt, Alice Culler</term>
+                    <term>Culler, Catherine</term>
+                    <term>Neihardt, Mona Martinsen</term>
+                    <term>Konecky</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Omaha (Neb.)</term>
+                    <term>Fremont (Neb.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <placeName></placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Neihardt, Alice Culler</persName>
+                    <placeName></placeName>
+                    <date when="1923-04-30"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.j4b.4.29-30"/>
+                <note type="curatorial">29</note>
+                <note type="curatorial">Missouri Collection</note>
+                
+                <opener>
+
+                    <dateline>
+                        Wayne, Monday April 30, 1923
+                    </dateline> 
+                    
+                    <salute>Dear Mama:-</salute>
+                </opener>
+                
+                <p>I've been having a hard run, but am in position to rest here. Another hard new later, and then home. But I'll tell you I'm grateful that I can go out like this and pick up enough money for a long spell of uninterrupted work down there.</p> 
+                <p>Ed. Burke (!) was out to hear me in Omaha &amp; he was affectionate. Insisted upon my staying all night at his home. I'll probably do it. Let them all ride in the wagon - that is waht the wagon is for!</p> 
+                <p>I hope you and Grandma are both well. Are the spring days heping Grandma's rheumatism? I tried to plan a stop in Fremont, but could not. Was sorry.</p> 
+                <p>That is the country to live in. It grows more beautiful &amp; lovely in every way by comparison with this. I do not want to leave it, and I wish it could develope in five years to that we could raise our children there. Almost no one nowadays knows what life is for. I do. And that is one reason people listen to me as they do. I am so. glad Mona isn't a modern fool, itching</p> 
+                
+                <pb facs="nei.j4b.4.29-30"/>
+                <note type="curatorial">30</note>
+                
+                <p>for city advantages! Wouldn't I be out of luck if she were one of these "superior" females who know so much that isn't so! You see too, and you must let no monetary whim fool you. In the "progressive" places, people run themselves to death hunting happiness. We know how to stand still and be overtaken by it. That is the greatest wealth.</p> 
+                <p>I think I may have found one of the young facts I've been dreaming of - his name
+                    is Konecky. He is in his 20's &amp; already has excellent <unclear/> &amp; much
+                    insight. I'll watch him five or ten year, &amp; maybe I can use him. I'll see him when I return to Omaha, but I'll not tell him what I'm thinking of.</p> 
+                <closer>
+                    <salute>Lots of love to you and Grandma.</salute>
+                    <signed>Jno-</signed>
+                </closer> 
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

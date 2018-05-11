@@ -1,39 +1,220 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Missouri Collection 
-19
-FIREPROOF EUROPEAN PLAN 
-HOTEL K KEYSTONE 
-POLAND & MERRELL 
-LESSESS 
-McCOOK, NEBR. 
-Friday a.m.
-mch 14'24
-Dearest Ones: 
-I got here last night at 1:30 and slept until 8:30 this morning, so I'm feeling bully. 
-There was no snow at Falls City, and the weather was spring - like - maple buds pretty well developed but sometime from being out. It snowed here last night and is snowing today - a thin warm snow, next thing to rain. I'll leave here tomorrow (Saturday) at 12:30 and reach Fairmont at 7:35. That is only 40 miles south of Osceola. ^Will Read at Fairmont Sunday night in a church. All the churches will close & came over. to hear the poet. Monday might I'll be at Osceola, & then I'll hit for Omaha. Ralston on Tuesday night & Council Bluffs Wednesday A.M. at 10.30 then I'll take the 4 P.M. Burlington
-<figure/>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-20
-FIREPROOF EUROPEAN PLAN 
-HOTEL K KEYSTONE 
-POLAND & MERRELL 
-LESSESS 
-McCOOK, NEBR. 
--2-
-and reach Branson Thursday. It looks like something over $100 clear for this trip - not so bad. Might be considerably more, could easily be $150. I was talking to the editor of The Falls City Daily about the Julian oil business, and he said that we've got 'em for infringement. A certain portion of a given work can be used legally - but not the whole. I do hope we can loud for damages in excess of the minimum. 
-I hope you are all feeling better by now & that Mona got Mrs. Robertson. 
-I have a strenuous time from now on - Sun, Mon., Tues, nights straight and Wed. morning. But I feel normal - not at all strained yet. Caught a cold on the way to K.C. there is no sleeper 
-<figure/>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.5.19-21">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to Mona Martinsen Neihardt, March 14, 1924</title>
+                <author>Neihardt, John G., 1881-1973.</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.5.19-21</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John G., 1881-1973.</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Mona Martinsen Neihardt</title>
+                    <date when="1924-03-14">March 14, 1924</date>
+                    <extent>3 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>3 hand-written pages</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Street, Julian, 1879-1947</term>
+                    <term>Robertson</term>
+                    <term>Neihardt, Mona Martinsen</term>
+                    <term>Teasdale, Sara, 1884-1933</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>McCook (Neb.)</term>
+                    <term>Falls City (Neb.)</term>
+                    <term>Fairmont (Neb.)</term>
+                    <term>Osceola (Neb.)</term>
+                    <term>Omaha (Neb.)</term>
+                    <term>Ralston (Neb.)</term>
+                    <term>Council Bluffs (Iowa)</term>
+                    <term>Branson (Mo.)</term>
+                    <term>Kansas City (Mo.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <placeName ref="http://www.geonames.org/5697383">McCook (Neb.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Neihardt, Mona Martinsen</persName>
+                    <placeName></placeName>
+                    <date when="1924-03-14"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.j4b.5.19-21"/>
+                <note type="curatorial">19</note>
+                <note type="curatorial">Missouri Collection</note>
+                
+                <note type="authorial">
+                    FIREPROOF
+                    EUROPEAN PLAN
+                    HOTEL KEYSTONE
+                    K
+                    POLAND &amp; MERRELL LESSES
+                    McCOOK, NEBR.
+                </note>
+                
+                <opener>
+                    <dateline>
+                        FRIDAY A.M.
+                        Mch 14 '24
+                    </dateline>
+                    
+                    <salute>Dearest Ones:</salute>
 
-21
-FIREPROOF EUROPEAN PLAN 
-HOTEL K KEYSTONE 
-POLAND & MERRELL 
-LESSESS 
-McCOOK, NEBR. 
--3-
-now; and the coach was draughty. But I doped up with <unclear/> - <unclear/> & the cold stopped, Slept in a hotel that first night - with farmer. 
-I'm going to spend most of my time today are the University poetry contest. They sent me the 20 best poems received. 10,000 students to compete, and yet there's not a notable thing in the bunch! One little thing in the bunch! One little thing is so good - a sort of Sara Teasdale lyric - short & sweet. One pretensious poem is so vague I don't know what it's about. The others are almost nothing. Lots of love to my Six
-Jno 
-Daddy. 
-<figure/> 
+                </opener>
+                
+                <p>I got here last night at 1:30 and slept until 8:30 this morning, so I'm feeling bully.</p>
+                <p>There was no snow at Falls City, and the weather was spring -like- maple buds pretty well developed
+                but some time from being out.</p> 
+                <p>It snowed here last night and is snowing today - a thin warm snow, next thing to rain. I'll leave
+                here tomorrow (Saturday) at 12:30 and reach Fairmont at 7:35. That is only 40 miles south of
+                Osceola. ^Will read at Fairmont Sunday night in a church. All the churches will close I came over to
+                hear the boat. Monday night I'll be at Osceola, &amp; I think I'll head for Omaha. Ralston on Tuesday
+                night &amp; Council Bluffs Wednesday A.M. at 10:30 then I'll take the 4 P.M. Burlington.</p>
+                <figure/>
+                
+                <pb facs="nei.j4b.5.19-21"/>
+                <note type="curatorial">20</note>
+                <note type="authorial">-2-</note>
+                
+                <note type="authorial">
+                    FIREPROOF
+                    EUROPEAN PLAN
+                    HOTEL KEYSTONE
+                    K
+                    POLAND &amp; MERRELL LESSES
+                    McCOOK, NEBR.
+                </note>
+                
+                <p>and reach Branson Thursday. &amp; It look slike something over 100 clean for this trip - not so bad.</p>
+                <p>Might be considerably more, could easilt be 150.</p> 
+                <p>I was talking to the editor of the Fall City Daily about the Julian and business, and he said that
+                we've got 'em for infringement. A <unclear/> of a given work can be used legally - but not the
+                whole. I do hope we can land for manages in excess of the minimum.</p>
+                <p>I hope you are all feeling better by now &amp; that Mona got Mrs. Robertson.</p>
+                <p>I have a strenuous time from now on - Sun, Mon, Tues, nights stright and Wed. morning. But I feel
+                normal - not at all strained yet. Caught a cold on the way to K.C. there is no sleeper</p>
+                <figure/>
+                
+                <pb facs="nei.j4b.5.19-21"/>
+                <note type="curatorial">20</note>
+                <note type="authorial">-3-</note>
+                
+                <note type="authorial">
+                    FIREPROOF
+                    EUROPEAN PLAN
+                    HOTEL KEYSTONE
+                    K
+                    POLAND &amp; MERRELL LESSES
+                    McCOOK, NEBR.
+                </note>
+                
+                <p>now; and the coach was draughty. But I doped up with <unclear/> &amp; the cold stopped. Slept in the
+                hotel that first night - with Garner.</p>
+                <p>I'm going to spend most of my time today at the University poetry contest. They sent me the 50 best
+                poems recieved. 10,000 students to compete, and yet there's not a notable thing in the bunch! One
+                little thing is good - a sort of Sara Teasdale lyric - short &amp; sweet. One pretentious poem is so
+                bague I don't know what it's about. The others are almost nothing.</p>
+                <figure/>
+                <closer>
+                    <salute>Lots of love to my six</salute> 
+                    <signed>Jno</signed> 
+                    <signed>Daddy.</signed>
+                </closer>
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

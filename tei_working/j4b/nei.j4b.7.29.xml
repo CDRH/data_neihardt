@@ -1,18 +1,161 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Missouri Collection 
-29
-<figure/> DAILY SUNDAY 
-EDITORIAL DEPARTMENT 
-ST. LOUIS POST-DISPATCH 
-PUBLISHED BY THE PULITZER PUBLISHING CO. 
-Oct. 4, 1928
-[Oct. 2 ov 9]
-1928
-ST. LOUIS, MO. 
-Tuesday.
-Branson, Mo. 
-Dear Mama: 
-Your happy letter has just arrived. I'm mighty glad the radio is fixed again. You really have a good radio, as good as any and better than many. You will have a trickle charger soon, and you must have it put in at once. That is a bully idea, having your batteries in the closet. What you need now is a stand to put the radio on, or have you something that looks good? Isn't there any way of making the loud speaker look good again? Is it much damaged in appearance? Surely it could be straightened. With the trickle charger you will have smoother reception on all the time than if you were directly connected with the city current, which is not always of the same intensity. And you will have the same as a plug-in set. You can see how that is. Yes, Mama, it matters a lot if you are happy or not. I want you to enjoy life as much as possible. You are no more a supernumerary in society than the rest of us. Not a bit. This socity is not so damned intelligent that things of that sort can be figured out on a basis of present service. It's an idiotic society, at best, and you are worth more than most people who are diddling around for wages. 
-Creighton University will make me a Dcotor of Laws and Literature (LL.D.) on Oct. 19th. 
-Endless love, 
-Jno.  
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.7.29">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from to John G. Neihardt to Alice Culler Neihardt, October 4, 1928</title>
+                <author>Neihardt, John G., 1881-1973.</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.7.29</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John G., 1881-1973.</author>
+                    <title level="m" type="main">Letter from to John G. Neihardt to Alice Culler Neihardt</title>
+                    <date when="1928-10-04">October 4, 1928</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 hand-written page</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Neihardt, Alice Culler</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Branson (Mo.)</term>
+                    <term>St. Louis (Mo.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term>St. Louis Post-Dispatch</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <placeName ref="http://www.geonames.org/4407066">St. Louis (Mo.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Neihardt, Alice Culler</persName>
+                    <placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+                    <date when="1928-10-04"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.j4b.7.29"/>
+                <note type="curatorial">29</note>
+                <note type="curatorial">Missouri Collection</note>
+                
+                <fw type="authorial">
+                    <figure/> DAILY SUNDAY 
+                    EDITORIAL DEPARTMENT 
+                    ST. LOUIS POST-DISPATCH 
+                    PUBLISHED BY THE PULITZER PUBLISHING CO. 
+                </fw>
+                
+                <opener>
+                    <dateline>
+                        Oct. 4, 1928
+                        [Oct. 2 ov 9]
+                        1928
+                        ST. LOUIS, MO. 
+                    </dateline>
+                    <salute>
+                        Dear Mama:
+                    </salute> 
+                    <dateline>
+                        Branson, Mo. 
+                    </dateline>
+                </opener>
+                
+                <p>Your happy letter has just arrived. I'm mighty glad the radio is fixed again. You really have a good radio, as good as any and better than many. You will have a trickle charger soon, and you must have it put in at once. That is a bully idea, having your batteries in the closet. What you need now is a stand to put the radio on, or have you something that looks good? Isn't there any way of making the loud speaker look good again? Is it much damaged in appearance? Surely it could be straightened. With the trickle charger you will have smoother reception on all the time than if you were directly connected with the city current, which is not always of the same intensity. And you will have the same as a plug-in set. You can see how that is. Yes, Mama, it matters a lot if you are happy or not. I want you to enjoy life as much as possible. You are no more a supernumerary in society than the rest of us. Not a bit. This socity is not so damned intelligent that things of that sort can be figured out on a basis of present service. It's an idiotic society, at best, and you are worth more than most people who are diddling around for wages.</p> 
+                <p>Creighton University will make me a Dcotor of Laws and Literature (LL.D.) on Oct. 19th.</p> 
+                <closer>
+                    <salute>Endless love,</salute> 
+                    <signed>Jno.</signed>  
+                </closer> 
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

@@ -1,16 +1,159 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Missouri Collection 
-59
-<figure/>
-Hotel Dacres 
-E.C. DAVIS, PROP.
-<figure/>
-Walla Walla Wash.,
-Nov 28 21 
-Dear Mama: - 
-I've just seen an article fromthe Omaha Daily news for Nov 17, in which it is stated that you have given the bust to the Omaha Public Library. 
-That was surely a noble gesture, Mama! 
-Hurrah for you! I note they quote from your letter, & hat you say is bully! 
-Long tells me the news sluffed this over prematurely no matter. It's bully! 
-Lots & lots love, 
-Jno.  
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.2.43-48">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to Alice Culler Neihardt, November 28, 1921</title>
+                <author>Neihardt, John G., 1881-1973.</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.2.43-48</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John G., 1881-1973.</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Alice Culler Neihardt</title>
+                    <date when="1921-11-28">November 28, 1921</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 hand-written page</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Neihardt, Alice Culler</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Walla Walla (Wash.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term>Omaha Daily News</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <placeName ref="http://www.geonames.org/5814916">Walla Walla (Wash.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Neihardt, Alice Culler</persName>
+                    <placeName></placeName>
+                    <date when="1921-11-28"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.j4b.2.59"/>
+                <note type="curatorial">59</note>
+                <note type="curatorial">Missouri Collection</note>
+                
+                <fw type="authorial">
+                    <figure/>
+                    Hotel Dacres 
+                    E.C. DAVIS, PROP.
+                    <figure/>
+                    Walla Walla Wash.,
+                </fw>
+                
+                <opener>
+                    
+                    <dateline>
+                        Nov 28 21
+                    </dateline>
+                    
+                    <salute>Dear Mama: -</salute>
+                    
+                </opener>
+                
+                <p>I've just seen an article fromthe Omaha Daily news for Nov 17, in which it is stated that you have given the bust to the Omaha Public Library.</p> 
+                <p>That was surely a noble gesture, Mama!</p> 
+                <p>Hurrah for you! I note they quote from your letter, &amp; hat you say is bully!</p> 
+                <p>Long tells me the news sluffed this over prematurely no matter. It's bully!</p> 
+                
+               <closer>
+                   <salute>Lots &amp; lots love,</salute> 
+                   <signed>Jno.</signed>
+               </closer>
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

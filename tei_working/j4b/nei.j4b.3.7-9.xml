@@ -1,20 +1,184 @@
 <?xml version="1.0" encoding="UTF-8"?>
-6 Piper Collection March 26, 1922 <del>7,8,9</del> 7 
-box 145 Branson Mrs. - 
-BRANSON MAR 127 1 PM 19<unclear/> 
-UNITED STATES POSTAGE <figure/> 2CENTS2 
-Miss Mildred Piper 
-Lyons-Nebr. 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-8
-Branson Mo-
-March 26 - 1922 
-My Dear little girl;"
-If I don't hurry up it will be vacation again and I want to remind you of your trip to the Ozarks, For weeks this letter has been pending. Hardly a day goes by without some mention of your coming, now I hope htere will be nothing to hinder the coast is clear here. No new babies but we have the dearest thing here. You will just love her to death. She not only has my name but my hair as well and they say a red headed temper <unclear/>, But she is the best baby. Just no trouble except for the washing. 
-Well we were pleased to hear of the pain being read in your church I know you had a little thrill all your won, because you know him ^("John") so well and he surely has always been an admirer of you. When Miss Knapp was studying "Hugh Glass" in school, he used to say it should be you who were teaching "Hugh Glass" 
-
-9
-We have a real live Paren Teacher's Association here in Branson. You will wonder how they happened to Elect me President, well I was reelected for the second turn, now we are getting up a "home talent" missed. Mona both sings and plays. I'll send you a program when they are printed. The proceeds go to a Teacher's fund. We are to have a new school-house. Oh how I wish you could afford to teach for what we can afford to pay wouldn't it be glorious to have you <unclear/> here all year, when you come we will look things over and will know by that time what we can pay. 
-Don't try to do any of your swing before you come. You don't need any new clothes just <unclear/> things heavy shoes and a big sun hat. Oh of course you may need a little besides, but you can use your own judgement that. Mona is so well and strong Evry one Else is well. I have been making garden my yard is getting green and I only sowed the seed in Feb. have eight hens "sitting" will have plenty of fries and lots of milk when you come. give my love to your father and mother and know that i love 
-Jno 
-Alice Neihardt 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.3.7-9">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Alice Culler Neihardt to Mildred Piper, March 26, 1922</title>
+                <author>Neihardt, Alice Culler</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.3.7-9</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, Alice Culler</author>
+                    <title level="m" type="main">Letter from Alice Culler Neihardt to Mildred Piper</title>
+                    <date when="1922-03-26">March 26, 1922</date>
+                    <extent>3 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>3 hand-written pages</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Piper, Mildred</term>
+                    <term>Neihardt, Alice Culler</term>
+                    <term>Knapp</term>
+                    <term>Neihardt, Mona Martinsen</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Branson (Mo.)</term>
+                    <term>Lyons (Neb.)</term>
+                    <term>Ozark Mountains (Ark.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term>The Song of Hugh Glass</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Neihardt, Alice Culler</persName>
+                    <placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Piper, Mildred</persName>
+                    <placeName ref="http://www.geonames.org/5072499">Lyons (Neb.)</placeName>
+                    <date when="1922-03-26"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="envelope">
+                <pb facs="nei.j4b.3.7-9"/>
+                <note type="curatorial">7</note>
+                <note type="curatorial">6 Piper Collection</note>
+                
+                <dateline>
+                    March 26, 1922
+                </dateline>
+                
+                <note type="authorial">box 145 Branson Mrs. -</note>
+                
+                <ab type="postmark">
+                    BRANSON MAR 127 1 PM 19<unclear/>
+                </ab> 
+                
+                <ab type="stamp">
+                    UNITED STATES POSTAGE <figure/> 2CENTS2
+                </ab>
+                
+                <ab type="address">
+                    Miss Mildred Piper 
+                    Lyons-Nebr. 
+                </ab> 
+                
+            </div1>
+            
+            <div1 type="letter">
+                <pb facs="nei.j4b.3.7-9"/>
+                <note type="curatorial">8</note>
+                
+                <opener>
+                    
+                    <dateline>
+                        Branson Mo-
+                        March 26 - 1922 
+                    </dateline>
+                    
+                    <salute>My Dear little girl;"</salute>
+                </opener>
+                
+                <p>If I don't hurry up it will be vacation again and I want to remind you of your trip to the Ozarks, For weeks this letter has been pending. Hardly a day goes by without some mention of your coming, now I hope htere will be nothing to hinder the coast is clear here. No new babies but we have the dearest thing here. You will just love her to death. She not only has my name but my hair as well and they say a red headed temper <unclear/>, But she is the best baby. Just no trouble except for the washing.</p> 
+                <p>Well we were pleased to hear of the pain being read in your church I know you had a little thrill all your won, because you know him ^("John") so well and he surely has always been an admirer of you. When Miss Knapp was studying "Hugh Glass" in school, he used to say it should be you who were teaching "Hugh Glass"</p> 
+                
+                <pb facs="nei.j4b.3.7-9"/>
+                <note type="curatorial">9</note>
+                
+                <p>We have a real live Paren Teacher's Association here in Branson. You will wonder how they happened to Elect me President, well I was reelected for the second turn, now we are getting up a "home talent" missed. Mona both sings and plays. I'll send you a program when they are printed. The proceeds go to a Teacher's fund. We are to have a new school-house. Oh how I wish you could afford to teach for what we can afford to pay wouldn't it be glorious to have you <unclear/> here all year, when you come we will look things over and will know by that time what we can pay.</p> 
+                <p>Don't try to do any of your swing before you come. You don't need any new clothes
+                just <unclear/> things heavy shoes and a big sun hat. Oh of course you may need a
+                little besides, but you can use your own judgement that. Mona is so well and strong</p>
+                <p>Evry one Else is well. I have been making garden my yard is getting green and I only sowed the seed in Feb. have eight hens "sitting" will have plenty of fries and lots of milk when you come. give my love to your father and mother and know that i love you</p> 
+                <closer><signed>Alice Neihardt</signed></closer> 
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

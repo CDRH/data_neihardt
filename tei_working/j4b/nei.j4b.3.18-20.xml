@@ -1,22 +1,185 @@
 <?xml version="1.0" encoding="UTF-8"?>
-13 Piper Collection 18 <del>19,20</del>
-June 3, 1922
-BRANSON JUN 4 PM 1922 MO. 
-UNITED STATES POSTAGE 2CENTS2
-Miss Mildred Piper 
-1921 West 7th St
-Soo City
-Iowa. 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-19
-Branson Mo. 
-June 3rd 1922 
-My Dear little girl;
-I am writing just a few lines that I should have written days ago to tell you we are all delighted at the prospect of your visit in July to end at the very ltest date possible. I did so much want you here next year but was afraid you might not like it and the wages are lower too than you have been having. We are planning some trips when you come, I want you and Monda to get out together, and come prepared for the water. Bring some big or rather heavy shoes for your comfort these rock are hard on shoes. And high heels are not in the game at all you would soon find out. Don't sew yourself to death we can sew here. We will be glad to rest part of the time. 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.3.18-20">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Alice Culler Neihardt to Mildred Piper, June 3, 1922</title>
+                <author>Neihardt, Alice Culler</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.3.18-20</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, Alice Culler</author>
+                    <title level="m" type="main">Letter from Alice Culler Neihardt to Mildred Piper</title>
+                    <date when="1922-06-03">June 3, 1922</date>
+                    <extent>3 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>3 hand-written pages</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Neihardt, Mona Martinsen</term>
+                    <term>Neihardt, Alice Culler</term>
+                    <term>Piper, Mildred</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Branson (Mo.)</term>
+                    <term>Omaha (Neb.)</term>
+                    <term>Wayne (Neb.)</term>
+                    <term>Sioux City (Iowa)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Neihardt, Alice Culler</persName>
+                    <placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Piper, Mildred</persName>
+                    <placeName ref="http://www.geonames.org/4876523">Sioux City (Iowa)</placeName>
+                    <date when="1922-06-03"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="envelope">
+                <pb facs="nei.j4b.3.18-20"/>
+                <note type="curatorial">18</note>
+                <note type="curatorial">13 Piper Collection</note>
 
-20
-John leaves for Omaha the 8th of June and the 16th the bust I had of John and which I presented ^to the Wayne college will be unveiled, and important ceremonies, Oh how I wish I could go I have cried some salty tears because I can't. 
-I have had new potatoes out of my garden in May and buts and peas. Chickens will be ready to fry when you get here and all the Jersey milk you can drink, But then I'm not holding that as an incentive I come I want you to want to see us as badly as wewant ot see you. 
-so now I'm going to say goodly and be glad when I can say Hello, best wishes to the good mother and father and love to your dear self
-Most Sincerely
-Alice M. Neihardt 
+                <ab type="date">
+                    June 3, 1922
+                </ab>
+
+                <ab type="postmark">
+                    BRANSON JUN 4 PM 1922 MO.
+                </ab> 
+                
+                <ab type="stamp">
+                    UNITED STATES POSTAGE 2CENTS2
+                </ab>
+                
+                <ab type="address">
+                    Miss Mildred Piper 
+                    1921 West 7th St
+                    Soo City
+                    Iowa.
+                </ab>
+                
+            </div1>
+            
+            <div1 type="letter">
+                <pb facs="nei.j4b.3.18-20"/>
+                <note type="curatorial">19</note>
+                
+            <opener>
+                
+                <dateline>
+                    Branson Mo. 
+                    June 3rd 1922
+                </dateline> 
+                    
+                <salute>My Dear little girl;</salute>
+            </opener>
+                
+                <p>I am writing just a few lines that I should have written days ago to tell you we are all delighted at the prospect of your visit in July to end at the very ltest date possible. I did so much want you here next year but was afraid you might not like it and the wages are lower too than you have been having. We are planning some trips when you come, I want you and Monda to get out together, and come prepared for the water. Bring some big or rather heavy shoes for your comfort these rock are hard on shoes. And high heels are not in the game at all you would soon find out. Don't sew yourself to death we can sew here. We will be glad to rest part of the time.</p> 
+                
+                <pb facs="nei.j4b.3.18-20"/>
+                <note type="curatorial">20</note>
+                
+                <p>John leaves for Omaha the 8th of June and the 16th the bust I had of John and which I presented ^to the Wayne college will be unveiled, and important ceremonies, Oh how I wish I could go I have cried some salty tears because I can't.</p> 
+                <p>I have had new potatoes out of my garden in May and buts and peas. Chickens will be ready to fry when you get here and all the Jersey milk you can drink, But then I'm not holding that as an incentive I come I want you to want to see us as badly as wewant ot see you.</p> 
+                <p>so now I'm going to say goodly and be glad when I can say Hello, best wishes to the good mother and father and love to your dear self</p>
+                
+                <closer>
+                    <salute>Most Sincerely</salute>
+                    <signed>Alice M. Neihardt</signed>
+                </closer>
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

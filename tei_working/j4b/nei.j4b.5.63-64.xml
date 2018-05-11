@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.5.63-64">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Alice Culler Neihardt to Caroline D. Berg, December 7, 1924</title>
+                <author>Neihardt, Alice Culler</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.5.63-64</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, Alice Culler</author>
+                    <title level="m" type="main">Letter from Alice Culler Neihardt to Caroline D. Berg</title>
+                    <date when="1924-12-07">December 7, 1924</date>
+                    <extent>2 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 hand-written pages</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Neihardt, Alice Culler</term>
+                    <term>Berg, Caroline D.</term>
+                    <term>Tully, Jim</term>
+                    <term>Neihardt-Ballinger, Grace</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Pender (Neb.)</term>
+                    <term>Buffalo (N.Y.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term>The Song of the Messiah</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Neihardt, Alice Culler</persName>
+                    <placeName ref="http://www.geonames.org/5110629">Buffalo (N.Y.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Berg, Caroline D.</persName>
+                    <placeName ref="http://www.geonames.org/5074969">Pender (Neb.)</placeName>
+                    <date when="1924-12-07"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.j4b.5.63-64"/>
+                <note type="curatorial">63</note>
+                <note type="curatorial">
+                    Berg Collection [December 7, 1924]
+                </note>
+                
+                <opener>
+                    
+                    <dateline>
+                        276 Linwood Ave 
+                        Buffalo N. Y. 
+                    </dateline>
+                    
+                    <salute>My Dear Mrs. Berg;</salute>
+                </opener>
+                
+                <p>The data of your last is Vet 27 and this is Dec. 7th I am truly ashamed to let
+                    that kind of a letter wasn't that long to be ans. When I first came to Buffalo I
+                    wrote so many letters and received a lot, then all at once a careless streak
+                    struck me and your letter was caught in answered. I don't know that any excuse
+                    &amp; might give world be quite honest, but the nearest to it would be a return of my old trouble. It is</p> 
+                
+                <p>I would not liek to trade places with her our would you. I hope to be making friends rather than loosing than until I have finished.</p>
+                <p>So sorry that I did not answer your questions concerning the Tully aritcle yes he does know and we all know that John has surpassed them all, yes all I got the article from the Library here. Many thanks for your interest,</p>
+                <p>Johns "Poet Laureate Tour" thru Nebr. was a great success, He is now hard at work on his new Epic "The Messiah" and also writing the lecture to be given at the University in the</p> 
+                
+                <pb facs="nei.j4b.5.63-64"/>
+                <note type="curatorial">64</note>
+                
+                <p>just possible that I have over done, But when I was operated on a year ago, They told ^me there would be no return, and now I am told by authorities that a woman with varicose veins such as I have can never be operated on successfully for Hemeroids. So there you are and here "I are" just as miserable as I was a year ago. Now dear you will pardon me for giving such a picture of myself and we will talk of something else of which there is no lack.</p> 
+                <p>I have that many many times of Mrs. Graces and my heart goes out to her in her loneliness, But I am so glad she has a firend like yourself. It is the grandest thing to have friends. I feel so rich, not in numbers especially but in the quality. Some of them have been tried and true, some that I have made in later years have met my later needs. I was talking to a lady since I am here about "friends" and she said as she grew older her friends had dropped for one reason or an other until now she could count throw on one hand, and that her postal expense did not exceed $100 a year.</p>  
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

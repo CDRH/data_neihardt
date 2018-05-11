@@ -1,21 +1,177 @@
 <?xml version="1.0" encoding="UTF-8"?>
-5
-26 Piper Collection 
-1234 West St
-Grinnell Iowa,
-2BUFFALO JAN 9 6 PM 1925 N.Y. 
-UNITEDSTATESPOSTAGE <FIGURE/> JEFFERSON 2CENTS2
-Miss Mildred Piper 
-809 North Hastings Ave
-Hastings
-Nebr. 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-6
-My Dear little girl: 
-You made me so happy Christmas nothing could have pleased me more than a photo of your own sweet self and so wonderfully good just like you thank you so much for remembering this old delinquent I surely deserve no such
-ster's where my mothe ris and she is sick and very feeble, Don't know just when I will get home but I am home sick now but will stay with mother as long as she needs me. Have not time to write more. But when you write and I hope you will not wait too long address me 1234 West St. Grinnell, Iowa. My love to you my dear girl
-Alice M. Neihardt 
-
-7
-<unclear/> as I get from you altho you know I have often told you I love you. You have been home and back to school again and I know you had a good time. It would be hard for the Pipers to get together and not have a good time. 
-Grace and I had a very quiet time, chicken dinner and to see Otis Skinner in the evening I must tell you that Grace gave me a lovely new <unclear/> and hat for christmas, I am so proud of it and I look swell I leave here the 14th for a short visit at Coal city 2nd and then on to Grinnell Iowa to my 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.6.5-7">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Alice Culler Neihardt to Mildred Piper, January 9, 1925</title>
+                <author>Neihardt, Alice Culler</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.6.5-7</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, Alice Culler</author>
+                    <title level="m" type="main">Letter from Alice Culler Neihardt to Mildred Piper</title>
+                    <date when="1925-01-09">January 9, 1925</date>
+                    <extent>3 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>3 hand-written pages</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Neihardt, Alice Culler</term>
+                    <term>Piper, Mildred</term>
+                    <term>Neihardt-Ballinger, Grace</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Hastings (Neb.)</term>
+                    <term>Grinnell (Iowa)</term>
+                    <term>Coal City (Ind.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Neihardt, Alice Culler</persName>
+                    <placeName ref="http://www.geonames.org/4859343">Grinnell (Iowa)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Piper, Mildred</persName>
+                    <placeName ref="http://www.geonames.org/5069802">Hastings (Neb.)</placeName>
+                    <date when="1925-01-09"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="envelope">
+                <pb facs="nei.j4b.6.5-7"/>
+                <note type="curatorial">5</note>
+                <note type="curatorial">
+                    26 Piper Collection
+                </note>
+                
+                <ab type="return">
+                    1234 West St
+                    Grinnell Iowa,
+                </ab> 
+                
+                <ab type="postmark">
+                    2BUFFALO JAN 9 6 PM 1925 N.Y. 
+                </ab> 
+                
+                <ab type="stamp">
+                    UNITEDSTATESPOSTAGE JEFFERSON 2CENTS2
+                </ab>
+                
+                <ab type="address">
+                    Miss Mildred Piper 
+                    809 North Hastings Ave
+                    Hastings
+                    Nebr. 
+                </ab> 
+            </div1>
+            
+            <div1 type="letter">
+                <pb facs="nei.j4b.6.5-7"/>
+                <note type="curatorial">6</note>
+                
+                <opener>
+ 
+                    <salute>My Dear little girl:</salute>
+                </opener>
+                
+                <p>You made me so happy Christmas nothing could have pleased me more than a photo of your own sweet self and so wonderfully good just like you thank you so much for remembering this old delinquent I surely deserve no such</p>
+                <p>ster's where my mothe ris and she is sick and very feeble, Don't know just when I will get home but I am home sick now but will stay with mother as long as she needs me. Have not time to write more. But when you write and I hope you will not wait too long address me 1234 West St. Grinnell, Iowa. My love to you my dear girl</p>
+                <p>Alice M. Neihardt</p>
+                
+                <pb facs="nei.j4b.6.5-7"/>
+                <note type="curatorial">7</note>
+                
+                <p><unclear/> as I get from you altho you know I have often told you I love you. You have been home and back to school again and I know you had a good time. It would be hard for the Pipers to get together and not have a good time.</p> 
+                <p>Grace and I had a very quiet time, chicken dinner and to see Otis Skinner in the evening I must tell you that Grace gave me a lovely new <unclear/> and hat for christmas, I am so proud of it and I look swell I leave here the 14th for a short visit at Coal city 2nd and then on to Grinnell Iowa to my</p> 
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

@@ -1,16 +1,169 @@
 <?xml version="1.0" encoding="UTF-8"?>
-49
-Dec. 31, 1925
-28 Piper Collection 
-BRANSON DEC 31 12PM MO. UNITEDSTATESPOSTAGE 2CENTS2 <FIGURE/> 1925
-Miss Mildred Piper.
-192 Villa Ave. 
-Sioux City. 
-Ank 7 
-Iowa. 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-50
-Dec. 31st, 25
-Dear Miss Piper:
-May the year 1926 prove in every way a happy one for you is the wish of John, Enid, Sigurd, Hilda and Alice Neihardt - My own special hope is that we may all have the pleasure of meeting again! Mother is at her brothers' in Lincoln - Lovingly
-Mona Neihardt. 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.6.49-50">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Mona Martinsen Neihardt to Mildred Piper, December 31, 1925</title>
+                <author>Neihardt, Mona Martinsen</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.6.49-50</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, Mona Martinsen</author>
+                    <title level="m" type="main">Letter from Mona Martinsen Neihardt to Mildred Piper</title>
+                    <date when="1925-12-31">December 31, 1925</date>
+                    <extent>2 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 hand-written pages</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Piper, Mildred</term>
+                    <term>Neihardt, Enid</term>
+                    <term>Neihardt, Sigurd</term>
+                    <term>Petri, Hilda Neihardt</term>
+                    <term>Neihardt, Alice</term>
+                    <term>Neihardt, Alice Culler</term>
+                    <term>Neihardt, Mona Martinsen</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Branson (Mo.)</term>
+                    <term>Sioux City</term>
+                    <term>Lincoln (Neb.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Neihardt, Mona Martinsen</persName>
+                    <placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Piper, Mildred</persName>
+                    <placeName ref="http://www.geonames.org/4876523">Sioux City (Iowa)</placeName>
+                    <date when="1925-12-31"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="envelope">
+                <pb facs="nei.j4b.6.49-50"/>
+                <note type="curatorial">49</note>
+                <note type="curatorial">28 Piper Collection</note>
+                
+                <ab type="dateline">
+                    Dec. 31, 1925
+                </ab>
+                
+                <ab type="postmark">
+                    BRANSON DEC 31 12PM MO. UNITEDSTATESPOSTAGE 2CENTS2 <FIGURE/> 1925
+                </ab>
+                
+                <ab type="address">
+                    Miss Mildred Piper.
+                    192 Villa Ave. 
+                    Sioux City. 
+                    Ank 7 
+                    Iowa.
+                </ab> 
+            </div1>
+                
+                <div1 type="letter">
+                <pb facs="nei.j4b.6.49-50"/>
+                <note type="curatorial">50</note>
+                
+                    <opener>
+                        <dateline>Dec. 31st, 25</dateline>
+                    <salute>Dear Miss Piper:</salute>
+                    </opener>
+                
+                <p>May the year 1926 prove in every way a happy one for you is the wish of John,
+                    Enid, Sigurd, Hilda and Alice Neihardt - My own special hope is that we may all have the pleasure of meeting again! Mother is at her brothers' in Lincoln - Lovingly</p>
+                <closer><signed>Mona Neihardt.</signed></closer> 
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

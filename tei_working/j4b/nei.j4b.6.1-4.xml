@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.6.1-4">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Alice Culler Neihardt to Mildred Piper, January, 1925</title>
+                <author>Neihardt, Alice Culler</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.6.1-4</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, Alice Culler</author>
+                    <title level="m" type="main">Letter from Alice Culler Neihardt to Mildred Piper</title>
+                    <date when="1925-01">January, 1925</date>
+                    <extent>4 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>4 hand-written pages</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Neihardt, Alice Culler</term>
+                    <term>Piper, Mildred</term>
+                    <term>Neihardt, Mona Martinsen</term>
+                    <term>Neihardt, Sigurd</term>
+                    <term>Neihardt, Enid</term>
+                    <term>Petri, Hilda Neihardt</term>
+                    <term>Fish</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Hastings (Neb.)</term>
+                    <term>Buffalo (N.Y.)</term>
+                    <term>Los Angeles (Calif.)</term>
+                    <term>Omaha (Neb.)</term>
+                    <term>Wayne (Neb.)</term>
+                    <term>Grinnell (Iowa)</term>
+                    <term>Lincoln (Neb.)</term>
+                    <term>Branson (Mo.)</term>
+                    <term>Ozark Mountains (Ark.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Neihardt, Alice Culler</persName>
+                    <placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Piper, Mildred</persName>
+                    <placeName ref="http://www.geonames.org/5069802">Hastings (Neb.)</placeName>
+                    <date when="1925-01"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+
+            <div1 type="letter">
+                <pb facs="nei.j4b.6.1-4"/>
+                <note type="curatorial">1</note>
+                <note type="curatorial">
+                    Piper Collection
+                    Jan. [1925?]
+                </note>
+                
+                <opener>
+                    
+                    <dateline>
+                        <unclear/> Feb 1? 1928
+                        Branson Mo.
+                        January? 1925
+                    </dateline>
+                    
+                    <salute>My own dear Miss Piper;</salute>
+                </opener>
+                
+                <p>I know the evidences are against me. But if you have the patience to follow me around. Date
+                beginning of August or even six weeks earlier, I am sure you will believe me when I say I love you
+                just the same as I always have. Early in June I turned my house all around, or rather the inside, to
+                make convenience and comfort for Mona's Brot. His wife from Los Angeles, the brother a writer of
+                short stories, their stay lengthened into five weeks, and at the end of that time I <unclear/> up
+                and got ready for a music teacher from</p>
+                
+                <p>child, she hired a girl to take care of her when she is there giving my sister in law a chance to
+                get out. The girl is in the High School, is home early every afternoon and Sat. and Sunday. So I
+                came home to try to get well, I have been so poorly all the time but it seemed to be needed so much
+                that I just kept up somehow. I've been home two weeks and the dear little basket with its pot of
+                bulbs is decorating my window and is growing beautifully. And that is not all your</p>
+                
+                <pb facs="nei.j4b.6.1-4"/>
+                <note type="curatorial">2</note>
+                
+                <p>Omaha who was to spend her two weeks vacation with me but for the purpose of giving Sigurd extra
+                work in music and I cooked and washed for her, albeir I loved her and was glad to do it, but I was
+                busy all the time, you know my garden and yard always claim a great deal of time -- well we are now
+                up tp the last of July and I was trying so hard to get well enough to go to Wayne for the unveiling
+                of the monument to John, I went, you no doubt heard an account of it in the papers and I want you to
+                know that I thought of you and just helf expected you there that 19th day of August last. I had
+                hoped to have some time to visit in Wayne some of the old friends and in just a few days I was
+                summoned to Grinell Iowa to my mother who was very sick at the time and stayed with her a month and
+                at the end of that time she had gained sufficiently to be taken to Lincoln and I was with her a weel
+                there when I returned to Branson. Was home just a month where I recieved a telegram to go again to
+                Lincoln and I stayed 14 weeks. In the mean time mother regained her strength again, but she is
+                nearly blind and her mind in like a little</p>
+                
+                <pb facs="nei.j4b.6.1-4"/>
+                <note type="curatorial">3</note>
+                
+                <p>my house was so damp and cold having had no fires all winter and it is only now that the place is
+                warm and livable. Received a letter from my br. today saying mother is failing again but I won't try
+                to go back even tho she passes on. My dear I wonder just where I can begin to tell you all the
+                things I think you might like to know. First I wish you could see how near a young lady Enid is, she
+                is taller than I. Which I know is not saying much. Sigurd just a little shorter, they are going to
+                the School of the Ozarks a sort of an academics and are doing very well. They are making good
+                grades, Enid is doing good normal work in music, but Sigurd we think will do something woth while in
+                music, It is really quite wonderful how he has taken to it. Hilda is a wonder in her school work.
+                She is not in school, John teaches her arithmetic and Grammar. Mona, History and Geography, Hilda
+                has never been very strong, our school is poor and they thot it much better tha tthey teach her at
+                home and give her more. Alice is four years old and she is in a class by her self. She is surely the
+                dearest and</p>
+                
+                <pb facs="nei.j4b.6.1-4"/>
+                <note type="curatorial">4</note>
+                
+                <p>Best of all the children, They are planning to leave the Ozarks in a year or two and maybe even
+                sooner. Mona is well, much stronger than she has ever been, and John is doing the same as you have
+                always known him. You probably hear of him now and then. They all send love and best wishes to you,
+                I had a letter from Miss Fish and she no doubt is very bust with her three babies it does not seem
+                possible, remem-ber me to your family and dear girl write me soon and tell me a lot about yourself I
+                no doubt interested in you just as I always have love to you my dear girl - Alice M. Neihardt</p>
+                
+                <note type="authorial">2</note>
+                
+                <p>Photo sister on the mantel looking down at me right now, and I should feel lost if it were
+                removed, many thanks dear girl for your kindly remember that have found me every year for so many
+                years.</p>
+                <p>We are just getting over one of this most terrible storms, the likes of which the oldest Hill Billy
+                has noth-ing which to compare the snow was 10 inches on the level and drifts three ft or more, and
+                that is saying nothing of the snow that fell for a day and night and melted before it could make the
+                ground white</p>
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

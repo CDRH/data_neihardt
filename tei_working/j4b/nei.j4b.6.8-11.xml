@@ -1,17 +1,175 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Berg Collection 
-8
-Jan 12 [1925] 
-My Dear Mrs. Berg:
-This is my last Sunday in Buffalo and I am celebrating it with a letter to you, your last letter was so sweet and understanding, that I felt it my turn to wonder why I should have added to my list one who so thoroughly appreciates every thing almost to a fault. I assure you my letters cannot possibly ^be of more delight to you than yours are to me. My dear old father, who has long since been called to the beyond, would say, "I'm afraid you two have kissed tho blarney stone." 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-9
-Poor Mrs. Grace. I wish she would get busy reading along psychic lines, things open up and one does not ful or. have that feeling of being left. I am going to give you the subjects of some of their things I have been reading along that line and coming from one who has really no right to an independant opin-ion, I find some things very illuminating, of course you know Mrs. Berg; That one most have psychical development, some have the natural gift such as mediums and from them I have had wonderful experiences the last few weeks the time this morning is too limited to give you much about it One of them told me about my mother, told me I would get a letter telling me I must go to her and he talked to my father who said to her tell Alice, she asked who 
-
-10
-is Alice? I had never seen her she had no way of throwing my name and in the characterists manner of my father, told the medium I must go to mother she needs you and the next day I recieved the letter from my sister in Grinnell Iowa with whom my mother lives "to come soon as you can easily as mother is failing everyday. And that is what has changed my winter plans, and here are some of the things, I will get down that have helped me altho I still feel that my walls psychicall are very thick. But it is an ever present delight to have even what I have, I am understanding of Psychic forces. our believing of disbelieving does not change the great laws that have always existed.
-F.M.H. Myers-Herman Personality and its survival of bodily death, Pub. Long m Green & co. and where I am ashamed I cannot say but it will not be hard for you find, they will all be in the Sioux City Library-Lom Gross, "after Death What"? Pub. by small maynard & co. Boston J.H. Hyslop?" Contact with the other world,-latest 
-
-11
-Evidence is to communication with the dead" On the Borderland by F.B. Austin- Elsie Barker's - Letters of a living dead man, I am sorry I have not the Pub. of either of the above. I have read all of these and some more, If I were with John I could get you many more-but if she reads these all and studies them, she will be delightfully entertained if nothing more and I feel sure it will be more.
-I am feeling much better than when I wrote you last and I do hope the "<unclear/>" has re-organized its defeat with you and that you are quite yourself again, my address will be 1234 Grinnell Iowa. and when you get time would welcome a letter from your own dear self. love and best wishes to all concerned from Alice M. Neihardt 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.6.8-11">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Alice Culler Neihardt to Caroline D. Berg, January 12, 1924</title>
+                <author>Neihardt, Alice Culler</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.6.8-11</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, Alice Culler</author>
+                    <title level="m" type="main">Letter from Alice Culler Neihardt to Caroline D. Berg</title>
+                    <date when="1925-01-12">January 12, 1924</date>
+                    <extent>4 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>4 hand-written pages</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Neihardt, Alice Culler</term>
+                    <term>Berg, Caroline D.</term>
+                    <term>Myers-Herman, F.M.H.</term>
+                    <term>Neihardt-Ballinger, Grace</term>
+                    <term>Hyslop, James H. (James Hervey), 1854-1920</term>
+                    <term>Austin, F. Britten (Frederick Britten), 1885-1941</term>
+                    <term>Barker, Elsie</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Pender (Neb.)</term>
+                    <term>Buffalo (N.Y.)</term>
+                    <term>Grinnell (Iowa)</term>
+                    <term>Boston (Mass.)</term>
+                    <term>Sioux City (Iowa)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term>The Song of the Messiah</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Neihardt, Alice Culler</persName>
+                    <placeName ref="http://www.geonames.org/5110629">Buffalo (N.Y.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Berg, Caroline D.</persName>
+                    <placeName ref="http://www.geonames.org/5074969">Pender (Neb.)</placeName>
+                    <date when="1925-01-12"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.j4b.6.8-11"/>
+                <note type="curatorial">8</note>
+                <note type="curatorial">
+                    10 Berg Collection
+                </note>
+                
+                <opener>
+                    
+                    <dateline>
+                        Jan 12 [1925] 
+                    </dateline>
+                    
+                    <salute>My Dear Mrs. Berg:</salute>
+                </opener>
+                
+                <p>This is my last Sunday in Buffalo and I am celebrating it with a letter to you,
+                    your last letter was so sweet and understanding, that I felt it my turn to wonder why I should have added to my list one who so thoroughly appreciates every thing almost to a fault. I assure you my letters cannot possibly ^be of more delight to you than yours are to me. My dear old father, who has long since been called to the beyond, would say, "I'm afraid you two have kissed the blarney stone."</p> 
+                
+                <pb facs="nei.j4b.6.8-11"/>
+                <note type="curatorial">9</note>
+                
+                <p>Poor Mrs. Grace. I wish she would get busy reading along psychic lines, things open up and one does not ful or. have that feeling of being left. I am going to give you the subjects of some of their things I have been reading along that line and coming from one who has really no right to an independant opin-ion, I find some things very illuminating, of course you know Mrs. Berg; That one most have psychical development, some have the natural gift such as mediums and from them I have had wonderful experiences the last few weeks the time this morning is too limited to give you much about it One of them told me about my mother, told me I would get a letter telling me I must go to her and he talked to my father who said to her tell Alice, she asked who</p>
+                
+                <pb facs="nei.j4b.6.8-11"/>
+                <note type="curatorial">10</note>
+                
+                <p>is Alice? I had never seen her she had no way of throwing my name and in the characterists manner of my father, told the medium I must go to mother she needs you and the next day I recieved the letter from my sister in Grinnell Iowa with whom my mother lives "to come soon as you can easily as mother is failing everyday. And that is what has changed my winter plans, and here are some of the things, I will get down that have helped me altho I still feel that my walls psychicall are very thick. But it is an ever present delight to have even what I have, I am understanding of Psychic forces. our believing of disbelieving does not change the great laws that have always existed.</p>
+                <p>F.M.H. Myers-Herman Personality and its survival of bodily death, Pub. Long m
+                    Green &amp; co. and where I am ashamed I cannot say but it will not be hard for
+                    you find, they will all be in the Sioux City Library-Lom Gross, "after Death
+                    What"? Pub. by small maynard &amp; co. Boston J.H. Hyslop?" Contact with the other world,-latest</p> 
+                
+                <pb facs="nei.j4b.6.8-11"/>
+                <note type="curatorial">11</note>
+                
+                <p>Evidence is to communication with the dead" On the Borderland by F.B. Austin- Elsie Barker's - Letters of a living dead man, I am sorry I have not the Pub. of either of the above. I have read all of these and some more, If I were with John I could get you many more-but if she reads these all and studies them, she will be delightfully entertained if nothing more and I feel sure it will be more.</p>
+                <p>I am feeling much better than when I wrote you last and I do hope the "<unclear/>" has re-organized its defeat with you and that you are quite yourself again, my address will be 1234 Grinnell Iowa. and when you get time would welcome a letter from your own dear self. love and best wishes to all concerned from</p> <closer><signed>Alice M. Neihardt</signed></closer> 
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

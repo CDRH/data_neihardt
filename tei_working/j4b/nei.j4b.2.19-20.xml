@@ -1,10 +1,166 @@
 <?xml version="1.0" encoding="UTF-8"?>
-13 McDonald Collection 
-Branson Mo. 19 <del/>
-July 9 - 1921 
-My Dear Lulu; 
-Your <unclear/> letters have helped a lot. and I do hope you are improving, I know it will have to be slow but you will be as patient as possible, Dear Lulu I never cease to be grateful tha tyou have Donald to look after you and myheart goes out to him too, I know it has not been easy for him, I'm so glad you know how "fine" he is. <del>I</del> <del>John</del> I said yesterday thank god its Donald instead of a thousand other men or I should say kinds of men. We are having dreadfully hot weather and I feel all in every night-but the nights are lonely and cool. Poor Mona is still dragging around and no baby yet. And the <unclear/> is hard on her. 
-I am almost settled in my house, I sleep over here but eat over at the other house. I wish you could see my bedroom with the lovely over drapes of the outcome you sent me and a cushion out of the scene for a little chair <unclear/> old way liek my wood work
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-20
-<unclear/> Oh I do want you and Grace to see my house. My lighting system is perfect and our time I'll have the water and regular bath room. We will have to have an asephtic <del>tak</del> tank as there can hardly ever be a sewer system here, Lulu dear when John sent you the big envelope with the sheet of clippings of the official announcement of the Pact Lurateship and I think there must be some mistake about what you sent Grace John that to save you people trouble he would sent addressed envelopes and I think you much have that the envelope to Grace conplained a sheet like ours but you were to put the one he sent to you in Grace's envelope after you had read it Grace writes that she received an <unclear/> Envelope. If you could see to having some one sending it or just take care of it until you can it will be all right, that was fixed up for advertising for his lecturetrip this fall and he would like to have it back. It ouwld be hard to replace the clipping Don't let htis worry you <unclear/> can look after it for Uncle John. I do hope you will have gained lots of your original vitality when you get this. love to you my dear Lulu and to Donald and the little boys. -Mona 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.2.19-20">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Alice Culler Neihardt to Lulu McDonald, July 9, 1921</title>
+                <author>Neihardt, Alice Culler</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.2.19-20</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, Alice Culler</author>
+                    <title level="m" type="main">Letter from Alice Culler Neihardt to Lulu McDonald</title>
+                    <date when="1921-07-09">July 9, 1921</date>
+                    <extent>2 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 hand-written pages</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>McDonald, Lulu</term>
+                    <term>McDonald, Donald</term>
+                    <term>Neihardt, Mona Martinsen</term>
+                    <term>Neihardt-Ballinger, Grace</term>
+                    <term>Neihardt, Alice Culler</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Branson (Mo.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Neihardt, Alice Culler</persName>
+                    <placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>McDonald, Lulu</persName>
+                    <placeName></placeName>
+                    <date when="1921-07-09"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.j4b.2.19-20"/>
+                <note type="curatorial">19</note>
+                <note type="curatorial">13 McDonald Collection</note>
+                
+                <opener>
+
+                    <dateline>
+                        Branson Mo.
+                        July 9 - 1921
+                    </dateline>
+                    
+                    <salute>My Dear Lulu;</salute>
+                    
+                </opener>
+                
+                <p>Your past letters have helped a lot. and I do hope you are improving, I know it will have to be slow but you will be as patient as possible, Dear Lulu I never cease to be grateful tha tyou have Donald to look after you and myheart goes out to him too, I know it has not been easy for him, I'm so glad you know how "fine" he is. <del>I</del> <del>John</del> I said yesterday thank god its Donald instead of a thousand other men or I should say kinds of men. We are having dreadfully hot weather and I feel all in every night-but the nights are lonely and cool. Poor Mona is still dragging around and no baby yet. And the <unclear/> is hard on her.</p> 
+                <p>I am almost settled in my house, I sleep over here but eat over at the other house. I wish you could see my bedroom with the lovely over drapes of the outcome you sent me and a cushion out of the scene for a little chair <unclear/> old way liek my wood work</p>
+
+                <pb facs="nei.j4b.2.19-20"/>
+                <note type="curatorial">20</note>
+                
+                <p><unclear/> Oh I do want you and Grace to see my house. My lighting system is perfect and our time
+                I'll have the water and regular bath room. We will have to have an asephtic <del>tak</del> tank as
+                there can hardly ever be a sewer system here, Lulu dear when John sent you the big envelope with the
+                sheet of clippings of the official announcement of the Pact Lurateship and I think there must be
+                some mistake about what you sent Grace John that to save you people trouble he would sent addressed
+                envelopes and I think you much have that the envelope to Grace conplained a sheet like ours but you
+                were to put the one he sent to you in Grace's envelope after you had read it Grace writes that she
+                received an early Envelope. If you could see to having some one sending it or just take care of it
+                until you can it will be all right, that was fixed up for advertising for his lecturetrip this fall
+                and he would like to have it back. It ouwld be hard to replace the clipping Don't let this worry you
+                <unclear/> can look after it for Uncle John. I do hope you will have gained lots of your original
+                vitality when you get this. love to you my dear Lulu and to Donald and the little boys.</p> 
+                <closer><signed>-Mama</signed></closer>
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

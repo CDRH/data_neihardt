@@ -1,16 +1,168 @@
 <?xml version="1.0" encoding="UTF-8"?>
-10
-STATE NORMAL SCHOOL AND TEACHERS COLLEGE 
-U.S.CONN, PRESIDENT 
-WAYNE, NEBRASKA 
-SECRETARY TO THE PRESIDENT
-ELVA S. BROCKWAY 
-April 7, 1922
-Mrs. Alice Neihardt 
-Branson, Missouri 
-Dear Mrs. Neihardt:
-Doctor House just called my attention to the fact that some organization in Omaha has a bust of Doctor Neihardt which was made by his wife and that this organization is soon to receive a portrait of him and when they do they will be willing to part with the bust. 
-I thought it would be fine, if this program is carried out and we coudl get the bust for the State Normal School. I do not know of any place where it would be more appreciated than right here. 
-Doctor House says you have the matter in charge and I am speaking now so that you may know that we will very greatly appreciate having the bust sent to us. Of course we will gladly pay all expenses connected with the change. 
-Very truly,
-<unclear/>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.3.7-9">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Ulysses Sylvester Conn to Alice Culler Neihardt, April 7, 1922</title>
+                <author>Conn, Ulysses Sylvester</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.3.7-9</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Conn, Ulysses Sylvester</author>
+                    <title level="m" type="main">Letter from Ulysses Sylvester Conn to Alice Culler Neihardt</title>
+                    <date when="1922-04-07">April 7, 1922</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 hand-written page</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Brockway, Elva S.</term>
+                    <term>Neihardt, Alice Culler</term>
+                    <term>Conn, Ulysses Sylvester</term>
+                    <term>House, Julius T. (Julius Temple)</term>
+                    <term>Neihardt, Mona Martinsen</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Branson (Mo.)</term>
+                    <term>Wayne (Neb.)</term>
+                    <term>Omaha (Neb.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Conn, Ulysses Sylvester</persName>
+                    <placeName ref="http://www.geonames.org/5081454">Wayne (Neb.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Neihardt, Alice Culler</persName>
+                    <placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+                    <date when="1922-04-07"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.j4b.3.10"/>
+                <note type="curatorial">10</note>
+                
+                <opener>
+                    
+                    <fw type="authorial">
+                        STATE NORMAL SCHOOL AND TEACHERS COLLEGE 
+                        U.S.CONN, PRESIDENT 
+                        WAYNE, NEBRASKA 
+                    </fw>
+                    
+                    <fw type="authorial">
+                        SECRETARY TO THE PRESIDENT
+                        ELVA S. BROCKWAY 
+                    </fw>
+                    
+                    <dateline>
+                        April 7, 1922
+                        
+                        Mrs. Alice Neihardt 
+                        Branson, Missouri 
+                    </dateline>
+                    
+                    <salute>Dear Mrs. Neihardt:</salute>
+                </opener>
+                
+                <p>Doctor House just called my attention to the fact that some organization in Omaha has a bust of Doctor Neihardt which was made by his wife and that this organization is soon to receive a portrait of him and when they do they will be willing to part with the bust.</p> 
+                <p>I thought it would be fine, if this program is carried out and we coudl get the bust for the State Normal School. I do not know of any place where it would be more appreciated than right here.</p> 
+                <p>Doctor House says you have the matter in charge and I am speaking now so that you may know that we will very greatly appreciate having the bust sent to us. Of course we will gladly pay all expenses connected with the change.</p> 
+                
+                <closer>
+                    <salute>Very truly,</salute>
+                    <signed>US Conn</signed>
+                </closer>
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

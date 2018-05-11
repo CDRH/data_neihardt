@@ -1,12 +1,163 @@
 <?xml version="1.0" encoding="UTF-8"?>
-11. Mcdonald Collection 
-18
-A HOTEL PROVIDED WITH ALL MODERN CONVENIENCES 
-170 ROOMS-65 WITH PRIVATE BATH 
-THE CATARACT 
-CATARACT HOTEL COMPANY
-SIOUX FALLS, S. D. 
-Monday, Jan. 17, '21. 
-Dear Lulu & Donald & the Boys!-
-I've been wanting to see "you all" (I'm a southerner now!) and for awhile thought it might be possible for me to do so, but I feel I ought not do it this trip. However, I'm going out again in March, and I see no reason why I can't make it then. There will be 8 or 10 engagements for me west of the Rockies at 75 each (I get 50 & local expenses this trip), and I am planning to see Grace on the way out & you on the way back. It makes me unhappy to be a night's ride from you I miss seeing you. 
-I've had fine receptors everywhere. Started with the Anniversity Club in Omaha. After teh little affair they organized a Neihardt Club with J. G. Waters, Principal of Central High School, as president than I made the following: Dana College, Blair; Wayne Normal Wakefield; State U. of S. D. at 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.2.18">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to Lulu McDonald, January 17, 1921</title>
+                <author>Neihardt, John G., 1881-1973.</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.2.18</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John G., 1881-1973.</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Lulu McDonald</title>
+                    <date when="1921-01-17">January 17, 1921</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 hand-written page</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>McDonald, Lulu</term>
+                    <term>McDonald, Donald</term>
+                    <term>Neihardt-Ballinger, Grace</term>
+                    <term>Masters, Joseph G., 1873-</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Sioux Falls (S.D.)</term>
+                    <term>Omaha (Neb.)</term>
+                    <term>Blair (Neb.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <placeName ref="http://www.geonames.org/5231851">Sioux Falls (S.D.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>McDonald, Lulu</persName>
+                    <placeName></placeName>
+                    <date when="1921-01-17"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.j4b.2.18"/>
+                <note type="curatorial">18</note>
+                <note type="curatorial">11. McDonald Collection</note>
+                
+                <opener>
+                    
+                    <fw type="authorial">
+                        A HOTEL PROVIDED WITH ALL MODERN CONVENIENCES 
+                        170 ROOMS-65 WITH PRIVATE BATH 
+                        THE CATARACT 
+                        CATARACT HOTEL COMPANY
+                        SIOUX FALLS, S. D. 
+                    </fw>
+                    
+                    <dateline>
+                        Monday, Jan. 17, '21. 
+                    </dateline>
+                    
+                    <salute>Dear Lulu &amp; Donald &amp; the Boys!-</salute>
+                    
+                </opener>
+                
+                <p>I've been wanting to see "you all" (I'm a southerner now!) and for awhile thought
+                    it might be possible for me to do so, but I feel I ought not do it this trip.
+                    However, I'm going out again in March, and I see no reason why I can't make it
+                    then. There will be 8 or 10 engagements for me west of the Rockies at 75 each (I
+                    get 50 &amp; local expenses this trip), and I am planning to see Grace on the
+                    way out &amp; you on the way back. It makes me unhappy to be a night's ride from you I miss seeing you.</p> 
+                <p>I've had fine receptors everywhere. Started with the Anniversity Club in Omaha.
+                    After teh little affair they organized a Neihardt Club with J. G. Masters, Principal of Central High School, as president than I made the following: Dana College, Blair; Wayne Normal Wakefield; State U. of S. D. at</p> 
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

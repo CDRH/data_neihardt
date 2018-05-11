@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.6.12-13">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to Lulu McDonald, January 24, 1924</title>
+                <author>Neihardt, John G., 1881-1973.</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.6.12-13</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John G., 1881-1973.</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Lulu McDonald</title>
+                    <date when="1925-01-24">January 24, 1924</date>
+                    <extent>2 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 hand-written pages</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>McDonald, Lulu</term>
+                    <term>Neuhart, Conrad</term>
+                    <term>Roberts, Charles R.</term>
+                    <term>Bryant, William Cullen, 1794-1878.</term>
+                    <term>Whittier, John Greenleaf, 1807-1892</term>
+                    <term>Longfellow, Henry Wadsworth, 1807-1882.</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Harrisburg (Penn.)</term>
+                    <term>Branson (Mo.)</term>
+                    <term>Reading (Penn.)</term>
+                    <term>California</term>
+                    <term>Allentown (Penn.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term>Lyric and Dramatic Poems</term>
+                    <term>The Song of the Indian Wars</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>McDonald, Lulu</persName>
+                    <placeName></placeName>
+                    <date when="1925-01-24"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.j4b.6.12-13"/>
+                <note type="curatorial">12</note>
+                <note type="curatorial">
+                    17 McDonald Collection
+                </note>
+                
+                <opener>
+                    
+                    <dateline>
+                        Branson, Jan. 24, 125.
+                    </dateline>
+                    
+                    <salute>Dear Lulu:-</salute>
+                </opener>
+                
+                <p>It hurts me to have to say that the Librarian of the State Library at Harrisburg, Pa., finds no record of Conrad Neuhart there, as having served in the Revolution. He may have been fairly old or crippled. But I do not yet despair. It is possible that there are other records. I do not believe that Harrisburg has the only records. Do you know where the D.R.'s look for their information on such things? I feel nearly sure that old Conrad got into it. Unless, of course, he was crippled. You need a direct descendant through four generations for the D.R., don't you? Then, for that purpose, Conrad is our only chance. The D.A.R.'s, I take it. don't insist upon the direct, four generation business. We must not let up on Conrad. Find out how to go about it. You can do this better than I can, as there is no one here who knows. You probably still have my letter, giving all information about old Conrad. Use that information in further inquiry. Golly, golly, I hope you can land him. There were 14 Neiharts (our <del/> people) in the Revolution; but we have to have Conrad. Do you suppose there might be County records at Reading? or why not write to</p> 
+                
+                <p>Charles R. Roberts, Secretary,</p>
+                <p>Lehigh County Hist. Society,</p> 
+                <p>Allentown, Pa.</p> 
+                <p>Tell him that Conrad Neuhard or Neuhardt or Conrad Neihard (all the same) living in Reading as early as 1758 and through and after the Revolution, is your great-great-grandfather. Say that you have the records for this, and that you want to know how to determine whether or not this Conrad was in the American Army at any time during the Revolution. I think you may be luckier than I've been.</p> 
+                <p>No, Lulu, this is not my year to compete for the Pulitzer. I mean, this year is decided next year in May. This year I am not considered, for my book appears in this year. See?</p> 
+                <p>Don't be discouraged. There's a very good chance that Conrad fought.</p> 
+                <p>Try also The County Clerk of Bucks Co, Pa. Reading is in Bucks, Also write Congressional Library.</p> 
+                <p>Later I'll write Congressional Library you try any place you know of.</p> 
+                
+                <pb facs="nei.j4b.6.12-13"/>
+                <note type="curatorial">13</note>
+                <note type="authorial">-2-</note>
+                
+                <p>I don't think much of such things. They are to amaze the rabble. Still, I have two chances at winning this year's award (next year's decision). The decision is on books published during the previous year. Mine is not yet in proofs. You see my CEILECTED POETRY (750 pages, one vol.) appears in the Fall. And my WARS appears this spring. Two bully chances. If I dont' win, it will be a joke. There will be nothing to <del/> match the WARS this year. That is hardly a possibility. I know how far the other toads can jump. But I don't know how the judges may be $$$ tied up socially down there. This is a foolish world. Lulu. There was a strong effort to keep the Poetry Society Prize away from me last time. Not one judge wanted to give it to me, but in spite of the outright animosity (personal) of the woman judge (Mrs. Henderson) I won on points. Nobody could agree on any $$$ other book. The fun is in this: that the other books are dead as the Dodo now. Nobody knows the names of them. But my stuf increases and spreads steadily. People are largely fools, Lulu.</p> 
+                <p>Macmillans have just urged me ot sign a contract for the University Lectures that I'm now writing. I have only <del>one</del> one lecture completed. Yet Macmillans are eager to get me to contract them now. Their letter ends: "A contract will go forward at once if you will but say the word".</p> 
+                <p>That's three contracts for books this year. I no longer have to submit manuscripts for consideration. I contract for the bare title. You can see from this how things are going. The State Supt. of Public Instruction for California said recently at a Teacher's Assn. meeting that I am the only American poet who is truly American, thats my stuff should be used in every school, and that I am already with Bryant, Whittier and Longfellow. Ouch! I am not flattered. If I am only that far, I haven't gotten anywhere. But he</p> 
+                <p>If I am only</p> 
+                <p>Just back from another lecture try. Return enclosed<unclear/></p> 
+                
+                <closer>
+                    <salute>If I am only that far, I haven't gotten anywhere. But he meant the best in the world. Love to/all.</salute> 
+                    <note>JOHN G. NEIHARDT CENTER</note>
+                </closer> 
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

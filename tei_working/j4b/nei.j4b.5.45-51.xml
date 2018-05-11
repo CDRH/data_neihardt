@@ -1,39 +1,213 @@
 <?xml version="1.0" encoding="UTF-8"?>
-45
-13 Berg Collection 
-276 Linwood Ave 
-Buffalo N. Y. 
-2 BUFFALO OCT 17 7 PM 1924 N.Y. 
-UNITED STATES POSTAGE <FIGURE/> 2CENTS2
-Mrs. J.H. Berg 
-Pender 
-Nebr. 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-276 Linwood Ave. 
-Buffalo N.Y. 
-46
-My Dear Mrs. Berg;
-I had the thot in my mind all during breakfast that I would give myself a treat today by answering your good lette, but before I got to it the postman came with an other good letter, so now I am going to multiply my blessings by two this morning and answer both at the same time, and then the next thing I did was to make the blot you see down here in the corner. 
-Was indeed sorry to hear that Judge Graves had passed away and he leaves a place vacant that no doubt will be hard to fill if Ever. And yet from an other point of view he had lived a long and useful 
-
-47
-<unclear/>, and it was time, from our view which is after all a very selfish one we grieve because something we wanted longer was taken from us. and as you play sometime we will think of death as a going on and not as passing out I love to think of those of my dear ones who have gone on as being still very near to me and I often feel a guiding influence that I can attribute to no "earthly" source I mean by that expression, an influence that ^comes thru the <del>of the</del> sixth sense, sometimes it seem but a thin veil between us and I am very anxious to pierce that veil when my time comes. I know I can and will reeal my self, (when that time comes) to my dear ones here. This is no morbid feeling in fact I think these things with joy and I wish I could know them scientifically. How true it is that sometime we really and truly know things that we oursleves cannot 
-
-2
-48
-Explain. I have just written on and on and may be you are not interested in things psychicially. Poor Mrs. Graves has a big heart ache that she must bear alone I'm so sorry. 
-Thanks for the clippings. I knew they were starting a suit again those people. I feel strongly on the matter just now, because recently Grace and I have been to see the Covered Wagon on the screen, and Hough as he has done before has appreciated the tin cup Episode in the play and it came out for't in "Thre Friends six years ago. and coming out just now in his play and <del/> historicaly ^your true as it is in the Covered Wagon makes 
-
-49
-a very unfortunate ^thing to happen as it did just now, as John has sold the movie rights of Free Friends. Of course nothing can be done as though has passed out and the wrong remains <del/> hope in the suit John will teach those who are so minded to be careful at least. 
-I had a letter from John this morning enclosing a letter from McMillan Pub. Co, telling John they are considering a one volume edition of John's poetry, which you will agree is wonderful to come to a man at 44 (he will be by the <unclear/> the volume is published) and still living John is on his trip now in Nebr. I shall be glad for anything you can send me. 
-I do <del/> so appreciate your interest and your quotations are always so fitting 
-
-3 50 
-when you see Mrs. ronk again <unclear/> me to her and I'm glad Mr. R. - is better. Hope all the Drs. are mistaken and that he will live long and be a really useful man. 
-I must tell you now while I think of it that Grace was rejoiced at hearing of the Bigley girls and wants their address, we are having a good time, I saw the Thief of Bagdad just recently, a most wonderful production. Have I written you that I saw the Falls? Yes I know I did, but last week the people with whom we live took me to East <unclear/>, the place Elbert Hibbard made famous with his Roy Croft shops as well as his <unclear/> free love doctrine. people do not hold him or his memory in. Esteem here. poor man! I wonder if he still thinks he was right.  
-
-51
-really it is just awful ^the way I have blotted this letter, all <unclear/> to a poor pen and I never can think of pens when I am where I cna get them. 
-This after noon I am going to the Library for a couple hours and from there to a cafeteria for dinner with Grace and to a movie after and then home Grace says she will be glad to be of any service she can in your library work. Are you the Librarian at Pender? I am having such a lazy time here. Reading and resting, walking or riding, I am truly enjoying every, thing, I do ^miss my my babies tho especially very satisfactory arrangement, that of <unclear/> my home. oh dear in looking this better over I have said little the impression I will make will be a profession of <unclear/>. I'll try to write with a letter pen the ^next time mary House is very happy married they are working He in chicago and she is Louisville K. Will tell you more about her next time
-lovingly Alice M. Neihardt
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.5.45-51">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Alice Culler Neihardt to Caroline D. Berg, October 17, 1924</title>
+                <author>Neihardt, Alice Culler</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.5.45-51</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, Alice Culler</author>
+                    <title level="m" type="main">Letter from Alice Culler Neihardt to Caroline D. Berg</title>
+                    <date when="1924-10-17">October 17, 1924</date>
+                    <extent>7 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>7 hand-written pages</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Neihardt, Alice Culler</term>
+                    <term>Berg, Caroline D.</term>
+                    <term>Graves, Gertrude L.</term>
+                    <term>Neihardt-Ballinger, Grace</term>
+                    <term>Ronk</term>
+                    <term>Hubbard, Elbert, 1856-1915.</term>
+                    <term>Croft, Roy</term>
+                    <term>Ryskind, Mary House</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Pender (Neb.)</term>
+                    <term>Buffalo (N.Y.)</term>
+                    <term>Louisville (Ky.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term>The Song of Three Friends</term>
+                    <term>Thief of Bagdad</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Neihardt, Alice Culler</persName>
+                    <placeName ref="http://www.geonames.org/5110629">Buffalo (N.Y.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Berg, Caroline D.</persName>
+                    <placeName ref="http://www.geonames.org/5074969">Pender (Neb.)</placeName>
+                    <date when="1924-10-17"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="envelope">
+                <pb facs="nei.j4b.5.45-51"/>
+                <note type="curatorial">45</note>
+                <note type="curatorial">
+                    13 Berg Collection
+                </note>
+                
+                <ab type="return">
+                    276 Linwood Ave 
+                    Buffalo N. Y.
+                </ab> 
+                
+                <ab type="postmark">
+                    2 BUFFALO OCT 17 7 PM 1924 N.Y.
+                </ab> 
+                
+                <ab type="stamp">
+                    UNITED STATES POSTAGE 2CENTS2
+                </ab>
+                
+                <ab type="address">
+                    Mrs. J.H. Berg 
+                    Pender 
+                    Nebr.
+                </ab> 
+            </div1>
+            
+            <div1 type="letter">
+                <pb facs="nei.j4b.5.45-51"/>
+                <note type="curatorial">46</note>
+                
+                <opener>
+                    
+                    <dateline>
+                        276 Linwood Ave. 
+                        Buffalo N.Y. 
+                    </dateline>
+                    
+                    <salute>My Dear Mrs. Berg;</salute>
+                </opener>
+                
+                <p>I had the thot in my mind all during breakfast that I would give myself a treat today by answering your good lette, but before I got to it the postman came with an other good letter, so now I am going to multiply my blessings by two this morning and answer both at the same time, and then the next thing I did was to make the blot you see down here in the corner.</p> 
+                <p>Was indeed sorry to hear that Judge Graves had passed away and he leaves a place vacant that no doubt will be hard to fill if Ever. And yet from an other point of view he had lived a long and useful</p> 
+                
+                <pb facs="nei.j4b.5.45-51"/>
+                <note type="curatorial">47</note>
+                
+                <p><unclear/>, and it was time, from our view which is after all a very selfish one we grieve because something we wanted longer was taken from us. and as you play sometime we will think of death as a going on and not as passing out I love to think of those of my dear ones who have gone on as being still very near to me and I often feel a guiding influence that I can attribute to no "earthly" source I mean by that expression, an influence that ^comes thru the <del>of the</del> sixth sense, sometimes it seem but a thin veil between us and I am very anxious to pierce that veil when my time comes. I know I can and will reeal my self, (when that time comes) to my dear ones here. This is no morbid feeling in fact I think these things with joy and I wish I could know them scientifically. How true it is that sometime we really and truly know things that we oursleves cannot</p> 
+                
+                <pb facs="nei.j4b.5.45-51"/>
+                <note type="curatorial">48</note>
+                <note type="authorial">2</note>
+                
+                <p>Explain. I have just written on and on and may be you are not interested in things psychicially. Poor Mrs. Graves has a big heart ache that she must bear alone I'm so sorry.</p> 
+                <p>Thanks for the clippings. I knew they were starting a suit again those people. I feel strongly on the matter just now, because recently Grace and I have been to see the Covered Wagon on the screen, and Hough as he has done before has appreciated the tin cup Episode in the play and it came out for't in "Thre Friends six years ago. and coming out just now in his play and <del/> historicaly ^your true as it is in the Covered Wagon makes</p> 
+                
+                <pb facs="nei.j4b.5.45-51"/>
+                <note type="curatorial">49</note>
+                
+                <p>a very unfortunate ^thing to happen as it did just now, as John has sold the movie rights of Free Friends. Of course nothing can be done as though has passed out and the wrong remains <del/> hope in the suit John will teach those who are so minded to be careful at least.</p> 
+                <p>I had a letter from John this morning enclosing a letter from McMillan Pub. Co, telling John they are considering a one volume edition of John's poetry, which you will agree is wonderful to come to a man at 44 (he will be by the <unclear/> the volume is published) and still living John is on his trip now in Nebr. I shall be glad for anything you can send me.</p> 
+                <p>I do <del/> so appreciate your interest and your quotations are always so fitting</p> 
+                
+                <pb facs="nei.j4b.5.45-51"/>
+                <note type="curatorial">50</note>
+                <note type="authorial">3</note>
+                
+                <p>when you see Mrs. ronk again <unclear/> me to her and I'm glad Mr. R. - is better. Hope all the Drs. are mistaken and that he will live long and be a really useful man.</p> 
+                <p>I must tell you now while I think of it that Grace was rejoiced at hearing of the Bigley girls and wants their address, we are having a good time, I saw the Thief of Bagdad just recently, a most wonderful production. Have I written you that I saw the Falls? Yes I know I did, but last week the people with whom we live took me to East <unclear/>, the place Elbert Hibbard made famous with his Roy Croft shops as well as his <unclear/> free love doctrine. people do not hold him or his memory in. Esteem here. poor man! I wonder if he still thinks he was right.</p>  
+                
+                <pb facs="nei.j4b.5.45-51"/>
+                <note type="curatorial">51</note>
+                
+                <p>really it is just awful ^the way I have blotted this letter, all <unclear/> to a poor pen and I never can think of pens when I am where I cna get them.</p> 
+                <p>This after noon I am going to the Library for a couple hours and from there to a cafeteria for dinner with Grace and to a movie after and then home Grace says she will be glad to be of any service she can in your library work. Are you the Librarian at Pender? I am having such a lazy time here. Reading and resting, walking or riding, I am truly enjoying every, thing, I do ^miss my my babies tho especially very satisfactory arrangement, that of <unclear/> my home. oh dear in looking this better over I have said little the impression I will make will be a profession of <unclear/>. I'll try to write with a letter pen the ^next time mary House is very happy married they are working He in chicago and she is Louisville K. Will tell you more about her next time</p>
+                <closer><salute>lovingly</salute> <signed>Alice M. Neihardt</signed></closer>
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

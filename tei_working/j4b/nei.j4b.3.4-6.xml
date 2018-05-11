@@ -1,21 +1,190 @@
 <?xml version="1.0" encoding="UTF-8"?>
-10 Piper Collection <del>4,5,6</del> 4
-from box 145 Branson Mo. 
-U.S.POSTAGE <figure/> 2CENTS2 
-BRANSON JAN 15 1922 MO. 
-Miss Mildred Piper 
-Lyons 
-Nebraska 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-5
-Branson Mo. 
-Jan 12-1922 
-My dear girl-
-This is really the first time since christmas as that I could write with any degree of comfort Have been having then natism in my hands and arms. The Dr. pro-nounced it neuralgic. Well this name matters little when one is suffering. I am much better am hoping I am doing the thing now that wil insure a cure. Dear girl I received the lovely lunch cloth and napkins. They are prettier I think than the ones we made. by the way I ahve none and will be so glad to have the one you sent me many thanks dear girl; I surely do appreciate your that of one aside from the beautiful cloth and napkins. He had a very quiet christmas. The children had their tree at home and they 
-have eight doz.^eggs to take to market and it is less than a week since I took that many. When you come I'm going to <unclear/> you on chicken and eggs and milk. 
-Lulu is getting well we are all so glad about it and she much more I know you had the usual good time at home Remember ^my to your father and mother. How proud Mrs. Preston is of her boy, I had a card from miss Knapp. And her name is on my list of letters to write. I must close now hope you won't <unclear/> so long. My best love to you my little girl and best wishes for the New Year. Alice M. Neihardt 
-
-6
-hung their stockings at my fireplace I ate breakfast over there and they all had dinner and supper at my house. We just sat around the fireplace and talked over old friends I wondered if your ears burned and ^we played the Phonograph. ate candy and <del>wound</del> wound up by taking a "hinkles" at bed tiem to ward off any bad effect of the christmas dinners By the way, we had roast chicken and stuffing mashed potatoes & gravy sweet potatoes Lima beans rolls & beets cabbage salad. Plum pudding with piles of whipped cream. And we wished for your. Mrs. Brown is going to Bancroft to fix up the place for sale again. She had to take it back the people are leaving it in awful condition. Just as soon as it sells again she will come here. Lisben! My dear it is a long -it down here and you must plan to come as soon as school closes and get back just in time to begin in the fall. I won't make company of you. She will do just as we would were you not here and I'll be so glad to have you I am sure you will have a better time than if we made a fuss over you. The children are talking about you coming and Monda will just as glad as I you will love baby Alice John starts on his trip East and last of this month. Will be in Omaha in March. 
-Sorry you could not get the photo but I sure don't blame the photographer for destroy-ing it. 
-my hens are doing fine 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.3.4-6">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Alice Culler Neihardt to Mildred Piper, January 15, 1922</title>
+                <author>Neihardt, Alice Culler</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.3.4-6</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, Alice Culler</author>
+                    <title level="m" type="main">Letter from Alice Culler Neihardt to Mildred Piper</title>
+                    <date when="1922-01-15">January 15, 1922</date>
+                    <extent>3 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>3 hand-written pages</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Piper, Mildred</term>
+                    <term>Neihardt, Alice Culler</term>
+                    <term>McDonald, Lulu</term>
+                    <term>Preston</term>
+                    <term>Knapp</term>
+                    <term>Neihardt, Alice</term>
+                    <term>Neihardt, Mona Martinsen</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Branson (Mo.)</term>
+                    <term>Lyons (Neb.)</term>
+                    <term>Omaha (Neb.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Neihardt, Alice Culler</persName>
+                    <placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Piper, Mildred</persName>
+                    <placeName ref="http://www.geonames.org/5072499">Lyons (Neb.)</placeName>
+                    <date when="1922-01-15"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="envelope">
+                <pb facs="nei.j4b.3.4-6"/>
+                <note type="curatorial">4</note>
+                <note type="curatorial">10 Piper Collection</note>
+                
+                <note type="authorial">
+                    from box 145 Branson Mo. 
+                </note>
+                
+                <ab type="postmark">
+                    BRANSON JAN 15 1922 MO.
+                </ab> 
+                
+                <ab type="stamp">
+                    U.S.POSTAGE <figure/> 2CENTS2
+                </ab>
+                
+                <ab type="address">
+                    Miss Mildred Piper 
+                    Lyons 
+                    Nebraska
+                </ab> 
+                
+            </div1>
+            
+            <div1 type="letter">
+                <pb facs="nei.j4b.3.4-6"/>
+                <note type="curatorial">5</note>
+                
+                <opener>
+                    
+                    <dateline>
+                        Branson Mo. 
+                        Jan 12-1922 
+                    </dateline>
+                    
+                    <salute>My dear girl-</salute>
+                </opener>
+                
+                <p>This is really the first time since christmas as that I could write with any degree of comfort Have been having then natism in my hands and arms. The Dr. pro-nounced it neuralgic. Well this name matters little when one is suffering. I am much better am hoping I am doing the thing now that wil insure a cure. Dear girl I received the lovely lunch cloth and napkins. They are prettier I think than the ones we made. by the way I ahve none and will be so glad to have the one you sent me many thanks dear girl; I surely do appreciate your that of one aside from the beautiful cloth and napkins. He had a very quiet christmas. The children had their tree at home and they</p> 
+                <p>have eight doz.^eggs to take to market and it is less than a week since I took that many. When you come I'm going to <unclear/> you on chicken and eggs and milk.</p> 
+                <p>Lulu is getting well we are all so glad about it and she much more I know you had the usual good time at home Remember ^my to your father and mother. How proud Mrs. Preston is of her boy, I had a card from miss Knapp. And her name is on my list of letters to write. I must close now hope you won't <unclear/> so long. My best love to you my little girl and best wishes for the New Year. Alice M. Neihardt</p>
+                
+                <pb facs="nei.j4b.3.4-6"/>
+                <note type="curatorial">6</note>
+                
+                <p>hung their stockings at my fireplace I ate breakfast over there and they all had
+                    dinner and supper at my house. We just sat around the fireplace and talked over
+                    old friends I wondered if your ears burned and ^we played the Phonograph. ate
+                    candy and <del>wound</del> wound up by taking a "hinkles" at bed tiem to ward
+                    off any bad effect of the christmas dinners By the way, we had roast chicken and
+                    stuffing mashed potatoes &amp; gravy sweet potatoes Lima beans rolls &amp; beets
+                    cabbage salad. Plum pudding with piles of whipped cream. And we wished for your. Mrs. Brown is going to Bancroft to fix up the place for sale again. She had to take it back the people are leaving it in awful condition. Just as soon as it sells again she will come here. Listen! My dear it is a long -it down here and you must plan to come as soon as school closes and get back just in time to begin in the fall. I won't make company of you. She will do just as we would were you not here and I'll be so glad to have you I am sure you will have a better time than if we made a fuss over you. The children are talking about you coming and Mona will just as glad as I you will love baby Alice John starts on his trip East and last of this month. Will be in Omaha in March.</p> 
+                <p>Sorry you could not get the photo but I sure don't blame the photographer for destroy-ing it.</p> 
+                <p>my hens are doing fine</p> 
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

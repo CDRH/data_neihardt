@@ -1,21 +1,180 @@
 <?xml version="1.0" encoding="UTF-8"?>
-2
-Piper Collection 
-Sep. 9-1920
-My Dear little girl: 
-I know you are teaching the little Lyonsites amo, amos, amot. and I wonder if you can leave there <unclear/> come <unclear/> us some of these back Enot real soon. Just write me when you can come. Miss allen from Tekamah is boarding and rooming here. Mr. Hrisch to meals as last year and Mr Dill the 8th grade comes with him: mother is here. Don't worry where you will sleep. <unclear/> make you a good bed on the couch of miss allen does not invite you 15 harcher bed. Come Friday Eve on the 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-3
-Eight oclock. and if you can't stay until Monday you can get back on teh 5 Sunday afternoon Excuse this awful note but come and we will have a good visit
-love to you
-from 
-Alice M. Neihardt 
-BANCROFT 
-4PM
-SEP
-1920
-NEB
-UNITED STATES POSTAGE 22 CENTS 
-Miss Mildred Piper 
-Lyons 
-Nebraska. 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.2.2-3">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Alice Culler Neihardt to Mildred Piper, September 9, 1920</title>
+                <author>Neihardt, Alice Culler</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.2.2-3</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, Alice Culler</author>
+                    <title level="m" type="main">Letter from Alice Culler Neihardt to Mildred Piper</title>
+                    <date when="1920-09-09">September 9, 1920</date>
+                    <extent>2 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 hand-written pages</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Neihardt, Enid</term>
+                    <term>Allen, Miss</term>
+                    <term>Hrisch</term>
+                    <term>Dill</term>
+                    <term>Neihardt, Alice Culler</term>
+                    <term>Piper, Mildred</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Tekamah (Neb.)</term>
+                    <term>Lyons (Neb.)</term>
+                    <term>Bancroft (Neb.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Neihardt, Alice Culler</persName>
+                    <placeName ref="http://www.geonames.org/5063451">Bancroft (Neb.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Piper, Mildred</persName>
+                    <placeName ref="http://www.geonames.org/5072499">Lyons (Neb.)</placeName>
+                    <date when="1920-09-09"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.j4b.2.2-3"/>
+                <note type="curatorial">2</note>
+                <note type="curatorial">Piper Collection</note>
+                
+                <opener>
+                    
+                    <dateline>
+                        Sep. 9-1920
+                    </dateline>
+                    
+                    <salute>My Dear little girl:</salute>
+                    
+                </opener>
+                
+                <p>I know you are teaching the little Lyonsites amo, amos, amot. and I wonder if you
+                    can leave there to come to us some of these back Enids real soon. Just write me when you can come. Miss allen from Tekamah is boarding and rooming here. Mr. Hrisch to meals as last year and Mr Dill the 8th grade comes with him: mother is here. Don't worry where you will sleep, Just make you a good bed on the couch of miss allen does not invite you 15 harcher bed. Come Friday Eve on the</p> 
+                
+                <pb facs="nei.j4b.2.2-3"/>
+                <note type="curatorial">3</note>
+                
+                <p>Eight oclock. and if you can't stay until Monday you can get back on teh 5 Sunday afternoon Excuse this awful note but come and we will have a good visit</p>
+                <salute>love to you</salute>
+                <salute>from</salute> 
+                <signed>Alice M. Neihardt</signed> 
+            </div1>
+                
+                <div1 type="address">
+                    
+                <ab type="postmark">
+                    BANCROFT 
+                    4PM
+                    SEP
+                    1920
+                    NEB
+                </ab>
+                    
+                <ab type="stamp">
+                    UNITED STATES POSTAGE 22 CENTS
+                </ab> 
+                    
+                <ab type="address">
+                    Miss Mildred Piper 
+                    Lyons 
+                    Nebraska.
+                </ab> 
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

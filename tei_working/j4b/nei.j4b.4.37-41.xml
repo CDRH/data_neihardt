@@ -1,30 +1,178 @@
 <?xml version="1.0" encoding="UTF-8"?>
-37
-Missouri Collection 
-Wednesday 
-[May, 1923]
-My own Darling: 
-your beautiful letters to all of us were en-joyed in private first, and then in common, and we were each and everyone of us made happy, thoroughly so. 
-The jump from Spncer to Iowa City is so long that I have been sending mail there for some time, 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-38
-as I must this. 
-I am writing to Dr. R.W. smars of Aurora to ask the cost of operation. Dr Mitchell wrote for us and brough me the news that it could be done any evening of the middle of May; we should say overnight and could return home the next morning. We should 
-
-39
-let the Dr know a little ahead so that he can make plays. Also Dr Mitchell said that he had done this for us out of <unclear/> and had no charge, and was not in any way connected with the operation, we must find out <unclear/> etc ourselves. I think he was a little afraid so be implicated, because of Dr. Guy B. He meant it all most kindly. Now as soon as I hear from Stuart I'll send you the lesser and you can write him or sell we what to say. I'll be ready to meet you as we played. I worry awfully about Hilda, I wonder if it will come out alright? 
-I love you so much and I love this place - I can hardly wait for you to see it when you come 
-
-40
-home! Alfalfa a <unclear/> high. 
-Deuse shade in our front yard! Shrubs flowering and lillies full of blooms! 
-I have enjoyed work - ing every hour inside and out of our lovely home, and I know you'll think so when you come back. 
-We are all well hap-py and harmonious including Bessy and a flock of new yellow chickens. Who don't know their uncle yet! -
-Darling I recei-
-
-41
-wed your <unclear/> O. K. 
-I had already fowarded a lesser so you from Lawrence, Kansas, where you instructions to hold same same. 
-Your strip is a big success for you, us, and all who have she privilege to hear you! 
-Because of love form your own Girl and all she <unclear/> - 
-Mona. 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.4.37-41">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Mona Martinsen Neihardt to John G. Neihardt, 1923</title>
+                <author>Neihardt, Mona Martinsen</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.4.37-41</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, Mona Martinsen</author>
+                    <title level="m" type="main">Letter from Mona Martinsen Neihardt to John G. Neihardt</title>
+                    <date when="1923">1923</date>
+                    <extent>5 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>5 hand-written pages</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Neihardt, Mona Martinsen</term>
+                    <term>Smars, R.W.</term>
+                    <term>Mitchell, Guy B.</term>
+                    <term>Sherman, Stuart Pratt, 1881-1926</term>
+                    <term>Petri, Hilda Neihardt</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Spencer (Neb.)</term>
+                    <term>Iowa City (Iowa)</term>
+                    <term>Aurora (Neb.)</term>
+                    <term>Lawrence (Kan.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Neihardt, Mona Martinsen</persName>
+                    <placeName></placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <placeName></placeName>
+                    <date when="1923"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.j4b.4.37-41"/>
+                <note type="curatorial">37</note>
+                <note type="curatorial">Missouri Collection</note>
+                <note type="curatorial">[May, 1923]</note>
+                
+                <opener>
+                    <dateline>Wednesday</dateline>
+                    
+                    <salute>My own Darling:</salute>
+                </opener>
+                
+                <p>your beautiful letters to all of us were en-joyed in private first, and then in common, and we were each and everyone of us made happy, thoroughly so. 
+                The jump from Spncer to Iowa City is so long that I have been sending mail there for some time,</p>  
+                
+                <pb facs="nei.j4b.4.37-41"/>
+                <note type="curatorial">38</note>
+                
+                <p>as I must this.</p> 
+                <p>I am writing to Dr. R.W. Smars of Aurora to ask the cost of operation. Dr Mitchell wrote for us and brough me the news that it could be done any evening of the middle of May; we should say overnight and could return home the next morning. We should</p> 
+                
+                <pb facs="nei.j4b.4.37-41"/>
+                <note type="curatorial">39</note>
+                
+                <p>let the Dr know a little ahead so that he can make plays. Also Dr Mitchell said that he had done this for us out of <unclear/> and had no charge, and was not in any way connected with the operation, we must find out <unclear/> etc ourselves. I think he was a little afraid so be implicated, because of Dr. Guy B. He meant it all most kindly. Now as soon as I hear from Stuart I'll send you the lesser and you can write him or sell we what to say. I'll be ready to meet you as we played. I worry awfully about Hilda, I wonder if it will come out alright?</p> 
+                <p>I love you so much and I love this place - I can hardly wait for you to see it when you come</p>  
+                
+                <pb facs="nei.j4b.4.37-41"/>
+                <note type="curatorial">40</note>
+                
+                <p>home! Alfalfa a <unclear/> high.</p> 
+                <p>Deuse shade in our front yard! Shrubs flowering and lillies full of blooms! 
+                I have enjoyed work - ing every hour inside and out of our lovely home, and I know you'll think so when you come back.</p> 
+                <p>We are all well hap-py and harmonious including Bessy and a flock of new yellow chickens. Who don't know their uncle yet! -</p>
+                <p>Darling I recei-</p>
+                
+                <pb facs="nei.j4b.4.37-41"/>
+                <note type="curatorial">41</note>
+                
+                <p>wed your <unclear/> O. K.</p> 
+                <p>I had already fowarded a lesser so you from Lawrence, Kansas, where you instructions to hold same same.</p> 
+                <p>Your strip is a big success for you, us, and all who have she privilege to hear you!</p> 
+                <p>Because of love form your own Girl and all she <unclear/> -</p> 
+                <closer><signed>Mona.</signed></closer>
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

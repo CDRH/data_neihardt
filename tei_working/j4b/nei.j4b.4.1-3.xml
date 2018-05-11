@@ -1,26 +1,180 @@
 <?xml version="1.0" encoding="UTF-8"?>
-1
-Piper Collection 
-Jan. 3rd 23
-Dearest Miss Piper! 
-You were perfectly sweet to send me those beautiful stockings, and I appreciate them, and the kind thoughts you took of me! Many, many thanks! 
-The children were de-
-lighted write your funny ani-mals! I am keeping mother's package for her, as she is so "on the go" now, and I think she will enjoy her xmas gifts more upon her return to home and quiet. 
-Baby Alice is such a big 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-2
-girl now, and talks so sweetly! 
-I wish she had been as big as she is now last summer, so that I could have gone about more with you! 
-Mother has been having a lovely time, and I am so glad she could go. 
-John leaves for his next trip north on the eleventh. 
-We are all well and as happy as now be-
-I hope you had a lovely time Christmas, and that she new year holds much good for you! 
-Ever cordiallly- Mona Neihardt 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.4.1-3">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Mona Martinsen Neihardt to Mildred Piper, January 3, 1923</title>
+                <author>Neihardt, Mona Martinsen</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.4.1-3</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, Mona Martinsen</author>
+                    <title level="m" type="main">Letter from Mona Martinsen Neihardt to Mildred Piper</title>
+                    <date when="1923-01-03">January 3, 1923</date>
+                    <extent>3 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>3 hand-written pages</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Neihardt, Alice</term>
+                    <term>Neihardt, Mona Martinsen</term>
+                    <term>Neihardt, Alice Culler</term>
+                    <term>Piper, Mildred</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Branson (Mo.)</term>
+                    <term>Hastings (Neb.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Neihardt, Mona Martinsen</persName>
+                    <placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Piper, Mildred</persName>
+                    <placeName ref="http://www.geonames.org/5069802">Hastings (Neb.)</placeName>
+                    <date when="1923-01-03"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.j4b.4.1-3"/>
+                <note type="curatorial">1</note>
+                <note type="curatorial">Piper Collection</note>
+                
+                <opener>
+                    
+                    <dateline>
+                        Jan. 3rd 23
+                    </dateline> 
+                    
+                    <salute>Dearest Miss Piper!</salute>
+                </opener>
+                
+                <p>You were perfectly sweet to send me those beautiful stockings, and I appreciate them, and the kind thoughts you took of me! Many, many thanks!</p> 
+                <p>The children were de-
+                lighted write your funny ani-mals! I am keeping mother's package for her, as she is so "on the go" now, and I think she will enjoy her xmas gifts more upon her return to home and quiet.</p> 
+                <p>Baby Alice is such a big</p> 
+                
+                <pb facs="nei.j4b.4.1-3"/>
+                <note type="curatorial">2</note>
+                
+                <p>girl now, and talks so sweetly!</p> 
+                <p>I wish she had been as big as she is now last summer, so that I could have gone about more with you!</p> 
+                <p>Mother has been having a lovely time, and I am so glad she could go.</p> 
+                <p>John leaves for his next trip north on the eleventh.</p> 
+                <p>We are all well and as happy as now be-</p>
+                <p>I hope you had a lovely time Christmas, and that she new year holds much good for you!</p> 
+                <closer>
+                    <salute>Ever cordiallly-</salute>
+                    <signed>Mona Neihardt</signed>
+                </closer> 
+                
+            </div1>
+            
+            <div1 type="envelope">
+                <pb facs="nei.j4b.4.1-3"/>
+                <note type="curatorial">3</note>
+                <note type="curatorial">19 Piper Collection</note>
+                
+                <ab type="postmark">
+                    BRANSON JAN. 4 3 AM
+                </ab>
 
-3
-19 Piper Collection 
-NEBRASKA JAN. 4 3 AM
-Miss Mildred Piper. 
-809 North Hastings Ave
-Hastings
-Nebraska 
+                <ab type="address">
+                    Miss Mildred Piper. 
+                    809 North Hastings Ave
+                    Hastings
+                    Nebraska 
+                </ab> 
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

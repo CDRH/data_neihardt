@@ -1,40 +1,183 @@
 <?xml version="1.0" encoding="UTF-8"?>
-50 
-Neihardt Collection 251 
-August 2, 1923
-Newell S. Dak. 
-NEWELL AUG 2 PM 1923 
-U.S.POSTALCARD <figure/> 1 ONE CENT 1 JEFFERSON 
-THIS SIDE OF CARD IS FOR ADDRESS
-Mrs. J G Neihardt
-Branson,
-Missouri 
-Taney County 
-Cold T dark here 
-Newell S.D. Aug 2 
-Newell S.D. Aug 2 7 am. 
-We are 30 miles north of the Black Hills. 
-We are 30 miles north of the Black Hills
-Buttes field yesterday & 
-Saw Slim Buttes little, field yesterday 
-walked all over it through hills 
-walked all over it. Go through hills 
-Rapid City 
-today to Rapid City then least & 
-South through Bad Lands of White
-south through Bad Lands of White 
-to Wounded Knee. Expect 
-River to Wounded Knee Expect 
-Wayne then 
-to reach Wounded Aug 5 then 
-Wonderful 
-home. Wonderful trip - 75 miles 
-without a tree or house. You must 
-house you must 
-all take this trip. in our Ford. 
-all take, this trip in our 
-enjoyable in every way. 
-not expensive & <unclear/> in every way 
-Love to all Jno & Daddy 
-Love to all up 
-Jno & Daddy 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.4.50">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to Mona Martinsen
+                    Neihardt, August 2, 1923</title>
+                <author>Neihardt, John G., 1881-1973.</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.4.50</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John G., 1881-1973.</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Mona Martinsen
+                        Neihardt</title>
+                    <date when="1923-08-02">August 2, 1923</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 hand-written page</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Neihardt, Mona Martinsen</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Newell (S.D.)</term>
+                    <term>Slim Buttes (S.D.)</term>
+                    <term>Branson (Mo.)</term>
+                    <term>Rapid City (S.D.)</term>
+                    <term>White River (S.D.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <placeName ref="http://www.geonames.org/5767392">Newell (S.D.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Neihardt, Mona Martinsen</persName>
+                    <placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+                    <date when="1923-08-02"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="envelope">
+                <pb facs="nei.j4b.4.50"/>
+                <note type="curatorial">50</note>
+                <note type="curatorial">Neihardt Collection 251</note>
+                <note type="curatorial">
+                    August 2, 1923
+                    Newell S. Dak. 
+                </note>
+                
+                <ab type="postmark">
+                    NEWELL AUG 2 PM 1923
+                </ab> 
+                
+                <ab type="stamp">
+                    U.S.POSTALCARD <figure/> 1 ONE CENT 1 JEFFERSON
+                </ab> 
+                
+                <ab type="postmark">
+                    THIS SIDE OF CARD IS FOR ADDRESS
+                </ab>
+                
+                <ab type="address">
+                    Mrs. J G Neihardt
+                    Branson,
+                    Missouri 
+                    Taney County
+                </ab> 
+                
+            </div1>
+            
+            <div1 type="letter">
+                <note type="authorial">Cold T dark here</note>
+                
+                <dateline>Newell S.D. Aug 2 7 am.</dateline> 
+                
+                <p>We are 30 miles north of the Black Hills</p>
+                <p>Saw Slim Buttes little, field yesterday</p> 
+                <p>walked all over it. Go through hills</p> 
+                <p>today to Rapid City then least &amp;</p> 
+                <p>south through Bad Lands of White</p> 
+                <p>River to Wounded Knee Expect</p> 
+                <p>to reach Wounded Aug 5 then</p> 
+                <p>home. Wonderful trip - 75 miles</p> 
+                <p>without a tree or house. You must</p> 
+                <p>all take this trip. in our Ford.</p> 
+                <p>not expensive &amp; enjoyable in every way</p> 
+                <closer>
+                    <salute>Love to all Jno &amp; Daddy</salute> 
+                    <salute>Love to all up</salute> 
+                    <signed>Jno &amp; Daddy</signed>
+                </closer> 
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

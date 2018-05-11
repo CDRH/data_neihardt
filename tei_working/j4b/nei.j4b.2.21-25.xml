@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.2.21-25">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Alice Culler Neihardt to Mildred Piper, September 18, 1921</title>
+                <author>Neihardt, Alice Culler</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.2.21-25</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, Alice Culler</author>
+                    <title level="m" type="main">Letter from Alice Culler Neihardt to Mildred Piper</title>
+                    <date when="1921-09-18">September 18, 1921</date>
+                    <extent>5 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>5 hand-written pages</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Neihardt, Alice Culler</term>
+                    <term>Piper, Mildred</term>
+                    <term>Neihardt, Mona Martinsen</term>
+                    <term>Brown</term>
+                    <term>Percy</term>
+                    <term>Knapp</term>
+                    <term>McDonald, Lulu</term>
+                    <term>Petri, Hilda Neihardt</term>
+                    <term>Neihardt, Alice</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Lyons (Neb.)</term>
+                    <term>Branson (Mo.)</term>
+                    <term>Springdale (Ark.)</term>
+                    <term>Omaha (Neb.)</term>
+                    <term>Ozarks</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Neihardt, Alice Culler</persName>
+                    <placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Piper, Mildred</persName>
+                    <placeName ref="http://www.geonames.org/5072499">Lyons (Neb.)</placeName>
+                    <date when="1921-09-18"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="envelope">
+                <pb facs="nei.j4b.2.21-25"/>
+                <note type="curatorial">21</note>
+                <note type="curatorial">1 Piper Collection</note>
+                
+                <note type="curatorial">Sept. 18, 1921 21</note>
+               
+                <ab>from box 145 Branson Mrs.</ab> 
+                
+                <ab type="postmark">
+                    BRANSON 
+                    SEP
+                    119
+                    FOR AM
+                    1921
+                    MO
+                </ab>
+                
+                <ab type="stamp">
+                    UNITED STATES POSTAGE <figure/> 2CENTS2
+                </ab>
+                
+                <ab type="address">
+                    Miss Mildred Piper 
+                    Lyons 
+                    Nebraska
+                </ab>
+            </div1>
+                
+            <div1 type="letter">
+                <pb facs="nei.j4b.2.21-25"/>
+                <note type="curatorial">22</note>
+                
+                <opener>
+
+                    <dateline>
+                        Branson Mo. 
+                        Sep. 18-1921
+                    </dateline>
+                    
+                    <salute>My Dear little girl-</salute>
+                    
+                </opener>
+                
+                <p>I am truly ashamed that so much time has slipped by without writing to you, and there is no one besides my girls that I should feel worse about treating so Mona said today when I told her that ^I was going to write to you today that I should please <unclear/> you how she appreciated your kindness and little Alice will think herself very lucky indeed to own a pair of silk stockings some-thing here mother does not own at present....</p>
+                <p>and now we want to begin to plan your visit to me next summer. There will be no reason at least hte kind of one we had this summer to keep you away? "Believe me" we were all disappointed, but we have the dearest little girl. I am settled in my house at last. Mrs. Brown made me a visit the first of August. I have that wrong, she came the 12th of August. the first expected her the first but her sister's daughter where she was visitng in Oklahoma was very sick and the visit was postponed. She came from Midwell Oklahoma here. was here just a week. Just from here to visit Percy</p>
+                
+                <pb facs="nei.j4b.2.21-25"/>
+                <note type="curatorial">23</note>
+                
+                <p>Springdale arkansas and from there back to Omaha. In her last letter to us she was working in the Commercial Hotel. Last week she worked out by the week as cook. It makes my heart ache to have her do that. She hopes to settle here, likes it very much So when you come next summer she may be living across the street from me.</p> 
+                <p>Was glad to know that your work is not so heavy this year. Is Miss Knapp teaching in Omaha? I must write her when you write again please give me her address Do you hear from Miss "Fish" often I shoiuld wi wish you were teaching here and living with me. I have such a pretty little house so nicely finished. The loveliest fireplace I am just as happy here as I coudl be taking into consideration that I am so far from both my girls. Lulu has been very sick and is just out of the hospital <del/> where she has had Radium treatment for cancer of the womb, poor girl she has had such a hard time since last Easter, and you can know I have been anxious the distance seemed to be multiplied since she has been so sick. But she is in <unclear/></p> 
+                
+                <pb facs="nei.j4b.2.21-25"/>
+                <note type="curatorial">24</note>
+                
+                <p><unclear/> now than she has been and the Drs think the cnacer compltely destroyed. I'll go and feed my 65 hens and then I'll tell you some more. I wish you could see my flock of chickens. I bought Eleven hens and a rooster last March and now I have 66 pellets and all the old <unclear/> and besides feed since early spring, I will have to <del>call</del> call my flock and will have still more to sell which will buy feed for a good share of the winter. Today I got 9 eggs. I probably wont' roll in riches from chickens but think I can just about make my living with my eggs. Wish you could see my big pile of fire place wood and I have two cards of cookstone wood corded up. and a great big pile of kindling cut. We have never burned a lump of coal since we are in the Ozarks and we have cistern water. We have had a very dry Summer. the gardens were litterally burned up. The summer has been very hot in the daytime but the nights are lovely and cool</p> 
+                
+                <pb facs="nei.j4b.2.21-25"/>
+                <note type="curatorial">25</note>
+                
+                <p>Mts are beautiful all the time. All the peaches apples and grapes were frozen we are going out into the woods with a neighbor who has a <unclear/> to get wild grapes and later we will go for persimmons butter nuts walnuts hickory nuts and <unclear/>. We are all well now, John was very sick last week but is about well again, He with the children have gone swimming again today, when you come next Summer you must have a bath suit every body goes swimming here. You should see me I can swim quite a little and float perfectly. Even Hilda has her suit and the little thing can just paddle in <del/> water up to her chin. We went for a while evry afternoon. We took Mrs. Brown she had a pick of fear.</p> 
+                <p>Mona has not been down to swim, went once to watch us since the baby came, we took baby with us. Remember me to your father and mother. And know dear girl that I love you and want you to come next summer.</p> 
+                <closer>
+                    <salute>Always your friend,</salute>
+                    <signed>Alice M. Neihardt</signed>
+                </closer> 
+                
+            </div1>
+
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

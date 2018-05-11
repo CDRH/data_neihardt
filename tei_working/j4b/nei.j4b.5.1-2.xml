@@ -1,30 +1,193 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Missouri Collection 
-[Jan 2, 1924]
-CHAS.A.MANGOLD, V.P. AND GEN'L MGR. 1
-<figure/> 
-Jan 4, 1924 
-Walco, Texas
-JEFFERSONHOTEL 
-OPPOSITE NEW UNION STATION AND FERRIS PLAZA 
-JEFFERSON HOTEL CO. 
-E.W. MORTEN, PRESIDENT 
-FIREPROOF AND INDESTRUCTIBLE EUROPEAN PLAN EXCLUSIVELY 
-DALLAS, TEXAS Jan 2 
-Dearest Ones:-
-Had a nice evening with Schaeffelmayers last evening. Mrs. S. is a C.S. I will write Mama. Also she will write Mona, Schoeffelmayer is still flowing off quantities of steam through a dozen whistles, & so really remarkable with each whistle, but he'll never change. 
-This a.m. a reporter got me - several of them - & had my picture taken by a fine photographer, four views. I'll have one sent home. also I'll have a Sunday article sent home. 
-Had lunch with newspaper even today - fine bright fellows at 4 (in a few minutes) I'm to talk to two fellows here. Tonight I read up town somewhere. 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-2
--2- 
-I feel all right. Dallas is not so provincial & green as new York. I'll probably get through with my soul this time. Anyway, I'm feeling natural now. -
-I see you all there at home so plainly. 
-It is warm again today & misty. Cold yesterday. Perhaps you too have had a warmer wave. 
-no used to worry about me at all. It's not like the last trip. I'll keep my identity. just be happy & remember that we were never in so good a position - all of us. Think of how my schemes are winning. It's really remarkable. 
-I'll surely take that pension if it's offered, tho'. 
-Lots & lots of love for each of you
-Jno 
-Daddy. 
-Jan 3rd 9 a.m. 
-Extraordinary success here. Crowd all for I wanted more & more. Nearly all said to meet me. Mona, I <del/ <unclear/ and to tomorrow & 50 from 'Waco. 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.5.1-2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to Mona Martinsen Neihardt, January 2, 1924</title>
+                <author>Neihardt, John G., 1881-1973.</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.5.1-2</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John G., 1881-1973.</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Mona Martinsen Neihardt</title>
+                    <date when="1924-01-02">January 2, 1924</date>
+                    <extent>2 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 hand-written pages</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Mangold, Chas. A.</term>
+                    <term>Morten, E.W.</term>
+                    <term>Schaeffelmayer</term>
+                    <term>Neihardt, Alice Culler</term>
+                    <term>Neihardt, Mona Martinsen</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Waco (Texas)</term>
+                    <term>Dallas (Texas)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <placeName ref="http://www.geonames.org/4739526">Waco (Texas)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Neihardt, Mona Martinsen</persName>
+                    <placeName></placeName>
+                    <date when="1924-01-02"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.j4b.5.1-2"/>
+                <note type="curatorial">1</note>
+                <note type="curatorial">
+                    Missouri Collection
+                    
+                    [Jan 2, 1924]
+                    
+                    Jan 4, 1924 
+                    Waco, Texas
+                </note>
+                
+                <note type="authorial">
+                    CHAS.A.MANGOLD, V.P. AND GEN'L MGR. 1
+                    <figure/> 
+                    
+                    JEFFERSON HOTEL 
+                    OPPOSITE NEW UNION STATION AND FERRIS PLAZA 
+                    JEFFERSON HOTEL CO. 
+                    E.W. MORTEN, PRESIDENT 
+                    FIREPROOF AND INDESTRUCTIBLE EUROPEAN PLAN EXCLUSIVELY 
+                    DALLAS, TEXAS
+                </note>
+                
+                <opener>
+                    <dateline>
+                        Jan 2
+                    </dateline>
+                    
+                    <salute>Dearest Ones:-</salute>
+                </opener>
+                
+                <p>Had a nice evening with Schaeffelmayers last evening. Mrs. S. is a C.S. I will
+                    write Mama. Also she will write Mona, Schoeffelmayer is still flowing off
+                    quantities of steam through a dozen whistles, &amp; so really remarkable with each whistle, but he'll never change.</p> 
+                <p>This a.m. a reporter got me - several of them - &amp; had my picture taken by a fine photographer, four views. I'll have one sent home. also I'll have a Sunday article sent home.</p> 
+                <p>Had lunch with newspaper even today - fine bright fellows at 4 (in a few minutes) I'm to talk to two fellows here. Tonight I read up town somewhere.</p> 
+                
+                <pb facs="nei.j4b.5.1-2"/>
+                <note type="curatorial">2</note>
+                <note type="authorial">-2-</note>
+                
+                <p>I feel all right. Dallas is not so provincial &amp; green as new York. I'll probably get through with my soul this time. Anyway, I'm feeling natural now. -</p>
+                <p>I see you all there at home so plainly.</p> 
+                <p>It is warm again today &amp; misty. Cold yesterday. Perhaps you too have had a warmer wave.</p> 
+                <p>no used to worry about me at all. It's not like the last trip. I'll keep my
+                    identity. just be happy &amp; remember that we were never in so good a position - all of us. Think of how my schemes are winning. It's really remarkable.</p> 
+                <p>I'll surely take that pension if it's offered, tho'.</p> 
+                
+                <closer>
+                    <salute>Lots &amp; lots of love for each of you</salute>
+                    <signed>
+                        Jno 
+                        Daddy. 
+                    </signed>
+                </closer>
+                
+                    <postscript>
+                        <p>Jan 3rd 9 a.m. Extraordinary success here. Crowd all for I wanted more &amp; more. Nearly all
+                        said to meet me. Mona, I <unclear/> and to tomorrow &amp; 50 from 'Waco.</p>
+                    </postscript>
+
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

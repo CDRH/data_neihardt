@@ -1,22 +1,173 @@
 <?xml version="1.0" encoding="UTF-8"?>
-58
-30 Davis Collection NY Pub Lib 
-Branson, Missouri,
-November, 21st, 1924. 
-Dear Mr Davis:
-I received your letter and was very glad to get it.
-Are you having nice weather, now, in New York? I suppose it is pretty cool. Isn't it? We are having pretty cold weather now, in the mornings. It warms up during the daytime, and then gets cold again in the evening. 
-We have a horse and a cow. The horse's name is 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-59
-Barney. He has some easy gaits; they are fox-trot and shor=lope. He is a kind of a dark bay color. The people down here all call him a pony. I suppose you would call him a pony, he is just a little higher than one. We ride him quite a bit, but not enough to give him good exercise. 
-Bessie, is the cow's name and she is a thorough bred Jersey. She gives the richest milk I ever drank. The cream rises as thick as leather. You have to mix milk into it to make it thin enough to put in coffee or tea or for any use. 
-Sigurd is playing the piano well now. He has only been at it for about a year now and is playing, the Melody in F., and the first nocturne by Chopin. We are all playing trist together now. Mama & I both play the violins and Sigurd plays the piano. We played for our first time in public at the "Parent Teacher's Association." We played two trios: The Melody in f. The German Dance by Dittersdorf.: 
-We have very pretty hills here especially in fall. The hills have all kinds of leaves on the trees and that makes the hills look beautiful after the frost comes. 
-
-60
-I think Daddy is a little ashamed because he has't been writing to you. He is going to write more now. He has sent a letter already. 
-I'm in the 8th Grade this year. I'm thirteen years old. Sigurd is in the 7th grade & Hilda is in the 3rd Grade. Alice doesn't go to school yet. She will in a few years. 
-Yours, with every kind thought. 
-Enid, Neihardt.
-X 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.5.58-60">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Enid Neihardt to Mr. Davis, November 21, 1924</title>
+                <author>Neihardt, Enid</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.5.58-60</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, Enid</author>
+                    <title level="m" type="main">Letter from Enid Neihardt to Mr. Davis</title>
+                    <date when="1924-11-21">November 21, 1924</date>
+                    <extent>3 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>3 hand-written pages</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Neihardt, Sigurd</term>
+                    <term>Chopin, Frédéric, 1810-1849</term>
+                    <term>Neihardt, Mona Martinsen</term>
+                    <term>Dittersdorf, Karl Ditters von 1739-1799</term>
+                    <term>Petri, Hilda Neihardt</term>
+                    <term>Neihardt, Alice</term>
+                    <term>Davis</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Branson (Mo.)</term>
+                    <term>New York City (N.Y.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term>Melody in F</term>
+                    <term>German Dance</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Neihardt, Enid</persName>
+                    <placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Davis</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York City (N.Y.)</placeName>
+                    <date when="1924-11-21"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.j4b.5.58-60"/>
+                <note type="curatorial">58</note>
+                <note type="curatorial">30 Davis Collection NY Pub Lib</note>
+                
+                <opener>
+                    
+                    <dateline>
+                        Branson, Missouri,
+                        November, 21st, 1924. 
+                    </dateline>
+                    
+                    <salute>Dear Mr Davis:</salute>
+                </opener>
+                
+                <p>I received your letter and was very glad to get it.</p>
+                <p>Are you having nice weather, now, in New York? I suppose it is pretty cool. Isn't it? We are having pretty cold weather now, in the mornings. It warms up during the daytime, and then gets cold again in the evening.</p> 
+                <p>We have a horse and a cow. The horse's name is</p> 
+                
+                <pb facs="nei.j4b.5.58-60"/>
+                <note type="curatorial">59</note>
+                
+                <p>Barney. He has some easy gaits; they are fox-trot and shor=lope. He is a kind of a dark bay color. The people down here all call him a pony. I suppose you would call him a pony, he is just a little higher than one. We ride him quite a bit, but not enough to give him good exercise.</p> 
+                <p>Bessie, is the cow's name and she is a thorough bred Jersey. She gives the richest milk I ever drank. The cream rises as thick as leather. You have to mix milk into it to make it thin enough to put in coffee or tea or for any use.</p>
+                <p>Sigurd is playing the piano well now. He has only been at it for about a year now
+                    and is playing, the Melody in F., and the first nocturne by Chopin. We are all
+                    playing trist together now. Mama &amp; I both play the violins and Sigurd plays the piano. We played for our first time in public at the "Parent Teacher's Association." We played two trios: The Melody in f. The German Dance by Dittersdorf.:</p> 
+                <p>We have very pretty hills here especially in fall. The hills have all kinds of leaves on the trees and that makes the hills look beautiful after the frost comes.</p> 
+                
+                <pb facs="nei.j4b.5.58-60"/>
+                <note type="curatorial">60</note>
+                
+                <p>I think Daddy is a little ashamed because he has't been writing to you. He is going to write more now. He has sent a letter already.</p> 
+                <p>I'm in the 8th Grade this year. I'm thirteen years old. Sigurd is in the 7th
+                    grade &amp; Hilda is in the 3rd Grade. Alice doesn't go to school yet. She will in a few years.</p> 
+                <closer><salute>Yours, with every kind thought.</salute> 
+                <signed>Enid, Neihardt.
+                X</signed></closer> 
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

@@ -1,23 +1,179 @@
 <?xml version="1.0" encoding="UTF-8"?>
-9
-Fine Collection 
-Branson Mo 
-Jan 20th 
-1928
-Dear darling Daddy:
-We all got your letters yesterday. We had <unclear/> at school yesterday & before and it was easy, first we had arithmetic and then Hygiene & then. Reading and then we had history & Geography. The teacher didn't give us very many. They had a "pre supper" last night. 
-/over 
-Grandma & I went & took three pies for them, It is for the school they are doing it. We just stayed until the rotations were over & then we went home. Mama & Sig & Hilda & Alice stayed with great Grandma. Great Grandma had to. have the Ivor lacked in front, she wants it locked every night, mama is going to write soon and so is Grandma. 
-Loads & loads & load of kisses & barrels of hugs from us all. Enid (look on next page) 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-10
-P.s. 
-It is raining hard today & Grandma & I got in wood over at her house. Great Grandma said if I would carry in wood for them, at the end of this month she would give me $ .75c and I am going to save my money up
-She gave each of us 29c
-Enid 
-BRANSON JAN 22 1 PM MO 
-U.S. POSTAGE <figure/> 1CENT1 U.S. POSTAGE <figure/> 1CENT1
-Dr J. G. Neihardt. 
-c/o Dr. J. T. House. 
-Wayne
-Nebraska. 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.4.9-10">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Enid Neihardt to John G. Neihardt, January 20, 1923</title>
+                <author>Neihardt, Enid</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.4.9-10</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, Enid</author>
+                    <title level="m" type="main">Letter from Enid Neihardt to John G. Neihardt</title>
+                    <date when="1923-01-20">January 20, 1923</date>
+                    <extent>5 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>5 hand-written pages</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Neihardt, Mona Martinsen</term>
+                    <term>Neihardt, Sigurd</term>
+                    <term>Petri, Hilda Neihardt</term>
+                    <term>Neihardt, Alice</term>
+                    <term>Neihardt, Enid</term>
+                    <term>Neihardt, Alice Culler</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Branson (Mo.)</term>
+                    <term>Wayne (Neb.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Neihardt, Alice Culler</persName>
+                    <placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <placeName ref="http://www.geonames.org/5081454">Wayne (Neb.)</placeName>
+                    <date when="1923-01-20"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.j4b.4.9-10"/>
+                <note type="curatorial">9</note>
+                <note type="curatorial">Fine Collection</note>
+                
+                <opener>
+                    <dateline>
+                        Branson Mo 
+                        Jan 20th 
+                        1923
+                    </dateline>
+                    
+                    <salute>Dear darling Daddy:</salute>
+                </opener>
+                
+                <p>We all got your letters yesterday. We had <unclear/> at school yesterday &amp; before and it was easy,
+                first we had arithmetic and then Hygiene &amp; then. Reading and then we had history &amp; Geography. The teacher didn't give us very many. They had a "pre supper" last night.</p> 
+                <p>/over</p> 
+                <p>Grandma &amp; I went &amp; took three pies for them, It is for the school they are doing it. We just
+                    stayed until the rotations were over &amp; then we went home. Mama &amp; Sig &amp; Hilda &amp; Alice stayed with great Grandma. Great Grandma had to. have the Ivor lacked in front, she wants it locked every night, mama is going to write soon and so is Grandma.</p>
+                <closer><salute>Loads &amp; loads &amp; load of kisses &amp; barrels of hugs from us all.</salute> <signed>Enid</signed> (look on next page)</closer>
+                
+                <pb facs="nei.j4b.4.9-10"/>
+                <note type="curatorial">10</note>
+                
+                <postscript><p>P.s. 
+                It is raining hard today &amp; Grandma &amp; I got in wood over at her house. Great Grandma said if I would carry in wood for them, at the end of this month she would give me $ .75c and I am going to save my money up</p>
+                <p>She gave each of us 29c</p>
+                <signed>Enid</signed></postscript> 
+            </div1>
+            
+            <div1 type="envelope">  
+                
+                <ab type="postmark">
+                    BRANSON JAN 22 1 PM MO
+                </ab> 
+                
+                <ab type="stamp">
+                    U.S. POSTAGE <figure/> 1CENT1 U.S. POSTAGE <figure/> 1CENT1
+                </ab>
+                
+                <ab type="address">
+                    Dr J. G. Neihardt. 
+                    c/o Dr. J. T. House. 
+                    Wayne
+                    Nebraska.
+                </ab> 
+            </div1>
+
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

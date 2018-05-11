@@ -1,17 +1,165 @@
 <?xml version="1.0" encoding="UTF-8"?>
-55
-Missouri Collection 
-THIS SPACE FOR CORRESPONDENCE 
-am up here with Sterling, having bully time. One at the Bohemian Club. 
-Jno
-PUBLISHED BY EDWARD H MITCHELL SAN FRANCISCO CAL 
-Post Card 
-MAR 
-8
-THIS SPACE FOR ADDRESS 
-Mrs. a.m. neihardt
-Bancroft
-nebraska 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<figure/> 
-Dawn of Day. Muir Woods, Mt. Tamalpais, Cal 821
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.1.55">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to Mona Marinsen Neihardt, March 8, 1918</title>
+                <author>Neihardt, John G., 1881-1973.</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.1.55</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John G., 1881-1973.</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Mona Marinsen Neihardt</title>
+                    <date when="1918-03-08">March 8, 1918</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 hand-written page</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Sterling, George, 1869-1926</term>
+                    <term>Mitchell, Edward H. 1867-1932</term>
+                    <term>Neihardt, Mona Martinsen</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>San Fransisco (Calif.)</term>
+                    <term>Mt. Tamalpais (Calif.)</term>
+                    <term>Bancroft (Neb.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <placeName ref="http://www.geonames.org/5401011">Mt. Tamalpais (Calif.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Neihardt, Mona Martinsen</persName>
+                    <placeName ref="http://www.geonames.org/5063451">Bancroft (Neb.)</placeName>
+                    <date when="1918-03-08"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.j4b.1.55"/>
+                <note type="curatorial">55</note>
+                <note type="curatorial">Missouri Collection</note>
+                
+                <opener>
+                    
+                    <fw type="authorial">
+                        THIS SPACE FOR CORRESPONDENCE 
+                    </fw>
+
+                </opener>
+                
+                <p>am up here with Sterling, having bully time. One at the Bohemian Club.</p> 
+                <signed>Jno</signed>
+                
+                <note type="authorial">PUBLISHED BY EDWARD H MITCHELL SAN FRANCISCO CAL</note>
+                
+                <dateline>
+                    MAR 
+                    8
+                    1918
+                    CAL
+                </dateline>
+                
+                <fw type="authorial">THIS SPACE FOR ADDRESS</fw> 
+
+                <fw><address>
+                    <addrLine>Mrs. a.m. neihardt</addrLine>
+                    <addrLine>Bancroft</addrLine>
+                    <addrLine>nebraska</addrLine>
+                </address></fw> 
+                
+                <figure><figDesc>Dawn of Day. Muir Woods, Mt. Tamalpais, Cal 821</figDesc></figure>
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

@@ -1,22 +1,168 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Missouri Collection 
-G.A. HART 
-D.H. HART 
-6
-<figure/> 
-NEW HOTEL 
-ROSSLYN 
-HART BROS. PROPIETORS
-AMERICAN AND EUROPEAN PLAN 
-RATES MODERATE
-HART BROS. MILLION DOLLAR POPULAR PRICE 
-NEW HOTEL ROSSLYN 
-COR MAIN AND FIFTH STS. 
-FREE BUS TO AND FROM HOTEL 
-LOS ANGELES, CAL. 
-Jan 10 [1924]
-Dear Mama:
-When I mail a letter home, it's generally for all of you; but this one is just for you. I want to tell you I love youand that it is a great part of my scheme that you should live to see as much of the succes of what I'm doing as possible. I wish you could be with me some times, so that you could realize again have much has been accomplished already and always against adds.. 
-The children write dear things of you. Love is so close to you all the time, close to you all the time, closer than you generally realize, I know. I hope you aren't feeling as bad as when I left. Take as good care of yourself as you can. 
-Kindest thoughts for Mary.
-Jno. 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.5.6">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to Alice Culler Neihardt, January 10, 1924</title>
+                <author>Neihardt, John G., 1881-1973.</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.5.6</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John G., 1881-1973.</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Alice Culler Neihardt</title>
+                    <date when="1924-01-10">January 10, 1924</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 hand-written page</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Hart, G.A.</term>
+                    <term>Hart, D.H.</term>
+                    <term>Neihardt, Alice Culler</term>
+                    <term>Ryskind, Mary House</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Los Angeles (Calif.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <placeName ref="http://www.geonames.org/5368361">Los Angeles (Calif.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Neihardt, Alice Culler</persName>
+                    <placeName></placeName>
+                    <date when="1924-01-10"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.j4b.5.6"/>
+                <note type="curatorial">6</note>
+                <note type="curatorial">
+                    Missouri Collection
+                </note>
+                
+                <note type="authorial">
+                    G.A. HART 
+                    D.H. HART 
+                    
+                    <figure/> 
+                    NEW HOTEL 
+                    ROSSLYN 
+                    HART BROS. PROPIETORS
+                    AMERICAN AND EUROPEAN PLAN 
+                    RATES MODERATE
+                    HART BROS. MILLION DOLLAR POPULAR PRICE 
+                    NEW HOTEL ROSSLYN 
+                    COR MAIN AND FIFTH STS. 
+                    FREE BUS TO AND FROM HOTEL 
+                    LOS ANGELES, CAL. 
+                </note>
+                
+                <opener>
+                    <dateline>
+                        Jan 10 [1924]
+                    </dateline>
+                    
+                    <salute>Dear Mama:</salute>
+                </opener>
+                
+                <p>When I mail a letter home, it's generally for all of you; but this one is just for you. I want to tell you I love youand that it is a great part of my scheme that you should live to see as much of the succes of what I'm doing as possible. I wish you could be with me some times, so that you could realize again have much has been accomplished already and always against adds..</p> 
+                <p>The children write dear things of you. Love is so close to you all the time, close to you all the time, closer than you generally realize, I know. I hope you aren't feeling as bad as when I left. Take as good care of yourself as you can.</p> 
+                <closer>
+                    <salute>Kindest thoughts for Mary.</salute>
+                    <signed>Jno.</signed>
+                </closer> 
+
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

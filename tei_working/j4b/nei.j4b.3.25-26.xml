@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.3.25-26">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Alice Culler Neihardt to Mildred Piper, June 26, 1922</title>
+                <author>Neihardt, Alice Culler</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.3.25-26</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, Alice Culler</author>
+                    <title level="m" type="main">Letter from Alice Culler Neihardt to Mildred Piper</title>
+                    <date when="1922-06-26">June 26, 1922</date>
+                    <extent>2 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 hand-written pages</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Neihardt, Mona Martinsen</term>
+                    <term>Neihardt, Alice Culler</term>
+                    <term>Piper, Mildred</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Branson (Mo.)</term>
+                    <term>Omaha (Neb.)</term>
+                    <term>Kansas City (Mo.)</term>
+                    <term>Carthage (Mo.)</term>
+                    <term>Sioux City (Iowa)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Neihardt, Alice Culler</persName>
+                    <placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Piper, Mildred</persName>
+                    <placeName ref="http://www.geonames.org/4876523">Sioux City (Iowa)</placeName>
+                    <date when="1922-06-26"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+
+            <div1 type="letter">
+                <pb facs="nei.j4b.3.25-26"/>
+                <note type="curatorial">25</note>
+                <note type="curatorial">14 Piper Collection</note>
+                
+                <opener>
+                    
+                    <dateline>
+                        Branson Mo.
+                        June 26-1922
+                    </dateline> 
+                    
+                    <salute>My Dear girl;</salute>
+                </opener>
+                
+                <p>Your letter has been with me for several days. but has been delayed because Mona has been sick and John was gone. So you can see i had little time for letters. John says for you to take the Burlington from Omaha. and change at K.C. but if you get a Branson sleeper at K.C. you will not have to change at Carthage. It is no trouble to change there and you can save <unclear/> by changing. And too, be sure you take the 4:30 p.m. at Omaha. You will make better time, leaving Omaha at 4:30 you reach Branson the next day 11:15 which is good time. It is lovely of you to see that your mother gets her vacation. otherwise I should be in -</p>  
+                
+                <pb facs="nei.j4b.3.25-26"/>
+                <note type="curatorial">26</note>
+                
+                <p>patient. Come when it suits you best.</p>
+                <p>Mona is quite well again and John is home. So things are running normally again.</p> 
+                <closer>
+                    <salute>Love to you and come when you can,</salute> 
+                    <signed>Alice M. Neihardt</signed>
+                </closer>
+            </div1>
+            
+            <div1 type="envelope">
+                
+                <ab type="note">
+                    #145 Branson Mo.
+                </ab> 
+                
+                <ab type="postmark">
+                    BRANSON JUN 26 PM 1922 MO.
+                </ab> 
+                
+                <ab type="stamp">
+                    UNITED STATES POSTAGE 2CENTS2
+                </ab>
+                
+                <ab type="address">
+                    Miss Mildred Piper 
+                    1921 West 7th Street 
+                    Soo City
+                </ab> 
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

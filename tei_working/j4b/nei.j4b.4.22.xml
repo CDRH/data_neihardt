@@ -1,16 +1,162 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Missouri Collection 22
-Martin Hotel, 
-Corner Fourth and Pierce Streets,
-Sioux City, In. 
-<figure/>
-PostCard 
-PLACE STAMP HERE DOMESTIC ONE CENT FOREIGN TWO CENTS 
-ADDRESS 
-NO. 9308
-Soo City Feb, st 1923
-Sioux City 
-Pub. by <unclear/> More & Porterfield, Sioux City, Ia 
-Dear Ones: -
-Little Newcastle, with a population of 500 turned out of 200 people last night & gave me $42! Surprising some people from Sioux City came over (30 miles) I got practically no sleep last night - to bed at 1 o clock and up at 5. Heard every hour strike. Will sleep on train today - 6 hours, I've done 2 stunts. now - a pretty hard experience, and I need a rest. Mama, I'll surely encourage Lulu. 
-I'm constantly being surprised at how people <unclear/> me at sight. Strangers come to me & speak this morning The brakeman and: "It isn't often we have so distinguished a person aboard this train" I said "I hope it hasn't hurt the train!" Love Jno. 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.4.22">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to Mona Martinsen Neihardt, February 1, 1923</title>
+                <author>Neihardt, John G., 1881-1973.</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.4.22</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John G., 1881-1973.</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Mona Martinsen Neihardt</title>
+                    <date when="1923-02-01">February 1, 1923</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 hand-written page</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Neihardt, Alice Culler</term>
+                    <term>Neihardt, Mona Martinsen</term>
+                    <term>McDonald, Lulu</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Sioux City (Iowa)</term>
+                    <term>Newcastle (Neb.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <placeName ref="http://www.geonames.org/4876523">Sioux City (Iowa)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Neihardt, Mona Martinsen</persName>
+                    <placeName></placeName>
+                    <date when="1923-02-01"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.j4b.4.22"/>
+                <note type="curatorial">22</note>
+                <note type="curatorial">Missouri Collection</note>
+                
+                <opener>
+                    <fw type="authorial">
+                        Martin Hotel, 
+                        Corner Fourth and Pierce Streets,
+                        Sioux City, Ia. 
+                        <figure/>
+                    </fw>
+                    
+                    <fw type="authorial">
+                        PostCard 
+                        PLACE STAMP HERE DOMESTIC ONE CENT FOREIGN TWO CENTS
+                        ADDRESS
+                    </fw>
+                    
+                    <dateline>
+                        Soo City Feb, 1st 1923
+                        Sioux City 
+                        Pub. by <unclear/> More &amp; Porterfield, Sioux City, Ia 
+                    </dateline>
+                    
+                    <salute>Dear Ones: -</salute>
+                </opener>
+                
+                <p>Little Newcastle, with a population of 500 turned out of 200 people last night &amp; gave me $42! Surprising some people from Sioux City came over (30 miles) I got practically no sleep last night - to bed at 1 o clock and up at 5. Heard every hour strike. Will sleep on train today - 6 hours, I've done 2 stunts. now - a pretty hard experience, and I need a rest. Mama, I'll surely encourage Lulu.</p> 
+                <p>I'm constantly being surprised at how people <unclear/> me at sight. Strangers come
+                to me &amp; speak this morning The brakeman and: "It isn't often we have so distinguished a person aboard this train" I said "I hope it hasn't hurt the train!"</p> <closer><signed>Love Jno.</signed></closer> 
+                
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

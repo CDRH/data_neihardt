@@ -1,17 +1,155 @@
 <?xml version="1.0" encoding="UTF-8"?>
-11
-#2 Fink Collection 
-Jan 20. 1923
-Dear Daddy
-How are you? 
-We are having a hard rain today. 
-Our pupy is fine. 
-I see now that I can not get along with all these women. 
-When I write you another letter B essie will probably have a calf. 
-Will you have the pig buchere I when you come back. 
-The Franklin bay came and got too books. 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-12c
-He took Hurricane williams and THe. dead command. 
-Save and Bushels of Kisses 
-from Sig. 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.4.11-12">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Sigurd Neihardt to John G. Neihardt, January 20, 1923</title>
+                <author>Neihardt, Sigurd</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.4.11-12</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, Sigurd</author>
+                    <title level="m" type="main">Letter from Sigurd Neihardt to John G. Neihardt</title>
+                    <date when="1923-01-20">January 20, 1923</date>
+                    <extent>2 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 hand-written pages</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Neihardt, Sigurd</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Neihardt, Sigurd</persName>
+                    <placeName></placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <placeName></placeName>
+                    <date when="1923-01-20"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.j4b.4.11-12"/>
+                <note type="curatorial">11</note>
+                <note type="curatorial">#2 Fink Collection</note>
+                
+                <opener>
+                    <dateline>
+                        Jan 20. 1923
+                    </dateline>
+                    
+                    <salute>Dear Daddy</salute>
+                </opener>
+                
+                <p>How are you?</p> 
+                <p>We are having a hard rain today.</p> 
+                <p>Our pupy is fine.</p> 
+                <p>I see now that I can not get along with all these women.</p> 
+                <p>When I write you another letter Bessie will probably have a calf.</p> 
+                <p>Will you have the pig buchere I when you come back.</p> 
+                <p>The Franklin bay came and got too books.</p> 
+                
+                <pb facs="nei.j4b.4.11-12"/>
+                <note type="curatorial">12</note>
+                
+                <p>He took Hurricane williams and THe. dead command.</p> 
+                <closer>
+                    <salute>Love and Bushels of Kisses</salute> 
+                    <signed>from Sig.</signed>
+                </closer>
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

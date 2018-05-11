@@ -1,43 +1,218 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Missouri Collection 
-3
-Jan. 28, 1927
-CHRISTODORA HOUSE 
-147 AVENUE B. NEW YORK, N.Y. 
-TELEPHONE ALGONQUIN 8400
-<del>Dec 24, 1928</del>
-Monday 
-Dear Mama:
-I thought of you last night at the dinner at the Biltmore Hotel and wished you were there. It would have given you a big kick. The brilliant crowd of diners filled the huge & gorgeous dining room. There were famous men & women from both England & America. I was the guest of honor & sat at the right hand of the President of the Society. The guest table was raised <del/> four feet above the floor. I as honor guest, did the closing stunt, & it was a big success. I held a big reception afterward - people crowded up - famous, many of them..
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-4
--2-
-Ernest Rhys editor of Everyman's Library, a fine old British scholar, was by me. Mrs Corinne Roosevelt Robinson came up & said: "I am Theodore Roosevelt's sister, & I want to say that you two should have <unclear/> each other. He was fond of your poetry & introduced your work to me." Later she said: "I'm sure he is with you." 
-Old Edwin <unclear/> rushed up tome, cooking like, a god from Olympus, & said: "Is this John Neihardt! Well you're the one man in America I want to meet". Mrs. Markhams said: "you made them all love you." and some other famous person said: "you had them in your vest pocket every minute." 
-
-5
--3-
-CHRISTODORA HOUSE
-147 AVENUE B. NEW YORK, N.Y. 
-TELEPHONE ALGONQUIN 8400 
-It was really a triumph, & I met many who have cared for my work for years. I was surprised at the strong undercurrent of reputation I have. I am to read over WOR Friday A.m at 10 or thereabouts-just a short reading-maybe you can get me. It doesn't matter, though, unless it's easy to pick me up. 
-The President of the National Society for American Speech spoke very enthusiastically about my enunciation & <unclear/> & the way I manipulated my syllables, that's her specialty. 
-Lennox Robinson, head of the Dublin Theater, was near me at the guest table. Leonora Speyer was at my right. 
-
-6
-4
-Beyond her was written Bynner etc etc. On the other side Rhys, Robert Underwood Johnsons, forms Golding, Joseph Auslander, Edwin <unclear/>, <del>etc etc.</del>
-Mrs. Corrine Roosevelt Robinson etc etc. 
-This p.m. I am to meet a bunch of people here at this house, which is under the direction of Anna Hempstead Branch, Josephine Peabody was formerly head here. 
-Leonora Speyer. given reception tomorrow evening for me at her house. Big guns will be present. Wednesday a.m. I read at the world org. astoria Friday night at the University Club etc. 
-
-7
--5-
-CHRISTODORA HOUSE 
-147 AVENUE B. NEW YORK, N.Y.
-TELEPHONE ALGONQUIN 8400
-All this seems fine, but I'd rather be with you in Branson. Very much neither. I'm to lunch with <unclear/> tomorrow. He wrote me that sooner or later, when there is a vacancy, I'd be considered for a <unclear/> on the Macmillan staff.
-I can't see yet, have anything much will come of this, but it seemed the thing to do. 
-Oh I wish I could spend some weeks resting with you & watching the spring come on that clean beautiful, quiet country! Maybe I can. 
-Endless love,
-Jno. 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.7.3-7">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to Alice Culler Neihardt, January 28, 1927</title>
+                <author>Neihardt, John G., 1881-1973.</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.7.3-7</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John G., 1881-1973.</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Alice Culler Neihardt</title>
+                    <date when="1927-01-28">January 28, 1927</date>
+                    <extent>5 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>5 hand-written pages</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Neihardt, Alice Culler</term>
+                    <term>Rhys, Ernest, 1859-1946</term>
+                    <term>Robinson, Corinne Roosevelt, 1861-1933</term>
+                    <term>Roosevelt, Theodore, 1858-1919</term>
+                    <term>Markham, Edwin, 1852-1940</term>
+                    <term>House, Christodora</term>
+                    <term>Robinson, Lennox, 1886-1958</term>
+                    <term>Speyer, Leonora, 1872-1956</term>
+                    <term>Johnson, Robert Underwood, 1853-1937</term>
+                    <term>Golding, William, 1911-1993.</term>
+                    <term>Auslander, Joseph, 1897-1965</term>
+                    <term>Branch, Anna Hempstead, 1875-1937</term>
+                    <term>Peabody, Josephine Preston, 1874-1922</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>New York City (N.Y.)</term>
+                    <term>Dublin (Ireland)</term>
+                    <term>Branson (Mo.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York City (N.Y.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Neihardt, Alice Culler</persName>
+                    <placeName></placeName>
+                    <date when="1927-01-28"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.j4b.7.3-7"/>
+                <note type="curatorial">3</note>
+                <note type="curatorial">
+                    Missouri Collection 
+                </note>
+                
+                <opener>
+                    <dateline>
+                        Jan. 28, 1927
+                        Monday
+                    </dateline>
+                    <fw>
+                        CHRISTODORA HOUSE 
+                        147 AVENUE B. NEW YORK, N.Y. 
+                        TELEPHONE ALGONQUIN 8400
+                    </fw>
+                    <salute>Dear Mama:</salute>
+                </opener>
+                
+                <p>I thought of you last night at the dinner at the Biltmore Hotel and wished you were
+                there. It would have given you a big kick. The brilliant crowd of diners filled the
+                huge &amp; gorgeous dining room. There were famous men &amp; women from both England
+                &amp; America. I was the guest of honor &amp; sat at the right hand of the President
+                of the Society. The guest table was raised <del/> four feet above the floor. I as
+                honor guest, did the closing stunt, &amp; it was a big success. I held a big reception afterward - people crowded up - famous, many of them..</p>
+                
+                <pb facs="nei.j4b.7.3-7"/>
+                <note type="curatorial">4</note>
+                <note type="authorial">-2-</note>
+                
+                <p>Ernest Rhys editor of Everyman's Library, a fine old British scholar, was by me.
+                    Mrs Corinne Roosevelt Robinson came up &amp; said: "I am Theodore Roosevelt's
+                    sister, &amp; I want to say that you two should have <unclear/> each other. He
+                    was fond of your poetry &amp; introduced your work to me." Later she said: "I'm sure he is with you."</p> 
+                
+                <p>Old Edwin <unclear/> rushed up tome, cooking like, a god from Olympus, &amp; said: "Is this John Neihardt! Well you're the one man in America I want to meet". Mrs. Markhams said: "you made them all love you." and some other famous person said: "you had them in your vest pocket every minute."</p> 
+                
+                <pb facs="nei.j4b.7.3-7"/>
+                <note type="curatorial">5</note>
+                <note type="authorial">-3-</note>
+                
+                <fw>
+                    CHRISTODORA HOUSE
+                    147 AVENUE B. NEW YORK, N.Y. 
+                    TELEPHONE ALGONQUIN 8400 
+                </fw>
+                
+                <p>It was really a triumph, &amp; I met many who have cared for my work for years. I was surprised at the strong undercurrent of reputation I have. I am to read over WOR Friday A.m at 10 or thereabouts-just a short reading-maybe you can get me. It doesn't matter, though, unless it's easy to pick me up.</p> 
+                <p>The President of the National Society for American Speech spoke very
+                    enthusiastically about my enunciation &amp; <unclear/> &amp; the way I manipulated my syllables, that's her specialty.</p> 
+                <p>Lennox Robinson, head of the Dublin Theater, was near me at the guest table. Leonora Speyer was at my right.</p> 
+                
+                <pb facs="nei.j4b.7.3-7"/>
+                <note type="curatorial">6</note>
+                <note type="authorial">4</note>
+                
+                <p>Beyond her was written Bynner etc etc. On the other side Rhys, Robert Underwood Johnsons, forms Golding, Joseph Auslander, Edwin <unclear/>, <del>etc etc.</del></p>
+                <p>Mrs. Corrine Roosevelt Robinson etc etc.</p> 
+                <p>This p.m. I am to meet a bunch of people here at this house, which is under the direction of Anna Hempstead Branch, Josephine Peabody was formerly head here.</p> 
+                <p>Leonora Speyer. given reception tomorrow evening for me at her house. Big guns will be present. Wednesday a.m. I read at the world org. astoria Friday night at the University Club etc.</p> 
+                
+                <pb facs="nei.j4b.7.3-7"/>
+                <note type="curatorial">7</note>
+                <note type="authorial">-5-</note>
+                
+                <fw>
+                    CHRISTODORA HOUSE
+                    147 AVENUE B. NEW YORK, N.Y. 
+                    TELEPHONE ALGONQUIN 8400 
+                </fw>
+                
+                <p>All this seems fine, but I'd rather be with you in Branson. Very much neither. I'm to lunch with <unclear/> tomorrow. He wrote me that sooner or later, when there is a vacancy, I'd be considered for a <unclear/> on the Macmillan staff.</p>
+                <p>I can't see yet, have anything much will come of this, but it seemed the thing to do.</p> 
+                <p>Oh I wish I could spend some weeks resting with you &amp; watching the spring come on that clean beautiful, quiet country! Maybe I can.</p> 
+                <closer><salute>Endless love,</salute>
+                <signed>Jno.</signed></closer> 
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

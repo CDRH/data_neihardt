@@ -1,21 +1,189 @@
 <?xml version="1.0" encoding="UTF-8"?>
-15 Piper Collection Sep. 17-1922 27 <del>28,29,30</del>
-My dear girl-
-Here I come again armed with an apology as usual. - And this time it is the Carnival. We are all head over heels in it. School has started out in fine shape altho not yet in the New building. We had a cornerstone laying, I mean the P.T.a did. It was a very successful affair and we all feel very hapy about it. We were out to Garner's graping last Sunday and I am a miserable wretch again, a dose of ticks, the likes of which I never had before and that it paying something. I am a little more com-fortable tonight. I have a school girl, very nice and quiet and very tidy in her room, (or your room) I like her very much. I wonder how you like your school bud if you have found congenial friends, I hope so sp. <del/> 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-28
-received the package and are grateful to you little girl. The hat found a happy home many thanks for Everything. John starts for the East a week from next Friday, don't know yet if he will be in Hastings. You will know it tho. Mrs. Garner asked about you I told them you had a remembered them in your letter and they were pleased. I forgot to tell you that we are putting the second story on our school house have had a great time raising the money. I made 12 qts peach pickles and four pints of chilli sauce and two pints of catsup this week. Have put down one gallon of <del/> grapes in sugar. And I'm going to make the rest in juice. Have been serving a little for any self made over my old black broad cloth by cutting it down for a jumper and made a waist to wear with, it out of my old <unclear/>. I hope I can make over my winter coat I don't want to get a new one this winter I really can't 
-
-29
-Dr and Mrs. Mitchel are still sitting in their front yard and I have been with them often and often they ask about you, I laughed when I noted that mother had ordered the dresses longer. Altho they looked just all right the way they were, but going to so large a place and filling so important a position it was better to strike a happy medicine to maintain the dignity required of you or rather expected. Alice walks every place. And is so cute. the children like their school. Hilda is going to a superstition kindergarten and is so happy about it. Mona is picking off her wild grapes tonight I have mine all done I should be over there helping her. And will probably go after while. 
-Had a letter from Mrs. Brown today she is still in Bancroft but is very anxious to come down here and I hope she will this fall yet. 
-
-30 
-you may get very friendly with Mr. Harris, hope he does not inflict him-self on you. 
-Tell me all about your schoo and the town and yourself. I know I don't deserve it but do it any way. I must <unclear/> at least two other letters tonight yet so must leave you. My best love to you my dear. and best wishes too. Alice M. Neihardt
-UNITED STATES POSTAGE 2CENTS2 <figure/> 
-SEP12PM1921
-Miss Mildren Piper 
-809 North Hastings ste 
-Hastings
-Nebraska 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.3.27-30">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Alice Culler Neihardt to Mildred Piper, September 17, 1922</title>
+                <author>Neihardt, Alice Culler</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.3.27-30</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, Alice Culler</author>
+                    <title level="m" type="main">Letter from Alice Culler Neihardt to Mildred Piper</title>
+                    <date when="1922-09-17">September 17, 1922</date>
+                    <extent>4 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>4 hand-written pages</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Neihardt, Alice Culler</term>
+                    <term>Piper, Mildred</term>
+                    <term>Garner</term>
+                    <term>Mitchel, Mrs.</term>
+                    <term>Mitchel, Dr.</term>
+                    <term>Mr. Harris</term>
+                    <term>Petri, Hilda Neihardt</term>
+                    <term>Neihardt, Mona Martinsen</term>
+                    <term>Brown</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Bancroft (Neb.)</term>
+                    <term>Hastings (Neb.)</term>
+                    <term>Kansas City (Mo.)</term>
+                    <term>Carthage (Mo.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Neihardt, Alice Culler</persName>
+                    <placeName></placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Piper, Mildred</persName>
+                    <placeName ref="http://www.geonames.org/5069802">Hastings (Neb.)</placeName>
+                    <date when="1922-09-17"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.j4b.3.27-30"/>
+                <note type="curatorial">27</note>
+                <note type="curatorial">15 Piper Collection</note>
+                
+                <opener>
+                    
+                    <dateline>
+                        Sep. 17-1922
+                    </dateline> 
+                    
+                    <salute>My dear girl-</salute>
+                </opener>
+                
+                <p>Here I come again armed with an apology as usual. - And this time it is the
+                Carnival. We are all head over heels in it. School has started out in fine shape altho not yet in the New building. We had a cornerstone laying, I mean the P.T.a did. It was a very successful affair and we all feel very hapy about it. We were out to Garner's graping last Sunday and I am a miserable wretch again, a dose of ticks, the likes of which I never had before and that it paying something. I am a little more com-fortable tonight. I have a school girl, very nice and quiet and very tidy in her room, (or your room) I like her very much. I wonder how you like your school bud if you have found congenial friends, I hope so</p>
+                
+                <pb facs="nei.j4b.3.27-30"/>
+                <note type="curatorial">28</note>
+                
+                <p>received the package and are grateful to you little girl. The hat found a happy home many thanks for Everything. John starts for the East a week from next Friday, don't know yet if he will be in Hastings. You will know it tho. Mrs. Garner asked about you I told them you had a remembered them in your letter and they were pleased. I forgot to tell you that we are putting the second story on our school house have had a great time raising the money. I made 12 qts peach pickles and four pints of chilli sauce and two pints of catsup this week. Have put down one gallon of <del/> grapes in sugar. And I'm going to make the rest in juice. Have been serving a little for any self made over my old black broad cloth by cutting it down for a jumper and made a waist to wear with, it out of my old <unclear/>. I hope I can make over my winter coat I don't want to get a new one this winter I really can't</p> 
+                
+                <pb facs="nei.j4b.3.27-30"/>
+                <note type="curatorial">29</note>
+                
+                <p>Dr and Mrs. Mitchel are still sitting in their front yard and I have been with them often and often they ask about you, I laughed when I noted that mother had ordered the dresses longer. Altho they looked just all right the way they were, but going to so large a place and filling so important a position it was better to strike a happy medicine to maintain the dignity required of you or rather expected. Alice walks every place. And is so cute. the children like their school. Hilda is going to a superstition kindergarten and is so happy about it. Mona is picking off her wild grapes tonight I have mine all done I should be over there helping her. And will probably go after while.</p> 
+                <p>Had a letter from Mrs. Brown today she is still in Bancroft but is very anxious to come down here and I hope she will this fall yet.</p> 
+                
+                <pb facs="nei.j4b.3.27-30"/>
+                <note type="curatorial">30</note>
+                
+                <p>you may get very friendly with Mr. Harris, hope he does not inflict him-self on you.</p> 
+                <p>Tell me all about your schoo and the town and yourself. I know I don't deserve it but do it any way. I must <unclear/> at least two other letters tonight yet so must leave you. My best love to you my dear. and best wishes too.</p> 
+                <closer><signed>Alice M. Neihardt</signed></closer>
+            </div1>
+            
+            <div1 type="envelope">
+                
+                <ab type="stamp">
+                    UNITED STATES POSTAGE 2CENTS2 <figure/>
+                </ab> 
+                
+                <ab type="postmark">
+                    SEP12PM1921
+                </ab>
+                
+                <ab type="address">
+                    Miss Mildren Piper 
+                    809 North Hastings ste 
+                    Hastings
+                    Nebraska
+                </ab> 
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

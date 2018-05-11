@@ -1,23 +1,194 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Missouri Collection 
-20
-Wayne, Monday A.M. Jan 28.
-Dear Mama: 
-At last I've stopped somewhere and things will begin to stand still soon. 
-Yesterday I wired Mona about an appointment with Smart, and I am planning to have you meet me at Aurora on Feb. 4th or 5th. I had already written Smart asking him to write to me at Omaha. I'll get there next Saturday, and there'll be plenty of time for him to reply. Then I'll wire you in plenty of time. In the meanwhile you'll be ready. 
-I knew at Los Angeles & at Portland that you were especially worried about something. I dreamed both places of you & awoke with an overwhelming source of what your life has been and of your bravery. There was a whole lot more. I saw it all at once & clear as day - the ethos of it, that are too visible in the every humdrum now as to your trouble, I talked with Dr. Long at Tacoma, and he knows a lot, evidently. He told me <del/> that an operation for your trouble is not regarded as an especially serious one. As to cancer, which you fear, he said that people who have a cancer of rapid growth, such as would be the case with you if your fear were <del/> correct, always lose flesh very rapidly. You have not been doing that. As to periodical suffering, that is charactistic of piles in an aggravated stage. The pain comes & goes suddenly. I do not think it's cancer and you should not leap to that conclusion. The symptoms are against it, from what Long told me. Surely a bunch of smaller blood vessels in that place, aggravated by 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-21
-<unclear/> every day, would be sure to give violent pain at times. 
-We will see Smart & have an examination. First, we want to know that it isn't cancer, and I feel pretty certain it is not, in spite of any reasons you may have for believing it is. Then, no doubt, Smart will advise treatment for a time before he operates. If it seems a difficult operation, we won't trust Smart, tho' I have no doubt he's good. We'll have you go to Rochester, Minn. to the Mayor. They do not charge heavily in cases like ours, & you'd be near Lulu & Donald. I sincerely believe this will come out fine; only you must not let terror get a hold on you. Thousands & thousands go through such an operation in a year & came out in good shape. Make up your mind that you'll stay here a long time to see what there will be to see. For there's going to be a good deal to see in the development of my scheme within a few years. It is undoubtedly growing, & my fame has been spreading steadily, in spite of the fact that I have not issued a book for some years. This means a great deal, for in the present wild & cramble writers drop out suddenly unless they keep hitting the public. 
-You must remember that there is a queer strain in us. We exaggerate trouble - always have done so. That surely is true. You must discount your fears as much as possible. 
-Dr. Thurs. House are very very kind to me, as always; but I'm grateful, don't take it for granted at all. I wish it were not necessary to wait a week longer 
-
-22
-<unclear/> 
-for the two engagements; but I feel I must get that extra $100, maybe $125. 
-I'm so eager for the mail today. Perhaps letters were started to me on Saturday in time to reach me today. If not, surely I'll get letters tomorrow. 
-Endless love, 
-Jno. 
-Kindest thought for Mary always. We've talked much of her & I've given her no black eye. 
-
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.7.20-22">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to Alice Culler Neihardt, January 28, 1928</title>
+                <author>Neihardt, John G., 1881-1973.</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.7.20-22</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John G., 1881-1973.</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Alice Culler Neihardt</title>
+                    <date when="1928-01-28">January 28, 1928</date>
+                    <extent>3 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>3 hand-written pages</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Neihardt, Alice Culler</term>
+                    <term>Neihardt, Mona Martinsen</term>
+                    <term>Long, Albert E.</term>
+                    <term>McDonald, Lulu</term>
+                    <term>McDonald, Donald</term>
+                    <term>House, Julius T. (Julius Temple)</term>
+                    <term>Ryskind, Mary House</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Aurora (Neb.)</term>
+                    <term>Omaha (Neb.)</term>
+                    <term>Los Angeles (Calif.)</term>
+                    <term>Portland (Or.)</term>
+                    <term>Tacoma (Wash.)</term>
+                    <term>Rochester (Minn.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <placeName></placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Neihardt, Alice Culler</persName>
+                    <placeName></placeName>
+                    <date when="1928-01-28"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.j4b.7.20-22"/>
+                <note type="curatorial">20</note>
+                <note type="curatorial">
+                    Missouri Collection
+                </note>
+                
+                <opener>
+                    <dateline>
+                        Wayne, Monday A.M. Jan 28.
+                    </dateline>
+                    <salute>Dear Mama:</salute>
+                </opener>
+                
+                <p>At last I've stopped somewhere and things will begin to stand still soon.</p> 
+                <p>Yesterday I wired Mona about an appointment with Smart, and I am planning to have you meet me at Aurora on Feb. 4th or 5th. I had already written Smart asking him to write to me at Omaha. I'll get there next Saturday, and there'll be plenty of time for him to reply. Then I'll wire you in plenty of time. In the meanwhile you'll be ready.</p> 
+                <p>I knew at Los Angeles &amp; at Portland that you were especially worried about
+                    something. I dreamed both places of you &amp; awoke with an overwhelming source
+                    of what your life has been and of your bravery. There was a whole lot more. I
+                    saw it all at once &amp; clear as day - the ethos of it, that are too visible in
+                    the every humdrum now as to your trouble, I talked with Dr. Long at Tacoma, and
+                    he knows a lot, evidently. He told me <del/> that an operation for your trouble
+                    is not regarded as an especially serious one. As to cancer, which you fear, he
+                    said that people who have a cancer of rapid growth, such as would be the case with you if your fear were <del/> correct, always lose flesh very rapidly. You have not been doing that. As to periodical suffering, that is charactistic of piles in an aggravated stage. The pain comes &amp; goes suddenly. I do not think it's cancer and you should not leap to that conclusion. The symptoms are against it, from what Long told me. Surely a bunch of smaller blood vessels in that place, aggravated by</p> 
+                
+                <pb facs="nei.j4b.7.20-22"/>
+                <note type="curatorial">21</note>
+                
+                <p><unclear/> every day, would be sure to give violent pain at times.</p> 
+                <p>We will see Smart &amp; have an examination. First, we want to know that it isn't
+                    cancer, and I feel pretty certain it is not, in spite of any reasons you may
+                    have for believing it is. Then, no doubt, Smart will advise treatment for a time
+                    before he operates. If it seems a difficult operation, we won't trust Smart,
+                    tho' I have no doubt he's good. We'll have you go to Rochester, Minn. to the
+                    Mayor. They do not charge heavily in cases like ours, &amp; you'd be near Lulu
+                    &amp;
+                    Donald. I sincerely believe this will come out fine; only you must not let
+                    terror get a hold on you. Thousands &amp; thousands go through such an operation
+                    in a year &amp; came out in good shape. Make up your mind that you'll stay here
+                    a long time to see what there will be to see. For there's going to be a good
+                    deal to see in the development of my scheme within a few years. It is
+                    undoubtedly growing, &amp; my fame has been spreading steadily, in spite of the
+                    fact that I have not issued a book for some years. This means a great deal, for
+                    in the present wild &amp; cramble writers drop out suddenly unless they keep hitting the public.</p> 
+                <p>You must remember that there is a queer strain in us. We exaggerate trouble - always have done so. That surely is true. You must discount your fears as much as possible.</p> 
+                <p>Dr. Thurs. House are very very kind to me, as always; but I'm grateful, don't take it for granted at all. I wish it were not necessary to wait a week longer</p>
+                
+                <pb facs="nei.j4b.7.20-22"/>
+                <note type="curatorial">22</note>
+                
+                <p><unclear/></p> 
+                <p>for the two engagements; but I feel I must get that extra $100, maybe $125.</p> 
+                <p>I'm so eager for the mail today. Perhaps letters were started to me on Saturday in time to reach me today. If not, surely I'll get letters tomorrow.</p> 
+                <closer><salute>Endless love,</salute> 
+                <signed>Jno.</signed></closer> 
+                <postscript><p>Kindest thought for Mary always. We've talked much of her &amp; I've given her no black eye.</p></postscript> 
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

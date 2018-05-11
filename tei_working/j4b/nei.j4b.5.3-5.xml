@@ -1,39 +1,212 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Missouri Collection 
-3
-WACOS WELCOME TO YOU TYLERS WELCOME TO YOU 
-<figure/> TWO NEW MODERN FIREPROOF HOTELS THE CENTERS OF ALL ACTIVITIES IN THESE PROGRESSIVE CITIES ROBERT EMMETT FELLOW PROPRIETOR AND GENL MANAGER <figure/> 
-THE RALEIGH THE BLACKSTONE 
-WACO, TEXAS TYLER, TEXAS
-SLEEP IN COMFORT AND SAFETY ENJOY THE BEST IT COSTS NO MORE
-[4]
-WACO Jan 4 1923 
-Dear Mama:
-Everything has been going finely with me, and now all I want is to know that you are all happy and in good shape. You will keep up your C.S. and at the same time be sensible in taking care of yourself. We are very foolish not to be happy. I see that so plainly. Everything is in our favor. This is the time to be happy. I know I've been less than myself and that my state of mild upset the whole outfit. I'm keeping in good shape & will not be melancholy when I reach home this time. 
-The judge tells me to <unclear/> you for your fine New Year greeting & to say he'll 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-4
-WACOS WELCOME TO YOU TYLERS WELCOME TO YOU 
-<figure/> TWO NEW MODERN FIREPROOF HOTELS THE CENTERS OF ALL ACTIVITIES IN THESE PROGRESSIVE CITIES ROBERT EMMETT FELLOW PROPRIETOR AND GENL MANAGER <figure/> 
-THE RALEIGH THE BLACKSTONE 
-WACO, TEXAS TYLER, TEXAS
-SLEEP IN COMFORT AND SAFETY ENJOY THE BEST IT COSTS NO MORE
--2- WACO 192
-reply soon. 
-Mama, you'll hav ea fine time corresponding with Mrs. Schoeffelmayer. She says she needs help in C.S. - so new at it. So you can do each other good. 
-The time is coming when I'll take one of you along each time I go to lecture. You'd be having the time of your life on this trip. 
-It's cold as a strumpet's heart even here! (That's not my expression) Have had wonderful response from crowds. In a few. minutes Dr. Armstrong we'll call for me & ride we around Waco. You know this is where Brown, the <unclear/>, loved & was killed will be guest at supper this evening here in the hotel - 
-
-5
-WACOS WELCOME TO YOU TYLERS WELCOME TO YOU 
-<figure/> TWO NEW MODERN FIREPROOF HOTELS THE CENTERS OF ALL ACTIVITIES IN THESE PROGRESSIVE CITIES ROBERT EMMETT FELLOW PROPRIETOR AND GENL MANAGER <figure/> 
-THE RALEIGH THE BLACKSTONE 
-WACO, TEXAS TYLER, TEXAS
-SLEEP IN COMFORT AND SAFETY ENJOY THE BEST IT COSTS NO MORE
--3- WACO 192
-seven or eight professors will be there. It won't hurt me to gabble, as I have no stunt until tomorrow p.m. It's two days & two nights form here to Los Angeles, & I can get local sleepers, getting out at 7:30 each morning. I not paying for the day ride in Pullman. 
-That's bully! 
-You must remember that I love you, Mama, & that I love you, mama, & that my success is yours too. You wanted to live to see me win. Well, I've won, & I'll win a vast amount more in a very few years - even in two. 
-Think how lucky you are as compared with any mother you know & be happy. 
-Lots of love 
-Jno 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.5.3-5">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to Alice Culler Neihardt, January 4, 1924</title>
+                <author>Neihardt, John G., 1881-1973.</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.5.3-5</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John G., 1881-1973.</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Alice Culler Neihardt</title>
+                    <date when="1924-01-04">January 4, 1924</date>
+                    <extent>3 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>3 hand-written pages</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Emmett, Robert</term>
+                    <term>Schaeffelmayer</term>
+                    <term>Neihardt, Alice Culler</term>
+                    <term>Armstrong</term>
+                    <term>Brown</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Waco (Texas)</term>
+                    <term>Tyler (Texas)</term>
+                    <term>Los Angeles (Calif.)</term>
+                    <term>Pullman (Wash.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <placeName ref="http://www.geonames.org/4739526">Waco (Texas)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Neihardt, Alice Culler</persName>
+                    <placeName></placeName>
+                    <date when="1924-01-04"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.j4b.5.3-5"/>
+                <note type="curatorial">3</note>
+                <note type="curatorial">
+                    Missouri Collection
+                </note>
+                
+                <note type="authorial">
+                    WACOS WELCOME TO YOU TYLERS WELCOME TO YOU 
+                    <figure/> TWO NEW MODERN FIREPROOF HOTELS THE CENTERS OF ALL ACTIVITIES IN THESE PROGRESSIVE CITIES ROBERT EMMETT FELLOW PROPRIETOR AND GENL MANAGER <figure/> 
+                    THE RALEIGH THE BLACKSTONE 
+                    WACO, TEXAS TYLER, TEXAS
+                    SLEEP IN COMFORT AND SAFETY ENJOY THE BEST IT COSTS NO MORE
+                </note>
+                
+                <opener>
+                    <dateline>
+                        WACO Jan 4 1923
+                    </dateline>
+                    
+                    <salute>Dear Mama:</salute>
+                </opener>
+                
+<p>Everything has been going finely with me, and now all I want is to know that you are all happy
+    and in good shape. You will keep up your C.S. and at the same time be sensible in taking care of
+    yourself. We are very foolish not to be happy. I see that so plainly. Everything is in our
+    favor. This is the time to be happy. I know I've been less than myself and that my state of mild
+    upset the whole outfit. I'm keeping in good shape &amp; will not be melancholy when I reach home this time.</p>
+                <p>The judge tells me to <unclear/> you for your fine New Year greeting &amp; to say he'll</p> 
+                
+                <pb facs="nei.j4b.5.3-5"/>
+                <note type="curatorial">4</note>
+                <note type="authorial">-2-</note>
+                
+                <note type="authorial">
+                    WACOS WELCOME TO YOU TYLERS WELCOME TO YOU 
+                    <figure/> TWO NEW MODERN FIREPROOF HOTELS THE CENTERS OF ALL ACTIVITIES IN THESE PROGRESSIVE CITIES ROBERT EMMETT FELLOW PROPRIETOR AND GENL MANAGER <figure/> 
+                    THE RALEIGH THE BLACKSTONE 
+                    WACO, TEXAS TYLER, TEXAS
+                    SLEEP IN COMFORT AND SAFETY ENJOY THE BEST IT COSTS NO MORE
+                    
+                    WACO 192
+                </note>
+                
+                <p>reply soon.</p> 
+                <p>Mama, you'll hav ea fine time corresponding with Mrs. Schoeffelmayer. She says she needs help in C.S. - so new at it. So you can do each other good.</p> 
+                <p>The time is coming when I'll take one of you along each time I go to lecture. You'd be having the time of your life on this trip.</p> 
+                <p>It's cold as a strumpet's heart even here! (That's not my expression) Have had
+                    wonderful response from crowds. In a few. minutes Dr. Armstrong we'll call for
+                    me &amp; ride we around Waco. You know this is where Brown, the iconoclast,
+                    lived &amp; was killed will be guest at supper this evening here in the hotel -</p>
+                
+                <pb facs="nei.j4b.5.3-5"/>
+                <note type="curatorial">5</note>
+                <note type="authorial">-3-</note>
+                
+                <note type="authorial">
+                    WACOS WELCOME TO YOU TYLERS WELCOME TO YOU 
+                    <figure/> TWO NEW MODERN FIREPROOF HOTELS THE CENTERS OF ALL ACTIVITIES IN THESE PROGRESSIVE CITIES ROBERT EMMETT FELLOW PROPRIETOR AND GENL MANAGER <figure/> 
+                    THE RALEIGH THE BLACKSTONE 
+                    WACO, TEXAS TYLER, TEXAS
+                    SLEEP IN COMFORT AND SAFETY ENJOY THE BEST IT COSTS NO MORE
+                    
+                    WACO 192
+                </note>
+                
+                <p>seven or eight professors will be there. It won't hurt me to gabble, as I have no
+                    stunt until tomorrow p.m. It's two days &amp; two nights form here to Los
+                    Angeles, &amp; I can get local sleepers, getting out at 7:30 each morning. I not paying for the day ride in Pullman.</p> 
+                <p>That's bully!</p> 
+                <p>You must remember that I love you, Mama, &amp; that I love you, mama, &amp; that
+                    my success is yours too. You wanted to live to see me win. Well, I've won, &amp; I'll win a vast amount more in a very few years - even in two.</p> 
+                <p>Think how lucky you are as compared with any mother you know &amp; be happy.</p> 
+                
+                <closer>
+                    <salute>Lots of love</salute> 
+                    <signed>Jno</signed>
+                </closer> 
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

@@ -1,19 +1,171 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Missouri Collection 
-TELEPHONE BRYANT 7100
-53
-OPERATED BY 
-CADILLAC HOTEL CORP. 
-ROBERT E. ADOLPH, PRES. 
-WH. E. WOODMAN, MOR. 
-<figure/> 
-HOTEL CADILLAC
-Broadway and 43rd Street, New York
-Nov. 12 23
-Dear Mama:-
-I want to see Grace awfully, and will go there if I can see my way at all. Bethlehem is in the extreme last of the state. I could get a train from Philadelphia, which is near, straight to St. Louis. Buffalo is pretty far north and out of the way a good deal. Maybe long will have something new to report at Bethlehem. I wish he'd have two $100 engagements up Grace's way!! Or just one! 
-I'm glad you're all getting on well. It will be fine to look at you again 
-Lots of love, 
-Jno. 
-I wrote news to Mona just now. I can't distribute letters equally, but I never write without thinking of all of you together 
-<unclear/> thoughts for Mary. 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.4.53">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to Alice Culler Neihardt, November 12, 1923</title>
+                <author>Neihardt, John G., 1881-1973.</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.4.53</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John G., 1881-1973.</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Alice Culler Neihardt</title>
+                    <date when="1923-11-12">November 12, 1923</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 hand-written page</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Neihardt, Alice Culler</term>
+                    <term>Adolph, Robert E.</term>
+                    <term>Woodman, WH. E.</term>
+                    <term>Neihardt-Ballinger, Grace</term>
+                    <term>Neihardt, Mona Martinsen</term>
+                    <term>Ryskind, Mary House</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>New York City (N.Y.)</term>
+                    <term>Bethlehem (Penn.)</term>
+                    <term>Philadelphia (Penn.)</term>
+                    <term>St. Louis (Mo.)</term>
+                    <term>Buffalo (N.Y.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York City (N.Y.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Neihardt, Alice Culler</persName>
+                    <placeName></placeName>
+                    <date when="1923-11-12"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.j4b.4.53"/>
+                <note type="curatorial">53</note>
+                <note type="curatorial">Missouri Collection</note>
+                
+                <opener>
+                    <fw type="authorial">
+                        TELEPHONE BRYANT 7100
+                        53
+                        OPERATED BY 
+                        CADILLAC HOTEL CORP. 
+                        ROBERT E. ADOLPH, PRES. 
+                        WH. E. WOODMAN, MOR. 
+                        <figure/> 
+                        HOTEL CADILLAC
+                        Broadway and 43rd Street, New York
+                    </fw>
+                    
+                    <dateline>
+                        Nov. 12 23
+                    </dateline>
+                    
+                    <salute>Dear Mama:-</salute>
+                </opener>
+                
+                <p>I want to see Grace awfully, and will go there if I can see my way at all. Bethlehem is in the extreme last of the state. I could get a train from Philadelphia, which is near, straight to St. Louis. Buffalo is pretty far north and out of the way a good deal. Maybe long will have something new to report at Bethlehem. I wish he'd have two $100 engagements up Grace's way!! Or just one!</p> 
+                <p>I'm glad you're all getting on well. It will be fine to look at you again</p> 
+                
+                <closer>
+                    <salute>Lots of love,</salute>
+                    <signed>Jno.</signed> 
+                </closer> 
+                
+                <postscript><p>I wrote news to Mona just now. I can't distribute letters equally, but I never write without thinking of all of you together 
+                <unclear/> thoughts for Mary.</p></postscript> 
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

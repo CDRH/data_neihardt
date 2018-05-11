@@ -1,14 +1,159 @@
 <?xml version="1.0" encoding="UTF-8"?>
-33
-19 McDonald Collection 
-Branson, Mo., June 26, '25.
-Dear Lulu:-
-Thanks for your letter about the Wars. I'll be glad to know how the whole thing strikes each one of you after you have had time to read and form an opinion. In the meanwhile, it's good to know that all of you are really interested in the book. 
-Lulu, you must not bank too much on the idea of my winning the Pulitzer Prize. there is always a deal of politics in those decisions, and you must remember that I'm not socially connect^ed in New York. That is a Columbia University award, and the West is not likely to be favored, if there is any possibility whatever of favoring the East. I received the Poetry Society award against the will of the judges - which was a good joke. They voted on the point system, and mine was the only book upon which they could to any extent agree. The competing books are now forgotten, and my book goes steadily on, gaining yearly. They don't know, in the first place; and in the second place, they are provincial-minded. The East is truly provincial-not the West. It does not matter ^except as advertising. I have another chance next year with my Collected Poems.
-I am getting near the end of my prose book, MORE TRUTH THAN POETRY- which I sometimes think may be by far my most important thing, though I cna not tell, of course. i shall have the MS ready to send to Macmillans next month. 
-The Wars is now being submitted to Lasky. Gosh, I do hope Lasky may not be blind! 
-Lots of love to each of the four. 
-Jno. 
-I want to know particularly how big Donald really feels about the book. I want men like him to care <unclear/> it, if 
-it is deserving. 
-Of course I want to win the Prize. 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.6.33">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to Lulu McDonald, June 26, 1924</title>
+                <author>Neihardt, John G., 1881-1973.</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.6.33</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John G., 1881-1973.</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Lulu McDonald</title>
+                    <date when="1925-06-26">June 26, 1924</date>
+                    <extent>2 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 hand-written pages</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>McDonald, Lulu</term>
+                    <term>McDonald, Donald</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Branson (Mo.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term>Collected poems of John G. Neihardt</term>
+                    <term>The Song of the Indian Wars</term>
+                    <term>More Truth Than Poetry</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>McDonald, Lulu</persName>
+                    <placeName></placeName>
+                    <date when="1925-06-26"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.j4b.6.33"/>
+                <note type="curatorial">33</note>
+                <note type="curatorial">
+                    19 McDonald Collection 
+                </note>
+                
+                <opener>
+                    
+                    <dateline>
+                        Branson, Mo., June 26, '25.
+                    </dateline>
+                    
+                    <salute>Dear Lulu:-</salute>
+                </opener>
+                
+                <p>Thanks for your letter about the Wars. I'll be glad to know how the whole thing strikes each one of you after you have had time to read and form an opinion. In the meanwhile, it's good to know that all of you are really interested in the book.</p> 
+                <p>Lulu, you must not bank too much on the idea of my winning the Pulitzer Prize. there is always a deal of politics in those decisions, and you must remember that I'm not socially connect^ed in New York. That is a Columbia University award, and the West is not likely to be favored, if there is any possibility whatever of favoring the East. I received the Poetry Society award against the will of the judges - which was a good joke. They voted on the point system, and mine was the only book upon which they could to any extent agree. The competing books are now forgotten, and my book goes steadily on, gaining yearly. They don't know, in the first place; and in the second place, they are provincial-minded. The East is truly provincial-not the West. It does not matter ^except as advertising. I have another chance next year with my Collected Poems.</p>
+                <p>I am getting near the end of my prose book, MORE TRUTH THAN POETRY- which I sometimes think may be by far my most important thing, though I cna not tell, of course. i shall have the MS ready to send to Macmillans next month.</p> 
+                <p>The Wars is now being submitted to Lasky. Gosh, I do hope Lasky may not be blind!</p> 
+
+                <closer>
+                    <salute>Lots of love to each of the four.</salute> 
+                    <signed>Jno.</signed>
+                </closer>
+                
+                    <postscript><p>I want to know particularly how big Donald really feels about the book. I want men like him to care <unclear/> it, if 
+                    it is deserving. 
+                    Of course I want to win the Prize.</p></postscript> 
+ 
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

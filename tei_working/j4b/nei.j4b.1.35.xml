@@ -1,20 +1,170 @@
 <?xml version="1.0" encoding="UTF-8"?>
-8 Mc Donald Collection 35 
-Jan 3 '17 [1918]
-Dear Folks: -
-I'm just now getting around to my xmas letters, having had a number of things to keep me jumping. I needed ties and socks - and got them! Had practically everything else for my Western Trip, and I hate to buy good ties - they cost so like it-!! The one you sent, Donald, <del/> is a dinger, and I'll wear it with pride on The Coast. Many many thanks.
-The Paper & envelopes were intended for house use - a general gift. 
-I've got the following engagements for lectures and readings:
-Wesleyan University, Jan 16th
-Hastings College, Jan 18th
-Wyoming University, Feb 18th
-Stanford University, Feb 26th
-University of California, Feb 28th 
-Chadron State <unclear/>, March 15th
-I expect to have two other dates beside these. 
-Expect to leave for California on Feb 16th and be back here March 17th. Will go by the Southern Route (through Santa Fe) and back through Portland, Seattle & Butte to Chadron. David Starr Jordan wants me to, stay with him while I'm at Stanford, & I'll be with JOhn <unclear/> "Howard at Berkeley. It's a big thing for me. Will help in a financial way, give me a knowledge of the next that I need, & is worth a great deal as advertising. 
-Have 1900 lives on "The Song of Three Friends". You will like it better than the other, donald it's a real he story for men-folks! 
-Everybody well here. Hilda is an angel fairy wub. God! how she eats - and walks & says long unintelligible sentences, with here & there a really truly word. 
-affectionately, 
-Jno 
-Tell the Boys "hello" for Uncle John. 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.1.35">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to Lulu McDonald and Donald McDonald, January 3, 1917</title>
+                <author>Neihardt, John G., 1881-1973.</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.1.35</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John G., 1881-1973.</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Lulu McDonald and Donald McDonald</title>
+                    <date when="1917-01-03">January 3, 1917</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written pages</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>McDonald, Lulu</term>
+                    <term>McDonald, Donald</term>
+                    <term>Jordan, David Starr, 1851-1931</term>
+                    <term>Howard, John Galen, 1864-1931</term>
+                    <term>Petri, Hilda Neihardt</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>California</term>
+                    <term>Santa Fe (N.M.)</term>
+                    <term>Portland (Or.)</term>
+                    <term>Seattle (Wash.)</term>
+                    <term>Butte (Mont.)</term>
+                    <term>Chadron (Neb.)</term>
+                    <term>Stanford (Calif.)</term>
+                    <term>Berkeley (Calif.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term>The Song of Three Friends</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>McDonald, Lulu</persName>
+                    <persName>McDonald, Donald</persName>
+                    <date when="1917-01-03"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.j4b.1.35"/>
+                <note type="curatorial">35</note>
+                
+                <opener>
+                    <fw type="authorial">
+                        8 McDonald Collection
+                    </fw> 
+                    
+                    <dateline>
+                        Jan 3 '17 [1918]
+                    </dateline>
+                    
+                    <salute>
+                        Dear Folks: -
+                    </salute>
+                </opener>
+                
+                <p>I'm just now getting around to my xmas letters, having had a number of things to keep me jumping. I needed ties and socks - and got them! Had practically everything else for my Western Trip, and I hate to buy good ties - they cost so like it-!! The one you sent, Donald, <del/> is a dinger, and I'll wear it with pride on The Coast. Many many thanks. The Paper &amp; envelopes were intended for house use - a general gift.</p> 
+                <p>I've got the following engagements for lectures and readings:</p>
+                <p>Wesleyan University, Jan 16th</p>
+                <p>Hastings College, Jan 18th</p>
+                <p>Wyoming University, Feb 18th</p>
+                <p>Stanford University, Feb 26th</p>
+                <p>University of California, Feb 28th</p> 
+                <p>Chadron State Normal, March 15th</p>
+                <p>I expect to have two other dates beside these.</p> 
+                <p>Expect to leave for California on Feb 16th and be back here March 17th. Will go by the Southern Route (through Santa Fe) and back through Portland, Seattle &amp; Butte to Chadron. David Starr Jordan wants me to, stay with him while I'm at Stanford, &amp; I'll be with John Galen Howard at Berkeley. It's a big thing for me. Will help in a financial way, give me a knowledge of the next that I need, &amp; is worth a great deal as advertising.  Have 1900 lives on "The Song of Three Friends". You will like it better than the other, donald it's a real he story for men-folks! Everybody well here. Hilda is an angel fairy wub. God! how she eats - and walks &amp; says long unintelligible sentences, with here &amp; there a really truly word.</p> 
+                
+                <salute>affectionately,</salute>
+                <signed>Jno</signed> 
+                
+                <postscript><p>Tell the Boys "hello" for Uncle John.</p></postscript>
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

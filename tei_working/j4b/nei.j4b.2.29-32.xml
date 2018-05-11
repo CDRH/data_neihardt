@@ -1,31 +1,189 @@
 <?xml version="1.0" encoding="UTF-8"?>
-29 
-8
-Piper Collection 
-November 1st 21 
-Branson, Mo. 
-<del>28,29,30,31</del>
-Dear Miss Piper: 
-The beautiful, dainty gift you sent little Alice surely was welcome and made me see you so vividly! Mother exclaimed "Just like Miss Piper." and indeed it was! 
-Now you do not know how often I think 
-of you and how many times mother and I wish for you to be here. 
-Mr Neihardt has gone to California and while he is away the children sit around our little dining room table and color with crayons by the hour, while I try to an-
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-30
-swer some of my much neglected friends letters. Alice sleeps and laughs and "goo-goos" at us and I do wish you could see her! Daddy calls her his little Princess Blue-Eyes-and all the children are so sweet with her. I feel it is quite a good experience for them. especially for Sigurd who is as nice with her so can be. 
-Mother is working into the commu-nity here in just the right way. she is President of the Parent's teachers association in town. and we are looking to her for all manner of improvements-and our school really needs improvements. I ahve not held my violin in my hand once <unclear/> I left Bancroft-yet I feel I shall soon do so again, but - I'll never find a miss Piper 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.2.29-32">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Mona Martinsen Neihardt to Mildred Piper, November 1, 1921</title>
+                <author>Neihardt, Alice Culler</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.2.29-32</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, Alice Culler</author>
+                    <title level="m" type="main">Letter from Mona Martinsen Neihardt to Mildred Piper</title>
+                    <date when="1921-11-01">November 1, 1921</date>
+                    <extent>4 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>4 hand-written pages</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Neihardt, Alice Culler</term>
+                    <term>Piper, Mildred</term>
+                    <term>Neihardt, Mona Martinsen</term>
+                    <term>Neihardt, Alice</term>
+                    <term>Neihardt, Sigurd</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Lyons (Neb.)</term>
+                    <term>Branson (Mo.)</term>
+                    <term>California</term>
+                    <term>Bancroft (Neb.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Neihardt, Mona Martinsen</persName>
+                    <placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Piper, Mildred</persName>
+                    <placeName ref="http://www.geonames.org/5072499">Lyons (Neb.)</placeName>
+                    <date when="1921-11-01"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.j4b.2.29-32"/>
+                <note type="curatorial">29</note>
+                <note type="curatorial">8 Piper Collection</note>
+                
+                <opener>
+                    
+                    <dateline>
+                        November 1st 21 
+                        Branson, Mo. 
+                    </dateline>
+                    
+                    <salute>Dear Miss Piper:</salute>
+                    
+                </opener>
+                
+                <p>The beautiful, dainty gift you sent little Alice surely was welcome and made me see you so vividly! Mother exclaimed "Just like Miss Piper." and indeed it was!</p> 
+                <p>Now you do not know how often I think 
+                of you and how many times mother and I wish for you to be here.</p> 
+                <p>Mr Neihardt has gone to California and while he is away the children sit around our little dining room table and color with crayons by the hour, while I try to an-</p>
+                
+                <pb facs="nei.j4b.2.29-32"/>
+                <note type="curatorial">30</note>
+                
+                <p>swer some of my much neglected friends letters. Alice sleeps and laughs and "goo-goos" at us and I do wish you could see her! Daddy calls her his little Princess Blue-Eyes-and all the children are so sweet with her. I feel it is quite a good experience for them. especially for Sigurd who is as nice with her so can be.</p> 
+                <p>Mother is working into the commu-nity here in just the right way. she is President of the Parent's teachers association in town. and we are looking to her for all manner of improvements-and our school really needs improvements. I ahve not held my violin in my hand once <unclear/> I left Bancroft-yet I feel I shall soon do so again, but - I'll never find a miss Piper</p> 
+                
+                <pb facs="nei.j4b.2.29-32"/>
+                <note type="curatorial">31</note>
+                
+                <p>to help me out agian, I know that!</p> 
+                <p>The kills are covered with beautiful yellows and bronzer, and I have a real Japanese painting so marvel at every morning from my bedroom window, an ever changing scene that break away shiny I know of our canvas!</p> 
+                <p>Please write me when</p> 
+                
+                <pb facs="nei.j4b.2.29-32"/>
+                <note type="curatorial">31</note>
+                
+                <p>you feel like it. I am so glad that you like your work this year.</p> 
 
-31
-to help me out agian, I know that! 
-The kills are covered with beautiful yellows and bronzer, and I have a real Japanese painting so marvel at every morning from my bedroom window, an ever changing scene that break away shiny I know of our canvas! 
-Please write me when 
-
-32
-you feel like it. I am so glad that you like your work this year. 
-Ever cordially,
-Mona Neihardt. 
-2CENTS2 <figure/> U.S. POSTAGE 
-BRANSON NOV 2 <unclear/>
-Miss Mildred Piper. 
-Lyons. 
-Nebraska. 
+                <closer>
+                    <salute>Ever cordially,</salute>
+                    <signed>Mona Neihardt.</signed>
+                </closer> 
+                
+                <fw>
+                    2CENTS2 <figure/> U.S. POSTAGE 
+                    BRANSON NOV 2 <unclear/>
+                </fw>
+                
+                <fw>
+                    Miss Mildred Piper. 
+                    Lyons. 
+                    Nebraska.
+                </fw>
+                
+            </div1>
+            
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

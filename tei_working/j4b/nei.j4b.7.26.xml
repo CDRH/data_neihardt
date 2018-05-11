@@ -1,10 +1,153 @@
 <?xml version="1.0" encoding="UTF-8"?>
-26
-Missouri Collection 
-EDITORIAL DEPARTMENT ST. LOUIS POST-DISPATCH 
-ST. LOUIS, MO
-Aug. 28, '28. 
-Dear Mama:
-[Branson, Mo.]
-I have been thinking of you and Lulu and Donald Jr. there together, and I've been glad about it. What a pity that we could not have been there to swim with Donald! I hope he found out nice little swimming hole. The radio should have reached you today at the latest, and I suppose Donald will put it up. Let me know if you received a charger with the set, and everything else necessary. They were having trouble finding a charger, but said they would send the outfit Monday, even though they had not yet found a charger, which would then come later. 
-I bought 50 shares of Transcontinental Air Transport (Curb Market) yesterday at 23 5/8 and it went up two points 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.7.26">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from to John G. Neihardt to Alice Culler Neihardt, August 28, 1928</title>
+                <author>Neihardt, John G., 1881-1973.</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.7.26</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John G., 1881-1973.</author>
+                    <title level="m" type="main">Letter from to John G. Neihardt to Alice Culler Neihardt</title>
+                    <date when="1928-08-28">August 28, 1928</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 hand-written page</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Neihardt, Alice Culler</term>
+                    <term>McDonald, Lulu</term>
+                    <term>McDonald, Donald Jr.</term>
+                    <term>McDonald, Donald</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Branson (Mo.)</term>
+                    <term>St. Louis (Mo.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <placeName ref="http://www.geonames.org/4407066">St. Louis (Mo.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Neihardt, Alice Culler</persName>
+                    <placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+                    <date when="1928-08-28"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.j4b.7.26"/>
+                <note type="curatorial">26</note>
+                <note type="curatorial">Missouri Collection</note>
+                
+                <fw type="authorial">
+                    EDITORIAL DEPARTMENT ST. LOUIS POST-DISPATCH 
+                    ST. LOUIS, MO
+                </fw>
+                
+                <opener>
+                    <dateline>
+                        Aug. 28, '28.
+                    </dateline>
+                    <salute>
+                    Dear Mama:
+                    </salute> 
+                    <dateline>[Branson, Mo.]</dateline>
+                </opener>
+                
+                <p>I have been thinking of you and Lulu and Donald Jr. there together, and I've been glad about it. What a pity that we could not have been there to swim with Donald! I hope he found out nice little swimming hole. The radio should have reached you today at the latest, and I suppose Donald will put it up. Let me know if you received a charger with the set, and everything else necessary. They were having trouble finding a charger, but said they would send the outfit Monday, even though they had not yet found a charger, which would then come later.</p> 
+                <p>I bought 50 shares of Transcontinental Air Transport (Curb Market) yesterday at 23 5/8 and it went up two points</p> 
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

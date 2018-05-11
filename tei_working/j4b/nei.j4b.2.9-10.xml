@@ -1,19 +1,161 @@
 <?xml version="1.0" encoding="UTF-8"?>
-9
-Branson Missouri 5 
-December 29th 20
-Piper Collection 
-Dear Miss Piper: 
-you have played Santa Clause again for our babies and it is hard to tell you in a few written words how love-ly I think it was of you to do so and how undeserved I feel your kindness has been, although I do not mean unappreciated. 
-We feel very happy in our new surroundings. Save the home and the glorious crew! The mild weather! The dear little Jersey and the cream! and many other things we knew nothing of in Nebraska. 
-The Children are in love with things here-the people are so kind - our neighbors refined good people - the school is as good as up north, although there is better discipline down here. The School Building altogether soo small but this will change <unclear/>. We have electric lights! Now does gas sound as good to you as it does to me?! 
-I am so happy that Mother is with us - Indeed I doubt
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-10
-what I would have done without her! 
-She has lovely plans for a home and expects to build on 2 Acres right beside our 2 Acres.
-how this is a <unclear/> sort of letter, but it carries you much love and the best of wishes for the New Year - and the hope that you will surely visit us before another Xmas comes our way - 
-Ever cordially 
-Mona Neihardt. 
-P.S. Dr Neihardt leaves Sunday for his lecture try north. He lectures at Blair, January 4th, goes all through South Dakota, and way out West around Spokane. 
-m.n.
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.2.9-10">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Mona Martinsen Neihardt to Mildred Piper, December 29, 1920</title>
+                <author>Neihardt, Mona Martinsen</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.2.9-10</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, Mona Martinsen</author>
+                    <title level="m" type="main">Letter from Alice Culler Neihardt to Mildred Piper</title>
+                    <date when="1920-12-29">December 29, 1920</date>
+                    <extent>2 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 hand-written pages</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Neihardt, Mona Martinsen</term>
+                    <term>Piper, Mildred</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Blair (Neb.)</term>
+                    <term>South Dakota</term>
+                    <term>Nebraska</term>
+                    <term>Spokane (Wash.)</term>
+                    <term>Bancroft (Neb.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Neihardt, Mona Martinsen</persName>
+                    <placeName ref="http://www.geonames.org/5063451">Bancroft (Neb.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Piper, Mildred</persName>
+                    <placeName ref="http://www.geonames.org/5072499">Lyons (Neb.)</placeName>
+                    <date when="1920-12-29"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.j4b.2.9-10"/>
+                <note type="curatorial">9</note>
+                <note type="curatorial">Branson Missouri 5</note>
+                <note type="curatorial">Piper Collection</note>
+                
+                <opener>
+                    
+                    <dateline>
+                        December 29th 20
+                    </dateline>
+                    
+                    <salute>Dear Miss Piper:</salute>
+                    
+                </opener>
+                
+                <p>you have played Santa Clause again for our babies and it is hard to tell you in a few written words how love-ly I think it was of you to do so and how undeserved I feel your kindness has been, although I do not mean unappreciated.</p> 
+                <p>We feel very happy in our new surroundings. Save the home and the glorious crew! The mild weather! The dear little Jersey and the cream! and many other things we knew nothing of in Nebraska.</p> 
+                <p>The Children are in love with things here-the people are so kind - our neighbors refined good people - the school is as good as up north, although there is better discipline down here. The School Building altogether soo small but this will change <unclear/>. We have electric lights! Now does gas sound as good to you as it does to me?!</p> 
+                <p>I am so happy that Mother is with us - Indeed I doubt</p>
+                
+                <pb facs="nei.j4b.2.9-10"/>
+                <note type="curatorial">10</note>
+                
+                <p>what I would have done without her!</p> 
+                <p>She has lovely plans for a home and expects to build on 2 Acres right beside our 2 Acres.</p>
+                <p>how this is a <unclear/> sort of letter, but it carries you much love and the best of wishes for the New Year - and the hope that you will surely visit us before another Xmas comes our way -</p> 
+                <salute>Ever cordially</salute> 
+                <signed>Mona Neihardt.</signed> 
+                <postscript><p>P.S. Dr Neihardt leaves Sunday for his lecture try north. He lectures at Blair, January 4th, goes all through South Dakota, and way out West around Spokane.</p></postscript>
+                <signed>m.n.</signed>
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

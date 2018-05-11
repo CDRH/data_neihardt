@@ -1,19 +1,180 @@
 <?xml version="1.0" encoding="UTF-8"?>
-12-Piper Collection 1,<del>1,2</del>
-# 145 Branson 
-26 17 15 58 
-UNITED STATES POSTAGE <figure/> 2CENTS2
-1921 MO. 
-Miss Mildred Piper 
-1921 West 7th St
-Soo City 
-Iowa. 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-2
-my dear little girl you will wonder what has happened that I could neglect you so long. Yell Lee tell you. The week you left I got into that renovating process at the school house and four women of us stained shellacked and <unclear/> 150 seats, and the stain which is very volatile just betook its self into-one and I have been so sick since. I got up each morning and did my stunt at the desks and <unclear/> ^to bed in the afternoon. I think I had painter's colic I still have cramps but can eat a little have been living on milk principally. An so sorry to keep you waiting for the fetus. I have been swimming least twice since you left 
-
-3
-now we all did miss you. and how we all did enjoy you while you were here. aside from my sickness and lack of swing things are going about the same and I suppose will. We are very busy getting the programme really for the laying of the corner stone. of our new school house, the seats look fine a lot of better than I do since the operation. I am in such a hurry this morning but will surely write you soon again
-Much love my dear little girl 
-Alice M. Neihardt 
-I would suggest that you just leave a place in the diary for me to put my pictures in 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.3.1-3">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Alice Culler Neihardt to Mildred Piper, 1921</title>
+                <author>Neihardt, Alice Culler</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.3.1-3</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, Alice Culler</author>
+                    <title level="m" type="main">Letter from Alice Culler Neihardt to Mildred Piper</title>
+                    <date when="1921">1921</date>
+                    <extent>3 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>3 hand-written pages</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Piper, Mildred</term>
+                    <term>Neihardt, Alice Culler</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Branson (Mo.)</term>
+                    <term>Sioux City (Iowa)</term>
+                    <term>Butte (Mont.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term>Omaha Daily News</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Neihardt, Alice Culler</persName>
+                    <placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Piper, Mildred</persName>
+                    <placeName ref="http://www.geonames.org/4876523">Sioux City (Iowa)</placeName>
+                    <date when="1921"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="envelope">
+                <pb facs="nei.j4b.3.1-3"/>
+                <note type="curatorial">1</note>
+                <note type="curatorial">12-Piper Collection</note>
+                
+                <note type="authorial">
+                    # 145 Branson 
+                    26 17 15 58 
+                </note>
+                
+                <ab type="postmark">
+                    1921 MO.
+                </ab> 
+                
+                <ab type="stamp">
+                    UNITED STATES POSTAGE <figure/> 2CENTS2
+                </ab>
+                
+                <ab type="address">
+                    Miss Mildred Piper 
+                    1921 West 7th St
+                    Soo City 
+                    Iowa. 
+                </ab> 
+                
+            </div1>
+            
+            <div1 type="letter">
+                <pb facs="nei.j4b.3.1-3"/>
+                <note type="curatorial">2</note>
+                
+                <opener>
+                    
+                    <salute>My Dear girl-</salute>
+                </opener>
+                
+                <p>my dear little girl you will wonder what has happened that I could neglect you so
+                    long. I'll tell you. The week you left I got into that renovating process at the
+                    school house and four women of us stained shellacked and varnished 150 seats, and the stain which is very volatile just betook its self into-one and I have been so sick since. I got up each morning and did my stunt at the desks and <unclear/> ^to bed in the afternoon. I think I had painter's colic I still have cramps but can eat a little have been living on milk principally. An so sorry to keep you waiting for the fetus. I have been swimming least twice since you left</p> 
+                
+                <pb facs="nei.j4b.3.1-3"/>
+                <note type="curatorial">3</note>
+                
+                <p>now we all did miss you. and how we all did enjoy you while you were here. aside from my sickness and lack of swing things are going about the same and I suppose will. We are very busy getting the programme really for the laying of the corner stone. of our new school house, the seats look fine a lot of better than I do since the operation. I am in such a hurry this morning but will surely write you soon again</p>
+                <closer>
+                    <salute>Much love my dear little girl</salute> 
+                    <signed>Alice M. Neihardt</signed>
+                </closer>
+                
+                <postscript><p>I would suggest that you just leave a place in the diary for me to put my pictures in</p></postscript> 
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

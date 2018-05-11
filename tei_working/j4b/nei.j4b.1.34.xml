@@ -1,12 +1,161 @@
 <?xml version="1.0" encoding="UTF-8"?>
-7 Mc Donald Collection 34
-Nov 1st '16.
-Dear Lulu: - 
-Indeed I was not offended and am very glad to have the things you sent. They can be used to good advantage. I've been pretty rushed since receiving the package, which explains my delay in acknowledging it many thanks. 
-I'm glad <unclear/> prizes his books. I'll have to remember Donald with books too. 
-That was a fine bit of cussing Donald pulled off! Didn't his dad think it was a pretty fair performance for the age? 
-Things are going finely here. 
-I'll have four places to read at '75 an evening & about ten at 50 each Ought to get out of debt this winter. The first two months ' sales of "Hugh Glass" buys my winter's <unclear/> - not so bad! 
-"Three Friends" is booming along finely. With much affection for you & Donald sr. and the two young <unclear/>, 
-Jno 
-"The Guest" will be out very soon now. Mona is in fine health. She looks as tho' she had been eating something, I tell her! 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.1.34">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to Lulu McDonald, November 1, 1916</title>
+                <author>Neihardt, John G., 1881-1973.</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.1.34</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John G., 1881-1973.</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Lulu McDonald</title>
+                    <date when="1916-11-01">November 1, 1916</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written pages</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>McDonald, Lulu</term>
+                    <term>Neil</term>
+                    <term>McDonald, Donald</term>
+                    <term>Neihardt, Mona Martinsen</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term>The Song of Hugh Glass</term>
+                    <term>The Song of Three Friends</term>
+                    <term>The Quest</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>McDonald, Lulu</persName>
+                    <date when="1916-11-01"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.j4b.1.34"/>
+                <note type="curatorial">34</note>
+                
+                <opener>
+                    <fw type="authorial">
+                        7 McDonald Collection
+                    </fw> 
+                    
+                    <dateline>
+                        Nov 1st '16.
+                    </dateline>
+                    
+                    <salute>
+                        Dear Lulu: -
+                    </salute>
+                </opener>
+                
+                <p>Indeed I was not offended and am very glad to have the things you sent. They can be used to good advantage. I've been pretty rushed since receiving the package, which explains my delay in acknowledging it many thanks.</p> 
+                <p>I'm glad Neil prizes his books. I'll have to remember Donald with books too.</p> 
+                <p>That was a fine bit of cussing Donald pulled off! Didn't his dad think it was a pretty fair performance for the age?</p> 
+                <p>Things are going finely here.</p> 
+                <p>I'll have four places to read at '75 an evening &amp; about ten at 50 each Ought
+                    to get out of debt this winter. The first two months ' sales of "Hugh Glass"
+                    buys my winter's goal - not so bad!</p> 
+                <p>"Three Friends" is booming along finely. With much affection for you &amp; Donald
+                    sr. and the two young kids,</p> 
+
+                <signed>Jno</signed> 
+                
+                <postscript><p>"The Guest" will be out very soon now. Mona is in fine health. She looks as tho' she had been eating something, I tell her!</p></postscript>
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

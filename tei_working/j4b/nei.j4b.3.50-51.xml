@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.3.50-51">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Enid Neihardt to Mildred Piper, December 31, 1922</title>
+                <author>Neihardt, Enid</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.3.50-51</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, Enid</author>
+                    <title level="m" type="main">Letter from Enid Neihardt to Mildred Piper</title>
+                    <date when="1922-12-31">December 31, 1922</date>
+                    <extent>2 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 hand-written pages</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Neihardt, Enid</term>
+                    <term>Neihardt, Mona Martinsen</term>
+                    <term>Neihardt, Alice Culler</term>
+                    <term>Piper, Mildred</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Branson (Mo.)</term>
+                    <term>Minneapolis (Minn.)</term>
+                    <term>Grinnell (Iowa)</term>
+                    <term>Hastings (Neb.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Neihardt, Enid</persName>
+                    <placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Piper, Mildred</persName>
+                    <placeName ref="http://www.geonames.org/5069802">Hastings (Neb.)</placeName>
+                    <date when="1922-12-31"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.j4b.3.50-51"/>
+                <note type="curatorial">50</note>
+                <note type="curatorial">Piper Collections</note>
+                
+                <opener>
+                    
+                    <dateline>
+                        Branson Missouri Dec. 31st 1922
+                    </dateline> 
+                    
+                    <salute>Dear Miss Piper:</salute>
+                </opener>
+                
+                <p>I am thanking you for those nice little animals you sent us. They looked so cute, and tasted so good
+                we ate them in a minute. The weather is real wet now because it is raining. We have had two or three rains but no snow. Grandma has gone on a trip, She is at Minneapolis now, But she is going to Grinnell Iowa to get our Great Grandma She is going to bring her home with her to live with us.</p> 
+                <p>They had a xmas tree down town, and all the children under twelve years old got a sack of candy with an apple and orange in it. We also had one here at home.</p> 
+                
+                <pb facs="nei.j4b.3.50-51"/>
+                <note type="curatorial">51</note>
+                
+                <p>I meant a xmas tree here at home.</p> 
+                <p>I got a sleepy doll and lots of other things.</p> 
+                <closer>
+                    <salute>Lots of love</salute>
+                    <signed>Enid</signed>
+                </closer> 
+                <postscript><p>P.S. 
+                mama said the package you sent for Grandma got here all right &amp; said she would write you soon.</p></postscript>
+                
+            </div1>
+            
+            <div1 type="envelope">
+                
+                <ab type="return">
+                    Return to Box 145
+                    Branson Mo
+                </ab>
+                
+                <ab type="stamp">
+                    DEC 51 U.S.POSTAGE <figure/> 2CENTS2 
+                </ab> 
+
+                <ab type="address">
+                    Miss Mildred Piper 
+                    809 North Hastings Ave. 
+                    Hastings 
+                    Nebraska
+                </ab> 
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

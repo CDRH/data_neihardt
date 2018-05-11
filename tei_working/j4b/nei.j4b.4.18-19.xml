@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.4.18-19">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Sigurd Neihardt to John G. Neihardt, January 26, 1923</title>
+                <author>Neihardt, Sigurd</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.4.18-19</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note>The last page is photocopied onto the first page</note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, Sigurd</author>
+                    <title level="m" type="main">Letter from Sigurd Neihardt to John G. Neihardt</title>
+                    <date when="1923-01-26">January 26, 1923</date>
+                    <extent>2 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 hand-written pages</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Neihardt, Sigurd</term>
+                    <term>Neihardt, Alice</term>
+                    <term>Neihardt, Mona Martinsen</term>
+                    <term>Bill</term>
+                    <term>Petri, Hilda Neihardt</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Kansas City (Mo.)</term>
+                    <term>Columbus (Neb.)</term>
+                    <term>Branson (Mo.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Neihardt, Sigurd</persName>
+                    <placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <placeName></placeName>
+                    <date when="1923-01-26"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.j4b.4.18-19"/>
+                <note type="curatorial">18</note>
+                <note type="curatorial">3 Neihardt Collection</note>
+                
+                <opener>
+                    <dateline>
+                        Branson Mo. 
+                        Jan. 26, 1923.
+                    </dateline>
+                    
+                    <salute>Dear Daddy:-</salute>
+                </opener>
+                
+                <p>How are you getting along? Our dog ran away from us, what do you sup-pose Alice did today, She saw Mamma making noodles and she had the Humble pill box in her hand, and she pulled it open and spilled nearly all of those pills, and that made our dinner pretty physicly but Alice She went right on eating it and did not think anything about "it at all.</p> 
+                <p>high priced down here.</p> 
+                <p>Love and loads and loads &amp; loads of kisses</p>
+                <p>Sigurd.</p> 
+                
+                <pb facs="nei.j4b.4.18-19"/>
+                <note type="curatorial">19</note>
+                
+                <p>I will <del/> be very glad when you come home.</p> 
+                <p>I like school fine. The new school house is a wonderfully good building.</p> 
+                <p>My lessons are all easy for me now. Bill and I have been trading marbles with each other</p>
+                <p>I have a pretty green glassy and a white one.</p>
+                <p>If marbles are cheap enough In Kansas City or some other place wouldn't you please get us some.</p> 
+                <p>because they are so</p> 
+                <p>was it very snowy In Columbus Nebraska. We have not had a bit of <unclear/> at you would call cold weather. Mrs. G lanrville said that Hilda just is learning fine. She said that She would not give Kindergarten up now I fS he wasn't getting any money from it. because She said they are learning fine now and She said. She was having lots of fun out of it.</p> 
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

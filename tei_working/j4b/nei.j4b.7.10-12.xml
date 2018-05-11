@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.7.10-12">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Alice Culler Neihardt to Mildred Piper, February 27, 1927</title>
+                <author>Neihardt, Alice Culler</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.7.10-12</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, Alice Culler</author>
+                    <title level="m" type="main">Letter from Alice Culler Neihardt to Mildred Piper</title>
+                    <date when="1927-02-27">February 27, 1927</date>
+                    <extent>3 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p> hand-written pages</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Neihardt, Alice Culler</term>
+                    <term>Piper, Mildred</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Wayne (Neb.)</term>
+                    <term>Kirkwood (Mo.)</term>
+                    <term>St. Louis (Mo.)</term>
+                    <term>Buffalo (N.Y.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Neihardt, Alice Culler</persName>
+                    <placeName ref="http://www.geonames.org/4393739">Kirkwood (Mo.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Piper, Mildred</persName>
+                    <placeName ref="http://www.geonames.org/5081454">Wayne (Neb.)</placeName>
+                    <date when="1927-02-27"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="envelope">
+                <pb facs="nei.j4b.7.10-12"/>
+                <note type="curatorial">10</note>
+                <note type="curatorial">33 <del>34</del>
+                Piper Collection</note> 
+                
+                <ab type="postmark">
+                    BRANSON FEB27 130PM MO
+                    1927
+                </ab>
+                
+                <ab type="address">
+                    Miss Mildred Piper 
+                    Wayne
+                    Nebr.
+                </ab> 
+            </div1>
+            
+            <div1 type="letter">
+                <pb facs="nei.j4b.7.10-12"/>
+                <note type="curatorial">11</note>
+                
+                <opener> 
+                    <dateline>
+                        Branson Mo.-
+                        Feb. 27-1927
+                    </dateline>
+                </opener>
+                
+                <p>Dear little girl you see by the above that I am at home again-Since the receipt
+                    of your letter in Kirkwood I have been on the jump almost Every minute but succeeded in scratching of a semblance of a letter just before going to St. Louis to visit a week with some people I met in Buffalo-left it to be mailed but something and the Post man failed to get and let you out of course-I am enclosing it that you may know I did not forget-was in St. Louis a week then back to Kirkwood a week and very busy all that time. - Then home and have been here a week.-And oh Miss Piper I'm almost ashamed to be so happy at being at home when the folks were all so good to me and begged me to stay thru March anyway.- I can't begin to tell you how grateful I am</p> 
+                
+                <pb facs="nei.j4b.7.10-12"/>
+                <note type="curatorial">12</note>
+                
+                <p><unclear/> little home tho it be far from him all, It seems my dealing and I am bowing all meekly as my nature will permit-I think I realize more fully than ever before that it is not possible for old fogies like myself to mix very gracefully with the youth of today-not that John's children are to blame in any way - The Trouble is with me I can't keep step and it makes me look like a monkey to try. I love them all and they all love me the solution is my home and Thank God for that. - I think I have given you a fairly clear idea of the children-The Two oldest are not record breakers in school but they each have a direction and that is unusual in children of their age. I am so happy to have the photo it rests on my mantle the other is framed and hangs in my bed room.- I love you dear girl and wish you all success in the world and may the right man come yet and claim you</p>
+                <closer><salute>lovingly</salute> <signed>Alice M. Neihardt</signed></closer> 
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

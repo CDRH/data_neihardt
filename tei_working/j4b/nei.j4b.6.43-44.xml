@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.6.43-44">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to Alice Culler
+                    Neihardt, September 14, 1925</title>
+                <author>Neihardt, John G., 1881-1973.</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.6.43-44</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John G., 1881-1973.</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Alice Culler
+                        Neihardt</title>
+                    <date when="1925-09-14">September 14, 1925</date>
+                    <extent>2 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 hand-written pages</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Neihardt, Alice Culler</term>
+                    <term>Mason</term>
+                    <term>McDonald, Lulu</term>
+                    <term>Judge, Rentz</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Grinnell (Iowa)</term>
+                    <term>Branson (Mo.)</term>
+                    <term>Lincoln (Neb.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Neihardt, Alice Culler</persName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                    <date when="1925-09-14"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.j4b.6.43-44"/>
+                <note type="curatorial">43</note>
+                <note type="curatorial">
+                    Missouri Collection 
+                </note>
+                
+                <opener>
+                    <dateline>
+                        from Sept 14 '25
+                        Tuesday
+                    </dateline>
+                    <salute>Dear Mama:-</salute>
+                </opener>
+                
+                <p>We have your second letter, written at Mason's. Today a photo of you and the monument came. Bully! We have seen a number of newspaper articles also, and pricing all accounts together, we have a pretty clear idea of what happened. So glad you were there to enjoy it - so glad I was not there.</p> 
+                <p>This note is written principally to say that you should not hurry off to Grinnell I leave anything and one that you might enjoy doing.</p> 
+                <p>There is no hurry. Lulu writes that &amp; he wants you to go there. A fine idea, I think.</p> 
+            </div1>
+                
+                <div1 type="envelope">
+                <pb facs="nei.j4b.6.43-44"/>
+                <note type="curatorial">44</note>
+                
+                <ab type="return">
+                    From Box 255
+                    Branson, Mo
+                </ab>
+                    
+                <ab type="postmark">
+                    BRANSON SEP 14
+                </ab> 
+                    
+                <ab type="stamp">
+                    UNITEDSTATESPOSTAGE 2CENTS2
+                </ab>
+                    
+                <ab type="address">
+                    Mrs. Alice Neihardt 
+                    2133 South 22nd St. 
+                    Lincoln,
+                    Nebraska
+                </ab> 
+                    
+                <ab type="note">
+                    c/o Prof. C.F. Ailler
+                </ab>
+                
+                </div1>
+                
+                <div1 type="letter">
+                    
+                <p>Everything is fine here.</p>
+                <p>We are expecting a letter from Miss Rentz Judge said she seemed "quite herself.", so we are hoping to hear that the sensation in her left cheek has gone and that she is not worrying. Give her a thousand kind thoughts from us.</p> 
+                <closer>
+                    <salute>With love,</salute>
+                    <signed>Jno</signed>
+                </closer> 
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.2.67-69">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Alice Culler Neihardt to Mildred Piper, December 12, 1921</title>
+                <author>Neihardt, Alice Culler</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.2.67-69</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, Alice Culler</author>
+                    <title level="m" type="main">Letter from Alice Culler Neihardt to Mildred Piper</title>
+                    <date when="1921-12-12">December 12, 1921</date>
+                    <extent>3 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>3 hand-written pages</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Piper, Mildred</term>
+                    <term>Neihardt, Mona Martinsen</term>
+                    <term>Neihardt-Ballinger, Grace</term>
+                    <term>Neihardt, Sigurd</term>
+                    <term>Neihardt, Alice Culler</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Branson (Mo.)</term>
+                    <term>Lyons (Neb.)</term>
+                    <term>Butte (Mont.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term>Omaha Daily News</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Neihardt, Alice Culler</persName>
+                    <placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Piper, Mildred</persName>
+                    <placeName ref="http://www.geonames.org/5072499">Lyons (Neb.)</placeName>
+                    <date when="1921-12-12"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="envelope">
+                <pb facs="nei.j4b.2.67-69"/>
+                <note type="curatorial">67</note>
+                <note type="curatorial">9 Piper Collection</note>
+                
+                <note type="curatorial">Dec. 12, 1921</note>
+                
+                <note type="authorial">
+                    from box 145 Branson Mo.-
+                </note>
+
+                <ab type="postmark">
+                    BRANSON DEC 12 1921 MO
+                </ab> 
+                
+                <ab type="stamp">
+                    UNITED STATES POSTAGE <figure/> 2CENTS2
+                </ab>
+                
+                <ab type="address">
+                    Miss Mildred Piper 
+                    Lyons 
+                    Nebraska
+                </ab> 
+
+            </div1>
+            
+            <div1 type="letter">
+                <pb facs="nei.j4b.2.67-69"/>
+                <note type="curatorial">68</note>
+                
+                <opener>
+                    
+                <dateline>
+                    Branson Mo 
+                    Dec. 12-1921
+                </dateline>
+                    
+                <salute>My Dear girl-</salute>
+                </opener>
+                    
+                    <p>a long delinquent letter to you My dear but I can feel so sure that you do understand.</p> 
+                    <p>I have been enjoying poor health for the last few days and tonight I am just
+                        as dull as I look. The weather is so beautiful and summery and such a teaser
+                        for anyone who likes to be out as I do, and I have been over doing in the yard the summer was so hot and dry, and my place was so late getting cleaned off. that I got very little planted. So I have been planting roses and hedges of buck-</p>
+                    <p>berry, Lillys goose berries raspberries and apples, cherries and peaches. (Just hedges of buck berry) Mona was real sick a week while John was aways and I went over there and played until she was able to-be up.</p> 
+                    <p>John came home yester-day, having been gone seven weeks. He goes again the last of Jan. to <del/> East to the atlantic coast. He stopped at Butte Montana and visited with his sister Grace. So today and yesterday have been given over to "questions and answers"</p>
+                    <p>We are having the loveliest Summer Weather here. warm</p>
+                
+                <pb facs="nei.j4b.2.67-69"/>
+                <note type="curatorial">69</note>
+                
+                <p><unclear/> Thunder showers. Our cow-<unclear/> has good pasture. Oh by the way we will soon have a fresh cow and that means that I must <unclear/> while John is away again. I wish you could see my chickens and I am getting Eggs they find them selves and me too. And I just love to take care of them. I am sititng with the fireplace at my back oh how good the heat feels. And how often I wish for you to sit here with me. Sigurd wondered today if you were really sending money to come here. they all talk of you coming next summer.</p> 
+                <p>Mrs. Brown has bought a place just across the street from me. and won't it be
+                    nice when you come! She is a sport and loves the water, so you see me counting
+                    on a good time when you come Miss Piper would you go to the photographer's ^in Lyons and see if he still has the <unclear/> from which he made my Enlarged picture that John has and if he has will you have him print me 1/2 doz. I must have one for a newspaper article of the Omaha Daily News. I gave John's bust to The Neihardt Society to present to the Omaha Public Library and there is to be an unveiling Sometime in the near future, and they want mine and Mona's and John's photos. Now dear if you could see to that for me and pay for than and send me the bill or tell them to send me the bill I"ll be very glad. Mona sends love. And of course you know I do Dear girl</p> 
+                <closer><signed>Alice M. Neihardt</signed></closer> 
+
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

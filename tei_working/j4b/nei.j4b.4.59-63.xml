@@ -1,25 +1,200 @@
 <?xml version="1.0" encoding="UTF-8"?>
-59
-20 Piper Collection 
-BRANSON DEC 16. 2 P.M. 1923 M.O. 
-a.m. Neihardt Branson Mo. 
-Miss Mildred Piper
-809 North Hastings Ave
-Hastings 
-Nebr
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-60
-My Dear little girl; 
-I may be a long time coming but I never forget you for one minute and talk of you so much, Mona says mother never comopares any one to miss Piper because there could be no comparison, I have miss House the Primary Teacher with me. You know she is the daguhter of Dr. House. A dear sweet little thing but young and thotless and being the only child, quite selfish altho she is lovely to me. She is boy crazy too which to a woman whose wine of life <del/> is less, seems sometimes hardly bearable this has been a busy fall no winter yet until this morning a while frost and freeze makes the fireplace seem very comfortable. 
-This morning I had hardly got the fires going when Alice <unclear/> in for her breakfast. She would stay with me all the time. Hilda got her feet wet yesterday and as a consequence has ear ache all last night. She is not very strong, last spring they had her tonsils and <unclear/> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.4.59-63">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Alice Culler Neihardt to Mildred Piper, December 16, 1923</title>
+                <author>Neihardt, Alice Culler</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.4.59-63</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, Alice Culler</author>
+                    <title level="m" type="main">Letter from Alice Culler Neihardt to Mildred Piper</title>
+                    <date when="1923-12-16">December 16, 1923</date>
+                    <extent>5 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>5 hand-written pages</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Neihardt, Alice Culler</term>
+                    <term>Piper, Mildred</term>
+                    <term>Neihardt, Mona Martinsen</term>
+                    <term>Neihardt, Alice</term>
+                    <term>Ryskind, Mary House</term>
+                    <term>Neihardt, Hilda</term>
+                    <term>Neihardt, Enid</term>
+                    <term>Neihardt, Sigurd</term>
+                    <term>Mabel</term>
+                    <term>Garner</term>
+                    <term>Ball</term>
+                    <term>Mitchel, Mrs.</term>
+                    <term>Mitchel, Dr.</term>
+                    <term>Bailey</term>
+                    <term>White</term>
+                    <term>Neihardt-Ballinger, Grace</term>
+                    <term>McDonald, Lulu</term>
+                    <term>McDonald, Donald</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Branson (Mo.)</term>
+                    <term>Hastings (Neb.)</term>
+                    <term>Bangor (Me.)</term>
+                    <term>Buffalo (N.Y.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Neihardt, Alice Culler</persName>
+                    <placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Piper, Mildred</persName>
+                    <placeName ref="http://www.geonames.org/5069802">Hastings (Neb.)</placeName>
+                    <date when="1923-12-16"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="envelope">
+                <pb facs="nei.j4b.4.59-63"/>
+                <note type="curatorial">59</note>
+                <note type="curatorial">20 Piper Collection</note>
+                <note type="authorial">
+                    a.m. Neihardt Branson Mo.
+                </note>
+                
+                <ab type="postmark">
+                    BRANSON DEC 16. 2 P.M. 1923 M.O.
+                </ab>
 
-61
-<unclear/> out she did not seem to get over the operation as she should, I wish you could see her in school her teacher says says she just eats her arithmatic, Enid is in the seventh grade and Sig. in the sixth. Sigurd has a very poor teacher but Enid and <del>Sigurd</del> Hilda both have good teachers. Enid is taking lessons on the violin and Sigurd on the <unclear/> and he is diong wonderfully well. Enid is getting the violin but much slower than Sigurd. I suppose you heard about Mabel Auker's little girl being killed by a truck. It was dreadful poor little Mabel it nearly killed ^her It seemed 
+                <ab type="address">
+                    Miss Mildred Piper
+                    809 North Hastings Ave
+                    Hastings 
+                    Nebr
+                </ab> 
+                
+            </div1>
+            
+            <div1 type="letter">
+                <pb facs="nei.j4b.4.59-63"/>
+                <note type="curatorial">60</note>
+                
+                <opener>
 
-62
-was home or what had happened, we were all so frightened and it took him nearly two weeks to feel himself again and get to work. He had eleven engage-ments in nine days and had to travel day and night to meet them, He went clear to Bangor maine, The 30th of this month he starts for the Pacific coast but his Engagements are not crowded so close together. So hope will not be in the condition he was when he arrived from the East. Mona has been having a spell of Rheumatism in her shoulders making it impossible for her ot slay the <unclear/>. She is in orchestra here and they do have good times. My mission, and it would seem my sole mission, lately has been to take care of Alice while Mona goes to practice. They have a school entertainment next Wednesday evening and the orchestra plays John Enid & Sigurd are going to walk out to Garners today. mrs Garner often asks about you and so do the Balls and Mitchells and Evry one else 
-
-63
-met you, Had such a nice letter from Mrs. Bailey a short time ago. She has gotten quite strong, Mrs. White is still cleaning and dusting. The Christmas tree will be at my house this year and I will have breakfast dinner and Supper the children are all wild about it and the chance to hang their stockings at Grandma's fire place. 
-I told you about Grace going to a Library school. Will she is in the <unclear/> Library Buffalo New York. 
-And is getting along fine, Lulu has just nursed little Donald thru a bad sell of <unclear/> I do so wish you were going to be with us this christmas, Can't you come next summer agian? Come as soon as school closes and stay just as long as you dare. I know you are looking forward to your Christmas vacation, Remember ^Ms. to Evrybody at your home iwth a Merry Christmas wish. And my dear little girl I would love see you again and I love you dearly altho I do seem to neglect you. My best wishes for the New Year and for a happy Christmas <unclear/> Alice M. Neihardt 
+                    <salute>My Dear little girl;</salute>
+                </opener>
+                
+                <p>I may be a long time coming but I never forget you for one minute and talk of you so much, Mona says mother never comopares any one to miss Piper because there could be no comparison, I have miss House the Primary Teacher with me. You know she is the daguhter of Dr. House. A dear sweet little thing but young and thotless and being the only child, quite selfish altho she is lovely to me. She is boy crazy too which to a woman whose wine of life <del/> is less, seems sometimes hardly bearable this has been a busy fall no winter yet until this morning a while frost and freeze makes the fireplace seem very comfortable.</p> 
+                <p>This morning I had hardly got the fires going when Alice <unclear/> in for her breakfast. She would stay with me all the time. Hilda got her feet wet yesterday and as a consequence has ear ache all last night. She is not very strong, last spring they had her tonsils and <unclear/></p>  
+                
+                <pb facs="nei.j4b.4.59-63"/>
+                <note type="curatorial">61</note>
+                
+                <p><unclear/> out she did not seem to get over the operation as she should, I wish you could see her in school her teacher says says she just eats her arithmatic, Enid is in the seventh grade and Sig. in the sixth. Sigurd has a very poor teacher but Enid and <del>Sigurd</del> Hilda both have good teachers. Enid is taking lessons on the violin and Sigurd on the <unclear/> and he is diong wonderfully well. Enid is getting the violin but much slower than Sigurd. I suppose you heard about Mabel Auker's little girl being killed by a truck. It was dreadful poor little Mabel it nearly killed ^her It seemed</p> 
+                
+                <pb facs="nei.j4b.4.59-63"/>
+                <note type="curatorial">62</note>
+                
+                <p>was home or what had happened, we were all so frightened and it took him nearly
+                    two weeks to feel himself again and get to work. He had eleven engage-ments in
+                    nine days and had to travel day and night to meet them, He went clear to Bangor
+                    maine, The 30th of this month he starts for the Pacific coast but his
+                    Engagements are not crowded so close together. So hope will not be in the condition he was when he arrived from the East. Mona has been having a spell of Rheumatism in her shoulders making it impossible for her ot slay the <unclear/>. She is in orchestra here and they do have good times. My mission, and it would seem my sole mission, lately has been to take care of Alice while Mona goes to practice. They have a school entertainment next Wednesday evening and the orchestra plays John Enid &amp; Sigurd are going to walk out to Garners today. mrs Garner often asks about you and so do the Balls and Mitchells and Evry one else</p>
+                
+                <pb facs="nei.j4b.4.59-63"/>
+                <note type="curatorial">63</note>
+                
+                <p>met you, Had such a nice letter from Mrs. Bailey a short time ago. She has gotten quite strong, Mrs. White is still cleaning and dusting. The Christmas tree will be at my house this year and I will have breakfast dinner and Supper the children are all wild about it and the chance to hang their stockings at Grandma's fire place.</p> 
+                <p>I told you about Grace going to a Library school. Will she is in the <unclear/> Library Buffalo New York.</p> 
+                <p>And is getting along fine, Lulu has just nursed little Donald thru a bad sell of <unclear/> I do so wish you were going to be with us this christmas, Can't you come next summer agian? Come as soon as school closes and stay just as long as you dare. I know you are looking forward to your Christmas vacation, Remember ^Ms. to Evrybody at your home iwth a Merry Christmas wish. And my dear little girl I would love see you again and I love you dearly altho I do seem to neglect you. My best wishes for the New Year and for a happy Christmas <unclear/></p> <closer><signed>Alice M. Neihardt</signed></closer> 
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

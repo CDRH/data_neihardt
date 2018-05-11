@@ -1,54 +1,236 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Missouri Collection 
-7
-G.A. HART 
-D.H. HART  
-<figure/> NEW HOTEL Rosslyn HART BROS. PROPRIETORS
-AMERICAN AND EUROPEAN PLAN 
-RATES MODERATE
-HART BROS. MILLION DOLLAR POPULAR PRICE 
-NEW HOTEL ROSSLYN 
-COR. MAIN AND FIFTH STS. 
-FREE BUS TO AND FROM HOTEL 
-LOS ANGELES, CAL.  
-11 P.M. 
-Jan 14 24
-Dearest Ones:
-[Branson, Mo.] 
-I won the Ebell Club inquestionably, and had a fine reception with tea afterward. Crowds of ladies came up and cooed - many from Nebraska and Iowa who coed especially hard for being from the middle West. I had been scared by stones I heard. They didn't like Yeats and they laughed at Kreyenborg and left him in bunches of a dozen. Every notable in the country & out of it has appeared before Ebell. Beautiful club house - packed. I'm so glad I won. They called me back from behind the wings. Darn them! 
-<del/> Then I was taken out to the Goldwyn studies & had pictures together with Jim Tully & Rupert Hughes the novelist & movie man (Hughes makes $250,000 a year, & is therefore a very great artist!!"
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-8
-G.A. HART 
-D.H. HART  
-<figure/> NEW HOTEL Rosslyn HART BROS. PROPRIETORS
-AMERICAN AND EUROPEAN PLAN 
-RATES MODERATE
-HART BROS. MILLION DOLLAR POPULAR PRICE 
-NEW HOTEL ROSSLYN 
-COR. MAIN AND FIFTH STS. 
-FREE BUS TO AND FROM HOTEL 
-LOS ANGELES, CAL.  
--2-
-all right! Time will take care of him and his 250000 chips. Time is my friend and I remember this often when I need a friend. After that I went to dinner at the Westlake School for Girls-a fasionable school. They were dressed to hill at 100 yards. I had not had tiem to dress, but didn't care. Why should I? My nakedness was concealed. They made me read in a huge drawing room afterward & I did. Wanted more & more. And after the girls were sent to bed the older guests wanted another session. 
-But Douglas, a composer - a genius by the way - slipped us over to his house. and gave me a drink that wasn't soft. Golly! but it helped me a lot. Then we talked a half hour - delightful family-and he brought me to the Hotel. Miss De Laguna 
-
-9
-G.A. HART 
-D.H. HART  
-<figure/> NEW HOTEL Rosslyn HART BROS. PROPRIETORS
-AMERICAN AND EUROPEAN PLAN 
-RATES MODERATE
-HART BROS. MILLION DOLLAR POPULAR PRICE 
-NEW HOTEL ROSSLYN 
-COR. MAIN AND FIFTH STS. 
-FREE BUS TO AND FROM HOTEL 
-LOS ANGELES, CAL.  
--3-
-started me home in her <unclear/>, but Douglas & his wife told the chauffeur to slip back to teh school without an asking a noise; that theyd see Neihardt house. Funny! Don't worry. I didn't swallow more than the equivalent of a good glass of wine, and I needed it. 
-Well, I'm going to bed. I wired today! 
-Received such dear letters from all of you. How I love those letters. 
-Kindest thoughts to our Mary. I'm glad she's back with you. and I'm glad your cold spell blew over. I've been in may ever since I got over the Divide. 
-Love 
-Jno 
-Daddy. 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.5.7-9">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to Mona Martinsen Neihardt, January 14, 1924</title>
+                <author>Neihardt, John G., 1881-1973.</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.5.7-9</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John G., 1881-1973.</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Mona Martinsen Neihardt</title>
+                    <date when="1924-01-14">January 14, 1924</date>
+                    <extent>3 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>3 hand-written pages</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Hart, G.A.</term>
+                    <term>Hart, D.H.</term>
+                    <term>Yeats, W. B. (William Butler), 1865-1939</term>
+                    <term>Neihardt, Mona Martinsen</term>
+                    <term>Kreymborg, Alfred, 1883-1966</term>
+                    <term>Douglas</term>
+                    <term>De Laguna</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Nebraska</term>
+                    <term>Los Angeles (Calif.)</term>
+                    <term>Iowa</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <placeName ref="http://www.geonames.org/5368361">Los Angeles (Calif.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Neihardt, Mona Martinsen</persName>
+                    <placeName></placeName>
+                    <date when="1924-01-14"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.j4b.5.7-9"/>
+                <note type="curatorial">7</note>
+                <note type="curatorial">Missouri Collection</note>
+                
+                <note type="authorial">
+                    G.A. HART 
+                    D.H. HART 
+                    
+                    <figure/> 
+                    NEW HOTEL 
+                    ROSSLYN 
+                    HART BROS. PROPIETORS
+                    AMERICAN AND EUROPEAN PLAN 
+                    RATES MODERATE
+                    HART BROS. MILLION DOLLAR POPULAR PRICE 
+                    NEW HOTEL ROSSLYN 
+                    COR MAIN AND FIFTH STS. 
+                    FREE BUS TO AND FROM HOTEL 
+                    LOS ANGELES, CAL. 
+                </note>
+                
+                <opener>
+                    <dateline>
+                        11 P.M. 
+                        Jan 14 24
+                    </dateline>
+                    
+                    <salute>Dearest Ones:</salute>
+                    
+                    <note type="curatorial">
+                        [Branson, Mo.]
+                    </note>
+                    
+                </opener>
+                
+                <p>I won the Ebell Club inquestionably, and had a fine reception with tea afterward.
+                    Crowds of ladies came up and cooed - many from Nebraska and Iowa who coed
+                    especially hard for being from the middle West. I had been scared by stones I
+                    heard. They didn't like Yeats and they laughed at Kreyenborg and left him in
+                    bunches of a dozen. Every notable in the country &amp; out of it has appeared before Ebell. Beautiful club house - packed. I'm so glad I won. They called me back from behind the wings. Darn them!</p> 
+                
+                <pb facs="nei.j4b.5.7-9"/>
+                <note type="curatorial">8</note>
+                <note type="authorial">-2-</note>
+                
+                <note type="authorial">
+                    G.A. HART 
+                    D.H. HART 
+                    
+                    <figure/> 
+                    NEW HOTEL 
+                    ROSSLYN 
+                    HART BROS. PROPIETORS
+                    AMERICAN AND EUROPEAN PLAN 
+                    RATES MODERATE
+                    HART BROS. MILLION DOLLAR POPULAR PRICE 
+                    NEW HOTEL ROSSLYN 
+                    COR MAIN AND FIFTH STS. 
+                    FREE BUS TO AND FROM HOTEL 
+                    LOS ANGELES, CAL. 
+                </note>
+                
+                <p>all right! Time will take care of him and his 250000 chips. Time is my friend and
+                    I remember this often when I need a friend. After that I went to dinner at the
+                    Westlake School for Girls-a fasionable school. They were dressed to hill at 100
+                    yards. I had not had tiem to dress, but didn't care. Why should I? My nakedness
+                    was concealed. They made me read in a huge drawing room afterward &amp; I did.
+                    Wanted more &amp; more. And after the girls were sent to bed the older guests wanted another session.</p> 
+                <p>But Douglas, a composer - a genius by the way - slipped us over to his house. and gave me a drink that wasn't soft. Golly! but it helped me a lot. Then we talked a half hour - delightful family-and he brought me to the Hotel. Miss De Laguna</p> 
+                
+                <pb facs="nei.j4b.5.7-9"/>
+                <note type="curatorial">9</note>
+                <note type="authorial">-3-</note>
+                
+                <note type="authorial">
+                    G.A. HART 
+                    D.H. HART 
+                    
+                    <figure/> 
+                    NEW HOTEL 
+                    ROSSLYN 
+                    HART BROS. PROPIETORS
+                    AMERICAN AND EUROPEAN PLAN 
+                    RATES MODERATE
+                    HART BROS. MILLION DOLLAR POPULAR PRICE 
+                    NEW HOTEL ROSSLYN 
+                    COR MAIN AND FIFTH STS. 
+                    FREE BUS TO AND FROM HOTEL 
+                    LOS ANGELES, CAL. 
+                </note>
+                
+                <p>started me home in her <unclear/>, but Douglas &amp; his wife told the chauffeur to slip back to teh school without an asking a noise; that theyd see Neihardt house. Funny! Don't worry. I didn't swallow more than the equivalent of a good glass of wine, and I needed it.</p> 
+                <p>Well, I'm going to bed. I wired today!</p> 
+                <p>Received such dear letters from all of you. How I love those letters.</p> 
+                <p>Kindest thoughts to our Mary. I'm glad she's back with you. and I'm glad your cold spell blew over. I've been in may ever since I got over the Divide.</p> 
+                <closer>
+                    <salute>Love</salute> 
+                    <signed>Jno</signed> 
+                    <signed>Daddy.</signed>
+                </closer>
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

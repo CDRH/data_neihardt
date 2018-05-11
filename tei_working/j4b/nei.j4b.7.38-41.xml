@@ -1,16 +1,169 @@
 <?xml version="1.0" encoding="UTF-8"?>
-38
-Branson Mo. 
-11 Berg Collection 
-My Dear Mrs. Berg.-
-Your thotfulness in sending the clipping to me secretly should have been recognized <unclear/> before this - I can plead several things that might be effective - but the main reason is my lack of pep caused by a general run down condition-now I suppose I should have said I am sick but the other way sounded best - It was lovely of you to send me the clipping I think it, must have been the only one published as I sent back, to Mr. Bailey a friend of the family in Omaha to send me three copies like it but there were none to be found and no one seemed to know of such a clipping - I wanted 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-39
-send one to each of us sisters yes it was good that Creighton saw its duty and I am very grateful to them - It will add to their future more, maybe, than they know now.- Dear Lady; I have thot. of you so much and of your in-terest with the rest of the good Penderites-I assure you that you are all appreciated by all of us. John tells me he thinks he will be in Wayne when their new Hall is dedicated in Jan. You will, maybe be, there too- The occasion I understand is to be the <del>dedication</del> dedication of the new Hall to Neihardt - If you are there please make your self known to him - I can't remember if you have met - I shall never forget our meeting in Wayne - How dear you 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.7.38-41">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Alice Culler Neihardt to Caroline D. Berg, October 28, 1927</title>
+                <author>Neihardt, Alice Culler</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.7.38-41</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, Alice Culler</author>
+                    <title level="m" type="main">Letter from Alice Culler Neihardt to Caroline D. Berg</title>
+                    <date when="1927-10-28">October 28, 1927</date>
+                    <extent>4 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>4 hand-written pages</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Neihardt, Alice Culler</term>
+                    <term>Piper, Mildred</term>
+                    <term>Neihardt, Alice</term>
+                    <term>Neihardt, Enid</term>
+                    <term>Neihardt, Sigurd</term>
+                    <term>Petri, Hilda Neihardt</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Wayne (Neb.)</term>
+                    <term>Branson (Mo.)</term>
+                    <term>St. Louis (Mo.)</term>
+                    <term>Buffalo (N.Y.)</term>
+                    <term>Lincoln (Neb.)</term>
+                    <term>Omaha (Neb.)</term>
+                    <term>Pender (Neb.)</term>
+                    <term>Minneapolis (Minn.)</term>
+                    <term>Kirkwood (Mo.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Neihardt, Alice Culler</persName>
+                    <placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Berg, Caroline D.</persName>
+                    <placeName ref="http://www.geonames.org/5074969">Pender (Neb.)</placeName>
+                    <date when="1927-10-28"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.j4b.7.38-41"/>
+                <note type="curatorial">38</note>
+                <note type="curatorial">11 Berg Collection</note>
+                
+                <opener> 
+                    <dateline>
+                        Branson Mo. 
+                    </dateline>
+                    <salute>My Dear Mrs. Berg.-</salute>
+                </opener>
+                
+                <p>Your thotfulness in sending the clipping to me secretly should have been recognized <unclear/> before this - I can plead several things that might be effective - but the main reason is my lack of pep caused by a general run down condition-now I suppose I should have said I am sick but the other way sounded best - It was lovely of you to send me the clipping I think it, must have been the only one published as I sent back, to Mr. Bailey a friend of the family in Omaha to send me three copies like it but there were none to be found and no one seemed to know of such a clipping - I wanted</p> 
+                
+                <pb facs="nei.j4b.7.38-41"/>
+                <note type="curatorial">39</note>
+                
+                <p>send one to each of us sisters yes it was good that Creighton saw its duty and I am very grateful to them - It will add to their future more, maybe, than they know now.- Dear Lady; I have thot. of you so much and of your in-terest with the rest of the good Penderites-I assure you that you are all appreciated by all of us. John tells me he thinks he will be in Wayne when their new Hall is dedicated in Jan. You will, maybe be, there too- The occasion I understand is to be the <del>dedication</del> dedication of the new Hall to Neihardt - If you are there please make your self known to him - I can't remember if you have met - I shall never forget our meeting in Wayne - How dear you</p> 
+                
+                <pb facs="nei.j4b.7.38-41"/>
+                <note type="curatorial">40</note>
+                
+                <p>looked to me - and I instantly recalled our friendly correspondence that had preceeded and I assure you it was a happy climax.-</p>
+                <p>This has been a very busy summer - The children have all been home this summer and it has been a lovely thot that those long journeys from Minneapolis Buffalo and St Louis's were made home because I was here - never had mother better children and to be grateful enough is my daily pleasures - they are protest when tell them that my plans for the writer are to stay right here. - I love it here - I am not lonely I have such loads of time to read and make hooked rugs and keep house as I want - In fact I am now just getting acquainted with my self my years up to the last three have</p>
+                
+                <pb facs="nei.j4b.7.38-41"/>
+                <note type="curatorial">41</note>
+                
+                <p>been so full of other peoples lives, and their needs - when I began to crawl forth was surprised that there were things that seemed vital to one alone and I began to develop them and me, - I am so grateful and feel so rich in the early years of Experience I would not have had it otherwise I'm quite sure it was my school I ahve not passed the finals yet but am doing my best Towards at least a passing grade, - John and his family are all well and all busy-John at his daily task which to me is a great waste of material but to me is a great waste of material but we hope he will have time in the near future to take up his own work. - Mona has five pieces of sculpture ready for the Nov. Art <unclear/> of the Art Guild at St Louis-John, Enid, Sigurd Hilda and Alice - Enid graduates from the Kirkwood High and is carrying her stenography course with it, Sigurd in the second year high, carrying a heavy music Course at the same time</p>
 
-40
-looked to me - and I instantly recalled our friendly correspondence that had preceeded and I assure you it was a happy climax.-
-This has been a very busy summer - The children have all been home this summer and it has been a lovely thot that those long journeys from Minneapolis Buffalo and St Louis's were made home because I was here - never had mother better children and to be grateful enough is my daily pleasures - they are protest when tell them that my plans for the writer are to stay right here. - I love it here - I am not lonely I have such loads of time to read and make hooked rugs and keep house as I want - In fact I am now just getting acquainted with my self my years up to the last three have 
-
-41
-been so full of other peoples lives, and their needs - when I began to crawl forth was surprised that there were things that seemed vital to one alone and I began to develop them and me, - I am so grateful and feel so rich in the early years of Experience I would not have had it otherwise I'm quite sure it was my school I ahve not passed the finals yet but am doing my best Towards at least a passing grade, - John and his family are all well and all busy-John at his daily task which to me is a great waste of material but to me is a great waste of material but we hope he will have time in the near future to take up his own work. - Mona has five pieces of sculpture ready for the Nov. Art <unclear/> of the Art Guild at St Louis-John, Enid, Sigurd Hilda and Alice - Enid graduates from the Kirkwood High and is carrying her stenography course with it, Sigurd in the second year high, carrying a heavy music Course at the same time
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

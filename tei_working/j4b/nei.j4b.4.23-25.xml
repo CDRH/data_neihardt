@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.4.23-25">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Alice Culler Neihardt to Mildred Piper, March 18, 1923</title>
+                <author>Neihardt, Alice Culler</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.4.23-25</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, Alice Culler</author>
+                    <title level="m" type="main">Letter from Alice Culler Neihardt to Mildred Piper</title>
+                    <date when="1923-03-18">March 18, 1923</date>
+                    <extent>3 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>3 hand-written pages</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Neihardt, Alice Culler</term>
+                    <term>Piper, Mildred</term>
+                    <term>Neihardt-Ballinger, Grace</term>
+                    <term>Ballinger, Jess E.</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Branson (Mo.)</term>
+                    <term>Hastings (Neb.)</term>
+                    <term>Buffalo (N.Y.)</term>
+                    <term>Lincoln (Neb.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Neihardt, Alice Culler</persName>
+                    <placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Piper, Mildred</persName>
+                    <placeName ref="http://www.geonames.org/5069802">Hastings (Neb.)</placeName>
+                    <date when="1923-03-18"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="envelope">
+                <pb facs="nei.j4b.4.23-25"/>
+                <note type="curatorial">23</note>
+                <note type="curatorial">29 - Piper Collection</note>
+                <note type="curatorial">
+                    March 18,1923.
+                    <del>[spring, 1900]</del>
+                    
+                    #145 Branson Mo.
+                </note>
+                
+                <ab type="postmark">
+                    BRANSON MAR. 18 1 PM MO. 
+                </ab>
+                
+                <ab type="stamp">
+                    U.S.POSTAGE <figure/> 1CENT1
+                </ab>
+                
+                <ab type="address">
+                    Miss Mildred Piper
+                    809 Hastings Ave 
+                    Hastings
+                    Nebraska 
+                </ab> 
+                
+            </div1>
+            
+            <div1 type="letter">
+                <pb facs="nei.j4b.4.23-25"/>
+                <note type="curatorial">24</note>
+                
+                <opener>
+                    <dateline>
+                        Branson Mo.,
+                    </dateline>
+                    
+                    <salute>My Dear little girl;</salute>
+                </opener>
+                
+                <p>Your good letter came at last and I wondered if you felt as I did when <del>yo</del> my letters were so long coming to you. We have all been sick with fear. Grace came home the last of Jan. and was with us all three our Flue spell. She is now getting ready to go to Buffalo N. Y. to take a libraries course. I have bene having a big heart ache, the kind mothers have when their childrens have troubles. Grace and her husband have parted and she is to finish the course. I fI ever see you again I may have to burden you by un-burdening my troubles to you.</p> 
+                <p>Yes we may got to Lincoln to live I shall be sorry in some ways to leave here, but in others, glad, the hills here are hard for me</p>
+                
+                <pb facs="nei.j4b.4.23-25"/>
+                <note type="curatorial">25</note>
+                
+                <p>and getting harder all the time. We are having a nasty cold wind today from your old stess in Nebraska. We have had such lovely weather and I think this will soon blow over. Mothe rhas been real sick but is better, they were all sick at the other house.</p> 
+                <p>Dear girl you are contemplating a change in work. had your Ever that of Library
+                    work &amp; I think you would be so full <unclear/> &amp; the work. And it is nice work. Think about it won't you?</p> 
+                <p>The children <unclear/> in their first flowers yesterday and my <unclear/> are blooming.</p> 
+                <p>I wish you were going to Eat dinner with us today, nothing extra but whipped cream on apple pie. but it would taste better if you had a piece with <del/> <unclear/>.</p>
+                <p>Hope you have not had flue: my best love to you remember me to your people.</p> <closer><signed>Alice M. Neihardt.</signed></closer> 
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

@@ -1,16 +1,167 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Missouri Collection 17
-STATE NORMAL SCHOOL AND TEACHERS COLLEGE 
-U. S. CONN, PRESIDENT
-WAYNE, NEBRASKA 
-Department of English and Sociology 
-is Absentia
-J. T. HOUSE 
-May 23
-1922
-Mrs. Alice Neihardt
-Branson, Missouri
-Dear Mrs. Neihardt: We are going to have a formal unveiling of the bust of our Poet June 16. That is the day of the Home-Coming of the alumni of the institution, including those who went to the Nebraska Normal College in the days when Mr. Pile controlled it. Surely the occasion is a fitting one for remembrance of the "Stubble-Haired Boy," who saw visions and dreamed dreams on this hill! How I wish I had words to convey to you my appreciation of the gift to the institution in which I am a teacher and the pleasure I shall have in seeing the bust here and showing it to the students and to those who visit us! 
-Of course you are cordially invited to be present on the occasion and I earnestly hope you may find it possible to come. If you do, then make our house your home. If, however, you cannot be here in person, will you not send some word of greeting that may be read at the time of the ceremony? We shall be very grateful and your message be kept in the archives of the Neihardt Club.
-Sincerely,
-J.T. House 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.3.17">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Julius T. House to Alice Culler Neihardt, May 23, 1922</title>
+                <author>House, Julius T. (Julius Temple)</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.3.17</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>House, Julius T. (Julius Temple)</author>
+                    <title level="m" type="main">Letter from Julius T. House to Alice Culler Neihardt</title>
+                    <date when="1922-05-23">May 23, 1922</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 hand-written page</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>House, Julius T. (Julius Temple)</term>
+                    <term>Neihardt, Alice Culler</term>
+                    <term>Pile, Jim</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Wayne (Neb.)</term>
+                    <term>Branson (Mo.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName ref="http://viaf.org/viaf/66392770">House, Julius T. (Julius Temple)</persName>
+                    <placeName ref="http://www.geonames.org/5081454">Wayne (Neb.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Neihardt, Alice Culler</persName>
+                    <placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+                    <date when="1922-05-23"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.j4b.3.17"/>
+                <note type="curatorial">Missouri Collection</note>
+                <note type="curatorial">17</note>
+                
+                <opener>
+                    
+                    <fw type="authorial">
+                        STATE NORMAL SCHOOL AND TEACHERS COLLEGE 
+                        U. S. CONN, PRESIDENT
+                        WAYNE, NEBRASKA 
+                    </fw>
+                    
+                    <fw type="authorial">
+                        Department of English and Sociology 
+                        is Absentia
+                        J. T. HOUSE 
+                    </fw>
+                    
+                    <dateline>
+                        May 23
+                        1922
+                        
+                        Mrs. Alice Neihardt
+                        Branson, Missouri
+                    </dateline>
+                    
+                    <salute>Dear Mrs. Neihardt:</salute>
+                </opener>
+                
+                <p>We are going to have a formal unveiling of the bust of our Poet June 16. That is the day of the Home-Coming of the alumni of the institution, including those who went to the Nebraska Normal College in the days when Mr. Pile controlled it. Surely the occasion is a fitting one for remembrance of the "Stubble-Haired Boy," who saw visions and dreamed dreams on this hill! How I wish I had words to convey to you my appreciation of the gift to the institution in which I am a teacher and the pleasure I shall have in seeing the bust here and showing it to the students and to those who visit us!</p> 
+                <p>Of course you are cordially invited to be present on the occasion and I earnestly hope you may find it possible to come. If you do, then make our house your home. If, however, you cannot be here in person, will you not send some word of greeting that may be read at the time of the ceremony? We shall be very grateful and your message be kept in the archives of the Neihardt Club.</p>
+
+                <closer>
+                    <salute>Sincerely,</salute>
+                    <signed>J.T. House</signed>
+                </closer> 
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

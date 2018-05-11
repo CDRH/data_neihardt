@@ -1,13 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?>
-I stopped here from 10:40 until 2. 
-Missouri Collection 
-THE PILOT 
-"THE PAPER AHEAD"
-DON C. VAN DEUSEN
-EDITOR AND PUBLISHER
-BLAIR, NEB. 
-<unclear/>, room. Jan 24 23 
-Dear Mama:-
-Had a big authentic crowd at Fremont. They gave me $50 & will send the rest to Wayne. Don't know what I made, but probably as much as $50. The trip is paying surely, and I have a lot of good over ahead. Will be at Emerson <unclear/>. Should do well there, then Wayne will be big. Lyons Wakefield & Newcaste should do well. I've just half a notion to cut Cincinnati. It's a long trip & experience & $125 won't have me much still, I may go would go for $50 clear, & I guess I could save that much on the trip there & back Long in getting other engagements for way. things look very bright. 
-Hope you are all well now Lots of love to you & all the rest - special lot for Grandma. 
-John 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.4.17">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to Alice Culler Neihardt, January
+                    24, 1923</title>
+                <author>Neihardt, John G., 1881-1973.</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.4.17</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John G., 1881-1973.</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Alice Culler Neihardt</title>
+                    <date when="1923-01-24">January 24, 1923</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 hand-written page</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Van Deusen, Don C.</term>
+                    <term>Neihardt, Alice Culler</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Blair (Neb.)</term>
+                    <term>Wayne (Neb.)</term>
+                    <term>Emerson (Neb.)</term>
+                    <term>Lyons (Neb.)</term>
+                    <term>Wakefield (Neb.)</term>
+                    <term>Newcastle (Neb.)</term>
+                    <term>Cincinnati (Ohio)</term>
+                    <term>Fremont (Neb.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <placeName></placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Neihardt, Alice Culler</persName>
+                    <placeName></placeName>
+                    <date when="1923-01-24"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.j4b.4.17"/>
+                <note type="curatorial">17</note>
+                <note type="curatorial">Missouri Collection</note>
+                
+                <opener>
+                    
+                    <note type="authorial">
+                        I stopped here from 10:40 until 2.
+                    </note>
+                    
+                    <fw type="authorial">
+                        THE PILOT 
+                        "THE PAPER AHEAD"
+                        DON C. VAN DEUSEN
+                        EDITOR AND PUBLISHER
+                        BLAIR, NEB. 
+                    </fw>
+                    
+                    <dateline>
+                        Wed, noon. Jan 24 23
+                    </dateline> 
+                    
+                    <salute>Dear Mama:-</salute>
+                </opener>
+                
+                <p>Had a big authentic crowd at Fremont. They gave me $50 &amp; will send the rest
+                    to Wayne. Don't know what I made, but probably as much as $50. The trip is
+                    paying surely, and I have a lot of good over ahead. Will be at Emerson
+                    <unclear/>. Should do well there, then Wayne will be big. Lyons Wakefield &amp;
+                    Newcaste should do well. I've just half a notion to cut Cincinnati. It's a long
+                    trip &amp; experience &amp; $125 won't have me much still, I may go would go for
+                    $50 clear, &amp; I guess I could save that much on the trip there &amp; back Long in getting other engagements for way. things look very bright.</p> 
+                <p>Hope you are all well now Lots of love to you &amp; all the rest - special lot for Grandma.</p>
+                
+                <closer><signed>John</signed></closer>
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

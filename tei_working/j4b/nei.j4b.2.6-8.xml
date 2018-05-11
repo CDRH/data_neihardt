@@ -1,22 +1,189 @@
 <?xml version="1.0" encoding="UTF-8"?>
-3 Piper Collection 6, 8 
-from a.m. Neihardt Branson, Neb. 
-U.S. POSTAGE <figure/> 2CENTS2
-BRANSON 
-NOV 
-29
-PM
-1920
-Miss Mildred Piper
-Lyons 
-Nebraska. 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-Branson, Missouri 
-Nov. 28-1920
-My Dear little girl:
-Much more time has elapsed than I Expected, since I saw you, before writing, But so many things have happened in such a short time, that I have been really dizzy your sweet face comes to me so many times and especially as I saw you <unclear/> the train. And now I am beginning to realize how far I am from you all. 
-Letters from my girls make me feel that I maybe have been heartless in coming so far. But I needed a change and surely this is a change
-we are going to have a chickens <unclear/> we have the finest Cistern full of soft water. Our Well is 103 feet deep and very good water tho not quite so good as our water athome. We all like the county and now be sure when you name your honey moon <del>tip</del> trip be sure you make it Brnaons and we will show you a good time. Mona is sick tonight I was sick the first of the week we both over worked packing and moving in Bancroft and now we are getting results. While me you dear girl; and remember me to your folks. I shall try to write you more of a letter the next time I had a letter for recorded to me here from Mrs. Preston they did not know we were moved. I must write her. Tell me all the news and remeber I miss you! love <unclear/> M. Neihardt
-
-8
-are 60 miles deep in the Ozark mts. the most beautiful scenery you could im-agine. Branson is a town up 1100 about eight years old. the White-rover voted for its beautiful scenery has been dammed making a lake 40 miles long, it is a summer resort and the shore on the <unclear/> side is dotted with Bungalows, steamboats come and go every day. In the summer it is a regular gala place. John bought a house and four and one half acres 1/4 of a mile from the lake west and up a hill all the way. the most rise 300 feet in that distance. The house has six rooms finished and one up stairs to be finished the rooms are <unclear/> very large. I have the down stiars bed room furnished with my things and wil occupy it until I build or buy just at present I think I shall build on 2 acres of John's East of him facing South. the land is rocky but grows every kind here is young yet. plenty of old orchards but all run down because no one cared enough to take care of them. The natives are 2 shifters set. drawl out their words and they work the same way. I never saw so many cows roming over the hills mostly jerseys. The grazing is good most all winter. We have had 20 <unclear/>. Pics go out every day. Persimmons are plentiful and so good. Passions and coons too. John has bought his a Jersey Cow 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.2.6-8">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from Alice Culler Neihardt to Mildred Piper, November 6, 1920</title>
+                <author>Neihardt, Alice Culler</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4b.2.6-8</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, Alice Culler</author>
+                    <title level="m" type="main">Letter from Alice Culler Neihardt to Mildred Piper</title>
+                    <date when="1920-11-29">November 29, 1920</date>
+                    <extent>3 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>3 hand-written pages</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Neihardt, Alice Culler</term>
+                    <term>Piper, Mildred</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Lyons (Neb.)</term>
+                    <term>Bancroft (Neb.)</term>
+                    <term>Ozark Mountains (Ark.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Neihardt, Alice Culler</persName>
+                    <placeName ref="http://www.geonames.org/5063451">Bancroft (Neb.)</placeName>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Piper, Mildred</persName>
+                    <placeName ref="http://www.geonames.org/5072499">Lyons (Neb.)</placeName>
+                    <date when="1920-11-29"/>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="address">
+                <pb facs="nei.j4b.2.6-8"/>
+                <note type="curatorial">6, 7, 8</note>
+                <note type="curatorial">3 Piper Collection</note>
+                
+                    
+                    <ab type="note">
+                        from a.m. Neihardt Branson, Neb.
+                    </ab>
+                    
+                    <ab type="postmark">
+                        BRANSON 
+                        NOV 
+                        29
+                        PM
+                        1920
+                    </ab>
+                    
+                    <ab type="stamp">
+                        U.S. POSTAGE <figure/> 2CENTS2
+                    </ab> 
+                    
+                    <ab type="address">
+                        Miss Mildred Piper
+                        Lyons 
+                        Nebraska.
+                    </ab> 
+                    
+            </div1>
+            
+            <div1 type="letter">
+                <pb facs="nei.j4b.2.6-8"/>
+                <note type="curatorial">7</note>
+                
+                <opener>
+                    
+                    <dateline>
+                        Branson, Missouri 
+                        Nov. 28-1920
+                    </dateline>
+                    
+                    <salute>My Dear little girl:</salute>
+                    
+                </opener>
+                
+                <p>Much more time has elapsed than I Expected, since I saw you, before writing, But
+                    so many things have happened in such a short time, that I have been really dizzy
+                    your sweet face comes to me so many times and especially as I saw you on the train. And now I am beginning to realize how far I am from you all.</p> 
+            <p>Letters from my girls make me feel that I maybe have been heartless in coming so far. But I needed a change and surely this is a change
+                we are going to have a chickens coop we have the finest Cistern full of soft
+                water. Our Well is 103 feet deep and very good water tho not quite so good as our
+                water athome. We all like the county and now be sure when you name your honey moon
+                <del>trip</del> trip be sure you make it Branson and we will show you a good time.
+                Mona is sick tonight I was sick the first of the week we both over worked packing and moving in Bancroft and now we are getting results. While me you dear girl; and remember me to your folks. I shall try to write you more of a letter the next time I had a letter for recorded to me here from Mrs. Preston they did not know we were moved. I must write her. Tell me all the news and remeber I miss you! love you M. Neihardt</p>
+            
+                <pb facs="nei.j4b.2.6-8"/>
+                <note type="curatorial">8</note>
+                
+            <p>are 60 miles deep in the Ozark mts. the most beautiful scenery you could im-agine. Branson is a town up 1100 about eight years old. the White-rover voted for its beautiful scenery has been dammed making a lake 40 miles long, it is a summer resort and the shore on the <unclear/> side is dotted with Bungalows, steamboats come and go every day. In the summer it is a regular gala place. John bought a house and four and one half acres 1/4 of a mile from the lake west and up a hill all the way. the most rise 300 feet in that distance. The house has six rooms finished and one up stairs to be finished the rooms are <unclear/> very large. I have the down stiars bed room furnished with my things and wil occupy it until I build or buy just at present I think I shall build on 2 acres of John's East of him facing South. the land is rocky but grows every kind here is young yet. plenty of old orchards but all run down because no one cared enough to take care of them. The natives are 2 shifters set. drawl out their words and they work the same way. I never saw so many cows roming over the hills mostly jerseys. The grazing is good most all winter. We have had 20 <unclear/>. Pics go out every day. Persimmons are plentiful and so good. Passions and coons too. John has bought his a Jersey Cow</p> 
+                
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>
