@@ -106,8 +106,8 @@
                 </keywords>
                 <keywords scheme="original" n="people">
                     <term>Winkelman, Phyllis H.</term>
-                    <term>Ron</term>
-                    <term>Macquiddy, Dr.</term>
+                    <term>Hull, Ronald Eugene, 1930-</term>
+                    <term>MacQuiddy, Ernest Lynn</term>
                 </keywords>
                 <keywords scheme="original" n="places">
                     <term>Canada</term>
@@ -128,13 +128,12 @@
             <correspDesc>
                 <correspAction type="sentBy">
                     <persName>Winkelman, Phyllis H.</persName>
-                    <placeName></placeName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
                     <date when="1963-05-08"/>
                 </correspAction>
                 <correspAction type="deliveredTo">
                     <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
-                    <placeName ref="http://www.geonames.org/4575352">Columbia (Miss.)</placeName>
-                    <date when="1963-05-08"></date>
+                    <placeName ref="http://www.geonames.org/4575352">Columbia (Mo.)</placeName>
                 </correspAction>
             </correspDesc>
             <particDesc>
@@ -153,40 +152,38 @@
         <body>
             
             <div1 type="letter">
-                <pb facs="nei.n1a.4.5-7"/>
+                <pb facs="nei.n1a.4.5"/>
                 <note type="curatorial">5</note>
                 <fw type="curatorial"></fw>
                 
-                <opener>
-                    NEBRASKA STATE HISTORICAL SOCIETY 
-                    1500 R STREET LINCOLN 8, NEBRASKA 
-                    <dateline>
-                        May 8, 1963 
-                        Dr. John Neihardt
-                        Skyrim Farm 
-                        Columbia, Missouri
-                    </dateline>
+
+                    <fw type="letterhead">NEBRASKA STATE HISTORICAL SOCIETY 
+                    1500 R STREET LINCOLN 8, NEBRASKA </fw>
+                       <opener><dateline>
+                        May 8, 1963</dateline>
+                        <address><addrLine>Dr. John Neihardt</addrLine>
+                        <addrLine>Skyrim Farm </addrLine>
+                        <addrLine>Columbia, Missouri</addrLine></address>
+
 
                     <salute>Dear Dr. Neihardt:</salute>
                 </opener>
                 <p>Of course you are going to see the "dear people" in June. We expect you to stay with us. We won't be moving to Canada until September, so your Licoln home is still intact. We're looking forward to having you.</p>
                 <p>Dr. Macquiddy called me Sunday and he would like to have you tape the program at WOW on the afternoon of June 7. We'll drive you up, and after the taping Dr. MacQuiddy wants us to join him and certain members of the Greater Omaha Historical Society for dinner. I told him I was sure this would be satisfactory with you as long as the party was not too late. We'll bring you back to Lincoln of course.</p>
                 <p>I really went through the mill, as the saying goes, but I now feel much better. Roots are such fragile things! Tearing them up abruptly causes bleeding! Leaving Nebraska is a dreadful wrench for me, but I know John will be happier and more productive in his new position. And he has promised that we will not stay in Canada for more than a few years. I still have my sights on Oregon or California or at least a milder climate where I would get along better healthwise.</p>
-                <p>So my son considers himself a budding poet! He has always been a very creative boy; in fact he was the first member of this family to sell the products of his pen. He sold a poem to the Presbyterian youth magazine when he was thirteen. I somtimes wonder what he is doing in a mathmatics major! All of my children admire you so much. You are every child's grandfather.</p>
+                <p>So my son considers himself a budding poet! He has always been a very creative boy; in fact he was the first member of this family to sell the products of his pen. He sold a poem to the Presbyterian youth magazine when he was thirteen. I somtimes wonder what he is doing in a mathematics major! All of my children admire you so much. You are every child's grandfather.</p>
                 <p>The search for the Hugh Glass manuscript has been momentarily stalled by the illness of my secretary. As soon as she returns, we'll take up the scent.</p>
             
             
-                <pb facs="nei.n1a.4.5-7"/>
+                <pb facs="nei.n1a.4.6"/>
                 <note type="curatorial">6</note>
-                <fw type="authorial">Page 2</fw>
-
-                    <p>
-                        Dr. John Neihardt
+                <fw type="authorial">Page 2<lb/>
+                        Dr. John Neihardt<lb/>
                         May 8, 1963
-                    </p>
+                    </fw>
             
                     <p>I should perhaps tell you that Dr. MacQuiddy is a retired Omaha physician who
-                        is almost completely blind. He is the prime mover of the Greater Omaha Historical Society and was very active in acquiring teh Fort Atkinson site for the state. His next hoal is the preservation and possible restoration of Cabanne's post. Hence his interest in doing the television program with you on the fur trade.</p>
+                        is almost completely blind. He is the prime mover of the Greater Omaha Historical Society and was very active in acquiring the Fort Atkinson site for the state. His next goal is the preservation and possible restoration of Cabanne's post. Hence his interest in doing the television program with you on the fur trade.</p>
                     <p>Ron has received a report from the National Educational Television Center in New York, and they have accepted the "Land of Their Own Series." They said the scripts were excellent but had some minor criticisms of the camera work.</p>
                     <p>Please let us know when to meet you at the airport.</p>
 
@@ -200,27 +197,27 @@
                     <note type="authorial">7</note>
 
                         <ab type="return">
-                            NEBRASKA 
-                            State Historical Society 
-                            LINCOLN 8
+                            <address><addrLine>NEBRASKA</addrLine> 
+                            <addrLine>State Historical Society</addrLine> 
+                            <addrLine>LINCOLN 8</addrLine></address>
                         </ab>
                     
                         <ab type="postmark">
-                            JOIN <unclear/> STATE HISTORICAL SOCIETY 
+                            JOIN YOUR STATE HISTORICAL SOCIETY<lb/>
                             LINCOLN MAY-8'63 NEBR. U.S.POSTAGE
                         </ab> 
                     
-                        <note type="authorial">
-                            Mrs. Phyllis 
-                            Winkelman 
+                        <note>
+                            Mrs. Phyllis<lb/>
+                            Winkelman<lb/>
                             May 1963
                         </note>
                     
                         <ab type="address">
-                            Dr. John G. Neihardt 
-                            Route 7
-                            Skyrim Farm 
-                            Columbia, Missouri
+                            <address><addrLine>Dr. John G. Neihardt</addrLine> 
+                            <addrLine>Route 7</addrLine>
+                            <addrLine>Skyrim Farm </addrLine>
+                            <addrLine>Columbia, Missouri</addrLine></address>
                         </ab>
                     
                 </div1>

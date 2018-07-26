@@ -44,7 +44,7 @@
                     <author>Aly, Bower, 1903-1977</author>
                     <title level="m" type="main">Letter from Bower Aly to John G. Neihardt</title>
                     <date when="1960-07-25">July 25, 1960</date>
-                    <extent>1 pages, plus envelope</extent>
+                    <extent>1 page, plus envelope</extent>
                 </bibl>
                 <msDesc>
                     <msIdentifier>
@@ -130,7 +130,7 @@
                 </correspAction>
                 <correspAction type="deliveredTo">
                     <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
-                    <placeName></placeName>
+                    <placeName ref="http://www.geonames.org/4381982">Columbia (Mo.)</placeName>
                 </correspAction>
             </correspDesc>
             <particDesc>
@@ -150,22 +150,22 @@
             
             <div1 type="letter">
                 
-                <pb facs="nei.n1a.3.1-2"/>
+                <pb facs="nei.n1a.3.1"/>
                 <note type="curatorial">1</note>
-                <fw type="curatorial">THE PORTLAND HIGH SCHOOL CURRICULUM STUDY</fw>
+                <fw type="curatorial">THE PORTLAND HIGH SCHOOL CURRICULUM STUDY
+
+                    <address>
+                        
+                        <addrLine>631 NORTHEAST CLACKAMAS STREET</addrLine>
+                        <addrLine>PORTLAND 8, OREGON</addrLine>
+                        
+                    </address>
+
+                        Albert R. Kitzhaber<lb/>
+                        Director
+</fw>
                 
                 <opener>
-                    <address>
-                        <addrLine>
-                        631 NORTHEAST CLACKAMAS STREET
-                        PORTLAND 8, OREGON
-                        </addrLine>
-                    </address>
-                        
-                    <fw type="list">
-                        Albert R. Kitzhaber
-                        Director
-                    </fw>
          
          <dateline>
              July 25, 1960
@@ -192,16 +192,16 @@
 
             </div1>
             <div1 type="envelope">
-                <pb facs="nei.n1a.3.1-2"/>
-                <ab type="recipient">
-                    2
-                    PORTLAND JUL 25 830 PM 5 1960 OREG.
-                    ABILITY COUNTS
-                    UNITED STATES POSTAGE FOUR4CENTS
-                    Dr. John G. Neihardt
-                    Skyrim Farm, Route 7
-                    Columbia, Missouri
-                </ab>
+                <pb facs="nei.n1a.3.2"/>
+                
+                   <note type="curatorial"> 2</note>
+                    <ab type="postmark">PORTLAND JUL 25 830 PM 5 1960 OREG.</ab>
+                    <figure n="stamp"><ab>ABILITY COUNTS
+                    UNITED STATES POSTAGE FOUR 4 CENTS</ab></figure>
+                    <ab type="recipient"><address><addrLine>Dr. John G. Neihardt</addrLine>
+                    <addrLine>Skyrim Farm, Route 7</addrLine>
+                    <addrLine>Columbia, Missouri</addrLine></address>
+                    </ab>
             </div1>
         </body>
         <back></back>
