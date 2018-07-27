@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Letter from P.B. Saint-Hilaire to John G. Neihardt, May 8, 1963</title>
+                <title type="main">Letter from Philippe Barbier Saint-Hilaire to John G. Neihardt, May 8, 1963</title>
                 <author>Saint Hilaire, Philippe Barbier, 1894-1969</author>
                 <principal>Gossin, Pamela</principal>
             </titleStmt>
@@ -42,7 +42,7 @@
             <sourceDesc>
                 <bibl>
                     <author>Saint Hilaire, Philippe Barbier, 1894-1969</author>
-                    <title level="m" type="main">Letter from P.B. Saint-Hilaire to John G. Neihardt</title>
+                    <title level="m" type="main">Letter from Philippe Barbier Saint-Hilaire to John G. Neihardt</title>
                     <date when="1963-05-08">May 8, 1963</date>
                     <extent>2 pages</extent>
                 </bibl>
@@ -106,7 +106,7 @@
                 </keywords>
                 <keywords scheme="original" n="people">
                     <term>Saint Hilaire, Philippe Barbier, 1894-1969</term>
-                    <term>Reddick, Dr. Olive I.</term>
+                    <term>Reddick, Olive I.</term>
                     <term>Neihardt, Enid</term>
                     <term>Neihardt, Sigurd</term>
                     <term>Petri, Hilda Neihardt</term>
@@ -118,7 +118,7 @@
                     <term>Kruagor, Elisabeth</term>
                     <term>Neighhard, Christian</term>
                     <term>Neihardt, Eva</term>
-                    <term>Shade, Capt. Henry</term>
+                    <term>Shade, Henry</term>
                 </keywords>
                 <keywords scheme="original" n="places">
                     <term>India</term>
@@ -144,7 +144,7 @@
                 </correspAction>
                 <correspAction type="deliveredTo">
                     <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
-                    <placeName ref="http://www.geonames.org/4575352">Columbia (Miss.)</placeName>
+                    <placeName ref="http://www.geonames.org/4575352">Columbia (Mo.)</placeName>
                 </correspAction>
             </correspDesc>
             <particDesc>
@@ -164,10 +164,10 @@
             
             <div1 type="letter">
                 
-                <pb facs="nei.n1a.4.7a-7b"/>
+                <pb facs="nei.n1a.4.7a"/>
                 <note type="curatorial">7a</note>
-                <fw type="authorial">
-                    SRI AUROBINDO INTERNATIONAL CENTRE OF EDUCATION 
+                <fw type="letterhead">
+                    SRI AUROBINDO INTERNATIONAL CENTRE OF EDUCATION<lb/>
                     PONDICHERRY (India)
                 </fw>
                 
@@ -180,7 +180,7 @@
                     <salute>Dear Dr. Neihardt,</salute>
                 </opener>
                 <p>I have received a letter from Dr. Olive I. Reddick, Director of the United States Educational Foundation in India, asking us to confirm our invitation to you to pay and deliver here a series of lectures. We are also asked to give them the information regarding the period of your stay at our centre and the amount of maintenance and other amenities that you will be receiving from us.</p>
-                <p>As you probably know, we do not give any salary to the teachers of our Centre, but they are all maintained by the Ashram on the same level as other members of the Ashram. We shall therefore provide you comfortable stay and board as our guest. Also, as I had suggested to you in my last letter, January would be the most suitable month for your stay here form the point of view of your age and the climatic conditions in Pondicherry. I would therefore request you kindly to drop me a line to confirm if I should reply to Dr. Reddick that you will be staying here for a month and that youw ill be treated as our guest and thus maintained by us during your period of stay here on a decent standard.</p>
+                <p>As you probably know, we do not give any salary to the teachers of our Centre, but they are all maintained by the Ashram on the same level as other members of the Ashram. We shall therefore provide you comfortable stay and board as our guest. Also, as I had suggested to you in my last letter, January would be the most suitable month for your stay here from the point of view of your age and the climatic conditions in Pondicherry. I would therefore request you kindly to drop me a line to confirm if I should reply to Dr. Reddick that you will be staying here for a month and that you will be treated as our guest and thus maintained by us during your period of stay here on a decent standard.</p>
                 <p>As we are withholding our answer to Dr. Reddick, pending your answer to this letter, I shall be grateful if you kindly write to me at the earliest.</p>
                 
                 <closer>
@@ -188,66 +188,89 @@
                     <salute>Yours sincerely,</salute>
                     
                     <signed>P.B. Saint-Hilaire
-                        Director of Education
-                        Dr. John G. Neihardt,
-                        Lecturer in English, 
-                        University of Missouri, 
-                        Route 7, 
-                        Columbia, Missouri</signed>
+                        Director of Education</signed>
+                        <address><addrLine>Dr. John G. Neihardt,</addrLine>
+                        <addrLine>Lecturer in English, </addrLine>
+                        <addrLine>University of Missouri,</addrLine> 
+                        <addrLine>Route 7, </addrLine>
+                        <addrLine>Columbia, Missouri</addrLine></address>
                 </closer>
                 
             </div1>
             
             <div1 type="attachment">
                 
-                <note>(should be Neihardt of <unclear>Neihardt)</unclear></note>
-                <opener>
-                    7b
-                </opener>
-                <p>Christian Neighhard                              Eva N.</p>
-                <p>born in Germany, died                          born in Germany</p>
-                <p>August 27, 1776. Private                      married 1757, died</p>
-                <p>in Berks Co. Pennsylvania                  1784</p>
-                <p>Militia, part of Pa. Rifle</p>
-                <p>Regiment. Served under Capt.</p>
-                <p>Henry Shade. Residence Berks</p>
-                <p>County. Enlisted April 14, 
-                    1776. Killed in action - re-
-                    ported missing Battle of Long
-                    Island, Aug. 27, 1776. Ser-
-                    vice, 4 mo. 13 days. Reference: 
+                <note>(should be <unclear>Neidhardt or Neihardt)</unclear></note>
+                
+                    <fw type="curatorial">7b</fw>
+                
+                <p>Christian Neighhard                              
+             born in Germany, died                          
+                August 27, 1776. Private                      
+               in Berks Co. Pennsylvania                 
+                Militia, part of Pa. Rifle
+                Regiment. Served under Capt.
+                Henry Shade. Residence Berks
+               County. Enlisted April 14, 
+                    1776. Killed in action - reported missing Battle of Long
+                    Island, Aug. 27, 1776. Service, 4 mo. 13 days. Reference: 
                     Pennsylvania in the Revolution
                     Page 222, Vol. II and p. 172.</p>
                 
-                <p>(Nihard or                                                                   nee
-                    Conrad (<unclear>Neighhard</unclear>    Elisabeth/Kruagor</p>
-                <p>                                                                        Born 1775, married</p>
-                <p>1772 Reading, Pa., born Sept.                   March 1795, died</p>
-                <p>7, 1772, died April 23,                                 Dec. 1862 (Center Co., Pa.)
-                    1862. </p>
+
+<p>Eva N. born in Germany married 1757, died 1784</p>
+
+
+                <p>Conrad (Nihard or                                                                   
+                     (Neighhard
+<note>1772</note> Reading, Pa., born Sept.                  
+                7, 1772, died April 23,                                
+                    1862.</p>
                 
-                <p>John Neihardt                                        Johanna nee Roxburg</p>
-                <p>Coal City, Indiana;                                Reading, Pa., born 1809,</p>
-                <p>born January 8, 1802, 1801                married may 1826, died</p>
-                <p>died July 1879.                                      May 1889.</p>
+<p>née Elisabeth/Krueger
+Born 1775, married
+March 1795, died 
+Dec. 1862 (Center Co., Pa.)</p>
+
+                <p>John Neihardt                                        
+                Coal City, Indiana;                                
+                born January 8, 1802, <note>1801</note>                
+                died July 1879.</p>                                     
                 
-                <p>Nicholas Neihardt                                Alice nee Culler</p>
-                <p>born July 1852,                                    born December 21, 1858,</p> 
-                <p>died in 1929                                         died F <unclear/> .12,1935</p>
-                <p>                                                               Married march 1876.</p>
-                
-                <p>John Gneisenau Neihardt                              Mona nee Martinsen,</p> 
-                <p>born January 8, 1881,                                     born May 26,1884, New</p>
-                <p><unclear>Springfield</unclear>, Illinois.     York City</p>
-                <p>Branson, Mo.                                                    Married<del>1997</del> (Nov. 28)</p>
-                <p>                                                                            Nov. 28, 1908</p>
+<p>Johanna née Roxburg
+Reading, Pa., born 1809,
+married May 1826, died
+May 1889.</p>
+
+
+                <p>Nicholas Neihardt                                
+                born July 1852,                                     
+                died in 1929</p>                                        
+                                                                               
+<p>Alice née Culler                
+born December 21, 1858,
+died Feb. 12, 1935
+Married March 1876.</p>
+
+                <p>John Gneisenau Neihardt                               
+                born January 8, 1881,                                     
+                <note>near Sharpsburg, Ill. east of Taylorville &amp; south of Springfield</note> <unclear>Springfield</unclear>, Illinois.     
+                Branson, Mo.</p>                                                 
+                                                                                            
+
+<p>Mona née Martinsen,
+born May 26,1884, New
+York City
+Married <del>1907</del> (Nov. 28)
+Nov. 28, 1908</p>
+
 
                 <p>Enid         Sigurd          Hilda           Alice</p>
                 
                 <note>Christened; John Greenfield?
-                    name changed to <unclear/> <unclear/> 
-                    when <unclear/> <unclear/> <unclear/><unclear/><unclear/><unclear/>
-                    <unclear/><unclear/><unclear/></note>
+                    name changed to  Gneisenau
+                    when I knew I'd be known as
+a poet &#8212; J.G.N.</note>
             </div1>
         </body>
         
