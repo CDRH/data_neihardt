@@ -122,7 +122,7 @@
                     <term>Omaha World-Herald</term>
                 </keywords>
             </textClass>
-            <correspDesc ref="">
+            <correspDesc>
                 <correspAction type="sentBy">
                     <persName>Young, Julius</persName>
                     <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
@@ -130,7 +130,6 @@
                 </correspAction>
                 <correspAction type="deliveredTo">
                     <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
-                    <placeName ref="http://www.geonames.org/4575352">Columbia (Mo.)</placeName>
                 </correspAction>
             </correspDesc>
             <particDesc>
@@ -139,7 +138,7 @@
         </profileDesc>
         
         <revisionDesc>
-            <change when="2018"><name xml:id="cme">Elliott, Catherine M.</name>Initial Encoding</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine M.</name> Initial Encoding</change>
             <change><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
             
         </revisionDesc>
@@ -150,22 +149,22 @@
             
             <div1 type="letter">
                 
-                <pb facs="nei.n1a.6.45.xml" />
-                <note type="curatorial">45</note>
+                <pb facs="nei.n1a.6.45" />
+                <fw type="curatorial">45</fw>
                 <fw type="curatorial"></fw>
                 
                 <opener>
-                    <note>To J.G. Neihardt</note>
+                    <note>To J.G. Neihardt July 24, 1967</note>
                     <dateline>
-                        July 24, 1967
-                        5835 Vine St. 
-                        Lincoln, Nebr. 68505
+                        
+                        5835 Vine St.<lb/>
+                        Lincoln, Nebr. 68505<lb/>
                         July 24, 1967
                     </dateline>
                     <salute>Dear Friend:</salute>
                 </opener>
-                <p>We are so happy to know that you will be with us again soon. We understood from your phone call that you would fly to Lincoln Monday July 31, and that we would take you in our car to Grand Island august 1st a nd your would return with us to stay until the trip to Bancroft, and we we assume back again to Lincoln after the august 6th pageant. We mentioned some time ago that Rev. Art Ernst (Warren Methodist Pastor) wanted to be present at Bancroft and that he would drive you back to Columbia. Last week he had surgery on his spine and must remain in Bryon Memorial Hospital a few more days. After the returns home he will be incapacitated for some time; so I am sorry to say he won't be able to take you home.</p>
-                <p>We have several obstacles in the way the week following August 6th (house repairs on the rental property next door east is quite involved, also company coming from Salt Lake City) or we would gladly take you back to Columbia after the Bancroft affair. We hope to hear from you again soon telling more details about your desires in connection with the Grand Island and the Bancroft trips. Also let us know what meetings on conferences you would like to have us arrange for your time in Lincoln.</p>
+                <p>We are so happy to know that you will be with us again soon. We understood from your phone call that you would fly to Lincoln Monday July 31, and that we would take you in our car to Grand Island August 1st and you would return with us to stay until the trip to Bancroft, and we we assume back again to Lincoln after the August 6th pageant. We mentioned some time ago that Rev. Art Ernst (Warren Methodist Pastor) wanted to be present at Bancroft and that he would drive you back to Columbia. Last week he had surgery on his spine and must remain in Bryan Memorial Hospital a few more days. After the returns home he will be incapacitated for some time; so I am sorry to say he won't be able to take you home.</p>
+                <p>We have several obstacles in the way the week following August 6th (house repairs on the rental property next door east is quite involved, also company coming from Salt Lake City) or we would gladly take you back to Columbia after the Bancroft affair. We hope to hear from you again soon telling more details about your desires in connection with the Grand Island and the Bancroft trips. Also let us know what meetings or conferences you would like to have us arrange for your time in Lincoln.</p>
 
             <closer>
                 <salute>Sincerely</salute>
