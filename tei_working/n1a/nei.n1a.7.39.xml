@@ -114,7 +114,7 @@
                     <term></term>
                 </keywords>
             </textClass>
-            <correspDesc ref="">
+            <correspDesc>
                 <correspAction type="sentBy">
                     <persName>Nelson, Burton R.</persName>
                     <placeName ref="http://www.geonames.org/5069802">Hastings (Neb.)</placeName>
@@ -141,18 +141,18 @@
             
             <div1 type="letter">
                 
-                <pb facs="nei.n1a.7.39.xml"/>
-                <note type="curatorial">39</note>
-                <fw type="authorial">HASTINGS MUSEUM</fw>
+                <pb facs="nei.n1a.7.39"/>
+                <fw type="curatorial">39</fw>
+                <fw type="letterhead">HASTINGS MUSEUM<lb/>
                 
-                <opener>
+                
                     
                     <address>
                         <addrLine>
                             HASTINGS, NEBRASKA, 68901
                         </addrLine>
-                    </address>
-                    
+                    </address></fw>
+                    <opener>
                     <dateline>
                         NOV. 18, 1968
                     </dateline>
@@ -160,18 +160,18 @@
                     <salute>DEAR DR. NEIHARDT,</salute>
                 </opener>
                 
-                <p>I HAVE LIVED ONLY 38 YEARS, BUT I HAVE COME TO REALIZE THAT IN EVERY MAN'S LIFE THERE ARE MOMENTS WHICH ARE JEWELS TO BE PUT IN HIS TREAURE CHEST OF MEMORIES.</p>
-                <p>LAST SATURDAY NIGHT AT THE STHUR MUSEUM YOU GAVE MY WIFE AND I A WHOLE STRING OF PEARLS.</p>
-                <p>TO HEAR YOU RECITE YOUR OWN WORK MADE SUCH A DIFFERENCE. I HAVE ALWAYS FELT WHEN I READ A POEM OR LYRIC MYSELF, IT WAS LIKE PLAYING A FLUTE SONG ON THE TUBA - AND YOU PROVED ME RIGHT! THE PITCH, INFLECTION ETC. OF YOUR OWN VOICE MADE IT RIGHT.</p>
-                <p>THANK YOU AGAIN FOR A WONDERFUL MEMORY.</p>
+                <p>I have lived only 38 years, but I have come to realize that in every man's life there are moments which are jewels to be put in his treaure chest of memories.</p>
+                <p>Last Saturday night at the <sic>Sthur</sic> museum you gave my wife and I a whole string of pearls.</p>
+                <p>To hear you recite your own work made such a difference. I have always felt when I read a poem or lyric myself, it was like playing a flute song on the tuba &#8212; and you proved me right! the pitch, inflection etc. of your own voice made it right.</p>
+                <p>Thank you again for a wonderful memory.</p>
                 
                 <closer>
-                    <salute>SINCERELY,</salute>
-                    <signed>BURTON R. NELSON DIR.</signed>
-                    <signed>HASTINGS MUSEUM</signed>
+                    <salute>Sincerely,</salute>
+                    <signed>Burton R. Nelson Dir.</signed>
+                    <signed>Hastings Museum</signed>
                 </closer>
                 
-                <note>J.M. MCDONALD PLANETARIUM . HOUSE OF YESTERDAY</note>
+                <fw type="letterhead">J.M. MCDONALD PLANETARIUM . HOUSE OF YESTERDAY</fw>
             </div1>
             
         </body>

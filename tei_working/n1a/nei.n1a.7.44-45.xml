@@ -5,8 +5,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Letter from Ivan E. Painton to John G. Neihardt, December 18, 1968</title>
+                <title type="main">Letter from Ivan E. Painton and Mildred Painton to John G. Neihardt, December 18, 1968</title>
                 <author>Painton, Ivan E. (Ivan Emory), 1909-</author>
+<author>Painton, Mildred</author>
                 <principal>Gossin, Pamela</principal>
             </titleStmt>
             <editionStmt>
@@ -42,9 +43,10 @@
             <sourceDesc>
                 <bibl>
                     <author>Painton, Ivan E. (Ivan Emory), 1909-</author>
-                    <title level="m" type="main">Letter from Ivan E. Painton to John G. Neihardt</title>
+<author>Painton, Mildred</author>
+                    <title level="m" type="main">Letter from Ivan E. Painton and Mildred Painton to John G. Neihardt</title>
                     <date when="1968-12-18">December 18, 1968</date>
-                    <extent>2 pages</extent>
+                    <extent>1 page; 1 envelope</extent>
                 </bibl>
                 <msDesc>
                     <msIdentifier>
@@ -52,13 +54,13 @@
                         <idno></idno>
                     </msIdentifier>
                     <msContents>
-                        <p>2 pages</p>
+                        <p>1 page; 1 envelope</p>
                     </msContents>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
                                 <support></support>
-                                <extent>2 pages
+                                <extent>1 page; 1 envelope
                                     <dimensions unit="mm"><height></height><width></width></dimensions>
                                 </extent>
                                 <condition>
@@ -120,6 +122,7 @@
             <correspDesc>
                 <correspAction type="sentBy">
                     <persName>Painton, Ivan E. (Ivan Emory), 1909-</persName>
+                    <persName>Painton, Mildred</persName>
                     <placeName ref="http://www.geonames.org/4536124">Fairview (Okla.)</placeName>
                     <date when="1968-12-18"/>
                 </correspAction>
@@ -145,7 +148,7 @@
             
             <div1 type="card">
                 
-                <pb facs="nei.n1a.7.44-45.xml"/>
+                <pb facs="nei.n1a.7.44"/>
                 <note type="curatorial"></note>
                 <fw type="authorial"></fw>
                 
@@ -163,23 +166,23 @@
             
             <div1 type="envelope">
                 
-                <pb facs="nei.n1a.7.44-45.xml"/>
+                <pb facs="nei.n1a.7.45"/>
                 <note type="curatorial">45</note>
                 <fw type="authorial"></fw>
-                
+         <note>Artist from Rock show &#8212;</note>       
                 <ab type="return">
                     <address>
                     <addrLine>
-                        Ivan E. Painton 
-                        ORION
-                        FAIRVIEW, OKLAHOMA
-                        73737
-                    </addrLine>
+                        Ivan E. Painton</addrLine>
+                        <addrLine>ORION</addrLine>
+                        <addrLine>FAIRVIEW, OKLAHOMA</addrLine>
+                        <addrLine>73737</addrLine>
+
                     </address>
                 </ab>
                 
                 <ab type="postmark">
-                    <lb/>
+                    
                     CHESTER, OK.
                     DEC
                     18
@@ -197,10 +200,10 @@
                 <ab type="address">
                     <address>
                         <addrLine>
-                            Dr. John Neihardt 
-                            5835 Vine, 
-                            Lincoln, Nebraska
-                            68503
+                            Dr. John Neihardt</addrLine>
+                            <addrLine>5835 Vine,</addrLine>
+                            <addrLine>Lincoln, Nebraska</addrLine>
+                            <addrLine>68503
                         </addrLine>
                     </address>
                 </ab>
