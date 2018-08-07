@@ -5,8 +5,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Letter from Sandy to John G. Neihardt, April 8, 1969</title>
-                <author>Sandy</author>
+                <title type="main">Letter from Sanford D. Gray to John G. Neihardt, April 8, 1969</title>
+                <author>Gray, Sanford D.</author>
                 <principal>Gossin, Pamela</principal>
             </titleStmt>
             <editionStmt>
@@ -41,10 +41,10 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Sandy</author>
+                    <author>Gray, Sanford D.</author>
                     <title level="m" type="main">Letter from Sandy to John G. Neihardt</title>
                     <date when="1969-04-08">April 8, 1969</date>
-                    <extent>1 page</extent>
+                    <extent>2 pages; 1 envelope</extent>
                 </bibl>
                 <msDesc>
                     <msIdentifier>
@@ -52,13 +52,13 @@
                         <idno></idno>
                     </msIdentifier>
                     <msContents>
-                        <p>1 type written page</p>
+                        <p>2 type written pages; 1 envelope</p>
                     </msContents>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
                                 <support></support>
-                                <extent>1 page
+                                <extent>2 pages; 1 envelope
                                     <dimensions unit="mm"><height></height><width></width></dimensions>
                                 </extent>
                                 <condition>
@@ -116,13 +116,12 @@
             </textClass>
             <correspDesc>
                 <correspAction type="sentBy">
-                    <persName>Sandy</persName>
-                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                    <persName>Gray, Sanford D.</persName>
                     <date when="1969-04-08"/>
                 </correspAction>
                 <correspAction type="deliveredTo">
                     <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
-                    <placeName></placeName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
                 </correspAction>
             </correspDesc>
             <particDesc>
@@ -142,7 +141,7 @@
             
             <div1 type="letter">
                 
-                <pb facs="nei.n1a.8.11-13.xml"/>
+                <pb facs="nei.n1a.8.11"/>
                 <note type="curatorial">11</note>
                 <fw type="authorial">
                     THE UNIVERSITY OF SOUTH DAKOTA
@@ -153,10 +152,9 @@
                     
                     <address>
                         <addrLine>
-                            Dr. John G Neihardt 
-                            5835 Vine Road 
-                            Lincoln, Nebraska
-                        </addrLine>
+                            Dr. John G Neihardt</addrLine>
+                            <addrLine>5835 Vine Road</addrLine> 
+                            <addrLine>Lincoln, Nebraska</addrLine>
                     </address>
                     
                     <salute>
@@ -164,14 +162,14 @@
                     </salute>
                 </opener>
                 
-                <p>Well, it looks like i"m up to my old tricks again. I promised to reply to your letters prompty and sudenly find that the months have gone by before I pick up a pen and answer. I am glad to hear that the cataract operation was a success, and it sounds like the autobiography is coming along great. I am looking forward to its release and will twist your arm to get an autographed copy to put on that special bookshelf that I reserve for my dear friends. We are still planning to bring you up here and either film or Video-tape more of your material to fill out our collection. Incidently, we are planning to transfer all of our Video-tapes of you to Motion Picture film for greater permanence and ease of distribution.</p> 
-                <p>Things have been going great in our Department. We have more work than we can handle which is the only way I would have it. You know me well enough to know that I cna't stand to sit still (which probably accounts for the long delays between my letters. I'm always out somehwere doing something.) We have a dded one full time position next year. Which doens't mean that I can sit back and take it easy, but rather that we can accomplish more. Never having done much sitting still yourself, I guess you know what it feels like.</p>
-                <p>I have had a number of requests for your records and although I am out of stock right now and am low on funds at present, I am expecting a sizeable refund on my income tax and will place an order for additional records in the near future. I hope I can interest some larger record company or some foundation to take up the responsibility of producing and distributing the tapes and the records we now have. The master tapes and the stampers for the records permanent repository for these materials so that they will be more readily available for reserach and distribution. At present I don't see any way that I can bring out a new record of our latest tapes from my personal resources. Hopefully we can find some financial support from a foundation, library fund, or some other source. They should be made available. The last tapes we did I think are among the best we have done.</p>
+                <p>Well, it looks like I'm up to my old tricks again. I promised to reply to your letters prompty and sudenly find that the months have gone by before I pick up a pen and answer. I am glad to hear that the cataract operation was a success, and it sounds like the autobiography is coming along great. I am looking forward to its release and will twist your arm to get an autographed copy to put on that special bookshelf that I reserve for my dear friends. We are still planning to bring you up here and either film or Video-tape more of your material to fill out our collection. Incidently, we are planning to transfer all of our Video-tapes of you to Motion Picture film for greater permanence and ease of distribution.</p> 
+                <p>Things have been going great in our Department. We have more work than we can handle which is the only way I would have it. You know me well enough to know that I can't stand to sit still (which probably accounts for the long delays between my letters. I'm always out somewhere doing something.) We have added one full time position next year. Which doesn't mean that I can sit back and take it easy, but rather that we can accomplish more. Never having done much sitting still yourself, I guess you know what it feels like.</p>
+                <p>I have had a number of requests for your records and although I am out of stock right now and am low on funds at present, I am expecting a sizeable refund on my income tax and will place an order for additional records in the near future. I hope I can interest some larger record company or some foundation to take up the responsibility of producing and distributing the tapes and the records we now have. The master tapes and the stampers for the records permanent repository for these materials so that they will be more readily available for research and distribution. At present I don't see any way that I can bring out a new record of our latest tapes from my personal resources. Hopefully we can find some financial support from a foundation, library fund, or some other source. They should be made available. The last tapes we did I think are among the best we have done.</p>
                 
-                <note type="authorial">telecommunications center</note>
+                <fw type="letterhead">telecommunications center</fw>
                 
-                <pb facs="nei.n1a.8.11-13.xml"/>
-                <note type="curatorial">12</note>
+                <pb facs="nei.n1a.8.12"/>
+                <fw type="curatorial">12</fw>
                 <fw type="authorial"></fw>
                 
                 <p>Say hello to your family for me, especially to those lovely grand-daughters of yours. Is Alice still raising and training horses? Write to me and let me know how you are and how the book is coming. We miss you up here. My students are always asking "When will we get to see Dr. Neihardt again?" I hope very soon.</p>
@@ -182,15 +180,15 @@
             
             <div1 type="envelope">
                 
-                <pb facs="nei.n1a.8.11-13.xml"/>
-                <note type="curatorial">13</note>
+                <pb facs="nei.n1a.8.13"/>
+                <fw type="curatorial">13</fw>
                 <fw type="authorial"></fw>
                 
                 <p>Film Department</p>
                 
                 <ab type="return">
-                    13 THE UNIVERSITY OF SOUTH DAKOTA
-                    VERMILLION 57069
+                    <address><addrLine>13 THE UNIVERSITY OF SOUTH DAKOTA</addrLine>
+                    <addrLine>VERMILLION 57069</addrLine></address>
                 </ab>
                 
                 <ab type="postmark">
@@ -202,12 +200,12 @@
                 </ab>
                 
                 <note>Ans. 6-10-69</note>
-                
+                <note>4-10-69</note>
                 <ab type="address">
-                    Dr. John G. Neihardt
-                    C/O Mr. Julius D. Young 
-                    5835 Vine Street 
-                    Lincoln, Nebraska 68505
+                    <address><addrLine>Dr. John G. Neihardt</addrLine>
+                    <addrLine>C/O Mr. Julius D. Young</addrLine> 
+                    <addrLine>5835 Vine Street </addrLine>
+                    <addrLine>Lincoln, Nebraska 68505</addrLine></address>
                 </ab>
                 
             </div1>

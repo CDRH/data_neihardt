@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1a.8.11-13">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1a.8.16-17">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Letter from Sandy to John G. Neihardt, April 8, 1969</title>
-                <author>Sandy</author>
+                <title type="main">Letter from Ethel Sweet to John G. Neihardt, April 13, 1969</title>
+                <author>Sweet, Ethel</author>
                 <principal>Gossin, Pamela</principal>
             </titleStmt>
             <editionStmt>
@@ -31,7 +31,7 @@
                     <addrLine>University of Nebraska-Lincoln</addrLine>
                     <addrLine>Lincoln, NE 68588-4100</addrLine>
                 </address>
-                <idno>nei.n1a.8.11-13</idno>
+                <idno>nei.n1a.8.16-17</idno>
                 <availability>
                     <p></p>
                 </availability>
@@ -41,10 +41,10 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Sandy</author>
-                    <title level="m" type="main">Letter from Sandy to John G. Neihardt</title>
-                    <date when="1969-04-08">April 8, 1969</date>
-                    <extent>1 page</extent>
+                    <author>Sweet, Ethel</author>
+                    <title level="m" type="main">Letter from Ethel Sweet to John G. Neihardt</title>
+                    <date when="1969-04-13">April 13, 1969</date>
+                    <extent>2 pages; 1 envelope</extent>
                 </bibl>
                 <msDesc>
                     <msIdentifier>
@@ -52,13 +52,13 @@
                         <idno></idno>
                     </msIdentifier>
                     <msContents>
-                        <p>1 type written page</p>
+                        <p>2 hand written pages; 1 envelope</p>
                     </msContents>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
                                 <support></support>
-                                <extent>1 page
+                                <extent>2 pages; 1 envelope
                                     <dimensions unit="mm"><height></height><width></width></dimensions>
                                 </extent>
                                 <condition>
@@ -105,7 +105,7 @@
                     <term></term>
                 </keywords>
                 <keywords scheme="original" n="people">
-                    <term>Sandy</term>
+                    <term>Sweet, Ethel</term>
                 </keywords>
                 <keywords scheme="original" n="places">
                     <term></term>
@@ -116,9 +116,9 @@
             </textClass>
             <correspDesc>
                 <correspAction type="sentBy">
-                    <persName>Sandy</persName>
+                    <persName>Sweet, Ethel</persName>
                     <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
-                    <date when="1969-04-08"/>
+                    <date when="1969-04-13"/>
                 </correspAction>
                 <correspAction type="deliveredTo">
                     <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
@@ -142,17 +142,16 @@
             
             <div1 type="letter">
                 
-                <pb facs="nei.n1a.8.11-13.xml"/>
-                <note type="curatorial">16</note>
+                <pb facs="nei.n1a.8.16"/>
+                <fw type="curatorial">16</fw>
                 <fw type="authorial"></fw>
                 
                 <opener>
                     
                     <address>
                         <addrLine>
-                            800 So. 47th 
-                            Lincoln, Nebr.
-                        </addrLine>
+                            800 So. 47th</addrLine>
+                            <addrLine>Lincoln, Nebr.</addrLine>
                     </address>
                     
                     <dateline>Apr. 13, 1969</dateline>
@@ -164,50 +163,50 @@
                 
                 <p>You possess a marvelous talent. To put into verse what you feel in your heart, is a rare ability.</p> 
                 <p>Many times I have felt the beauty of nature as you expressed in your verse written on a Sunday morning, and wished I could express my feelings.</p>
-                <p>Again let me say "thank you" for performing so beautifically for our Phi Delta Gamma group.</p>
-                <p>Please accept this check as a small token of our sincere</p>
-                
+                <p>Again let me say "thank you" for performing so beautifully for our Phi Delta Gamma group.</p>
+                <p>Please accept this check as a small token of our sincere 
+                   <pb facs="nei.n1a.8.16a"/>
                 <figure/>
-                <p>appreciation. Use it as you wish.</p>
-                
+                 appreciation. Use it as you wish.</p>
+                <closer>
                 <salute>Sincerely,</salute>
                 <signed>Ethel Sweet</signed>
-                
-                <figure/>
-                <p>Hallmark</p>
+                </closer>
+                <fw><figure/>
+                Hallmark
                 <figure/> 
-                <p>HALLMARK CARDS INC 
-                    MADE IN U.S.A.</p> 
+                HALLMARK CARDS INC <lb/>
+                    MADE IN U.S.A.</fw>
             </div1>
             
             <div1 type="envelope">
-                
-                <pb facs="nei.n1a.8.11-13.xml"/>
-                <note type="curatorial">13</note>
+                             <pb facs="nei.n1a.8.17"/>   
+                <pb facs="nei.n1a.8.17"/>
+                <fw type="curatorial">17</fw>
                 <fw type="authorial"></fw>
                 
-                <p>Film Department</p>
+               
                 
                 <ab type="return">
-                    13 THE UNIVERSITY OF SOUTH DAKOTA
-                    VERMILLION 57069
+                    <address>
+                    <addrLine>Ethel Sweet</addrLine>
+                    <addrLine>800 So. 47th</addrLine>
+                    <addrLine>Lincoln, Nebr. 68510</addrLine>
+</address>
                 </ab>
                 
                 <ab type="postmark">
-                    The University of South Dakota Home of "The Coyotes" Since 1882
+                    Lincoln NB PM 13 APR 1969
                     
-                    VERMILLION 
-                    APR-9'69
-                    S DAK. P.B. METER 326664 U.S. POSTAGE 06: <figure/>
+                  <figure/>
                 </ab>
                 
-                <note>Ans. 6-10-69</note>
-                
+                <note>Sweet Acknowledged Bought Book &#8212;</note>
+                <note>4-14-69</note>
                 <ab type="address">
-                    Dr. John G. Neihardt
-                    C/O Mr. Julius D. Young 
-                    5835 Vine Street 
-                    Lincoln, Nebraska 68505
+                    <address><addrLine>Dr. John G. Neihardt</addrLine>
+                    <addrLine>5835 Vine St.</addrLine>
+                    <addrLine>Lincoln, Nebraska</addrLine></address>
                 </ab>
                 
             </div1>
@@ -217,37 +216,4 @@
         <back></back>
     </text>
 </TEI>
-800 So. 47th 
-Lincoln, Nebr. 
-Apr. 13, 1969 
-16
-Dear Dr. Neihardt, 
-You possess a marvelous talent. To put into verse what you feel in your heart, is a rare ability. 
-Many times I have felt the beauty of nature as you expressed in your verse written on a Sunday morning, and wished I could express my feelings. 
-Again let me say "thank you" for performing so beautifically for our Phi Delta Gamma group. 
-Please accept this check as a small token of our sincere  
 
-appreciation. Use it as you wish. 
-Sincerely,
-Ethel Sweet 
-<figure/>
-Hallmark
-<figure/> HALLMARK CARDS INC 
-MADE IN U.S.A. 
-
-Ethel Sweet 
-800 So. 47th 
-Lincoln, Nebr. 68510 
-17 
-LINCOLN. NB
-PM
-19 APR
-1969 
-UNITED STATES 6c
-Sweet acknowledged 
-Bought book -
-Dr. John G. Neihardt
-5835 Vine St. 
-Lincoln 
-Nebraska 
-4-14-69 

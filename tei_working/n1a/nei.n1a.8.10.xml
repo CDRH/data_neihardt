@@ -145,12 +145,12 @@
             
             <div1 type="letter">
                 
-                <pb facs="nei.n1a.8.10.xml"/>
-                <note type="curatorial">10</note>
-                <fw type="authorial">
-                    SUPERINTENDENT PUBLIC INSTRUCTION
-                    HALL COUNTY
-                    GRAND ISLAND, NEBRASKA
+                <pb facs="nei.n1a.8.10"/>
+                <fw type="curatorial">10</fw>
+                <fw type="letterjead">
+                    SUPERINTENDENT PUBLIC INSTRUCTION<lb/>
+                    HALL COUNTY<lb/>
+                    GRAND ISLAND, NEBRASKA<lb/>
                     
                     ELDON P. CUNNINGHAM, SUPERINTENDENT     MRS. ELNORA M. WOODS, SECRETARY
                 </fw>
@@ -160,11 +160,11 @@
                     
                     <address>
                         <addrLine>
-                            Mr. John G. Neihardt
-                            c/o J.D. Young 
-                            5835 Vine Street 
-                            Lincoln, Nebraska 68500
-                        </addrLine>
+                            Mr. John G. Neihardt</addrLine>
+                            <addrLine>c/o J. D. Young</addrLine>
+                            <addrLine>5835 Vine Street</addrLine>
+                            <addrLine>Lincoln, Nebraska 68500</addrLine>
+
                     </address>
                     
                     <salute>
@@ -174,20 +174,21 @@
                 
                 <p>Enclosed are two pictures taken at Stuhr Museum after the play "800 Rubles".</p> 
                 <p>Would there be any possibility of your coming out to the Halsey National Forest, Halsey, Nebraska on either May 26 p.m., 27 or 28 a.m.?</p>
-                <p>The District IV County Superintendents Association has a meeting there on these days and we are look-ing for program material.</p>
+                <p>The District IV County Superintendents Association has a meeting there on these days and we are looking for program material.</p>
                 <p>If you could come what would the fee be?</p>
-                
+                <closer>
                 <salute>Sincerely yours,</salute>
                 <signed>Eldon Cunningham</signed>
-                <signed>Eldon Cunningham</signed> 
-                <signed>County Superintendent</signed>
-                <signed>Court House</signed>
-                <signed>Grand Island, Nebraska 68801</signed>
+                <signed>Eldon Cunningham<lb/>
+                County Superintendent</signed>
+                <address><addrLine>Court House</addrLine>
+                <addrLine>Grand Island, Nebraska 68801</addrLine></address>
                 
                 <note type="authorial">
                     EC:ew
                     Enclosure
                 </note>
+</closer>
                 
             </div1>
             

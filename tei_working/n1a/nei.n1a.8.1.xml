@@ -6,7 +6,7 @@
   <fileDesc>
    <titleStmt>
     <title type="main">Letter from Margaret Crary to John G. Neihardt, January 2, 1969</title>
-    <author>Crary, Margaret</author>
+    <author>Crary, Margaret 1906-</author>
     <principal>Gossin, Pamela</principal>
    </titleStmt>
    <editionStmt>
@@ -41,10 +41,10 @@
    
    <sourceDesc>
     <bibl>
-     <author>Crary, Margaret</author>
+     <author>Crary, Margaret 1906-</author>
      <title level="m" type="main">Letter from Margaret Crary to John G. Neihardt</title>
      <date when="1969-01-02">January 2, 1969</date>
-     <extent>2 pages</extent>
+     <extent>1 page</extent>
     </bibl>
     <msDesc>
      <msIdentifier>
@@ -52,13 +52,13 @@
       <idno></idno>
      </msIdentifier>
      <msContents>
-      <p>2 pages</p>
+      <p>1 page</p>
      </msContents>
      <physDesc>
       <objectDesc>
        <supportDesc>
         <support></support>
-        <extent>2 pages
+        <extent>1 page
          <dimensions unit="mm"><height></height><width></width></dimensions>
         </extent>
         <condition>
@@ -109,6 +109,8 @@
      <term>Tibbles, Susette La Flesche, 1854-1903</term>
      <term>La Flesche, Francis, 1857-1932</term>
      <term>Crary, Ralph W.</term>
+<term>Tibbles, Thomas Henry, 1840-1928</term>
+<term>Picotte, Susan LaFlesche, 1865-1915</term>
     </keywords>
     <keywords scheme="original" n="places">
      <term>Sioux City (Iowa)</term>
@@ -121,13 +123,12 @@
    </textClass>
    <correspDesc>
     <correspAction type="sentBy">
-     <persName>Crary, Margaret</persName>
+     <persName ref="http://viaf.org/viaf/48186175">Crary, Margaret 1906-</persName>
      <placeName ref="http://www.geonames.org/4876523">Sioux City (Iowa)</placeName>
      <date when="1969-01-02"/>
     </correspAction>
     <correspAction type="deliveredTo">
      <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
-     <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
     </correspAction>
    </correspDesc>
    <particDesc>
@@ -147,14 +148,14 @@
    
    <div1 type="letter">
     
-    <pb facs="nei.n1a.8.1.xml"/>
-    <note type="curatorial"></note>
-    <fw type="authorial">
+    <pb facs="nei.n1a.8.1"/>
+    <fw type="curatorial">1</fw>
+    <fw type="letterhead">
      <address>
       <addrLine>
-       Margaret Crary
-       3213 Viking Drive
-       Sioux City, Iowa 51104
+       Margaret Crary</addrLine>
+       <addrLine>3213 Viking Drive</addrLine>
+       <addrLine>Sioux City, Iowa 51104
       </addrLine>
      </address>
     </fw>
@@ -179,8 +180,7 @@
      <p>If I write this story you can be sure that I will present Susette in a favorable light.
       Otherwise, I would not write it. After all, she will be my heroine!</p> 
      <p>I may come to Lincoln again. I did not get through all the material there.</p>
-    
-    <note type="curatorial">1</note>
+
     <fw type="authorial">-2-</fw>
     
     <p>I was able to buy a copy of Francis La Flesche's book, THE MIDDLE FIVE, and enjoyed reading
