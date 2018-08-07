@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1a.7.29-32">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1a.7.27-32">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -31,7 +31,7 @@
                     <addrLine>University of Nebraska-Lincoln</addrLine>
                     <addrLine>Lincoln, NE 68588-4100</addrLine>
                 </address>
-                <idno>nei.n1a.7.29-32</idno>
+                <idno>nei.n1a.7.27-32</idno>
                 <availability>
                     <p></p>
                 </availability>
@@ -44,7 +44,7 @@
                     <author>Nelson, Rueben H.</author>
                     <title level="m" type="main">Letter from Rueben H. Nelson to John G. Neihardt</title>
                     <date when="1968-08-01">August 1, 1968</date>
-                    <extent>4 page</extent>
+                    <extent>6 pages</extent>
                 </bibl>
                 <msDesc>
                     <msIdentifier>
@@ -52,13 +52,13 @@
                         <idno></idno>
                     </msIdentifier>
                     <msContents>
-                        <p>4 typed pages</p>
+                        <p>4 typed pages; 2 handwritten pages</p>
                     </msContents>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
                                 <support></support>
-                                <extent>4 pages
+                                <extent>6 pages
                                     <dimensions unit="mm"><height></height><width></width></dimensions>
                                 </extent>
                                 <condition>
@@ -171,7 +171,26 @@
     
     <text>
         <body>
-            
+<div1 type="note">
+                <pb facs="nei.n1a.7.22-28.xml"/>
+                <note type="curatorial">27</note>
+                <fw type="authorial"></fw>
+                
+                <dateline>8-1-68 27</dateline>
+                <salute>Mr. Neihardt-</salute>
+                
+                <p>I hesitate - and I am not pleased - to send you this poorly typed letter as well as the notes and comments on the slides and prints. But to get a good typing job done would mean another delay until August 10th</p>
+                <p>so</p>
+                
+                <pb facs="nei.n1a.7.22-28.xml"/>
+                <note type="curatorial">28</note>
+                <fw type="authorial"></fw>
+                
+                <p>Please accept my apology for  the crudities - we will trust that next time there will be better craftsmanship available.</p> 
+                <signed>Wanblee Sha</signed>
+            </div1>            
+
+
             <div1 type="letter">
                 
                 <pb facs="nei.n1a.7.29-32.xml"/>
