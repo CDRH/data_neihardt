@@ -44,7 +44,7 @@
                     <author>Neihardt, Sigurd</author>
                     <title level="m" type="main">Letter from Sigurd Neihardt to John G. Neihardt</title>
                     <date when="1969-09-30">September 30, 1969</date>
-                    <extent>1 pages</extent>
+                    <extent>3 pages; 1 envelope</extent>
                 </bibl>
                 <msDesc>
                     <msIdentifier>
@@ -52,13 +52,13 @@
                         <idno></idno>
                     </msIdentifier>
                     <msContents>
-                        <p>2 hand written pages</p>
+                        <p>3 hand written pages; 1 envelope</p>
                     </msContents>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
                                 <support></support>
-                                <extent>1 pages
+                                <extent>3 pages; 1 envelope
                                     <dimensions unit="mm"><height></height><width></width></dimensions>
                                 </extent>
                                 <condition>
@@ -106,7 +106,9 @@
                 </keywords>
                 <keywords scheme="original" n="people">
                     <term>Neihardt, Sigurd</term>
-                    <term>Maxie</term>
+                    <term>Neihardt, Maxine Melton</term>
+<term>Young, Julius D.</term>
+<term>Young, Myrtle</term>
                 </keywords>
                 <keywords scheme="original" n="places">
                     <term>Phoenix (Ariz.)</term>
@@ -123,7 +125,7 @@
                 </correspAction>
                 <correspAction type="deliveredTo">
                     <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
-                    <placeName></placeName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
                 </correspAction>
             </correspDesc>
             <particDesc>
@@ -143,7 +145,7 @@
             
             <div1 type="letter">
                 
-                <pb facs="nei.n1a.8.31-32.xml"/>
+                <pb facs="nei.n1a.8.31-32"/>
                 <note type="curatorial">31</note>
                 <fw type="authorial"></fw>
                 

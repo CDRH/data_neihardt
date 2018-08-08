@@ -44,7 +44,7 @@
                     <author>Kay, Ernest</author>
                     <title level="m" type="main">Letter from Ernest Kay to John G. Neihardt</title>
                     <date when="1969-08-06">August 6, 1969</date>
-                    <extent>2 pages and 1 envelope</extent>
+                    <extent>2 pages; 1 envelope</extent>
                 </bibl>
                 <msDesc>
                     <msIdentifier>
@@ -52,13 +52,13 @@
                         <idno></idno>
                     </msIdentifier>
                     <msContents>
-                        <p>2 hand written page and 1 envelope</p>
+                        <p>2 typed pages; envelope</p>
                     </msContents>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
                                 <support></support>
-                                <extent>2 pages and 1 envelope
+                                <extent>2 pages; envelope
                                     <dimensions unit="mm"><height></height><width></width></dimensions>
                                 </extent>
                                 <condition>
@@ -149,7 +149,7 @@
             
             <div1 type="letter">
                 
-                <pb facs="nei.n1a.8.27-29.xml"/>
+                <pb facs="nei.n1a.8.27_0001"/>
                 <note type="curatorial">27</note>
                 <fw type="authorial"></fw>
                 
@@ -157,12 +157,12 @@
                     
                     <address>
                         <addrLine>
-                            Mr. John G. Neihardt, 
-                            Poet Laureate of the State of Nebraska, 
-                            5835 Vine Street, 
-                            LINCOLN,
-                            Nebraska 68505, 
-                            United States of America.
+                            Mr. John G. Neihardt,</addrLine>
+                            <addrLine>Poet Laureate of the State of Nebraska,</addrLine>
+                            <addrLine>5835 Vine Street,</addrLine>
+                           <addrLine> LINCOLN,</addrLine>
+                            <addrLine>Nebraska 68505,</addrLine>
+                            <addrLine>United States of America.
                         </addrLine>
                     </address>
                     
@@ -173,32 +173,32 @@
                     </salute>
                 </opener>
                 
-                <p>At the request of many libraries, institutions, poetry organizations and poets in many parts of the world, we have decided to produce a very much enlarged Second Edition of the International Who's Who in Poetry early in 1970, and I am enclosing for your interest a brochure regarding this work together with an Entry Form for USS1,000 Poetry Awards. I am also enclosing a personal biographical questionnaire for your own use as we much want to include your own biography and bibliography in the enlarged Second Edition.</p>
+                <p>At the request of many libraries, institutions, poetry organizations and poets in many parts of the world, we have decided to produce a very much enlarged Second Edition of the International Who's Who in Poetry early in 1970, and I am enclosing for your interest a brochure regarding this work together with an Entry Form for US<del>S</del>1,000 Poetry Awards. I am also enclosing a personal biographical questionnaire for your own use as we much want to include your own biography and bibliography in the enlarged Second Edition.</p>
                 <p>It is my intention to devote a considerable section of the book to Poets Laureate of the world and I would be most grateful if you could kindly send a photograph of yourself to me for inclusion in this particular section.</p>
                 <p>We are most anxious to be as comprehensive as we possibly can and I would indeed be grateful if you could let me have any information you can obtain regarding names and addresses of poets in the State of Nebraska (to whom we will immediately airmail identical questionnaires) and also of poetry societies, clubs and other organizations in the State of Nebraska, as we want to include a substantial appendix listing, so far as possible, all poetry organizations in the world.</p>
-                <p>.../</p>
+                <fw>.../</fw>
                 
-                <pb facs="nei.n1a.8.27-29.xml"/>
-                <note type="curatorial"></note>
-                <fw type="authorial"></fw>
+                <pb facs="nei.n1a.8.27_0002l"/>
+
                 
                 <p>I do hope you will see fit to co-operate with us in this important venture and I am very much looking forward to hearing from you.</p>
-                
+                <closer>
                 <salute>With thanks and best wishes,</salute>
                 <salute>Sincerely yours,</salute>
                 <signed>Ernest Kay</signed>
-                <signed>Ernest Kay,</signed>
-                <signed>Editor.</signed>
+                <signed>Ernest Kay,<lb/>Editor.</signed>
                 
-                <note>Encs.</note>
+                <note>Encs.</note></closer>
                 <note>Sent address head to Dick Cavett 4-19-71</note>
-                
-                <pb facs="nei.n1a.8.27-29.xml"/>
+            </div1>
+                <pb facs="nei.n1a.8.28"/>
                 <note type="curatorial">28</note>
-                <fw type="authorial">
-                    INTERNATIONAL WHO'S WHO IN POETRY
+
+<div1 type="enclosure">
+                <head>
+                    INTERNATIONAL WHO'S WHO IN POETR<lb/>
                     SECOND EDITION  1970-1971   IN ACTIVE PREPARATION
-                </fw>
+                </head>
                 
                 <figure/>
                 <fw>The late John Masefield, O.M., Poet Laureate to Queen Elizabeth II of England from 1930 to 1967, to whom the First Edition of the International Who's Who in Poetry was dedicated, by permission.</fw>
@@ -206,9 +206,8 @@
             </div1>
             
             <div1 type="envelope">
-                <pb facs="nei.n1a.8.27-29.xml"/>
-                <note type="curatorial">28</note>
-                <fw type="authorial"></fw>
+                <pb facs="nei.n1a.8.29_0001"/>
+
                 
                 <note type="authorial">
                     International 
@@ -223,17 +222,17 @@
                     Tel 01-7994864
                 </note>
                 
-                <pb facs="nei.n1a.8.27-29.xml"/>
+                <pb facs="nei.n1a.8.29_0002"/>
                 <note type="curatorial">29</note>
                 <fw type="authorial"></fw>
                 
                 <ab type="address">
-                    Mr. John G. Neihardt 
-                    Poet Laureate of the State of Nebraska, 
-                    5835 Vine Street, 
-                    LINCOLN, 
-                    Nebraska 68505, 
-                    United States of America.
+                    <address><addrLine>Mr. John G. Neihardt</addrLine> 
+                    <addrLine>Poet Laureate of the State of Nebraska,</addrLine> 
+                    <addrLine>5835 Vine Street, </addrLine>
+                    <addrLine>LINCOLN, </addrLine>
+                    <addrLine>Nebraska 68505,</addrLine> 
+                    <addrLine>United States of America.</addrLine></address>
                 </ab>
                 
                 <ab type="postmark">
@@ -251,11 +250,11 @@
                 </ab>
                 
                 <note type="curatorial">
-                    -Kay 
-                    Mailed 
+                    -Kay</note>
+                    <note type="curatorial">Mailed 
                     8-24-69
-                    JGN
-                </note>
+                    JGN</note>
+
                 
             </div1>
             

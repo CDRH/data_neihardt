@@ -127,7 +127,7 @@
                 </correspAction>
                 <correspAction type="deliveredTo">
                     <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
-
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
                 </correspAction>
             </correspDesc>
             <particDesc>
@@ -147,31 +147,31 @@
             
             <div1 type="letter">
                 
-                <pb facs="nei.n1a.8.30.xml"/>
-                <note type="curatorial">30</note>
-                <fw type="authorial">
-                    FRNM
-                    Foundation for Research on the Nature Man 
+                <pb facs="nei.n1a.8.30"/>
+                <fw type="curatorial">30</fw>
+                <fw type="letterhead">
+                    FRNM<lb/>
+                    Foundation for Research on the Nature Man <lb/>
                     THE INSTITUTE FOR PARAPSYCHOLOGY
-                </fw>
+                   <address>
+                        <addrLine>
+                            BOX 6847, COLLEGE STATION</addrLine>
+                            <addrLine>DURHAM, N.C. 27708
+                        </addrLine>
+                    </address>                
+</fw>
 
                 <opener>
                     
-                    <address>
-                        <addrLine>
-                            BOX 6847, COLLEGE STATION
-                            DURHAM, N.C. 27708
-                        </addrLine>
-                    </address>
                     
                     <dateline>August 19, 1969</dateline>
                     
                     <address>
                         <addrLine>
-                            Dr. John Neihardt 
-                            5835 Vine Street
-                            Lincoln
-                            Nebraska 68505
+                            Dr. John Neihardt</addrLine>
+                            <addrLine>5835 Vine Street</addrLine>
+                            <addrLine>Lincoln</addrLine>
+                            <addrLine>Nebraska 68505
                         </addrLine>
                     </address>
                     
@@ -181,17 +181,17 @@
                 </opener>
                 
                 <p>I am greatly enjoying your Cycle of the West. I am surely proud to know the author of this great work as well as I do, and with time I will improve the acquaintance I hope.</p>
-                <p>How is your present undertaking pro-gressing? I hope it is keeping you both healthy and happy.</p>
+                <p>How is your present undertaking progressing? I hope it is keeping you both healthy and happy.</p>
                 <p>I have a little exchange with Tom, some of it through our mutual friend, Mr. William Edward Cox, who visited Missouri recently and made contact with Tom and Joe.</p>
                 <p>The summer is a busy time for us. People are coming in now for the Meeting that will take place at the end of the month.</p>
-                
+                <closer>
                 <salute>Kind regards.</salute>
-                <salute>Sincerely yours, ,</salute>
-                <signed>J.B.Rhine</signed>
-                
+                <salute>Sincerely yours,</salute>
+                <signed>J.B. Rhine</signed>
+                <signed>J.B. Rhine</signed>   
                 <note>f/</note>
-                
-                <note>402 BUCHANAN    FOUNDATION HOUSE    TEL. (919) 688-8241</note>
+                </closer>
+                <fw type="letterhead">402 BUCHANAN    FOUNDATION HOUSE    TEL. (919) 688-8241</fw>
                 
             </div1>
             
