@@ -145,18 +145,17 @@
             
             <div1 type="letter">
                 
-                <pb facs="nei.n1a.8.31-32"/>
-                <note type="curatorial">31</note>
+                <pb facs="nei.n1a.8.31"/>
+                <fw type="curatorial">31</fw>
                 <fw type="authorial"></fw>
                 
                 <opener>
                     
                     <address>
                         <addrLine>
-                            Royal Palm D-48 
-                            2050 W. Dunlap 
-                            Phoenix, Ariz. 85021
-                        </addrLine>
+                            Royal Palm D-48</addrLine>
+                            <addrLine>2050 W. Dunlap</addrLine>
+                            <addrLine>Phoenix, Ariz. 85021</addrLine>
                     </address>
                     
                     <salute>
@@ -168,8 +167,8 @@
                 <p>I recently had to spend three days in the intense heat, doing a major tune-up on Maxie's car. It turned out perfectly--actually finer than when a new car 32,000 miles ago. This saved about $57.00 -over garage cost &amp; I only used $12.00 in parts - I get all that parts stuff wholesale &amp; of course do not charge myself for labor (Ha!).</p>
                 <p>(over)</p>
                 
-                <pb facs="nei.n1a.8.31-32.xml"/>
-                <note type="curatorial"></note>
+                <pb facs="nei.n1a.8.32_0001"/>
+
                 <fw type="authorial">-2-</fw>
                 
                 <p>It is good to know that you are proceeding according to plan with the autobiography. I note the 1898 hobo trip is being written now. Hard to recall all the details of such an experience, I'll bet!</p>
@@ -183,30 +182,30 @@
             </div1>
             
             <div1 type= "note">
-                <pb facs="nei.n1a.8.31-32.xml"/>
-                <note type="curatorial">32</note>
+                <pb facs="nei.n1a.8.32_0002"/>
+                <fw type="curatorial">32</fw>
                 <fw type="authorial"></fw>
                 
                 <opener>
                 <address>
                     <addrLine>
-                        Royal Palm D-48 
-                        2050 W. Dunlap 
-                        Phoenix, Ariz. 85021
+                        Royal Palm D-48</addrLine>
+                        <addrLine>2050 W. Dunlap</addrLine> 
+                        <addrLine>Phoenix, Ariz. 85021
                     </addrLine>
                 </address>
                 
                 <salute>Dear Dad:</salute>
                 </opener>
                 
-                <p>In discussing with you the lovely gem collection you've acquired through the years, you mention an exquisite ruby which I remember vividly, indeed! This ruby has been in your possession for a great many years and I do not claim ownership of it. Therefore, ^so far as I am concerned -- use it in any way your please.</p>
+                <p>In discussing with you the lovely gem collection you've acquired through the years, you mention an exquisite ruby which I remember vividly, indeed! This ruby has been in your possession for a great many years and I do not claim ownership of it. Therefore, ^so far as I am concerned -- use it in any way you please.</p>
                 
-                <signed>Endless love from your son Sigurd.</signed>
+                <closer><salute>Endless love from</salute> <signed>your son Sigurd.</signed></closer>
                 
             </div1>
             <div1 type="envelope">
                 
-                <pb facs="nei.n1a.8.33.xml"/>
+                <pb facs="nei.n1a.8.33"/>
                 <note type="curatorial">33</note>
                 <fw type="authorial"></fw>
                 
@@ -226,14 +225,13 @@
                 </ab>
                 
                 <ab type="address">
-                    Dr. John Neihardt
-                    5835 Vine Street 
-                    Lincoln, Nebraska 68505
+                    <address><addrLine>Dr. John Neihardt</addrLine>
+                    <addrLine>5835 Vine Street</addrLine>
+                    <addrLine>Lincoln, Nebraska 68505</addrLine></address>
                 </ab>
-                
+             <note>Ruby </note>   
                 <note type="authorial">
-                    Ruby 
-                    The J.D. Youngs.
+The J.D. Youngs.
                 </note>
                 
             </div1>
