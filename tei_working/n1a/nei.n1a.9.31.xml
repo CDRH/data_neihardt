@@ -5,8 +5,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Letter from William Elmer Sealock to John G. Neihardt, June 14, 1970</title>
-                <author>Sealock, William Elmer</author>
+                <title type="main">Letter from Sealock to John G. Neihardt, June 14, 1970</title>
+                <author>Sealock</author>
                 <principal>Gossin, Pamela</principal>
             </titleStmt>
             <editionStmt>
@@ -37,14 +37,14 @@
                 </availability>
             </publicationStmt>
             
-            <notesStmt><note></note></notesStmt>
+            <notesStmt><note>Stationary with letter on one side; address on the other side.</note></notesStmt>
             
             <sourceDesc>
                 <bibl>
-                    <author>Sealock, William Elmer</author>
-                    <title level="m" type="main">Letter from William Elmer Sealock to John G. Neihardt</title>
+                    <author>Sealock</author>
+                    <title level="m" type="main">Letter from Sealock to John G. Neihardt</title>
                     <date when="1970-06-14">June 14, 1970</date>
-                    <extent>1 envelope</extent>
+                    <extent>1 page; 1 envelope</extent>
                 </bibl>
                 <msDesc>
                     <msIdentifier>
@@ -52,13 +52,13 @@
                         <idno></idno>
                     </msIdentifier>
                     <msContents>
-                        <p>1 envelope</p>
+                        <p>1 hand written page; 1 envelope</p>
                     </msContents>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
                                 <support></support>
-                                <extent>1 envelope
+                                <extent>1 page; 1 envelope
                                     <dimensions unit="mm"><height></height><width></width></dimensions>
                                 </extent>
                                 <condition>
@@ -105,7 +105,7 @@
                     <term></term>
                 </keywords>
                 <keywords scheme="original" n="people">
-                    <term>Sealock, William Elmer</term>
+                    <term>Sealock</term>
                 </keywords>
                 <keywords scheme="original" n="places">
                     <term>Lincoln (Neb.)</term>
@@ -116,7 +116,7 @@
             </textClass>
             <correspDesc>
                 <correspAction type="sentBy">
-                    <persName>Sealock, William Elmer</persName>
+                    <persName>Sealock</persName>
                     <placeName></placeName>
                     <date when="1970-06-14"/>
                 </correspAction>
@@ -142,33 +142,31 @@
         <body>
             
             <div1 type="letter">
-                <pb facs="nei.n1a.9.31.xml"/>
-                <note type="curatorial">31</note>
-                <note type="authorial"></note>
-                <fw type="authorial"></fw>
+                <pb facs="nei.n1a.9.31_0001"/>
+                <fw type="curatorial">31</fw>
+
                 
-                <dateline>
+                <opener><dateline>
                     June 14, 1970
                 </dateline>
                 
-                <salute>Dear Dr. Neihardt,</salute>
+                <salute>Dear Dr. Neihardt,</salute></opener>
                 
-                <p>I have thought of you often but not written or called there are many reasons. The apartment house is sometimes
-                noisy - and I am often tired. In fact, part of the time I wonder when I'll ever get over being
-                tired. I hve hopes so far! Writing notes today trying to let my spread out family know how I am and
+                <p>I have thought of you often but not written or called &#8212; there are many reasons. The apartment house is sometimes
+                noisy &#8212; and I am often tired. In fact, part of the time I wonder when I'll ever get over being
+                tired. I have hopes so far! Writing notes today trying to let my spread out family know how I am and
                 that I still am!</p>
                 
-                <p>It is dull around here - though noisy whenever I would like to work. I suppose I have been <unclear/> rised to good
-                    conditions! I would like to hear about your work - and your health.</p>
+                <p>It is dull around here &#8212; though noisy whenever I would like to work. I suppose I have been <unclear>too</unclear> used to good
+                    conditions! I would like to hear about your work &#8212; and your health.</p>
                 <salute>affectionately,</salute>
                 <signed><unclear/> Sealock</signed>  
                 
             </div1>
             
             <div1 type="envelope">
-                <pb facs="nei.n1a.9.31.xml"/>
-                <note type="curatorial"></note>
-                <note type="authorial"></note>
+                <pb facs="nei.n1a.9.31_0002"/>
+
                 
                 <ab type="stamp">
                     <figure/>
@@ -185,11 +183,11 @@
                 </note>
                 
                 <ab type="address">
-                    Dr. John Neihardt 
-                    90 Julius Young
-                    5835 Vine St. 
-                    Lincoln, Nebr. 
-                    68502
+                    <address><addrLine>Dr. John Neihardt</addrLine> 
+                    <addrLine>90 Julius Young</addrLine>
+                    <addrLine>5835 Vine St.</addrLine> 
+                    <addrLine>Lincoln, Nebr.</addrLine> 
+                    <addrLine>68502</addrLine></address>
                 </ab>
                 
             </div1>

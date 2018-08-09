@@ -52,7 +52,7 @@
                         <idno></idno>
                     </msIdentifier>
                     <msContents>
-                        <p>1 page; 1 envelope</p>
+                        <p>1 typed page; 1 envelope</p>
                     </msContents>
                     <physDesc>
                         <objectDesc>
@@ -143,48 +143,45 @@
         <body>
             
             <div1 type="letter">
-                <pb facs="nei.n1a.9.25-26.xml"/>
-                <note type="curatorial"></note>
-                <note type="authorial"></note>
-                <fw type="authorial"></fw>
+                <pb facs="nei.n1a.9.25"/>
 
+<opener>
                 <fw type="address">
                     <address>
                         <addrLine>
-                            922 South 87 Avenue 
-                            Omaha, Nebraska 68114
+                            922 South 87 Avenue</addrLine> 
+                            <addrLine>Omaha, Nebraska 68114
                         </addrLine>
                     </address>
                 </fw>
                 
                 <dateline>May 24, 1970</dateline>
                 
-                <fw type="address">
+
                     <address>
                         <addrLine>
-                            Dr. John G. Neihardt 
-                            5835 Vine Street 
-                            Lincoln, Nebraska 
+                            Dr. John G. Neihardt</addrLine>
+                            <addrLine>5835 Vine Street</addrLine>
+                            <addrLine>Lincoln, Nebraska 
                         </addrLine>
                     </address>
-                </fw>
+
                 
                 <salute>My dear Dr. Neihardt:</salute>
-                
+  </opener>              
                 <p>Mrs. Lois Hegstrom tells me that you have consented to attend the Phi Delta Gamma Convention luncheon Saturday, June 27th, 12:15 p.m., at the Kellogg Center and that you will address us briefly at that time.</p> 
                 <p>Will you kindly choose a topic and send me the title so that we may send it, with other information, to the printer. Our chapter, Pi, at Creighton University, is in charge of details for the Saturday noon event.</p> 
                 <p>We shall look forward with great pleasure to meeting you next month in Lincoln.</p>  
                 
-                <salute>Sincerely yours,</salute> 
+                <closer><salute>Sincerely yours,</salute> 
                 <signed>Mary Alice Engles</signed>
-                <signed>MARY ALICE ENGLES</signed> 
+                <signed>MARY ALICE ENGLES</signed></closer> 
 
             </div1>
             
             <div1 type="envelope">
-                <pb facs="nei.n1a.9.25-26.xml"/>
-                <note type="curatorial"></note>
-                <note type="authorial"></note>
+                <pb facs="nei.n1a.9.26"/>
+
                 
                 <ab type="postmark">
                     OMAHA. NE 
@@ -200,21 +197,21 @@
                     UNITED STATES 6c 
                 </ab>
                 
-                <note type="authorial">
-                    <unclear/> - m.m.y
-                    <unclear/> - 26 - 70
+                <note>
+                    ansd - m.m.y
+                    <unclear>5</unclear> -26-70
                     Engles 
                 </note>
                 
                 <ab type="address">
-                    Dr. John Neihardt
-                    5835 Vine Street 
-                    Lincoln, Nebraska 68500 
+                    <address><addrLine>Dr. John Neihardt</addrLine>
+                    <addrLine>5835 Vine Street</addrLine> 
+                    <addrLine>Lincoln, Nebraska 68500</addrLine></address> 
                 </ab>
 
                 <ab type="return">
-                    922 South 87 Avenue 
-                    Omaha, Nebraska 68114
+                    <address><addrLine>922 South 87 Avenue</addrLine> 
+                    <addrLine>Omaha, Nebraska 68114</addrLine></address>
                 </ab>
                 
             </div1>

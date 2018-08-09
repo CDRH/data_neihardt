@@ -43,8 +43,8 @@
                 <bibl>
                     <author>Day, Bess E.</author>
                     <title level="m" type="main">Letter from Bess E. Day to John G. Neihardt</title>
-                    <date when="1969-01-13">January 13, 1970</date>
-                    <extent>1 page; 1 envelople</extent>
+                    <date when="1970-01-13">January 13, 1970</date>
+                    <extent>2 pages; 1 envelope</extent>
                 </bibl>
                 <msDesc>
                     <msIdentifier>
@@ -52,13 +52,13 @@
                         <idno></idno>
                     </msIdentifier>
                     <msContents>
-                        <p>1 hand written page; 1 envelople</p>
+                        <p>2 hand written pages; 1 envelope</p>
                     </msContents>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
                                 <support></support>
-                                <extent>1 page; 1 envelople
+                                <extent>2 pages; 1 envelope
                                     <dimensions unit="mm"><height></height><width></width></dimensions>
                                 </extent>
                                 <condition>
@@ -120,7 +120,7 @@
                 <correspAction type="sentBy">
                     <persName>Day, Bess E.</persName>
                     <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
-                    <date when="1969-01-13"/>
+                    <date when="1970-01-13"/>
                 </correspAction>
                 <correspAction type="deliveredTo">
                     <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
@@ -142,63 +142,60 @@
     <text>
         <body>
             
-            <div1 type="letter">
+            <div1 type="card">
                 
-                <pb facs="nei.n1a.9.2-3.xml"/>
-                <note type="curatorial">2</note>
+                <pb facs="nei.n1a.9.2_0001"/>
+                <fw type="curatorial">2</fw>
                 <fw type="authorial"></fw>
                 
-                <p>
+                <ab type="printed">
                     BIRTHDAY 
                     GREETINGS
-                </p>
+                </ab>
                 
-                <pb facs="nei.n1a.9.2-3.xml"/>
+                <pb facs="nei.n1a.9.2_0001"/>
                 <note type="curatorial"></note>
                 <fw type="authorial"></fw>
-                
-                <p>
+                  <pb facs="nei.n1a.9.2_0002"/>              
+                <ab type="printed">
                     Best Wishes to you 
                     on your birthday
                     and always!
-                </p>
+                </ab>
                 
-                <p>I decided that your birthday should be celebrated long and more fully - so if you have a free hour between three and four on Thursday or Friday have Mrs. Young call me. I would like to have both J.D. and Myrtle come with you -</p>
-                <p>We will toast your birthday in sherry or a very fine German wine whichever you prefer - over</p>
+                <p>I decided that your birthday should be celebrated long and more fully &#8212; so if you have a free hour between three and four on Thursday or Friday have Mrs. Young call me. I would like to have both J.D. and Myrtle come with you &#8212;</p>
+                <p>We will toast your birthday in sherry or a very fine German wine whichever you prefer &#8212; <note>over</note>
                 
                 <pb facs="nei.n1a.9.2-3.xml"/>
                 <note type="curatorial"></note>
                 <fw type="authorial"></fw>
                 
-                <p>the wine is very delicate - called the Madonna - Liebfraumilch - It is the first bottle I've bought in two years -</p>
-                <p>Thank Mr. Young for fixing up the scales - It looks as though I may have lost another five pounds since Dec. 1st - but Christmas was not too helpful in that respect.</p>
-                <p>Best Wishes for ten more good years of writing - affectionately,</p>
+                the wine is very delicate &#8212; called the Madonna &#8212; Liebfraumilch &#8212; It is the first bottle I've bought in two years &#8212;</p>
+                <p>Thank Mr. Young for fixing up the scales &#8212; It looks as though I may have lost another five pounds since Dec. 1st &#8212; but Christmas was not too helpful in that respect.</p>
+                <p>Best Wishes for ten more good years of writing &#8212; affectionately,</p>
                     
-                <signed>Bess E. Day</signed>
+                <closer><signed>Bess E. Day</signed></closer>
                 
                 <figure>
                     <p>
                         Hallmark
-                        25B 67-1
                     </p>
                 </figure> 
 
-                <figure>
-                    <p>
-                        HALLMARK CARDS, INC. 
-                        MADE IN U.S.A. 
-                    </p>
-                </figure> 
+<fw>25B 67-1<lb/>
+                        HALLMARK CARDS, INC. <lb/>
+                        MADE IN U.S.A. </fw>
             </div1>
                 
                 <div1 type="envelope">
-                    <pb facs="nei.n1a.9.2-3.xml"/>
-                    <note type="curatorial">3</note>
-                    <fw type="authorial">1-14-70</fw>
+                    <pb facs="nei.n1a.9.3"/>
+                    <fw type="curatorial">3</fw>
+
+                    <note>1-14-70</note>
                     
                     <ab type="postmark">
-                        Lincoln. NB
-                        PM
+                        Lincoln. NB<lb/>
+                        PM<lb/>
                         13 JAN 1970 IB
                     </ab>
                     
@@ -209,12 +206,12 @@
                     </ab>
                     
                     <ab type="address">
-                        Dr. John G. Neihardt
-                        5835 Vine Street
-                        Lincoln, Nebraska
+                        <address><addrLine>Dr. John G. Neihardt</addrLine>
+                        <addrLine>5835 Vine Street</addrLine>
+                        <addrLine>Lincoln, Nebraska</addrLine></address>
                     </ab>
                     
-                    <ab type="c/o">
+                    <ab type="careof">
                         Julius D. Young
                     </ab>
                     

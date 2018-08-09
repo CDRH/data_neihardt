@@ -37,7 +37,7 @@
                 </availability>
             </publicationStmt>
             
-            <notesStmt><note></note></notesStmt>
+            <notesStmt><note>Letter is datelined Jellico, Tenn.; Envelope has a return address of Williamsburg, Ky.</note></notesStmt>
             
             <sourceDesc>
                 <bibl>
@@ -52,7 +52,7 @@
                         <idno></idno>
                     </msIdentifier>
                     <msContents>
-                        <p>1 page; 1 envelope</p>
+                        <p>1 typed page; 1 envelope</p>
                     </msContents>
                     <physDesc>
                         <objectDesc>
@@ -130,7 +130,7 @@
             <correspDesc>
                 <correspAction type="sentBy">
                     <persName>Duus, Erling, 1940-2000</persName>
-                    <placeName ref="http://www.geonames.org/5074472">Omaha (Neb.)</placeName>
+                    <placeName ref="http://www.geonames.org/4632967">Jellico (Tenn.)</placeName>
                     <date when="1970-05-24"/>
                 </correspAction>
                 <correspAction type="deliveredTo">
@@ -154,36 +154,33 @@
         <body>
             
             <div1 type="letter">
-                <pb facs="nei.n1a.9.27-28.xml"/>
-                <note type="curatorial">27</note>
-                <note type="authorial"></note>
-                <fw type="authorial"></fw>
+                <pb facs="nei.n1a.9.27"/>
+                <fw type="curatorial">27</fw>
 
-                <dateline>
+
+               <opener> <dateline>
                     Jellico, Tenn. 
                     May 24, 1970
                 </dateline>
                 
-                <salute>Dear John G. Neihardt;</salute>
+                <salute>Dear John G. Neihardt;</salute></opener>
                 
-                <p>Since I discovered a year or so ago that you are still very much alive, I have intended to write to you to express my pleasure in your writing. It is your lyrical poetry and your prose that has meant the most to <del/>e. I presently teach literature at Cumberland College in Williamsburg, Ky. and also an founder and director of a folk school amongst the mountain folk of the Cumberland Mountains. This year in a seminar course which I taught entitled "Romanticism in Amer-ican Literature," I taught your "Poet's Town" and "April Theology." It is the later which is my favorite of your poems. It expresses for me a prarie embodiment of the magnificient evolutionary faith of Whitman, the kind of thing he looked to the prarie for. At the folk school we teach that theology, combining the Whitman and the American aadventure and tradition with Teilhard De Chardin, the great Jesuit. In addition to the poems named above, we will use your great book, Black Elk Speaks to admit us both into the purity of the American spirit as symbolized with the Indian, and the inutterable guilt and searing tragedy. I think that Black Elk Speaks is a great and important book, and I think you for the soul and sorrow and loneliness which allowed you to record it and write it. I have not as yet read The River and I, but I intend to.</p> 
-                <p>I come from Danish immigrant stock who settled all over the prarie, and I have lived in Nebraska. Though I wonder the American earth and love all the variety of it, it is always the prarie as myth and reality that centers my spirit. I believe with Whitman that the American soul will enter into the fullest realization on its great sweep. For me and for the future, you will be one of its great poets, one of the few who gave your-self "outright."</p> 
+                <p>Since I discovered a year or so ago that you are still very much alive, I have intended to write to you to express my pleasure in your writing. It is your lyrical poetry and your prose that has meant the most to me. I presently teach literature at Cumberland College in Williamsburg, Ky. and also am founder and director of a folk school amongst the mountain folk of the Cumberland Mountains. This year in a seminar course which I taught entitled "Romanticism in American Literature," I taught your "Poet's Town" and "April Theology." It is the later which is my favorite of your poems. It expresses for me a <sic>prarie</sic> embodiment of the magnificient evolutionary faith of Whitman, the kind of thing he looked to the <sic>prarie</sic> for. At the folk school we teach that theology, combining the Whitman and the American adventure and tradition with Teilhard De Chardin, the great Jesuit. In addition to the poems named above, we will use your great book, Black Elk Speaks to admit us both into the purity of the American spirit as symbolized with the Indian, and the inutterable guilt and searing tragedy. I think that Black Elk Speaks is a great and important book, and I think you for the soul and sorrow and loneliness which allowed you to record it and write it. I have not as yet read The River and I, but I intend to.</p> 
+                <p>I come from Danish immigrant stock who settled all over the <sic>prarie</sic>, and I have lived in Nebraska. Though I wonder the American earth and love all the variety of it, it is always the <sic>prarie</sic> as myth and reality that centers my spirit. I believe with Whitman that the American soul will enter into the fullest realization on its great sweep. For me and for the future, you will be one of its great poets, one of the few who gave yourself "outright."</p> 
                 <p>Across a gap of years I salute a man who wears in my mind the garment of Emerson, Whitman, Sandburg. And I thank you for the great beauty and richness of your work.</p>   
                 
-                <salute>Sincerely,</salute> 
+                <closer><salute>Sincerely,</salute> 
                 <signed>Erling Dus</signed>
-                <signed>Erling O. Duus</signed> 
+                <signed>Erling O. Duus</signed></closer> 
                 
             </div1>
             
             <div1 type="envelope">
-                <pb facs="nei.n1a.9.27-28.xml"/>
-                <note type="curatorial">28</note>
-                <note type="authorial"></note>
+                <pb facs="nei.n1a.9.28"/>
+                <fw type="curatorial">28</fw>
                 
                 <ab type="postmark">
                     COLUMBIA, MO JUN 2 PM 1970 65201 
-                    6c FRANKLIN D. ROOSEVELT U.S. POSTAGE
                 </ab>
                 
                 <ab type="stamp">
@@ -193,32 +190,34 @@
                 <note type="authorial">
                     <unclear/> 
                     <unclear/> -3-70 Florence 
-                    Florence
+                    Florence Florence
                 </note>
-                
+
+<ab type="return">
+                    <address><addrLine>E. DUUS</addrLine>
+                    <addrLine>ENG. DEPT</addrLine>
+                    <addrLine>CUMBERLAND COLLEGE</addrLine>
+                    <addrLine>WILLIAMSBURG, KY. </addrLine>
+                    <addrLine>40769</addrLine></address>
+                </ab>      
+          
                 <ab type="address">
-                    MR. JOHN G. NEIHARDT 
-                    ENGLISH DEPT. 
-                    U. OF MISSOURI 
-                    COLUMBIA MISSOURI
+                    <address><addrLine>MR. JOHN G. NEIHARDT</addrLine> 
+                    <addrLine>ENGLISH DEPT. </addrLine>
+                    <addrLine>U. OF MISSOURI </addrLine>
+                    <addrLine>COLUMBIA MISSOURI</addrLine></address>
                 </ab>
                 
-                <ab type="return">
-                    E. DUUS
-                    ENG. DEPT
-                    CUMBERLAND COLLEGE
-                    WILLIAMSBURG, KY. 
-                    40769
-                </ab>
+                
                 
                 <ab type="forward">
-                    Forward to: 
-                    5835 VINE ST. 
-                    LINCOLN, 
-                    NEBR. 68505 
-                    <unclear/>
+                    <address><addrLine>Forward to:</addrLine> 
+                    <addrLine>5835 VINE ST.</addrLine> 
+                    <addrLine>LINCOLN,</addrLine>
+                    <addrLine>NEBR. 68505</addrLine></address>
+
                 </ab>
-                
+                <note>ansd</note>
             </div1>
             
         </body>

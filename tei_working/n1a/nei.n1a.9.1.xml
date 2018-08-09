@@ -43,7 +43,7 @@
                 <bibl>
                     <author>Thompson, Carroll</author>
                     <title level="m" type="main">Letter from Carroll Thompson to John G. Neihardt</title>
-                    <date when="1969-01-08">January 8, 1970</date>
+                    <date when="1970-01-08">January 8, 1970</date>
                     <extent>1 page</extent>
                 </bibl>
                 <msDesc>
@@ -106,7 +106,7 @@
                 </keywords>
                 <keywords scheme="original" n="people">
                     <term>Thompson, Carroll</term>
-                    <term>Shaeffer</term>
+                    <term>Shaeffer, James B.</term>
                     <term>Young, Myrtle</term>
                 </keywords>
                 <keywords scheme="original" n="places">
@@ -121,7 +121,7 @@
                 <correspAction type="sentBy">
                     <persName>Thompson, Carroll</persName>
                     <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
-                    <date when="1969-01-08"/>
+                    <date when="1970-01-08"/>
                 </correspAction>
                 <correspAction type="deliveredTo">
                     <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
@@ -145,11 +145,11 @@
             
             <div1 type="letter">
                 
-                <pb facs="nei.n1a.9.1.xml"/>
-                <note type="curatorial">1</note>
+                <pb facs="nei.n1a.9.1"/>
+                <fw type="curatorial">1</fw>
                 <fw type="authorial">
-                    the THOMPSON COMPANY 
-                    TELEPHONE (402) 477-9205
+                    the THOMPSON COMPANY<lb/>
+                    TELEPHONE (402) 477-9205<lb/>
                     220 SHARP BUILDING  LINCOLN, NEBRASKA 68508
                 </fw>
                 
@@ -159,9 +159,9 @@
                     
                     <address>
                         <addrLine>
-                            Dr. John G. Neihardt 
-                            5835 Vine Street
-                            Lincoln, Nebraska 68505
+                            Dr. John G. Neihardt </addrLine>
+                            <addrLine>5835 Vine Street</addrLine>
+                            <addrLine>Lincoln, Nebraska 68505
                         </addrLine>
                     </address>
                     
@@ -170,15 +170,15 @@
                     </salute>
                 </opener>
                 
-                <p>I would like to stop out and visit with you some evening next week or I could come during the day if this would fit your schedule better. We are pushing ahead with plans with Stuhr promotion but there has been a delay because Dr. Shaeffer resigned as director and we've had to shift gears on the member-ship promotion schedule. However we will proceed as previously planned with the change in dates. I'd like to discuss this with you and to talk with you a bout how we might help you with the promotion of the Bancroft project. If Mrs. Young will contact me about a time when I can see you I would appreciate it.</p>
+                <p>I would like to stop out and visit with you some evening next week or I could come during the day if this would fit your schedule better. We are pushing ahead with plans with Stuhr promotion but there has been a delay because Dr. Shaeffer resigned as director and we've had to shift gears on the membership promotion schedule. However we will proceed as previously planned with the change in dates. I'd like to discuss this with you and to talk with you about how we might help you with the promotion of the Bancroft project. If Mrs. Young will contact me about a time when I can see you I would appreciate it.</p>
                 
-                <salute>Sincerely,</salute>
+<closer>                <salute>Sincerely,</salute>
                 <signed>Carroll</signed>
                 <signed>Carroll Thompson</signed>
                 
                 <note>CT/mg</note>
-                
-                <note>Public Relations and Advertising <figure/> Administrative Services <figure/> Fund Raising</note>
+                </closer>
+                <fw type="letterhead">Public Relations and Advertising  Administrative Services  Fund Raising</fw>
                 
             </div1>
             

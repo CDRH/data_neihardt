@@ -52,7 +52,7 @@
                         <idno></idno>
                     </msIdentifier>
                     <msContents>
-                        <p>1 page</p>
+                        <p>1 typed page</p>
                     </msContents>
                     <physDesc>
                         <objectDesc>
@@ -110,7 +110,7 @@
                     <term>Tibbles, Susette La Flesche, 1854-1903</term>
                     <term>Gilder</term>
                     <term>Ellsworth, Clarence, 1885-1961</term>
-                    <term>Fontenelle</term>
+                    <term>Fontenelle, Logan</term>
                     <term>Marie</term>
                 </keywords>
                 <keywords scheme="original" n="places">
@@ -131,7 +131,7 @@
                 </correspAction>
                 <correspAction type="deliveredTo">
                     <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
-                    <placeName ref="http://www.geonames.org/5063451">Bancroft (Neb.)</placeName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
                 </correspAction>
             </correspDesc>
             <particDesc>
@@ -150,41 +150,41 @@
         <body>
             
             <div1 type="letter">
-                <pb facs="nei.n1a.9.35.xml"/>
-                <note type="curatorial">35</note>
+                <pb facs="nei.n1a.9.35"/>
+                <fw type="curatorial">35</fw>
                 <note type="authorial"></note>
-                <fw type="authorial">
-                    OTHA D. WEARIN
-                    Nishna Vale Farm 
+                <fw type="letterhead">
+                    OTHA D. WEARIN<lb/>
+                    Nishna Vale Farm <lb/>
                     HASTINGS, IOWA
                 </fw>
                 
-                <dateline>
+                <opener><dateline>
                     August 5, 1970
                 </dateline>
                 
-                <fw type="address">
-                    Dr. John G. Neihardt
-                    5835 Vine Street 
-                    Lincoln, Nebraska 68505 
-                    % Julius D. Young
-                </fw>
                 
-                <salute>Dear Dr. Neihardt:</salute>
+                    <address><addrLine>Dr. John G. Neihardt</addrLine>
+                    <addrLine>5835 Vine Street </addrLine>
+                    <addrLine>Lincoln, Nebraska 68505</addrLine> 
+                    <addrLine>% Julius D. Young</addrLine></address>
                 
-                <p>It was an honor and a privilege to meet you at Ban-croft last Sunday. I also want to thank you for autograph-ing the six books for us. Collecting volumes about the West and American Indians is one of our hobbies. We also enjoyed the program and hearing you read some of your poems.</p> 
+                
+                <salute>Dear Dr. Neihardt:</salute></opener>
+                
+                <p>It was an honor and a privilege to meet you at Bancroft last Sunday. I also want to thank you for autographing the six books for us. Collecting volumes about the West and American Indians is one of our hobbies. We also enjoyed the program and hearing you read some of your poems.</p> 
                 
                 <p>Sometime soon, we hope to visit you in Lincoln and chat a little while about Mr. Tibbels and his wife, "Bright Eyes", especially the drama of the night she died.</p> 
                 
-                <p>We had the pleasure, many years ago, of visiting Dr. Gilder in his home. We have the good fortune of owning two of his small paintings of snow scenes in Fontanelle Park. Clarence Ellsworth, who worked for a while with an engraving company in Omaha and was a great freind of Dr. Gilder and other artists on the Bee News, spent five summers with us here at our home. We also have several of his paintings.</p> 
+                <p>We had the pleasure, many years ago, of visiting Dr. Gilder in his home. We have the good fortune of owning two of his small paintings of snow scenes in Fontanelle Park. Clarence Ellsworth, who worked for a while with an engraving company in Omaha and was a great friend of Dr. Gilder and other artists on the Bee News, spent five summers with us here at our home. We also have several of his paintings.</p> 
                 
                 <p>At Bancroft last Sunday, we also enjoyed meeting the two great granddaughters of Chief Fontanell. I was told that Marie knows quite a bit about the Fontanell family.</p>
                 
                 <p>Again thanking you, I am</p>
                 
-                <salute>Sincerely,</salute> 
+                <closer><salute>Sincerely,</salute> 
                 <signed>Otha D. Wearin</signed>
-                <signed>Otha D. Wearin</signed> 
+                <signed>Otha D. Wearin</signed></closer> 
                 
                 <note>ODW/tf</note>
                 <note>Enc.</note> 

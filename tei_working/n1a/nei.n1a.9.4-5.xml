@@ -42,9 +42,9 @@
             <sourceDesc>
                 <bibl>
                     <author>Scout's Rest Ranch</author>
-                    <title level="m" type="main">Scout's Rest Ranch</title>
+                    <title level="m" type="main">Letter from Scout's Rest Ranch to John G. Neihardt</title>
                     <date when="1969-01-13">January 13, 1970</date>
-                    <extent>1 page; 1 envelople</extent>
+                    <extent>1 page; 1 envelope</extent>
                 </bibl>
                 <msDesc>
                     <msIdentifier>
@@ -52,13 +52,13 @@
                         <idno></idno>
                     </msIdentifier>
                     <msContents>
-                        <p>1 hand written page; 1 envelople</p>
+                        <p>1 hand written page; 1 envelope</p>
                     </msContents>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
                                 <support></support>
-                                <extent>1 page; 1 envelople
+                                <extent>1 page; 1 envelope
                                     <dimensions unit="mm"><height></height><width></width></dimensions>
                                 </extent>
                                 <condition>
@@ -105,7 +105,6 @@
                     <term></term>
                 </keywords>
                 <keywords scheme="original" n="people">
-                    <term>Day, Bess E.</term>
                     <term>Young, Myrtle</term>
                     <term>Young, Julius</term>
                 </keywords>
@@ -119,7 +118,7 @@
             </textClass>
             <correspDesc>
                 <correspAction type="sentBy">
-                    <persName>Scout's Rest Ranch</persName>
+                    <orgName>Scout's Rest Ranch</orgName>
                     <placeName ref="http://www.geonames.org/5697939">North Platte (Neb.)</placeName>
                     <date when="1969-01-13"/>
                 </correspAction>
@@ -143,32 +142,28 @@
     <text>
         <body>
             
-            <div1 type="letter">
+            <div1 type="card">
                 
-                <pb facs="nei.n1a.9.4-5.xml"/>
-                <note type="curatorial">4</note>
-                <fw type="authorial"></fw>
+                <pb facs="nei.n1a.9.4"/>
+
                 
-                <salute>Dear Dr Neihardt:</salute>
+              <opener><salute>Dear Dr Neihardt:</salute></opener>
                 <p>We think of you often &amp; wish you the best 89th year anyone ever had!</p> 
                 <p>God Bless you!</p>
                 
-                <pb facs="nei.n1a.9.2-3.xml"/>
-                <note type="curatorial"></note>
-                <fw type="authorial">1-14-70</fw>
                 
-                <p>
-                    Here's hoping you'll remember 
-                    That this is wishing you 
-                    The very nicest things there are--
-                    And plenty of them, too! 
-                    Here's hoping you'll remember
-                    It's a wish that's most sincere, 
-                    And just forget that it arrived 
-                    A trifle late this year. 
-                    Many Happy Returns 
+                <ab type="printed">
+                    Here's hoping you'll remember<lb/>
+                    That this is wishing you <lb/>
+                    The very nicest things there are--<lb/>
+                    And plenty of them, too! <lb/>
+                    Here's hoping you'll remember<lb/>
+                    It's a wish that's most sincere, <lb/>
+                    And just forget that it arrived <lb/>
+                    A trifle late this year. <lb/>
+                    Many Happy Returns <lb/>
                     Of the Day
-                </p>
+                </ab>
                 
                 <p>
                     The gang at
@@ -178,13 +173,13 @@
             </div1>
             
             <div1 type="envelope">
-                <pb facs="nei.n1a.9.4-5.xml"/>
+                <pb facs="nei.n1a.9.5"/>
                 <note type="curatorial">5</note>
                 <fw type="authorial"></fw>
                 
                 <ab type="postmark">
-                    NORTH PLATTE. 
-                    JAN 13
+                    NORTH PLATTE. NB
+                    JAN 13 AM
                     1970
                     69101
                 </ab>
@@ -194,16 +189,16 @@
                         <p>
                             U.S.POSTAGE 
                             6c
-                            FRANKLIN.D.ROOSEVELT
+                            FRANKLIN. D. ROOSEVELT
                         </p>
                     </figure>
                 </ab>
                 
                 <ab type="address">
-                    Dr John Neihardt, 
-                    co J.D. Young 
-                    5835 Vine Street, 
-                    Lincoln, Nebraska 68505 
+                    <address><addrLine>Dr John Neihardt,</addrLine> 
+                    <addrLine>c/o J.D. Young</addrLine> 
+                    <addrLine>5835 Vine Street,</addrLine> 
+                    <addrLine>Lincoln, Nebraska 68505</addrLine></address> 
                 </ab>
 
             </div1>

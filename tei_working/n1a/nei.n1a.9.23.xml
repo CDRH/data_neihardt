@@ -52,7 +52,7 @@
                         <idno></idno>
                     </msIdentifier>
                     <msContents>
-                        <p>1 page</p>
+                        <p>1 typed page</p>
                     </msContents>
                     <physDesc>
                         <objectDesc>
@@ -105,10 +105,10 @@
                     <term></term>
                 </keywords>
                 <keywords scheme="original" n="people">
-                    <term>Thompson</term>
+                    <term>Thompson</term><!-- probably Carroll Thompson -->
                     <term>Mott, Frank Luther, 1886-1964</term>
                     <term>Reid, Loren, 1905-2014</term>
-                    <term>Earl</term>
+                    <term>English, Earl</term>
                     <term>Mitchell, Don R.</term>
                     <term>Lambert, Edward C.</term>
                 </keywords>
@@ -147,39 +147,41 @@
         <body>
             
             <div1 type="letter">
-                <pb facs="nei.n1a.9.23.xml"/>
-                <note type="curatorial">23</note>
-                <fw type="authorial">
+                <pb facs="nei.n1a.9.23"/>
+                <fw type="curatorial">23</fw>
+                <fw type="letterhead">
                     University of Missouri - Columbia <figure/>
                     <address>
-                        <addrLine>
-                            100 Neff Hall SCHOOL OF JOURNALISM Telephone 
-                            Columbia, Mo. 65201 314-449-8189
-                        </addrLine>
-                    </address>
+                        <addrLine>SCHOOL OF JOURNALISM</addrLine>
+                            <addrLine>100 Neff Hall</addrLine>
+<addrLine>Columbia, Mo. 65201</addrLine>
 
-                <address>
+<addrLine>Telephone</addrLine>
+<addrLine>314-449-8189</addrLine>
+                    </address>
+                </fw>
+                <opener><address>
                     <addrLine>
-                        Dr. John G. Neihardt 
-                        5835 Vine Street 
-                        Lincoln, Nebraska 68505
+                        Dr. John G. Neihardt</addrLine> 
+                        <addrLine>5835 Vine Street</addrLine>
+                        <addrLine>Lincoln, Nebraska 68505
                     </addrLine>
                 </address>
-                </fw>
+
 
                     <dateline>April 22, 1970</dateline>
 
-                <salute>Dear Dr. Neihardt:</salute>
+                <salute>Dear Dr. Neihardt:</salute></opener>
                 
                 <p>I was indeed delighted to hear from you and to learn that Mr. Thompson is involved in preparing more of your records. I did indeed have a letter from him yesterday.</p> 
                 <p>I am happy to hear that you are in good health and that you are making progress on your autobiography. I am delighted, too, to learn that Black Elk Speaks is having such a fine sale both here and abroad.</p> 
-                <p>I find I have only one tape in my files. This was Missouri Forum that I did with you and I had the late Dean Mott, Dr. Loren Reid, and Dean Earl English on my panel. I certainly would be happy to make that tape available to Mr. Thompson so that he could copy it. Meanwhile, I shall suggest that he contact the Missouris State Historical Society. I am srue they have a number of video tapes over there.</p> 
+                <p>I find I have only one tape in my files. This was Missouri Forum that I did with you and I had the late Dean Mott, Dr. Loren Reid, and Dean Earl English on my panel. I certainly would be happy to make that tape available to Mr. Thompson so that he could copy it. Meanwhile, I shall suggest that he contact the Missouri State Historical Society. I am sure they have a number of video tapes over there.</p> 
                 <p>Also, I shall put him in touch with Mr. Don Mitchell, Director of Instructional Television. Mr. Mitchell of course has control of your video tape lectures. It is always good to hear from you.</p>
                 <p>Kindest personal regards.</p> 
                 
                 <salute>Cordially,</salute> <signed>Ed,</signed> 
                 <signed>
-                    Edward C. Lambert Assistant to the Chancellor 
+                    Edward C. Lambert<lb/>Assistant to the Chancellor<lb/>
                     in Charge of Television
                 </signed> 
                 
