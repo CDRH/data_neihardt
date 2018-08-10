@@ -52,7 +52,7 @@
                         <idno></idno>
                     </msIdentifier>
                     <msContents>
-                        <p>2 pages</p>
+                        <p>2 hand written pages</p>
                     </msContents>
                     <physDesc>
                         <objectDesc>
@@ -142,24 +142,24 @@
         <body>
             
             <div1 type="letter">
-                <pb facs="nei.n1a.10.28a-28b.xml"/>
-                <note type="curatorial">28a</note>
-                <fw type="authorial"></fw>
-                <note type="authorial"></note>
+                <pb facs="nei.n1a.10.28a"/>
+                <fw type="curatorial">28a</fw>
+
                 
-                <dateline>April 27, 1971</dateline>
+                <opener><dateline>April 27, 1971</dateline>
                 
-                <salute>Dear Mr. Neihardt,</salute>
-                <p>Tonight you brought a lump to my throat. Your words were so simple-yet so great, and so beautiful. "Men are just men, we are all the same, we should respect each others wisdom, each others cultures."</p> 
+                <salute>Dear Mr. Neihardt,</salute></opener>
+                <p>Tonight you brought a lump to my throat. Your words were so simple&#8212;yet so great, and so beautiful. "Men are just men, we are all the same, we should respect each others wisdom, each others cultures."</p> 
                 <p>Indeed if all mankind lived by these words, the world would be a beautiful place in which to live.</p> 
-                <p>Thank you for being on the Dick Cavett Show - and you have reminded me to try to live better tomorrow than I did today.</p> 
-                <salute>Sincerely,</salute>
-                <signed>Mrs. Connie Ward</signed> 
-                
-                <pb facs="nei.n1a.10.28a-28b.xml"/>
-                <note type="curatorial">28b</note>
-                <fw type="authorial"></fw>
-                <note type="authorial"></note>
+                <p>Thank you for being on the Dick Cavett Show &#8212; and you have reminded me to try to live better tomorrow than I did today.</p> 
+                <closer><salute>Sincerely,</salute>
+                <signed>Mrs. Connie Ward</signed></closer> 
+            </div1>
+
+<div1>
+                <pb facs="nei.n1a.10.28b"/>
+                <fw type="curatorial">28b</fw>
+
                 
                 <salute>Dear Mrs. Ward,</salute>
                 <p>Many thanks for your stimulating letter, I was very kind of you to write me &amp; I want to thank you sincerely,</p> 
@@ -169,18 +169,18 @@
             <div1 type="envelope">
                 
                 <ab type="return">
-                    Mrs. C. Ward
-                    17013 E. Holton St. 
-                    West Covina, Calif 91791
-                    rd
+                    <address><addrLine>Mrs. C. Ward</addrLine>
+                    <addrLine>17013 E. Holton St.</addrLine> 
+                    <addrLine>West Covina, Calif 91791</addrLine></address>                </ab>
+                    <note>rd
                     olton St. 
                     <unclear/>
-                    791
-                </ab>
+                    791</note>
+
                 
-                <ab type="note">
+                <note>
                     ans'd 5/30/71
-                </ab>
+                </note>
                  
                 <ab type="postmark">
                     LOS ANGELES, CA
@@ -194,13 +194,13 @@
                 </ab>
  
                 <ab type="address">
-                    Mr. John G. Neihardt
-                    % The Dick Cavett Show 
-                    ABC TV New York 
-                    New York
-                    A AIR MAIL 
-                    AIR MAIL
-                </ab>
+                    <address><addrLine>Mr. John G. Neihardt</addrLine>
+                    <addrLine>% The Dick Cavett Show</addrLine> 
+                    <addrLine>ABC TV New York</addrLine> 
+                    <addrLine>New York</addrLine></address>                </ab>
+<ab>                    A AIR MAIL<lb/>
+                    AIR MAIL</ab>
+
             </div1>
                 
         </body>

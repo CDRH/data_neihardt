@@ -52,7 +52,7 @@
                         <idno></idno>
                     </msIdentifier>
                     <msContents>
-                        <p>1 page</p>
+                        <p>1 typed page</p>
                     </msContents>
                     <physDesc>
                         <objectDesc>
@@ -144,23 +144,23 @@
         <body>
             
             <div1 type="letter">
-                <pb facs="nei.n1a.10.30.xml"/>
-                <note type="curatorial">30</note>
-                <fw type="authorial"></fw>
-                <note type="authorial">
+                <pb facs="nei.n1a.10.30"/>
+                <fw type="curatorial">30</fw>
+
+                <fw type="letterhead">
                     WILLIAM JEWELL COLLEGE 
                     LIBERTY, MISSOURI 64068
-                </note>
+                </fw>
                 
-                <dateline>April 28, 1971</dateline>
+                <opener><dateline>April 28, 1971</dateline>
                 
-                <salute>Dear Dr. Neihardt,</salute> 
-                <p>Haywood, my parents and I wanted to let you know how much pleasure your T.V. interview with Dick Cavatt gave us. We had been looking forward to it since February when Hilda was in Kansas City and told us that it had been taped. Of course, we knew that it would be delightful but it even exceeded our expectations.</p> 
+                <salute>Dear Dr. Neihardt,</salute></opener> 
+                <p>Haywood, my parents and I wanted to let you know how much pleasure your T.V. interview with Dick <sic>Cavatt</sic> gave us. We had been looking forward to it since February when Hilda was in Kansas City and told us that it had been taped. Of course, we knew that it would be delightful but it even exceeded our expectations.</p> 
                 <p>Moreoever, it came at just exactly the right time. I had spent all day Tuesday grading freshman research papers. Basically because of the tremendous problem of plagiarism, this is a difficult and discouraging task for me. And even at the time for your program to begin I was still angry. But you calmed me and made me feel good again with your comment: "It takes courage to be good." I had never thought of it that way.</p> 
                 <p>Thank you for that and for a perfect evening.</p> 
-                <salute>Fondly,</salute> 
+                <closer><salute>Fondly,</salute> 
                 <signed>Lyn</signed> 
-                <signed>Lyn Hall Walker</signed> 
+                <signed>Lyn Hall Walker</signed> </closer>
             </div1>
         </body>
     </text>

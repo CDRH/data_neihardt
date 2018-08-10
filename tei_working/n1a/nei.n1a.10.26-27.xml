@@ -42,9 +42,9 @@
             <sourceDesc>
                 <bibl>
                     <author>Brick, Donna</author>
-                    <title level="m" type="main">Letter from Donna Brick Weaver to John G. Neihardt</title>
+                    <title level="m" type="main">Letter from Donna Brick to John G. Neihardt</title>
                     <date when="1971-04-20">April 20, 1971</date>
-                    <extent>2 pages</extent>
+                    <extent>1 page; 1 envelope</extent>
                 </bibl>
                 <msDesc>
                     <msIdentifier>
@@ -52,13 +52,13 @@
                         <idno></idno>
                     </msIdentifier>
                     <msContents>
-                        <p>2 pages</p>
+                        <p>1 hand written page; 1 envelope</p>
                     </msContents>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
                                 <support></support>
-                                <extent>2 pages
+                                <extent>1 page; 1 envelope
                                     <dimensions unit="mm"><height></height><width></width></dimensions>
                                 </extent>
                                 <condition>
@@ -141,40 +141,34 @@
         <body>
             
             <div1 type="letter">
-                <pb facs="nei.n1a.10.26-27.xml"/>
-                <note type="curatorial">26</note>
-                <fw type="authorial"></fw>
-                <note type="authorial"></note>
-                
-                <dateline>4-20-71</dateline>
-                
-                <salute>Professor Neihardt:</salute>
+                <pb facs="nei.n1a.10.26"/>
+                <fw type="curatorial">26</fw>
 
-                <p>Congratulations on the 50th Anniversary of your poet laureate -</p> 
-                <p>We're proud to be your fellow Nebraskans -</p> 
+                
+<opener>                <dateline>4-20-71</dateline>
+                
+                <salute>Professor Neihardt:</salute></opener>
+
+                <p>Congratulations on the 50th Anniversary of your poet laureate &#8212;</p> 
+                <p>We're proud to be your fellow Nebraskans &#8212;</p> 
                 <p>Good health to you.</p> 
-                <salute>Sincerely</salute>
-                <signed>Donna Brick, Pres.</signed> 
-                <postscript>
-                    <p>
-                        Women's Division
-                        Lincoln Chamber of Commerce
-                    </p>
-                </postscript> 
+ <closer>               <salute>Sincerely</salute>
+                <signed>Donna Brick, Pres.<lb/>
+                        Women's Division<lb/>
+                        Lincoln Chamber of Commerce</signed></closer>
             </div1>
             
             <div1 type="envelope">
-                <pb facs="nei.n1a.10.26-27.xml"/>
-                <note type="curatorial">27</note>
-                <fw type="authorial"></fw>
-                <note type="authorial"></note>
+                <pb facs="nei.n1a.10.27"/>
+                <fw type="curatorial">27</fw>
+
                 
                 <ab type="note">
                     Congratulations from 
                     Women's Div. 
                     Lincoln Chamber 
                     of Commerce 
-                    <del/> <del>Sent to Kwanis too</del>
+                    <del/> <del>Sent to Kiwanis too</del>
                 </ab>
 
                 <ab type="postmark">
@@ -189,15 +183,15 @@
                     .06 
                 </ab>
                 
-                <ab type="note">
+                <note>
                     4-21-71
-                </ab>
+                </note>
 
                 <ab type="address">
-                    Prof. John G Neihardt
-                    5835 Vine street 
-                    Lincoln, 
-                    Nebraska 
+                    <address><addrLine>Prof. John G Neihardt</addrLine>
+                    <addrLine>5835 Vine street</addrLine> 
+                    <addrLine>Lincoln,</addrLine> 
+                    <addrLine>Nebraska</addrLine></address>
                 </ab>
 
             </div1>

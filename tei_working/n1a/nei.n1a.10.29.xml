@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Letter from Tillie Fisher and Sandy Karbo to John G. Neihardt, April 12,
+                <title type="main">Letters from Tillie Fisher and Sandy Karbo to John G. Neihardt, April 28,
                     1971</title>
                 <author>Fisher, Tillie</author>
                 <author>Karbo, Sandy</author>
@@ -45,9 +45,9 @@
                 <bibl>
                     <author>Fisher, Tillie</author>
                     <author>Karbo, Sandy</author>
-                    <title level="m" type="main">Letter from Tillie Fisher and Sandy Karbo to John
+                    <title level="m" type="main">Letters from Tillie Fisher and Sandy Karbo to John
                         G. Neihardt</title>
-                    <date when="1971-04-12">April 12, 1971</date>
+                    <date when="1971-04-28">April 28, 1971</date>
                     <extent>1 page</extent>
                 </bibl>
                 <msDesc>
@@ -124,10 +124,12 @@
             <correspDesc>
                 <correspAction type="sentBy">
                     <persName>Fisher, Tillie</persName>
-                    <persName>Karbo, Sandy</persName>
                     <placeName ref="http://www.geonames.org/5389489">Sacramento (Calif.)</placeName>
+                </correspAction>
+                <correspAction type="sentBy">
+                    <persName>Karbo, Sandy</persName>
                     <placeName ref="http://www.geonames.org/5110302">Brooklyn (N.Y.)</placeName>
-                    <date when="1971-04-12"/>
+                    <date when="1971-04-28"/>
                 </correspAction>
                 <correspAction type="deliveredTo">
                     <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
@@ -149,44 +151,41 @@
         <body>
             
             <div1 type="letter">
-                <pb facs="nei.n1a.10.29.xml"/>
-                <note type="curatorial"></note>
-                <fw type="authorial"></fw>
-                <note type="authorial"></note>
-                <fw type="address"></fw>
-                
-                <dateline>12 April 1971</dateline>
+                <pb facs="nei.n1a.10.29"/>
+
 
                 <p>I watched the Dick Cavett show and every Nebraskan everywhere should have been extremely proud. At your age you must be the most brilliant man</p> 
                 
                 <p>I am 85 myself &amp; active &amp; alert</p> 
                 <p>If there is a charge for the autograph I will be pleased to send you a check.</p> 
                 
-                <signed>Tillie Fisher</signed>
-                <fw type="address">
-                    818-18th St. 
-                    Sacramento
-                    Calif
-                    95814
-                </fw>
+                <closer><signed>Tillie Fisher</signed>
+
+                    <address><addrLine>818-18th St.</addrLine> 
+                    <addrLine>Sacramento</addrLine>
+                    <addrLine>Calif</addrLine>
+                    <addrLine>95814</addrLine></address></closer>
+                
             </div1>
             
             <div1 type="letter">
                 <note type="curatorial">29</note>
-                <fw type="authorial"></fw>
-                <note type="authorial"></note>
+
                 
-                <salute>Dear Dr. Neihardt,</salute>
+                <opener>
+<dateline>April 28, 1971</dateline>
+
+<salute>Dear Dr. Neihardt,</salute></opener>
                 <p>I was listening to the television last night when you were being interviewed. I want simply to tell you that a man of such profound and genuine respect for other life, humility in his own, such courage, and clarity of perception is truly an inspiration to us younger people who as yet can only struggle and hope to grow so fully and so beautifully as you have in your life.</p> 
                 <p>I wish to thank you, somehow; to express gratitude to you for being, I suppose, and for sharing yourself with us.</p> 
-                <salute>Very sincerely,</salute>
+                <closer><salute>Very sincerely,</salute>
                 <signed>Sandy Karbo</signed> 
                 <note>(age 22)</note>
-                <fw type="address">
-                c/o 56 Rugby Rd 
-                Brooklyn, N.Y. 11226
-                29
-                </fw>
+                <address>
+                <addrLine>c/o 56 Rugby Rd </addrLine>
+                <addrLine>Brooklyn, N.Y. 11226</addrLine></address>
+</closer>
+
             </div1>
         </body>
     </text>
