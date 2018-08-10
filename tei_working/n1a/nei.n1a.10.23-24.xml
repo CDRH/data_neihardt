@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Letter from Sister Teresa Schuster to John G. Neihardt, March 7, 1971</title>
+                <title type="main">Letter from Teresa Schuster to John G. Neihardt, March 7, 1971</title>
                 <author>McCluskey, Sally</author>
                 <principal>Gossin, Pamela</principal>
             </titleStmt>
@@ -42,7 +42,7 @@
             <sourceDesc>
                 <bibl>
                     <author>Schuster, Teresa</author>
-                    <title level="m" type="main">Letter from Sister Teresa Schuster to John G. Neihardt</title>
+                    <title level="m" type="main">Letter from Teresa Schuster to John G. Neihardt</title>
                     <date when="1971-03-07">March 7, 1971</date>
                     <extent>2 pages</extent>
                 </bibl>
@@ -52,7 +52,7 @@
                         <idno></idno>
                     </msIdentifier>
                     <msContents>
-                        <p>2 pages</p>
+                        <p>2 hand written pages</p>
                     </msContents>
                     <physDesc>
                         <objectDesc>
@@ -143,44 +143,39 @@
     <text>
         <body>
             
-            <div1 type="letter">
-                <pb facs="nei.n1a.10.23-24.xml"/>
-                <note type="curatorial">23</note>
-                <note type="authorial"></note>
-                <fw type="authorial">
-                </fw>
+            <div1 type="card">
+                <pb facs="nei.n1a.10.23_0001"/>
+                <fw type="curatorial">23</fw>
+
                 
-                <salute>My dear Friend,</salute>
-                <p>I got the record of your poetry yesterday. This morning's Kansas City Star has the lovely story of your life and once more I am proud to recall all your kindness to me. You are a great man, Dr. Neihardt. God bless you for you goodness.</p> 
-                <p>I am still teaching my young men here at Conception Seminary. Friday of this week my American Literature class will read your poetry and hear the recordings which thrilled me yesterday. I'm also going to be vain enough to take to class the seven letters I have received from you! It will</p> 
+                <opener><salute>My dear Friend,</salute></opener>
+                <p>I got the record of your poetry yesterday. This morning's Kansas City Star has the lovely story of your life and once more I am proud to recall all your kindness to me. You are a great man, Dr. Neihardt. God bless you for your goodness.</p> 
+                <p>I am still teaching my young men here at Conception Seminary. Friday of this week my American Literature class will read your poetry and hear the recordings which thrilled me yesterday. I'm also going to be vain enough to take to class the seven letters I have received from you! It will 
                 
-                <p>YOU ALSO SHALL LIVE</p>
+                <note type="printed">YOU ALSO SHALL LIVE</note>
                 
-                <pb facs="nei.n1a.10.23-24.xml"/>
-                <note type="curatorial"></note>
-                <note type="authorial"></note>
-                <fw type="authorial"></fw>
+                <pb facs="nei.n1a.10.23_0002"/>
+
                 
-                <p><figure/> -ABBIE- BECAUSE CHRIST LIVES...</p>
+                <note type="printed"><figure><ab type="credit">-ABBIE-</ab></figure>  BECAUSE CHRIST LIVES...</note>
                 
-                <p>be a good day!</p> 
-                <salute>I send sincere greetings and good wishes to you. Never will I forget the lovely
-                    Sunday afternoon at Mt. Marty College in Yankton. With kindest thoughts,</salute> 
-                <signed>Sister Teresa Schuster</signed>
-                <note type="address">Conception Abbey Press, Conception, Missouri, CA 1151</note> 
+                be a good day!</p> 
+                <p>I send sincere greetings and good wishes to you. Never will I forget the lovely
+                    Sunday afternoon at Mt. Marty College in Yankton. With kindest thoughts,</p> 
+                <closer><signed>Sister Teresa Schuster</signed>
+                <address><addrLine>Conception Abbey Press, Conception, Missouri, CA 1151</addrLine></address></closer> 
                 
             </div1>
             
             <div1 type="envelope">
-                <pb facs="nei.n1a.10.23-24.xml"/>
+                <pb facs="nei.n1a.10.24"/>
                 <note type="curatorial">24</note>
-                <note type="authorial"></note>
-                <fw type="authorial"></fw>
+
                 
                 <ab type="return">
-                    S. Teresa Schuster 
-                    Immaculate Conception Seminary 
-                    Conception, Missouri 64433
+                    <address><addrLine>S. Teresa Schuster</addrLine> 
+                    <addrLine>Immaculate Conception Seminary</addrLine> 
+                    <addrLine>Conception, Missouri 64433</addrLine></address>
                 </ab>
                 
                 <ab type="postmark">
@@ -197,10 +192,10 @@
                 </ab>
                 
                 <ab type="address">
-                    Dr. John G. Neihardt 
-                    <del>5555 O. St. </del> 5835 Vine 
-                    Lincoln, Nebraska
-                    <del>68510</del> 68505 
+                    <address><addrLine>Dr. John G. Neihardt</addrLine> 
+                    <addrLine><del>5555 O. St. </del> 5835 Vine</addrLine> 
+                    <addrLine>Lincoln, Nebraska</addrLine>
+                    <addrLine><del>68510</del> 68505</addrLine></address>
                 </ab>
 
                 <ab type="note">

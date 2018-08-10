@@ -44,7 +44,7 @@
                     <author>Williams, Mareta B.</author>
                     <title level="m" type="main">Letter from Mareta B. Williams to John G. Neihardt</title>
                     <date when="1971-03-05">March 5, 1971</date>
-                    <extent>2 pages</extent>
+                    <extent>4 pages</extent>
                 </bibl>
                 <msDesc>
                     <msIdentifier>
@@ -52,13 +52,13 @@
                         <idno></idno>
                     </msIdentifier>
                     <msContents>
-                        <p>2 pages</p>
+                        <p>4 hand written pages</p>
                     </msContents>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
                                 <support></support>
-                                <extent>2 pages
+                                <extent>4 pages
                                     <dimensions unit="mm"><height></height><width></width></dimensions>
                                 </extent>
                                 <condition>
@@ -142,61 +142,61 @@
         <body>
             
             <div1 type="letter">
-                <pb facs="nei.n1a.10.24a-24b.xml"/>
-                <note type="curatorial">24</note>
-                <fw type="authorial">
+                <pb facs="nei.n1a.10.24a"/>
+                <fw type="curatorial">24</fw>
+                <fw type="letterhead">
                     <figure/>
-                    SOUTHWEST MISSOURI 
-                    STATE COLLEGE 
+                    SOUTHWEST MISSOURI<lb/>
+                    STATE COLLEGE <lb/>
                     SPRINGFIELD
                 </fw>
-                <note type="authorial">
-                    Ans. 3/15/71
+                <note>
+                    Ans. 3/15/71<lb/>
                     Dictated
                 </note>
 
-                <fw type="address">
-                        1111 East Normal 
-                        Springfield, Mo.  
-                </fw>
+                <opener>
+                        <dateline>1111 East Normal<lb/>
+                        Springfield, Mo.<lb/>
+
                     
-                <dateline>March 5, 1971</dateline>
-                
+                March 5, 1971</dateline>
+                      </opener>          
                 <salute>Dear Mr. Neihardt,</salute>
                 <p>I am deeply sorry the Missouri's Writers has not been sent to you. I left it up to my Editor but he has been very busy working on his Ph.D. and that accounts for the delay.</p> 
                 <p>I hope you like the book</p>  
-                
-                <fw type="authorial">
-                    <figure/>
-                    SOUTHWEST MISSOURI 
-                    STATE COLLEGE 
-                    SPRINGFIELD
-                </fw>
-                
-                <p>of Teachers of English  Literary Landmarks Committee I have to read in material concerning literary landmarks which are already established in Missouri.</p> 
-                <p>That brings me to my question concerning you. Is there any house in Missouri where you have lived that has an especial significance. Is the hosue still standing in Branson where you lived?</p>
-                <p>I shall enclose a format</p>
-                
-                <pb facs="nei.n1a.10.24a-24b.xml"/>
-                <note type="curatorial">24b</note>
+
+                <pb facs="nei.n1a.10.24b"/>
+                <fw type="curatorial">24b</fw>
                 
                 <p>We hope to publish a second edition soon if ^we can come out financially  solvent on the first edition. We have not sold enough copies as yet to pay the printer.  If you know of anyone who would like another copy send $1 to me and I'll see that you get one.</p> 
                 <p>I got a pamphlet advertising your record and plan to order one.</p> 
                 <p>Your picture celebrating your 89th birthday was in the Springfield paper. I clipped it for my files.</p> 
-                <p>I am on the National Council</p>
+                <p>I am on the National Council
+       <pb/>
+                <fw type="letterhead">
+                    <figure/>
+                    SOUTHWEST MISSOURI<lb/>
+                    STATE COLLEGE <lb/>
+                    SPRINGFIELD
+                </fw>
                 
-                <p>to fill out if you have any information.</p> 
+of Teachers of English  Literary Landmarks Committee I have to read in material concerning literary landmarks which are already established in Missouri.</p> 
+                <p>That brings me to my question concerning you. Is there any house in Missouri where you have lived that has an especial significance. Is the house still standing in Branson where you lived?</p>
+                <p>I shall enclose a format
+
+         <pb/>
+to fill out if you have any information.</p> 
                 <p>I hope you are in good health and that your eyes are better.</p> 
                 
-                <salute>Sincerely,</salute>
-                <signed>Mareta B. Williams</signed>
-                <postscript><p>send mail to home address</p></postscript>
+                <closer><salute>Sincerely,</salute>
+                <signed>Mareta B. Williams</signed></closer>
+                <postscript><p>send mail to home address</p>
                 <note type="address">
-                    1111 East Normal  
-                    Springfield, Mo. 
-                    65804 
-                    245
-                </note>
+                    <address><addrLine>1111 East Normal</addrLine>  
+                    <addrLine>Springfield, Mo.</addrLine> 
+                    <addrLine>65804</addrLine></address>
+                </note></postscript>
 
             </div1>
         </body>
