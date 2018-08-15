@@ -7,7 +7,7 @@
             <titleStmt>
                 <title type="main">Letter from John G. Neihardt to Manager of the York, South Carolina
                     Chamber of Commerce, February 8, 1969</title>
-                <author>Neihardt, John G., 1881-1973.</author>
+                <author>Neihardt, John G., 1881-1973</author>
                 <principal>Gossin, Pamela</principal>
             </titleStmt>
             <editionStmt>
@@ -101,16 +101,16 @@
             </textClass>
             <correspDesc>
                 <correspAction type="sentBy">
-                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973</persName>
                     <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
-                </correspAction>
-                <correspAction type="deliveredTo">
-                    <persName>Manager of the York, South Carolina Chamber of Commerce</persName>
-                    <placeName ref="http://www.geonames.org/4601703">York (S.C.)</placeName>
                     <date when="1969-02-08"/>
                 </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName></persName>
+                    <placeName ref="http://www.geonames.org/4601703">York (S.C.)</placeName>
+                </correspAction>
             </correspDesc>
-            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+            <particDesc><person role="recipient"><persName></persName></person></particDesc>
         </profileDesc>
         
         <revisionDesc>
@@ -124,7 +124,7 @@
             
             <div1 type="letter">
                 <pb facs="nei.n1b.1.4"/>
-                <note type="curatorial">4</note>
+                <fw type="curatorial">4</fw>
                 
                 <opener>
                     <address>
@@ -147,13 +147,11 @@
                 
                 <closer>
                     <salute>Sincerely yours,</salute>
-                    <signed>John G. Neihardt</signed>
-                </closer>
+                    <signed>John G. Neihardt<lb/>Poet Laureate of Nebraska</signed>
+
                 
                 <note type="authorial">JGN:fmb</note>
-                <note type="authorial">
-                    Poet Laureate of Nebraska 
-                </note>
+                </closer>
             </div1>
             
         </body>

@@ -6,7 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title type="main">Letter from John G. Neihardt to Roscoe H. Vining, February 26, 1969</title>
-                <author>Neihardt, John G., 1881-1973.</author>
+                <author>Neihardt, John G., 1881-1973</author>
                 <principal>Gossin, Pamela</principal>
             </titleStmt>
             <editionStmt>
@@ -41,7 +41,7 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Neihardt, John G., 1881-1973.</author>
+                    <author>Neihardt, John G., 1881-1973</author>
                     <title level="m" type="main">Letter from John G. Neihardt to Roscoe H. Vining</title>
                     <date when="1969-02-26">February 26, 1969</date>
                     <extent>1 page</extent>
@@ -98,16 +98,17 @@
             </textClass>
             <correspDesc>
                 <correspAction type="sentBy">
-                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973</persName>
                     <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                    <date when="1969-02-26"/>
                 </correspAction>
                 <correspAction type="deliveredTo">
                     <persName>Vining, Roscoe H.</persName>
                     <placeName></placeName>
-                    <date when="1969-02-26"/>
+
                 </correspAction>
             </correspDesc>
-            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+            <particDesc><person role="recipient"><persName>Vining, Roscoe H.</persName></person></particDesc>
         </profileDesc>
         
         <revisionDesc>
@@ -136,7 +137,7 @@
                     <salute>Dear old Friend,</salute>
                 </opener>
                 
-                <p>I can tell you I was overjoyed to hear from you again; not that I thought you had necessarily gone on to your fathers, but that you had probably lost interest in me. I take it that you haven't, bless your heart: and I notice that you are even making a speech to some school about my work. In this connection, my friend, Mrs. J.D. Young, at whose home I^'m stay-ing while working on my autobiography, has sent you some material that will bring you up to date so far as my activities are con-cerned.</p> 
+                <p>I can tell you I was overjoyed to hear from you again; not that I thought you had necessarily gone on to your fathers, but that you had probably lost interest in me. I take it that you haven't, bless your heart: and I notice that you are even making a speech to some school about my work. In this connection, my friend, Mrs. J.D. Young, at whose home I'm staying while working on my autobiography, has sent you some material that will bring you up to date so far as my activities are concerned.</p> 
                 <p>I am astonished to realize that you are eighty years old, although I myself celebrated my eighty-eighth birthday this year. The material sent to you by Mrs. Young gives some interesting notes on this fact.</p> 
                 <p>Since I saw you I have completed an entirely new career, having taught seventeen years at the University of Missouri. I began at the tender age of sixty-eight and retired at eighty-five. It was a joy, all of it. I stayed year after year because I loved the students. My chief course was "Epic America," in which I gave my Cycle with commentary. The course was very popular. It is still running with the title "The Twilight of the Sioux." although I am far away: but I have a very able assistant, who takes care of my TV course.</p> 
                 <p>I think Mrs. Young has sent you enought material to hold you for some time. When you have survived it. please write me another letter.</p> 
@@ -144,10 +145,9 @@
                 
                 <closer>
                     <signed>John G. Neihardt</signed>
-                </closer>
-                
+             
                 <note type="authorial">JGN:fmb</note>
-                
+                    </closer>            
                 <postscript>
                     <p>P.S. I am very glad to hear that you whipped a case of pneumonia, and I hope that it did not leave any bad results. I myself had a bout with virus pneumonia over a year ago, and there are no results.</p> 
                     <p>I do wish I could see you again. Surely it is still possible to do so.</p>

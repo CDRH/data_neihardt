@@ -6,7 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title type="main">Letter from John G. Neihardt to James D. Walker, February 9, 1969</title>
-                <author>Neihardt, John G., 1881-1973.</author>
+                <author>Neihardt, John G., 1881-1973</author>
                 <principal>Gossin, Pamela</principal>
             </titleStmt>
             <editionStmt>
@@ -41,7 +41,7 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Neihardt, John G., 1881-1973.</author>
+                    <author>Neihardt, John G., 1881-1973</author>
                     <title level="m" type="main">Letter from John G. Neihardt to James D. Walker</title>
                     <date when="1969-02-09">February 9, 1969</date>
                     <extent>1 page</extent>
@@ -103,14 +103,14 @@
                 <correspAction type="sentBy">
                     <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
                     <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                    <date when="1969-02-09"/>
                 </correspAction>
                 <correspAction type="deliveredTo">
                     <persName ref="https://viaf.org/viaf/50582285">Walker, James D., 1928-</persName>
                     <placeName ref="http://www.geonames.org/4140963">Washington (D.C.)</placeName>
-                    <date when="1969-02-09"/>
                 </correspAction>
             </correspDesc>
-            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+            <particDesc><person role="recipient"><persName>Walker, James D., 1928-</persName></person></particDesc>
         </profileDesc>
         
         <revisionDesc>
@@ -124,7 +124,7 @@
             
             <div1 type="letter">
                 <pb facs="nei.n1b.1.5"/>
-                <note type="curatorial">5</note>
+                <fw type="curatorial">5</fw>
                 
                 <opener>
                     <address>
@@ -149,9 +149,9 @@
                 <closer>
                     <salute>Sincerely yours,</salute>
                     <signed>John G. Neihardt</signed>
-                </closer>
+
                 
-                <note type="authorial">JGN:fmb</note>
+                <note type="authorial">JGN:fmb</note>                </closer>
             </div1>
             
         </body>
