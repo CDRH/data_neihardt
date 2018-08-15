@@ -41,7 +41,7 @@
                 <bibl>
                     <author>Linden, George W. (George William), 1928-</author>
                     <title level="m" type="main">Letter from George W. Linden to John G. Neihardt</title>
-                    <date when="1973-04-30">April 30, 1971</date>
+                    <date when="1971-04-30">April 30, 1971</date>
                     <extent>1 page</extent>
                 </bibl>
                 <msDesc>
@@ -70,7 +70,7 @@
                     <term>Linden, George W. (George William), 1928-</term>
                 </keywords>
                 <keywords scheme="lcsh" n="places">
-                    <term>Elmwood (Neb.)</term>
+                    <term></term>
                 </keywords>
                 <keywords scheme="lcsh" n="works">
                     <term>The Dick Cavett Show</term>
@@ -81,14 +81,14 @@
                 <correspAction type="sentBy">
                     <persName ref="https://viaf.org/viaf/121767597">Linden, George W. (George William), 1928-</persName>
                     <placeName></placeName>
-                    <date when="1973-04-30"/>
+                    <date when="1971-04-30"/>
                 </correspAction>
                 <correspAction type="deliveredTo">
-                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973</persName>
                     <placeName></placeName>
                 </correspAction>
             </correspDesc>
-            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973</persName></person></particDesc>
         </profileDesc>
         <revisionDesc>
             <change when="2018"><name xml:id="cme">Elliott, Catherine M.</name>Initial Encoding</change>
@@ -101,26 +101,26 @@
             <div1 type="letter">
                 <pb facs="nei.n1a.10.57"/>
                 <fw type="curatorial">57</fw>
-                <note type="authorial">
+                <note>
                     Former student of J.G.N.
                 </note>
-                <fw type="authorial">
-                    Southern Illinois University
-                    MEMORANDUM 4/30/71
+                <fw type="letterhead">
+                    Southern Illinois University<lb/>
+                    MEMORANDUM 4/30/71<lb/>
                     
-                    To: John G. Neihardt 
-                    From: George W. Linden 
+                    To: John G. Neihardt <lb/>
+                    From: George W. Linden <lb/>
                     Subject: hello 
                 </fw>
                 
                 <opener>
                     <salute>Dear Dr. Neihardt:</salute>
                 </opener>
-                <p>I re-read Black Elk Speaks yesterday and I want to tell you what a fine experience it was. It is a good and beautiful book. I also saw your image on the Cavett show and it was good to know your mind and voice are al vigorous as ever. The fact that your influence is on the rise again is a good argument for your thesis of persistence of the spirit.</p> 
-                <p>As you proably know, I am now a professor (philosophy) and family man. My mother said she had a visit with you several years ago. I still am afflicted with writing poetry and turn my hand to it when I have the chance. The purpose of this letter was simply to wish you well. I do so.</p>
+                <p>I re-read Black Elk Speaks yesterday and I want to tell you what a fine experience it was. It is a good and beautiful book. I also saw your image on the Cavett show and it was good to know your mind and voice are as vigorous as ever. The fact that your influence is on the rise again is a good argument for your thesis of persistence of the spirit.</p> 
+                <p>As you probably know, I am now a professor (philosophy) and family man. My mother said she had a visit with you several years ago. I still am afflicted with writing poetry and turn my hand to it when I have the chance. The purpose of this letter was simply to wish you well. I do so.</p>
                 <closer>
                     <salute>Yours,</salute>
-                    <signed>Bell Linden</signed> 
+                    <signed>Bill Linden</signed> 
                 </closer>
             </div1>
         </body>

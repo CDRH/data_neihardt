@@ -41,7 +41,7 @@
                 <bibl>
                     <author>Sweet, Ethel</author>
                     <title level="m" type="main">Letter from Ethel Sweet to John G. Neihardt</title>
-                    <date when="1973-04-28">April 28, 1971</date>
+                    <date when="1971-04-28">April 28, 1971</date>
                     <extent>1 page</extent>
                 </bibl>
                 <msDesc>
@@ -82,14 +82,14 @@
                 <correspAction type="sentBy">
                     <persName>Sweet, Ethel</persName>
                     <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
-                    <date when="1973-04-28"/>
+                    <date when="1971-04-28"/>
                 </correspAction>
                 <correspAction type="deliveredTo">
-                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
-                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973</persName>
+
                 </correspAction>
             </correspDesc>
-            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973</persName></person></particDesc>
         </profileDesc>
         <revisionDesc>
             <change when="2018"><name xml:id="cme">Elliott, Catherine M.</name>Initial Encoding</change>
@@ -117,11 +117,11 @@
                 <p>By the way, who was your hairdresser? Your hair was so pretty!</p> 
                 <closer>
                     <salute>Sincerely,</salute>
-                    <fw type="address">
-                        Ethel Sweet 
-                        800 South 47th st 
-                        Lincoln, NB 68510
-                    </fw> 
+                    
+                       <signed> Ethel Sweet</signed> 
+                        <note>800 South 47th St<lb/>
+                        Lincoln, NB 68510</note>
+                     
                 </closer>
             </div1>
         </body>

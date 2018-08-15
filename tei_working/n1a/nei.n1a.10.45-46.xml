@@ -41,8 +41,8 @@
                 <bibl>
                     <author>Conlin, Norma</author>
                     <title level="m" type="main">Letter from Norma Conlin to John G. Neihardt</title>
-                    <date when="1973-04-28">April 28, 1971</date>
-                    <extent>2 pages</extent>
+                    <date when="1971-04-28">April 28, 1971</date>
+                    <extent>2 pages; 1 envelope</extent>
                 </bibl>
                 <msDesc>
                     <msIdentifier>
@@ -50,7 +50,7 @@
                         <idno></idno>
                     </msIdentifier>
                     <msContents>
-                        <p>2 hand-written pages</p>
+                        <p>2 hand-written pages; 1 envelope</p>
                     </msContents>
                 </msDesc>
             </sourceDesc>
@@ -83,15 +83,13 @@
             <correspDesc>
                 <correspAction type="sentBy">
                     <persName>Conlin, Norma</persName>
-                    <placeName ref="http://www.geonames.org/5074472">Omaha (Neb.)</placeName>
-                    <date when="1973-04-28"/>
+                    <date when="1971-04-28"/>
                 </correspAction>
                 <correspAction type="deliveredTo">
                     <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
-                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
                 </correspAction>
             </correspDesc>
-            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973</persName></person></particDesc>
         </profileDesc>
         <revisionDesc>
             <change when="2018"><name xml:id="cme">Elliott, Catherine M.</name>Initial Encoding</change>
@@ -102,7 +100,7 @@
         <body>
             
             <div1 type="letter">
-                <pb facs="nei.n1a.10.45-46"/>
+                <pb facs="nei.n1a.10.45"/>
                 <fw type="curatorial">45</fw>
                 <fw type="authorial"></fw>
                 
@@ -119,19 +117,17 @@
                 <p>I am a mystic, and much interested in spiritual matters.</p> 
                 <p>I know the real meaning of mysticism, as I know you do.</p> 
                 <p>I'd love to know more from one much wiser than I.</p> 
-                <p>Life is a lonely waiting to find spiritual relatives - they are <unclear/> among the young Hippies so called</p> 
+                <p>Life is a lonely waiting to find spiritual relatives &#8212; they are <unclear/> among the young Hippies so called 
                 
-                <pb facs="nei.n1a.10.45-46"/>
-                <fw type="curatorial"></fw>
-                <fw type="authorial"></fw>
+                <pb/>
+
                 
-                <p>today, but who are really aware as you declared on T.V.</p> 
+                today, but who are really aware as you declared on T.V.</p> 
                 <p>I am in early sixtie's and became aware nearly 18 years ago, after much pondering.</p> 
-                <p>I read the writings of</p> 
-                <p>Glena Clark of MacAlester College in Minnesota.</p> 
+                <p>I read the writings of Glena Clark of MacAlester College in Minnesota.</p> 
                 <p>I also read Evelyn Underhill and Saint Theresa:</p> 
                 <p>I read the religions, each one, <unclear>before</unclear> I turned to the Mystics.</p> 
-                <p>If its possible to answer, tell me about your poems, where I can get them, and all your books. I recognize you as a great Soul. your views on animal kililng were also mine.</p> 
+                <p>If its possible to answer, tell me about your poems, where I can get them, and all your books. I recognize you as a great Soul. Your views on animal killing were also mine.</p> 
                 
                 <closer>
                     <salute>My dearest wishes,</salute> 
@@ -140,9 +136,9 @@
             </div1>
             
             <div1 type="envelope">
-                <pb facs="nei.n1a.10.45-46"/>
+                <pb facs="nei.n1a.10.46"/>
                 <fw type="curatorial">46</fw>
-                <fw type="authorial"></fw>
+
                 
                 <ab type="postmark">
                     U.S. POSTAL SERVICE, NY 130
@@ -155,16 +151,16 @@
                 </ab>
                 
                 <ab type="address">
-                    Dick Cavett Show 
-                    (Dr. John Neihardt) please forward
-                    c/o W.N.Y.S. T.V. 
-                    Syracuse,
-                    N.Y. 
+                    <address><addrLine>Dick Cavett Show</addrLine> 
+                    <addrLine>(Dr. John Neihardt) please forward</addrLine>
+                    <addrLine>c/o W.N.Y.S. T.V.</addrLine> 
+                    <addrLine>Syracuse,</addrLine>
+                    <addrLine>N.Y.</addrLine> </address>
                 </ab> 
                 
-                <note type="authorial">
-                    Collin 
-                    ans'd
+                <note>
+                    Colin</note>
+                    <note>ans'd
                     5/30/71
                 </note> 
                 

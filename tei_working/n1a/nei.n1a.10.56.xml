@@ -41,7 +41,7 @@
                 <bibl>
                     <author>Weizel, Marion</author>
                     <title level="m" type="main">Letter from Marion Weizel to John G. Neihardt</title>
-                    <date when="1973-04-29">April 29, 1971</date>
+                    <date when="1971-04-29">April 29, 1971</date>
                     <extent>1 page</extent>
                 </bibl>
                 <msDesc>
@@ -81,14 +81,14 @@
                 <correspAction type="sentBy">
                     <persName>Weizel, Marion</persName>
                     <placeName ref="http://www.geonames.org/5067620">Elmwood (Neb.)</placeName>
-                    <date when="1973-04-29"/>
+                    <date when="1971-04-29"/>
                 </correspAction>
                 <correspAction type="deliveredTo">
-                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
-                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973</persName>
+
                 </correspAction>
             </correspDesc>
-            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973</persName></person></particDesc>
         </profileDesc>
         <revisionDesc>
             <change when="2018"><name xml:id="cme">Elliott, Catherine M.</name>Initial Encoding</change>
@@ -101,11 +101,11 @@
             <div1 type="letter">
                 <pb facs="nei.n1a.10.56"/>
                 <fw type="curatorial">56</fw>
-                <fw type="authorial"></fw>
+
                 
                 <opener>
                     <dateline>
-                        Elmwood, Neb. 68349
+                        <note>Elmwood, Neb. 68349</note><lb/>
                         Apr. 29, 1971
                     </dateline>
                     
@@ -114,7 +114,7 @@
                 <p>We watched and listened to your interview on the Dick Cavett show, and you were just great!</p> 
                 <p>It's been some time since we enjoyed viewing a program to the extent we did that one of yours. Our son, John, came in from the field weary after disking and stayed up to watch every minute of your show. That, in addition to a full day at school, meant he had to fight to stay awake.</p> 
                 <p>We just hope we can see the other parts of the program you had taped.</p> 
-                <p>You started your college teaching career kind of late in life, how about beginning a TV show - a conversation with Neihardt - at age 90?</p>
+                <p>You started your college teaching career kind of late in life, how about beginning a TV show &#8212; a conversation with Neihardt &#8212; at age 90?</p>
                 <p>May God bless.</p>
                 <closer>
                     <salute>Sincerely,</salute>

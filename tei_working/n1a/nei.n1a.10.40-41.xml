@@ -41,8 +41,8 @@
                 <bibl>
                     <author>Cole, Blanche A.</author>
                     <title level="m" type="main">Letter from Blanche A. Cole to John G. Neihardt</title>
-                    <date when="1973-04-28">April 28, 1971</date>
-                    <extent>2 pages</extent>
+                    <date when="1971-04-28">April 28, 1971</date>
+                    <extent>1 page; 1 envelope</extent>
                 </bibl>
                 <msDesc>
                     <msIdentifier>
@@ -50,7 +50,7 @@
                         <idno></idno>
                     </msIdentifier>
                     <msContents>
-                        <p>2 hand-written pages</p>
+                        <p>1 hand-written page; 1 envelope</p>
                     </msContents>
                 </msDesc>
             </sourceDesc>
@@ -77,20 +77,21 @@
                     <term>The Death of Crazy Horse</term>
                     <term>Black Elk Speaks</term>
                     <term>Lyric and Dramatic Poems</term>
+                    <term>The Dick Cavett Show</term>
                 </keywords>
             </textClass>
             <correspDesc>
                 <correspAction type="sentBy">
                     <persName>Cole, Blanche A.</persName>
                     <placeName ref="http://www.geonames.org/5074472">Omaha (Neb.)</placeName>
-                    <date when="1973-04-28"/>
+                    <date when="1971-04-28"/>
                 </correspAction>
                 <correspAction type="deliveredTo">
-                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973</persName>
                     <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
                 </correspAction>
             </correspDesc>
-            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973</persName></person></particDesc>
         </profileDesc>
         <revisionDesc>
             <change when="2018"><name xml:id="cme">Elliott, Catherine M.</name>Initial Encoding</change>
@@ -101,29 +102,29 @@
         <body>
             
             <div1 type="letter">
-                <pb facs="nei.n1a.10.40-41"/>
+                <pb facs="nei.n1a.10.40"/>
                 <fw type="curatorial">40</fw>
                 <fw type="authorial"></fw>
                 
                 <opener>
                     <dateline>
-                        Wednesday, April, 28, 1971
+                        Wednesday, April 28, 1971
                     </dateline>
                     
-                    <salute>Dear Dr. Neihardt. -</salute>
+                    <salute>Dear Dr. Neihardt. &#8212;</salute>
                 </opener>
                 <p>What a great enjoyable evening April 27th was for me.</p> 
                 <p>My big regret is that my two grand daughters did not hear and see you give the very wonderful poem "Crazy Horse" in way it could be understood.</p> 
-                <p>I have your Lyric and dramatic poems, now. must get Black Elk speaks</p>
+                <p>I have your Lyric and dramatic poems. Now, must get Black Elk speaks</p>
                 <closer>
                     <salute>Thank you so much</salute> 
                     <salute>Sincerely</salute>
                     <signed>Blanche A. Cole</signed> 
                     
-                    <fw type="address">
-                        3102 Fontenelle Blvd
-                        Omaha, Nebr. 68104
-                    </fw>
+                    
+                        <address><addrLine>3102 Fontenelle Blvd</addrLine>
+                        <addrLine>Omaha, Nebr. 68104</addrLine></address>
+                    
                     
                     <note>Hope that K.E.T.V. will have your program "on" in daytime so the
                         children will have chance to see again a big thankyou.</note>
@@ -133,9 +134,9 @@
             <div1 type="envelope">
                 
                 <ab type="return">
-                    Mrs. Argyle I. Cole 
-                    3102 Fontenelle Blvd. 
-                    Omaha, Nebr. 68104
+                    <address><addrLine>Mrs. Argyle I. Cole</addrLine> 
+                    <addrLine>3102 Fontenelle Blvd.</addrLine> 
+                    <addrLine>Omaha, Nebr. 68104</addrLine></address>
                 </ab> 
                 
                 <ab type="postmark">
@@ -148,20 +149,22 @@
                 
                 <ab type="stamp">
                     UNITED STATES 6c
-                    4-30-71
+                    
                 </ab>
                 
+<note>4-30-71</note>
+
                 <ab type="address">
-                    Dr. John G. Neihardt 
-                    K.E.T.V. Douglas St 
-                    Omaha, Nebr. 
+                    <address><addrLine>Dr. John G. Neihardt</addrLine> 
+                    <addrLine><del>K.E.T.V. Douglas St</del></addrLine>
+                    <addrLine><del>Omaha, Nebr.</del></addrLine></address> 
                     Forward 
-                    5835 Vine St
-                    Lincoln, Nebr
-                    68505
+                   <address><addrLine> 5835 Vine St</addrLine>
+                    <addrLine>Lincoln, Nebr</addrLine>
+                    <addrLine>68505</addrLine></address>
                 </ab> 
                 
-                <note type="authorial">
+                <note>
                     Please forward
                 </note> 
                 

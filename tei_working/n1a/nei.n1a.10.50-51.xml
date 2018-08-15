@@ -41,7 +41,7 @@
                 <bibl>
                     <author>Daniel, Barbara J.</author>
                     <title level="m" type="main">Letter from Barbara J. Daniel to John G. Neihardt</title>
-                    <date when="1973-04-29">April 29, 1971</date>
+                    <date when="1971-04-29">April 29, 1971</date>
                     <extent>2 pages</extent>
                 </bibl>
                 <msDesc>
@@ -82,14 +82,14 @@
                 <correspAction type="sentBy">
                     <persName>Daniel, Barbara J.</persName>
                     <placeName ref="http://www.geonames.org/4392768">Joplin (Mo.)</placeName>
-                    <date when="1973-04-29"/>
+                    <date when="1971-04-29"/>
                 </correspAction>
                 <correspAction type="deliveredTo">
-                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
-                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973</persName>
+
                 </correspAction>
             </correspDesc>
-            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973</persName></person></particDesc>
         </profileDesc>
         <revisionDesc>
             <change when="2018"><name xml:id="cme">Elliott, Catherine M.</name>Initial Encoding</change>
@@ -100,9 +100,9 @@
         <body>
             
             <div1 type="letter">
-                <pb facs="nei.n1a.10.50-51"/>
+                <pb facs="nei.n1a.10.50"/>
                 <fw type="curatorial">50</fw>
-                <fw type="authorial"></fw>
+
                 
                 <opener>
                     <dateline>
@@ -115,10 +115,9 @@
                 <p>We are happy to know that you are well and happy, and think of you so many times.</p> 
                 <p>I haven't heard from Mrs. Young in a long time. I do hope they are fine. Did she receive my lost letter with the scarf? The mail was sort of messed up at the time so I'm not sure if she ever received it.</p> 
                 <p>April is almost gone again, but after the nice rain it sung with your April Theology.</p> 
-            </div1>
-            
-            <div1 type="response">
-                <pb facs="nei.n1a.10.50-51"/>
+
+
+                <pb facs="nei.n1a.10.51"/>
                 <fw type="curatorial">51</fw>
                 <fw type="authorial">2</fw>
                 
@@ -131,8 +130,8 @@
                 <postscript>
                     <p>P.S. The wind was very bad for several days here, and I became <del/>
                     quite depressed, until one day i began to listen and look. Then I saw and heard April coming.</p> 
-                    <p>3338 Pearl Ave. 
-                    Joplin, Mo 64801</p>
+                    <note>3338 Pearl Ave.<lb/>
+                    Joplin, Mo 64801</note>
                 </postscript>
             </div1>
 

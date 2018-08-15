@@ -36,13 +36,13 @@
                     <p></p>
                 </availability>
             </publicationStmt>
-            <notesStmt><note></note></notesStmt>
+            <notesStmt><note>Includes what appears to be dictated response from Neihardt</note></notesStmt>
             <sourceDesc>
                 <bibl>
                     <author>Browning, Cynthia</author>
                     <title level="m" type="main">Letter from Cynthia Browning to John G. Neihardt</title>
-                    <date when="1973-04-28">April 28, 1971</date>
-                    <extent>2 pages</extent>
+                    <date when="1971-04-28">April 28, 1971</date>
+                    <extent>1 page; 1 envelope</extent>
                 </bibl>
                 <msDesc>
                     <msIdentifier>
@@ -50,7 +50,7 @@
                         <idno></idno>
                     </msIdentifier>
                     <msContents>
-                        <p>2 hand-written pages</p>
+                        <p>1 hand-written page; 1 envelope</p>
                     </msContents>
                 </msDesc>
             </sourceDesc>
@@ -82,15 +82,14 @@
             <correspDesc>
                 <correspAction type="sentBy">
                     <persName>Browning, Cynthia</persName>
-                    <placeName>Charlotte (N.C.)</placeName>
-                    <date when="1973-04-28"/>
+                    <placeName ref="http://www.geonames.org/4460243">Charlotte (N.C.)</placeName>
+                    <date when="1971-04-28"/>
                 </correspAction>
                 <correspAction type="deliveredTo">
-                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
-                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973</persName>
                 </correspAction>
             </correspDesc>
-            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973</persName></person></particDesc>
         </profileDesc>
         <revisionDesc>
             <change when="2018"><name xml:id="cme">Elliott, Catherine M.</name>Initial Encoding</change>
@@ -101,7 +100,7 @@
         <body>
             
             <div1 type="letter">
-                <pb facs="nei.n1a.10.47-48"/>
+                <pb facs="nei.n1a.10.47"/>
                 <fw type="curatorial">47</fw>
                 <fw type="authorial"></fw>
                 
@@ -123,31 +122,30 @@
                 </closer>
             </div1>
             
-            <div1 type="respomse">
-                <pb facs="nei.n1a.10.47-48"/>
+            <div1 type="response">
+                <pb facs="nei.n1a.10.48"/>
                 <fw type="curatorial">48</fw>
                 <fw type="authorial"></fw>
                 
                 <opener>
                     <salute>Dear Cynthia,</salute>
                 </opener>
-                <p>I cherish the <unclear/> letter you wrote me and I want to thank you for your kindness. I have been swamped with letters since the Cavett show &amp; am unable to  spend much time on individual letters but be sure that this <unclear>note</unclear> <unclear>carries</unclear> <unclear>affec</unclear> good wishes for you.</p> 
+                <p>I cherish the <unclear>btfl</unclear> letter you wrote me and I want to thank you for your kindness. I have been swamped with letters since the Cavett show &amp; am unable to  spend much time on individual letters but be sure that this <unclear>note</unclear> <unclear>carries</unclear> <unclear>affec</unclear> good wishes for you.</p> 
                 <closer>
                     <salute>Sincerely</salute>
                 </closer> 
             </div1>
             
             <div1 type="envelope">
-                <pb facs="nei.n1a.10.47-48"/>
-                <fw type="curatorial"></fw>
-                <fw type="authorial"></fw>
+                <pb facs="nei.n1a.10.48"/>
+
                 
                 <ab type="return">
-                    Cynthia Browning 
-                    2000 Sterling Road 
-                    Charlotte
-                    North Carolina 
-                    28209 
+                    <address><addrLine>Cynthia Browning</addrLine> 
+                    <addrLine>2000 Sterling Road</addrLine> 
+                    <addrLine>Charlotte</addrLine>
+                    <addrLine>North Carolina</addrLine> 
+                    <addrLine>28209</addrLine> </address>
                 </ab>
                 
                 <ab type="postmark">
@@ -167,14 +165,14 @@
                 </ab>
                 
                 <ab type="address">
-                    Dr. John Neihardt
-                    c/o the Dick Cavett Show 
-                    American Broadcasting Co. 
-                    1330 Avenue of the Americas
-                    New York, New York 10019 
+                    <address><addrLine>Dr. John Neihardt</addrLine>
+                    <addrLine>c/o the Dick Cavett Show</addrLine> 
+                    <addrLine>American Broadcasting Co.</addrLine> 
+                    <addrLine>1330 Avenue of the Americas</addrLine>
+                    <addrLine>New York, New York 10019</addrLine></address> 
                 </ab> 
                 
-                <note type="authorial">
+                <note>
                     ansd 5/30/71 
                 </note> 
                 

@@ -41,7 +41,7 @@
                 <bibl>
                     <author>Cook, Grace C.</author>
                     <title level="m" type="main">Letter from Grace C. Cook to John G. Neihardt</title>
-                    <date when="1973-04-29">April 29, 1971</date>
+                    <date when="1971-04-29">April 29, 1971</date>
                     <extent>2 pages</extent>
                 </bibl>
                 <msDesc>
@@ -84,15 +84,15 @@
             <correspDesc>
                 <correspAction type="sentBy">
                     <persName>Cook, Grace C.</persName>
-                    <placeName>South Bend (Ind.)</placeName>
-                    <date when="1973-04-29"/>
+                    <placeName ref="http://www.geonames.org/4926563">South Bend (Ind.)</placeName>
+                    <date when="1971-04-29"/>
                 </correspAction>
                 <correspAction type="deliveredTo">
-                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973</persName>
                     <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
                 </correspAction>
             </correspDesc>
-            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973</persName></person></particDesc>
         </profileDesc>
         <revisionDesc>
             <change when="2018"><name xml:id="cme">Elliott, Catherine M.</name>Initial Encoding</change>
@@ -103,28 +103,27 @@
         <body>
             
             <div1 type="letter">
-                <pb facs="nei.n1a.10.54-55"/>
+                <pb facs="nei.n1a.10.54"/>
                 <fw type="curatorial">54</fw>
-                <fw type="authorial"></fw>
                 
                 <opener>
                     <dateline>
-                        April 29, 1971 
-                        Dr. John G. Neihardt 
-                        University of Nebraska 
-                        Lincoln, Nebraska 
-                    </dateline>
+                        April 29, 1971</dateline>
+                        <address><addrLine>Dr. John G. Neihardt</addrLine> 
+                        <addrLine>University of Nebraska</addrLine> 
+                        <addrLine>Lincoln, Nebraska</addrLine></address> 
+
                     
                     <salute>Dear Dr. Neihardt:</salute>
                 </opener>
-                <p>Your appearance on the Dick Cavett television show, April 27th, was a thrilling experience for me. I loved every word you spoke - When you chuckled I chuckled.</p> 
-                <p>I felt excitement when you said "Forward is the direction". Infact, I jotted down several of your sayings - I could not help but feel your great spiritual power.</p> 
+                <p>Your appearance on the Dick Cavett television show, April 27th, was a thrilling experience for me. I loved every word you spoke &#8212; When you chuckled I chuckled.</p> 
+                <p>I felt excitement when you said "Forward is the direction". Infact, I jotted down several of your sayings &#8212; I could not help but feel your great spiritual power.</p> 
                 <p>You see, I have a lively interest in you, because in March I did a program on you for a few friends.</p> 
                 <p>I am hoping that the story of your life will come out in book form. I want, so much, to have the privilege of owning and cherishing that book.</p> 
                 
-                <pb facs="nei.n1a.10.54-55"/>
+                <pb facs="nei.n1a.10.55"/>
                 <fw type="curatorial">55</fw>
-                <fw type="authorial"></fw>
+
                 
                 <p>Mrs. Neihardt must have been an exceptionally talented artist. The great Rodin accepted only the potentially great. I keep wondering if she might have known Malvina Hoffman, who was also a student of the master.</p> 
                 <p>Thank you for the many hours of reading pleasure that you have given to me.</p> 
@@ -133,10 +132,9 @@
                     <signed>(Mrs.) Grace C. Cook</signed> 
                     <address>
                         <addrLine>
-                            206 E Marion 
-                            South Bend 
-                            Indiana 46601 
-                        </addrLine>
+                            206 E Marion</addrLine>
+                            <addrLine>South Bend</addrLine>
+                            <addrLine>Indiana 46601</addrLine>
                     </address> 
                 </closer> 
                 

@@ -41,7 +41,7 @@
                 <bibl>
                     <author>Mitchell, James H.</author>
                     <title level="m" type="main">Letter from James H. Mitchell to John G. Neihardt</title>
-                    <date when="1973-04-29">April 29, 1971</date>
+                    <date when="1971-04-29">April 29, 1971</date>
                     <extent>2 pages</extent>
                 </bibl>
                 <msDesc>
@@ -85,14 +85,14 @@
                 <correspAction type="sentBy">
                     <persName>Mitchell, James H.</persName>
                     <placeName ref="http://www.geonames.org/5347903">Felton (Calif.)</placeName>
-                    <date when="1973-04-29"/>
+                    <date when="1971-04-29"/>
                 </correspAction>
                 <correspAction type="deliveredTo">
-                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973</persName>
                     <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
                 </correspAction>
             </correspDesc>
-            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973</persName></person></particDesc>
         </profileDesc>
         <revisionDesc>
             <change when="2018"><name xml:id="cme">Elliott, Catherine M.</name>Initial Encoding</change>
@@ -103,17 +103,17 @@
         <body>
             
             <div1 type="letter">
-                <pb facs="nei.n1a.10.52-53"/>
+                <pb facs="nei.n1a.10.52"/>
                 <fw type="curatorial">52</fw>
                 <fw type="authorial"></fw>
                 
                 <opener>
                     <dateline>
-                        April 29, 1971 
-                        Dr. John G. Neihardt
-                        c/o Nebraska State Historical Society 
-                        Lincoln, Nebraska 68509
-                    </dateline>
+                        April 29, 1971</dateline>
+                        <address><addrLine>Dr. John G. Neihardt<lb/></addrLine>
+                        <addrLine>c/o Nebraska State Historical Society<lb/></addrLine>
+                        <addrLine>Lincoln, Nebraska 68509</addrLine></address>
+                    
                     
                     <salute>Dear Dr. Neihardt,</salute>
                 </opener>
@@ -122,22 +122,21 @@
                 <p>I purchased 'Black Elk Speaks' on the following morning and devoured it immediately. It now rests on my shelf beside Maria Sandoz, Willa Cather and Loren Eisley. Your other works will soon join them.</p> 
                 <p>This brief encounter with John Neihardt has recalled the fragrance of wild roses
                     and the tastes of choke, sand &amp; ground cherries. I used to eat the bulb of a small, lavendar flower. It has a nut-like quality and a taste somewhat like a potato. Could this have been the 'turnip' of the Plains Indian?</p> 
-                <p>As a boy, I spent many hours picking arrowheads from a sandy lakebed on the ranch. I tried to imagine that departed culture that had camped on that departed lake. Your book</p> 
+                <p>As a boy, I spent many hours picking arrowheads from a sandy lakebed on the ranch. I tried to imagine that departed culture that had camped on that departed lake. Your book 
 
-                <pb facs="nei.n1a.10.52-53"/>
+                <pb facs="nei.n1a.10.53"/>
                 <fw type="curatorial">53</fw>
                 <fw type="authorial"></fw>
                 
-                <p>has made them live, again for me</p> 
+                has made them live, again for me</p> 
                 <p>As a guilt-ridden Wasichu, I thank you for your great efforts to preserve something of that once strong and beautiful race of men.</p>
                 <closer>
                     <salute>Sincerely,</salute>
                     <signed>James H. Mitchell</signed> 
                     <address>
                         <addrLine>
-                            8010 Newton Drive 
-                            Felton, CA 95018
-                        </addrLine>
+                            8010 Newton Drive</addrLine>
+                            <addrLine>Felton, CA 95018</addrLine>
                     </address> 
                 </closer> 
 

@@ -41,7 +41,7 @@
                 <bibl>
                     <author>Marshall, Christine</author>
                     <title level="m" type="main">Letter from Christine Marshall to John G. Neihardt</title>
-                    <date when="1973-04-28">April 28, 1971</date>
+                    <date when="1971-04-28">April 28, 1971</date>
                     <extent>1 page</extent>
                 </bibl>
                 <msDesc>
@@ -82,14 +82,14 @@
                 <correspAction type="sentBy">
                     <persName>Marshall, Christine</persName>
                     <placeName ref="http://www.geonames.org/4752031">Charlottesville (Va.)</placeName>
-                    <date when="1973-04-28"/>
+                    <date when="1971-04-28"/>
                 </correspAction>
                 <correspAction type="deliveredTo">
-                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
-                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973</persName>
+
                 </correspAction>
             </correspDesc>
-            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973</persName></person></particDesc>
         </profileDesc>
         <revisionDesc>
             <change when="2018"><name xml:id="cme">Elliott, Catherine M.</name>Initial Encoding</change>
@@ -111,16 +111,16 @@
                     
                     <salute>Dear Dr. Neihardt,</salute>
                 </opener>
-                <p>I have just finished watching your interview with Dick Cavett on television, and I feel now as I did ten years ago after you spoke to an English class of which I was a part at the University lab school in Columbia, Missouri - I feel great admiration and respect for your life and work, and awe for your tremendous understanding. The truth is that I am reminded every spring of that time when you recited your beautiful Easter poem to us, and the visual images that come to me are always from your descriptions of the four quarters of the Hoop of the world and the Tree of Life.</p> 
+                <p>I have just finished watching your interview with Dick Cavett on television, and I feel now as I did ten years ago after you spoke to an English class of which I was a part at the University lab school in Columbia, Missouri &#8212; I feel great admiration and respect for your life and work, and awe for your tremendous understanding. The truth is that I am reminded every spring of that time when you recited your beautiful Easter poem to us, and the visual images that come to me are always from your descriptions of the four quarters of the Hoop of the world and the Tree of Life.</p> 
                 <p>I want to Thank you for the light you shed not only on the wisdom and spirituality of the Sioux, but also on the great potential in human existence.</p> 
                 <closer>
                     <salute>Sincerely yours,</salute> 
                     <signed>Christine Marshall</signed> 
-                    <fw type="address">
-                        The University of Virginia
-                        University Station 
-                        Charlottesville, va. 22903
-                    </fw> 
+                    <address>
+                        <addrLine>The University of Virginia</addrLine>
+                        <addrLine>University Station</addrLine> 
+                       <addrLine> Charlottesville, Va. 22903</addrLine>
+                    </address> 
                 </closer>
             </div1>
         </body>
