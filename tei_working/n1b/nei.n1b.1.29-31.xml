@@ -5,8 +5,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Letter from John G. Neihardt to John Converse, August 24, 1969</title>
-                <author>Neihardt, John G., 1881-1973.</author>
+                <title type="main">Letter from John G. Neihardt to John Converse, August 24, 1969 </title>
+                <author>Neihardt, John G., 1881-1973</author>
                 <principal>Gossin, Pamela</principal>
             </titleStmt>
             <editionStmt>
@@ -37,11 +37,11 @@
                 </availability>
             </publicationStmt>
             
-            <notesStmt><note></note></notesStmt>
+            <notesStmt><note>Not sent. With carbon copy to Marie Bullock, also not sent.</note></notesStmt>
             
             <sourceDesc>
                 <bibl>
-                    <author>Neihardt, John G., 1881-1973.</author>
+                    <author>Neihardt, John G., 1881-1973</author>
                     <title level="m" type="main">Letter from John G. Neihardt to John Converse</title>
                     <date when="1969-08-24">August 24, 1969</date>
                     <extent>1 page</extent>
@@ -101,14 +101,14 @@
                 <correspAction type="sentBy">
                     <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
                     <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                    <date when="1969-08-24"/>
                 </correspAction>
                 <correspAction type="deliveredTo">
                     <persName>Converse, John</persName>
                     <placeName ref="http://www.geonames.org/5063451">Bancroft (Neb.)</placeName>
-                    <date when="1969-08-24"/>
                 </correspAction>
             </correspDesc>
-            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+            <particDesc><person role="recipient"><persName>Converse, John</persName></person></particDesc>
         </profileDesc>
         
         <revisionDesc>
@@ -121,8 +121,8 @@
         <body>
             
             <div1 type="letter">
-                <pb facs="nei.n1b.1.29-31"/>
-                <note type="curatorial">29</note>
+                <pb facs="nei.n1b.1.29"/>
+                <fw type="curatorial">29</fw>
                 
                 <opener>
                     <address>
@@ -142,7 +142,7 @@
                 <p>I have only now been able to read the manuscript you left for me in Bancroft. As a rule, when alleged poetry is given to me for my opinion, what I read makes me very unhappy; for it is seldom that such offerings are of any value, and it is not a pleasure to comment on them. I have not had an unhappy experience in reading your verse, for I have been both surprised and pleased.</p> 
                 <p>In the first place, you have something that you actually want to communicate to others--genuine human experiences that you want to share. This is the necessary beginning, and you have it.</p> 
                 <p>I should say that a general view of your work would justify my saying that much of what you have written is either eloquent declamation arranged in long and short lines or the notes for poems as yet unwritten, often remarkably beautiful suggestions. This comment applies to a large percentage of teh work done by the poets of our day. In reading what I have just dictated, I feel that I have not expressed a certain delight I have in flashes of wisdom and beauty that I find here and there in your work.</p> 
-                <p>I would suggest that you go over your manuscript very care-fully, combing it for
+                <p>I would suggest that you go over your manuscript very carefully, combing it for
                 minor errors in arrangement and punctuation, and that thereafter you write to Mrs. Hugh Bullock, President of the
                 Academy of American Poets, 1078 Madison Avenue, New York City, New York, 10028, stating that I found
                 much good in your manuscript and would like to see it given a chance. Ask her if she would read it
@@ -153,39 +153,39 @@
                 <closer>
                     <salute>With all kind thoughts,</salute>
                     <signed>John G. Neihardt </signed>
-                </closer>
+
                 
                 <note type="authorial">
                     JGN:fmb
                     cc
                     Mrs. Hugh Bullock
                 </note>
-                
+                </closer>                
             </div1>
             
-            <div1 type="attachment">
-                <pb facs="nei.n1b.1.29-31"/>
+            <div1 type="note">
+                <pb facs="nei.n1b.1.30"/>
                 <note type="curatorial">30</note>
                 
-                <p>verse poems-Bancroft-1969-Gaki stopped mailing a this letter at the last moment - to reconsider a
-                day or two- 
+                <p>verse poems-Bancroft-1969-Gaki stopped mailing <unclear>a</unclear> this letter at the last moment &#8212; to reconsider a
+                day or two&#8212; 
                 He never did want it sent
-                finally -</p> 
-                <p>I have inquired at Bancroft about Converse-He is established in New York &amp; doing well by 1972</p>
+                finally &#8212;</p> 
+                <p>I have inquired at Bancroft about Converse&#8212;He is established in New York &amp; doing well by 1972</p>
                 <closer>
-                    <signed>M. M. N -</signed>
+                    <signed>M. M. Y &#8212;</signed>
                 </closer> 
                 
             </div1>
             
             <div1 type="envelope">
-                <pb facs="nei.n1b.1.29-31"/>
+                <pb facs="nei.n1b.1.31"/>
                 <note type="curatorial">31</note>
                 
                 <ab type="return">
-                    John G. Neihardt 
-                    5835 Vine Street 
-                    Lincoln, Nebraska 68505
+                    <address><addrLine>John G. Neihardt</addrLine> 
+                    <addrLine>5835 Vine Street</addrLine> 
+                    <addrLine>Lincoln, Nebraska 68505</addrLine></address>
                 </ab>
                 
                 <ab type="stamp">
@@ -194,10 +194,10 @@
                 </ab> 
                 
                 <ab type="address">
-                    Mrs. Hugh Bullock, President 
-                    The Academy of American Poets 
-                    1078 Madison Avenue 
-                    New York City, New York 10028
+                    <address><addrLine>Mrs. Hugh Bullock, President</addrLine> 
+                    <addrLine>The Academy of American Poets</addrLine> 
+                    <addrLine>1078 Madison Avenue</addrLine>
+                    <addrLine>New York City, New York 10028</addrLine></address>
                 </ab> 
                 
             </div1>

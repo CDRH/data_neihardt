@@ -6,7 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title type="main">Letter from John G. Neihardt to Tom, March 16, 1969</title>
-                <author>Neihardt, John G., 1881-1973.</author>
+                <author>Neihardt, John G., 1881-1973</author>
                 <principal>Gossin, Pamela</principal>
             </titleStmt>
             <editionStmt>
@@ -41,7 +41,7 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Neihardt, John G., 1881-1973.</author>
+                    <author>Neihardt, John G., 1881-1973</author>
                     <title level="m" type="main">Letter from John G. Neihardt to Tom</title>
                     <date when="1969-03-16">March 16, 1969</date>
                     <extent>1 page</extent>
@@ -105,14 +105,14 @@
                 <correspAction type="sentBy">
                     <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
                     <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                    <date when="1969-03-16"/>
                 </correspAction>
                 <correspAction type="deliveredTo">
                     <persName>Tom</persName>
                     <placeName></placeName>
-                    <date when="1969-03-16"/>
                 </correspAction>
             </correspDesc>
-            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+            <particDesc><person role="recipient"><persName>Tom</persName></person></particDesc>
         </profileDesc>
         
         <revisionDesc>
@@ -126,7 +126,7 @@
             
             <div1 type="letter">
                 <pb facs="nei.n1b.1.20"/>
-                <note type="curatorial">20</note>
+                <fw type="curatorial">20</fw>
                 
                 <opener>
                     <address>
@@ -138,7 +138,7 @@
                     <salute>Dear Tom,</salute>
                 </opener>
                 
-                <p>We have been reading the extracts from reviews of A Bundle of Myrrh in the back of Man-Song. I had forgotten these extracts, although I believe at one time I did suggest that you read them. They all indicate the overwhelming consensus concerning the Bundle of Myrrh, but the letter written by Jessie B. Rittenhouse is the most important comment. Jessie B. Rittenhouse was one of the two most important critics of American poetry at that time. The other was William Stanley Braithwate of the Boston Transcript. To be praised by these meant one had arrived. Don't quote the next sen-tence to your friends in the English department. Their error lies in the fact that they do not know what the mood of the time was and who were considered the most important critics. This is shown by the mention of Pound as though a young poet had to be accepted by Pound.</p> 
+                <p>We have been reading the extracts from reviews of A Bundle of Myrrh in the back of Man-Song. I had forgotten these extracts, although I believe at one time I did suggest that you read them. They all indicate the overwhelming consensus concerning the Bundle of Myrrh, but the letter written by Jessie B. Rittenhouse is the most important comment. Jessie B. Rittenhouse was one of the two most important critics of American poetry at that time. The other was William Stanley Braithwate of the Boston Transcript. To be praised by these meant one had arrived. Don't quote the next sentence to your friends in the English department. Their error lies in the fact that they do not know what the mood of the time was and who were considered the most important critics. This is shown by the mention of Pound as though a young poet had to be accepted by Pound.</p> 
                 <p>I am hoping that Jessie Rittenhouse can do you some good. She certainly says a mouthful.</p> 
                 <p>I have just seen an old letter from Joseph Auslander about my poetry. He was himself a poet of importance and he was Professor of Poetry at Columbia University! I will send you a xeroxed copy of the letter later.</p> 
                 <p>Let me know how you are getting along with the dissertation.</p>
@@ -146,10 +146,10 @@
                 <closer>
                     <salute>With all kind thoughts for you and Elaine,</salute>
                     <signed>John G. Neihardt </signed>
-                </closer>
+
                 
                 <note type="authorial">JGN:fmb</note>
-                
+                      </closer>          
             </div1>
             
         </body>
