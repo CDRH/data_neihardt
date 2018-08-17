@@ -1,49 +1,195 @@
 <?xml version="1.0" encoding="UTF-8"?>
-5835 Vine Street
-Lincoln, Nebraska 68505
-March 8, 1970 
-Dear John,
-I was delighted to receive a letter from you after so long a silence between us. I have thought of
-you often, wishing that I could see you again; but my thoughts of you did not get into a letter. 
-First I want to say that I am very glad to know that you are married and happy. You have been doing
-such inter-esting things, and I wish I could be with you to hear about them from your own lips. I do
-know about your South Ameri-can photography. Next, I want to say that I am much inter-ested in your
-idea about a documentary on me and my work. 
-A great deal has happened since we were together, and I wish it could be talked to you instead of
-written; but here are a few things that would concern you if you should do a documentary. 
-I think you do not know that my old home town, Ban-croft, Nebraska, where I did so much of my more
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1b.2.15-16">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to John LaGorce, March 8, 1970</title>
+                <author>Neihardt, John G., 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1b.2.15-16</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John G., 1881-1973</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to John LaGorce</title>
+                    <date when="1970-03-08">March 8, 1970</date>
+                    <extent>2 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 type-written pages</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Neihardt, Mona Martinsen</term>
+<term>Young, Myrtle</term>
+<term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Lincoln (Neb.)</term>
+                    <term>Bancroft (Neb.)</term>
+                    <term>Columbia (Mo.)</term>
+                    <term>South America</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term>All is but a beginning : youth remembered, 1881-1901</term>
+                    <term>The Splendid Wayfaring</term>
+                    <term>When the Tree Flowered: The Story of Eagle Voice, a Sioux Indian</term>
+                    <term>Lyric and Dramatic Poems</term>
+                    <term>A Cycle of the West</term>
+                    <term>The River and I</term>
+                    <term>Black Elk Speaks</term>
+                    <term>The Song of the Indian Wars</term>
+                    <term>The Song of the Messiah</term>
+                    <term>The Twilight of the Sioux</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                    <date when="1970-03-08"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>LaGorce, John</persName>
+                    <placeName></placeName>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>LaGorce, John</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Laura Weakly</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.n1b.2.15"/>
+                <fw type="curatorial">15</fw>
+                
+                <opener>
+                    
+<dateline>5835 Vine Street<lb/>
+Lincoln, Nebraska 68505<lb/>
+March 8, 1970</dateline> 
+<salute>Dear John,</salute>
+                </opener>      
+<p>I was delighted to receive a letter from you after so long a silence between us. I have thought of
+you often, wishing that I could see you again; but my thoughts of you did not get into a letter. </p>
+<p>First I want to say that I am very glad to know that you are married and happy. You have been doing
+such interesting things, and I wish I could be with you to hear about them from your own lips. I do
+know about your South American photography. Next, I want to say that I am much interested in your
+idea about a documentary on me and my work. </p>
+<p>A great deal has happened since we were together, and I wish it could be talked to you instead of
+written; but here are a few things that would concern you if you should do a documentary. </p>
+<p>I think you do not know that my old home town, Bancroft, Nebraska, where I did so much of my more
 important work, has restored the old cottage which I used as my study and has developed a Sioux
-Prayer Garden on the grounds in memorhy of my creaive years there. They have organized a Neihardt
+Prayer Garden on the grounds in memory of my creaive years there. They have organized a Neihardt
 Foundation, Inc., and in 1968 the Governor of the state proclaimed the first Sunday of August of
 each year as Neihardt Day, which is celebrated with an appropriate program in Bancroft. I think you
 would find Bancroft more appropriate than Columbia for the photography. Of course you might like to
 use both places, and you might also like to take some shots of me here in Lincoln as my desk at work
-on my autobiography. 
-Did you knwow that a bronze bust of me, made by my wife Monda, was placed in the rotunda of the
+on my autobiography. </p>
+<p>Did you knwow that a bronze bust of me, made by my wife Mona, was placed in the rotunda of the
 Capitol Building here in Lincoln in 1961? You may know that I recieved the Thomas Jefferson Award
 from the University of Missouri two years ago. I think that this is regarded as the highest award
-for a professor. 
-My TV program is still running at M.U. It is a con-tinuation of the old "Epic America" and is
+for a professor. </p>
+<p>My TV program is still running at M.U. It is a continuation of the old "Epic America" and is
 concerned with The Song of the Indian Wars and The Song of the Messiah. The title of the course is
-"The Twilight of the Sioux." It is very popular. 
+"The Twilight of the Sioux." It is very popular. </p>
 
-16
-I have been doing much public reciting and, much to my surprise, the response seems to be even
-greater than formerly. Standing ovations are commonplace. 
-The University of Nebraska Press will bring out Splendid Wayfaring and When the Tree Flowered in
+                <pb facs="nei.n1b.2.15"/>
+                <fw type="curatorial">16</fw>
+<p>I have been doing much public reciting and, much to my surprise, the response seems to be even
+greater than formerly. Standing ovations are commonplace.</p> 
+<p>The University of Nebraska Press will bring out Splendid Wayfaring and When the Tree Flowered in
 August and September. They already publish The Lyrics, The Cycle, The River and I, and Black Elk
 Speaks. Before the year is out, they will bring out the youth section of my autobiography. As for
-the biography, it is completed and we here are wait-ing to know what the author intends to do with
-it. I know that the University of Nebraska Press wants it, however. 
-Mrs. Young, in whose home I am living and who has attended to much of my correspondence, is sending
-you some material that you will find useful. Although I plan to con-tinue living and writing here in
-Lincoln, I still own Sky-rim and return occasionally to Columbia. I can arrange to be whereever you
-want me for photography. 
-This letter is long enough for the first one. Per-haps you will have questions that you will want to
-ask me, and you may be sure that I will do my best to answer them. 
-Give my affectionate regards to your dear lady, hug those two youngsters for me, and pat Andrew on
+the biography, it is completed and we here are waiting to know what the author intends to do with
+it. I know that the University of Nebraska Press wants it, however. </p>
+<p>Mrs. Young, in whose home I am living and who has attended to much of my correspondence, is sending
+you some material that you will find useful. Although I plan to continue living and writing here in
+Lincoln, I still own Skyrim and return occasionally to Columbia. I can arrange to be whereever you
+want me for photography. </p>
+<p>This letter is long enough for the first one. Perhaps you will have questions that you will want to
+ask me, and you may be sure that I will do my best to answer them. </p>
+<p>Give my affectionate regards to your dear lady, hug those two youngsters for me, and pat Andrew on
 his nose. He won't know who I am but I love him. I have a poodle dog, Jacquot, who takes care of me
-ngith and day and is easily the most photographed dog in this section of the country. His French
-accent is very noticeable in his barking. 
-Your old friend,
-JGN:fmb John G. Neihardt 
+nigth and day and is easily the most photographed dog in this section of the country. His French
+accent is very noticeable in his barking. </p>
+<closer><salute>Your old friend,</salute>
+<signed>John G. Neihardt </signed>
+
+<note>JGN:fmb</note></closer>
+            </div1>
+        </body>
+    </text>
+</TEI>
