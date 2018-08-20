@@ -6,12 +6,12 @@
         <fileDesc>
             <titleStmt>
                 <title type="main">Letter from John G. Neihardt to Lenora M. Schuette, February 9, 1971</title>
-                <author>Neihardt, John G., 1881-1973.</author>
+                <author>Neihardt, John G., 1881-1973</author>
                 <principal>Gossin, Pamela</principal>
             </titleStmt>
             <editionStmt>
                 <edition>
-                    <date>2017</date>
+                    <date>2018</date>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -41,7 +41,7 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Neihardt, John G., 1881-1973.</author>
+                    <author>Neihardt, John G., 1881-1973</author>
                     <title level="m" type="main">Letter from John G. Neihardt to Lenora M. Schuette</title>
                     <date when="1971-02-09">February 9, 1971</date>
                     <extent>1 page</extent>
@@ -59,16 +59,7 @@
             </sourceDesc>
         </fileDesc>
         
-        <encodingDesc>
-            <editorialDecl>
-                <correction>
-                    <p></p>
-                </correction>
-                <normalization>
-                    <p></p>
-                </normalization>
-            </editorialDecl>
-        </encodingDesc>
+
         
         <profileDesc>
             <textClass>
@@ -93,26 +84,26 @@
                     <term>Chapman (Neb.)</term>
                 </keywords>
                 <keywords scheme="lcsh" n="works">
-                    <term></term>
+                    <term>The Dick Cavett Show</term>
                 </keywords>
             </textClass>
             <correspDesc>
                 <correspAction type="sentBy">
                     <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
                     <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                    <date when="1971-02-09"/>
                 </correspAction>
                 <correspAction type="deliveredTo">
                     <persName>Schuette, Lenora M.</persName>
                     <placeName ref="http://www.geonames.org/5065525">Chapman (Neb.)</placeName>
-                    <date when="1971-02-09"/>
                 </correspAction>
             </correspDesc>
-            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+            <particDesc><person role="recipient"><persName>Schuette, Lenora M.</persName></person></particDesc>
         </profileDesc>
         
         <revisionDesc>
-            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
             <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
         </revisionDesc>
     </teiHeader>
     
@@ -121,7 +112,7 @@
             
             <div1 type="letter">
                 <pb facs="nei.n1b.3.1"/>
-                <note type="curatorial">1</note>
+                <fw type="curatorial">1</fw>
                 
                 <opener>
                     <address>
@@ -149,10 +140,10 @@
                     <salute>Sincerely,</salute>
                     <salute>Your friend</salute>
                     <signed>John G. Neihardt</signed>
-                </closer>
+
                 
                 <note type="authorial">JGN:nh</note>
-                
+                    </closer>            
             </div1>
             
         </body>

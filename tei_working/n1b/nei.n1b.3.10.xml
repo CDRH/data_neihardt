@@ -6,7 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title type="main">Letter from John G. Neihardt to Nancy C. Prewitt, July 19, 1971</title>
-                <author>Neihardt, John G., 1881-1973.</author>
+                <author>Neihardt, John G., 1881-1973</author>
                 <principal>Gossin, Pamela</principal>
             </titleStmt>
             <editionStmt>
@@ -41,7 +41,7 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Neihardt, John G., 1881-1973.</author>
+                    <author>Neihardt, John G., 1881-1973</author>
                     <title level="m" type="main">Letter from John G. Neihardt to Nancy C. Prewitt</title>
                     <date when="1971-07-19">July 19, 1971</date>
                     <extent>1 page</extent>
@@ -100,14 +100,14 @@
                 <correspAction type="sentBy">
                     <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
                     <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                    <date when="1971-07-19"/>
                 </correspAction>
                 <correspAction type="deliveredTo">
                     <persName>Prewitt, Nancy C.</persName>
                     <placeName ref="http://www.geonames.org/4381982">Columbia (Mo.)</placeName>
-                    <date when="1971-07-19"/>
                 </correspAction>
             </correspDesc>
-            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+            <particDesc><person role="recipient"><persName>Prewitt, Nancy C.</persName></person></particDesc>
         </profileDesc>
         
         <revisionDesc>
@@ -121,7 +121,7 @@
             
             <div1 type="letter">
                 <pb facs="nei.n1b.3.10"/>
-                <note type="curatorial">10</note>
+                <fw type="curatorial">10</fw>
                 
                 <opener>
                     <address>
@@ -135,27 +135,26 @@
                 
                 <p>This will introduce my daughter, Hilda N. Petri, who is also my attorney. I have asked her to look
                 up some of my material in your collection, to be used in promoting the forthcoming Pocket
-                Book edition of</p> 
-                <p>(over)</p> 
+                Book edition of 
+                <note>(over)</note> 
                 
                 <pb facs="nei.n1b.3.10"/>
                 <fw type="authorial">-2-</fw>
                 
-                <p>Black Elk Speaks.</p> 
+                Black Elk Speaks.</p> 
                 <p>I shall be grateful for any help you may give her.</p> 
                 
                 <closer>
                     <salute>With kind thoughts,</salute>
                     <signed>John G. Neihardt</signed>
-                </closer>
-                
-                <note type="authorial">
-                    -
-                    Mrs. Nancy Prewitt,
-                    Western MS Collection
-                    Columbia, Mo. 
-                </note>
 
+                
+                <address>
+                    <addrLine>Mrs. Nancy Prewitt,</addrLine>
+                    <addrLine>Western MS Collection</addrLine>
+                    <addrLine>Columbia, Mo. </addrLine>
+                </address>
+                </closer>
             </div1>
             
         </body>

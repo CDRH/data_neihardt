@@ -5,8 +5,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Letter from John G. Neihardt to Bower and Lucile Aly, April 28, 1971</title>
-                <author>Neihardt, John G., 1881-1973.</author>
+                <title type="main">Letter from John G. Neihardt to Bower Aly and Lucile Aly, April 28, 1971</title>
+                <author>Neihardt, John G., 1881-1973</author>
                 <principal>Gossin, Pamela</principal>
             </titleStmt>
             <editionStmt>
@@ -41,8 +41,8 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Neihardt, John G., 1881-1973.</author>
-                    <title level="m" type="main">Letter from John G. Neihardt to Bower and Lucile Aly</title>
+                    <author>Neihardt, John G., 1881-1973</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Bower Aly and Lucile Aly</title>
                     <date when="1971-04-28">April 28, 1971</date>
                     <extent>1 page</extent>
                 </bibl>
@@ -98,17 +98,18 @@
             </textClass>
             <correspDesc>
                 <correspAction type="sentBy">
-                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973</persName>
                     <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                    <date when="1971-04-28"/>
                 </correspAction>
                 <correspAction type="deliveredTo">
                     <persName ref="http://viaf.org/viaf/111613405">Aly, Bower, 1903-1977</persName>
                     <persName ref="http://viaf.org/viaf/50467731">Aly, Lucile Folse, 1913-</persName>
                     <placeName></placeName>
-                    <date when="1971-04-28"/>
                 </correspAction>
             </correspDesc>
-            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+            <particDesc><person role="recipient"><persName>Aly, Bower, 1903-1977</persName></person>
+<person role="recipient"><persName>Aly, Lucile Folse, 1913-</persName></person></particDesc>
         </profileDesc>
         
         <revisionDesc>
@@ -122,7 +123,7 @@
             
             <div1 type="letter">
                 <pb facs="nei.n1b.3.8"/>
-                <note type="curatorial">8</note>
+                <fw type="curatorial">8</fw>
                 
                 <opener>
                     <address>
@@ -137,9 +138,9 @@
                     <salute>Dear Friends:</salute>
                 </opener>
                 
-                <p>Well, the Cavett show is over and I judge by your much appreciated telegram tha tyou saw it in
+                <p>Well, the Cavett show is over and I judge by your much appreciated telegram that you saw it in
                 color. We saw it in black and white. I hope it was pleasing to you. And I judge it was. 
-                I am not tyring to thank you for all taht you did to promote interest in the show and for the
+                I am not trying to thank you for all that you did to promote interest in the show and for the
                 beautiful letters you wrote for the memory book.</p> 
                 <p>I am eager to learn what progress you, Lucile, have been making with the manuscript.</p> 
                 <p>I wish I could tell you about the affair at the Capitol Building on the 21st. It was perfectly
