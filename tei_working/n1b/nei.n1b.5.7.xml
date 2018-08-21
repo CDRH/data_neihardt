@@ -5,8 +5,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Letter from John G. Neihardt to Jack W. Marken, July 13, 1973</title>
-                <author>Neihardt, John G., 1881-1973.</author>
+                <title type="main">Letter from John G. Neihardt to Jack W. Marken, August 29, 1973</title>
+                <author>Neihardt, John G., 1881-1973</author>
                 <principal>Gossin, Pamela</principal>
             </titleStmt>
             <editionStmt>
@@ -43,7 +43,7 @@
                 <bibl>
                     <author>Neihardt, John G., 1881-1973.</author>
                     <title level="m" type="main">Letter from John G. Neihardt to Jack W. Marken</title>
-                    <date when="1973-07-13">July 13, 1973</date>
+                    <date when="1973-08-29"> August 29, 1973</date>
                     <extent>1 page</extent>
                 </bibl>
                 <msDesc>
@@ -86,6 +86,7 @@
                 </keywords>
                 <keywords scheme="lcsh" n="people">
                     <term>Marken, Jack W.</term>
+<term>Marken, Martha</term>
                 </keywords>
                 <keywords scheme="lcsh" n="places">
                     <term>Lincoln (Neb.)</term>
@@ -101,14 +102,14 @@
                 <correspAction type="sentBy">
                     <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
                     <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                    <date when="1973-07-13"/>
                 </correspAction>
                 <correspAction type="deliveredTo">
                     <persName ref="http://viaf.org/viaf/75180624">Marken, Jack W.</persName>
                     <placeName ref="http://www.geonames.org/5226534">Brookings (S.D.)</placeName>
-                    <date when="1973-07-13"/>
                 </correspAction>
             </correspDesc>
-            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+            <particDesc><person role="recipient"><persName>Marken, Jack W.</persName></person></particDesc>
         </profileDesc>
         
         <revisionDesc>
@@ -122,7 +123,7 @@
             
             <div1 type="letter">
                 <pb facs="nei.n1b.5.7"/>
-                <note type="curatorial">7</note>
+                <fw type="curatorial">7</fw>
                 
                 <opener>
                 <address>
@@ -140,7 +141,7 @@
                     
                 </opener>
                 
-                <p>It was very godo of you to send me a copy of your biblio-graphy of Indians and Eskimos of North
+                <p>It was very good of you to send me a copy of your bibliography of Indians and Eskimos of North
                 America. I can see at a glance that it is a very valuable book for any one interested in the
                 subject. I intend to do a good deal of listening to it. I have difficulty in reading but I have good
                 friends who read to me and we will explore your book.</p> 
@@ -155,10 +156,10 @@
                 <closer>
                     <salute>With thanks, again, and all kind thoughts to be shared with Mrs. Marken, your friend</salute>
                     <signed>John Neihardt</signed>
-                </closer>
+
                 
                 <note type="authorial">JGN:nh</note>
-                
+                  </closer>              
                 <postscript><p>P.S. United Artists is bringing out records of my poetry. The first album will be on sale September
                     16. I understand there may be as many as 12 albums. - J.N.</p></postscript>
                 

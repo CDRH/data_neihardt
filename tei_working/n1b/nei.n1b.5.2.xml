@@ -6,7 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title type="main">Letter from John G. Neihardt to Albert Husted, May 8, 1973</title>
-                <author>Neihardt, John G., 1881-1973.</author>
+                <author>Neihardt, John G., 1881-1973</author>
                 <principal>Gossin, Pamela</principal>
             </titleStmt>
             <editionStmt>
@@ -41,7 +41,7 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Neihardt, John G., 1881-1973.</author>
+                    <author>Neihardt, John G., 1881-1973</author>
                     <title level="m" type="main">Letter from John G. Neihardt to Albert Husted</title>
                     <date when="1973-05-08">May 8, 1973</date>
                     <extent>1 page</extent>
@@ -97,16 +97,16 @@
             </textClass>
             <correspDesc>
                 <correspAction type="sentBy">
-                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973</persName>
                     <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                    <date when="1973-05-08"/>
                 </correspAction>
                 <correspAction type="deliveredTo">
                     <persName>Husted, Albert</persName>
                     <placeName ref="http://www.geonames.org/5128581">New York City (N.Y.)</placeName>
-                    <date when="1973-05-08"/>
                 </correspAction>
             </correspDesc>
-            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+            <particDesc><person role="recipient"><persName>Husted, Albert</persName></person></particDesc>
         </profileDesc>
         
         <revisionDesc>
@@ -120,7 +120,8 @@
             
             <div1 type="letter">
                 <pb facs="nei.n1b.5.2"/>
-                <note type="curatorial">only 1 2</note>
+                <fw type="curatorial">2</fw>
+<note>only 1</note>
                 
                 <opener>
                     <address>
@@ -149,10 +150,10 @@
                 <closer>
                     <salute>With all kind thoughts, sincerely,</salute>
                     <signed>John G. Neihardt </signed>
-                </closer>
+
                 
                 <note type="authorial">JGN:nh</note>
-                
+                   </closer>             
             </div1>
             
         </body>

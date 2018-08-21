@@ -6,7 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title type="main">Letter from John G. Neihardt to Dick Lewin, May 9, 1973</title>
-                <author>Neihardt, John G., 1881-1973.</author>
+                <author>Neihardt, John G., 1881-1973</author>
                 <principal>Gossin, Pamela</principal>
             </titleStmt>
             <editionStmt>
@@ -41,7 +41,7 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Neihardt, John G., 1881-1973.</author>
+                    <author>Neihardt, John G., 1881-1973</author>
                     <title level="m" type="main">Letter from John G. Neihardt to Dick Lewin</title>
                     <date when="1973-05-09">May 9, 1973</date>
                     <extent>1 page</extent>
@@ -100,14 +100,14 @@
                 <correspAction type="sentBy">
                     <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
                     <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
-                </correspAction>
-                <correspAction type="deliveredTo">
-                    <persName>Husted, Albert</persName>
-                    <placeName ref="http://www.geonames.org/4996274">Holly (Mich.)</placeName>
                     <date when="1973-05-09"/>
                 </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Lewin, Dick</persName>
+                    <placeName ref="http://www.geonames.org/4996274">Holly (Mich.)</placeName>
+                </correspAction>
             </correspDesc>
-            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+            <particDesc><person role="recipient"><persName>Lewin, Dick</persName></person></particDesc>
         </profileDesc>
         
         <revisionDesc>
@@ -121,7 +121,7 @@
             
             <div1 type="letter">
                 <pb facs="nei.n1b.5.3"/>
-                <note type="curatorial">3</note>
+                <fw type="curatorial">3</fw>
                 
                 <opener>
                     <address>
@@ -139,20 +139,20 @@
                 </opener>
                 
                 <p>I want to thank you most heartily for your letter in which you renew some old memories. I am so glad
-                to know that I was able to leave something with you as a student. <del>I</del>
-                I have not yet read your poetry carefully but shall do so. Mrs. Young, who attends to my mail, is
+                to know that I was able to leave something with you as a student. <del>I</del></p>
+                <p>I have not yet read your poetry carefully but shall do so. Mrs. Young, who attends to my mail, is
                 enclosing something that may interest you.</p> 
-                <p>It may interest you to knwo that the United Artists are getting out a series of records of my work.</p>
+                <p>It may interest you to know that the United Artists are getting out a series of records of my work.</p>
                 <p>I think the first album is scheduled to appear early in July. We spent eight weeks working on the
                 recordings.</p>
                 
                 <closer>
                     <salute>With all kind thoughts, your friend,</salute>
                     <signed>John G. Neihardt </signed>
-                </closer>
+
                 
                 <note type="authorial">JGN:nh</note>
-                
+                 </closer>               
             </div1>
             
         </body>

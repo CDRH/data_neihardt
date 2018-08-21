@@ -6,7 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title type="main">Letter from John G. Neihardt to Members of the Lemmon Chamber of Commerce, July 13, 1973</title>
-                <author>Neihardt, John G., 1881-1973.</author>
+                <author>Neihardt, John G., 1881-1973</author>
                 <principal>Gossin, Pamela</principal>
             </titleStmt>
             <editionStmt>
@@ -37,11 +37,11 @@
                 </availability>
             </publicationStmt>
             
-            <notesStmt><note></note></notesStmt>
+            <notesStmt><note>Exact text appears twice &#8212; once handwritten and once typed. It has been transcribed only once.</note></notesStmt>
             
             <sourceDesc>
                 <bibl>
-                    <author>Neihardt, John G., 1881-1973.</author>
+                    <author>Neihardt, John G., 1881-1973</author>
                     <title level="m" type="main">Letter from John G. Neihardt to Members of the Lemmon Chamber of Commerce</title>
                     <date when="1973-07-13">July 13, 1973</date>
                     <extent>1 page</extent>
@@ -100,14 +100,14 @@
                 <correspAction type="sentBy">
                     <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
                     <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
-                </correspAction>
-                <correspAction type="deliveredTo">
-                    <persName></persName>
-                    <placeName ref="http://www.geonames.org/5766453">Lemmon (S.D.)</placeName>
                     <date when="1973-07-13"/>
                 </correspAction>
+                <correspAction type="deliveredTo">
+                    <orgName>Lemmon Chamber of Commerce</orgName>
+                    <placeName ref="http://www.geonames.org/5766453">Lemmon (S.D.)</placeName>
+                </correspAction>
             </correspDesc>
-            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+            <particDesc><org role="recipient"><orgName>Lemmon Chamber of Commerce</orgName></org></particDesc>
         </profileDesc>
         
         <revisionDesc>
@@ -121,7 +121,7 @@
             
             <div1 type="letter">
                 <pb facs="nei.n1b.5.6"/>
-                <note type="curatorial">6</note>
+                <fw type="curatorial">6</fw>
                 
                 <opener>
 
@@ -139,40 +139,42 @@
                 years of devoted effort, I dedicated it to my only son, Sigurd, then scarcely three. The dedication
                 ran thus:</p>
                 
-                <p>TO SIGURD, SCARCELY THREE</p> 
-                <l>When you are old enough to know</l>
-                <l>the joys of kite and boat and bow</l>
+                <lg><head>TO SIGURD, SCARCELY THREE</head> 
+                <lg><l>When you are old enough to know</l>
+                <l>The joys of kite and boat and bow</l>
                 <l>and other suchlike splendid things</l>
                 <l>That boyhood's rounded decade brings,</l> 
                 <l>I shall not give you tropes and rhymes;</l>
                 <l>But, rising to those rousing times,</l>
-                <l>I shall ply well and craft I know</l> 
+                <l>I shall ply well the craft I know</l> 
                 <l>Of shaping kite and boat and bow,</l>  
                 <l>For you shall teach me once again</l>
-                <l>The goodly art of being ten.</l> 
-                <l>Meanwhile, as on a rainy day</l>
-                <l>When 'tis not possible to play, The while you do your best to grow</l>
+                <l>The goodly art of being ten.</l></lg>
+                <lg><l>Meanwhile, as on a rainy day</l>
+                <l>When 'tis not possible to play,</l>
+                <l>The while you do your best to grow</l>
                 <l>I ply the other craft I know</l> 
                 <l>And strive to build for you the mood</l>
-                <l>of daring and fortitude</l> 
+                <l>of daring and of fortitude</l> 
                 <l>With fitted word and shapen phrase,</l>
                 <l>Against those later wonder-days</l>
                 <l>When first you glimpse the world of men</l>
-                <l>Beyond the bleaker side of ten.</l> 
+                <l>Beyond the bleaker side of ten.</l></lg></lg>
                 
                 <p>That was in 1915, more than half a century ago. I have kept my promise to the boy of ten and made
                 kites, and boats and bows; I have built the mood of daring and of fortitude for the growing man,
                 exemplified by old Hugh Glass.</p> 
                 <p>I watched my boy grow old -- and full of sleep -- and now that it has been getting later and later
-                for me recently, it thrills me to think innumberable men, women, and children will spend happy times
+                for me recently, it thrills me to think innumerable men, women, and children will spend happy times
                 in this recreation park near where Hugh Glass fought alone for life.</p> 
                 <p>And may many learn the great lessons set forth in Hugh Glass. For instance: 
-                "nor might treachery recall the miracle of being loved at all."</p> 
+                <l>"nor might treachery recall the miracle of being loved at all."</l></p> 
                 
                 
-                <p>And also-</p>
-                <p>"The duty and the beauty of endeavor, the privilege of going on forever, a victor in the moment!"
-                Again, I thank you for this very special honor that has come to me in the dedication of this Hugh
+                <p>And also-
+                <l>"The duty and the beauty of endeavor, the privilege of going on forever, a victor in the moment!"</l></p>
+                
+<p>Again, I thank you for this very special honor that has come to me in the dedication of this Hugh
                 Glass Park.</p> 
 
                 <closer>

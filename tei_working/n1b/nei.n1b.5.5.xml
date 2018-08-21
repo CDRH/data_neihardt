@@ -6,7 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title type="main">Letter from John G. Neihardt to Linda D. DeLowry, May 30, 1973</title>
-                <author>Neihardt, John G., 1881-1973.</author>
+                <author>Neihardt, John G., 1881-1973</author>
                 <principal>Gossin, Pamela</principal>
             </titleStmt>
             <editionStmt>
@@ -41,7 +41,7 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Neihardt, John G., 1881-1973.</author>
+                    <author>Neihardt, John G., 1881-1973</author>
                     <title level="m" type="main">Letter from John G. Neihardt to Linda D. DeLowry</title>
                     <date when="1973-05-30">May 30, 1973</date>
                     <extent>1 page</extent>
@@ -93,20 +93,21 @@
                 </keywords>
                 <keywords scheme="lcsh" n="works">
                     <term>All is but a beginning : youth remembered, 1881-1901</term>
+<term>Patterns and Coincidences: A Sequel to All Is But A Beginning</term>
                 </keywords>
             </textClass>
             <correspDesc>
                 <correspAction type="sentBy">
                     <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
                     <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                    <date when="1973-05-30"/>
                 </correspAction>
                 <correspAction type="deliveredTo">
                     <persName>DeLowry, Linda D.</persName>
                     <placeName ref="http://www.geonames.org/5201734">Monroeville (Penn.)</placeName>
-                    <date when="1973-05-30"/>
                 </correspAction>
             </correspDesc>
-            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+            <particDesc><person role="recipient"><persName>DeLowry, Linda D.</persName></person></particDesc>
         </profileDesc>
         
         <revisionDesc>
@@ -120,7 +121,7 @@
             
             <div1 type="letter">
                 <pb facs="nei.n1b.5.5"/>
-                <note type="curatorial">5</note>
+                <fw type="curatorial">5</fw>
                 
                 <opener>
                     <address>
@@ -137,11 +138,11 @@
                     <salute>Dear Miss DeLowry:</salute>
                 </opener>
                 
-                <p>Naturally I am interested in yoiur letter of May 21, 1973, regarding the doctoral dissertation you
+                <p>Naturally I am interested in your letter of May 21, 1973, regarding the doctoral dissertation you
                 are writing on my work.</p> 
-                <p>I am swamped with correspondence but I would be willing to answer certain definite questions tha
-                tyou might ask me. At present I am working on the second volume of my autobiography (the first being
-                ALL IS BUT A BEGINNING) and with the re-cording of my work by United Artists. There will be a series
+                <p>I am swamped with correspondence but I would be willing to answer certain definite questions that
+                you might ask me. At present I am working on the second volume of my autobiography (the first being
+                ALL IS BUT A BEGINNING) and with the recording of my work by United Artists. There will be a series
                 of twelve albums, the first of which will appear in August. This has been a difficult and exhausting
                 job and is not completed yet.</p> 
                 <p>Make your questions as short and definite as you can make them and I will try to dictate concise
@@ -150,9 +151,10 @@
                 <closer>
                     <salute>Wtih every good wish,</salute>
                     <signed>John G. Neihardt </signed>
-                </closer>
+
                 
                 <note type="authorial">JGN:nh</note>
+                </closer>
                 <postscript><p>P.S. Some information sheets are being mailed to you. - J.G.N.</p></postscript>
                 
             </div1>

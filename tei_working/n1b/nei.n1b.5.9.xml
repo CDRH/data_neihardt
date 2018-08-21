@@ -6,7 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title type="main">Letter from John G. Neihardt to Linda D. DeLowry, September 4, 1973</title>
-                <author>Neihardt, John G., 1881-1973.</author>
+                <author>Neihardt, John G., 1881-1973</author>
                 <principal>Gossin, Pamela</principal>
             </titleStmt>
             <editionStmt>
@@ -41,7 +41,7 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Neihardt, John G., 1881-1973.</author>
+                    <author>Neihardt, John G., 1881-1973</author>
                     <title level="m" type="main">Letter from John G. Neihardt to Linda D. DeLowry</title>
                     <date when="1973-09-04">September 4, 1973</date>
                     <extent>1 page</extent>
@@ -101,14 +101,14 @@
                 <correspAction type="sentBy">
                     <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
                     <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                    <date when="1973-09-04"/>
                 </correspAction>
                 <correspAction type="deliveredTo">
                     <persName>DeLowry, Linda D.</persName>
                     <placeName ref="http://www.geonames.org/4381982">Columbia (Mo.)</placeName>
-                    <date when="1973-09-04"/>
                 </correspAction>
             </correspDesc>
-            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+            <particDesc><person role="recipient"><persName>DeLowry, Linda D.</persName></person></particDesc>
         </profileDesc>
         
         <revisionDesc>
@@ -122,7 +122,7 @@
             
             <div1 type="letter">
                 <pb facs="nei.n1b.5.9"/>
-                <note type="curatorial">9</note>
+                <fw type="curatorial">9</fw>
                 
                 <opener>
                     <address>
@@ -142,21 +142,21 @@
                     
                 </opener>
                 
-                <p>I am interested in your project - a somatic study of Neihardt's work - and I note that you would be
+                <p>I am interested in your project &#8212; a sematic study of Neihardt's work &#8212; and I note that you would be
                 principally interested in the short stories. I think you and I should have a meeting, and I think
                 you should consult Dr. Lucile Aly's bibliography, which lists practically everything that  I have
                 written. I have a copy here but am not free to loan it.</p> 
-                <p>I have written Mrs. Prewitt of the Western Manuscripts Col-lection, and a copy of that letter is
+                <p>I have written Mrs. Prewitt of the Western Manuscripts Collection, and a copy of that letter is
                 enclosed.</p> 
                 <p>If you can come to Lincoln to talk with me, it would be well to call us for an appointment.</p> 
                 
                 <closer>
                     <salute>Yours,</salute>
                     <signed>John Neihardt</signed>
-                </closer>
+
                 
                 <note type="authorial">JGN:nh</note>
-                
+                 </closer>               
             </div1>
             
         </body>
