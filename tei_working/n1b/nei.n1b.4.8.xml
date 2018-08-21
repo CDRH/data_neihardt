@@ -6,7 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title type="main">Letter from John G. Neihardt to Dick Cavett, November 21, 1972</title>
-                <author>Neihardt, John G., 1881-1973.</author>
+                <author>Neihardt, John G., 1881-1973</author>
                 <principal>Gossin, Pamela</principal>
             </titleStmt>
             <editionStmt>
@@ -41,7 +41,7 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Neihardt, John G., 1881-1973.</author>
+                    <author>Neihardt, John G., 1881-1973</author>
                     <title level="m" type="main">Letter from John G. Neihardt to Dick Cavett</title>
                     <date when="1972-11-21">November 21, 1972</date>
                     <extent>1 page</extent>
@@ -101,14 +101,14 @@
                 <correspAction type="sentBy">
                     <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
                     <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                    <date when="1972-11-21"/>
                 </correspAction>
                 <correspAction type="deliveredTo">
                     <persName ref="http://viaf.org/viaf/70256878">Cavett, Dick</persName>
                     <placeName ref="http://www.geonames.org/5328041">Beverly Hills (Calif.)</placeName>
-                    <date when="1972-11-21"/>
                 </correspAction>
             </correspDesc>
-            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+            <particDesc><person role="recipient"><persName>Cavett, Dick</persName></person></particDesc>
         </profileDesc>
         
         <revisionDesc>
@@ -122,7 +122,7 @@
             
             <div1 type="letter">
                 <pb facs="nei.n1b.4.8"/>
-                <note type="curatorial">8</note>
+                <fw type="curatorial">8</fw>
                 
                 <opener>
                     <address>
@@ -139,7 +139,7 @@
                     <salute>Dear Dick:</salute>
                 </opener>
                 
-                <p>I wish I knew how best to answer your precious letter of November 13, 1972. It saddens me greatly, for it is your first request for anything from me and I am unfortunately in no position to grant it. I have definitely promised the sacred Black Elk symbols to the Neihardt Center at Bancroft, which is planned as a Black Elk shrine with the symbols as central in it. Thsi is a definite promise and is being relied upon. They were given to me as the spiritual son of the old man and they must remain with me until my death when they will be turned over to an insti-tutuion for safe keeping, according to my promise. These are sacred objects, as you understand, and I was placed under sacred obligation when I received them.</p> 
+                <p>I wish I knew how best to answer your precious letter of November 13, 1972. It saddens me greatly, for it is your first request for anything from me and I am unfortunately in no position to grant it. I have definitely promised the sacred Black Elk symbols to the Neihardt Center at Bancroft, which is planned as a Black Elk shrine with the symbols as central in it. This is a definite promise and is being relied upon. They were given to me as the spiritual son of the old man and they must remain with me until my death when they will be turned over to an institution for safe keeping, according to my promise. These are sacred objects, as you understand, and I was placed under sacred obligation when I received them.</p> 
                 <p>The Smithsonian Institution has asked for the symbols, but I have no intention to consider their request.</p> 
                 <p>I do feel that your promotion of the Black Elk cause deserves public acknowledgement and this can be managed by the Neihardt Foundation. I think you are already associated with the Foundation.</p> 
                 <p>Dick, I wish I were not under obligation to write this letter, for I am deeply grateful for what you have done for me. However, I do trust you and I know you will read what I have written with understanding.</p> 
@@ -147,9 +147,9 @@
                 <closer>
                     <salute>Affectionately your friend,</salute>
                     <signed>John G. Neihardt</signed>
-                </closer>
                 
-                <note type="authorial">JGN:nh</note>
+                <note>JGN:nh</note>
+                </closer>
             </div1>
             
         </body>

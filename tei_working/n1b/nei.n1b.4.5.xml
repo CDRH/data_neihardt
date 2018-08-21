@@ -6,7 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title type="main">Letter from John G. Neihardt to Brent A. Warren, September 22, 1972</title>
-                <author>Neihardt, John G., 1881-1973.</author>
+                <author>Neihardt, John G., 1881-1973</author>
                 <principal>Gossin, Pamela</principal>
             </titleStmt>
             <editionStmt>
@@ -41,7 +41,7 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Neihardt, John G., 1881-1973.</author>
+                    <author>Neihardt, John G., 1881-1973</author>
                     <title level="m" type="main">Letter from John G. Neihardt to Brent A. Warren</title>
                     <date when="1972-09-22">September 22, 1972</date>
                     <extent>1 page</extent>
@@ -100,16 +100,16 @@
             </textClass>
             <correspDesc>
                 <correspAction type="sentBy">
-                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973</persName>
                     <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                    <date when="1972-09-22"/>
                 </correspAction>
                 <correspAction type="deliveredTo">
                     <persName>Warren, Brent A.</persName>
                     <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
-                    <date when="1972-09-22"/>
                 </correspAction>
             </correspDesc>
-            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+            <particDesc><person role="recipient"><persName>Warren, Brent A.</persName></person></particDesc>
         </profileDesc>
         
         <revisionDesc>
@@ -123,7 +123,7 @@
             
             <div1 type="letter">
                 <pb facs="nei.n1b.4.5"/>
-                <note type="curatorial">5</note>
+                <fw type="curatorial">5</fw>
                 
                 <opener>
                     <address>
@@ -146,10 +146,11 @@
                 <closer>
                     <salute>With all kind thoughts,</salute>
                     <signed>John G. Neihardt</signed>
-                </closer>
+
                 
-                <note type="authorial">JGN:nh</note>
-                <note type="authorial">The telephone number is 466-9573.</note>
+                <note>JGN:nh</note>
+                <note>The telephone number is 466-9573.</note>
+                </closer>
             </div1>
             
         </body>

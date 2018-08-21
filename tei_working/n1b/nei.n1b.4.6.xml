@@ -6,7 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title type="main">Letter from John G. Neihardt to Edward H. Weatherly, November 1, 1972</title>
-                <author>Neihardt, John G., 1881-1973.</author>
+                <author>Neihardt, John G., 1881-1973</author>
                 <principal>Gossin, Pamela</principal>
             </titleStmt>
             <editionStmt>
@@ -41,7 +41,7 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Neihardt, John G., 1881-1973.</author>
+                    <author>Neihardt, John G., 1881-1973</author>
                     <title level="m" type="main">Letter from John G. Neihardt to Edward H. Weatherly</title>
                     <date when="1972-11-01">November 1, 1972</date>
                     <extent>1 page</extent>
@@ -98,16 +98,16 @@
             </textClass>
             <correspDesc>
                 <correspAction type="sentBy">
-                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973</persName>
                     <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                    <date when="1972-11-01"/>
                 </correspAction>
                 <correspAction type="deliveredTo">
                     <persName ref="http://viaf.org/viaf/33517947">Weatherly, Edward H. (Edward Howell), 1905-1984</persName>
                     <placeName ref="http://www.geonames.org/4381982">Columbia (Mo.)</placeName>
-                    <date when="1972-11-01"/>
                 </correspAction>
             </correspDesc>
-            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+            <particDesc><person role="recipient"><persName>Weatherly, Edward H. (Edward Howell), 1905-1984</persName></person></particDesc>
         </profileDesc>
         
         <revisionDesc>
@@ -121,7 +121,7 @@
             
             <div1 type="letter">
                 <pb facs="nei.n1b.4.6"/>
-                <note type="curatorial">6</note>
+                <fw type="curatorial">6</fw>
                 
                 <opener>
                     <address>
@@ -149,9 +149,9 @@
                 <closer>
                     <salute>Your old friend,</salute>
                     <signed>John G. Neihardt</signed>
+
+                <note>JGN:nh</note>
                 </closer>
-                
-                <note type="authorial">JGN:nh</note>
             </div1>
             
         </body>

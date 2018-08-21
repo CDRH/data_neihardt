@@ -6,7 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title type="main">Letter from John G. Neihardt to Grace Irene Marshall, December 11, 1972</title>
-                <author>Neihardt, John G., 1881-1973.</author>
+                <author>Neihardt, John G., 1881-1973</author>
                 <principal>Gossin, Pamela</principal>
             </titleStmt>
             <editionStmt>
@@ -41,7 +41,7 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Neihardt, John G., 1881-1973.</author>
+                    <author>Neihardt, John G., 1881-1973</author>
                     <title level="m" type="main">Letter from John G. Neihardt to Grace Irene
                         Marshall</title>
                     <date when="1972-12-11">December 11, 1972</date>
@@ -96,21 +96,21 @@
                     <term>Omaha (Neb.)</term>
                 </keywords>
                 <keywords scheme="lcsh" n="works">
-                    <term></term>
+                    <term>Hartington Herald</term>
                 </keywords>
             </textClass>
             <correspDesc>
                 <correspAction type="sentBy">
-                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973</persName>
                     <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                    <date when="1972-12-11"/>
                 </correspAction>
                 <correspAction type="deliveredTo">
                     <persName>Marshall, Grace Irene</persName>
                     <placeName ref="http://www.geonames.org/5074472">Omaha (Neb.)</placeName>
-                    <date when="1972-12-11"/>
                 </correspAction>
             </correspDesc>
-            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+            <particDesc><person role="recipient"><persName>Marshall, Grace Irene</persName></person></particDesc>
         </profileDesc>
         
         <revisionDesc>
@@ -124,7 +124,7 @@
             
             <div1 type="letter">
                 <pb facs="nei.n1b.4.11"/>
-                <note type="curatorial">11</note>
+                <fw type="curatorial">11</fw>
                 
                 <opener>
                     <address>
@@ -142,17 +142,16 @@
                     <salute>Dear Sister Grace Irene:</salute>
                 </opener>
                 
-                <p>It was very good of you to send me the clipping from the Hartington Herald which describes the death of my old friend Chet, your father. I am veryw glad to know the details of the affair.</p> 
-                <p>The Youngs and I greatly enjoyed our brief visit with you in October, and I hope the visit may be repated before too long.</p> 
+                <p>It was very good of you to send me the clipping from the Hartington Herald which describes the death of my old friend Chet, your father. I am very glad to know the details of the affair.</p> 
+                <p>The Youngs and I greatly enjoyed our brief visit with you in October, and I hope the visit may be repeated before too long.</p> 
                 <p>Please give my kindest thoughts to your Mother Superior, who delighted and surprised me with her knowledge of my work, and be sure that you have the best wishes from all of us here.</p> 
                 
                 <closer>
                     <salute>Your friend,</salute>
                     <signed>John G. Neihardt</signed>
-                </closer>
                 
                 <note type="authorial">JGN:nh</note>
-
+                </closer>
             </div1>
             
         </body>

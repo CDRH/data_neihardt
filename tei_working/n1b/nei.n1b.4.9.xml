@@ -6,7 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title type="main">Letter from John G. Neihardt to Harold B. Clingerman, November 29, 1972</title>
-                <author>Neihardt, John G., 1881-1973.</author>
+                <author>Neihardt, John G., 1881-1973</author>
                 <principal>Gossin, Pamela</principal>
             </titleStmt>
             <editionStmt>
@@ -41,7 +41,7 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Neihardt, John G., 1881-1973.</author>
+                    <author>Neihardt, John G., 1881-1973</author>
                     <title level="m" type="main">Letter from John G. Neihardt to Harold B. Clingerman</title>
                     <date when="1972-11-29">November 29, 1972</date>
                     <extent>1 page</extent>
@@ -93,20 +93,21 @@
                 <keywords scheme="lcsh" n="works">
                     <term>Black Elk Speaks</term>
                     <term>All is but a beginning : youth remembered, 1881-1901</term>
+                    <term>Saturday Review of the Arts</term>
                 </keywords>
             </textClass>
             <correspDesc>
                 <correspAction type="sentBy">
-                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973</persName>
                     <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                    <date when="1972-11-29"/>
                 </correspAction>
                 <correspAction type="deliveredTo">
                     <persName>Clingerman, Harold B.</persName>
                     <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
-                    <date when="1972-11-29"/>
                 </correspAction>
             </correspDesc>
-            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+            <particDesc><person role="recipient"><persName>Clingerman, Harold B.</persName></person></particDesc>
         </profileDesc>
         
         <revisionDesc>
@@ -120,7 +121,7 @@
             
             <div1 type="letter">
                 <pb facs="nei.n1b.4.9"/>
-                <note type="curatorial">9</note>
+                <fw type="curatorial">9</fw>
                 
                 <opener>
                     <address>
@@ -147,9 +148,9 @@
                     <salute>With every kind thought, your friend</salute>
                     <signed>John Neihardt</signed>
                     <signed>John G. Neihardt</signed>
-                </closer>
-                
+      
                 <note type="authorial">JGN:nh</note>
+                </closer>
                 <postscript><p>P.S. The enclosed bookplate is for your copy of ALL IS BUT A BEGINNING. - J.G.N.</p></postscript>
             </div1>
             

@@ -6,7 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title type="main">Letter from John G. Neihardt to Terrence O'Neill, June 14, 1972</title>
-                <author>Neihardt, John G., 1881-1973.</author>
+                <author>Neihardt, John G., 1881-1973</author>
                 <principal>Gossin, Pamela</principal>
             </titleStmt>
             <editionStmt>
@@ -41,7 +41,7 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Neihardt, John G., 1881-1973.</author>
+                    <author>Neihardt, John G., 1881-1973</author>
                     <title level="m" type="main">Letter from John G. Neihardt to Terrence O'Neill</title>
                     <date when="1972-06-14">June 14, 1972</date>
                     <extent>1 page</extent>
@@ -100,16 +100,17 @@
             </textClass>
             <correspDesc>
                 <correspAction type="sentBy">
-                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973</persName>
                     <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                    <date when="1972-06-14"/>
                 </correspAction>
                 <correspAction type="deliveredTo">
                     <persName>O'Neill, Terrence</persName>
                     <placeName ref="http://www.geonames.org/4407066">St. Louis (Mo.)</placeName>
-                    <date when="1972-06-14"/>
+
                 </correspAction>
             </correspDesc>
-            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+            <particDesc><person role="recipient"><persName>O'Neill, Terrence</persName></person></particDesc>
         </profileDesc>
         
         <revisionDesc>
@@ -123,7 +124,7 @@
             
             <div1 type="letter">
                 <pb facs="nei.n1b.4.4"/>
-                <note type="curatorial">4</note>
+                <fw type="curatorial">4</fw>
                 
                 <opener>
                     <address>
@@ -145,15 +146,15 @@
                 <p>Did you see the Dick Cavett show Monday night?</p> 
                 <p>Many thanks for the beautiful picture of the Niobrara Valley. I love all of that country up there. For several years two of my daughters and I spent much time camping up there.</p> 
                 <p>I am now working on the adult section of my autobiography which should be ready in less than a year.</p> 
-                <p>I am trying to keep pace with my mail and that will explain the telegraphic nature of this letter. Write me again. you do write a beautiful letter.</p>
+                <p>I am trying to keep pace with my mail and that will explain the telegraphic nature of this letter. Write me again. You do write a beautiful letter.</p>
                 
                 <closer>
                     <salute>With kind thoughts,</salute>
                     <signed>John G. Neihardt</signed>
-                </closer>
+
                 
                 <note type="authorial">JGN:nh</note>
-                
+                </closer>                
             </div1>
             
         </body>

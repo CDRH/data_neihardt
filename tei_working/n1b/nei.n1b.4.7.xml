@@ -6,7 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title type="main">Letter from John G. Neihardt to Mary Ryskind, November 20, 1972</title>
-                <author>Neihardt, John G., 1881-1973.</author>
+                <author>Neihardt, John G., 1881-1973</author>
                 <principal>Gossin, Pamela</principal>
             </titleStmt>
             <editionStmt>
@@ -41,7 +41,7 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Neihardt, John G., 1881-1973.</author>
+                    <author>Neihardt, John G., 1881-1973</author>
                     <title level="m" type="main">Letter from John G. Neihardt to Mary Ryskind</title>
                     <date when="1972-11-20">November 20, 1972</date>
                     <extent>1 page</extent>
@@ -88,27 +88,29 @@
                     <term>Ryskind, Mary House</term>
                     <term>House, Julius T. (Julius Temple)</term>
                     <term>Young, Julius</term>
+<term>Ryskind, Morrie, 1895-1985</term>
                 </keywords>
                 <keywords scheme="lcsh" n="places">
                     <term>Lincoln (Neb.)</term>
                     <term>Beverly Hills (Calif.)</term>
                 </keywords>
                 <keywords scheme="lcsh" n="works">
-                    <term></term>
+                    <term>John G. Neihardt, Man and Poet</term>
+<term>Patterns and Coincidences: A Sequel to All Is But A Beginning</term>
                 </keywords>
             </textClass>
             <correspDesc>
                 <correspAction type="sentBy">
-                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973</persName>
                     <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                    <date when="1972-11-20"/>
                 </correspAction>
                 <correspAction type="deliveredTo">
                     <persName>Ryskind, Mary House</persName>
                     <placeName ref="http://www.geonames.org/5328041">Beverly Hills (Calif.)</placeName>
-                    <date when="1972-11-20"/>
                 </correspAction>
             </correspDesc>
-            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+            <particDesc><person role="recipient"><persName>Ryskind, Mary House</persName></person></particDesc>
         </profileDesc>
         
         <revisionDesc>
@@ -122,7 +124,7 @@
             
             <div1 type="letter">
                 <pb facs="nei.n1b.4.7"/>
-                <note type="curatorial">7</note>
+                <fw type="curatorial">7</fw>
                 
                 <opener>
                     <address>
@@ -142,15 +144,15 @@
                 <p>I am so glad you like my little book.</p> 
                 <p>Yes, I do remember something about my sister's coat that was cut down for me. I am surprised that I forgot to mention it in my "testament," but there was so much else to remember.</p> 
                 <p>I am looking forward to the time when I can write about your father and my best friend. That is going to be a pleasure. I am now well along with the second volume (the adult section) and it cannot be too long utnil I shall be writing about Dr. Julius T. House.</p> 
-                <p>It will interest you to know that J.D. Young and I have bought up nearly all of yoru father's biography of me. People who have copies of it think very highly of it; and surely it is a fine piece of work, deserving much more attention than it has received.</p> 
+                <p>It will interest you to know that J.D. Young and I have bought up nearly all of your father's biography of me. People who have copies of it think very highly of it; and surely it is a fine piece of work, deserving much more attention than it has received.</p> 
                 <p>I like to think of you, Mary, and the old days when you were a little girl.</p> 
                 
                 <closer>
                     <salute>With affectionate thoughts for you and your Morrie, your old friend,</salute>
                     <signed>John G. Neihardt</signed>
-                </closer>
-                
+
                 <note type="authorial">JGN:nh</note>
+                </closer>
             </div1>
             
         </body>

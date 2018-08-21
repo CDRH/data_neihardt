@@ -6,7 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title type="main">Letter from John G. Neihardt to Gregory George, June 5, 1972</title>
-                <author>Neihardt, John G., 1881-1973.</author>
+                <author>Neihardt, John G., 1881-1973</author>
                 <principal>Gossin, Pamela</principal>
             </titleStmt>
             <editionStmt>
@@ -41,7 +41,7 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Neihardt, John G., 1881-1973.</author>
+                    <author>Neihardt, John G., 1881-1973</author>
                     <title level="m" type="main">Letter from John G. Neihardt to Gregory George</title>
                     <date when="1972-06-05">June 5, 1972</date>
                     <extent>1 page</extent>
@@ -104,16 +104,16 @@
             </textClass>
             <correspDesc>
                 <correspAction type="sentBy">
-                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973</persName>
                     <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                    <date when="1972-06-05"/>
                 </correspAction>
                 <correspAction type="deliveredTo">
                     <persName>George, Gregory</persName>
                     <placeName ref="http://www.geonames.org/4885164">Bloomington (Ill.)</placeName>
-                    <date when="1972-06-05"/>
                 </correspAction>
             </correspDesc>
-            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+            <particDesc><person role="recipient"><persName>George, Gregory</persName></person></particDesc>
         </profileDesc>
         
         <revisionDesc>
@@ -127,7 +127,7 @@
             
             <div1 type="letter">
                 <pb facs="nei.n1b.4.3"/>
-                <note type="curatorial">3</note>
+                <fw type="curatorial">3</fw>
                 
                 <opener>
                     <address>
@@ -154,11 +154,11 @@
                 <closer>
                     <salute>With affectionate thoughts, your old friend</salute>
                     <signed>John G. Neihardt</signed>
-                </closer>
+
                 
                 <note type="authorial">JGN:nh</note>
-                
-                <postscript><p>P.S. I suggest tha tyou look me up in WHO'S WHO IN AMERICA and INTERNATIONAL WHO'S WHO. you will find these in your library. - J.G.N.</p></postscript>
+                         </closer>       
+                <postscript><p>P.S. I suggest that you look me up in WHO'S WHO IN AMERICA and INTERNATIONAL WHO'S WHO. you will find these in your library. - J.G.N.</p></postscript>
                 
             </div1>
             
