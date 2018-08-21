@@ -6,7 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title type="main">Letter from John G. Neihardt to Jacobsen, May 20, 1927</title>
-                <author>Neihardt, John G., 1881-1973.</author>
+                <author>Neihardt, John G., 1881-1973</author>
                 <principal>Gossin, Pamela</principal>
             </titleStmt>
             <editionStmt>
@@ -41,7 +41,7 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Neihardt, John G., 1881-1973.</author>
+                    <author>Neihardt, John G., 1881-1973</author>
                     <title level="m" type="main">Letter from John G. Neihardt to Jacobsen</title>
                     <date when="1927-05-20">May 20, 1927</date>
                     <extent>1 page</extent>
@@ -102,14 +102,14 @@
                 <correspAction type="sentBy">
                     <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
                     <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                    <date when="1927-05-20"/>
                 </correspAction>
                 <correspAction type="deliveredTo">
                     <persName>Jacobsen</persName>
                     <placeName ref="http://www.geonames.org/4407066">St. Louis (Mo.)</placeName>
-                    <date when="1927-05-20"/>
                 </correspAction>
             </correspDesc>
-            <particDesc><person role="recipient"><persName>Neihardt, John G., 1881-1973.</persName></person></particDesc>
+            <particDesc><person role="recipient"><persName>Jacobsen</persName></person></particDesc>
         </profileDesc>
         
         <revisionDesc>
@@ -123,13 +123,13 @@
             
             <div1 type="letter">
                 <pb facs="nei.n1b.6.2"/>
-                <note type="curatorial">2</note>
+                <fw type="curatorial">2</fw>
                 
                 <opener>
                     <figure/>
                     
-                    <fw type="authorial">ST. LOUIS POST-DISPATCH 
-                    PUBLISHED BY THE PULITZER PUBLISHING CO
+                    <fw type="letterhead">ST. LOUIS POST-DISPATCH<lb/>
+                    PUBLISHED BY THE PULITZER PUBLISHING CO<lb/>
                     ST LOUIS, MO</fw> 
                     
                     <dateline>May 20, "27.</dateline>
@@ -141,36 +141,36 @@
                 <p>Of course I am glad to copy the poem for your brother, Paul Jacobsen, since it seems to have been
                 written for him. It is to be found in my COLLECTED POEMS, published by the Macmillan Company last
                 November.</p> 
-                <p>EASTER</p> 
-                <l>Once more the northbound Wonder</l> 
+                <lg><head>EASTER</head> 
+                <lg><l>Once more the northbound Wonder</l> 
                 <l>Brings back the goose and crane,</l> 
                 <l>Prophetic Sons of Thunder,</l> 
-                <l>Apostles of the Rain.</l> 
-                <l>In many a battling river</l>
+                <l>Apostles of the Rain.</l></lg> 
+                <lg><l>In many a battling river</l>
                 <l>The broken gorges boom.</l> 
                 <l>Behold, the Mighty Giver</l>
-                <l>Emerges from the tomb!</l> 
-                <l>Now robins chant the story</l> 
-                <l>of how the wintry sward</l> 
-                <l>is Iitten with teh glory</l> 
-                <l>Of the Angel of the Lord.</l>
-                <l>His countenance is lightning</l> 
+                <l>Emerges from the tomb!</l></lg> 
+                <lg><l>Now robins chant the story</l> 
+                <l>Of how the wintry sward</l> 
+                <l>Is Iitten with the glory</l> 
+                <l>Of the Angel of the Lord.</l></lg>
+                <lg><l>His countenance is lightning</l> 
                 <l>And still His robe is snow,</l>
                 <l>As when the dawn was brightening</l>
-                <l>Two thousand years ago.</l> 
-                <l>O who can be a stanger</l> 
+                <l>Two thousand years ago.</l></lg> 
+                <lg><l>O who can be a stanger</l> 
                 <l>To what has come to pass?</l>
                 <l>The pity of the Manger</l>
-                <l>Is mighty in the grass!</l>
-                <l>Undaunted by Decembers</l>
-                <l>Teh sap is faithful yet.</l> 
+                <l>Is mighty in the grass!</l></lg>
+                <lg><l>Undaunted by Decembers</l>
+                <l>The sap is faithful yet.</l> 
                 <l>The giving Earth remembers</l>
-                <l>And only men forget.</l> 
-                <signed>Jno. G. Neihardt</signed> 
+                <l>And only men forget.</l></lg> </lg>
+                <closer><signed>Jno. G. Neihardt</signed></closer> 
             </div1>
                 
-            <div1 type="attachment">
-                <note type="authorial">Lincoln STar 6-18-73 P.C.</note> 
+            <div1 type="enclosure">
+                <note type="authorial">Lincoln Star 6-18-'73 P.C.</note> 
                 <fw type="authorial">Ex-Tekamah Resident Awarded</fw> 
                 <p>Tekamah - Dr. Paul S. Jacobsen, professor emeritus of political science at Colgate University in
                 Hamilton, N.Y. and a native of Tekamah, was awarded an honorary degree of laws from Colgate at
