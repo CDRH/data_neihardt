@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1b.5.4">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to Lila M. Gardner, May 9, 1973</title>
+                <author>Neihardt, John G., 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1b.5.4</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John G., 1881-1973</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Lila M. Gardner</title>
+                    <date when="1973-05-09">May 9, 1973</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Gardener, Lila M.</term>
+                    <term>Ryskind, Mary House</term>
+                    <term>House, Julius T. (Julius Temple)</term>
+                    <term>Goldie, W. S.</term>
+                    <term>Young, Myrtle</term>
+<term>Crose, Bub</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Lincoln (Neb.)</term>
+                    <term>Villisca (Iowa)</term>
+                    <term>Branson (Mo.)</term>
+                    <term>Moberly (Mo.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term>The Nebraska Democrat</term>
+                    <term>The Tentiad</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                    <date when="1973-05-09"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Gardener, Lila M.</persName>
+                    <placeName ref="http://www.geonames.org/4880228">Villisca (Iowa)</placeName>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Gardener, Lila M.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.n1b.5.4"/>
+                <fw type="curatorial">4</fw>
+                
+                <opener>
+                    <address>
+                        <addrLine>5835 Vine Street</addrLine> 
+                        <addrLine>Lincoln, Nebraska 68505</addrLine> 
+                    </address>
+                    <dateline>May 9, 1973</dateline>
+                    <address>
+                        <addrLine>Miss Lila M. Gardner</addrLine> 
+                        <addrLine>104 W. 3rd</addrLine> 
+                        <addrLine>Villisca, Iowa 50864</addrLine>
+                    </address>
+                    
+                    <salute>Dear Miss Gardner:</salute>
+                </opener>
+                
+                <p>I greatly appreciate your happy letter of February 18, 1973.</p> 
+                <p>You speak of Mary House and my old friend Dr. House, the dearest of men. Mary taught in Branson,
+                Missouri and lived with us for a while there. She did go to Moberly and lived there for a while with
+                her husband Bub Crose. The marriage was unsuccessful, as you know.</p> 
+                <p>I am very much in hope that we may be able to discover files of the Nebraska Democrat when it was
+                edited and published by W. S. Goldie. There is a two-column "epic poem" entitled "The Tentiad" which
+                appeared on the front page of the Democrat. I would pay well for a copy of it but I have been unable
+                to locate it. I think you will hear from Mrs. Young, who will send you some information that might
+                interest you.</p> 
+                
+                <closer>
+                    <salute>With all kind thoughts,</salute>
+                    <signed>John G. Neihardt </signed>
+
+                
+                <note type="authorial">JGN:nh</note>
+                 </closer>               
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>

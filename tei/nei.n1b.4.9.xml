@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1b.4.9">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John G. Neihardt to Harold B. Clingerman, November 29, 1972</title>
+                <author>Neihardt, John G., 1881-1973</author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.n1b.4.9</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Neihardt, John G., 1881-1973</author>
+                    <title level="m" type="main">Letter from John G. Neihardt to Harold B. Clingerman</title>
+                    <date when="1972-11-29">November 29, 1972</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>1 type-written page</p>
+                    </msContents>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term>Clingerman, Harold B.</term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term>Lincoln (Neb.)</term>
+                </keywords>
+                <keywords scheme="lcsh" n="works">
+                    <term>Black Elk Speaks</term>
+                    <term>All is but a beginning : youth remembered, 1881-1901</term>
+                    <term>Saturday Review of the Arts</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973</persName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                    <date when="1972-11-29"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName>Clingerman, Harold B.</persName>
+                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+                </correspAction>
+            </correspDesc>
+            <particDesc><person role="recipient"><persName>Clingerman, Harold B.</persName></person></particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                <pb facs="nei.n1b.4.9"/>
+                <fw type="curatorial">9</fw>
+                
+                <opener>
+                    <address>
+                        <addrLine>5835 Vine Street</addrLine> 
+                        <addrLine>Lincoln, Nebraska 68505</addrLine> 
+                    </address>
+                    <dateline>November 29, 1972</dateline>
+                    <address>
+                        <addrLine>Mr. Harold B. Clingerman</addrLine> 
+                        <addrLine>2000 G Street, Apt. B-25</addrLine>
+                        <addrLine>Lincoln, Nebraska 68510</addrLine> 
+                    </address>
+                    
+                    <salute>Dear Harold Clingerman:</salute>
+                </opener>
+                
+                <p>I was very glad to hear form you for I do not forget your encouraging interest in
+                    my work and I am greatly pleased to hear that you liked my latest book, ALL IS BUT A BEGINNING.</p> 
+                <p>I think it will interest you to know that a special writer for the Saturday Review of the Arts interviewed me a month or so ago for an article which will appear in the Review in February. I am told that advance copies will be available in January.</p> 
+                <p>You will note that ALL IS BUT A BEGINNING is now a best seller. Also, BLACK ELK SPEAKS continues its good work throughout the country and even a half dozen countries of Europe. It's hard to believe that there are two best sellers at the same time.</p> 
+                <p>Is it likely that we may meet before too long and have a chat about this and that.</p>
+                
+                <closer>
+                    <salute>With every kind thought, your friend</salute>
+                    <signed>John Neihardt</signed>
+                    <signed>John G. Neihardt</signed>
+      
+                <note type="authorial">JGN:nh</note>
+                </closer>
+                <postscript><p>P.S. The enclosed bookplate is for your copy of ALL IS BUT A BEGINNING. - J.G.N.</p></postscript>
+            </div1>
+            
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>
