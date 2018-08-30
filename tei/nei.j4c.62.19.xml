@@ -37,7 +37,7 @@
 </availability>
 </publicationStmt>
 
-<notesStmt><note></note></notesStmt>
+<notesStmt><note>Duplicate in John G. Neihardt Center Research Library, Young Collection, n1b.3.5.</note></notesStmt>
 
 <sourceDesc>
 <bibl>
@@ -48,7 +48,7 @@
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
 <idno></idno>
 </msIdentifier>
 <msContents>
@@ -84,13 +84,13 @@
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName>Lincoln (Neb.)</placeName>
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
 <date when="1971-03-15"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName>Williams, Mareta B.</persName>
-<placeName>Springfield (Mo.)</placeName>
+<placeName ref="http://www.geonames.org/4409896">Springfield (Mo.)</placeName>
 </correspAction>
 </correspDesc>
 <particDesc><person role="recipient"><persName>Williams, Mareta B.</persName></person></particDesc>
@@ -115,35 +115,39 @@
 <fw type="curatorial">19</fw>
 
 <opener>
-<dateline>
-5835 Vine Street<lb/>
-Lincoln, Nebraska 68505<lb/>
-March 15, 1971
-</dateline>
-
+<address>
+<addrLine>5835 Vine Street</addrLine>
+<addrLine>Lincoln, Nebraska 68505</addrLine> 
+</address>
+<dateline>March 15, 1971</dateline>
 <address>
 <addrLine>Miss Mareta B. Williams</addrLine>
-<addrLine>1111 East Normal</addrLine>
-<addrLine>Springfield, Missouri 68504</addrLine>
+<addrLine>1111 East Normal</addrLine> 
+<addrLine>Springfield, Missouri 65804</addrLine>
 </address>
 
 <salute>Dear Miss Williams:</salute>
 </opener>
-<p>It was good to hear from you and I am glad to know that you will send me a copy of <hi rend="underline">Missouri Writers</hi>.</p>
 
-<p>As to your question, there are two houses in Missouri that have special significance for me. I lived in Branson, Missouri from 1921 to 1948 and my house there is still standing. Much of my work was done there. Any old timers in Branson can tell you which house was mine.</p>
+<p>It was good to hear from you and I am glad to knw that you will send me a copy of Missouri Writers.</p> 
+<p>As to your question, there are two houses in Missouri that have special significance for me. I lived
+in Branson, Missouri from 1921 to 1948 and my house there is still standing. Much of my work was
+done there. Any old timers in Branson can tell you which house was mine.</p> 
+<p>My farm, known as Skyrim Farm, is situated five miles north of Columbia. <sic>lThat</sic> was my home from 1948
+until the late '60's. Much of my work was done there.</p> 
+<p>I realize that this is not sufficient information for your purpose. I could get some one from the
+neighborhoods to describe and photograph the places if you want me to do so. My home in Branson is
+pretty well known, as also is my Skyrim Farm north of Columbia.</p>
 
-<p>My farm, known as Skyrim Farm, is situated five miles <choice><sic>morth</sic><corr>north</corr></choice> of Columbia. 1That was my home from 1948 until the late '60's. Much of my work was done there.</p>
-
-<p>I realize that this is not sufficient information for your purpose. I could get some one from the neighborhoods to describe and photograph the places if you want me to do so. My home in Branson is pretty well known, as also is my Skyrim Farm north of Columbia.</p>
 <closer>
 <salute>With all kind thoughts,</salute>
-
 <signed>John G. Neihardt</signed>
-
-<note>JGN:nh</note>
 </closer>
+
+<note type="authorial">JGN:nh</note>
+
 </div1>
+
 </body>
 
 <back></back>

@@ -37,18 +37,18 @@
 </availability>
 </publicationStmt>
 
-<notesStmt><note></note></notesStmt>
+<notesStmt><note>Duplicate in John G. Neihardt Center Research Library, Young Collection, n1b.3.7.</note></notesStmt>
 
 <sourceDesc>
 <bibl>
 <author>Neihardt, John Gneisenau, 1881-1973</author>
 <title level="m" type="main">Letter from John G. Neihardt to Bower Aly</title>
 <date when="1971-04-09">April 9, 1971</date>
-<extent>1 pages</extent>
+<extent>1 page</extent>
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
 <idno></idno>
 </msIdentifier>
 <msContents>
@@ -84,13 +84,13 @@
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName>Lincoln (Neb.)</placeName>
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5072006">>Lincoln (Neb.)</placeName>
 <date when="1971-04-09"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Aly, Bower, 1903-1977</persName>
-<placeName>Eugene (Or.)</placeName>
+<persName ref="http://viaf.org/viaf/111613405">Aly, Bower, 1903-1977</persName>
+<placeName ref="http://www.geonames.org/5725846">Eugene (Or.)</placeName>
 </correspAction>
 </correspDesc>
 <particDesc><person role="recipient"><persName>Aly, Bower, 1903-1977</persName></person></particDesc>

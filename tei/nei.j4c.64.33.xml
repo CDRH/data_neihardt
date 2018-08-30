@@ -37,7 +37,7 @@
 </availability>
 </publicationStmt>
 
-<notesStmt><note></note></notesStmt>
+<notesStmt><note>Duplicate letter in John G. Neihardt Center Research Library, Young Collection, n1b.4.8.</note></notesStmt>
 
 <sourceDesc>
 <bibl>
@@ -48,7 +48,7 @@
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
 <idno></idno>
 </msIdentifier>
 <msContents>
@@ -84,13 +84,13 @@
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName>Lincoln (Neb.)</placeName>
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
 <date when="1972-11-21"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Cavett, Dick</persName>
-<placeName>New York (N.Y.)</placeName>
+<persName ref="http://viaf.org/viaf/70256878">Cavett, Dick</persName>
+<placeName ref="http://www.geonames.org/5128581">New York (N.Y.)</placeName>
 </correspAction>
 </correspDesc>
 <particDesc><person role="recipient"><persName>Cavett, Dick</persName></person></particDesc>
@@ -115,15 +115,14 @@
 <fw type="curatorial">33</fw>
 
 <opener>
-<dateline>
-5835 Vine Street<lb/>
-Lincoln, Nebraska 68505<lb/>
-November 21, 1972
-</dateline>
-
 <address>
-<addrLine>Mr. Dick Cavett</addrLine>
-<addrLine>109 E. 79</addrLine>
+<addrLine>5835 Vine Street</addrLine> 
+<addrLine>Lincoln, Nebraska 68505</addrLine> 
+</address>
+<dateline>November 21, 1972</dateline>
+<address>
+<addrLine>Mr. Dick Cavett</addrLine> 
+<addrLine>109 E. 79</addrLine> 
 <addrLine>New York, N. Y. 10021</addrLine>
 </address>
 

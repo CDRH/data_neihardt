@@ -37,7 +37,7 @@
 </availability>
 </publicationStmt>
 
-<notesStmt><note></note></notesStmt>
+<notesStmt><note>Duplicate in John G. Neihardt Center Research Library, Young Collection, n1b.4.5.</note></notesStmt>
 
 <sourceDesc>
 <bibl>
@@ -48,7 +48,7 @@
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
 <idno></idno>
 </msIdentifier>
 <msContents>
@@ -72,6 +72,9 @@
 </keywords>
 <keywords scheme="lcsh" n="works">
 <term>The Dick Cavett Show</term>
+<term>The River and I</term>
+<term>All is but a beginning : youth remembered, 1881-1901</term>
+<term>Black Elk Speaks</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
 <term>Cavett, Dick</term>
@@ -83,13 +86,13 @@
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName>Lincoln (Neb.)</placeName>
+<persName ref="https://viaf.org/viaf/59087102">>Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
 <date when="1972-09-22"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName>Warren, Brent A.</persName>
-<placeName>Lincoln (Neb.)</placeName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
 </correspAction>
 </correspDesc>
 <particDesc><person role="recipient"><persName>Warren, Brent A.</persName></person></particDesc>
@@ -114,16 +117,15 @@
 <fw type="curatorial">2</fw>
 
 <opener>
-<dateline>
-5835 Vine Street<lb/>
-Lincoln, Nebraska 68505<lb/>
-September 22, 1972
-</dateline>
-
 <address>
-<addrLine>Mr. Brent A. Warren</addrLine>
-<addrLine>5420 Ervin Street</addrLine>
-<addrLine>Lincoln, Nebraska 68504</addrLine>
+<addrLine>5835 Vine Street</addrLine> 
+<addrLine>Lincoln, Nebraska 68505</addrLine> 
+</address>
+<dateline>September 22, 1972</dateline>
+<address>
+<addrLine>Mr. Brent A. Warren</addrLine> 
+<addrLine>5420 Ervin Street</addrLine> 
+<addrLine>Lincoln, Nebraska 68504</addrLine> 
 </address>
 
 <salute>Dear Mr. Warren:</salute>
@@ -140,7 +142,7 @@ September 22, 1972
 </closer>
 
 <postscript>
-<p>The t<del>l<unclear>e</unclear></del><add>el</add>ephohne number is 466-9573.</p>
+<p>The telephone number is 466-9573.</p>
 </postscript>
 
 </div1>

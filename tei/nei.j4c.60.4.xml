@@ -37,7 +37,7 @@
 </availability>
 </publicationStmt>
 
-<notesStmt><note></note></notesStmt>
+<notesStmt><note>Duplicate in John G. Neihardt Center Research Library, Young Collection, n1b.1.36.</note></notesStmt>
 
 <sourceDesc>
 <bibl>
@@ -48,7 +48,7 @@
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
 <idno></idno>
 </msIdentifier>
 <msContents>
@@ -86,16 +86,16 @@
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName>Lincoln (Neb.)</placeName>
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
 <date when="1969-11-11"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <orgName>Henry E Huntington Library</orgName>
-<placeName>San Marino (Calif.)</placeName>
+<placeName ref="http://www.geonames.org/5392400">San Marino (Calif.)</placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Librarian, Henry E. Huntington Library</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Unknown</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
@@ -117,16 +117,15 @@
 <fw type="curatorial">4</fw>
 
 <opener>
-<dateline>
-5835 Vine Street<lb/>
-Lincoln, Nebraska 68505<lb/>
-November 11, 1969
-</dateline>
-
 <address>
-<addrLine>Librarian</addrLine>
-<addrLine>Henry E Huntington Library</addrLine>
-<addrLine>1151 Oxford Road</addrLine>
+<addrLine>5835 Vine Street</addrLine> 
+<addrLine>Lincoln, Nebraska 68505</addrLine> 
+</address>
+<dateline>November 11, 1969</dateline>
+<address>
+<addrLine>Librarian</addrLine> 
+<addrLine>Henry E Huntington Library</addrLine> 
+<addrLine>1151 Oxford Road</addrLine> 
 <addrLine>San Marino, California 91108</addrLine>
 </address>
 
@@ -146,8 +145,8 @@ November 11, 1969
 <p>I feel that you might have information regarding the location of such collections as this. Anything you can do to help me locate these letters will be much appreciated.</p>
 <closer>
 <salute>Sincerely yours,</salute>
-
-<note>JGN:fmb</note><signed>John G. Neihardt</signed>
+<signed>John G. Neihardt</signed>
+<note>JGN:fmb</note>
 </closer>
 
 </div1>

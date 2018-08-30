@@ -37,7 +37,7 @@
 </availability>
 </publicationStmt>
 
-<notesStmt><note></note></notesStmt>
+<notesStmt><note>Duplicate in John G. Neihardt Research Center, Young Collection, n1b.1.24</note></notesStmt>
 
 <sourceDesc>
 <bibl>
@@ -48,7 +48,7 @@
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
+<repository>John G. Neihardt Research Center, Aly Collection</repository>
 <idno></idno>
 </msIdentifier>
 <msContents>
@@ -76,7 +76,8 @@
 <term>The Lyric Deed</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Yuzon, Amado M. (Amado Magcalaz), 1906-1979</term>
+<term>Lindbergh, Charles A. (Charles Augustus), 1902-1974</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
 <term></term>
@@ -84,13 +85,13 @@
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName>Lincoln (Neb.)</placeName>
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
 <date when="1969-05-11"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Yuzon, Amado M. (Amado Magcalaz), 1906-1979</persName>
-<placeName>Quezon City (Philippines)</placeName>
+<persName ref="https://viaf.org/viaf/7186897">Yuzon, Amado M. (Amado Magcalaz), 1906-1979</persName>
+<placeName ref="http://www.geonames.org/1692192">Quezon City (Philippines)</placeName>
 </correspAction>
 </correspDesc>
 <particDesc><person role="recipient"><persName>Yuzon, Amado M. (Amado Magcalaz), 1906-1979</persName></person></particDesc>
@@ -135,8 +136,8 @@ May 11, 1969
 <p>You are at liberty to use it if you wish, and if so, I will obtain permission from the <hi rend="underline">St. Louis Post-Dispatch</hi>.</p>
 <closer>
 <salute>With all kind thoughts,</salute>
-
-<note>JGN;fmb</note><signed>John G. Neihardt</signed>   
+<signed>John G. Neihardt</signed>
+<note>JGN:fmb</note>   
 </closer>
 
 </div1>

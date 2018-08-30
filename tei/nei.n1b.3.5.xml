@@ -2,165 +2,165 @@
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1b.3.5">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title type="main">Letter from John G. Neihardt to Mareta B. Williams, March 15, 1971</title>
-                <author>Neihardt, John G., 1881-1973</author>
-                <principal>Gossin, Pamela</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date>2017</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <authority>The Papers of John G. Neihardt</authority>
-                <publisher>University of Nebraska-Lincoln</publisher>
-                <distributor>
-                    <name>Center for Digital Research in the Humanities</name>
-                    <address>
-                        <addrLine>319 Love Library</addrLine>
-                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
-                        <addrLine>Lincoln, NE 68588-4100</addrLine>
-                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
-                    </address>
-                </distributor>
-                <pubPlace>Lincoln, Nebraska</pubPlace> 
-                <address>
-                    <addrLine>University of Nebraska-Lincoln</addrLine>
-                    <addrLine>Lincoln, NE 68588-4100</addrLine>
-                </address>
-                <idno>nei.n1b.3.5</idno>
-                <availability>
-                    <p></p>
-                </availability>
-            </publicationStmt>
-            
-            <notesStmt><note></note></notesStmt>
-            
-            <sourceDesc>
-                <bibl>
-                    <author>Neihardt, John G., 1881-1973</author>
-                    <title level="m" type="main">Letter from John G. Neihardt to Mareta B. Williams</title>
-                    <date when="1971-03-15">March 15, 1971</date>
-                    <extent>1 page</extent>
-                </bibl>
-                <msDesc>
-                    <msIdentifier>
-                        <repository>John G. Neihardt Center Research Library, Young Collection</repository>
-                        <idno></idno>
-                    </msIdentifier>
-                    <msContents>
-                        <p>1 type-written page</p>
-                    </msContents>
-                </msDesc>
-                
-            </sourceDesc>
-        </fileDesc>
-        
-        <encodingDesc>
-            <editorialDecl>
-                <correction>
-                    <p></p>
-                </correction>
-                <normalization>
-                    <p></p>
-                </normalization>
-            </editorialDecl>
-        </encodingDesc>
-        
-        <profileDesc>
-            <textClass>
-                <keywords scheme="original" n="category">
-                    <term>Correspondence</term>
-                </keywords>
-                <keywords scheme="original" n="subcategory">
-                    <term>Business</term>
-                </keywords>
-                <keywords scheme="original" n="topic">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="keywords">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="people">
-                    <term>Williams, Mareta B.</term>
-                </keywords>
-                <keywords scheme="lcsh" n="places">
-                    <term>Lincoln (Neb.)</term>
-                    <term>Springfield (Mo.)</term>
-                    <term>Missouri</term>
-                    <term>Branson (Mo.)</term>
-                    <term>Columbia (Mo.)</term>
-                </keywords>
-                <keywords scheme="lcsh" n="works">
-                    <term></term>
-                </keywords>
-            </textClass>
-            <correspDesc>
-                <correspAction type="sentBy">
-                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
-                    <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
-                    <date when="1971-03-15"/>
-                </correspAction>
-                <correspAction type="deliveredTo">
-                    <persName>Williams, Mareta B.</persName>
-                    <placeName ref="http://www.geonames.org/4409896">Springfield (Mo.)</placeName>
-                </correspAction>
-            </correspDesc>
-            <particDesc><person role="recipient"><persName>Williams, Mareta B.</persName></person></particDesc>
-        </profileDesc>
-        
-        <revisionDesc>
-            <change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
-            <change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
-        </revisionDesc>
-    </teiHeader>
-    
-    <text>
-        <body>
-            
-            <div1 type="letter">
-                <pb facs="nei.n1b.3.5"/>
-                <fw type="curatorial">5</fw>
-                
-                <opener>
-                    <address>
-                        <addrLine>5835 Vine Street</addrLine>
-                        <addrLine>Lincoln, Nebraska 68505</addrLine> 
-                    </address>
-                    <dateline>March 15, 1971</dateline>
-                    <address>
-                        <addrLine>Miss Mareta B. Williams</addrLine>
-                        <addrLine>1111 East Normal</addrLine> 
-                        <addrLine>Springfield, Missouri 65804</addrLine>
-                    </address>
-                    
-                    <salute>Dear Miss Williams:</salute>
-                </opener>
-                
-                <p>It was good to hear from you and I am glad to knw that you will send me a copy of Missouri Writers.</p> 
-                <p>As to your question, there are two houses in Missouri that have special significance for me. I lived
-                in Branson, Missouri from 1921 to 1948 and my house there is still standing. Much of my work was
-                done there. Any old timers in Branson can tell you which house was mine.</p> 
-                <p>My farm, known as Skyrim Farm, is situated five miles north of Columbia. <sic>lThat</sic> was my home from 1948
-                until the late '60's. Much of my work was done there.</p> 
-                <p>I realize that this is not sufficient information for your purpose. I could get some one from the
-                neighborhoods to describe and photograph the places if you want me to do so. My home in Branson is
-                pretty well known, as also is my Skyrim Farm north of Columbia.</p>
-                
-                <closer>
-                    <salute>With all kind thoughts,</salute>
-                    <signed>John G. Neihardt</signed>
-                </closer>
-                
-                <note type="authorial">JGN:nh</note>
-                
-            </div1>
-            
-        </body>
-        
-        <back></back>
-    </text>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Mareta B. Williams, March 15, 1971</title>
+<author>Neihardt, John G., 1881-1973</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.n1b.3.5</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Neihardt, John G., 1881-1973</author>
+<title level="m" type="main">Letter from John G. Neihardt to Mareta B. Williams</title>
+<date when="1971-03-15">March 15, 1971</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Young Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>1 type-written page</p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Williams, Mareta B.</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Lincoln (Neb.)</term>
+<term>Springfield (Mo.)</term>
+<term>Missouri</term>
+<term>Branson (Mo.)</term>
+<term>Columbia (Mo.)</term>
+</keywords>
+<keywords scheme="lcsh" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+<date when="1971-03-15"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Williams, Mareta B.</persName>
+<placeName ref="http://www.geonames.org/4409896">Springfield (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Williams, Mareta B.</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+<change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+<pb facs="nei.n1b.3.5"/>
+<fw type="curatorial">5</fw>
+
+<opener>
+<address>
+<addrLine>5835 Vine Street</addrLine>
+<addrLine>Lincoln, Nebraska 68505</addrLine> 
+</address>
+<dateline>March 15, 1971</dateline>
+<address>
+<addrLine>Miss Mareta B. Williams</addrLine>
+<addrLine>1111 East Normal</addrLine> 
+<addrLine>Springfield, Missouri 65804</addrLine>
+</address>
+
+<salute>Dear Miss Williams:</salute>
+</opener>
+
+<p>It was good to hear from you and I am glad to knw that you will send me a copy of Missouri Writers.</p> 
+<p>As to your question, there are two houses in Missouri that have special significance for me. I lived
+in Branson, Missouri from 1921 to 1948 and my house there is still standing. Much of my work was
+done there. Any old timers in Branson can tell you which house was mine.</p> 
+<p>My farm, known as Skyrim Farm, is situated five miles north of Columbia. <sic>lThat</sic> was my home from 1948
+until the late '60's. Much of my work was done there.</p> 
+<p>I realize that this is not sufficient information for your purpose. I could get some one from the
+neighborhoods to describe and photograph the places if you want me to do so. My home in Branson is
+pretty well known, as also is my Skyrim Farm north of Columbia.</p>
+
+<closer>
+<salute>With all kind thoughts,</salute>
+<signed>John G. Neihardt</signed>
+</closer>
+
+<note type="authorial">JGN:nh</note>
+
+</div1>
+
+</body>
+
+<back></back>
+</text>
 </TEI>
