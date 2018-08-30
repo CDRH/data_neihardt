@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.64.2">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1b.4.5">
 <teiHeader>
 <fileDesc>
 <titleStmt>
 <title type="main">Letter from John G. Neihardt to Brent A. Warren, September 22, 1972</title>
-<author>Neihardt, John Gneisenau, 1881-1973</author>
+<author>Neihardt, John G., 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
 <editionStmt>
@@ -31,24 +31,24 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4c.64.2</idno>
+<idno>nei.n1b.4.5</idno>
 <availability>
 <p></p>
 </availability>
 </publicationStmt>
 
-<notesStmt><note>Duplicate in John G. Neihardt Center Research Library, Young Collection, n1b.4.5.</note></notesStmt>
+<notesStmt><note></note></notesStmt>
 
 <sourceDesc>
 <bibl>
-<author>Neihardt, John Gneisenau, 1881-1973</author>
+<author>Neihardt, John G., 1881-1973</author>
 <title level="m" type="main">Letter from John G. Neihardt to Brent A. Warren</title>
 <date when="1972-09-22">September 22, 1972</date>
 <extent>1 page</extent>
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<repository>John G. Neihardt Center Research Library, Young Collection</repository>
 <idno></idno>
 </msIdentifier>
 <msContents>
@@ -58,6 +58,17 @@
 
 </sourceDesc>
 </fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
 
 <profileDesc>
 <textClass>
@@ -70,23 +81,26 @@
 <keywords scheme="original" n="topic">
 <term></term>
 </keywords>
-<keywords scheme="lcsh" n="works">
-<term>The Dick Cavett Show</term>
-<term>The River and I</term>
-<term>All is but a beginning : youth remembered, 1881-1901</term>
-<term>Black Elk Speaks</term>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
 </keywords>
 <keywords scheme="lcsh" n="people">
+<term>Warren, Brent A.</term>
 <term>Cavett, Dick</term>
 <term>Young, Myrtle</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>Lincoln (Neb.)</term>
+</keywords>
+<keywords scheme="lcsh" n="works">
+<term>The River and I</term>
+<term>All is but a beginning : youth remembered, 1881-1901</term>
+<term>Black Elk Speaks</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName ref="https://viaf.org/viaf/59087102">>Neihardt, John Gneisenau, 1881-1973</persName>
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973</persName>
 <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
 <date when="1972-09-22"/>
 </correspAction>
@@ -99,11 +113,8 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
-<change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
-<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
-<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
-
+<change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+<change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
 </revisionDesc>
 </teiHeader>
 
@@ -111,10 +122,8 @@
 <body>
 
 <div1 type="letter">
-
-<pb facs="nei.j4c.64.2" />
-
-<fw type="curatorial">2</fw>
+<pb facs="nei.n1b.4.5"/>
+<fw type="curatorial">5</fw>
 
 <opener>
 <address>
@@ -130,22 +139,20 @@
 
 <salute>Dear Mr. Warren:</salute>
 </opener>
-<p>I have just read your generous letter of August 12, 1972, regarding my work and the Dick Cavett program. I thank you for your kindly remarks.</p>
 
+<p>I have just read your generous letter of August 12, 1972, regarding my work and the Dick Cavett program. I thank you for your kindly remarks.</p> 
 <p>Naturally I am interested in the project you have in mind and if I can be of any service to you, I shall be glad. Perhaps you might want to come to my home here for a little talk. If so, you might phone and make an appointment with Mrs. Young, who manages my affairs.</p>
+
 <closer>
 <salute>With all kind thoughts,</salute>
-
 <signed>John G. Neihardt</signed>
 
+
 <note>JGN:nh</note>
+<note>The telephone number is 466-9573.</note>
 </closer>
-
-<postscript>
-<p>The telephone number is 466-9573.</p>
-</postscript>
-
 </div1>
+
 </body>
 
 <back></back>

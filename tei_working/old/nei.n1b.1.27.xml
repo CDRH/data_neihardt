@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.58.13">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1b.1.27">
 <teiHeader>
 <fileDesc>
 <titleStmt>
 <title type="main">Letter from John G. Neihardt to Ethel D. Johnson, May 18, 1969</title>
-<author>Neihardt, John Gneisenau, 1881-1973</author>
+<author>Neihardt, John G., 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
 <editionStmt>
@@ -31,35 +31,44 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4c.58.13</idno>
+<idno>nei.n1b.1.27</idno>
 <availability>
 <p></p>
 </availability>
 </publicationStmt>
 
-<notesStmt><note>Duplicate in John G. Neihardt Center Research Library, Young Collection, n1b.1.27.</note></notesStmt>
+<notesStmt><note></note></notesStmt>
 
 <sourceDesc>
 <bibl>
-<author>Neihardt, John Gneisenau, 1881-1973</author>
+<author>Neihardt, John G., 1881-1973</author>
 <title level="m" type="main">Letter from John G. Neihardt to Ethel D. Johnson</title>
 <date when="1969-05-18">May 18, 1969</date>
 <extent>1 page</extent>
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<repository>John G. Neihardt Center Research Library, Young Collection</repository>
 <idno></idno>
 </msIdentifier>
 <msContents>
 <p>1 type-written page</p>
 </msContents>
-
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
 
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
 
 <profileDesc>
 <textClass>
@@ -77,15 +86,20 @@
 </keywords>
 <keywords scheme="lcsh" n="people">
 <term>Donnelly, Ralph W.</term>
+<term>Johnson, Ethel D.</term>
 <term>Miles, Nelson A.</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
+<term>Lincoln (Neb.)</term>
+<term>Fairfax (Va.)</term>
+</keywords>
+<keywords scheme="lcsh" n="works">
 <term></term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
 <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
 <date when="1969-05-18"/>
 </correspAction>
@@ -98,11 +112,8 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
-<change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
-<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
-<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
-
+<change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+<change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
 </revisionDesc>
 </teiHeader>
 
@@ -110,10 +121,8 @@
 <body>
 
 <div1 type="letter">
-
-<pb facs="nei.j4c.58.13" />
-
-<fw type="curatorial">13</fw>
+<pb facs="nei.n1b.1.27"/>
+<fw type="curatorial">27</fw>
 
 <opener>
 <address>
@@ -129,17 +138,19 @@
 
 <salute>Dear Miss Johnson:</salute>
 </opener>
-<p>I have received the various documents relating to the Order of the Indian Wars which you had received from Mr. Donnelly, and I want to thank you heartily for your efforts in my behalf. These documents will be filed with my Manuscript Collection at the University of Missouri and will be of value to many students in the future. When I began this search, I was thinking chiefly of the petition of 1923 with the signatures of General Miles, then Commander of the Order, and ten or twelve others. I know the original has been lost, but I had hoped to find a copy of it with the list of signatures.</p>
 
+<p>I have received the various documents relating to the Order of the Indian Wars which you had received from Mr. Donnelly, and I want to thank you heartily for your efforts in my behalf. These documents will be filed with my Manuscript Collection at the University of Missouri and will be of value to many students in the future. When I began this search, I was thinking chiefly of the petition of 1923 with the signatures of General Miles, then Commander of the Order, and ten or twelve others. I know the original has been lost, but I had hoped to find a copy of it with the list of signatures.</p> 
 <p>I have written Mr. Donnelly, thanking him for all he has done and expressing the hope that a copy of this petition may still be found.</p>
+
 <closer>
 <salute>With all kind thoughts to you and your sister,</salute>
+<signed>John G. Neihardt </signed>
 
-<signed>John G. Neihardt</signed>
-<note>JGN:fmb</note>
+
+<note type="authorial">JGN:fmb</note>
 </closer>
-
 </div1>
+
 </body>
 
 <back></back>

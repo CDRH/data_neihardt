@@ -37,7 +37,7 @@
 </availability>
 </publicationStmt>
 
-<notesStmt><note></note></notesStmt>
+<notesStmt><note>John G. Neihardt Center Research Library, Young Collection, n1b.4.1</note></notesStmt>
 
 <sourceDesc>
 <bibl>
@@ -48,7 +48,7 @@
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
 <idno></idno>
 </msIdentifier>
 <msContents>
@@ -79,6 +79,7 @@
 <keywords scheme="lcsh" n="people">
 <term>Mooney, James, 1861-1921</term>
 <term>Wovoka, approximately 1856-1932</term>
+<term>Jesus Christ</term>
 <term>Russell, Charles Edward, 1860-1941</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
@@ -87,13 +88,13 @@
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName>Lincoln (Neb.)</placeName>
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
 <date when="1972-01-18"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName>Roark, Cheryl</persName>
-<placeName>Detroit (Mich.)</placeName>
+<placeName ref="http://www.geonames.org/4990729">Detroit (Mich.)</placeName>
 </correspAction>
 </correspDesc>
 <particDesc><person role="recipient"><persName>Roark, Cheryl</persName></person></particDesc>
@@ -118,15 +119,14 @@
 <fw type="curatorial">6</fw>
 
 <opener>
-<dateline>
-5835 Vine Street<lb/>
-Lincoln, Nebraska 68505<lb/>
-January 18, 1972
-</dateline>
-
 <address>
-<addrLine>Miss Cheryl Roark</addrLine>
-<addrLine>13160 W. Outer Drive</addrLine>
+<addrLine>5835 Vine Street</addrLine> 
+<addrLine>Lincoln, Nebraska 68505</addrLine> 
+</address>
+<dateline>January 18, 1972</dateline>
+<address>
+<addrLine>Miss Cheryl Roark</addrLine> 
+<addrLine>13160 W. Outer Drive</addrLine> 
 <addrLine>Apt. 307</addrLine>
 <addrLine>Detroit, Michigan 48223</addrLine>
 </address>

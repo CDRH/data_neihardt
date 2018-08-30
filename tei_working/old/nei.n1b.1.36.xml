@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.60.4">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1b.1.36">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from John G. Neihardt to Librarian, Henry E. Huntington Library, November 11, 1969</title>
-<author>Neihardt, John Gneisenau, 1881-1973</author>
+<title type="main">Letter from John G. Neihardt to Librarian at the Henry E.
+Huntington Library, November 11, 1969</title>
+<author>Neihardt, John G., 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
 <editionStmt>
@@ -31,35 +32,45 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4c.60.4</idno>
+<idno>nei.n1b.1.36</idno>
 <availability>
 <p></p>
 </availability>
 </publicationStmt>
 
-<notesStmt><note>Duplicate in John G. Neihardt Center Research Library, Young Collection, n1b.1.36.</note></notesStmt>
+<notesStmt><note></note></notesStmt>
 
 <sourceDesc>
 <bibl>
-<author>Neihardt, John Gneisenau, 1881-1973</author>
-<title level="m" type="main">Letter from John G. Neihardt to Librarian, Henry E. Huntington Library</title>
+<author>Neihardt, John G., 1881-1973</author>
+<title level="m" type="main">Letter from John G. Neihardt to Librarian at the Henry E.
+Huntington Library</title>
 <date when="1969-11-11">November 11, 1969</date>
 <extent>1 page</extent>
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<repository>John G. Neihardt Center Research Library, Young Collection</repository>
 <idno></idno>
 </msIdentifier>
 <msContents>
 <p>1 type-written page</p>
 </msContents>
-
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
 
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
 
 <profileDesc>
 <textClass>
@@ -72,8 +83,8 @@
 <keywords scheme="original" n="topic">
 <term></term>
 </keywords>
-<keywords scheme="lcsh" n="works">
-<term>All is but a beginning : youth remembered, 1881-1901</term>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
 </keywords>
 <keywords scheme="lcsh" n="people">
 <term>Sterling, George, 1869-1926</term>
@@ -81,29 +92,31 @@
 <term>Streamer, Volney, 1850-1915</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
+<term>Lincoln (Neb.)</term>
+<term>San Marino (Calif.)</term>
 <term>New York</term>
+</keywords>
+<keywords scheme="lcsh" n="works">
+<term></term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
 <placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
 <date when="1969-11-11"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<orgName>Henry E Huntington Library</orgName>
-<placeName ref="http://www.geonames.org/5392400">San Marino (Calif.)</placeName>
+<persName></persName>
+<placeName ref="http://www.geonames.org/5392400">San Marino (Calif)</placeName>
 </correspAction>
 </correspDesc>
 <particDesc><person role="recipient"><persName>Unknown</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
-<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Added keywords and correspDesc</change>
-<change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
-<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
-<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
-
+<change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+<change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
 </revisionDesc>
 </teiHeader>
 
@@ -111,10 +124,8 @@
 <body>
 
 <div1 type="letter">
-
-<pb facs="nei.j4c.60.4" />
-
-<fw type="curatorial">4</fw>
+<pb facs="nei.n1b.1.36"/>
+<note type="curatorial">36</note>
 
 <opener>
 <address>
@@ -131,25 +142,28 @@
 
 <salute>Dear Sir:</salute>
 </opener>
-<p>I am very eager to find and obtain xerox copies of the following:
-<list>
-<item>1. Letters from George Sterling to John G. Neihardt</item>
-<item>2. Letters from John G. Neihardt to George Sterling</item>
-<item>3. Letters exchanged between John G. Neihardt and Edwin Arlington Robinson</item>
-<item>4. Letters exchanged between John G. Neihardt and Volney Streamer, curator of the Players Club, New York, during the first decade of the century.</item>
-</list>
-</p>
 
-<p>These were sold sometime between 1920 and 1930 through a well-known New York book dealer to an institution whose name I no longer recall. I am in the process of writing my autobiography and would like very much to refresh my memory concerning these letters.</p>
+<p>I am very eager to find and obtain xerox copies of the following:</p> 
+<p>1. Letters from George Sterling to John G. Neihardt</p>
+<p>2. Letters from John G. Neihardt to George Sterling</p> 
+<p>3. Letters exchanged between John G. Neihardt and Edwin Arlington Robinson</p> 
+<p>4. Letters exchanged between John G. Neihardt and Volney Streamer, curator of the Players Club, New
+York, during the first decade of the century.</p> 
+<p>These were sold sometime between 1920 and 1930 through a well-known New York book dealer to an
+institution whose name I no longer recall. I am in the process of writing my autobiography and
+would like very much to refresh my memory concerning these letters.</p> 
+<p>I feel that you might have information regarding the location of such collections as this. Anything
+you can do to help me locate these letters will be much appreciated.</p> 
 
-<p>I feel that you might have information regarding the location of such collections as this. Anything you can do to help me locate these letters will be much appreciated.</p>
 <closer>
 <salute>Sincerely yours,</salute>
-<signed>John G. Neihardt</signed>
-<note>JGN:fmb</note>
+<signed>John G. Neihardt </signed>
+
+<note type="authorial">JGN:fmb</note>
 </closer>
 
 </div1>
+
 </body>
 
 <back></back>

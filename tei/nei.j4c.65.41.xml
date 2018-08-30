@@ -37,7 +37,8 @@
 </availability>
 </publicationStmt>
 
-<notesStmt><note></note></notesStmt>
+<notesStmt><note>Duplicate in John G. Neihardt Center Research Library, Young Collection, n1b.5.6.</note>
+<note>Exact text appears twice &#8212; once handwritten and once typed. It has been transcribed only once.</note></notesStmt>
 
 <sourceDesc>
 <bibl>
@@ -48,7 +49,7 @@
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
 <idno></idno>
 </msIdentifier>
 <msContents>
@@ -85,13 +86,13 @@
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Neihardt, John Gneisenau, 1881-1973</persName>
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
 <placeName></placeName>
 <date when="1973-07-13"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <orgName>Lemmon Chamber of Commerce</orgName>
-<placeName>Lemmon (S.D.)</placeName>
+<placeName ref="http://www.geonames.org/5766453">Lemmon (S.D.)</placeName>
 </correspAction>
 </correspDesc>
 <particDesc><person role="recipient"><persName>Members of the Lemmon Chamber of Commerce</persName></person></particDesc>
