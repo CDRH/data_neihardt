@@ -2,123 +2,123 @@
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.30.1-2">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title type="main">Letter from John G. Neihardt to Lucile Aly, October 2, 1960</title>
-                <author>Neihardt, John Gneisenau, 1881-1973</author>
-                <principal>Gossin, Pamela</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date>2013</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <authority>The Papers of John G. Neihardt</authority>
-                <publisher>University of Nebraska-Lincoln</publisher>
-                <distributor>
-                    <name>Center for Digital Research in the Humanities</name>
-                    <address>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Lucile Aly, October 2, 1960</title>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2013</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
 <addrLine>319 Love Library</addrLine>
 <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 <addrLine>cdrh@unlnotes.unl.edu</addrLine>
 </address>
-                </distributor>
-                <pubPlace>Lincoln, Nebraska</pubPlace> 
-                <address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-                <idno>nei.j4c.30.1-2</idno>
-                <availability>
-                    <p></p>
-                </availability>
-            </publicationStmt>
-            
-            <notesStmt><note></note></notesStmt>
-            
-            <sourceDesc>
-                <bibl>
-                    <author>Neihardt, John Gneisenau, 1881-1973</author>
-                    <title level="m" type="main">Letter from John G. Neihardt to Lucile Aly</title>
-                    <date when="1960-10-02">October 2, 1960</date>
-                    <extent>4 pages</extent>
-                </bibl>
-                <msDesc>
-                    <msIdentifier>
-                        <repository>Aly Collection</repository>
-                        <idno></idno>
-                    </msIdentifier>
-                    <msContents>
-                        <p>4 hand-written pages</p>
-                    </msContents>
-                    <physDesc>
-                        <objectDesc>
-                            <supportDesc>
-                                <support></support>
-                                <extent>4 pages
-                                    <dimensions unit="mm"><height></height><width></width></dimensions>
-                                </extent>
-                                <condition>
-                                    <p></p></condition>
-                            </supportDesc>
-                        </objectDesc>
-                        <handDesc hands="1">
-                            <handNote xml:id="type"><p>Media: type</p></handNote>
-                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-                        </handDesc>
-                        <typeDesc>
-                            <typeNote><p></p></typeNote>
-                        </typeDesc>
-                    </physDesc>
-                    <history><origin></origin>
-                        <provenance></provenance>
-                        <acquisition></acquisition>
-                    </history>
-                </msDesc>
-                
-            </sourceDesc>
-        </fileDesc>
-        
-        <encodingDesc>
-            <editorialDecl>
-                <correction>
-                    <p></p>
-                </correction>
-                <normalization>
-                    <p></p>
-                </normalization>
-            </editorialDecl>
-        </encodingDesc>
-        
-        <profileDesc>
-            <textClass>
-                <keywords scheme="original" n="category">
-                    <term>Correspondence</term>
-                </keywords>
-                <keywords scheme="original" n="subcategory">
-                    <term>Business</term>
-                </keywords>
-                <keywords scheme="original" n="topic">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="keywords">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="people">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="places">
-                    <term>New York</term>
+<idno>nei.j4c.30.1-2</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<title level="m" type="main">Letter from John G. Neihardt to Lucile Aly</title>
+<date when="1960-10-02">October 2, 1960</date>
+<extent>4 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>4 hand-written pages</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>4 pages
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+<p></p></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="type"><p>Media: type</p></handNote>
+<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p></p></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>New York</term>
 <term>Shelbina (Mo.)</term>
 <term>Ann Arbor (Mich.)</term>
-                </keywords>
-                <keywords scheme="lcsh" n="works">
-                    <term></term>
-                </keywords>
-            </textClass>
+</keywords>
+<keywords scheme="lcsh" n="works">
+<term></term>
+</keywords>
+</textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
@@ -130,64 +130,64 @@
 <placeName></placeName>
 </correspAction>
 </correspDesc>
-            <particDesc><person role="recipient"><persName>Aly, Lucile Folse, 1913-</persName></person></particDesc>
-        </profileDesc>
-        
-        <revisionDesc>
-            <change when="2015"><name xml:id="lkw">Weakly, Laura K.</name> Keywords</change>
-            <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
-            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
-            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
-            
-        </revisionDesc>
-    </teiHeader>
-    
-    <text>
-        <body>
-            
-            <div1 type="letter">
-                
-                <pb facs="nei.j4c.20.1-2_0001a" />
-                <note type="curatorial">114-2                   Aly Collection</note>
-                
-                <opener>
-                <dateline>Skyrim, Oct 2, '60</dateline>
-                
-                
-                <salute>Dear Lucile:</salute>
-                </opener>
-                <p>No rain here for weeks and weeks and weeks. &#8212; and no word from you either for quite a spell. I do hope you are well.</p>
-                
-                <p>You asked if I was a prosperous bean farmer. No, I'm a poor <hi rend="underline">hay</hi> farmer &#8212; had to cut the beans for hay, which I sold in the field at a fair price. So I didn't go into bankruptcy. I'm trying to get a crop of wheat planted
-                
-                <pb facs="nei.j4c.30.1-2_0001b"/>
-                <fw type="authorial">-2-</fw>
-                
-                in the hope of being a wealthy wheat farmer next summer.</p>
-                
-                <p>I'll leave here the 12th, and reach <hi rend="caps">N. Y.</hi> by jet the same day. Will talk that night at the annual dinner of the Westerners. Then I'll have three days in <hi rend="caps">N. Y.</hi> before going to <del>Cor<unclear/></del> Cornell University for the 17th, 18th, and 19th. I'm not especially eager to go, but I'll accumulate eagerness when I get started!</p>
-                
-                <fw type="curatorial">1</fw>
-                <pb facs="nei.j4c.30.1-2_0002a"/>
-                <fw type="authorial">-3-</fw>
-                
-                <p>Our horses made a great showing <del/> yesterday &amp; the day before at Shelbina. The judges were from Ann Arbor. The horses were the best in the country, and most of the <hi rend="underline">big</hi> horse trainers and owners (the big-time boys) were there. We won 7 ribbons &#8212; 2 second places, 4 third place, one fourth place. These were <del>aga</del> all won against big fields of top horses and <hi rend="underline">big names</hi>. (The latter
-                
-                <pb facs="nei.j4c.30.1-2_0002b"/>
-                <fw type="authorial">-4-</fw>
-                
-                are important even with honest judges.) The <hi rend="underline">seconds</hi> were as good as firsts, so far as merit was concerned. We were delighted. The judges spoke to us afterwords<sic>afterwards</sic> &amp; one said, "You should come into our country. You have horses good enough for any <unclear>company</unclear><del/> anywhere." And we haven't yet shown Bourbon Stonewall, the exquisitely beautiful and extremely gifted stallion!</p>
-                    
-                    <p>The University of Nebraska Press wants to know where to reach the lady who is doing my biography. Out of paper, more later.</p>
-                    <closer>
-                    <salute>Affectionately,</salute> 
-                    <signed>Jno.</signed>
-                    </closer>
-                
-                <fw type="curatorial">2</fw>
-            </div1>
-        </body>
-        
-        <back></back>
-    </text>
+<particDesc><person role="recipient"><persName>Aly, Lucile Folse, 1913-</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2015"><name xml:id="lkw">Weakly, Laura K.</name> Keywords</change>
+<change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4c.20.1-2_0001a" />
+<note type="curatorial">114-2   Aly Collection</note>
+
+<opener>
+<dateline>Skyrim, Oct 2, '60</dateline>
+
+
+<salute>Dear Lucile:</salute>
+</opener>
+<p>No rain here for weeks and weeks and weeks. &#8212; and no word from you either for quite a spell. I do hope you are well.</p>
+
+<p>You asked if I was a prosperous bean farmer. No, I'm a poor <hi rend="underline">hay</hi> farmer &#8212; had to cut the beans for hay, which I sold in the field at a fair price. So I didn't go into bankruptcy. I'm trying to get a crop of wheat planted
+
+<pb facs="nei.j4c.30.1-2_0001b"/>
+<fw type="authorial">-2-</fw>
+
+in the hope of being a wealthy wheat farmer next summer.</p>
+
+<p>I'll leave here the 12th, and reach <hi rend="caps">N. Y.</hi> by jet the same day. Will talk that night at the annual dinner of the Westerners. Then I'll have three days in <hi rend="caps">N. Y.</hi> before going to <del>Cor<unclear/></del> Cornell University for the 17th, 18th, and 19th. I'm not especially eager to go, but I'll accumulate eagerness when I get started!</p>
+
+<fw type="curatorial">1</fw>
+<pb facs="nei.j4c.30.1-2_0002a"/>
+<fw type="authorial">-3-</fw>
+
+<p>Our horses made a great showing <del/> yesterday &amp; the day before at Shelbina. The judges were from Ann Arbor. The horses were the best in the country, and most of the <hi rend="underline">big</hi> horse trainers and owners (the big-time boys) were there. We won 7 ribbons &#8212; 2 second places, 4 third place, one fourth place. These were <del>aga</del> all won against big fields of top horses and <hi rend="underline">big names</hi>. (The latter
+
+<pb facs="nei.j4c.30.1-2_0002b"/>
+<fw type="authorial">-4-</fw>
+
+are important even with honest judges.) The <hi rend="underline">seconds</hi> were as good as firsts, so far as merit was concerned. We were delighted. The judges spoke to us afterwords<sic>afterwards</sic> &amp; one said, "You should come into our country. You have horses good enough for any <unclear>company</unclear><del/> anywhere." And we haven't yet shown Bourbon Stonewall, the exquisitely beautiful and extremely gifted stallion!</p>
+
+<p>The University of Nebraska Press wants to know where to reach the lady who is doing my biography. Out of paper, more later.</p>
+<closer>
+<salute>Affectionately,</salute> 
+<signed>Jno.</signed>
+</closer>
+
+<fw type="curatorial">2</fw>
+</div1>
+</body>
+
+<back></back>
+</text>
 </TEI>
