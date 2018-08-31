@@ -37,7 +37,7 @@
 </availability>
 </publicationStmt>
 
-<notesStmt><note></note></notesStmt>
+<notesStmt><note>Duplicate in John G. Neihardt Center Research Library, Young Collection, b1b.2.1-12. Other copy includes the enclosed story.</note></notesStmt>
 
 <sourceDesc>
 <bibl>
@@ -48,7 +48,7 @@
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
 <idno></idno>
 </msIdentifier>
 <msContents>
@@ -79,21 +79,21 @@
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>Columbia (Mo.)</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName>Lincoln (Neb.)</placeName>
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
 <date when="1970-01-01"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <orgName>Reader's Digest</orgName>
-<placeName>Pleasantville (N.Y.)</placeName>
+<placeName ref="http://www.geonames.org/5131757">Pleasantville (N.Y.)</placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Reader's Digest</persName></person></particDesc>
+<particDesc><org role="recipient"><orgName>Reader's Digest</orgName></org></particDesc>
 </profileDesc>
 
 <revisionDesc>
@@ -115,15 +115,14 @@
 <fw type="curatorial">3</fw>
 
 <opener>
-<dateline>
-5835 Vine Street<lb/>
-Lincoln, Nebraska<lb/>
-68505<lb/>
-January 1, 1970
-</dateline>
-
 <address>
-<addrLine>Editors, <hi rend="underline">Reader's Digest</hi></addrLine>
+<addrLine>5835 Vine Street</addrLine> 
+<addrLine>Lincoln, Nebraska</addrLine> 
+<addrLine>68505</addrLine> 
+</address>
+<dateline>January 1, 1970</dateline>
+<address>
+<addrLine>Editors, Reader's Digest</addrLine> 
 <addrLine>Pleasantville, New York 10570</addrLine>
 </address>
 
@@ -134,8 +133,8 @@ January 1, 1970
 <p>For information regarding myself, I refer you to <hi rend="underline">Who's Who in America</hi>.</p>
 <closer>
 <salute>Sincerely</salute>
-
-<note>JGN:fmb</note><signed>John G. Neihardt</signed>
+<signed>John G. Neihardt</signed>
+<note>JGN:fmb</note>
 </closer>
 
 </div1>

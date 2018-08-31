@@ -37,7 +37,7 @@
 </availability>
 </publicationStmt>
 
-<notesStmt><note></note></notesStmt>
+<notesStmt><note>Duplicate in John G. Neihardt Center Research Library, Young Collection, n1b.1.34.</note></notesStmt>
 
 <sourceDesc>
 <bibl>
@@ -48,7 +48,7 @@
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
 <idno></idno>
 </msIdentifier>
 <msContents>
@@ -84,13 +84,13 @@
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName>Lincoln (Neb.)</placeName>
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5072006">>Lincoln (Neb.)</placeName>
 <date when="1969-11-02"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName>Prewitt, Nancy C.</persName>
-<placeName>Columbia (Mo.)</placeName>
+<placeName ref="http://www.geonames.org/4381982">Columbia (Mo.)</placeName>
 </correspAction>
 </correspDesc>
 <particDesc><person role="recipient"><persName>Prewitt, Nancy C.</persName></person></particDesc>
@@ -115,33 +115,33 @@
 <fw type="curatorial"><del/><add>2</add></fw>
 
 <opener>
-<dateline>
-5835 Vine Street<lb/>
-Lincoln, Nebraska 68505<lb/>
-November 2, 1969
-</dateline>
-
 <address>
-<addrLine>Mrs. Nancy C. Prewitt</addrLine>
-<addrLine>Western Historical Manuscript Collection</addrLine>
-<addrLine>University of Missouri Library</addrLine>
+<addrLine>5835 Vine Street</addrLine> 
+<addrLine>Lincoln, Nebraska 68505</addrLine> 
+</address>
+<dateline>November 2, 1969</dateline>
+<address>
+<addrLine>Mrs. Nancy C. Prewitt</addrLine> 
+<addrLine>Western Historical Manuscript Collection</addrLine> 
+<addrLine>University of Missouri Library</addrLine> 
 <addrLine>Columbia, Missouri 65202</addrLine>
 </address>
 
-<salute>Dear Mrs. Prewitt</salute>
+<salute>Dear Mrs. Prewitt:</salute>
 </opener>
 <p>We have received the xeroxed copies of the <hi rend="underline">Post-Dispatch</hi> material, and I <choice><sic>inclose</sic><corr>enclose</corr></choice> herewith my check for $15.30 in payment.</p>
 
 <p>It was very good of you indeed to let us work on Saturday, and I want you to know that we are grateful.</p>
 
-<p>I think Mrs. Aly of the University of Oregon, who is my biograher, has written you asking for certain letters that you have there. I am hoping that you can find one by a a Professor Herman Gimmestad of Midland Lutheran College, Fremont, Nebraska. It is concerned with my visit there three or four years ago, and I would be glad to have Mrs. Aly read it as it seems to be typical.</p>
+<p>I think Mrs. Aly of the University of Oregon, who is my biographer, has written you asking for certain letters that you have there. I am hoping that you can find one by a a Professor Herman Gimmestad of Midland Lutheran College, Fremont, Nebraska. It is concerned with my visit there three or four years ago, and I would be glad to have Mrs. Aly read it as it seems to be typical.</p>
 
 <p>With thanks for your great kindness.</p>
 <closer>
 <salute>Sincerely,</salute>
 
-<note>JGN:fmb</note><signed>John G. Neihardt</signed>   
+<signed>John G. Neihardt</signed>   
 <signed>John G. Neihardt</signed>
+<note>JGN:fmb</note>
 </closer>
 
 </div1>
