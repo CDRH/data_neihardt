@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1b.1.20">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Tom, March 16, 1969</title>
+<author>Neihardt, John G., 1881-1973</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.n1b.1.20</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Neihardt, John G., 1881-1973</author>
+<title level="m" type="main">Letter from John G. Neihardt to Tom</title>
+<date when="1969-03-16">March 16, 1969</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Young Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>1 type-written page</p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Tom</term>
+<term>Rittenhouse, Jessie B. (Jessie Belle), 1869-1948</term>
+<term>Braithwaite, William Stanley, 1878-1962</term>
+<term>Pound, Ezra, 1885-1972</term>
+<term>Auslander, Joseph, 1897-1965</term>
+<term>Elaine</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Lincoln (Neb.)</term>
+</keywords>
+<keywords scheme="lcsh" n="works">
+<term>A Bundle of Myrrh</term>
+<term>Man-Song</term>
+<term>Boston Evening Transcript</term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+<date when="1969-03-16"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Tom</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Tom</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+<change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+<pb facs="nei.n1b.1.20"/>
+<fw type="curatorial">20</fw>
+
+<opener>
+<address>
+<addrLine>5835 Vine Street</addrLine> 
+<addrLine>Lincoln, Nebraska 68505</addrLine> 
+</address>
+<dateline>March 16, 1969</dateline>
+
+<salute>Dear Tom,</salute>
+</opener>
+
+<p>We have been reading the extracts from reviews of A Bundle of Myrrh in the back of Man-Song. I had forgotten these extracts, although I believe at one time I did suggest that you read them. They all indicate the overwhelming consensus concerning the Bundle of Myrrh, but the letter written by Jessie B. Rittenhouse is the most important comment. Jessie B. Rittenhouse was one of the two most important critics of American poetry at that time. The other was William Stanley Braithwate of the Boston Transcript. To be praised by these meant one had arrived. Don't quote the next sentence to your friends in the English department. Their error lies in the fact that they do not know what the mood of the time was and who were considered the most important critics. This is shown by the mention of Pound as though a young poet had to be accepted by Pound.</p> 
+<p>I am hoping that Jessie Rittenhouse can do you some good. She certainly says a mouthful.</p> 
+<p>I have just seen an old letter from Joseph Auslander about my poetry. He was himself a poet of importance and he was Professor of Poetry at Columbia University! I will send you a xeroxed copy of the letter later.</p> 
+<p>Let me know how you are getting along with the dissertation.</p>
+
+<closer>
+<salute>With all kind thoughts for you and Elaine,</salute>
+<signed>John G. Neihardt </signed>
+
+
+<note type="authorial">JGN:fmb</note>
+  </closer>  
+</div1>
+
+</body>
+
+<back></back>
+</text>
+</TEI>

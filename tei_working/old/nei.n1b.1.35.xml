@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.n1b.1.35">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Grace Seiler, November 2, 1969</title>
+<author>Neihardt, John G., 1881-1973</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.n1b.1.35</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Neihardt, John G., 1881-1973</author>
+<title level="m" type="main">Letter from John G. Neihardt to Grace Seiler</title>
+<date when="1969-11-02">November 2, 1969</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Young Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>1 type-written page</p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Seiler, Grace</term>
+<term>Aly, Lucile Folse, 1913-</term>
+<term>Thompson, Lynn</term>
+<term>Thompson, Erika</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Lincoln (Neb.)</term>
+<term>California</term>
+<term>St. Charles County (Mo.)</term>
+</keywords>
+<keywords scheme="lcsh" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John G., 1881-1973.</persName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+<date when="1969-11-02"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Seiler, Grace</persName>
+<placeName ref="http://www.geonames.org/4381982">Columbia (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Seiler, Grace</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2016"><name xml:id="mjc">Carney, Mary Jo</name>Transcription</change>
+<change when="2018"><name xml:id="cme">Elliott, Catherine</name>Initial Encoding</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+<pb facs="nei.n1b.1.35"/>
+<note type="curatorial">35</note>
+
+<opener>
+<address>
+<addrLine>5835 Vine Street</addrLine> 
+<addrLine>Lincoln, <sic>Nenraska</sic> 68505</addrLine> 
+</address>
+<dateline>November 2, 1969</dateline>
+
+<salute>Dear Miss Seiler:</salute>
+</opener>
+
+<p>It was good to hear from you again. Thank you for your nice comments concerning Neihardt Day. I wish
+you could be present sometime.</p> 
+<p>I know you must enjoy being in your childhood home, but I am sorry that you are having trouble
+finding someone to assist with the "chores." I am wondering why you are in your childhood home and
+if you have retired from teaching. It would interest me to know.</p> 
+<p>You say you wish that I would publish the first part of my autobiography. I have decided not to do
+that because my <sic>biographey</sic> ^by Dr. Lucile Aly of the University of Oregon, is scheduled for
+publication in 1970, and this should come out before my autobiography does. However, you will be
+interested in knowing that I am writing steadily and am happy with the results I have been getting.
+I am now in the year 1898. The autobiography, as you know, is not a chronological record of events
+but rather a chain of recollections that seem to have special human meaning.</p> 
+<p>That is a good one about the Turkish farmers and the holes in the sky. It reminds me of the gardener
+who complained about Daylight Saving Time on the grounds that it caused his tomatoes to burn up
+because it gave them too much sunlight. Or how's this one--which also appeared in the newspaper--a
+woman actually wrote in the Letters to the Editor, back in the days when manned space flights were
+first seriously under consideration: "Why don't they stay home and watch television as God intended
+them to do?"</p> 
+<p>My grandchildren are all fine. The one who named her doll "Grace Seiler"--little Lynn--was married
+last summer and is happily living in California. Or was it Erika? She too is married and lives in
+St. Charles, Missouri.</p> 
+<p>Thanks again for your letter. I hope you have a good winter.</p>
+
+<closer>
+<salute>Wtih all kind thoughts,</salute>
+</closer>
+
+</div1>
+
+</body>
+
+<back></back>
+</text>
+</TEI>

@@ -2,112 +2,112 @@
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.29.9-15">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title type="main">Letter from John G. Neihardt to Lucile Aly, August 8, 1960</title>
-                <author>Neihardt, John Gneisenau, 1881-1973</author>
-                <principal>Gossin, Pamela</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date>2013</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <authority>The Papers of John G. Neihardt</authority>
-                <publisher>University of Nebraska-Lincoln</publisher>
-                <distributor>
-                    <name>Center for Digital Research in the Humanities</name>
-                    <address>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Lucile Aly, August 8, 1960</title>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2013</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
 <addrLine>319 Love Library</addrLine>
 <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 <addrLine>cdrh@unlnotes.unl.edu</addrLine>
 </address>
-                </distributor>
-                <pubPlace>Lincoln, Nebraska</pubPlace> 
-                <address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-                <idno>nei.j4c.29.9-15</idno>
-                <availability>
-                    <p></p>
-                </availability>
-            </publicationStmt>
-            
-            <notesStmt><note></note></notesStmt>
-            
-            <sourceDesc>
-                <bibl>
-                    <author>Neihardt, John Gneisenau, 1881-1973</author>
-                    <title level="m" type="main">Letter from John G. Neihardt to Lucile Aly</title>
-                    <date when="1960-08-26">August 26, 1960</date>
-                    <extent>10 pages, plus envelope</extent>
-                </bibl>
-                <msDesc>
-                    <msIdentifier>
-                        <repository>Aly Collection</repository>
-                        <idno></idno>
-                    </msIdentifier>
-                    <msContents>
-                        <p>10 hand-written pages, plus envelope</p>
-                    </msContents>
-                    <physDesc>
-                        <objectDesc>
-                            <supportDesc>
-                                <support></support>
-                                <extent>10 pages
-                                    <dimensions unit="mm"><height></height><width></width></dimensions>
-                                </extent>
-                                <condition>
-                                    <p></p></condition>
-                            </supportDesc>
-                        </objectDesc>
-                        <handDesc hands="1">
-                            <handNote xml:id="type"><p>Media: type</p></handNote>
-                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-                        </handDesc>
-                        <typeDesc>
-                            <typeNote><p></p></typeNote>
-                        </typeDesc>
-                    </physDesc>
-                    <history><origin></origin>
-                        <provenance></provenance>
-                        <acquisition></acquisition>
-                    </history>
-                </msDesc>
-                
-            </sourceDesc>
-        </fileDesc>
-        
-        <encodingDesc>
-            <editorialDecl>
-                <correction>
-                    <p></p>
-                </correction>
-                <normalization>
-                    <p></p>
-                </normalization>
-            </editorialDecl>
-        </encodingDesc>
-        
-        <profileDesc>
-            <textClass>
-                <keywords scheme="original" n="category">
-                    <term>Correspondence</term>
-                </keywords>
-                <keywords scheme="original" n="subcategory">
-                    <term>Business</term>
-                </keywords>
-                <keywords scheme="original" n="topic">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="keywords">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="people">
+<idno>nei.j4c.29.9-15</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<title level="m" type="main">Letter from John G. Neihardt to Lucile Aly</title>
+<date when="1960-08-26">August 26, 1960</date>
+<extent>10 pages, plus envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>10 hand-written pages, plus envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>10 pages
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+<p></p></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="type"><p>Media: type</p></handNote>
+<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p></p></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
 <term>Aly, Martha</term>
 <term>Beverly</term>
 <term>Neihardt, Alice</term>
@@ -119,15 +119,15 @@
 <term>Neihardt, Maxine Melton</term>
 <term>Lewis, Norman</term>
 <term>Thompson, Erica</term>
-                </keywords>
-                <keywords scheme="lcsh" n="places">
+</keywords>
+<keywords scheme="lcsh" n="places">
 <term>Sedalia (Mo.)</term>
 <term>Huntsville (Mo.)</term>
 <term>Boone County (Mo.)</term>
 <term>Maine</term>
 <term>Denver (Colo.)</term>
-                </keywords>
-            </textClass>
+</keywords>
+</textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
@@ -139,162 +139,162 @@
 <placeName>Eugene (Or.)</placeName>
 </correspAction>
 </correspDesc>
-            <particDesc><person role="recipient"><persName>Aly, Lucile Folse, 1913-</persName></person></particDesc>
-        </profileDesc>
-        
-        <revisionDesc>
-            <change when="2014"><name xml:id="lkw">Weakly, Laura K.</name> Keywords</change>
-            <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
-            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
-            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
-            
-        </revisionDesc>
-    </teiHeader>
-    
-    <text>
-        <body>
-            
-            <div1 type="letter">
-                
-                <pb facs="nei.j4c.29.9-15_0001a" />
-                <note type="authorial">Where are Martha &amp; Beverly? Dear people &amp; such good scouts!!</note>
-             <note type="curatorial">110-4</note>
-                
-                <opener>
-                <dateline>Skyrim, 8-26-60</dateline>
-                
-                
-                <salute>Dear Lucile:</salute>
-                </opener>
-                <p>You wrote me such a lovely letter that I feel obligated to write you a lovely letter, and this is it.</p>
-                
-                <p>I <hi rend="underline">was</hi> delighted to hear from you <hi rend="underline">at last</hi>; not that I felt you "owed" me a letter &#8212; you never owe me anything &#8212; but I had heard from Martha &amp; Bower<del/> and, indirectly, from Perky &#8212; but nothing from you; I felt perfectly awful! But now I feel fine thank you so much!</p>	
-                
-                <p>I've just returned from the State Fair
-                
-                <pb facs="nei.j4c.29.9-15_0001b"/>
-                <fw type="authorial">-2-</fw>           <note type="curatorial">Aly Collection</note>
-                
-                horse show at Sedalia. Big doings, I can tell you! Everybody who is anybody in horsedom, was there with his stallions, geldings, mares, and fillies. By golly, <del>you</del> <add>we</add> had competition for sure! We won 4th with Bourbon Stonewall (our wonderful stallion who is only a little boy yet &#8212; just 3 years old.) Bourbon was, according to everyone, the most magnificently beautiful horsie in the ring of around 20 horses. But he is only a country
-                
-                <fw type="curatorial">9</fw>
-                    <pb facs="nei.j4c.29.9-15_0002a"/>
-                <fw type="authorial">-3-</fw>
-                
-                boy, and he had never heard a band before. <add>Never been to the show, either.</add> He was <hi rend="underline">scared</hi>, and he broke every time he passed the dog-gone band. So he got 4th. He <hi rend="italic">did</hi> stand out like a mountain peak above foothills. When the Judge came around to where Alice &amp; Bourbon were parked, he said to Alice: "Girl, in another year you're going to have a wonderful horse." Earl Arnold, a top trainer &amp; horseman, came to the stables
-                
-                <pb facs="nei.j4c.29.9-15_0002b"/>
-                <fw type="authorial">-4-</fw>
-                
-                and said to Alice: "You don't need any horse but him. Just you take care of him and he will make you rich!" (He 
-                <hi rend="italic">is</hi> unbelievably beautiful and fine)</p>
-                
-                <p>Lynn won <hi rend="italic">first</hi> in the 14-years-&amp;-under equitation class. She received a fine trophy. She <hi rend="underline">can</hi> ride. Just before this a horse stepped on her big toe &amp; rubbed the whole nail off!! (I still don't like the Alys at all, and I don't like 
-                
-                <fw type="curatorial">10</fw>
-                    <pb facs="nei.j4c.29-9-15_0003a"/>
-                <fw type="authorial">-5-</fw>
-                
-                Perky either, and I don't like <del/> old man Stewart at all.</p>
-                
-                <p>You don't seem to feel bad because I was so miserable <del/> at your house. I should think you'd feel awful the way I did before your letter came.</p>
-                
-                <p>We won at Huntsville and Shelbina, but we had a bad slump at the Boone County Fair show here. Two of our horses were out of shape. But we got a second and <del/> a fifth</p>
-                
-                <p>I'm alone here with Erica and Coralie &#8212; great pals of mine.
-                
-                <pb facs="nei.j4c.29.9-15_0003b"/>
-                <fw type="authorial">-6-</fw>
-                
-                Of course, Yo-Yo is here. She never leaves me, night or day.</p>
-                
-                <p>It's extremely hot <hi rend="italic">and</hi> dry. There are great cracks in the ground. The grass is burning up &amp; the corn is getting yellow. School is three weeks <add>off.</add> I feel lazy and no-particular-goodish, but I suppose I'll be steaming at every pore and <unclear/> when the day comes for action! Wow!! Does Bower ever sit with his feet on the table and twiddle his thumbs? I'd love to see him
-                    
-                    <fw type="curatorial">11</fw>
-                    <pb facs="nei.j4c.29.9-15_0004a"/>
-                    <fw type="authorial">-7-</fw>
-                    
-                    doing that. You must feel a great relief with that job off your hands.</p>
-                
-                <p>I'm puting an oil furnace in here at Skyrim. I'm too lazy to carry out ashes and shovel coal. Had the old ugly coal bin removed a nice window put in the basement wall. I'll have a nice workshop there, and I'll probably work on gemstones again. That is fun. I need something of the sort. You know I still have a generous
-                    
-                    <pb facs="nei.j4c.29.9-15_0004b"/>
-                    <fw type="authorial">-8-</fw>
-                    
-                    supply of jade.</p>
-                
-                <p>I'm glad you talked to Maxie. Was she "mad" at me? I did write very soon after you were there, <del>I <unclear/></del> I judge. Anyway, I wrote several weeks ago.</p>
-                
-                <p>Here's love to Bower, old man Stewart, &amp; Perky (bless her with her precious, cold nose and her kissy tongue!! Sweet, sweet little people!) And sentiments of highest steam to you, lovely and learned lady! <hi rend="underline">Do</hi> please visit me again before next Xmas!</p>
-                    <closer>
-                    <salute>Affectionately,</salute> <signed>John</signed>
-                    </closer>
-                    
-                    <fw type="curatorial">13</fw>
-                <pb facs="nei.j4c.29.9-15_0005"/>
-                
-                <postscript>
-                    <opener>P. S. (Saturday)</opener>
-                    
-                    <p>Last night a strange man by the name of Norman Lewis found his way out here. He has been a friend of mine since he was in high school, and he has two grandchildren now. He came from Maine &#8212; is driving to Denver and his visit with me was the fulfillment of a promise he made himself long ago that he would manage to see me. Nice chap; and he 
-                    <hi rend="underline">does</hi> know my 
-                        
-                        <fw type="curatorial">13</fw>
-                        <pb facs="nei.j4c.29.9-15_0006"/>
-                        <fw type="authorial">-2-</fw>
-                        
-                        stuff pretty thoroughly. He stayed until midnight.</p>
-                    
-                    <p>Coralie &amp; Erica are playing horse in the front room. They take turn about being the horse, and they use a real saddle! Funny sweet girlies!</p>
-                    <closer>
-                    <salute>Love</salute>
-                    <signed>John</signed>
-                    </closer>
-                </postscript>
-                    
-                <postscript>
-                    <opener>P. P. S.</opener>
-                    <p>The girls &amp; I had pancakes for breakfast. They are enthusiastic about my cooking!!</p> <closer><signed>Jno.</signed></closer>
-                </postscript>
-                
-                <fw type="curatorial">14</fw>
-            
-            </div1>
-            
-            
-            
-            <div1 type="envelope">
-                <pb facs="nei.j4c.29.9-15_0007"/>
-                <fw type="curatorial">15</fw>
-                    
-                <ab type="return">    
-                    John Neihardt
-                    Route 7
-                    <hi rend="underline">Columbia</hi>, Mo.
-                </ab>
-                
-                <ab type="postmark"><unclear cert="high">COLUMB</unclear>IA, MO AUG 27 <unclear/> 1960</ab>
-                <figure>
-                    <figDesc>3 Cent Stamp</figDesc>
-                    <p>U.S. POSTAGE 3¢ IN GOD WE TRUST LIBERTY</p>
-                </figure>
-                <figure>
-                    <figDesc>4 Cent Stamp</figDesc>
-                    <p>UNITED.STATES.POSTAGE FOUR 4 CENTS</p>
-                </figure>
-                
-                <ab type="address">
-                    <address>
-                    <addrLine>Dr. Lucile Aly,</addrLine>
-                    <addrLine><del>1138 22nd Ave.</del>, East,</addrLine>
-                    <addrLine>Eugene,<add><unclear/></add></addrLine>
-                    <addrLine>Oregon.</addrLine>
-                    </address>
-                </ab>
-                
-            </div1>
-        </body>
-        
-        <back></back>
-    </text>
+<particDesc><person role="recipient"><persName>Aly, Lucile Folse, 1913-</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2014"><name xml:id="lkw">Weakly, Laura K.</name> Keywords</change>
+<change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4c.29.9-15_0001a" />
+<note type="authorial">Where are Martha &amp; Beverly? Dear people &amp; such good scouts!!</note>
+ <note type="curatorial">110-4</note>
+
+<opener>
+<dateline>Skyrim, 8-26-60</dateline>
+
+
+<salute>Dear Lucile:</salute>
+</opener>
+<p>You wrote me such a lovely letter that I feel obligated to write you a lovely letter, and this is it.</p>
+
+<p>I <hi rend="underline">was</hi> delighted to hear from you <hi rend="underline">at last</hi>; not that I felt you "owed" me a letter &#8212; you never owe me anything &#8212; but I had heard from Martha &amp; Bower<del/> and, indirectly, from Perky &#8212; but nothing from you; I felt perfectly awful! But now I feel fine thank you so much!</p>	
+
+<p>I've just returned from the State Fair
+
+<pb facs="nei.j4c.29.9-15_0001b"/>
+<fw type="authorial">-2-</fw>   <note type="curatorial">Aly Collection</note>
+
+horse show at Sedalia. Big doings, I can tell you! Everybody who is anybody in horsedom, was there with his stallions, geldings, mares, and fillies. By golly, <del>you</del> <add>we</add> had competition for sure! We won 4th with Bourbon Stonewall (our wonderful stallion who is only a little boy yet &#8212; just 3 years old.) Bourbon was, according to everyone, the most magnificently beautiful horsie in the ring of around 20 horses. But he is only a country
+
+<fw type="curatorial">9</fw>
+<pb facs="nei.j4c.29.9-15_0002a"/>
+<fw type="authorial">-3-</fw>
+
+boy, and he had never heard a band before. <add>Never been to the show, either.</add> He was <hi rend="underline">scared</hi>, and he broke every time he passed the dog-gone band. So he got 4th. He <hi rend="italic">did</hi> stand out like a mountain peak above foothills. When the Judge came around to where Alice &amp; Bourbon were parked, he said to Alice: "Girl, in another year you're going to have a wonderful horse." Earl Arnold, a top trainer &amp; horseman, came to the stables
+
+<pb facs="nei.j4c.29.9-15_0002b"/>
+<fw type="authorial">-4-</fw>
+
+and said to Alice: "You don't need any horse but him. Just you take care of him and he will make you rich!" (He 
+<hi rend="italic">is</hi> unbelievably beautiful and fine)</p>
+
+<p>Lynn won <hi rend="italic">first</hi> in the 14-years-&amp;-under equitation class. She received a fine trophy. She <hi rend="underline">can</hi> ride. Just before this a horse stepped on her big toe &amp; rubbed the whole nail off!! (I still don't like the Alys at all, and I don't like 
+
+<fw type="curatorial">10</fw>
+<pb facs="nei.j4c.29-9-15_0003a"/>
+<fw type="authorial">-5-</fw>
+
+Perky either, and I don't like <del/> old man Stewart at all.</p>
+
+<p>You don't seem to feel bad because I was so miserable <del/> at your house. I should think you'd feel awful the way I did before your letter came.</p>
+
+<p>We won at Huntsville and Shelbina, but we had a bad slump at the Boone County Fair show here. Two of our horses were out of shape. But we got a second and <del/> a fifth</p>
+
+<p>I'm alone here with Erica and Coralie &#8212; great pals of mine.
+
+<pb facs="nei.j4c.29.9-15_0003b"/>
+<fw type="authorial">-6-</fw>
+
+Of course, Yo-Yo is here. She never leaves me, night or day.</p>
+
+<p>It's extremely hot <hi rend="italic">and</hi> dry. There are great cracks in the ground. The grass is burning up &amp; the corn is getting yellow. School is three weeks <add>off.</add> I feel lazy and no-particular-goodish, but I suppose I'll be steaming at every pore and <unclear/> when the day comes for action! Wow!! Does Bower ever sit with his feet on the table and twiddle his thumbs? I'd love to see him
+
+<fw type="curatorial">11</fw>
+<pb facs="nei.j4c.29.9-15_0004a"/>
+<fw type="authorial">-7-</fw>
+
+doing that. You must feel a great relief with that job off your hands.</p>
+
+<p>I'm puting an oil furnace in here at Skyrim. I'm too lazy to carry out ashes and shovel coal. Had the old ugly coal bin removed a nice window put in the basement wall. I'll have a nice workshop there, and I'll probably work on gemstones again. That is fun. I need something of the sort. You know I still have a generous
+
+<pb facs="nei.j4c.29.9-15_0004b"/>
+<fw type="authorial">-8-</fw>
+
+supply of jade.</p>
+
+<p>I'm glad you talked to Maxie. Was she "mad" at me? I did write very soon after you were there, <del>I <unclear/></del> I judge. Anyway, I wrote several weeks ago.</p>
+
+<p>Here's love to Bower, old man Stewart, &amp; Perky (bless her with her precious, cold nose and her kissy tongue!! Sweet, sweet little people!) And sentiments of highest steam to you, lovely and learned lady! <hi rend="underline">Do</hi> please visit me again before next Xmas!</p>
+<closer>
+<salute>Affectionately,</salute> <signed>John</signed>
+</closer>
+
+<fw type="curatorial">13</fw>
+<pb facs="nei.j4c.29.9-15_0005"/>
+
+<postscript>
+<opener>P. S. (Saturday)</opener>
+
+<p>Last night a strange man by the name of Norman Lewis found his way out here. He has been a friend of mine since he was in high school, and he has two grandchildren now. He came from Maine &#8212; is driving to Denver and his visit with me was the fulfillment of a promise he made himself long ago that he would manage to see me. Nice chap; and he 
+<hi rend="underline">does</hi> know my 
+
+<fw type="curatorial">13</fw>
+<pb facs="nei.j4c.29.9-15_0006"/>
+<fw type="authorial">-2-</fw>
+
+stuff pretty thoroughly. He stayed until midnight.</p>
+
+<p>Coralie &amp; Erica are playing horse in the front room. They take turn about being the horse, and they use a real saddle! Funny sweet girlies!</p>
+<closer>
+<salute>Love</salute>
+<signed>John</signed>
+</closer>
+</postscript>
+
+<postscript>
+<opener>P. P. S.</opener>
+<p>The girls &amp; I had pancakes for breakfast. They are enthusiastic about my cooking!!</p> <closer><signed>Jno.</signed></closer>
+</postscript>
+
+<fw type="curatorial">14</fw>
+
+</div1>
+
+
+
+<div1 type="envelope">
+<pb facs="nei.j4c.29.9-15_0007"/>
+<fw type="curatorial">15</fw>
+
+<ab type="return">
+John Neihardt
+Route 7
+<hi rend="underline">Columbia</hi>, Mo.
+</ab>
+
+<ab type="postmark"><unclear cert="high">COLUMB</unclear>IA, MO AUG 27 <unclear/> 1960</ab>
+<figure>
+<figDesc>3 Cent Stamp</figDesc>
+<p>U.S. POSTAGE 3¢ IN GOD WE TRUST LIBERTY</p>
+</figure>
+<figure>
+<figDesc>4 Cent Stamp</figDesc>
+<p>UNITED.STATES.POSTAGE FOUR 4 CENTS</p>
+</figure>
+
+<ab type="address">
+<address>
+<addrLine>Dr. Lucile Aly,</addrLine>
+<addrLine><del>1138 22nd Ave.</del>, East,</addrLine>
+<addrLine>Eugene,<add><unclear/></add></addrLine>
+<addrLine>Oregon.</addrLine>
+</address>
+</ab>
+
+</div1>
+</body>
+
+<back></back>
+</text>
 </TEI>

@@ -2,126 +2,126 @@
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4c.27.26-29">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title type="main">Letter from John G. Neihardt to Lucile Aly, February 24, 1960</title>
-                <author>Neihardt, John Gneisenau, 1881-1973</author>
-                <principal>Gossin, Pamela</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date>2013</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <authority>The Papers of John G. Neihardt</authority>
-                <publisher>University of Nebraska-Lincoln</publisher>
-                <distributor>
-                    <name>Center for Digital Research in the Humanities</name>
-                    <address>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Lucile Aly, February 24, 1960</title>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2013</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
 <addrLine>319 Love Library</addrLine>
 <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 <addrLine>cdrh@unlnotes.unl.edu</addrLine>
 </address>
-                </distributor>
-                <pubPlace>Lincoln, Nebraska</pubPlace> 
-                <address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-                <idno>nei.j4c.27.26-29</idno>
-                <availability>
-                    <p></p>
-                </availability>
-            </publicationStmt>
-            
-            <notesStmt><note></note></notesStmt>
-            
-            <sourceDesc>
-                <bibl>
-                    <author>Neihardt, John Gneisenau, 1881-1973</author>
-                    <title level="m" type="main">Letter from John G. Neihardt to Lucile Aly</title>
-                    <date when="1960-02-24">February 24, 1960</date>
-                    <extent>8 pages</extent>
-                </bibl>
-                <msDesc>
-                    <msIdentifier>
-                        <repository>Aly Collection</repository>
-                        <idno></idno>
-                    </msIdentifier>
-                    <msContents>
-                        <p>8 hand-written pages</p>
-                    </msContents>
-                    <physDesc>
-                        <objectDesc>
-                            <supportDesc>
-                                <support></support>
-                                <extent>8 pages
-                                    <dimensions unit="mm"><height></height><width></width></dimensions>
-                                </extent>
-                                <condition>
-                                    <p></p></condition>
-                            </supportDesc>
-                        </objectDesc>
-                        <handDesc hands="1">
-                            <handNote xml:id="type"><p>Media: type</p></handNote>
-                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-                        </handDesc>
-                        <typeDesc>
-                            <typeNote><p></p></typeNote>
-                        </typeDesc>
-                    </physDesc>
-                    <history><origin></origin>
-                        <provenance></provenance>
-                        <acquisition></acquisition>
-                    </history>
-                </msDesc>
-                
-            </sourceDesc>
-        </fileDesc>
-        
-        <encodingDesc>
-            <editorialDecl>
-                <correction>
-                    <p></p>
-                </correction>
-                <normalization>
-                    <p></p>
-                </normalization>
-            </editorialDecl>
-        </encodingDesc>
-        
-        <profileDesc>
-            <textClass>
-                <keywords scheme="original" n="category">
-                    <term>Correspondence</term>
-                </keywords>
-                <keywords scheme="original" n="subcategory">
-                    <term>Business</term>
-                </keywords>
-                <keywords scheme="original" n="topic">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="keywords">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="people">
-                    <term>House, Julius T. (Julius Temple)</term>
+<idno>nei.j4c.27.26-29</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<title level="m" type="main">Letter from John G. Neihardt to Lucile Aly</title>
+<date when="1960-02-24">February 24, 1960</date>
+<extent>8 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>8 hand-written pages</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>8 pages
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+<p></p></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="type"><p>Media: type</p></handNote>
+<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p></p></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>House, Julius T. (Julius Temple)</term>
 <term>Aly, Stewart</term>
-                </keywords>
-                <keywords scheme="lcsh" n="places">
+</keywords>
+<keywords scheme="lcsh" n="places">
 <term type="from"></term>
-                </keywords>
-                <keywords scheme="lcsh" n="works">
-                    <term>St. Louis Post-Dispatch</term>
+</keywords>
+<keywords scheme="lcsh" n="works">
+<term>St. Louis Post-Dispatch</term>
 <term>Kansas City Journal-Post</term>
 <term>Minneapolis Journal</term>
 <term>Goldenrod</term>
 <term>John G. Neihardt, Man and Poet</term>
-                </keywords>
-            </textClass>
+</keywords>
+</textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Neihardt, John Gneisenau, 1881-1973</persName>
@@ -133,98 +133,98 @@
 <placeName></placeName>
 </correspAction>
 </correspDesc>
-            <particDesc><person role="recipient"><persName>Aly, Lucile Folse, 1913-</persName></person></particDesc>
-        </profileDesc>
-        
-        <revisionDesc>
-            <change when="2015"><name xml:id="lkw">Weakly, Laura K.</name> Keywords; assigned recipient</change>
-            <change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
-            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
-            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
-            
-        </revisionDesc>
-    </teiHeader>
-    
-    <text>
-        <body>
-            
-            <div1 type="letter">
-                
-                <pb facs="nei.j4c.27.26-29_0001a" />
-                <note type="curatorial">101-4 Aly Collection</note>
-                
-                <opener>
-                <dateline>
-                Route 5, Columbia, Mo.
-                2-24-'60
-                </dateline>
-                
-                <salute>Dear Lady:</salute>
-                </opener>
-                <p>Every time I receive a letter from you, it's like a nice rain after a dry spell! Yours of the 17th was a sun shower &#8212; very good for this old man!</p>
-                
-                <p>There are so many things to say, that I don't know what to say first. Your comments on individualism mean a great deal to me. Indeed, I was <hi rend="underline">not</hi> influenced by existentialism. On the contrary, I have regarded it as another manifestation of the anarchic spirit of our time. When I was elaborating my thesis on the mood of our <hi rend="underline">time</hi> and its cause, existentialism had not yet become widely <del/> known and discussed over here. But I think of it as a further proof of my contention as found in so many of my articles in the P-D
-                    
-                    <pb facs="nei.j4c.27.26-29_0001b"/>
-                    <fw type="authorial">-2-</fw>
-                    
-                    (and in the Journal-Post and even the Minn. Journal). In the P-D there must be several articles on the subject, as I remember; and you seem to have at least one in mind when you refer to the sort of person who thinks he is intensely individualistic &#8212; a non-conformist &#8212; when, in fact, he is <del/> <hi rend="underline">slavishly</hi> <hi rend="italic">conforming</hi> <hi rend="underline">to the dominant fashion among "sophiscates"</hi>. I recall an article on the sort of self-styled socialist who is anarchic in his thinking &#8212; while socialism connotes the exact opposite. This <hi rend="underline">is</hi> very common.</p> 
-           
-                <p>What you say about "a follower of the crowd" <del>is the</del> indicates that you must know
-                    
-                    <fw type="curatorial">26</fw>
-                    <pb facs="nei.j4c.27.26-29_0002a"/>
-                    <fw type="authorial">-3-</fw>
-                    
-                    some of my articles bearing on this matter <add>(Was this in the Goldenrod?)</add> I have have always been, in fact and in expressed theory, an individualist. But I have always <hi rend="underline">been</hi> profoundly aware that the individual is important only as a component of social and cosmic pattern. In Dr. House's book this was stated, as you will remember. This is it: <hi rend="underline">I</hi> am nothing in myself; but as a part of a vast pattern, I can partake of the greatness of the pattern; and I am under what I may well regard as
-                    
-                    <pb facs="nei.j4c.27.26-29_0002b"/>
-                    <fw type="authorial">-4-</fw>
-                    
-                    divine compulsion to contribute as much to the pattern as it is possible for me, by effort and sacrifice, to contribute.</p> 
-               
-                <p>O Lucile, <hi rend="underline">dear lady</hi>, I've done that, even tho' what I 
-                    <hi rend="underline">was able</hi> to do <del/><add>may not</add> matter very much; but I know it matters far more than much that was done under a different compulsion.</p>
-                
-                <p>I'm genuinely glad for the message from Old Man Stewart, whether he actually told you to send it, or not. I know he feels that way, and he knows I am deeply fond of him &#8212; if he ever thinks about the matter. He is going to be <hi rend="underline">such a <del>fine</del></hi>
-                    
-                    <fw type="curatorial">27</fw>
-                    <pb facs="nei.j4c.27.26-29_0003a"/>
-                    <fw type="authorial">-5-</fw>
-                    
-                    <hi rend="underline">fine man. I know he is</hi>. And I'd feel greatly flattered if sweet, precious little Perky should have even the vaguest dream-like memory of me. She probably hasn't, but I'll bet she'll be sweet to me when I come back.</p>
-                
-                <p>Animals mean a very great deal to me (<hi rend="underline">Animals!</hi> How funny!) Somewhere someone has remarked that a profound love of animals indicates a nearness to the other world. I <hi rend="underline">do</hi> feel the thrill of truth in this. Last Sunday I went out to Skyrim to visit the darling horses. Four of them were obviously delighted to see me. They crowded against the paddock fence, thrusting their
-                    
-                    <pb facs="nei.j4c.27.26-29_0003b"/>
-                    <fw type="authorial">-6-</fw>
-                    
-                    noses <hi rend="underline">through</hi> the bars and striving to get all the petting, each for himself. They all wanted to be kissed; <hi rend="underline">and they got kissed on the soft place</hi> between the nostril and the mouth. It's a wonderful feeling. There's a touch of ecstacy in it!! The sweet things! Neither they nor I wanted anything in a selfish way. We just felt very close to each other.</p> 
-               
-                <p>Lucile, <hi rend="underline">that is something very good; And very beautiful too</hi>
-                    
-                    <fw type="curatorial">28</fw>
-                    <pb facs="nei.j4c.27.26-29_0004a"/>
-                    <fw type="authorial">-7-</fw>
-                    
-                    Lucile, I'm constantly being surprised and delighted as I go about the campus and the town, at the way people treat me. So very many, whom I do not know, speak to me as though they felt affection. Why should this be? It frightens me, sometimes &#8212; for I fear I may outlive the feeling people have towards me; and I often wish I could <hi rend="italic">go</hi> <hi rend="underline"> before the mood changes</hi>.
-                    
-                    <pb facs="nei.j4c.27.26-29_0004b"/>
-                    <fw type="authorial">-8-</fw>
-                    
-                    I do hope my heart will give out in time &#8212; before an anti-climax can begin!</p>  
-                
-                <p>As for Perky, you just wait until she really gets big, and knows it! I'll bet she will take care of her precious family! I'd hate to be a <del/><add><unclear/></add> around there when she is in full charge!!</p>
-                
-                <p>Old Yo-Yo has some gray <del/> hairs, but she is still very active in social affairs, and the she often tells me where to get off!</p>  
-                <closer>
-                <salute>Love to each of you &#8212; meaning Gramby too, of course.</salute>   <signed>John</signed>
-                </closer>
-                
-                <fw type="curatorial">29</fw>
-            </div1>
-        </body>
-        
-        <back></back>
-    </text>
+<particDesc><person role="recipient"><persName>Aly, Lucile Folse, 1913-</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2015"><name xml:id="lkw">Weakly, Laura K.</name> Keywords; assigned recipient</change>
+<change when="2014"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4c.27.26-29_0001a" />
+<note type="curatorial">101-4 Aly Collection</note>
+
+<opener>
+<dateline>
+Route 5, Columbia, Mo.
+2-24-'60
+</dateline>
+
+<salute>Dear Lady:</salute>
+</opener>
+<p>Every time I receive a letter from you, it's like a nice rain after a dry spell! Yours of the 17th was a sun shower &#8212; very good for this old man!</p>
+
+<p>There are so many things to say, that I don't know what to say first. Your comments on individualism mean a great deal to me. Indeed, I was <hi rend="underline">not</hi> influenced by existentialism. On the contrary, I have regarded it as another manifestation of the anarchic spirit of our time. When I was elaborating my thesis on the mood of our <hi rend="underline">time</hi> and its cause, existentialism had not yet become widely <del/> known and discussed over here. But I think of it as a further proof of my contention as found in so many of my articles in the P-D
+
+<pb facs="nei.j4c.27.26-29_0001b"/>
+<fw type="authorial">-2-</fw>
+
+(and in the Journal-Post and even the Minn. Journal). In the P-D there must be several articles on the subject, as I remember; and you seem to have at least one in mind when you refer to the sort of person who thinks he is intensely individualistic &#8212; a non-conformist &#8212; when, in fact, he is <del/> <hi rend="underline">slavishly</hi> <hi rend="italic">conforming</hi> <hi rend="underline">to the dominant fashion among "sophiscates"</hi>. I recall an article on the sort of self-styled socialist who is anarchic in his thinking &#8212; while socialism connotes the exact opposite. This <hi rend="underline">is</hi> very common.</p> 
+   
+<p>What you say about "a follower of the crowd" <del>is the</del> indicates that you must know
+
+<fw type="curatorial">26</fw>
+<pb facs="nei.j4c.27.26-29_0002a"/>
+<fw type="authorial">-3-</fw>
+
+some of my articles bearing on this matter <add>(Was this in the Goldenrod?)</add> I have have always been, in fact and in expressed theory, an individualist. But I have always <hi rend="underline">been</hi> profoundly aware that the individual is important only as a component of social and cosmic pattern. In Dr. House's book this was stated, as you will remember. This is it: <hi rend="underline">I</hi> am nothing in myself; but as a part of a vast pattern, I can partake of the greatness of the pattern; and I am under what I may well regard as
+
+<pb facs="nei.j4c.27.26-29_0002b"/>
+<fw type="authorial">-4-</fw>
+
+divine compulsion to contribute as much to the pattern as it is possible for me, by effort and sacrifice, to contribute.</p> 
+   
+<p>O Lucile, <hi rend="underline">dear lady</hi>, I've done that, even tho' what I 
+<hi rend="underline">was able</hi> to do <del/><add>may not</add> matter very much; but I know it matters far more than much that was done under a different compulsion.</p>
+
+<p>I'm genuinely glad for the message from Old Man Stewart, whether he actually told you to send it, or not. I know he feels that way, and he knows I am deeply fond of him &#8212; if he ever thinks about the matter. He is going to be <hi rend="underline">such a <del>fine</del></hi>
+
+<fw type="curatorial">27</fw>
+<pb facs="nei.j4c.27.26-29_0003a"/>
+<fw type="authorial">-5-</fw>
+
+<hi rend="underline">fine man. I know he is</hi>. And I'd feel greatly flattered if sweet, precious little Perky should have even the vaguest dream-like memory of me. She probably hasn't, but I'll bet she'll be sweet to me when I come back.</p>
+
+<p>Animals mean a very great deal to me (<hi rend="underline">Animals!</hi> How funny!) Somewhere someone has remarked that a profound love of animals indicates a nearness to the other world. I <hi rend="underline">do</hi> feel the thrill of truth in this. Last Sunday I went out to Skyrim to visit the darling horses. Four of them were obviously delighted to see me. They crowded against the paddock fence, thrusting their
+
+<pb facs="nei.j4c.27.26-29_0003b"/>
+<fw type="authorial">-6-</fw>
+
+noses <hi rend="underline">through</hi> the bars and striving to get all the petting, each for himself. They all wanted to be kissed; <hi rend="underline">and they got kissed on the soft place</hi> between the nostril and the mouth. It's a wonderful feeling. There's a touch of ecstacy in it!! The sweet things! Neither they nor I wanted anything in a selfish way. We just felt very close to each other.</p> 
+   
+<p>Lucile, <hi rend="underline">that is something very good; And very beautiful too</hi>
+
+<fw type="curatorial">28</fw>
+<pb facs="nei.j4c.27.26-29_0004a"/>
+<fw type="authorial">-7-</fw>
+
+Lucile, I'm constantly being surprised and delighted as I go about the campus and the town, at the way people treat me. So very many, whom I do not know, speak to me as though they felt affection. Why should this be? It frightens me, sometimes &#8212; for I fear I may outlive the feeling people have towards me; and I often wish I could <hi rend="italic">go</hi> <hi rend="underline"> before the mood changes</hi>.
+
+<pb facs="nei.j4c.27.26-29_0004b"/>
+<fw type="authorial">-8-</fw>
+
+I do hope my heart will give out in time &#8212; before an anti-climax can begin!</p>  
+
+<p>As for Perky, you just wait until she really gets big, and knows it! I'll bet she will take care of her precious family! I'd hate to be a <del/><add><unclear/></add> around there when she is in full charge!!</p>
+
+<p>Old Yo-Yo has some gray <del/> hairs, but she is still very active in social affairs, and the she often tells me where to get off!</p>  
+<closer>
+<salute>Love to each of you &#8212; meaning Gramby too, of course.</salute>   <signed>John</signed>
+</closer>
+
+<fw type="curatorial">29</fw>
+</div1>
+</body>
+
+<back></back>
+</text>
 </TEI>
