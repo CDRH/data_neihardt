@@ -1,20 +1,154 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 4
-COUNCIL FOR LAY LIFE AND WORK
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.X.X">
+    <teiHeader>
+      <fileDesc>
+            <titleStmt>
+                <title type="main">Letter from John L. Casteel to John G. Neihardt, February 3, 1968</title>
+                <author></author>
+                <principal>Gossin, Pamela</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Papers of John G. Neihardt</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno>nei.j4a.32.4</idno>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author></author>
+                    <title level="m" type="main">Letter from John L. Casteel to John G. Neihardt</title>
+                    <date when="1968-02-03">February 3, 1968</date>
+                    <extent>1 page</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p></p>
+                    </msContents>
+                    
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Correspondence</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Business</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="places">
+                    <term></term>
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="works">
+                    <term>Black Elk Speaks</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName>Casteel, John L.</persName>
+                    <placeName>Simsbur</placeName>
+                    <date when="1968-03-02"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+                    <placeName ref="http://www.geonames.org/4381982">Columbia (Mo.)</placeName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+            </particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="letter">
+                
+                <pb facs="nei.j4a.32.4.001" />
+                <fw type="curatorial">4</fw>
+                <note type="curatorial">4</note>
+                <fw type="letterhead">COUNCIL FOR LAY LIFE AND WORK
 symbol: UNITED CHURCH OF CHRIST THAT THEY ALL BE ONE
 UNITED CHURCH OF CHRIST
 JOHN L. CASTEEL 482 Bushy Hill Road, Simsbury, Connecticut 06070 (203) 658-6680
-General Secretary
-February 3, 1968
-Dr. John G. Neihardt
-The University of Missouri
-Columbia, Missouri
-Dear Dr. Neihardt:
-<p>A friend sends me form one of the Kansas City papers a story about your teach-ing and your life there. I am sure you have no occasion to remember me parti-cularly, but this account called back to mind the time when a friend of mine and I came to see you while we were graduate students at Northwestern Univer-sity and you were literary editor of the St. Louis Post Dispatch. Mrs. Neihardt and you were gracious enough to have us with you over Sunday dinner, and I still remember with great warmth and appreciation the long conversation we had around your fire about the future of the literature of the Midwest.</p>
+General Secretary</fw>
+                <opener>
+<address>
+<addrLine>Dr. John G. Neihardt</addrLine>
+<addrLine>The University of Missouri</addrLine>
+<addrLine>Columbia, Missouri</addrLine></address>
+<dateline>February 3, 1968</dateline>
+                    <salute>Dear Dr. Neihardt:</salute>
+                </opener>
+                
+                <p>A friend sends me form one of the Kansas City papers a story about your teach-ing and your life there. I am sure you have no occasion to remember me parti-cularly, but this account called back to mind the time when a friend of mine and I came to see you while we were graduate students at Northwestern Univer-sity and you were literary editor of the St. Louis Post Dispatch. Mrs. Neihardt and you were gracious enough to have us with you over Sunday dinner, and I still remember with great warmth and appreciation the long conversation we had around your fire about the future of the literature of the Midwest.</p>
+                
 <p>Later I read your BLACK ELK SPEAKS and have that copy before me now, with a car-bon of the letter I wrote you after I had read it, and your very gracious reply.</p>
+
 <p>No doubt these are slight memories to you, if they remain at all, but let me say how rich and how warm they are to me, and how grateful I have been over the years both for the opportunity to talk with you many years ago, and for all that you have done to conserve and enrich the heritage that belongs to us in the Middle West. As one who grew up in Nebraska not far from Bancroft, that heritage is still very close to me.</p>
+
 <p>I wish you continued health and satisfaction in the many concerns that must occupy you and trust that the years will bring you further riches as they come along.</p>
-Yours sincerely,
-<signed>John L. Casteel</signed>
-John L. Casteel
-JLC/mkb
+                <closer>
+                    <salute>Yours sincerely,</salute>
+                    <signed>John L. Casteel</signed>
+                    <note>John L. Casteel</note>
+<note>JLC/mkb</note>
+                </closer>
+                
+            </div1>
+        </body>
+        
+        <back></back>
+    </text>
+</TEI>
+
