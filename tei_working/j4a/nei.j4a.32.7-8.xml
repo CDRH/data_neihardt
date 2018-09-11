@@ -1,19 +1,152 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 7
-6 March 68
-<symbol>UNIVERSITATIS MISSOURIEN MDCCCXXXIX 771015</symbol>
-University of Missouri
-Dear Dr. Neihardt
-<p>My name is Mike Turvey. I obtained your address from your daughter at your home. I am writing you to convey the best wishes of Dr. J.B. Rhine, whom I have a letter-writing relationship with, and who has told me that you are the formost parapshycologist on campus. I am very interested in this field and hope someday to take to you about it. I realize you are extremely busy with youre auto-biography right now, and are likely to be so for quite a while. Your daughter has suggested that until then I might get in touch with Mark and Judy Meadows. They too are interested in this field and would be of some conversational value. Have you any further suggestions? I would appreciate your time as I know it's very</p>
-Page 8
-<symbol>UNIVERSITATIS MISSOURIEN MDCCCXXXIX 771015</symbol>
-University of Missouri
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.32.7-8">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Mike Turvey to John G. Neihardt</title>
+<author>Turvey, Mike</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.32.7-8</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Turvey, Mike</author>
+<title level="m" type="main">Letter from Mike Turvey to John G. Neihardt</title>
+<date when="1968-03-06"></date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term>Rhine, J. B. (Joseph Banks), 1895-1980.</term>
+<term>Meadows, Mark and Judy</term>
+</keywords>
+<keywords scheme="original" n="places">
+<term>Stillwater (Okla.)</term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Mike Turvey</persName>
+<placeName ref="http://www.geonames.org/4381982">Columbia (Mo.)</placeName>
+<date when="1968-03-06"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.32.7-8.001" />
+<fw type="curatorial"></fw>
+<note type="curatorial"></note>
+
+<opener>
+<dateline>6 March 68
+</dateline>
+<salute>Dear Dr. Neihardt</salute>
+</opener>
+
+<note type="curatorial">7</note>
+<p>University of Missouri
+My name is Mike Turvey. I obtained your address from your daughter at your home. I am writing you to convey the best wishes of Dr. J.B. Rhine, whom I have a letter-writing relationship with, and who has told me that you are the formost parapshycologist on campus. I am very interested in this field and hope someday to take to you about it. I realize you are extremely busy with youre auto-biography right now, and are likely to be so for quite a while. Your daughter has suggested that until then I might get in touch with Mark and Judy Meadows. They too are interested in this field and would be of some conversational value. Have you any further suggestions? I would appreciate your time as I know it's very</p>
+
+<note type="curatorial">8</note>
+
 <p>valuable. Please write at your own convinence, and accept my best wishes for your new book also.</p>
-Sincerely yours
-R. Michael Turvey
+
+<closer>
+<salute>Sincerely yours</salute>
+<signed>R. Michael Turvey</signed>
 Mike Turvey
 132 A Hatch Hall
 Bingham Group
 Univ. of Mo.
 Columbia Mo. 65201
-<p>P.S. You might like to know a few things about me, such as: I am on a full football scholarship, I am a sophmore majoring in Education with my area of concentration being English, specif-ically American Literature, I am from Stillwater Oklahoma and am fond of collection books, playing chess and collecting classical, popular and romantic music. I plan to conduct my first ESP experiment (with the cards) in the near future.</p>
+<note></note>
+</closer>
+<postscript><p>P.S. You might like to know a few things about me, such as: I am on a full football scholarship, I am a sophmore majoring in Education with my area of concentration being English, specif-ically American Literature, I am from Stillwater Oklahoma and am fond of collection books, playing chess and collecting classical, popular and romantic music. I plan to conduct my first ESP experiment (with the cards) in the near future.</p></postscript>
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
