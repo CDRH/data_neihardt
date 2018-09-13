@@ -1,26 +1,168 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 13
-FRIENDS OF THE LIBRARY
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.32.13">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Donald C. Dickinson to John G. Neihardt</title>
+<author>Dickinson, Donald C.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.32.13</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Donald C. Dickinson to John G. Neihardt</title>
+<date when="1968-03-22">March 22, 1968</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Dickinson, Donald C.</persName>
+<placeName ref="http://www.geonames.org/4381982">Columbia (Mo.)</placeName>
+<date when="1968-03-22"</date>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.32.13.001" />
+<fw type="curatorial">1</fw>
+<note type="curatorial">1</note>
+
+<opener>
+<address>
+<addrLine>5835 Vine Street</addrLine>
+<addrLine>Lincoln, Nebraska</addrLine> 
+</address>
+<dateline>March 22, 1968
+</dateline>
+<addrLine>Mr. John G. Neihardt</addrLine>
+<salute>Dear Mr. Neihardt:</salute>
+</opener>
+
+<note type="curatorial">Page 13</note>
+<fw type="letterhead">FRIENDS OF THE LIBRARY
 UNIVERSITY OF MISSOURI
 COLUMBIA, MISSOUIR
-65201
-Please return this to me at Route 7, Columbia,
-J.N.
-March 22, 1968
-Mr. John G. Neihardt
-5835 Vine Street
-Lincoln, Nebraska
-Dear Mr. Neihardt:
+65201</fw>
+
+<note>Please return this to me at Route 7, Columbia,
+J.N.</note>
+
 <p>I have a copy of a letter written by Dr. Parker on March 12 mentioning the ceremony we have planned on April 20 in connection with the Friends of the Library. Now, further to Dr. Parker's letter we would like to honor you at the same time with a dedication ceremony of the Neihardt Colleciton and the bust, which we have just mounted. We would like to hold this ceremony in the library following our annual Friends meeting in the afternoon of Saturday, April 20. At this same time we will also be pre-sention Mr. Knipmeyer with an honorarium for his work on the <p>collection.</p>
+
+</p>
 Since we wish to get started with publicity, I would like to know if you would be able to be here with us in Columbia on the date mentioned? Perhaps when you receive this letter you would be kind enought to call me collect here in the library and let me know your thoughts on this matter. Very best wishes to you. I will be looking forward to hearing from you.</p>
-Sincerely,
+
+<closer>
+<salute>Sincerely,</salute>
 <signed>Donald C. Dickinson</signed>
-Donald C. Dickinson
+<note>Donald C. Dickinson
 Secretary
-Friends of the Library
-DCD:cs
-Dear Knipmeyer,
+Friends of the Library</note>
+</closer>
+
+</div1>
+<note>DCD:cs</note>
+<note>Dear Knipmeyer,
 <p>I phoned, as requested, and will be there on April 20th.</p>
 <p>I am surprised you have not heard.</p>
-Love - John N.
-<italics>Serving the Libraries of the University of Missouri on Four Campuses</italics>
+Love - John N.</note>
+<note><italics>Serving the Libraries of the University of Missouri on Four Campuses</italics>
+</note>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
