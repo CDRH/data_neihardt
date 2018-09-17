@@ -1,13 +1,161 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 15
-March 27, 1968
-Dear John,
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.32.15">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Lucile Folse Aly to John G. Neihardt</title>
+<author>Aly, Lucile Folse</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.32.15</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Aly, Lucile Folse</author>
+<title level="m" type="main">Letter from Lucile Folse Aly to John G. Neihardt</title>
+<date when="1968-03-27">March 27, 1968</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term>Mitchell, Floyd</term>
+<term>MacLeish, Archibald, 1892-1982</term>
+<term>Short, Dewey, 1898-1979</term>
+<term>Gray, Sanford D.</term>
+<term>Orpheus</term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Aly, Lucile Folse, 1913-</persName>
+<placeName></placeName>
+<date when="1968-03-27"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.32.15.001" />
+<fw type="curatorial">15</fw>
+<note type="curatorial"></note>
+
+<opener>
+<dateline>March 27, 1968
+</dateline>
+<salute>Dear John,</salute>
+</opener>
+
 <p>Please forgive a typed letter, but I want to get this off. I'm working like a houseafire, and time is of the essence. Many, many thanks for the Omaha Library stuff. I can't think what happened to my letter except that I sent it to the Reference Librarian, and that is not the title used there, I observe. I am grateful to you, and to the Youngs, to whom I will write as soon as I get my class syllabus run--it's a new term. I wish I could have taken off this term, but we simply can't afford it, and I think I can make a May deadline anyway.</p>
+
 <p>I am enclosing a letter I wrote you one night at the coast. I didn't have any way to mail it till I got home, but I thought you might like it anyway--the atmosphere was right to say some things I wanted to tell you. </p>
-<unclear/> <unclear/> <p>The last part is in the process of being typed. I have one short seciton still not in shape I'm ready to accept as exactly right. I have a couple of fact q uestions--footnote stuff--to raise. Who exactly was Floyd Mitchell? He was mentioned in Archibald MacLeish's letter to Dewey Short, and in several of your letters, but I haven't been able to find his exact position. Was he important in the granting of Defense Writing Project jobs? The second question is, have you made commercial recordings besides Sandy Gray's Lyrics and Cycle album for Orpheus?</p>
-Portrait <p>I can tell by the clippings that you are having a fine time. Tell me more about the portrait, and when it is to be unveiled. Is there a Neihardt Day in Bancroft this summer? because I would like to get to it if I can.</p>
+
+<note>unclear</note><p>The last part is in the process of being typed. I have one short seciton still not in shape I'm ready to accept as exactly right. I have a couple of fact q uestions--footnote stuff--to raise. Who exactly was Floyd Mitchell? He was mentioned in Archibald MacLeish's letter to Dewey Short, and in several of your letters, but I haven't been able to find his exact position. Was he important in the granting of Defense Writing Project jobs? The second question is, have you made commercial recordings besides Sandy Gray's Lyrics and Cycle album for Orpheus?</p>
+
+<note>Portrait </note><p>I can tell by the clippings that you are having a fine time. Tell me more about the portrait, and when it is to be unveiled. Is there a Neihardt Day in Bancroft this summer? because I would like to get to it if I can.</p>
+
 <p>Stewart is here for a week, hsi spring vacation. He is in fine fettle, but finding college life a little too non-co-ed for his taste. He is going to school here this summer and plans to have a bit of gaiety along with the Greek and Roman history. I wish he could come to Nebraska with me.</p>
+
 <p>More later; but I'm making progress. You'll have manuscript soon.</p>
-Love form all your <unclear>Oregonians</unclear> -
-Arffff! from me
-Lucile
+
+<closer>
+<salute>Love form all your <unclear>Oregonians</unclear> -</salute>
+<signed></signed>
+<note>Arffff! from me
+Lucile</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
+
+
+
+
+
+

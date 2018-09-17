@@ -1,18 +1,157 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 16
-P.O. Box 481
-Jefferson City, Missouri 65102
-April 10, 1968
-Dr. John G. Neihardt
-Skyrim Farm, Rt. 7
-Columbia, Missouri 65201
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-Dear Dr. Neihardt:
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.32.16">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Gilbert Knipmeyer to John G. Neihardt</title>
+<author>Knipmeyer, Gilbert</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.32.16</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Gilbert Knipmeyer to John G. Neihardt</title>
+<date when="1968-04-10">April 10, 168</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term>Dickinson, Donald C., 1927-2016</term>
+</keywords>
+<keywords scheme="original" n="places">
+<term>Columbia (Mo.)</term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Knipmeyer, Gilbert,1892-1981</persName>
+<placeName ref="http://www.geonames.org/4392388">Jefferson City (Mo.)</placeName>
+<date when="1968-04-10"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/4381982">Columbia (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan</name> Initial encoding</change>
+
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.32.16.001" />
+<fw type="curatorial">16</fw>
+<note type="curatorial"></note>
+
+<opener>
+<address>
+<addrLine>P.O. Box 481</addrLine>
+<addrLine>Jefferson City, Missouri 65102</addrLine>
+</address>
+<address>
+<addrLine>Dr. John G. Neihardt</addrLine>
+<addrLine>Skyrim Farm, Rt. 7</addrLine>
+<addrLine>Columbia, Missouri 65201</addrLine>
+</address>
+<dateline>April 10, 1968
+</dateline>
+<salute>Dear Dr. Neihardt:</salute>
+</opener>
+
 <p>It pleased me very much to receive your communicaitons of April 3rd and I have read the clippings with much interest. </p>
+
 <p>I have received several letters from the University of Missouri Library, and one just today and shall also write in answer to Mr. Dickinson's letter that I shall be in attendance for the Friends of the Library meetings in Columbia April 20th. </p>
+
 <p>I had not heard of the Thomas Jefferson Award on April 12th and should like to be present for this occasion which is taking place on the steps of Jesse Hall, but am not sure I will be able to make it on Good Friday.</p>
+
 <p>Looking forward to seeing you in the near future, I remain with kind regards and pleasant remembrances.</p>
-Sincerely yours,
-Gilbert Knipmeyer
-<p>This matter was beautifully and most generously handled at the ceremony of April 20th, 68.</p>
-J.N.
+
+<closer>
+<salute>Sincerely yours,</salute>
+<signed>Gilbert Knipmeyer</signed>
+<note><p>This matter was beautifully and most generously handled at the ceremony of April 20th, 68.</p>
+J.N.</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
