@@ -1,16 +1,150 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 22
-University of Missouri
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.32.22">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter From Deborah Batterson to John G. Neihardt</title>
+<author>Batterson, Deborah</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.32.22</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter From Deborah Patterson to John G. Neihardt</title>
+<date when="1968-05-15">May 15 1968</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Deborah Patterson</persName>
+<placeName ref="http://www.geonames.org/4381982">Columbia (Mo.)</placeName>
+<date when="1968-05-15"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.32.22.001" />
+<fw type="curatorial">22</fw>
+<note type="curatorial">22</note>
+
+<opener>
+<dateline>May 15, 1968
+</dateline>
+<salute>Dear Dr. Neihardt,</salute>
+</opener>
+<fw type="curatorial">Page 22</fw>
+<fw type="letterhead">University of Missouri
 Columbia, Missouri 65201
 Office of Public Information
 223 Jesse Hall
 Phone 449-9311
-Area 314
-May 15, 1968
-Dear Dr. Neihardt,
+Area 314</fw>
+
 <p>We of the Faculty Bulletin staff wanted you to know how pleased we were to be able to use one of your poems in our publication. Your poetry is a delight.</p>
+
 <p>We thought you might like to see the issue, so we have enclosed a copy. Thank you again.</p>
-Sincerely,
+
+<closer>
+<salute>Sincerely,</salute>
 <signed>Mrs. Deborah Batterson</signed>
-Mrs. Deborah Batterson
-Editor, Faculty Bulletin
+<note>Mrs. Deborah Batterson
+Editor, Faculty Bulletin</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

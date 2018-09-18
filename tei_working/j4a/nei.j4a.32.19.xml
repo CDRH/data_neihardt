@@ -1,15 +1,151 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 19
-April 23, 1968
-Dear John: It is always good to hear the many nice things about you which members of my family in Nebraska tell me.
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.32.19">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Esse T. Emmert to John G. Neihardt</title>
+<author>Emmert, Esse T.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.32.19</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Esse T. Emmert to John G. Neihardt</title>
+<date when="1968-04-23">April 23, 1968</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term>Memphis (Tenn.)</term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Emmert, Esse Teich</persName>
+<placeName ref="http://www.geonames.org/5063451">Bancroft (Neb.)</placeName>
+<date when="1968-04-23"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.32.19.001" />
+<fw type="curatorial">19</fw>
+<note type="curatorial"></note>
+
+<opener>
+<dateline>April 23, 1968
+</dateline>
+<salute>Dear John: It is always good to hear the many nice things about you which members of my family in Nebraska tell me.</salute>
+</opener>
+
 <p>Your work has brought you many rewards you richly deserve. How wonderful to have your daughters so near you! </p>
+
 <p>I appreciated very much the letter you wrote and especially what you said about my mother. She dearly loved your family. Your oldest sister was my first teacher in school.</p>
+
 <p>Few years ago we moved to this place in Idaho from Glacier Park. My husband retired then from the National Park Service, we have lived in all the western Parks.</p>
+
 <p>Our house as pictured here on the other side has been torn down but memories of our happy family remain. We have one son and two grandchildren who live in Memphis.</p>
-Best wishes and loving thoughts from your old friend
-Esse T. Emmert
-423 Hubbard Ave.
+
+<closer>
+<salute>Best wishes and loving thoughts from your old friend</salute>
+<signed>Esse T. Emmert</signed>
+<note>423 Hubbard Ave.
 Coeur Dalene, Id
-83814
-The Teich Family Home 
-Bancroft, Nebraska
+83814</note>
+<figure><ab>The Teich Family Home 
+Bancroft, Nebraska</ab></figure>
+
+</closer>
+
+</div1>
+</body>
+<back></back>
+</text>
+</TEI>
