@@ -1,212 +1,190 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.1.26-34_0001-9">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title type="main">Letter from Bliss Carman to John G. Neihardt, December 17, 1909</title>
-                <author>Neihardt, John Gneisenau, 1881-1973</author>
-                <principal>Gossin, Pamela</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date>2013</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <authority>The Papers of John G. Neihardt</authority>
-                <publisher>University of Nebraska-Lincoln</publisher>
-                <distributor>
-                    <name>Center for Digital Research in the Humanities</name>
-                    <address>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Bliss Carman to John G. Neihardt, December 17, 1909</title>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2013</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
 <addrLine>319 Love Library</addrLine>
 <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 <addrLine>cdrh@unlnotes.unl.edu</addrLine>
 </address>
-                </distributor>
-                <pubPlace>Lincoln, Nebraska</pubPlace> 
-                <address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-                <idno>nei.j4a.1.26-34_0001-9</idno>
-                <availability>
-                    <p></p>
-                </availability>
-            </publicationStmt>
-            
-            <notesStmt><note></note></notesStmt>
-            
-            <sourceDesc>
-                <bibl>
-                    <author>Neihardt, John Gneisenau, 1881-1973</author>
-                    <title level="m" type="main">Letter from Bliss Carman to John G. Neihardt</title>
-                    <date when="1909-12-17">December 17, 1909</date>
-                    <extent>9 pages</extent>
-                </bibl>
-                <msDesc>
-                    <msIdentifier>
-                        <repository></repository>
-                        <idno></idno>
-                    </msIdentifier>
-                    <msContents>
-                        <p>9 hand-written pages</p>
-                    </msContents>
-                    <physDesc>
-                        <objectDesc>
-                            <supportDesc>
-                                <support></support>
-                                <extent>9 pages
-                                    <dimensions unit="mm"><height></height><width></width></dimensions>
-                                </extent>
-                                <condition>
-                                    <p></p></condition>
-                            </supportDesc>
-                        </objectDesc>
-                        <handDesc hands="1">
-                            <handNote xml:id="type"><p>Media: type</p></handNote>
-                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-                        </handDesc>
-                        <typeDesc>
-                            <typeNote><p></p></typeNote>
-                        </typeDesc>
-                    </physDesc>
-                    <history><origin></origin>
-                        <provenance></provenance>
-                        <acquisition></acquisition>
-                    </history>
-                </msDesc>
-                
-            </sourceDesc>
-        </fileDesc>
-        
-        <encodingDesc>
-            <editorialDecl>
-                <correction>
-                    <p></p>
-                </correction>
-                <normalization>
-                    <p></p>
-                </normalization>
-            </editorialDecl>
-        </encodingDesc>
-        
-        <profileDesc>
-            <textClass>
-                <keywords scheme="original" n="category">
-                    <term>Correspondence</term>
-                </keywords>
-                <keywords scheme="original" n="subcategory">
-                    <term>Business</term>
-                </keywords>
-                <keywords scheme="original" n="topic">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="keywords">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="people">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="places">
-                    <term></term>
-                </keywords>
-            </textClass>
-            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
-        </profileDesc>
-        
-        <revisionDesc>
-            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
-            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
-            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
-            
-        </revisionDesc>
-    </teiHeader>
-    
-    <text>
-        <body>
-            
-            <div1 type="letter">
-                
-                <pb facs="nei.j4a.1.26-34_0001" />
+<idno>nei.j4a.1.26-34_0001-9</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<title level="m" type="main">Letter from Bliss Carman to John G. Neihardt</title>
+<date when="1909-12-17">December 17, 1909</date>
+<extent>9 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
 
 
-                                                                                                                <fw type="curatorial">26</fw> 
 
-                <opener> 
-                                                                <dateline>
-                                                                     New Canaan, Conn.
-                                                                    17. December. 1909
-                                                                </dateline>
-                                                                      -------------
-                <salute>My dear Neihardt:</salute></opener> <p>I am very glad to have your letter of the <emph>12th</emph> It clears up an unfortunate mistake, and greatly relieves my mind.</p>
-                    
-                    <p>I can see now why you thought me insincere, and I don't wonder. I think when we meet, you will smile at the idea that I would write my reviews to suit my editor. I think I am far too disinterested to do that; indeed I am usually <unclear>considered</unclear> indifferent where work is concerned, and seldom write when I don't have to.</p>
-                
-                <pb facs="nei.j4a.1.26-34_0002"/>                                                                                                                                <fw type="curatorial">27</fw> 
-                <fw type="authorial"><emph><hi rend="underline">2.</hi></emph></fw>
-                
-                    <p>You are right in the main about <title><hi rend="underline">The Times</hi></title> and yet you are unjust too. As you say the <title><hi rend="underline">Times</hi></title> is a timid straddling sheet, afraid to have an opinion of a downright character. It is not exactly a time-server &#8212; not at all in fact &#8212; <unclear>but</unclear> just the respectable commonplace experiences of average people; it thinks as they think &#8212; that is to say it seldom thinks at all. In attempting the independent (I speak of the main part of the paper) it becomes merely noncommittal and indulges in lay editorials that get nowhere.</p>
-                    
-                    <p>It has no <unclear>caricatures,</unclear> nothing but
-                
-                <pb facs="nei.j4a.1.26-24_0003"/>                                                                                                                                  <fw type="curatorial">28</fw> 
-                <fw type="authorial"><emph><hi rend="underline">3.</hi></emph></fw>
-                
-                well-mannered platitudinizing. Its Saturday Supplement has the same colorless appearance. No one even suspects it to say anything <unclear>definite or</unclear> emphatic. It doesn't <emph><hi rend="underline">know</hi></emph> enough. It never has had a man of international critical acumen behind it &#8212; like Henley of the <title><hi rend="underline">National Observer</hi></title> for example. Who could have a very definite view on literary matters and came out with it. Such a policy would be suicidal in a review unless the management could afford such an editor. The <title><hi rend="underline">Times</hi></title> would make itself ridiculous in a month,
-                       
-                <pb facs="nei.j4a.1.26-34_0004"/>                                                                                                               <fw type="curatorial">29</fw> 
-                <fw type="authorial"><emph><hi rend="underline">4.</hi></emph></fw>
-                        
-                if it tried to have an original idea either in politics or criticism. It's just like the average citizen &#8212; afraid to think. Of course it is ineffectual. But no one that I know even thinks of it as a force in the intellectual life of the country or the city. This is the tendency in old communities. They grow academic and stagnant. Don't blame them. They are only <emph><hi rend="underline"><unclear>conserving</unclear></hi></emph> what they already have. Nothing could be more deadening to creative impulse than Oxford, I suppose and <unclear>yet one must revere</unclear> her.
-          
-                <pb facs="nei.j4a.1.26-34_0005"/>                                                                                                                         <fw type="curatorial">30</fw> 
-                <fw type="authorial"><emph><hi rend="underline">5.</hi></emph></fw>
-                        
-                So I do not hold <title><hi rend="underline">The Times</hi></title> in disrespect, any more than I hold the average person in disrespect. But certainly I don't look for originality <unclear>from</unclear> either.</p>
-                
-                    <p>On the other hand it would never occur to me to think that any of the signed reviews in <title><hi rend="underline">The Times</hi></title> were inspired by the Editors. I never heard such an idea expressed before. And I am confident it is <unclear>erroneous</unclear>. Certainly it is in my own case. No suggestions were even made to me as to what direction my reviews should take.</p>
-                
-                <pb facs="nei.j4a.1.26-34_0006"/>                                                                                                                                <fw type="curatorial">31</fw> 
-                <fw type="authorial"><emph><hi rend="underline">6.</hi></emph></fw>
-                
-                <p>So that I believe you do the old sheet an injustice here.</p>
-                    
-                <p>I don't know who your correspondent in New Rochelle may be. But it is quite untrue that I was asked to rewrite my review of your book. I was given the proof to read as usual, and <unclear>Water</unclear> suggested that my notice as it stood seemed to imply that this was your <emph><hi rend="underline">first</hi></emph> volume. I thereupon inserted some sentences in the proof, but nothing was changed.</p>
-                    
-                <p>Maybe I am over-academic
-                
-                <pb facs="nei.j4a.1.26-34_0007"/>                                                                                                                            <fw type="curatorial">32</fw> 
-                <fw type="authorial"><emph><hi rend="underline">7.</hi></emph></fw>
-                
-                myself. I grew up on Arnold. <unclear>For</unclear> years he was my chief teacher. And he does not encourage one to let enthusiasm run at will. I value creative energy most, but I value critical reserve also. And I try to maintain both. All the years that I was <del><unclear>most</unclear></del><add>so much</add> under Arnold's influence I was also even more devoted to Emerson. Now in attempting to keep a joint critical balance very likely I fall over backwards.</p>
-                    
-                <p>Dail expects too much of the East &#8212; the poor little old
-                
-                <pb facs="nei.j4a.1.26-34_0008"/>                                                                                                                                <fw type="curatorial">33</fw> 
-                <fw type="authorial"><emph><hi rend="underline">8.</hi></emph></fw>
-                
-                rocky acres &amp; the sea. It has made New Englanders what they are. And <unclear>you big</unclear> Westerners must be tolerant. If we don't always give you elbow room, be patient. You have the spaces and the to-morrows to fill.</p>
-                    
-                <p>And after all we have Gerald Stanley Lee! I had a chat with him in Northampton about <del/> a month ago. Do you know him personally? He's a rare Emersonian bird. We talked of you and your books
-                
-                <pb facs="nei.j4a.1.26-34_0009"/>                                                                                                                                <fw type="curatorial">34</fw> 
-                <fw type="authorial"><emph><hi rend="underline">9.</hi></emph></fw>
-                        
-                with much appreciation. And I too once was in California and Arizona and felt that I had got home somehow.</p>
-                    
-                <p>So here's a Merry Christmas to you and best wishes <unclear>Ew</unclear></p>
-                <closer>              
-                                                                            <salute>Yours</salute>
-                    
-                                                                        <signed>Bliss Carman</signed>
-                </closer>
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName></persName>
+<placeName></placeName>
+<date when="1900"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+</profileDesc>
 
-            </div1>
-        </body>
-        
-        <back></back>
-    </text>
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Review, Additional Encoding</change>
+<change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.1.26-34_0001" />
+
+
+<fw type="curatorial">26</fw> 
+
+<opener> 
+<dateline>
+ New Canaan, Conn.
+17. December. 1909
+</dateline>
+  -------------
+<salute>My dear Neihardt:</salute></opener> <p>I am very glad to have your letter of the <emph>12th</emph> It clears up an unfortunate mistake, and greatly relieves my mind.</p>
+
+<p>I can see now why you thought me insincere, and I don't wonder. I think when we meet, you will smile at the idea that I would write my reviews to suit my editor. I think I am far too disinterested to do that; indeed I am usually <unclear>considered</unclear> indifferent where work is concerned, and seldom write when I don't have to.</p>
+
+<pb facs="nei.j4a.1.26-34_0002"/><fw type="curatorial">27</fw> 
+<fw type="authorial"><emph><hi rend="underline">2.</hi></emph></fw>
+
+<p>You are right in the main about <title><hi rend="underline">The Times</hi></title> and yet you are unjust too. As you say the <title><hi rend="underline">Times</hi></title> is a timid straddling sheet, afraid to have an opinion of a downright character. It is not exactly a time-server &#8212; not at all in fact &#8212; <unclear>but</unclear> just the respectable commonplace experiences of average people; it thinks as they think &#8212; that is to say it seldom thinks at all. In attempting the independent (I speak of the main part of the paper) it becomes merely noncommittal and indulges in lay editorials that get nowhere.</p>
+
+<p>It has no <unclear>caricatures,</unclear> nothing but
+
+<pb facs="nei.j4a.1.26-24_0003"/>  <fw type="curatorial">28</fw> 
+<fw type="authorial"><emph><hi rend="underline">3.</hi></emph></fw>
+
+well-mannered platitudinizing. Its Saturday Supplement has the same colorless appearance. No one even suspects it to say anything <unclear>definite or</unclear> emphatic. It doesn't <emph><hi rend="underline">know</hi></emph> enough. It never has had a man of international critical acumen behind it &#8212; like Henley of the <title><hi rend="underline">National Observer</hi></title> for example. Who could have a very definite view on literary matters and came out with it. Such a policy would be suicidal in a review unless the management could afford such an editor. The <title><hi rend="underline">Times</hi></title> would make itself ridiculous in a month,
+   
+<pb facs="nei.j4a.1.26-34_0004"/>   <fw type="curatorial">29</fw> 
+<fw type="authorial"><emph><hi rend="underline">4.</hi></emph></fw>
+
+if it tried to have an original idea either in politics or criticism. It's just like the average citizen &#8212; afraid to think. Of course it is ineffectual. But no one that I know even thinks of it as a force in the intellectual life of the country or the city. This is the tendency in old communities. They grow academic and stagnant. Don't blame them. They are only <emph><hi rend="underline"><unclear>conserving</unclear></hi></emph> what they already have. Nothing could be more deadening to creative impulse than Oxford, I suppose and <unclear>yet one must revere</unclear> her.
+  
+<pb facs="nei.j4a.1.26-34_0005"/> <fw type="curatorial">30</fw> 
+<fw type="authorial"><emph><hi rend="underline">5.</hi></emph></fw>
+
+So I do not hold <title><hi rend="underline">The Times</hi></title> in disrespect, any more than I hold the average person in disrespect. But certainly I don't look for originality <unclear>from</unclear> either.</p>
+
+<p>On the other hand it would never occur to me to think that any of the signed reviews in <title><hi rend="underline">The Times</hi></title> were inspired by the Editors. I never heard such an idea expressed before. And I am confident it is <unclear>erroneous</unclear>. Certainly it is in my own case. No suggestions were even made to me as to what direction my reviews should take.</p>
+
+<pb facs="nei.j4a.1.26-34_0006"/><fw type="curatorial">31</fw> 
+<fw type="authorial"><emph><hi rend="underline">6.</hi></emph></fw>
+
+<p>So that I believe you do the old sheet an injustice here.</p>
+
+<p>I don't know who your correspondent in New Rochelle may be. But it is quite untrue that I was asked to rewrite my review of your book. I was given the proof to read as usual, and <unclear>Water</unclear> suggested that my notice as it stood seemed to imply that this was your <emph><hi rend="underline">first</hi></emph> volume. I thereupon inserted some sentences in the proof, but nothing was changed.</p>
+
+<p>Maybe I am over-academic
+
+<pb facs="nei.j4a.1.26-34_0007"/><fw type="curatorial">32</fw> 
+<fw type="authorial"><emph><hi rend="underline">7.</hi></emph></fw>
+
+myself. I grew up on Arnold. <unclear>For</unclear> years he was my chief teacher. And he does not encourage one to let enthusiasm run at will. I value creative energy most, but I value critical reserve also. And I try to maintain both. All the years that I was <del><unclear>most</unclear></del><add>so much</add> under Arnold's influence I was also even more devoted to Emerson. Now in attempting to keep a joint critical balance very likely I fall over backwards.</p>
+
+<p>Dail expects too much of the East &#8212; the poor little old
+
+<pb facs="nei.j4a.1.26-34_0008"/><fw type="curatorial">33</fw> 
+<fw type="authorial"><emph><hi rend="underline">8.</hi></emph></fw>
+
+rocky acres &amp; the sea. It has made New Englanders what they are. And <unclear>you big</unclear> Westerners must be tolerant. If we don't always give you elbow room, be patient. You have the spaces and the to-morrows to fill.</p>
+
+<p>And after all we have Gerald Stanley Lee! I had a chat with him in Northampton about <del/> a month ago. Do you know him personally? He's a rare Emersonian bird. We talked of you and your books
+
+<pb facs="nei.j4a.1.26-34_0009"/><fw type="curatorial">34</fw> 
+<fw type="authorial"><emph><hi rend="underline">9.</hi></emph></fw>
+
+with much appreciation. And I too once was in California and Arizona and felt that I had got home somehow.</p>
+
+<p>So here's a Merry Christmas to you and best wishes <unclear>Ew</unclear></p>
+<closer>  
+<salute>Yours</salute>
+
+<signed>Bliss Carman</signed>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
 </TEI>

@@ -1,198 +1,174 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.1.1-2_0001-2">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title type="main">Letter from Anna B. Bright to John G. Neihardt, September 7, 1900</title>
-                <author>Neihardt, John Gneisenau, 1881-1973</author>
-                <principal>Gossin, Pamela</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date>2013</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <authority>The Papers of John G. Neihardt</authority>
-                <publisher>University of Nebraska-Lincoln</publisher>
-                <distributor>
-                    <name>Center for Digital Research in the Humanities</name>
-                    <address>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.1.1-2">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Anna B. Bright to John G. Neihardt, September 7, 1900</title>
+<author>Bright, Anna B.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2013</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
 <addrLine>319 Love Library</addrLine>
 <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 <addrLine>cdrh@unlnotes.unl.edu</addrLine>
 </address>
-                </distributor>
-                <pubPlace>Lincoln, Nebraska</pubPlace> 
-                <address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-                <idno>nei.j4a.1.1-2_0001-2</idno>
-                <availability>
-                    <p></p>
-                </availability>
-            </publicationStmt>
-            
-            <notesStmt><note></note></notesStmt>
-            
-            <sourceDesc>
-                <bibl>
-                    <author>Neihardt, John Gneisenau, 1881-1973</author>
-                    <title level="m" type="main">Letter from Anna B. Bright to John G. Neihardt</title>
-                    <date when="1900-09-07">September 7, 1900</date>
-                    <extent>2 pages</extent>
-                </bibl>
-                <msDesc>
-                    <msIdentifier>
-                        <repository></repository>
-                        <idno></idno>
-                    </msIdentifier>
-                    <msContents>
-                        <p>2 hand-written pages</p>
-                    </msContents>
-                    <physDesc>
-                        <objectDesc>
-                            <supportDesc>
-                                <support></support>
-                                <extent>2 pages
-                                    <dimensions unit="mm"><height></height><width></width></dimensions>
-                                </extent>
-                                <condition>
-                                    <p></p></condition>
-                            </supportDesc>
-                        </objectDesc>
-                        <handDesc hands="1">
-                            <handNote xml:id="type"><p>Media: type</p></handNote>
-                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-                        </handDesc>
-                        <typeDesc>
-                            <typeNote><p></p></typeNote>
-                        </typeDesc>
-                    </physDesc>
-                    <history><origin></origin>
-                        <provenance></provenance>
-                        <acquisition></acquisition>
-                    </history>
-                </msDesc>
-                
-            </sourceDesc>
-        </fileDesc>
-        
-        <encodingDesc>
-            <editorialDecl>
-                <correction>
-                    <p></p>
-                </correction>
-                <normalization>
-                    <p></p>
-                </normalization>
-            </editorialDecl>
-        </encodingDesc>
-        
-        <profileDesc>
-            <textClass>
-                <keywords scheme="original" n="category">
-                    <term>Correspondence</term>
-                </keywords>
-                <keywords scheme="original" n="subcategory">
-                    <term>Business</term>
-                </keywords>
-                <keywords scheme="original" n="topic">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="keywords">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="people">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="places">
-                    <term></term>
-                </keywords>
-            </textClass>
-            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
-        </profileDesc>
-        
-        <revisionDesc>
-            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
-            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
-            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
-            
-        </revisionDesc>
-    </teiHeader>
-    
-    <text>
-        <body>
-            
-            <div1 type="letter">
-                
-                <pb facs="nei.j4a.1.1-2_0001" />
-                                
-                <note type="curatorial">Missouri Collection</note>
-                <fw type="curatorial">1</fw>
-                    
-                <fw type="letterhead">Winside Public Schools, 
-                <hi rend="caps">C. H.</hi> Bright, Principal.
-                
-                <head>WINSIDE, NEBRASKA, Sept. 7, 1900.</head> 
-                
-                    <address>
-                        <addrLine>Mr. John <hi rend="caps">G.</hi> Neihardt,</addrLine>
-                        <addrLine>Bancroft, Neb.</addrLine>
-                    </address>
-                </opener>
-                <p>Friend John &#8212; Your letter was received Monday but as this is the first week of school I am a little tardy in answering. I inclose<sic>enclose</sic> the recommendation which I trust may be of some assistance to you. I was glad to learn you had decided to take up that line of work.</p>
-                
-                <p>All goes well with us. I have thirty two in my room and Mr. <hi rend="caps">B.</hi> has eleven in his.</p>
-                
-                <p>Give my love to your Mother, Lulu and Grace.</p>
-                <p>With best wishes for your success, I remain</p>
-                
-                
-                    <salute>Your friend,</salute>
-                
-                
-                    <signed>Anna B. Bright.</signed>
-                </closer>
-            
-            </div1>
-            
-            
-            <div1 type="letter">
-                
-                <pb facs="nei.j4a.1.1-2_0002"/>
-                
-                <note type="curatorial">Missouri Collection </note> 
-                <fw type="curatorial">2</fw>
-                
-                <fw type="letterhead">Winside Public Schools,
-                <hi rend="caps">C. H.</hi> Bright, Principal.
-                
-                
-                                                        <head><hi rend="caps">WINSIDE, NEBRASKA</hi>, Sept. 7, 1900.</head> 
-                
-                
-                                                                               
-                    <salute>To whom it may concern:&#8212;</salute>
-                </opener>
-                <p>The bearer John <hi rend="caps">G.</hi> Neihardt has been known to me for a number of years. As a former teacher in the College he attended, I can say that as a student he was remarkable for his <hi rend="underline">application</hi> and <hi rend="underline">proficiency.</hi></p>
-                    
-                <p>He has made special preparation along the lines of Latin and Literature. His work in this preparation has been marked by depth of research and uncommon penetration.</p>
-                    
-                <p>In the absence of instructors, he frequently conducted the Latin classes to the satisfaction of all.</p>
-                    
-                <p>I think him capable of filling any position as teacher of Latin and Literature for which he may apply.</p>
-                
-                <closer>
-                                                                                <salute>Yours respectfully,</salute>
-                                                                    
-                
-                                                                                <signed>Mrs. Anna B. Bright.</signed>
-                </closer>
+<idno>nei.j4a.1.1-2</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Bright, Anna B.</author>
+<title level="m" type="main">Letter from Anna B. Bright to John G. Neihardt</title>
+<date when="1900-09-07">September 7, 1900</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Missouri Collection</repository>
+<idno></idno>
+</msIdentifier>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>McDonald, Lulu</term>
+<term>Neihardt-Ballinger, Grace</term>
+<term>Neihardt, Alice Culler</term>
+<!-- <term>Mr. B</term> -->
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Bright, Anna B.</persName>
+<placeName ref="http://www.geonames.org/5082121">Winside (Neb.)</placeName>
+<date when="1900-09-07"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5063451">Bancroft (Neb.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Review, Additional Encoding</change>
+<change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.1.1-2_0001" />
+
+<note type="curatorial">Missouri Collection</note>
+<fw type="curatorial">1</fw>
+
+<fw type="letterhead">Winside Public Schools, 
+<hi rend="caps">C. H.</hi> Bright, Principal.</fw>
+<opener>
+<fw type="letterhead">WINSIDE, NEBRASKA, Sept. 7, 1900.</fw> 
+
+<address>
+<addrLine>Mr. John G. Neihardt,</addrLine>
+<addrLine>Bancroft, Neb.</addrLine>
+</address>
+</opener>
+<p>Friend John &#8212; Your letter was received Monday but as this is the first week of school I am a little tardy in answering. I inclose the recommendation which I trust may be of some assistance to you. I was glad to learn you had decided to take up that line of work.</p>
+
+<p>All goes well with us. I have thirty two in my room and Mr. B. has eleven in his.</p>
+
+<p>Give my love to your Mother, Lulu and Grace.</p>
+<closer>
+<salute>With best wishes for your success, I remain</salute>
+
+<salute>Your friend,</salute>
+
+<signed>Anna B. Bright.</signed>
+</closer>
+
+</div1>
+
+
+<div1 type="enclosure">
+
+<pb facs="nei.j4a.1.1-2_0002"/>
+
+<note type="curatorial">Missouri Collection </note> 
+<fw type="curatorial">2</fw>
+
+<fw type="letterhead">Winside Public Schools,
+<hi rend="caps">C. H.</hi> Bright, Principal.</fw>
+
+<opener>
+<fw type="letterhead"><hi rend="caps">WINSIDE, NEBRASKA</hi>, Sept. 7, 1900.</fw> 
+   
+<salute>To whom it may concern:&#8212;</salute>
+</opener>
+<p>The bearer John G. Neihardt has been known to me for a number of years. As a former teacher in the College he attended, I can say that as a student he was remarkable for his <hi rend="underline">application</hi> and <hi rend="underline">proficiency.</hi></p>
+
+<p>He has made special preparation along the lines of Latin and Literature. His work in this preparation has been marked by depth of research and uncommon penetration.</p>
+
+<p>In the absence of instructors, he frequently conducted the Latin classes to the satisfaction of all.</p>
+
+<p>I think him capable of filling any position as teacher of Latin and Literature for which he may apply.</p>
+
+<closer>
+<salute>Yours respectfully,</salute>
+
+
+<signed>Mrs. Anna B. Bright.</signed>
+</closer>
 </div1>
 </body>
 

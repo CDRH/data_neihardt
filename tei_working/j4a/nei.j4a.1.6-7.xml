@@ -1,192 +1,195 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.1.6-7_0001-2">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title type="main">Letter from Robert H. Davis to John G. Neihardt, November 17, 1905</title>
-                <author>Neihardt, John Gneisenau, 1881-1973</author>
-                <principal>Gossin, Pamela</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date>2013</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <authority>The Papers of John G. Neihardt</authority>
-                <publisher>University of Nebraska-Lincoln</publisher>
-                <distributor>
-                    <name>Center for Digital Research in the Humanities</name>
-                    <address>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Robert H. Davis to John G. Neihardt, November 17, 1905</title>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2013</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
 <addrLine>319 Love Library</addrLine>
 <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 <addrLine>cdrh@unlnotes.unl.edu</addrLine>
 </address>
-                </distributor>
-                <pubPlace>Lincoln, Nebraska</pubPlace> 
-                <address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-                <idno>nei.j4a.1.6-7_0001-2</idno>
-                <availability>
-                    <p></p>
-                </availability>
-            </publicationStmt>
-            
-            <notesStmt><note></note></notesStmt>
-            
-            <sourceDesc>
-                <bibl>
-                    <author>Neihardt, John Gneisenau, 1881-1973</author>
-                    <title level="m" type="main">Letter from Robert H. Davis to John G. Neihardt</title>
-                    <date when="1905-11-17">November 17, 1905</date>
-                    <extent>2 pages</extent>
-                </bibl>
-                <msDesc>
-                    <msIdentifier>
-                        <repository></repository>
-                        <idno></idno>
-                    </msIdentifier>
-                    <msContents>
-                        <p>2 type-written pages</p>
-                    </msContents>
-                    <physDesc>
-                        <objectDesc>
-                            <supportDesc>
-                                <support></support>
-                                <extent>2 pages
-                                    <dimensions unit="mm"><height></height><width></width></dimensions>
-                                </extent>
-                                <condition>
-                                    <p></p></condition>
-                            </supportDesc>
-                        </objectDesc>
-                        <handDesc hands="1">
-                            <handNote xml:id="type"><p>Media: type</p></handNote>
-                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-                        </handDesc>
-                        <typeDesc>
-                            <typeNote><p></p></typeNote>
-                        </typeDesc>
-                    </physDesc>
-                    <history><origin></origin>
-                        <provenance></provenance>
-                        <acquisition></acquisition>
-                    </history>
-                </msDesc>
-                
-            </sourceDesc>
-        </fileDesc>
-        
-        <encodingDesc>
-            <editorialDecl>
-                <correction>
-                    <p></p>
-                </correction>
-                <normalization>
-                    <p></p>
-                </normalization>
-            </editorialDecl>
-        </encodingDesc>
-        
-        <profileDesc>
-            <textClass>
-                <keywords scheme="original" n="category">
-                    <term>Correspondence</term>
-                </keywords>
-                <keywords scheme="original" n="subcategory">
-                    <term>Business</term>
-                </keywords>
-                <keywords scheme="original" n="topic">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="keywords">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="people">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="places">
-                    <term></term>
-                </keywords>
-            </textClass>
-            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
-        </profileDesc>
-        
-        <revisionDesc>
-            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
-            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
-            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
-            
-        </revisionDesc>
-    </teiHeader>
-    
-    <text>
-        <body>
-            
-            <div1 type="letter">
-                
-                <pb facs="nei.j4a.1.6-7_0001" />
-                
-                <note type="curatorial">4 Davis Collection <hi rend="caps">N Y</hi> Pub Lib</note> 
-                <fw type="curatorial">6</fw>
-                
-                <opener>
-                    <hi rend="caps">RHD</hi>-125
-                    
-                                                        <dateline>
-                                                            New York City, 
-                
-                                                                November 17, 1905.
-                                                        </dateline>
-                
-                    <address>
-                        <addrLine>Mr. John <hi rend="caps">G.</hi> Neihardt,</addrLine>
-                
-                            <addrLine>Bancroft, Nebraska.</addrLine>
-                    </address>
-                
-                    <salute>My dear Neihardt:</salute>
-                </opener>
-                <p>"Myrrh" received. A cursory inspection of a few of the verses leads me to the impression that parts of it ought to be fumigated. I know that warm, passionate nature of yours is difficult to suppress, but I think you had a tremendous gall to send this through the United States Mail.</p>
-                    
-                <p>Nevertheless, it has the true Swinburnian touch here and there, and, in future years, when you have passed away and the Omaha Indians are decorating your grave with poppies and butter-cups, some passing stranger will scatter white rose leaves across your tomb.</p>
-                    
-                <p>I mean by this, that your fame will probably arrive at a moment when you are not present to enjoy it. Poetry at its best is a difficult thing, but I am going to make a conscientious effort to place this with some publisher with courage enough to print it.</p>
-                    
-                <p>Are you a married man? I suspect not, or you would not have written some of the lines to that invisible, fugitive thing called "woman."</p>
-                    
-                <p>Mr. Dooley says that a hero is a man who buys steel common when it is selling at .58, but my private opinion is
-                
-                    <pb facs="nei.j4a.1.6-7_0002"/>
-                                                                                                                                                <fw type="curatorial">7</fw> 
-                    <fw type="authorial">Mr. John <hi rend="caps">G.</hi> Neihardt, ----------<hi rend="caps">RHD</hi>-126.</fw>
-                
-                that a hero is a man who writes poetry when it is not selling at all.</p>
-                    
-                <p>Your lines &#8212; "If This Be Sin" and "Let Down Your Hair" look like the real thing to me.</p>
-                    
-                <p>However, I am interested in any man, friendly to the Indians, and I will do the best I can. Some day this week I will read the work through.</p>
-                
-                    <milestone unit="section"/>
-                                        <ab>---------------</ab>
-                
-                <p>By all means get two or three Indian authorities to drop us a line, and I will see that they are properly utilized.</p>
-                    
-                <p>Have you ever thought of writing a serial &#8212; a serial novel &#8212; running, say, between 40,000 and 60,000 words? I should think something strong could be turned out in your neck of the woods, with the re-habilitated Indians as a back-ground. If you are interested in the idea, I would be pleased if you would send me a brief scenario of any plot that may come tumbling into your head. Somehow or other, I think you are going to write a pretty good yarn sooner or later, about these people, and I want to be the first to read it, &#8212;&#8212; also, you are a cordial party, the same which is scarce even in the Kingdom of Heaven.</p>
-                <closer>
-                                                <salute>Very sincerely yours,</salute>
-                    
-                                <note>E.</note>
-                </closer>
-                
-            </div1>
-        </body>
-        
-        <back></back>
-    </text>
+<idno>nei.j4a.1.6-7_0001-2</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<title level="m" type="main">Letter from Robert H. Davis to John G. Neihardt</title>
+<date when="1905-11-17">November 17, 1905</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>2 type-written pages</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>2 pages
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+<p></p></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="type"><p>Media: type</p></handNote>
+<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p></p></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName></persName>
+<placeName></placeName>
+<date when="1900"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Review, Additional Encoding</change>
+<change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.1.6-7_0001" />
+
+<note type="curatorial">4 Davis Collection <hi rend="caps">N Y</hi> Pub Lib</note> 
+<fw type="curatorial">6</fw>
+
+<opener>
+<hi rend="caps">RHD</hi>-125
+
+<dateline>
+New York City, 
+
+November 17, 1905.
+</dateline>
+
+<address>
+<addrLine>Mr. John <hi rend="caps">G.</hi> Neihardt,</addrLine>
+
+<addrLine>Bancroft, Nebraska.</addrLine>
+</address>
+
+<salute>My dear Neihardt:</salute>
+</opener>
+<p>"Myrrh" received. A cursory inspection of a few of the verses leads me to the impression that parts of it ought to be fumigated. I know that warm, passionate nature of yours is difficult to suppress, but I think you had a tremendous gall to send this through the United States Mail.</p>
+
+<p>Nevertheless, it has the true Swinburnian touch here and there, and, in future years, when you have passed away and the Omaha Indians are decorating your grave with poppies and butter-cups, some passing stranger will scatter white rose leaves across your tomb.</p>
+
+<p>I mean by this, that your fame will probably arrive at a moment when you are not present to enjoy it. Poetry at its best is a difficult thing, but I am going to make a conscientious effort to place this with some publisher with courage enough to print it.</p>
+
+<p>Are you a married man? I suspect not, or you would not have written some of the lines to that invisible, fugitive thing called "woman."</p>
+
+<p>Mr. Dooley says that a hero is a man who buys steel common when it is selling at .58, but my private opinion is
+
+<pb facs="nei.j4a.1.6-7_0002"/>
+<fw type="curatorial">7</fw> 
+<fw type="authorial">Mr. John <hi rend="caps">G.</hi> Neihardt, ----------<hi rend="caps">RHD</hi>-126.</fw>
+
+that a hero is a man who writes poetry when it is not selling at all.</p>
+
+<p>Your lines &#8212; "If This Be Sin" and "Let Down Your Hair" look like the real thing to me.</p>
+
+<p>However, I am interested in any man, friendly to the Indians, and I will do the best I can. Some day this week I will read the work through.</p>
+
+<milestone unit="section"/>
+<ab>---------------</ab>
+
+<p>By all means get two or three Indian authorities to drop us a line, and I will see that they are properly utilized.</p>
+
+<p>Have you ever thought of writing a serial &#8212; a serial novel &#8212; running, say, between 40,000 and 60,000 words? I should think something strong could be turned out in your neck of the woods, with the re-habilitated Indians as a back-ground. If you are interested in the idea, I would be pleased if you would send me a brief scenario of any plot that may come tumbling into your head. Somehow or other, I think you are going to write a pretty good yarn sooner or later, about these people, and I want to be the first to read it, &#8212;&#8212; also, you are a cordial party, the same which is scarce even in the Kingdom of Heaven.</p>
+<closer>
+<salute>Very sincerely yours,</salute>
+
+<note>E.</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
 </TEI>
