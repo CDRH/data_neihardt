@@ -1,23 +1,162 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 9
-WORLD PUBLISHING COMPANY
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.32a.9">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Tom Allan to John G. Neihardt, August 19, 1968</title>
+<author>Tom Allan</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.32a.9</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Tom Allan to John G. Neihardt, August 19, 1968</title>
+<date when="1968-08-19">August 19, 1968</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term>Bancroft (Neb.)</term>
+<term>Lincoln (Neb.)</term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Tom Allan</persName>
+<placeName ref="http://www.geonames.org/5074472">Omaha (Neb.)</placeName>
+<date when="1968-08-19"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.32a.9.001" />
+<fw type="curatorial">9</fw>
+<note type="curatorial"></note>
+
+<fw type="letterhead">WORLD PUBLISHING COMPANY
 OWNER AND PUBLISHER
 Omaha World-Herald
 THE NEWSPAPER OF THE MIDLANDS
 WORLD-HERALD SQUARE
-OMAHA, NEBRASKA 68102
-August 19, 1968
-Dear Doc,
+OMAHA, NEBRASKA 68102</fw>
+
+<opener>
+<dateline>August 19, 1968
+</dateline>
+<salute>Dear Doc,</salute>
+</opener>
+
+
 <p>It warmed my heart again to receive your letter and to know that you enjoyed the program and my reports of it in both story and column.</p>
+
 <p>As you well know you are someone very special in my heart and I might add, since you met her, also Marilyn's.</p>
+
 <p>I am living in Lincoln and you can reach me through Marilyn's office at 432-3383 at any time.</p>
+
 <p>We would like to have dinner with you some night so that you can hear yourself in one of your finest hours. We taped the highlights of the program at Bancroft and you might just be in-terested in hearing it again in case you have forgotten the magic moments of that day.</p>
+
 <p>I am also enclosing some photographys of those moments.</p>
+
 <p>Would you let me know what day or evening would be convenient. We could have you over for dinner, we could go out for dinner, or pick a picturesque evening when we can picnic on the shore of a nearby lake that we know where you could add another beautiful sunset to your memories.</p>
-With affectionate regards, I am
-Sincerely,
+
+<closer>
+<salute>With affectionate regards, I am
+Sincerely,</salute>
 <signed>Tom</signed>
-Tom Allan
+<note>Tom Allan
 Dr. John Neihardt
 5835 Vine St.
-Lincoln Nebr.
+Lincoln Nebr.</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
