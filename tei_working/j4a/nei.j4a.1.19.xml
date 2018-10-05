@@ -6,7 +6,7 @@
 <fileDesc>
 <titleStmt>
 <title type="main">Letter from Robert H. Davis to John G. Neihardt, November 18, 1907</title>
-<author>Neihardt, John Gneisenau, 1881-1973</author>
+<author>Davis, Robert H. (Robert Hobart), 1869-1942</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
 <editionStmt>
@@ -41,42 +41,16 @@
 
 <sourceDesc>
 <bibl>
-<author>Neihardt, John Gneisenau, 1881-1973</author>
+<author>Davis, Robert H. (Robert Hobart), 1869-1942</author>
 <title level="m" type="main">Letter from Robert H. Davis to John G. Neihardt</title>
 <date when="1907-11-18">November 18, 1907</date>
 <extent>1 page</extent>
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
+<repository>New York Public Library, Robert H. Davis Papers</repository>
 <idno></idno>
 </msIdentifier>
-<msContents>
-<p>1 type-written page</p>
-</msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>1 page
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-<p></p></condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote><p></p></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
 </msDesc>
 
 </sourceDesc>
@@ -104,19 +78,25 @@
 <keywords scheme="lcsh" n="places">
 <term></term>
 </keywords>
+<keywords scheme="lcsh" n="works">
+<term>The Face in the Balcony</term>
+<term>The All-Story Magazine</term>
+<term>A Bundle of Myrrh</term>
+<term>The Dawn Builder</term>
+</keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName></persName>
+<persName ref="http://viaf.org/viaf/33493460">Davis, Robert H. (Robert Hobart), 1869-1942</persName>
 <placeName></placeName>
-<date when="1900"/>
+<date when="1907-11-18"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
+<placeName ref="http://www.geonames.org/5063451">Bancroft (Neb.)</placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
@@ -135,11 +115,12 @@
 
 <pb facs="nei.j4a.1.19" />
 
-<note type="curatorial">25 Davis Coll <hi rend="caps">N Y</hi> Pub Lib</note>   <fw type="curatorial">19</fw> 
+<note type="curatorial">25 Davis Coll N Y Pub Lib</note>   <fw type="curatorial">19</fw> 
 
 <opener>
-   <dateline>November 18, 1907.</dateline>
-<hi rend="caps">R. H. D.</hi>
+R. H. D.
+<dateline>November 18, 1907.</dateline>
+
 
 <salute>My dear Neihardt:&#8212;</salute>
 </opener>
@@ -157,7 +138,7 @@
 
 
 <address>
-<addrLine>John <hi rend="caps">G.</hi> Neihardt, Esq.</addrLine>
+<addrLine>John G. Neihardt, Esq.</addrLine>
 <addrLine>Bancroft,</addrLine>
 <addrLine>Nebraska.</addrLine>
 </address>

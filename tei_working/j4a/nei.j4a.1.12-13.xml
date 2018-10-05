@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.1.12-13_0001-2">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.1.12-13">
 <teiHeader>
 <fileDesc>
 <titleStmt>
 <title type="main">Letter from Robert H. Davis to John G. Neihardt, November 14, 1906</title>
-<author>Neihardt, John Gneisenau, 1881-1973</author>
+<author>Davis, Robert H. (Robert Hobart), 1869-1942</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
 <editionStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4a.1.12-13_0001-2</idno>
+<idno>nei.j4a.1.12-13</idno>
 <availability>
 <p></p>
 </availability>
@@ -41,42 +41,16 @@
 
 <sourceDesc>
 <bibl>
-<author>Neihardt, John Gneisenau, 1881-1973</author>
+<author>Davis, Robert H. (Robert Hobart), 1869-1942</author>
 <title level="m" type="main">Letter from Robert H. Davis to John G. Neihardt</title>
 <date when="1906-11-14">November 14, 1906</date>
 <extent>2 pages</extent>
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
+<repository>Missouri Collection</repository>
 <idno></idno>
 </msIdentifier>
-<msContents>
-<p>2 type-written pages</p>
-</msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>2 pages
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-<p></p></condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="2">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote><p></p></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
 </msDesc>
 
 </sourceDesc>
@@ -99,24 +73,27 @@
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Streamer, Volney, 1850-1915</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
 <term></term>
 </keywords>
+<keywords scheme="lcsh" n="works">
+<term>Mignon</term>
+</keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName></persName>
-<placeName></placeName>
-<date when="1900"/>
+<persName ref="http://viaf.org/viaf/33493460">Davis, Robert H. (Robert Hobart), 1869-1942</persName>
+<placeName ref="http://www.geonames.org/5128581">New York City (N.Y.)</placeName>
+<date when="1906-11-14"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
 <placeName></placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
@@ -138,10 +115,9 @@
 <fw type="curatorial">Missouri Collection</fw>   <fw type="curatorial">12</fw>
 
 
-  <fw type="letterhead">  
-  <hi rend="caps">THE FRANK A. MUNSEY COMPANY
+  <fw type="letterhead">THE FRANK A. MUNSEY COMPANY
   <lb/>
-  175 FIFTH AVENUE, NEW YORK</hi>
+  175 FIFTH AVENUE, NEW YORK
   </fw>
 <fw>-6-</fw>
 
@@ -163,7 +139,7 @@ November 14, 1906.</dateline>
 
 <p>I would not take a thousand dollars for your reply to the "Mignon" criticism. It was the snort of the enraged buffalo, pawing the turf and bellowing defiance. Don't worry about my throwing any more lariats over you. I got my hand between the rope and the pommel and it is well skinned. Let's go over and have a drink somewhere, and cut it out. No man should have a lady like Mignon on his staff without defending her.</p>
 
-<p>I am enclosing your letter to Streamer as I read him my letter to you, and it would be unfair to with-hold<sic>withhold</sic> the former after having
+<p>I am enclosing your letter to Streamer as I read him my letter to you, and it would be unfair to with-hold the former after having
 
 <pb facs="nei.j4a.1.12-13_0002"/>   
 <fw>-7-</fw> <fw type="curatorial">13</fw>
@@ -181,7 +157,7 @@ displayed the latter. I am also enclosing your letter about the poem, which shal
 
 
 <address>
-<addrLine>John <hi rend="caps">G.</hi> Neihardt, Esq.,</addrLine>
+<addrLine>John G. Neihardt, Esq.,</addrLine>
 <addrLine>Bancroft, Nebraska.</addrLine>
 </address>
 
