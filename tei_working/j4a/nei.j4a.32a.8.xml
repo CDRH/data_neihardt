@@ -1,11 +1,144 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 8
-THE PACIFIC HISTORIAN
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.32a.8">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Leland D. Case to John G. Neihardt, August 10, 1968</title>
+<author>Case, Leland D.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.32a.8</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Leland D. Case to John G. Neihardt, August 10, 1968</title>
+<date when="1968-08-10">August 10, 1968</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term>O'Bryon, Martha Seffer </term>
+<term>Smith, E. D. (Ezra Delos), 1854-1926</term>
+</keywords>
+<keywords scheme="original" n="places">
+<term>Tucson (Ariz.)</term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="http://viaf.org/viaf/254462807">Case, Leland D. (Leland Davidson), 1900-1986</persName>
+<placeName ref="http://www.geonames.org/5318313">Tucson (Ariz.)</placeName>
+<date when="1968-08-10"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/4381982">Columbia (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.32a.8.001" />
+<fw type="curatorial">8</fw>
+<note type="curatorial"></note>
+
+<fw type="letterhead">THE PACIFIC HISTORIAN
 AN illustrated quaterly of Western History....Official organ of the California History Foundation, the Jedediah Smith Society, and the Westerners Foundation
 1851
-PUBLISHED BY THE UNIVERSITY OF THE PACCIFIC, STOCKTON, CALIFORNIA 95204
-Rt. 8, Box 397 Tucson, Arizona
-EDITOR
+PUBLISHED BY THE UNIVERSITY OF THE PACCIFIC, STOCKTON, CALIFORNIA 95204</fw>
+
+<opener>
+<address>
+<addrLine>Dr. John G. Neihardt</addrLine>
+<addrLine>Skyrim Farm</addrLine>
+<addrLine>Route 7</addrLine>
+<addrLine>Columbia, Missouri</addrLine>
+</address>
+<dateline>August 10, 1968
+</dateline>
+<salute>Dear John:
+</salute>
+</opener>
+
+
+<fw type="sidebar">EDITOR
 LELAND D. CASE
 EDITORIAL ASSOCIATES
 R. R. STUART
@@ -33,9 +166,9 @@ Historian, National Park
 Service, Washington, D.C.
 R. COKE WOOD
 Director, Conference of 
-California Historical Societies
+California Historical Societies</fw>
 
-U.O.P. MEMBERSHIP COMMITTEE
+<fw type="sidebar">U.O.P. MEMBERSHIP COMMITTEE
 JOHN F. HIGGINS, Chairman
 LEE APPERSON
 Businessman, Stockton
@@ -57,20 +190,31 @@ Junior, School of Speech
 ERNESTINE S. SMUTNY
 Serials Librarian
 RICHARD K. WILLIAMS
-Dean of Men
-August 10, 1968
-Dr. John G. Neihardt
-Skyrim Farm
-Route 7
-Columbia, Missouri
-Dear John:
+Dean of Men</fw>
+
 <p>Have I written you since I returned the Univeristy of the Pacific to our cactused acres and our adobe abode over here at Tucson? I've forgotten -- but now matter, because I've got a new bit of news to report.</p>
+
 <p>Its that finally I am getting myself phased out of the editorship of The Pacific Historian. I promised President Burns at the University that I would carry it on for awhile, and finally they've added Mrs. Martha Seffer O'Bryon full time to the staff so that she can take over.</p>
+
 <p>The last time we exchanged letters, as I recall it, we had up the possibility of your doing a piece for The Pacific Historian on how you got interested in Jedediah Smith, but more particularly your special information about and insight into his death at the hands of Comanches over there on the Cimarron River. Remember?</p>
+
 <p>Then, too, you had a manuscript of a book by Ezra Delos Smith - a novel I believe - which we were thinking might well become a part of the Jededian Smith collections. Remember?</p>
+
 <p>Well, in as much as I am detaching myself from The Pacific Historian, I'll refer these two matters to Mrs. O'Bryon. I'm sure you will enjoy exchange of letters with her. She comes from Illinois, in fact went to Carl Sandburgs college at Galesburg.</p>
+
 <p>I do hope the summer is treating you well - and ofter!</p>
-Cordially,
+
+
+<closer>
+<salute>Cordially,</salute>
 <signed>Leland</signed>
-Leland D. Case
-CC: Mrs. O'Bryon
+<note>Leland D. Case</note>
+<note>CC: Mrs. O'Bryon</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
