@@ -1,9 +1,155 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 11
-September 4, 1968
-Dear John,
-<p>Here's the <underline>Tree</underline> chapter and I am so sorry not to have gotten this off earlier. I have been in a terrible bind, as you guessed. The doctor thought Daddy would be better off at home, and we had an unexpected hang-up on the arrangements for people to help me, so I had to do it all myself. It was a pleasure to take care of Daddy, but it took all my time and more than all my energy; we finally got set up with nurses and aids, and then he had a bad collapse and we took him to the hospital two days ago, ambulance and all--but they didn't this time blow the siren, thank goodness. So now I'm at work again; Bower and Stewart xxx are spelling me at the hospital, and I am going to finsih within the next three weeks. I am revising the second chapter which I will send you as soon as possible--it's the lyrics and <underline>River and I</underline> and <underline>Dawn-Builder</underline>, which, by the way, is a really good book. I'm so glad I didn't finish this biography five years ago when this chapter was written--I didn't see then what I see now! You will like this version. I have completely scrapped the section on the lyrics and rewritten it; also I have shifted the chapter around to get the analysis at the end so that it focuses emphasis on the lyrics themselves. This is the pattern in the other chapters, so I decided to treat the lyrics as one group.</p>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.32a.11">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Lucile F. Aly to John G. Neihardt, September 4, 1968</title>
+<author>Aly, Lucile Folse, 1913-</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.X.X</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Lucile F. Aly to John G. Neihardt, September 4, 1968</title>
+<date when="1968-09-04">September 4, 1968</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term>River and I</term>
+<term>Dawn-Builder</term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Aly, Lucile Folse, 1913-</persName>
+<placeName></placeName>
+<date when="1900"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.32a.11.001" />
+<fw type="curatorial">11</fw>
+<note type="curatorial"></note>
+
+<opener>
+<dateline>September 4, 1968
+</dateline>
+<salute>Dear John,</salute>
+</opener>
+
+<p>Here's the <hi rend="underline">Tree</hi> chapter and I am so sorry not to have gotten this off
+earlier. I have been in a terrible bind, as you guessed. The doctor thought Daddy would be better
+off at home, and we had an unexpected hang-up on the arrangements for people to help me, so I had to
+do it all myself. It was a pleasure to take care of Daddy, but it took all my time and more than all
+my energy; we finally got set up with nurses and aids, and then he had a bad collapse and we took
+him to the hospital two days ago, ambulance and all--but they didn't this time blow the siren, thank
+goodness. So now I'm at work again; Bower and Stewart xxx are spelling me at the hospital, and I am
+going to finsih within the next three weeks. I am revising the second chapter which I will send you
+as soon as possible--it's the lyrics and <hi rend="underline">River and I</hi> and
+<hi rend="underline">Dawn-Builder</hi>, which, by the way, is a really good book. I'm so glad I didn't finish this biography five years ago when this chapter was written--I didn't see then what I see now! You will like this version. I have completely scrapped the section on the lyrics and rewritten it; also I have shifted the chapter around to get the analysis at the end so that it focuses emphasis on the lyrics themselves. This is the pattern in the other chapters, so I decided to treat the lyrics as one group.</p>
+
 <p>I am so sorry I couldn't get to Nebraska for the Neihardt Day. I felt real grief about that--but I'll come to see you yet, some way. I appreciated Mrs. Vogt's letter; she has worked hard for this event, and it means a great deal to her. Can someone take a picture of you with the gold wreath for me? Just to be sure I have them all, before I wind up the last chapter, make me a list of the honors of the last eight years, will you? I don't want to leave out any of the laurel sprigs.</p>
+
 <p>This isn't much of a letter; I'll do better as soon as I get this chapter done. Also, I'll try to write to Mrs. Young tomorrow--I appreciate everything she does. I'm looking forward to reading your manuscript.</p>
-Much love. I hope this doesn't sound too hurried - we're all a bit upset.
-Lucile
+
+<closer>
+<salute>
+Much love. I hope this doesn't sound too hurried - we're all a bit upset.</salute>
+<signed>Lucile</signed>
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
