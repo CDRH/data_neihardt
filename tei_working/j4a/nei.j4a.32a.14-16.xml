@@ -1,18 +1,156 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 14
-Tues., Sept. 10, '68
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.32a.14.16">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Marjorie Kelley Holtz to John G. Neihardt, September 10, 1968</title>
+<author>Holtz, Majorie K.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.32a.14.16</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Marjorie Kelley Holtz to John G. Neihardt, September 10, 1968</title>
+<date when="1968-09-10">September 10, 1968</date>
+<extent>3 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term>Brown, Bobby</term>
+<term>Gibbs, Lester C.</term>
+<term>Wilde, Oscar, 1854-1900.</term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term>Ballad Of The Reading Gaol.</term>
+<term>A Cycle Of The West</term>
+<term>Song Of The Indian Wars</term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Holtz, Majorie K.</persName>
+<placeName></placeName>
+<date when="1968-09-10"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.32a.14.16.001" />
+<fw type="curatorial">14</fw>
+<note type="curatorial"></note>
+
+<opener>
+<dateline>Tues., Sept. 10, '68
 9:00 A.M.
-Dear Sir,
+</dateline>
+<salute>Dear Sir,</salute>
+</opener>
+
 <p>While we were both compaigning for Bobby Brown for Sherriff of Munroe County, Florida, the Flordia Keys, that is, (which we won, by the way,) I met an old friend of yours, Lester C. Gibbs. A pupil and admirer I should say! Whe I started coming out with my favorite excerpts from Oscar Wilde's "Ballad Of The Reading Gaol.", he asked if I weren't part Indian, (As I do look it,) and came back at me with excerpts from your "A Cycle Of The West," and "Song Of The Indian Wars,", and I must say, if we hadn't been working I would love to have been able to hear the whole thing.</p>
+
 <p>Having been very hastily transferred by the Submarine Service to Newport News Virginia, I no longer had occasion to speak to your friend, but I would greatly appreciate it, if you could tell me where I could find your books in this decadent town!</p>
-Page 15
-II
-<p>So far, <underline>all two</underline> book stores have promised to look into it, but I have received no further word!</p>
+
+<fw type="curatorial">15</fw>
+<note>II</note>
+<p>So far, <hi rend="underline">all two</hi> book stores have promised to look into it, but I have received no further word!</p>
+
 <p>I am only half <unclear>esquimaux</unclear>, but I'll bet we could sure square this vote away if they'de only give us back half?</p>
-<p>From what Mr. Gibbs said, you are a most unusual man. If you ever are unbusy enough, I would surely love to hear from you. I am 35 summers, raise Pit Bull Terriers, (Strictly against the law,) and read! And I am entirely lost amongst these people. I worked one week and got fired because I was accused of making fun of the customers by using words they didn't understand. This is not conceit, sir, it is just that I have never met this type people before; as I only completed the 2<underline>nd</underline> year of High School myself.</p>
+
+<p>From what Mr. Gibbs said, you are a most unusual man. If you ever are unbusy enough, I would
+surely love to hear from you. I am 35 summers, raise Pit Bull Terriers, (Strictly against the law,)
+and read! And I am entirely lost amongst these people. I worked one week and got fired because I was
+accused of making fun of the customers by using words they didn't understand. This is not conceit,
+sir, it is just that I have never met this type people before; as I only completed the 2<hi
+rend="underline">nd</hi> year of High School myself.</p>
+
 <p>Would thorougly enjoy hearing from you, if you ever have time.</p>
-Page 16
-III
+
+<fw type="curatorial">16</fw>
+<note>III</note>
+
 <p>In the mean time Mr. Gibbs asked me to pass on his address which is,
 LESTER C. GIBBS
 SALES REPRESENTATIVE
@@ -20,7 +158,18 @@ SALES REPRESENTATIVE
 and mine sir is
 MRS. MARJORIE KELLEY HOLTZ
 #LOT 9, 5959 JEFFERSON AVE.,
-NEWPORT NEWS, VA., 23605<p/>
-Thank You,
-Sincerely
-Marjorie Kelley Holtz
+NEWPORT NEWS, VA., 23605</p>
+
+<closer>
+<salute>Thank You,
+Sincerely</salute>
+<signed>Marjorie Kelley Holtz</signed>
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
