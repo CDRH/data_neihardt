@@ -6,12 +6,12 @@
 <fileDesc>
 <titleStmt>
 <title type="main">Letter from Robert H. Davis to John G. Neihardt, June 30, 1908</title>
-<author>Neihardt, John Gneisenau, 1881-1973</author>
+<author>Davis, Robert H. (Robert Hobart), 1869-1942</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
 <editionStmt>
 <edition>
-<date>2013</date>
+<date>2018</date>
 </edition>
 </editionStmt>
 <publicationStmt>
@@ -41,42 +41,17 @@
 
 <sourceDesc>
 <bibl>
-<author>Neihardt, John Gneisenau, 1881-1973</author>
+<author>Davis, Robert H. (Robert Hobart), 1869-1942</author>
 <title level="m" type="main">Letter from Robert H. Davis to John G. Neihardt</title>
 <date when="1908-06-30">June 30, 1908</date>
 <extent>1 page</extent>
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
+<repository>New York Public Library, Robert H. Davis Papers</repository>
 <idno></idno>
 </msIdentifier>
-<msContents>
-<p>1 type-written page</p>
-</msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>1 page
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-<p></p></condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote><p></p></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
+
 </msDesc>
 
 </sourceDesc>
@@ -99,24 +74,27 @@
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Neihardt, Alice Culler</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>Temagami (Canada)</term>
+</keywords>
+<keywords scheme="lcsh" n="works">
+<term>Man-Song</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName></persName>
+<persName ref="http://viaf.org/viaf/33493460">Davis, Robert H. (Robert Hobart), 1869-1942</persName>
 <placeName></placeName>
-<date when="1900"/>
+<date when="1908-06-30"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
+<placeName ref="http://www.geonames.org/5652763">Fort Benton (Mont.)</placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
@@ -136,10 +114,10 @@
 <pb facs="nei.j4a.1.22" />
 
 
-<note type="curatorial">27 Davis Coll <hi rend="caps">N Y</hi> Pub Lib</note>   <fw type="curatorial">22</fw> 
+<note type="curatorial">27 Davis Coll N Y Pub Lib</note>   <fw type="curatorial">22</fw> 
 
 <opener>
-<hi rend="caps">R. H. D.</hi>
+R. H. D.
 
 <dateline>June 30th, 1908.</dateline>
 
@@ -160,7 +138,7 @@
 
 
 <address>
-<addrLine>John <hi rend="caps">G.</hi> Neihardt, Esq.</addrLine>
+<addrLine>John G. Neihardt, Esq.</addrLine>
 
 <addrLine>Fort Benton,</addrLine>
 

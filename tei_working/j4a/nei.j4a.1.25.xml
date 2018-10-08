@@ -6,12 +6,12 @@
 <fileDesc>
 <titleStmt>
 <title type="main">Letter from H. C. Bliss to John G. Neihardt, May 3, 1909</title>
-<author>Neihardt, John Gneisenau, 1881-1973</author>
+<author>Bliss, H. C.</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
 <editionStmt>
 <edition>
-<date>2013</date>
+<date>2018</date>
 </edition>
 </editionStmt>
 <publicationStmt>
@@ -41,7 +41,7 @@
 
 <sourceDesc>
 <bibl>
-<author>Neihardt, John Gneisenau, 1881-1973</author>
+<author>Bliss, H. C.</author>
 <title level="m" type="main">Letter from H. C. Bliss to John G. Neihardt</title>
 <date when="1909-05-03">May 3, 1909</date>
 <extent>2 pages</extent>
@@ -51,32 +51,6 @@
 <repository></repository>
 <idno></idno>
 </msIdentifier>
-<msContents>
-<p>2 hand-written pages</p>
-</msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>2 pages
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-<p></p></condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote><p></p></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
 </msDesc>
 
 </sourceDesc>
@@ -104,19 +78,23 @@
 <keywords scheme="lcsh" n="places">
 <term></term>
 </keywords>
+<keywords scheme="lcsh" n="works">
+<term>Prayer for Pain</term>
+<term>The Century Magazine</term>
+</keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName></persName>
-<placeName></placeName>
-<date when="1900"/>
+<persName>Bliss, H. C.</persName>
+<placeName ref="http://www.geonames.org/5128581">New York City (N.Y.)</placeName>
+<date when="1909-05-03"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
 <placeName></placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
@@ -138,7 +116,7 @@
 <fw type="curatorial">25</fw>
 
 <fw type="letterhead">
-<hi rend="caps">
+
 EDITORIAL∙DEPARTMENT
 <lb/>
 THE CENTURY∙MAGAZINE
@@ -152,13 +130,13 @@ R. W. GILDER, EDITOR
 R. U. JOHNSON, ASSOCIATE EDITOR
 <lb/>
 C. C. BUEL, ASSISTANT EDITOR
-</hi></hi>
+</hi>
 </fw>
 
 <opener>
 <dateline>May 3, 1909</dateline>
 
-Mr. John <hi rend="caps">G.</hi> Neihardt
+<salute>Mr. John G. Neihardt</salute>
 
 <salute>Dear Sir,</salute>
 </opener>

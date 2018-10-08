@@ -6,12 +6,12 @@
 <fileDesc>
 <titleStmt>
 <title type="main">Letter from Caspar Whitney to John G. Neihardt, March 23, 1908</title>
-<author>Neihardt, John Gneisenau, 1881-1973</author>
+<author>Whitney, Caspar, 1862?-1929</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
 <editionStmt>
 <edition>
-<date>2013</date>
+<date>2018</date>
 </edition>
 </editionStmt>
 <publicationStmt>
@@ -41,42 +41,16 @@
 
 <sourceDesc>
 <bibl>
-<author>Neihardt, John Gneisenau, 1881-1973</author>
+<author>Whitney, Caspar, 1862?-1929</author>
 <title level="m" type="main">Letter from Caspar Whitney to John G. Neihardt</title>
 <date when="1908-03-23">March 23, 1908</date>
 <extent>1 page</extent>
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
+<repository>University of Missouri, Western Historical Manuscripts Collection</repository>
 <idno></idno>
 </msIdentifier>
-<msContents>
-<p>1 type-written page</p>
-</msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>1 page
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-<p></p></condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote><p></p></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
 </msDesc>
 
 </sourceDesc>
@@ -104,19 +78,22 @@
 <keywords scheme="lcsh" n="places">
 <term></term>
 </keywords>
+<keywords scheme="lcsh" n="places">
+<term>A Bundle of Myrrh</term>
+</keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName></persName>
-<placeName></placeName>
-<date when="1900"/>
+<persName ref="http://viaf.org/viaf/53124866">Whitney, Caspar, 1862?-1929</persName>
+<placeName ref="http://www.geonames.org/5128581">New York City (N.Y.)</placeName>
+<date when="1908-03-23"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
 <placeName></placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Whitney, Caspar</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
@@ -138,24 +115,24 @@
 <fw type="curatorial">21</fw> 
 
 <fw type="letterhead">
-<hi rend="caps">THE
+THE
 <lb/>
-   OUTING MAGAZINE</hi>
+   OUTING MAGAZINE
 <lb/>
   Edited by
 <lb/>  
-<hi rend="caps">CASPAR WHITNEY</hi>
+CASPAR WHITNEY
 <lb/>
-<hi rend="caps">35 AND 37 W. 31ST STREET
+35 AND 37 W. 31ST STREET
 <lb/>
-   NEW YORK</hi>
+   NEW YORK
 </fw>
 <note>W/D</note>
 <opener>
  <dateline>March 23, 1908.</dateline>
 
 
-<salute>My dear Mr. Niehardt<sic>Neihardt</sic>:</salute>
+<salute>My dear Mr. Niehardt:</salute>
 </opener>
 <p>I am sending through this mail a copy of "A Bundle of Myrrh", which I ask you to autograph and return to me. I want to put it in my library.</p>
 
@@ -169,18 +146,18 @@
 
 
 <address>
-<addrLine>Jno. <hi rend="caps">G.</hi> Niehardt<sic>Neihardt</sic>, Esq.,</addrLine>
+<addrLine>Jno. G. Niehardt, Esq.,</addrLine>
 <addrLine>Bancroft, Nebraska.</addrLine>
 </address>
 </closer>
 
-<note type="curatorial"><hi rend="caps">WESTERN HISTORICAL MANUSCRIPTS COLLECTION
+<note type="curatorial">WESTERN HISTORICAL MANUSCRIPTS COLLECTION
 <lb/>
 UNIVERSITY OF MISSOURI
 <lb/>
-COLUMBIA, MO.</hi></note>
+COLUMBIA, MO.</note>
 
-<fw type="letterhead">Printing and Manufacturing Plant, and Subscription Offices at Deposit, <hi rend="caps">N. Y.</hi></fw>
+<fw type="letterhead">Printing and Manufacturing Plant, and Subscription Offices at Deposit, N. Y.</fw>
 
 </div1>
 </body>

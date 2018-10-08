@@ -6,12 +6,12 @@
 <fileDesc>
 <titleStmt>
 <title type="main">Letter from Robert H. Davis to John G. Neihardt, January 14, 1908</title>
-<author>Neihardt, John Gneisenau, 1881-1973</author>
+<author>Davis, Robert H. (Robert Hobart), 1869-1942</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
 <editionStmt>
 <edition>
-<date>2013</date>
+<date>2018</date>
 </edition>
 </editionStmt>
 <publicationStmt>
@@ -41,7 +41,7 @@
 
 <sourceDesc>
 <bibl>
-<author>Neihardt, John Gneisenau, 1881-1973</author>
+<author>Davis, Robert H. (Robert Hobart), 1869-1942</author>
 <title level="m" type="main">Letter from Robert H. Davis to John G. Neihardt</title>
 <date when="1908-01-14">January 14, 1908</date>
 <extent>1 page</extent>
@@ -51,32 +51,6 @@
 <repository></repository>
 <idno></idno>
 </msIdentifier>
-<msContents>
-<p>1 type-written page</p>
-</msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>1 page
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-<p></p></condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote><p></p></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
 </msDesc>
 
 </sourceDesc>
@@ -99,24 +73,29 @@
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Neihardt, Alice Culler</term>
+<term>Petri, Hilda Neihardt</term>
+<term>Piper, Mildred</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
 <term></term>
 </keywords>
+<keywords scheme="lcsh" n="works">
+<term>A Bundle of Myrrh</term>
+</keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName></persName>
-<placeName></placeName>
-<date when="1900"/>
+<persName>Davis, Robert H. (Robert Hobart), 1869-1942</persName>
+<placeName ref="http://www.geonames.org/5128581">New York City (N.Y.)</placeName>
+<date when="1908-01-14"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
+<placeName ref="http://www.geonames.org/5063451">Bancroft (Neb.)</placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Neihardt, Johhn Gneisenau</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
@@ -138,9 +117,9 @@
 <note type="curatorial">398-1</note><fw type="curatorial">20</fw>
 
 <opener>
-<hi rend="caps">THE FRANK A. MUNSEY COMPANY</hi>
-175 Fifth Avenue
-New York
+THE FRANK A. MUNSEY COMPANY<lb/>
+175 Fifth Avenue<lb/>
+New York<lb/>
 <note><list>
 <item>Munsey's Magazine</item>
 <item>The Argosy</item>
@@ -151,7 +130,7 @@ New York
 <item>The Ocean</item>
 </list></note>
 
-<hi rend="caps">R. H. D.</hi>   <dateline>January 14th, 1908</dateline>
+R. H. D.   <dateline>January 14th, 1908</dateline>
 
 
 <salute>My dear Neihardt: &#8212;</salute>
@@ -175,7 +154,7 @@ New York
 
 
 <address>
-<addrLine>John <hi rend="caps">G.</hi> Neihardt, Esq.,</addrLine>
+<addrLine>John G. Neihardt, Esq.,</addrLine>
 
 <addrLine>Bancroft,</addrLine>
 
