@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.32a.24">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.32a.29.20">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from D. Eugene Meyer to John G. Neihardt, October 18, 1968</title>
-<author>Meyer, Eugene</author>
+<title type="main">Letter from James S. Harris to John G Neihardt, September 30, 1968</title>
+<author>Harris, James S.</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
 <editionStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4a.32a.4</idno>
+<idno>nei.j4a.32a.19.20</idno>
 <availability>
 <p></p>
 </availability>
@@ -42,9 +42,9 @@
 <sourceDesc>
 <bibl>
 <author></author>
-<title level="m" type="main">Letter from D. Eugene Meyer to John G. Neihardt, October 18, 1968</title>
-<date when="1968-10-18">October 18, 1968</date>
-<extent>1 page</extent>
+<title level="m" type="main">Letter from James S. Harris to John G Neihardt, September 30, 1968</title>
+<date when="1968-09-30">September 30, 1968</date>
+<extent>2 pages</extent>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -76,25 +76,25 @@
 <term></term>
 </keywords>
 <keywords scheme="original" n="people">
-<term></term>
+<term>Mitchell, Don R.</term>
 </keywords>
 <keywords scheme="original" n="places">
 <term></term>
 <term></term>
 </keywords>
 <keywords scheme="original" n="works">
-<term>Beatrice Daily Sun</term>
+<term></term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Meyer, Eugene</persName>
-<placeName>Beatrice (Neb.)</placeName>
-<date when="1968-10-18"/>
+<persName>Harris, James S.</persName>
+<placeName ref="http://www.geonames.org/4305974/richmond.html">Richmond (K.Y.)</placeName>
+<date when="1968-09-30"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+<placeName ref="http://www.geonames.org/4381982">Columbia (Mo.)</placeName>
 </correspAction>
 </correspDesc>
 <particDesc>
@@ -114,43 +114,46 @@
 
 <div1 type="letter">
 
-<pb facs="nei.j4a.32a.24.001" />
-<fw type="curatorial">24</fw>
+<pb facs="nei.j4a.32a.19.20.001" />
+<fw type="curatorial">19</fw>
 <note type="curatorial"></note>
 
-<fw type="letterhead">Pershing
-JOHN J. PERSHING COLLEGE
-BEATRICE, NEBRASKA 68310
-Office of the President</fw>
+<note><hi rend="underline">Ans</hi>
+10/17/68</note>
+
+<fw type="letterhead">EASTERN KENTUCKY UNIVERSITY
+Richmond, Kentucky 40475
+OFFICE OF ACADEMIC AFFAIRS
+<hi rend="italics">Division of Instructional Service</hi></fw>
 
 <opener>
-<dateline>October 18, 1968
+<dateline>September 30, 1968
 </dateline>
 <address>
-<addrLine>Mr. John G. Neihardt</addrLine>
-<addrLine>5835 Vine Street</addrLine>
-<addrLine>Lincoln, Nebraska 68505</addrLine>
+<addrLine>Dr. John G. Neihardt</addrLine>
+<addrLine>R. D. #7</addrLine>
+<addrLine>University of Missouri</addrLine>
+<addrLine>Columbia, Missouri 65201</addrLine>
 </address>
-<salute>
-Dear Dr. Neihardt:</salute>
+<salute>Dear Dr. Neihardt:</salute>
 </opener>
 
-<p>We were so pleased that you took time from your busy schedule to come to Pershing College. It certainly was a rewarding experience for the faculty, staff, and student body. We have had so many wonderful comments about you and your presentation.</p>
 
-<p>I especially enjoyed visiting wiht you and our luncheon together with our good friends the Munsons.</p>
-
-<p>We are enclosing the article from the <hi rend="underline">Beatrice Daily Sun</hi>, along with three photostatic copies.</p>
+<p>Eastern Kentucky University, in an attempt to acquaint its teaching staff with advantages and limitations of closed-circuit television, is offering this fall an Instructional Television course designed for the faculty. In order to show what other institutions are accomplishing, we should like to show representative samples of college level courses to this class. Mr. Don R. Mitchell, Associate Director of Instructional Television at the University of Missouri has informed us that it would be necessary for us to obtain your permission in order that we view the materials we requested from him. If you will please grant us your approval so that he may ship the tape to us, we should appreciate your cooperation. The tape we are interested in seeing is the lesson fo:
+English 279 Epic America
+Thank you for your consideration of this matter.</p>
 
 <closer>
-<salute>
-Sincerely,</salute>
-<signed>D. Eugene Meyer</signed>
-<note>D. Eugene Meyer
-Provost</note>
-<fw type="authorial">DEM:pas
-Enclosures</fw>
+<salute>Cordially,
+</salute>
+<signed>James S. Harris</signed>
+<note>James S. Harris
+Director</note>
+<note>JSH/klm
+Note to Nereze -M.M.Y
+1. Write Don. R. Mitchell, Associate Director of Instructional Television at <unclear>Uni of MO</unclear>
+2. Inform them of Twilight of the Sioux</note>
 </closer>
-
 </div1>
 </body>
 

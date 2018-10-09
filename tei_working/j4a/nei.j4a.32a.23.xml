@@ -1,23 +1,159 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 23
-SYRACUSE UNIVERSITY
-VICE PRESIDENT FOR ACADEMIC AFFAIRS SYRACUSE, NEW YORK 13210
-TELEPHONE 315 476-5541 EXTENSION 2494
-Ans. 
-10/17/68
-<unclear>Hansas last sent</unclear>
-October 14, 1968
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-Mr. John G. Neihardt
-5835 Vine Street
-Lincoln, Nebraska 68505
-Dear Mr. Neihardt:
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.32a.23">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Frank P. Piskor to John G. Neihardt, October 14, 1968</title>
+<author>Piskor, Frank Peter</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.32a.23</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Frank P. Piskor to John G. Neihardt, October 14, 1968</title>
+<date when="1968-10-14">October 14, 1968</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term>Dickinson, Donald C., 1927-2016</term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term>A Bundle of Myr</term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="http://viaf.org/viaf/57967790">Piskor, Frank Peter</persName>
+<placeName ref="http://www.geonames.org/5140405">Syracuse (N.Y.)</placeName>
+<date when="1968-10-14"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.32a.23.001" />
+<fw type="curatorial">23</fw>
+<note type="curatorial"></note>
+
+<fw type="letterhead">SYRACUSE UNIVERSITY
+VICE PRESIDENT FOR ACADEMIC AFFAIRS SYRACUSE, NEW YORK 13210
+TELEPHONE 315 476-5541 EXTENSION 2494</fw>
+<note>Ans. 
+10/17/68
+<unclear>Hansas last sent</unclear></note>
+<opener>
+<dateline>October 14, 1968
+</dateline>
+<address>
+<addrLine>Mr. John G. Neihardt</addrLine>
+<addrLine>5835 Vine Street</addrLine>
+<addrLine>Lincoln, Nebraska 68505</addrLine>
+</address>
+<salute>Dear Mr. Neihardt:</salute>
+</opener>
+
 <p>You will find enclosed a request I have made of the University of Missouri Library and Donald D. Dickinson's reply.</p>
+
 <p>Mr. Dickinson and I had met previously and keep in touch periodically on other matters. When I learned of the limited Limited Edition of A BUNDLE OF MYRR, I knew I could not hope to get a copy - so I approached the Library for a xerox of it for my collection, which would eventually end up in the Syracuse University Library.</p>
+
 <p>Mr. Dickinson quite properly seeks your permission to have this done, and I hope you will give it to him. I am determined to have this Eastern outpost a great Neihardt center and appreciate the generous time and attention which you are giving my interests in this regard.</p>
+
 <p>Would you please write Mr. Dickinson?</p>
-Kindest regards.
-Sincerely yours,
+
+<closer>
+<salute>Kindest regards.
+Sincerely yours,</salute>
 <signed>Frank Piskor</signed>
-Frank P. Piskor
-FPP:mb
+<note>Frank P. Piskor</note>
+<fw type="authorial">FPP:mb</fw>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

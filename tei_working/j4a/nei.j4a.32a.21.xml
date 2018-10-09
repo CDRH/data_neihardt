@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.32a.24">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.32a.21">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from D. Eugene Meyer to John G. Neihardt, October 18, 1968</title>
-<author>Meyer, Eugene</author>
+<title type="main">Letter from Jack W. Marken to John G. Neihardt, October 4, 1968</title>
+<author>Marken, Jack W.</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
 <editionStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4a.32a.4</idno>
+<idno>nei.j4a.32a.21</idno>
 <availability>
 <p></p>
 </availability>
@@ -42,8 +42,8 @@
 <sourceDesc>
 <bibl>
 <author></author>
-<title level="m" type="main">Letter from D. Eugene Meyer to John G. Neihardt, October 18, 1968</title>
-<date when="1968-10-18">October 18, 1968</date>
+<title level="m" type="main">Letter from Jack W. Marken to John G. Neihardt, October 4, 1968</title>
+<date when="1968-10-04">October 4, 1968</date>
 <extent>1 page</extent>
 </bibl>
 <msDesc>
@@ -76,21 +76,21 @@
 <term></term>
 </keywords>
 <keywords scheme="original" n="people">
-<term></term>
+<term>Martin, Dexter</term>
 </keywords>
 <keywords scheme="original" n="places">
 <term></term>
 <term></term>
 </keywords>
 <keywords scheme="original" n="works">
-<term>Beatrice Daily Sun</term>
+<term>Black Elk Speaks</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Meyer, Eugene</persName>
-<placeName>Beatrice (Neb.)</placeName>
-<date when="1968-10-18"/>
+<persName ref="http://viaf.org/viaf/75180624">Marken, Jack W.</persName>
+<placeName ref="http://www.geonames.org/5226534">Brookings (S.D.)</placeName>
+<date when="1968-10-04"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
@@ -114,41 +114,40 @@
 
 <div1 type="letter">
 
-<pb facs="nei.j4a.32a.24.001" />
-<fw type="curatorial">24</fw>
+<pb facs="nei.j4a.32a.21.001" />
+<fw type="curatorial">21</fw>
 <note type="curatorial"></note>
 
-<fw type="letterhead">Pershing
-JOHN J. PERSHING COLLEGE
-BEATRICE, NEBRASKA 68310
-Office of the President</fw>
+<fw type="letterhead">SOUTH DAKOTA STATE UNIVERSITY
+BROOKINGS, SOUTH DAKOTA 57006
+College of Arts and Science
+
+ENGLISH DEPARTMENT</fw>
 
 <opener>
-<dateline>October 18, 1968
+<dateline>October 4, 1968
 </dateline>
 <address>
-<addrLine>Mr. John G. Neihardt</addrLine>
-<addrLine>5835 Vine Street</addrLine>
-<addrLine>Lincoln, Nebraska 68505</addrLine>
+<addrLine>
+Mr. John G. Neihardt</addrLine>
+<addrLine>5835 VineStreet</addrLine>
+<addrLine>Lincoln, Nebraska</addrLine>
+<addrLine>68505</addrLine>
 </address>
-<salute>
-Dear Dr. Neihardt:</salute>
+<salute>Dear Mr. Neihardt:</salute>
 </opener>
 
-<p>We were so pleased that you took time from your busy schedule to come to Pershing College. It certainly was a rewarding experience for the faculty, staff, and student body. We have had so many wonderful comments about you and your presentation.</p>
-
-<p>I especially enjoyed visiting wiht you and our luncheon together with our good friends the Munsons.</p>
-
-<p>We are enclosing the article from the <hi rend="underline">Beatrice Daily Sun</hi>, along with three photostatic copies.</p>
+<p>I was very pleased to receive your letter of September 26, as I had followed with interest Dexter
+Martin's correspondence with you and had listened to his praise of <hi rend="underline">Black Elk Speaks</hi>, which I am ashamed to say I have not read yet but will shortly.</p>
+<p>You ask about the details of our program, and I can't give these to you because they haven't been worked out. Our theme will be "The Last Frontier," and we plan a four-weeks' summer program of lectures, dramatic and music productions, and other presentations that will fit into the theme. We are hoping that we will be able to find individuals whose knowledge of the frontier will enable them to lecture to a group of South Dakotans on the history and literature of the frontier period. It will not be necessary, of course, that a person be here for the entire four weeks. If you are interested and have the time and energy, perhaps you could come for a one week stay or even for one lecture or talk, or whatever you would want to call it.</p>
+<p>When we have made more definite plans for the program I will write to you. I hope you will be interested in coming and that we can look forward to seeing you.</p>
 
 <closer>
-<salute>
-Sincerely,</salute>
-<signed>D. Eugene Meyer</signed>
-<note>D. Eugene Meyer
-Provost</note>
-<fw type="authorial">DEM:pas
-Enclosures</fw>
+<salute>Sincerely</salute>
+<signed>Jack W. Marken</signed>
+<note>Jack W. Marken,
+Head, Dept. of English</note>
+<fw type="authatorial">JWM/111</fw>
 </closer>
 
 </div1>
