@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.32a.24">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.32a.20">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from D. Eugene Meyer to John G. Neihardt, October 18, 1968</title>
-<author>Meyer, Eugene</author>
+<title type="main">Letter from John G. Neihardt to James S. Harris, October 17, 1968</title>
+<author>Neihardt, John G.</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
 <editionStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4a.32a.4</idno>
+<idno>nei.j4a.32a.20</idno>
 <availability>
 <p></p>
 </availability>
@@ -42,8 +42,8 @@
 <sourceDesc>
 <bibl>
 <author></author>
-<title level="m" type="main">Letter from D. Eugene Meyer to John G. Neihardt, October 18, 1968</title>
-<date when="1968-10-18">October 18, 1968</date>
+<title level="m" type="main">Letter from John G. Neihardt to James S. Harris, October 17, 1968</title>
+<date when="1968-10-17">October 17, 1968</date>
 <extent>1 page</extent>
 </bibl>
 <msDesc>
@@ -83,22 +83,22 @@
 <term></term>
 </keywords>
 <keywords scheme="original" n="works">
-<term>Beatrice Daily Sun</term>
+<term></term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Meyer, Eugene</persName>
-<placeName>Beatrice (Neb.)</placeName>
-<date when="1968-10-18"/>
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/4381982">Columbia (Mo.)</placeName>
+<date when="1968-10-17"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+<persName>Harris, James S.</persName>
+<placeName ref="http://www.geonames.org/4305974/richmond.html">Richmond (K.Y.)</placeName>
 </correspAction>
 </correspDesc>
 <particDesc>
-<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+<person role="recipient"><persName>Harris, James S.</persName></person>
 </particDesc>
 </profileDesc>
 
@@ -113,47 +113,38 @@
 <body>
 
 <div1 type="letter">
-
-<pb facs="nei.j4a.32a.24.001" />
-<fw type="curatorial">24</fw>
-<note type="curatorial"></note>
-
-<fw type="letterhead">Pershing
-JOHN J. PERSHING COLLEGE
-BEATRICE, NEBRASKA 68310
-Office of the President</fw>
+<fw type="curatorial">20</fw>
+<fw type="adrress">5835 Vine Street
+Lincoln, Nebraska 68505</fw>
 
 <opener>
-<dateline>October 18, 1968
+<dateline>October 17, 1968
 </dateline>
 <address>
-<addrLine>Mr. John G. Neihardt</addrLine>
-<addrLine>5835 Vine Street</addrLine>
-<addrLine>Lincoln, Nebraska 68505</addrLine>
-</address>
+<addrLine>
+Dr. James S. Harris, Director</addrLine>
+<addrLine>Office of Academic Affairs</addrLine>
+<addrLine>Eastern Kentucky University</addrLine>
+<addrLine>Richmond, Kentucky 40475</addrLine></address>
 <salute>
-Dear Dr. Neihardt:</salute>
+Dear Dr. Harris:</salute>
 </opener>
 
-<p>We were so pleased that you took time from your busy schedule to come to Pershing College. It certainly was a rewarding experience for the faculty, staff, and student body. We have had so many wonderful comments about you and your presentation.</p>
+<p>I have your letter of September 30, 1968 and in accordance with your request I have written Mr.
+Don R. Mitchell, Associate Director of Instructional Television at the University of Missouri, giving the permission to loan the tapes for my course "Epic America" (English 279).</p>
 
-<p>I especially enjoyed visiting wiht you and our luncheon together with our good friends the Munsons.</p>
+<p>I gave "Epic America" for a number of years at the University and' then substituted another course entitled "The Twilight of the Sioux." Do you know about this course? k It, too, has been very popular at Missouri. </p>
 
-<p>We are enclosing the article from the <hi rend="underline">Beatrice Daily Sun</hi>, along with three photostatic copies.</p>
+<p>You xxxx will know that I am very glad you are interested in this matter.</p>
 
 <closer>
-<salute>
-Sincerely,</salute>
-<signed>D. Eugene Meyer</signed>
-<note>D. Eugene Meyer
-Provost</note>
-<fw type="authorial">DEM:pas
-Enclosures</fw>
+<salute>With all kind thoughts,</salute>
+<signed></signed>
 </closer>
-
 </div1>
 </body>
 
 <back></back>
 </text>
 </TEI>
+
