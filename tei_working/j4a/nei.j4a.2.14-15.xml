@@ -1,168 +1,180 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.2.14-15_0001-2">
-            <teiHeader>
-                        <fileDesc>
-                                    <titleStmt>
-                                                <title type="main">Letter from Agnes C. Laut to John G. Neihardt, December 4, 1911</title>
-                                                <author>Neihardt, John Gneisenau, 1881-1973</author>
-                                                <principal>Gossin, Pamela</principal>
-                                    </titleStmt>
-                                    <editionStmt>
-                                                <edition>
-                                                            <date>2013</date>
-                                                </edition>
-                                    </editionStmt>
-                                    <publicationStmt>
-                                                <authority>The Papers of John G. Neihardt</authority>
-                                                <publisher>University of Nebraska-Lincoln</publisher>
-                                                <distributor>
-                                                            <name>Center for Digital Research in the Humanities</name>
-                                                            <address>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Agnes C. Laut to John G. Neihardt, December 4, 1911</title>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2013</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
 <addrLine>319 Love Library</addrLine>
 <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 <addrLine>cdrh@unlnotes.unl.edu</addrLine>
 </address>
-                                                </distributor>
-                                                <pubPlace>Lincoln, Nebraska</pubPlace> 
-                                                <address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-                                                <idno>nei.j4a.2.14-15_0001-2</idno>
-                                                <availability>
-                                                            <p></p>
-                                                </availability>
-                                    </publicationStmt>
-                                    
-                                    <notesStmt><note></note></notesStmt>
-                                    
-                                    <sourceDesc>
-                                                <bibl>
-                                                            <author>Neihardt, John Gneisenau, 1881-1973</author>
-                                                            <title level="m" type="main">Letter from Agnes C. Laut to John G. Neihardt</title>
-                                                            <date when="1911-12-04">December 4, 1911</date>
-                                                            <extent>2 pages</extent>
-                                                </bibl>
-                                                <msDesc>
-                                                            <msIdentifier>
-                                                                        <repository></repository>
-                                                                        <idno></idno>
-                                                            </msIdentifier>
-                                                            <msContents>
-                                                                        <p>2 hand-written pages</p>
-                                                            </msContents>
-                                                            <physDesc>
-                                                                        <objectDesc>
-                                                                                    <supportDesc>
-                                                                                                <support></support>
-                                                                                                <extent>2 pages
-                                                                                                            <dimensions unit="mm"><height></height><width></width></dimensions>
-                                                                                                </extent>
-                                                                                                <condition>
-                                                                                                            <p></p></condition>
-                                                                                    </supportDesc>
-                                                                        </objectDesc>
-                                                                        <handDesc hands="1">
-                                                                                    <handNote xml:id="type"><p>Media: type</p></handNote>
-                                                                                    <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-                                                                        </handDesc>
-                                                                        <typeDesc>
-                                                                                    <typeNote><p></p></typeNote>
-                                                                        </typeDesc>
-                                                            </physDesc>
-                                                            <history><origin></origin>
-                                                                        <provenance></provenance>
-                                                                        <acquisition></acquisition>
-                                                            </history>
-                                                </msDesc>
-                                                
-                                    </sourceDesc>
-                        </fileDesc>
-                        
-                        <encodingDesc>
-                                    <editorialDecl>
-                                                <correction>
-                                                            <p></p>
-                                                </correction>
-                                                <normalization>
-                                                            <p></p>
-                                                </normalization>
-                                    </editorialDecl>
-                        </encodingDesc>
-                        
-                        <profileDesc>
-                                    <textClass>
-                                                <keywords scheme="original" n="category">
-                                                            <term>Correspondence</term>
-                                                </keywords>
-                                                <keywords scheme="original" n="subcategory">
-                                                            <term>Business</term>
-                                                </keywords>
-                                                <keywords scheme="original" n="topic">
-                                                            <term></term>
-                                                </keywords>
-                                                <keywords scheme="lcsh" n="keywords">
-                                                            <term></term>
-                                                </keywords>
-                                                <keywords scheme="lcsh" n="people">
-                                                            <term></term>
-                                                </keywords>
-                                                <keywords scheme="lcsh" n="places">
-                                                            <term></term>
-                                                </keywords>
-                                    </textClass>
-                                    <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
-                        </profileDesc>
-                        
-                        <revisionDesc>
-                                    <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
-                                    <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
-                                    <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
-                                    
-                        </revisionDesc>
-            </teiHeader>
-            
-            <text>
-                        <body>
-                                    
-                                    <div1 type="letter">
-                                                                                                                        
-                                                <pb facs="nei.j4a.2.14-15_0001" />
-                                                                                                                        <fw type="curatorial">14</fw>
-                                                
-                                                <figure><figDesc>A border of hearts</figDesc></figure>                                                                                                                                                                                                                                                           
+<idno>nei.j4a.2.14-15_0001-2</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
 
-                                                <p>With my cordial greetings to the most important member of the <unclear>family</unclear>.</p>
-                                                <closer>
-                                                                <signed>Agnes C. Laut </signed>
-                                                </closer>
-                                                
-                                                <figure>
-                                                            <graphic url="neiJ4a.2.14-15.01"/>
-                                                            <figDesc>Illustration of stork with baby</figDesc>
-                                                            <p>Congratulations and best wishes to the little stranger</p>
-                                                            <figDesc>Heart</figDesc>
-                                                </figure>
+<notesStmt><note></note></notesStmt>
 
-                                                                                                            <note><date>Dec 4, 1911</date> 
-                                                                                                                        New York</note>
-                                                            
-                                                <pb facs="nei.j4a.2.14-15_0002"/>
+<sourceDesc>
+<bibl>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<title level="m" type="main">Letter from Agnes C. Laut to John G. Neihardt</title>
+<date when="1911-12-04">December 4, 1911</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>2 hand-written pages</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>2 pages
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+<p></p></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="type"><p>Media: type</p></handNote>
+<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p></p></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
 
-                                                                                                                        <fw type="curatorial">15</fw>
+</sourceDesc>
+</fileDesc>
 
-                                                <figure>
-                                                            <graphic url="neiJ4a.2.14-15.02"/>
-                                                            <figDesc>Photograph of Agnes C. Laut</figDesc>
-                                                            <p>Agnes C. Laut</p>
-                                                </figure>
-                                                
-                                    </div1>
-                        </body>
-                        
-                        <back></back>
-            </text>
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName></persName>
+<placeName></placeName>
+<date when="1900"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Review; Additional Encoding</change>
+<change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.2.14-15_0001" />
+<fw type="curatorial">14</fw>
+
+<figure><figDesc>A border of hearts</figDesc></figure>   
+
+<p>With my cordial greetings to the most important member of the <unclear>family</unclear>.</p>
+<closer>
+<signed>Agnes C. Laut </signed>
+</closer>
+
+<figure>
+<graphic url="neiJ4a.2.14-15.01"/>
+<figDesc>Illustration of stork with baby</figDesc>
+<p>Congratulations and best wishes to the little stranger</p>
+<figDesc>Heart</figDesc>
+</figure>
+
+<note><date>Dec 4, 1911</date> 
+New York</note>
+
+<pb facs="nei.j4a.2.14-15_0002"/>
+
+<fw type="curatorial">15</fw>
+
+<figure>
+<graphic url="neiJ4a.2.14-15.02"/>
+<figDesc>Photograph of Agnes C. Laut</figDesc>
+<p>Agnes C. Laut</p>
+</figure>
+
+</div1>
+</body>
+
+<back></back>
+</text>
 </TEI>
