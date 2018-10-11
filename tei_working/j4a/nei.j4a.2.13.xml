@@ -6,12 +6,12 @@
 <fileDesc>
 <titleStmt>
 <title type="main">Letter from Cale Young Rice to John G. Neihardt, November 6, 1911</title>
-<author>Neihardt, John Gneisenau, 1881-1973</author>
+<author>Rice, Cale Young, 1872-1943</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
 <editionStmt>
 <edition>
-<date>2013</date>
+<date>2018</date>
 </edition>
 </editionStmt>
 <publicationStmt>
@@ -41,9 +41,9 @@
 
 <sourceDesc>
 <bibl>
-<author>Neihardt, John Gneisenau, 1881-1973</author>
+<author>Rice, Cale Young, 1872-1943</author>
 <title level="m" type="main">Letter from Cale Young Rice to John G. Neihardt</title>
-<date when="1911-11-06">Novmeber 6, 1911</date>
+<date when="1911-11-06">November 6, 1911</date>
 <extent>1 page</extent>
 </bibl>
 <msDesc>
@@ -51,47 +51,10 @@
 <repository></repository>
 <idno></idno>
 </msIdentifier>
-<msContents>
-<p>1 hand-written page</p>
-</msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>1 page
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-<p></p></condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote><p></p></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
-
-<encodingDesc>
-<editorialDecl>
-<correction>
-<p></p>
-</correction>
-<normalization>
-<p></p>
-</normalization>
-</editorialDecl>
-</encodingDesc>
 
 <profileDesc>
 <textClass>
@@ -116,16 +79,16 @@
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName></persName>
+<persName ref="http://viaf.org/viaf/45777111">Rice, Cale Young, 1872-1943</persName>
 <placeName></placeName>
-<date when="1900"/>
+<date when="1911-11-06"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
 <placeName></placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
@@ -150,7 +113,7 @@
 <opener>
 <dateline>Nov. 6 &#8212; 1911</dateline>
 </opener>
-<p>Congratulations to little Miss Neihardt who has come, no doubt, "trailing clouds of glory". If she has anything to tell us of the "birth" side of birth, pray <unclear>notify it</unclear>.</p>
+<p>Congratulations to little Miss Neihardt who has come, no doubt, "trailing clouds of glory". If she has anything to tell us of the "birth" side of birth, pray <unclear/>.</p>
 <closer>
 <salute>Sincerely</salute>
 

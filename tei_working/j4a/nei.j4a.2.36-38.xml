@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.2.36-38_0001-3">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.2.36-38">
 <teiHeader>
 <fileDesc>
 <titleStmt>
 <title type="main">Letter from Gordon Bottomley to John G. Neihardt, August 24, 1912</title>
-<author>Neihardt, John Gneisenau, 1881-1973</author>
+<author>Bottomley, Gordon, 1874-1948</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
 <editionStmt>
 <edition>
-<date>2013</date>
+<date>2018</date>
 </edition>
 </editionStmt>
 <publicationStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4a.2.36-38_0001-3</idno>
+<idno>nei.j4a.2.36-38</idno>
 <availability>
 <p></p>
 </availability>
@@ -41,7 +41,7 @@
 
 <sourceDesc>
 <bibl>
-<author>Neihardt, John Gneisenau, 1881-1973</author>
+<author>Bottomley, Gordon, 1874-1948</author>
 <title level="m" type="main">Letter from Gordon Bottomley to John G. Neihardt</title>
 <date when="1912-08-24">August 24, 1912</date>
 <extent>4 pages, plus envelope</extent>
@@ -51,47 +51,11 @@
 <repository></repository>
 <idno></idno>
 </msIdentifier>
-<msContents>
-<p>4 hand-written pages, plus envelope</p>
-</msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>4 pages
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-<p></p></condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote><p></p></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
 
-<encodingDesc>
-<editorialDecl>
-<correction>
-<p></p>
-</correction>
-<normalization>
-<p></p>
-</normalization>
-</editorialDecl>
-</encodingDesc>
 
 <profileDesc>
 <textClass>
@@ -108,24 +72,30 @@
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Elkin Mathews</term>
+<term>Mosher</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>London (England)</term>
+</keywords>
+<keywords scheme="lcsh" n="works">
+<term>Gate of Smaragòus</term>
+<term>The Minneapolis Journal</term>
+<term>Vision of Giorgione</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName></persName>
-<placeName></placeName>
-<date when="1900"/>
+<persName ref="http://viaf.org/viaf/66734450">Bottomley, Gordon, 1874-1948</persName>
+<placeName ref="http://www.geonames.org/2653631">Cartmel (England)</placeName>
+<date when="1912-08-24"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
+<placeName ref="http://www.geonames.org/5037649">Minneapolis (Minn.)</placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
@@ -146,10 +116,11 @@
 
 <opener>
 <dateline>
-Well Knowe House.
-Cartmel.
-by Carnforth.   Aug. 24th.
-England.   1912.
+Well Knowe House.<lb/>
+Cartmel.<lb/>
+by Carnforth.<lb/>
+England.<lb/>
+Aug. 24th. 1912.<lb/>
 </dateline>
 
 <salute>Dear Mr. Nei<del>d</del>hardt,</salute>
@@ -162,9 +133,9 @@ England.   1912.
 
 <pb facs="nei.j4a.2.36-38_0003a"/>
 
-of Vigo Street, London, <hi rend="caps">W.</hi>) to forward you by the next American mail <del/> a complimentary copy of my "Gate of Smaragòus" volume. The package will be addressed to you, care of the Literary Department of <title>The Minneapolis Journal.</title></p>
+of Vigo Street, London, W.) to forward you by the next American mail <del/> a complimentary copy of my "Gate of Smaragòus" volume. The package will be addressed to you, care of the Literary Department of <title>The Minneapolis Journal.</title></p>
    
-<p>I have also asked Mr. Matthews to include a copy of a thin little book I have recently published; it would have been larger but for the fact of my work having had to be done during long-continued ill<del/>health. I hope, however, to <del/> complete it with another series later; and in addition to this I have several projects for larger works 
+<p>I have also asked Mr. Matthews to include a copy of a thin little book I have recently published; it would have been larger but for the fact of my work having had to be done during long-continued ill<del/> health. I hope, however, to <del/> complete it with another series later; and in addition to this I have several projects for larger works 
 
 <pb facs="nei.j4a.2.36-38_0003b"/>
 
@@ -212,7 +183,7 @@ C<unclear/> A A 2<unclear/> 12
 
 <ab type="address">
 <address>
-<addrLine>Mr. John <hi rend="caps">G.</hi> Neihardt.</addrLine>
+<addrLine>Mr. John G. Neihardt.</addrLine>
 <addrLine>Literary Department.</addrLine>
 <addrLine><hi rend="underline"><title>The Minneapolis Journal.</title></hi></addrLine>
 <addrLine>Minneapolis.</addrLine>
@@ -223,7 +194,7 @@ C<unclear/> A A 2<unclear/> 12
 <note type="authorial"><unclear/></note>
  
 <note type="curatorial">In &#8212; <hi rend="underline"><title>The Gate of S<del/><add>m</add>aragdus</title></hi> &#8212; Gordon Bottomley
-Elkin Mathews London <hi rend="caps">W.</hi> MCMIV</note>
+Elkin Mathews London W. MCMIV</note>
 
 </div1>
 </body>

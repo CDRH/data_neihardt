@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.2.18-20_0001-3">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.2.18-20">
 <teiHeader>
 <fileDesc>
 <titleStmt>
 <title type="main">Letter from Avery Abbott to John G. Neihardt, May 16, 1912</title>
-<author>Neihardt, John Gneisenau, 1881-1973</author>
+<author>Abbott, Avery</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
 <editionStmt>
 <edition>
-<date>2013</date>
+<date>2018</date>
 </edition>
 </editionStmt>
 <publicationStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4a.2.18-20_0001-3</idno>
+<idno>nei.j4a.2.18-20</idno>
 <availability>
 <p></p>
 </availability>
@@ -41,42 +41,17 @@
 
 <sourceDesc>
 <bibl>
-<author>Neihardt, John Gneisenau, 1881-1973</author>
+<author>Abbott, Avery</author>
 <title level="m" type="main">Letter from Avery Abbott to John G. Neihardt</title>
 <date when="1912-05-16">May 16, 1912</date>
-<extent>3 pages</extent>
+<extent>3 pages, plus envelope</extent>
 </bibl>
 <msDesc>
 <msIdentifier>
 <repository></repository>
 <idno></idno>
 </msIdentifier>
-<msContents>
-<p>3 hand-written pages</p>
-</msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>3 pages
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-<p></p></condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote><p></p></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
+
 </msDesc>
 
 </sourceDesc>
@@ -108,24 +83,33 @@
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Bryson, Lyman, 1888-1959</term>
+<term>Abbott, Keene, 1876-1941</term>
+<term>Neihardt, Mona Martinsen</term>
+<term>Neihardt, Alice Culler</term>
+<term>Neihardt, Enid</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
 <term></term>
 </keywords>
+<keywords scheme="lcsh" n="works">
+<term>The Forum</term>
+<term>Current Literature</term>
+<term>Captain Martha Mary</term>
+</keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName></persName>
-<placeName></placeName>
-<date when="1900"/>
+<persName ref="http://viaf.org/viaf/6480338">Abbott, Avery</persName>
+<placeName ref="http://www.geonames.org/5074472">Omaha (Neb.)</placeName>
+<date when="1912-05-16"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
+<placeName ref="http://www.geonames.org/5063451">Bancroft (Neb.)</placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
@@ -158,11 +142,11 @@
 <pb facs="nei.j4a.2.18-20_0002"/>
 <fw type="curatorial">19</fw>
 
-blessed as to read them (as I certainly shall) I shall be able to hear overtures and all sorts of <unclear>platonic</unclear> melodies. That is an exquisite thing! I really <emph><hi rend="underline">have</hi></emph> no words to tell you how it makes me feel. I should have to write a poem to do it; a poem that could say far more than was in the words it was made of &#8212; and that is beyond my power.</p>
+blessed as to read them (as I certainly shall) I shall be able to hear overtures and all sorts of <unclear>platonic</unclear> melodies. That is an exquisite thing! I really <hi rend="underline">have</hi> no words to tell you how it makes me feel. I should have to write a poem to do it; a poem that could say far more than was in the words it was made of &#8212; and that is beyond my power.</p>
 
 <p>But before this you have a paper which gives you a hint of how we are feeling. Keene wanted that poem to reach as many Nebraska readers as possible.</p>
 
-<p>I am sending you and Mona and <emph><hi rend="underline">your mother</hi></emph>, my
+<p>I am sending you and Mona and <hi rend="underline">your mother</hi>, my
 
 <pb facs="nei.j4a.2.18-20_0001a"/>   
 
@@ -184,12 +168,12 @@ little girl. Compared with your little girl she isn't much, but she's all I have
 
 <pb facs="nei.j4a.2.18-20_0003b"/>
 
-<note type="curatorial">Found in <title><hi rend="underline">Captain Martha Mary</hi></title>. Avery Abbott <hi rend="caps">NY</hi> The Century <del><unclear>Club</unclear></del> Co. 1912 (Letter pasted in front of book</note>
+<note type="curatorial">Found in <title><hi rend="underline">Captain Martha Mary</hi></title>. Avery Abbott NY The Century <del><unclear>Club</unclear></del> Co. 1912 (Letter pasted in front of book</note>
 
 <ab type="return">
-Mr. Keene <unclear>Abbott</unclear>
-531-So 25th Ave
-Omaha
+Mr. Keene <unclear>Abbott</unclear><lb/>
+531-So 25th Ave<lb/>
+Omaha<lb/>
 Nebr.
 </ab>
 
@@ -208,7 +192,7 @@ Nebr.
 
 <ab type="address">
 <address>
-<addrLine>Mr. John <hi rend="caps">G.</hi> Neihardt.</addrLine>
+<addrLine>Mr. John G. Neihardt.</addrLine>
 <addrLine>Bancroft</addrLine>
 <addrLine>Nebraska</addrLine>
 </address>

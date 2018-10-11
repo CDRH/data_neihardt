@@ -5,13 +5,13 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-<title type="main">Letter from J. B. Gilder to John G. Neihardt, April 24, 1912</title>
-<author>Neihardt, John Gneisenau, 1881-1973</author>
+<title type="main">Letter from Joseph B. Gilder to John G. Neihardt, April 24, 1912</title>
+<author>Gilder, Joseph Benson, 1858-1936</author>
 <principal>Gossin, Pamela</principal>
    </titleStmt>
    <editionStmt>
 <edition>
- <date>2013</date>
+ <date>2018</date>
 </edition>
    </editionStmt>
    <publicationStmt>
@@ -41,57 +41,21 @@
    
    <sourceDesc>
 <bibl>
- <author>Neihardt, John Gneisenau, 1881-1973</author>
- <title level="m" type="main">Letter from J. B. Gilder to John G. Neihardt</title>
+ <author>Gilder, Joseph Benson, 1858-1936</author>
+ <title level="m" type="main">Letter from Joseph B. Gilder to John G. Neihardt</title>
  <date when="1912-04-24">April 24, 1912</date>
  <extent>1 page</extent>
 </bibl>
 <msDesc>
  <msIdentifier>
-  <repository></repository>
+  <repository>University of Missouri, Western Historical Manuscripts Collection</repository>
   <idno></idno>
  </msIdentifier>
- <msContents>
-  <p>1 hand-written page</p>
- </msContents>
- <physDesc>
-  <objectDesc>
-   <supportDesc>
-<support></support>
-<extent>1 page
- <dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
- <p></p></condition>
-   </supportDesc>
-  </objectDesc>
-  <handDesc hands="1">
-   <handNote xml:id="type"><p>Media: type</p></handNote>
-   <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-  </handDesc>
-  <typeDesc>
-   <typeNote><p></p></typeNote>
-  </typeDesc>
- </physDesc>
- <history><origin></origin>
-  <provenance></provenance>
-  <acquisition></acquisition>
- </history>
 </msDesc>
 
    </sourceDesc>
   </fileDesc>
   
-  <encodingDesc>
-   <editorialDecl>
-<correction>
- <p></p>
-</correction>
-<normalization>
- <p></p>
-</normalization>
-   </editorialDecl>
-  </encodingDesc>
   
   <profileDesc>
    <textClass>
@@ -113,19 +77,23 @@
 <keywords scheme="lcsh" n="places">
  <term></term>
 </keywords>
+<keywords scheme="lcsh" n="works">
+ <term>Minneapolis Journal</term>
+<term>New York Times</term>
+</keywords>
    </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName></persName>
-<placeName></placeName>
-<date when="1900"/>
+<persName ref="http://viaf.org/viaf/50468257">Gilder, Joseph Benson, 1858-1936</persName>
+<placeName ref="http://www.geonames.org/5128581">New York City (N.Y.)</placeName>
+ <date when="1912-04-24"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
 <placeName></placeName>
 </correspAction>
 </correspDesc>
-   <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+   <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person></particDesc>
   </profileDesc>
   
   <revisionDesc>
@@ -144,27 +112,27 @@
 
 <pb facs="nei.j4a.2.17" />
 
-  <note type="curatorial"><hi rend="caps">WESTERN HISTORICAL MANUSCRIPTS COLLECTION
+  <note type="curatorial">WESTERN HISTORICAL MANUSCRIPTS COLLECTION
   UNIVERSITY OF MISSOURI
-  COLUMBIA, MO.</hi></note>
+  COLUMBIA, MO.</note>
 
 <fw type="curatorial">17</fw>
 
 <fw type="letterhead">
-<hi rend="caps">HORNBLOWER &amp; WEEKS
+HORNBLOWER &amp; WEEKS
   <lb/>
 BOSTON-NEW YORK-CHICAGO
   <lb/>
  42 BROADWAY
  <lb/>
-  NEW YORK</hi>
+  NEW YORK
 </fw>
 
 <opener>
 <dateline>24 April 1912</dateline>
 <salute>Dear Mr. Neihardt:</salute>
 </opener>
-<p>I'm glad to hear you are going into literary journalism &amp; in so well known a paper as the <title>Minneapolis <hi rend="underline">Journal</hi></title>. You did some mighty good reviewing for the <title>New York Times Review of Books</title>, when I was <unclear>running</unclear> that sheet a year or two ago &#8212; &amp; if I had stayed on (instead of going abroad for the summer, &amp; taking up financial work on my return), you would have done much more &#8212; if I could have <unclear>got</unclear> you to; for I valued your work very highly. &#8212; When you've been at it as many years as I <del>have</del><add>was</add>, you'll be glad to drop into the <hi rend="underline">dolce <unclear>parmiente</unclear></hi> of <add>the</add> banking &amp; brokerage business! I had done 35 years of it.</p>
+<p>I'm glad to hear you are going into literary journalism &amp; in so well known a paper as the <title>Minneapolis <hi rend="underline">Journal</hi></title>. You did some mighty good reviewing for the <title>New York Times Review of Books</title>, when I was running that sheet a year or two ago &#8212; &amp; if I had stayed on (instead of going abroad for the summer, &amp; taking up financial work on my return), you would have done much more &#8212; if I could have got you to; for I valued your work very highly. &#8212; When you've been at it as many years as I <del>have</del><add>was</add>, you'll be glad to drop into the <hi rend="underline">dolce far niente</hi> of <add>the</add> banking &amp; brokerage business! I had done 35 years of it.</p>
 <closer>
 
 <salute>Faithfully yours,</salute>

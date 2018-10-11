@@ -6,7 +6,7 @@
 <fileDesc>
 <titleStmt>
 <title type="main">Letter from Hamilton W. Mabie to John G. Neihardt, March 6, 1912</title>
-<author>Neihardt, John Gneisenau, 1881-1973</author>
+<author>Mabie, Hamilton Wright, 1846-1916</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
 <editionStmt>
@@ -41,57 +41,21 @@
 
 <sourceDesc>
 <bibl>
-<author>Neihardt, John Gneisenau, 1881-1973</author>
+<author>Mabie, Hamilton Wright, 1846-1916</author>
 <title level="m" type="main">Letter from Hamilton W. Mabie to John G. Neihardt</title>
 <date when="1912-03-06">March 6, 1912</date>
 <extent>1 page</extent>
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
+<repository>McDonald Collection</repository>
 <idno></idno>
 </msIdentifier>
-<msContents>
-<p>1 type-written page</p>
-</msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>1 page
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-<p></p></condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote><p></p></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
 
-<encodingDesc>
-<editorialDecl>
-<correction>
-<p></p>
-</correction>
-<normalization>
-<p></p>
-</normalization>
-</editorialDecl>
-</encodingDesc>
 
 <profileDesc>
 <textClass>
@@ -113,19 +77,22 @@
 <keywords scheme="lcsh" n="places">
 <term></term>
 </keywords>
+<keywords scheme="lcsh" n="works">
+<term>The Stranger at the Gate</term>
+</keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName></persName>
-<placeName></placeName>
-<date when="1900"/>
+<persName ref="http://viaf.org/viaf/59153744">Mabie, Hamilton Wright, 1846-1916</persName>
+<placeName ref="http://www.geonames.org/5128581">New York City (N.Y.)</placeName>
+<date when="1912-03-06"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
+<placeName ref="http://www.geonames.org/5063451">Bancroft (Neb.)</placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
@@ -149,7 +116,7 @@
 <fw type="curatorial">16</fw>
 
 <opener>
-<hi rend="caps">THE OUTLOOK</hi>
+THE OUTLOOK
 <lb/>
 287 Fourth Avenue
 <lb/>
@@ -171,7 +138,7 @@ _______
 <signed>Hamilton W. Mabie</signed> 
 
 <address>
-<addrLine>Mr. John <hi rend="caps">G.</hi> Neihardt,</addrLine>
+<addrLine>Mr. John G. Neihardt,</addrLine>
 <addrLine>Bancroft, Nebraska.</addrLine>
 </address>
 </closer>

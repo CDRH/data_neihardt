@@ -6,12 +6,12 @@
 <fileDesc>
 <titleStmt>
 <title type="main">Letter from Julian Street to John G. Neihardt, November 19, 1912</title>
-<author>Neihardt, John Gneisenau, 1881-1973</author>
+<author>Street, Julian, 1879-1947</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
 <editionStmt>
 <edition>
-<date>2013</date>
+<date>2018</date>
 </edition>
 </editionStmt>
 <publicationStmt>
@@ -41,7 +41,7 @@
 
 <sourceDesc>
 <bibl>
-<author>Neihardt, John Gneisenau, 1881-1973</author>
+<author>Street, Julian, 1879-1947</author>
 <title level="m" type="main">Letter from Julian Street to John G. Neihardt</title>
 <date when="1912-11-19">November 19, 1912</date>
 <extent>2 pages</extent>
@@ -51,47 +51,11 @@
 <repository></repository>
 <idno></idno>
 </msIdentifier>
-<msContents>
-<p>2 hand-written pages</p>
-</msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>2 pages
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-<p></p></condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote><p></p></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
 
-<encodingDesc>
-<editorialDecl>
-<correction>
-<p></p>
-</correction>
-<normalization>
-<p></p>
-</normalization>
-</editorialDecl>
-</encodingDesc>
 
 <profileDesc>
 <textClass>
@@ -116,9 +80,9 @@
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName></persName>
-<placeName></placeName>
-<date when="1900"/>
+<persName ref="http://viaf.org/viaf/17744398">Street, Julian, 1879-1947</persName>
+<placeName ref="http://www.geonames.org/5128581">New York City (N.Y.)</placeName>
+<date when="1912-11-19"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
@@ -147,7 +111,7 @@
 <fw type="curatorial">41</fw>
 
 <fw type="letterhead">
-450 <hi rend="caps">WEST END AVENUE</hi>
+450 WEST END AVENUE
 </fw>
 
 <opener>

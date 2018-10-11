@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.2.46-50_0001-5">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.2.46-50">
 <teiHeader>
 <fileDesc>
 <titleStmt>
 <title type="main">Letter from Jessie B. Rittenhouse to John G. Neihardt, December 29, 1912</title>
-<author>Neihardt, John Gneisenau, 1881-1973</author>
+<author>Rittenhouse, Jessie B. (Jessie Belle), 1869-1948</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
 <editionStmt>
 <edition>
-<date>2013</date>
+<date>2018</date>
 </edition>
 </editionStmt>
 <publicationStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4a.2.46-50_0001-5</idno>
+<idno>nei.j4a.2.46-50</idno>
 <availability>
 <p></p>
 </availability>
@@ -41,7 +41,7 @@
 
 <sourceDesc>
 <bibl>
-<author>Neihardt, John Gneisenau, 1881-1973</author>
+<author>Rittenhouse, Jessie B. (Jessie Belle), 1869-1948</author>
 <title level="m" type="main">Letter from Jessie B. Rittenhouse to John G. Neihardt</title>
 <date when="1912-12-29">December 29, 1912</date>
 <extent>5 pages, plus envelope</extent>
@@ -51,47 +51,11 @@
 <repository></repository>
 <idno></idno>
 </msIdentifier>
-<msContents>
-<p>5 hand-written pages, plus envelope</p>
-</msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>5 pages
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-<p></p></condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p>Media: type</p></handNote>
-<handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote><p></p></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
 
-<encodingDesc>
-<editorialDecl>
-<correction>
-<p></p>
-</correction>
-<normalization>
-<p></p>
-</normalization>
-</editorialDecl>
-</encodingDesc>
 
 <profileDesc>
 <textClass>
@@ -108,24 +72,37 @@
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Neihardt, Mona Martinsen</term>
+<term>Neihardt, Sigurd</term>
+<term>Upson, Arthur, 1877-1908</term>
+<term>Burton, Richard, 1861-1940</term>
+<term>Upson, Julia Claflin</term>
+<term>Phelps, Ruth</term>
+<term>Mosher, Thomas Bird, 1852-1923</term>
+<term>Markham, Edwin, 1852-1940</term>
+<term>Teasdale, Sara, 1884-1933</term>
+<term>Giovannitti, Arturo M., 1884-1959</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>Bancroft (Neb.)</term>
+<term>New York</term>
+</keywords>
+<keywords scheme="lcsh" n="works">
+<term>The Walker</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName></persName>
-<placeName></placeName>
-<date when="1900"/>
+<persName ref="http://viaf.org/viaf/27433177">Rittenhouse, Jessie B. (Jessie Belle), 1869-1948</persName>
+<placeName ref="http://www.geonames.org/2643743">London (England)</placeName>
+<date when="1912-12-29"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
+<placeName ref="http://www.geonames.org/5037649">Minneapolis (Minn.)</placeName>
 </correspAction>
 </correspDesc>
-<particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+<particDesc><person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person></particDesc>
 </profileDesc>
 
 <revisionDesc>
@@ -149,7 +126,7 @@
 <opener>
 <salute>Dear Mr. Neihardt,</salute>
 </opener>
-<p>I was much interested to see <del/><unclear><add>on</add> the</unclear> announcement of the arrival of <unclear>a son to you</unclear> that you have moved to Minneapolis. Both events are most auspicious. It is fine <unclear>to have a son to go with the</unclear> little daughters how charming they will be together, and how it enriches your life and that of the gifted young mother of whom I have heard so much. 
+<p>I was much interested to see <del/><unclear><add>on</add> the</unclear> announcement of the arrival of a son to you that you have moved to Minneapolis. Both events are most auspicious. It is fine to have a son to go with the little daughter how charming they will be together, and how it enriches your life and that of the gifted young mother of whom I have heard so much. 
 
 <pb facs="nei.j4a.2.46-50_0002"/>
 <fw type="curatorial">47</fw>
@@ -158,22 +135,22 @@ Please give her my warm regards and congratulations, and keep many for yourself.
 
 <p>I did not know you had come to Minneapolis and it pleased me much, it seems nearer than Bancroft. I suppose you know Richard Burton, if not let me give you a card to him, he is one of my old and dear friends.</p>
 
-<p>About Mrs. Upson, I had received the notices of the books and the other day received a long letter from Mrs. Upson herself with whom I occasionally correspond. I knew Upson very well and we usually kept up quite a close correspondence, he was rare in every way, in gifts and personality. His sweetheart Miss Ruth Phelps, now teaching Italian at the University, I also know. She is a wealthy girl and <unclear/> she and Upson were soon to be married, I hope she does a good deal for Mrs. Upson. The last time I saw her was just as the complete Edition was being brought out. It was a great mistake to make it so bulky and expensive and include so much that should have been omitted.</p>
+<p>About Mrs. Upson, I had received the notices of the books and the other day received a long letter from Mrs. Upson herself with whom I occasionally correspond. I knew Upson very well and we usually kept up quite a close correspondence, he was rare in every way, in gifts and personality. His sweetheart Miss Ruth Phelps, now teaching Italian at the University, I also know. She is a wealthy girl and as she and Upson were soon to be married, I hope she does a good deal for Mrs. Upson. The last time I saw her was just as the complete Edition was being brought out. It was a great mistake to make it so bulky and expensive and include so much that should have been omitted.</p>
 
 <pb facs="nei.j4a.2.46-50_0003"/>
 <fw type="curatorial">48</fw>
 
-<p>I was surprised that Richard Burton did not edit it down (This is of course in confidences. If some have said had it been a smaller and chosier collection, The fact that Mosher now has such a collection, the cream of Upson's work, also arbitrates against it but it is certain that all of Upson's friends should do their best for his dear mother to whom he was greatly devoted. I brought the matter up at some length and <unclear>sympathetically</unclear> last night at The Society and several are going to subscribe. I will try to interest other friends in it also and help all that I can. You have been elected on The Advisory Board of the Society and any 
+<p>I was surprised that Richard Burton did not edit it down (This is of course in confidences. If some have said had it been a smaller and chosier collection, The fact that Mosher now has such a collection, the cream of Upson's work, also arbitrates against it but it is certain that all of Upson's friends should do their best for his dear mother to whom he was greatly devoted. I brought the matter up at some length and sympathetically last night at The Society and several are going to subscribe. I will try to interest other friends in it also and help all that I can. You have been elected on The Advisory Board of the Society and any 
 
 <pb facs="nei.j4a.2.46-50_0004"/>
 <fw type="curatorial">49</fw>
 
-suggestions at any time will be most welcome. We never had a more delightful night than last night's meeting a new poem by Mrs. <unclear>Makliane on</unclear> <unclear/>or, a magical thing was read, and a fine one from Sara Teasdale, with many others. We also read and discussed the poem <title>"The Walker"</title> written in <unclear>preserving Arliso Gigvanitti</unclear> it is a remarkable thing. Nothing in New York is so delightful as the Poetry Society, I wish you were near enough to come to the dinner and to my annual poetry party, which 
+suggestions at any time will be most welcome. We never had a more delightful night than last night's meeting a new poem by Mr. Markham on <unclear/>or, a magical thing was read, and a fine one from Sara Teasdale, with many others. We also read and discussed the poem <title>"The Walker"</title> written in <unclear>preserving</unclear> Arturo Giovannitti it is a remarkable thing. Nothing in New York is so delightful as the Poetry Society, I wish you were near enough to come to the dinner and to my annual poetry party, which 
 
 <pb facs="nei.j4a.2.46-50_0005a"/>
 <fw type="curatorial">50</fw>
 
-I am to give two nights before, on Sunday evening, Jan. 20th. a great many poets are coming. Could you not get your paper to send you to report the dinner etc. It would be <unclear/> you here. I hear Richard Burton is coming, he was here last year.</p>
+I am to give two nights before, on Sunday evening, Jan. 20th. a great many poets are coming. Could you not get your paper to send you to report the dinner etc. It would be fine to have you here. I hear Richard Burton is coming, he was here last year.</p>
 
 <p>Please extend very warm wishes to Mrs. Neihardt for the future of the little stranger, and with regards and New Year's wishes to both, I am</p>
 <closer>
@@ -195,7 +172,7 @@ Dec. 29. '12
 
 <pb facs="nei.j4a.2.46-50_0005b"/>
 
-<note type="Neihardt">Jessie <hi rend="caps">B.</hi> Rittenhouse Poetry Critic</note>
+<note type="Neihardt">Jessie B. Rittenhouse Poetry Critic</note>
 
 <ab type="postmark">NEW <unclear>YORK</unclear> NY ST<unclear/> DEC 28 12-PM 1912</ab>
 <figure>
@@ -205,7 +182,7 @@ Dec. 29. '12
 
 <ab type="address">
 <address>
-<addrLine>Mr. John <hi rend="caps">G.</hi> Neihardt</addrLine>
+<addrLine>Mr. John G. Neihardt</addrLine>
 <addrLine>The Minneapolis Journal</addrLine>
 <addrLine>Minneapolis,</addrLine>
 <addrLine>Minn.</addrLine>  
