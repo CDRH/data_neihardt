@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.32a.32">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.32a.27">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Burton R. Nelson to John G. Neihardtn November 18, 1968</title>
-<author>Nelson, Burton R.</author>
+<title type="main">Letter from John G. Neihardt to Don R. Mitchell, October 17, 2018</title>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
 <editionStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4a.32a.32</idno>
+<idno>nei.j4a.32a.27</idno>
 <availability>
 <p></p>
 </availability>
@@ -42,8 +42,8 @@
 <sourceDesc>
 <bibl>
 <author></author>
-<title level="m" type="main">Letter from Burton R. Nelson to John G. Neihardtn November 18, 1968</title>
-<date when="1968-11-18">November 18, 1968</date>
+<title level="m" type="main">Letter from John G. Neihardt to Don R. Mitchell, October 17, 2018</title>
+<date when="1968-10-17">October 17, 1968</date>
 <extent>1 page</extent>
 </bibl>
 <msDesc>
@@ -88,17 +88,17 @@
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Nelson, Burton R.</persName>
-<placeName ref="http://www.geonames.org/5069802">Hastings (Neb.)</placeName>
-<date when="1968-11-18"/>
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+<date when="1968-10-17"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
+<persName>Mitchell, Don R.</persName>
+<placeName ref="http://www.geonames.org/4381982">Columbia (Mo.)</placeName>
 </correspAction>
 </correspDesc>
 <particDesc>
-<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+<person role="recipient"><persName>Mitchell, Don R.</persName></person>
 </particDesc>
 </profileDesc>
 
@@ -114,32 +114,44 @@
 
 <div1 type="letter">
 
-<pb facs="nei.j4a.32a.32.001" />
-<fw type="curatorial">32</fw>
+<pb facs="nei.j4a.32a.27.001" />
+<fw type="curatorial">27</fw>
 <note type="curatorial"></note>
 
-<fw type="letterhead">HASTINGS MUSEUM
-HASTINGS, NEBRASKA, 68901</fw>
-
 <opener>
-<dateline>NOV. 18, 1968
+<address>
+<addrLine>
+Dr. John G. Neihardt</addrLine>
+<addrLine>5835 Vine Street</addrLine>
+<addrLine>Lincoln, Nebraska 68505</addrLine>
+</address>
+<dateline>October 17, 1968
 </dateline>
-<salute>DEAR DR. NEIHARDT,</salute>
+<address>
+<addrLine>Mr. Don R. Mitchell</addrLine>
+<addrLine>Associate Director of Instructional Television</addrLine>
+<addrLine>University of Missouri</addrLine>
+<addrLine>Columbia, Missouri 65201</addrLine>
+</address>
+<salute>Dear Mr. Mitchell:       (English 279)</salute>
 </opener>
 
-<p>I HAVE LIVED ONLY 38 YEARS, BUT I HAVE COME TO REALIZE THAT IN EVERY MAN'S LIFE THERE ARE MOMENTS WHICH ARE JEWELS TO BE PUT IN HIS TREASURE CHEST OF MEMORIES.</p>
+<p>I understand that Eastern Kentucky University has written you about my television course "Epic
+America" and that it is necessary for me to give permission before you can loan the tapes.
+<hi rend="crossed">x I hereby give you permission to loan any of my tv</hi></p>
 
-<p>LAST SATURDAY NIGHT AT THE <unclear>STUHR</unclear>MUSEUM YOU GAVE MY WIFE AND I A WHOLE STRING OF PEARLS.</p>
+<p>I am glad to give my permission.</p>
 
-<p>TO HEAR YOU RECITE YOUR OWN WORK MADE SUCH A DIFFERENCE. I HAVE ALWAYS FELT WHEN I READ A POEM OF LYRIC MYSELF, IT WAS LIKE PLAYING A FLUTE SONG ON THE TUBA - AND YOU PROVED ME RIGHT! THE PITCH, INFLECTION ETC. OF YOUR OWN VOICE MADE IT RIGHT.</p>
+<p>I am wondering if the people at Eatern Kentucky University know about my "Twilight of the Sioux".</p>
 
-<p>THANK YOU AGAIN FOR A WONDERFUL MEMORY.</p>
+<p>I am told that my old friend and assistant John Schweitzer will take this matter up with you.</p>
 
+<p>When I xxx return to Columbia I shall want to meet you.</p>
 
 <closer>
-<salute>SINCERELY,</salute>
-<signed>BURTON R. NELSON DIR.</signed>
-<note>HASTINGS MUSEUM</note>
+<salute>With all kinds thoughts</salute>
+<signed></signed>
+<note></note>
 </closer>
 
 </div1>
