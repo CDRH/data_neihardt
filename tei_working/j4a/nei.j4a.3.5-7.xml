@@ -1,173 +1,149 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.3.5-7_0001-3">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title type="main">Letter from Ina Coolbrith to John G. Neihardt, April 4, 1913</title>
-                <author>Neihardt, John Gneisenau, 1881-1973</author>
-                <principal>Gossin, Pamela</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date>2013</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <authority>The Papers of John G. Neihardt</authority>
-                <publisher>University of Nebraska-Lincoln</publisher>
-                <distributor>
-                    <name>Center for Digital Research in the Humanities</name>
-                    <address>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Ina Coolbrith to John G. Neihardt, April 4, 1913</title>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
 <addrLine>319 Love Library</addrLine>
 <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 <addrLine>cdrh@unlnotes.unl.edu</addrLine>
 </address>
-                </distributor>
-                <pubPlace>Lincoln, Nebraska</pubPlace> 
-                <address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-                <idno>nei.j4a.3.5-7_0001-3</idno>
-                <availability>
-                    <p></p>
-                </availability>
-            </publicationStmt>
-            
-            <notesStmt><note></note></notesStmt>
-            
-            <sourceDesc>
-                <bibl>
-                    <author>Neihardt, John Gneisenau, 1881-1973</author>
-                    <title level="m" type="main">Letter from Ina Coolbrith to John G. Neihardt</title>
-                    <date when="1913-04-04">April 4, 1913</date>
-                    <extent>3 pages</extent>
-                </bibl>
-                <msDesc>
-                    <msIdentifier>
-                        <repository></repository>
-                        <idno></idno>
-                    </msIdentifier>
-                    <msContents>
-                        <p>3 hand-written pages</p>
-                    </msContents>
-                    <physDesc>
-                        <objectDesc>
-                            <supportDesc>
-                                <support></support>
-                                <extent>3 pages
-                                    <dimensions unit="mm"><height></height><width></width></dimensions>
-                                </extent>
-                                <condition>
-                                    <p></p></condition>
-                            </supportDesc>
-                        </objectDesc>
-                        <handDesc hands="1">
-                            <handNote xml:id="type"><p>Media: type</p></handNote>
-                            <handNote xml:id="jgn1" medium="pen"><p>Media: black ink</p></handNote>
-                        </handDesc>
-                        <typeDesc>
-                            <typeNote><p></p></typeNote>
-                        </typeDesc>
-                    </physDesc>
-                    <history><origin></origin>
-                        <provenance></provenance>
-                        <acquisition></acquisition>
-                    </history>
-                </msDesc>
-                
-            </sourceDesc>
-        </fileDesc>
-        
-        <encodingDesc>
-            <editorialDecl>
-                <correction>
-                    <p></p>
-                </correction>
-                <normalization>
-                    <p></p>
-                </normalization>
-            </editorialDecl>
-        </encodingDesc>
-        
-        <profileDesc>
-            <textClass>
-                <keywords scheme="original" n="category">
-                    <term>Correspondence</term>
-                </keywords>
-                <keywords scheme="original" n="subcategory">
-                    <term>Business</term>
-                </keywords>
-                <keywords scheme="original" n="topic">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="keywords">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="people">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="places">
-                    <term></term>
-                </keywords>
-            </textClass>
-            <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
-        </profileDesc>
-        
-        <revisionDesc>
-            <change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
-            <change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
-            <change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
-            
-        </revisionDesc>
-    </teiHeader>
-    
-    <text>
-        <body>
-            
-            <div1 type="letter">
-                
-                <pb facs="nei.j4a.3.5-7_0001" />
+<idno>nei.j4a.3.5-7_0001-3</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
 
-                                                                                                        <fw type="curatorial">5</fw>
-                <opener>
-                    <dateline>
-                        1067 Broadway
-                        San Francisco Calif.
-                        April 4 1913
-                    </dateline>
+<notesStmt><note></note></notesStmt>
 
-                    <hi rend="underline">To</hi>
-                    
-                                            <address><addrLine>John <hi rend="caps">G.</hi> Neihardt.</addrLine></address>
+<sourceDesc>
+<bibl>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<title level="m" type="main">Letter from Ina Coolbrith to John G. Neihardt</title>
+<date when="1913-04-04">April 4, 1913</date>
+<extent>3 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+</msDesc>
 
-                    <salute>Dear Mr. Neihardt</salute>
-                </opener>
-                <p>I wonder if you have any respect for its woman, much less "veneration for the poet" remaining! I was stunned to-day<sic>today</sic> to find in a package of unaswered letters, put away when I fell ill last June by my house-
-                    
-                    <pb facs="nei.j4a.3.5-7_0002"/>
-                    <fw type="curatorial">6</fw>
-                    
-                    companion, and certainly overlooked, <emph><hi rend="underline">your</hi></emph> letter of June 26 &#8212; 1912!! Now what can I say or do? I beg your pardon: would do so on my knees if it did not hurt so. Besides, I think it undignified to pray standing and look up. I am ill a great deal, being nearly at a time to don a new body or pass into oblivion and its "breakdown" which kept your letter from me lasted from June last to January '13.</p>
-                
-                <p>You were to take charge of the literary department of the <title>Minneapolis Journal</title> in September, eight months ago, and I suppose the length of time has <unclear>farvese in out.</unclear> If not, I'll try to drag out some dates upon hearing from you. Write me anyway, and tell me you forgive, now that you understand. I reach out warm hands to the <title>"Builders"</title> of the new generation, &#8212; for, alas! have I not seen
+</sourceDesc>
+</fileDesc>
 
-                    <pb facs="nei.j4a.3.5-7_0003"/>
-                                                                                                                                <fw type="curatorial">7</fw>
 
-                    nearly all of mine pass into the silence.</p>
-    
-                <p>Bret Harte, Mark Twain, Prentice Mulford, Charley Stoddard, Joaquin Miller &#8212; friends of a lifetime. I am the last of my Clan.</p>
-                <closer>
-                                                <signed>Ina Coolbrith</signed> 
-                </closer>
-                
-            </div1>
-        </body>
-        
-        <back></back>
-    </text>
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName></persName>
+<placeName></placeName>
+<date when="1900"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName></persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Review; Additional Encoding</change>
+<change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.3.5-7_0001" />
+
+<fw type="curatorial">5</fw>
+<opener>
+<dateline>
+  1067 Broadway
+  San Francisco Calif.
+  April 4 1913
+</dateline>
+
+<hi rend="underline">To</hi>
+
+<address><addrLine>John <hi rend="caps">G.</hi> Neihardt.</addrLine></address>
+
+<salute>Dear Mr. Neihardt</salute>
+</opener>
+<p>I wonder if you have any respect for its woman, much less "veneration for the poet" remaining! I was stunned to-day<sic>today</sic> to find in a package of unaswered letters, put away when I fell ill last June by my house-
+
+<pb facs="nei.j4a.3.5-7_0002"/>
+<fw type="curatorial">6</fw>
+
+  companion, and certainly overlooked, <emph><hi rend="underline">your</hi></emph> letter of June 26 &#8212; 1912!! Now what can I say or do? I beg your pardon: would do so on my knees if it did not hurt so. Besides, I think it undignified to pray standing and look up. I am ill a great deal, being nearly at a time to don a new body or pass into oblivion and its "breakdown" which kept your letter from me lasted from June last to January '13.</p>
+
+<p>You were to take charge of the literary department of the <title>Minneapolis Journal</title> in September, eight months ago, and I suppose the length of time has <unclear>farvese in out.</unclear> If not, I'll try to drag out some dates upon hearing from you. Write me anyway, and tell me you forgive, now that you understand. I reach out warm hands to the <title>"Builders"</title> of the new generation, &#8212; for, alas! have I not seen
+
+<pb facs="nei.j4a.3.5-7_0003"/>
+<fw type="curatorial">7</fw>
+
+  nearly all of mine pass into the silence.</p>
+
+<p>Bret Harte, Mark Twain, Prentice Mulford, Charley Stoddard, Joaquin Miller &#8212; friends of a lifetime. I am the last of my Clan.</p>
+<closer>
+<signed>Ina Coolbrith</signed> 
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
 </TEI>
