@@ -78,16 +78,19 @@
 <keywords scheme="lcsh" n="places">
 <term></term>
 </keywords>
+<keywords scheme="lcsh" n="works">
+<term></term>
+</keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName ref="http://viaf.org/viaf/76330588">Mencken, H.L. (Henry Louis), 1880-1956</persName>
-<placeName></placeName>
-<date when="1900"/>
+<placeName ref="http://www.geonames.org/4347778">Baltimore (Md.)</placeName>
+<date when="1917-03-13"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<placeName></placeName>
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5037649">Minneapolis (Minn.)</placeName>
 </correspAction>
 </correspDesc>
 <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person></particDesc>

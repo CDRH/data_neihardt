@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.3.8-12_0001-5">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.3.8-12">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4a.3.8-12_0001-5</idno>
+<idno>nei.j4a.3.8-12</idno>
 <availability>
 <p></p>
 </availability>
@@ -72,21 +72,44 @@
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Miller, Joaquin, 1837-1913</term>
+<term>Phillips</term>
+<term>Stoddard, Charles Warren, 1843-1909</term>
+<term>Sister Anthony</term>
+<term>Byron</term>
+<term>
+Pelham, John Thomas, 1811-1894</term>
+<term>Constantine I, King of the Hellenes, 1868-1923</term>
+<term>William Winter</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>Minneapolis (Minn.)</term>
+<term>Sausalito (Calif.)</term>
+<term>San Francisco (Calif.)</term>
+<term>California</term>
+</keywords>
+<keywords scheme="lcsh" n="works">
+<term>Notre Dame Quarterly</term>
+<term>Lancet Magazine</term>
+<term>National Magazine</term>
+<term>My little book of Verse</term>
+<term>Monitor</term>
+<term>Psalm of the Great Ship</term>
+<term>With a Wreath of Laurel</term>
+<term>Songs of the Sierras</term>
+<term>With Burns and Byron</term>
+<term>Harper's</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName></persName>
-<placeName></placeName>
-<date when="1900"/>
+<persName ref="http://viaf.org/viaf/2093511">Coolbrith, Ina D. (Ina Donna), 1841-1928</persName>
+<placeName ref="http://www.geonames.org/5391959">San Fransisco (Calif.)</placeName>
+<date when="1913-04-20"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<placeName></placeName>
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5063451">Bancroft (Neb.)</placeName>
 </correspAction>
 </correspDesc>
 <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person></particDesc>
@@ -110,20 +133,20 @@
 
 <opener>
 <dateline>
-  1067 Broadway
-  San Francisco Calif.
+  1067 Broadway<lb/>
+  San Francisco Calif.<lb/>
  April 20 &#8212; 1913
 </dateline>
 
 <hi rend="underline">To</hi>
 
-  John <hi rend="caps">G.</hi> Neihardt.
+  John G. Neihardt.
 
 <salute>My dear boy:</salute>
 </opener>
 <p>Your prompt and generous response to my letter touched me deeply. And I thank you for your reverent friendship.</p>
 
-<p>Though your answer came from Minneapolis I send this to Bancroft. And with it personal diction in the <title>"<foreign>Notre Dame</foreign>Quarterly"</title> for June, 1912, <title>Lancet Magazine</title> of July,
+<p>Though your answer came from Minneapolis I send this to Bancroft. And with it personal diction in the <title>"Notre Dame Quarterly"</title> for June, 1912, <title>Lancet Magazine</title> of July,
 
 <fw type="curatorial">8</fw>
 
@@ -131,20 +154,20 @@
 
   1902, and <title>National Magazine</title>, June 1907, and my little book of Verse. The clipping about Joaquin Miller which I enclose, please return, also the <title>Lancet Magazine.</title></p>
 
-<p>Of course, the tribute in the <title><foreign>"Notre Dame"</foreign></title> is not a criticism, I fully understand, <add>but</add> a eulogy borne of affection, all the more wonderful because I am not a Catholic, nor were my people of that creed. Mr. Phillips, whose beautiful poem is on p. 45, is editor of the Catholic <title>"Monitor"</title> <unclear>haste</unclear> 
+<p>Of course, the tribute in the <title>"Notre Dame"</title> is not a criticism, I fully understand, <add>but</add> a eulogy borne of affection, all the more wonderful because I am not a Catholic, nor were my people of that creed. Mr. Phillips, whose beautiful poem is on p. 45, is editor of the Catholic <title>"Monitor"</title> <unclear/> 
 
 <pb facs="nei.j4a.3.8-12_0002"/>
 <fw type="curatorial">9</fw>
 
-<unclear>He</unclear> was a great friend of my <unclear>lifechosen</unclear>, Charles <unclear>Morris</unclear> Stoddard, from whom I seem to have "inherited" him. A splendid young man, &#8212; about your age. I have made some corrections in the <title><foreign>"Notre Dame"</foreign></title>. On page 48, marked "letter will explain.", is meant the <unclear>last</unclear> I received from two "Friends" started for me in my earthquake wreck, and the treatment from the two children whom I <del/> rescued. I want nothing to be said about this.</p>
+He was a great friend of my <unclear>lifechosen</unclear>, Charles Warren Stoddard, from whom I seem to have "inherited" him. A splendid young man, &#8212; about your age. I have made some corrections in the <title>"Notre Dame"</title>. On page 48, marked "letter will explain.", is meant the <unclear/> I received from two "Friends" started for me in my earthquake wreck, and the treatment from the two children whom I <del/> rescued. I want nothing to be said about this.</p>
 
-<p>I have no good photographs. All were destroyed in the <emph><hi rend="double underline">Fire</hi></emph>, and I would not now expose any camera to disaster. I send you a duplicate of the one in my book, which please return.</p>
+<p>I have no good photographs. All were destroyed in the <hi rend="double underline">Fire</hi>, and I would not now expose any camera to disaster. I send you a duplicate of the one in my book, which please return.</p>
 
-<p>Sister Anthony, editor of the <title><foreign>"Notre Dame"</foreign></title>, is the author of the <title>"Psalm of the Great Ship,"</title> at close of the magazine.</p>
+<p>Sister Anthony, editor of the <title>"Notre Dame"</title>, is the author of the <title>"Psalm of the Great Ship,"</title> at close of the magazine.</p>
 
 <p>Hope you can read this. Hand is so tired. I am sadly in need of a secretary.</p>
 <closer>
-<salute>May I close wtih <foreign>Aloha</foreign></salute>
+<salute>May I close wtih Aloha</salute>
 
 <signed>Ina Coolbrith</signed>
 </closer>
@@ -155,11 +178,11 @@
 <postscript>
 <p>On p. 61 of my book you will find <title>"With a Wreath of Laurel.</title> In a note to the first English and American editons of his "Songs of the Sierras" Joaquin Miller writes:
 <lb/>
-"The day before my departure for Europe last summer (1870) a small party sailed out to the beautiful sea-front of Saucelito<sic>Sausalito</sic>, lying in the great Bay of San Francisco, forever green in its crown of California laurel, and there the fairest hands of the youngest and fairest city of the New World wove a wreath of Bay for the tomb of Byron. I bro't<sic>brought</sic> it over the Rocky Mts. and the seas and placed it above the dust of the poet as desired. The wreath hangs now on the dark and dusty wall of the Church of the Hucknall Tokard<sic>Torkard</sic>."</p>
+"The day before my departure for Europe last summer (1870) a small party sailed out to the beautiful sea-front of Saucelito, lying in the great Bay of San Francisco, forever green in its crown of California laurel, and there the fairest hands of the youngest and fairest city of the New World wove a wreath of Bay for the tomb of Byron. I bro't it over the Rocky Mts. and the seas and placed it above the dust of the poet as desired. The wreath hangs now on the dark and dusty wall of the Church of the Hucknall Tokard."</p>
 
-<p>In Mr. Miller's <title>"With Burns and Byron"</title> and in later editions of works in <title><unclear>"London</unclear> Seas"</title> <unclear>scans</unclear> these lines:</p>
+<p>In Mr. Miller's <title>"With Burns and Byron"</title> and in later editions of works in <title><unclear>"London</unclear> Seas"</title> scans these lines:</p>
 <lb/>
-<lg><l>A bay-wreath wound by <emph><hi rend="double underline">Issa</hi></emph> of the West</l> 
+<lg><l>A bay-wreath wound by <hi rend="double underline">Ina</hi> of the West</l> 
 <l>Hangs damp and stained upon the dark gray wall,</l> 
 <l>Above thy time stained tomb and tattered crest;</l>
 <l>A bay-wreath gathered by the seas that call</l> 
@@ -168,25 +191,25 @@
 <fw>2</fw>
 <fw type="curatorial">11</fw>
 
-<l>Orient Cathay, that break and fall</l> 
+<l><supplied>To</supplied> Orient Cathay, that break and fall</l> 
 <l>On shell-lined shores before Tahiti's breeze.... </l>
 <l>A slab, a crest, a wreath, and these are all</l> 
 <l>Neglected, tattered, torn; yet only these</l>
 <l>the world bestows for song that rivals singing seas."</l></lg>
 
 <lg><l>A bay-wreath wound by our own truly brave</l>
-<l><unclear>Than Shastan</unclear>;</l> <l>fair as <unclear>thy</unclear> eternal <unclear>fame</unclear>,</l> 
+<l>Than Shastan; fair as thy eternal fame,</l> 
 <l>She sat and wove beside the sunset wave</l> 
-<l>And wound and say thy <unclear>errors sure <add>and</add> thy name."</unclear></l></lg>
+<l>And wound and say thy measures <add>and</add> thy name."</l></lg>
 
-<p>There is a strange sequel given to this incident given by Mr. Miller in a sketch he wrote of me in a local paper in 1892 just <hi rend="underline">2<del><unclear>3</unclear></del><add>2</add></hi> years after the sending of the wreath. Mr Miller writes: One fact . . . I must tell. Miss Coolbrith is the American who tore down the dilapidated old church at Hucknall-Tokard<sic>Torkard</sic> where Lord Byron is buried and rebuilt it at a cost of many thousands. And she did it in this way. At the time of that cruel insult to the <add>mighty</add> poet's memory she made a wreath of laurel and sent it by sea on a pilgrimage to Byron's tomb. But the vicar protested against it. The  bitter abuse in America, however, aroused the lion in the British, and 
+<p>There is a strange sequel given to this incident given by Mr. Miller in a sketch he wrote of me in a local paper in 1892 just <hi rend="underline">2<del><unclear>3</unclear></del><add>2</add></hi> years after the sending of the wreath. Mr Miller writes: One fact . . . I must tell. Miss Coolbrith is the American who tore down the dilapidated old church at Hucknall-<choice><sic>Tokard</sic><corr>Torkard</corr></choice> where Lord Byron is buried and rebuilt it at a cost of many thousands. And she did it in this way. At the time of that cruel insult to the <add>mighty</add> poet's memory she made a wreath of laurel and sent it by sea on a pilgrimage to Byron's tomb. But the vicar protested against it. The  bitter abuse in America, however, aroused the lion in the British, and 
 
 <pb facs="nei.j4a.3.8-12_0005"/>
 <fw type="authorial"><hi rend="underline">3</hi></fw> <fw type="curatorial">12</fw>
 
-  a bitter clerical battle was fought in the old Norman church that had stood there for nearly <unclear>520</unclear> years. The matter was <unclear>final</unclear> by appeals to the Bishop of Norwich. The Bishop of Norwich sent to the King of Greece for another wreath, and so <unclear>lost the two bury</unclear> side by side above the dust of Byron, who had he lived, would have been King of the land he died to liberate from the Turk. But the King of Greece did more than this. So did the Bishop of Norwich. So <unclear>many perished</unclear> in and the church was rebuilt.</p>
+  a bitter clerical battle was fought in the old Norman church that had stood there for nearly <unclear>520</unclear> years. The matter was finally appealed to the Bishop of Norwich. The Bishop of Norwich sent to the King of Greece for another wreath, and so had the two <unclear/> side by side above the dust of Byron, who had he lived, would have been King of the land he died to liberate from the Turk. But the King of Greece did more than this. So did the Bishop of Norwich. So many <unclear/> in and the church was rebuilt.</p>
 
-<p>William Winter, the poet, in an article in <title>Harper's</title> recently, in speaking of this wreath <add>and</add> what grew out of the sending of it from America, gives the credit entirely to another. So it has been with her always, her name withheld <unclear>even in</unclear> the noblest work."</p>
+<p>William Winter, the poet, in an article in <title>Harper's</title> recently, in speaking of this wreath <add>and</add> what grew out of the sending of it from America, gives the credit entirely to another. So it has been with her always, her name withheld even in the noblest work."</p>
 
 <p>There is a great deal more but that is enough. I thought it might interest you.</p>
 </postscript>
