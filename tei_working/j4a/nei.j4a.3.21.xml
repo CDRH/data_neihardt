@@ -6,7 +6,7 @@
 <fileDesc>
 <titleStmt>
 <title type="main">Letter from Jessie B. Rittenhouse to John G. Neihardt, December, 1913</title>
-<author>Neihardt, John Gneisenau, 1881-1973</author>
+<author>Rittenhouse, Jessie B. (Jessie Belle), 1869-1948</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
 <editionStmt>
@@ -37,14 +37,14 @@
 </availability>
 </publicationStmt>
 
-<notesStmt><note>date from envelope</note></notesStmt>
+<notesStmt><note>date from postmark</note></notesStmt>
 
 <sourceDesc>
 <bibl>
-<author>Neihardt, John Gneisenau, 1881-1973</author>
+<author>Rittenhouse, Jessie B. (Jessie Belle), 1869-1948</author>
 <title level="m" type="main">Letter from Jessie B. Rittenhouse to John G. Neihardt</title>
-<date when="1913-12">December, 1913</date>
-<extent>1 page, plus envelope</extent>
+<date when="1913-12-13">December 13, 1913</date>
+<extent>postcard</extent>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -72,21 +72,23 @@
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Martinsen, Ada Ernst</term>
+<term>Pound, Ezra, 1885-1972</term>
+<term>Monroe, Harriet, 1860-1936</term>
 </keywords>
-<keywords scheme="lcsh" n="places">
-<term></term>
+<keywords scheme="lcsh" n="works">
+<term>Contemporania</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName></persName>
-<placeName></placeName>
-<date when="1900"/>
+<persName ref="http://viaf.org/viaf/27433177">Rittenhouse, Jessie B. (Jessie Belle), 1869-1948</persName>
+<placeName ref="http://www.geonames.org/5128581">New York City (N.Y.)</placeName>
+<date when="1913-12-13"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
+<placeName ref="http://www.geonames.org/5063451">Bancroft (Neb.)</placeName>
 </correspAction>
 </correspDesc>
 <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person></particDesc>
@@ -110,9 +112,9 @@
 
 <fw type="curatorial">21</fw>
 
-<note type="Neihardt">Jessie <hi rend="caps">B.</hi> Rittenhouse &#8212; critic + poet</note>
+<note type="Neihardt">Jessie B. Rittenhouse &#8212; critic + poet</note>
 
-<ab type="postmark">NEW YORK. N. <unclear>V.</unclear> DEC 13 6 <unclear>PM</unclear> 1913 STA. J.</ab>
+<ab type="postmark">NEW YORK. N. Y. DEC 13 6 PM 1913 STA. J.</ab>
 <figure>
 <figDesc>1 Cent Stamp</figDesc>
 <p>U.S.POSTALCARD 1 ONE CENT 1</p>
@@ -122,7 +124,7 @@
  
 <ab type="address">
 <address>
-<addrLine>Mr. John <hi rend="caps">G.</hi> Neihardt</addrLine>
+<addrLine>Mr. John G. Neihardt</addrLine>
 <addrLine>Bancroft</addrLine>
 <addrLine>Nebraska</addrLine>
 </address>
@@ -134,7 +136,7 @@
 
 <pb facs="nei.j4a.3.21b"/>
 
-<opener><salute>Dear Mr. Neihardt &#8212;</salute></opener> <p>Yes I had the whole article and am delighted with it all. Am much interested in all you are doing. I see Mrs. Martinson frequently, she is very busy with the theatre project. I rejoice <unclear>to</unclear> hear you say what you do of Ezra Pound's latest stuff, it is an unspeakable insult &amp; the public <unclear>in Harriet Morris</unclear> to your work <unclear>eliz us his Centenary persons</unclear> on us <unclear>the joyous of poetry.</unclear> He has something personal blatant use of abominable in his Dec. Smart Set. I do hope you will say what you think about it. I shall <unclear>wait down a reply of his early persons limir some in my tor back the person I am now glad hinder the book wonderfully as is.</unclear></p>
+<opener><salute>Dear Mr. Neihardt &#8212;</salute></opener> <p>Yes I had the whole article and am delighted with it all. Am much interested in all you are doing. I see Mrs. Martinsen frequently, she is very busy with the theatre project. I rejoice to hear you say what you do of Ezra Pound's latest stuff, it is an unspeakable insult to the public for Harriet Monroe to foist such stuff as his Contemporania on us in the name of poetry. He has something just as blatant and abominable in the Dec. Smart Set. I do hope you will say what you think about it. I shall. I wanted to use a couple of his early poems <unclear/> in my book but he refused. I am now glad he did. The book goes wonderfully as it is.</p>
 <closer>
 <signed>J. B. R.</signed>
 </closer>

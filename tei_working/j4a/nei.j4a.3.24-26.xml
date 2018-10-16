@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.3.24-26_0001-3">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.3.24-26">
 <teiHeader>
 <fileDesc>
 <titleStmt>
 <title type="main">Letter from John Galen Howard to John G. Neihardt, June 3, 1914</title>
-<author>Neihardt, John Gneisenau, 1881-1973</author>
+<author>Howard, John Galen, 1864-1931</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
 <editionStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4a.3.24-26_0001-3</idno>
+<idno>nei.j4a.3.24-26</idno>
 <availability>
 <p></p>
 </availability>
@@ -41,7 +41,7 @@
 
 <sourceDesc>
 <bibl>
-<author>Neihardt, John Gneisenau, 1881-1973</author>
+<author>Howard, John Galen, 1864-1931</author>
 <title level="m" type="main">Letter from John Galen Howard to John G. Neihardt</title>
 <date when="1914-06-03">June 3, 1914</date>
 <extent>2 pages, plus envelope</extent>
@@ -77,16 +77,20 @@
 <keywords scheme="lcsh" n="places">
 <term></term>
 </keywords>
+<keywords scheme="lcsh" n="works">
+<term>Minneapolis Journal</term>
+<term>Brunelleschi</term>
+</keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName></persName>
-<placeName></placeName>
-<date when="1900"/>
+<persName ref="http://viaf.org/viaf/67406259">Howard, John Galen, 1864-1931</persName>
+<placeName ref="http://www.geonames.org/5391959">San Fransisco (Calif.)</placeName>
+<date when="1914-06-03"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
+
 </correspAction>
 </correspDesc>
 <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person></particDesc>
@@ -108,12 +112,12 @@
 
 <pb facs="nei.j4a.3.24-26_0001" />
 
-<note type="curatorial"><hi rend="caps">A</hi> 10 Neihardt Collection 24</note>
+<note type="curatorial">A 10 Neihardt Collection 24</note>
 
 <fw type="curatorial">24</fw>
 
 <fw type="letterhead">
-<hi rend="caps">
+
   JOHN GALEN HOWARD
 <lb/>
   ARCHITECT
@@ -125,25 +129,25 @@
   SAN FRANCISCO
   JOHN GALEN HOWARD
  _____
-  WILLIAM OTIS RAIGUEL</hi>
+  WILLIAM OTIS RAIGUEL
 </fw>
 
 <opener>
 <dateline>3 June, 1914.</dateline>
 
 <address>
-<addrLine><hi rend="caps">J. G.</hi> Neihardt Esq</addrLine>
+<addrLine>J. G. Neihardt Esq</addrLine>
 <addrLine><title>Minneapolis Journal, &#8212;</title></addrLine>
 </address>
 
 <salute>Dear Sir, &#8212;</salute>
 </opener>
-<p>Let me thank you very sincerely for your capital review of my <title><foreign>Brunelleschi</foreign></title> &#8212; you say such good things of it that of course I am mightily pleased, and very likely the things that are not so pleasant are quite as "good". This going into print is a <unclear>parlous business.</unclear> After writng verse all my life and keeping it mostly to myself (where it belonged) I make a tardy debut before the public because these things must be said aloud.</p>
+<p>Let me thank you very sincerely for your capital review of my <title><foreign>Brunelleschi</foreign></title> &#8212; you say such good things of it that of course I am mightily pleased, and very likely the things that are not so pleasant are quite as "good". This going into print is a parlous business. After writng verse all my life and keeping it mostly to myself (where it belonged) I make a tardy debut before the public because these things must be said aloud.</p>
 
 <pb facs="nei.j4a.3.24-26_0002"/>
  <fw type="curatorial">25</fw>
 
-<p>I must say that my opinion of the competency of critics has not, on the whole, been raised by the notices of my old boy. But your lines have raised it, and not merely because you have been kind. You have been, and you have not been afraid to say so, something of what I am driving at, which is this, &#8212; to isolate and to portray <emph>the artist</emph>. I'm not talking of temperament but of constitution. In  <title><foreign>Brunelleschi</foreign></title>, you have, if you have anything, an architect, pure and simple, &#8212; mind, heart, soul. Now I am working further afield, and I shall want your criticism. I shall value it. I wish you would let me know where you hang out. I'd like to shake your hand, and I often go east. Perhaps, too, you sometimes cross the Sierras. The  bulliest thing about publishing is <unclear>ful</unclear> that someone out there in the dark has heard your call.</p>
+<p>I must say that my opinion of the competency of critics has not, on the whole, been raised by the notices of my old boy. But your lines have raised it, and not merely because you have been kind. You have been, and you have not been afraid to say so, something of what I am driving at, which is this, &#8212; to isolate and to portray <hi rend="underline">the artist</hi>. I'm not talking of temperament but of constitution. In  <title><foreign>Brunelleschi</foreign></title>, you have, if you have anything, an architect, pure and simple, &#8212; mind, heart, soul. Now I am working further afield, and I shall want your criticism. I shall value it. I wish you would let me know where you hang out. I'd like to shake your hand, and I often go east. Perhaps, too, you sometimes cross the Sierras. The  bulliest thing about publishing is <unclear>but</unclear> that someone out there in the dark has heard your call.</p>
 <closer>
 <salute>Gratefully yours</salute>
  <signed>J. G. Howard</signed>

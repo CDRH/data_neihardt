@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.3.14-15_0001-2">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.3.14-15">
 <teiHeader>
 <fileDesc>
 <titleStmt>
 <title type="main">Letter from Ina Coolbrith to John G. Neihardt, July 25, 1913</title>
-<author>Neihardt, John Gneisenau, 1881-1973</author>
+<author>Coolbrith, Ina D. (Ina Donna), 1841-1928</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
 <editionStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4a.3.14-15_0001-2</idno>
+<idno>nei.j4a.3.14-15</idno>
 <availability>
 <p></p>
 </availability>
@@ -41,7 +41,7 @@
 
 <sourceDesc>
 <bibl>
-<author>Neihardt, John Gneisenau, 1881-1973</author>
+<author>Coolbrith, Ina D. (Ina Donna), 1841-1928</author>
 <title level="m" type="main">Letter from Ina Coolbrith to John G. Neihardt</title>
 <date when="1913-07-25">July 25, 1913</date>
 <extent>1 page, plus envelope</extent>
@@ -77,16 +77,19 @@
 <keywords scheme="lcsh" n="places">
 <term></term>
 </keywords>
+<keywords scheme="lcsh" n="works">
+<term></term>
+</keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName></persName>
-<placeName></placeName>
-<date when="1900"/>
+<persName ref="http://viaf.org/viaf/2093511">Coolbrith, Ina D. (Ina Donna), 1841-1928</persName>
+<placeName ref="http://www.geonames.org/5391959">San Fransisco (Calif.)</placeName>
+<date when="1913-07-25"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
+<placeName ref="http://www.geonames.org/5063451">Bancroft (Neb.)</placeName>
 </correspAction>
 </correspDesc>
 <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person></particDesc>
@@ -113,8 +116,8 @@
 
 <opener>
 <dateline>
-  1067, Broadway
-  San Francisco Cal.
+  1067 Broadway<lb/>
+  San Francisco Cal.<lb/>
   July 25-1913
 </dateline>
 
@@ -146,7 +149,7 @@
 
 <ab type="address">
 <address>
-<addrLine>Mr. John <hi rend="caps">G.</hi> Neihardt</addrLine>
+<addrLine>Mr. John G. Neihardt</addrLine>
 <addrLine><del>c/o "The Minneapolis Journal</del></addrLine>
 <addrLine><add>Bancroft</add> <del>Minneapolis</del></addrLine>
 <addrLine><add>Nebraska</add> <del>Minn.</del></addrLine> 
@@ -156,8 +159,8 @@
 <pb facs="nei.j4a.3.14-15_0002b"/>
 
  <ab type="return">
- 1067, Broadway,
- San Francisco
+ 1067 Broadway,<lb/>
+ San Francisco<lb/>
  Calif.
  </ab>
  

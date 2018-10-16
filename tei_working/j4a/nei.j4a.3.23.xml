@@ -6,7 +6,7 @@
 <fileDesc>
 <titleStmt>
 <title type="main">Letter from Robert H. Davis to John G. Neihardt, April 29, 1914</title>
-<author>Neihardt, John Gneisenau, 1881-1973</author>
+<author>Davis, Robert H. (Robert Hobart), 1869-1942</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
 <editionStmt>
@@ -41,7 +41,7 @@
 
 <sourceDesc>
 <bibl>
-<author>Neihardt, John Gneisenau, 1881-1973</author>
+<author>Davis, Robert H. (Robert Hobart), 1869-1942</author>
 <title level="m" type="main">Letter from Robert H. Davis to John G. Neihardt</title>
 <date when="1914-04-29">April 29, 1914</date>
 <extent>1 page</extent>
@@ -72,21 +72,28 @@
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Sterling, George, 1869-1926</term>
+<term>Streamer, Volney, 1850-1915</term>
+<term>Neihardt, Mona Martinsen</term>
+<term>Neihardt, Enid</term>
+<term>Neihardt, Sigurd</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
+<term>Minneapolis (Minn.)</term>
+</keywords>
+<keywords scheme="lcsh" n="works">
 <term></term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName></persName>
-<placeName></placeName>
-<date when="1900"/>
+<persName ref="http://viaf.org/viaf/33493460">Davis, Robert H. (Robert Hobart), 1869-1942</persName>
+<placeName ref="http://www.geonames.org/5128581">New York City (N.Y.)</placeName>
+<date when="1914-04-29"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
+<placeName ref="http://www.geonames.org/5063451">Bancroft (Neb.)</placeName>
 </correspAction>
 </correspDesc>
 <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person></particDesc>
@@ -111,12 +118,12 @@
 <fw type="curatorial">23</fw>
 
 <fw type="letterhead">
-<hi rend="caps">
+
   THE FRANK A. MUNSEY COMPANY
 <lb/>
   175 FIFTH AVENUE
 <lb/>
-  NEW YORK</hi>
+  NEW YORK
 <lb/>
 
   Munsey's Magazine
@@ -135,7 +142,7 @@
 <hi rend="caps">RHD</hi>
 
 <address>
-<addrLine>Mr. John <hi rend="caps">G.</hi> Neihardt,</addrLine>
+<addrLine>Mr. John G. Neihardt,</addrLine>
 
 <addrLine>Bancroft, Nebraska.</addrLine>
 </address>
@@ -148,7 +155,7 @@
 
 <p>The last letter you wrote me was from Minneapolis. That was over a year ago. Surely all this time couldn't have intervened without your doing something important.</p>
 
-<p>Sterling intends to camp in this town permanently. I pulled out some back numbers of our magazine and showed him some of your best poetry. He has a rather high opinion of you, John - in fact,we both have.</p>
+<p>Sterling intends to camp in this town permanently. I pulled out some back numbers of our magazine and showed him some of your best poetry. He has a rather high opinion of you, John - in fact, we both have.</p>
 
 <p>I don't know what has become of Volney Streamer. I haven't seen him for months. Do you intend ever to show yourself again in New York? Have you given up short stories and novels? It is useless for me to go on asking questions, and I will say nothing further until I hear from you again.</p>
 
@@ -156,7 +163,7 @@
 <closer>
 <salute>Ever sincerely,</salute>
 
-<signed><unclear>Robert Davis</unclear></signed>
+<signed><unclear>Rbt Davis</unclear></signed>
 
 <note>GEJ</note>
 </closer>

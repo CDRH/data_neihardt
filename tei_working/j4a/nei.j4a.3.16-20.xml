@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.3.16-20_0001-5">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.3.16-20">
 <teiHeader>
 <fileDesc>
 <titleStmt>
 <title type="main">Letter from Louis Untermeyer to John G. Neihardt, Septemeber 15, 1913</title>
-<author>Neihardt, John Gneisenau, 1881-1973</author>
+<author>Untermeyer, Louis, 1885-1977</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
 <editionStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4a.3.16-20_0001-5</idno>
+<idno>nei.j4a.3.16-20</idno>
 <availability>
 <p></p>
 </availability>
@@ -41,7 +41,7 @@
 
 <sourceDesc>
 <bibl>
-<author>Neihardt, John Gneisenau, 1881-1973</author>
+<author>Untermeyer, Louis, 1885-1977</author>
 <title level="m" type="main">Letter from Louis Untermeyer to John G. Neihardt</title>
 <date when="1913-09-15">September 15, 1913</date>
 <extent>4 pages, plus envelope</extent>
@@ -72,21 +72,31 @@
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Fisher, Harrison, 1875-1934</term>
+<term>Viereck, George Sylvester, 1884-1962</term>
+<term>Rice, Cale Young, 1872-1943</term>
+<term>Untermeyer, Jean Starr, 1886-1970</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>Alaska</term>
+<term>Central America</term>
+</keywords>
+<keywords scheme="lcsh" n="works">
+<term>Love-Cry</term>
+<term>The Stranger at the Gate</term>
+<term>The Death of Agrippina</term>
+<term>The Masses Magazine</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName></persName>
-<placeName></placeName>
-<date when="1900"/>
+<persName ref="http://viaf.org/viaf/39541598">Untermeyer, Louis, 1885-1977</persName>
+<placeName ref="http://www.geonames.org/5128581">New York City (N.Y.)</placeName>
+<date when="1913-09-15"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
+<placeName ref="http://www.geonames.org/5063451">Bancroft (Neb.)</placeName>
 </correspAction>
 </correspDesc>
 <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person></particDesc>
@@ -111,36 +121,36 @@
 <fw type="curatorial">16</fw>
 
 <fw type="letterhead">
-<hi rend="caps">LOUIS UNTERMEYER</hi>
+LOUIS UNTERMEYER
 </fw>
 
 <opener>
-<dateline>September 15 <unclear>of</unclear> 1913</dateline>
+<dateline>September 15 1913</dateline>
 
 <salute>Dear Neihardt &#8212;</salute>
 </opener>
-<p>First, my tongue-tied apologies for misunderstanding part of <title>the "Love Cry."</title> Still, the early &amp; perhaps unreasoning prejudice against the <unclear>'vatic'</unclear> tone of the poem, persists . . . <emph><hi rend="underline">Peccavi</hi></emph> . . . . Surely, I feel <title>"The Stranger at the Gate"</title> is your most representative work, altho<sic>although</sic> there are several individual things in the other volumes I wouldn't want to lose. Some of those fiery little lyrics, for instance . . . But you've grown unquestionably &#8212; &amp;, please God, you're still growing. That's one of the things that make a reading of your stuff, actually thrilling . . . .But enough &#8212; I have forsworn superlatives for this week &#8212;  besides I'll think of your love for hyphens &#8212; &amp; damp my enthusiam!</p>
+<p>First, my tongue-tied apologies for misunderstanding part of <title>the "Love Cry."</title> Still, the early &amp; perhaps unreasoning prejudice against the 'vatic' tone of the poem, persists . . . <hi rend="underline">Peccavi</hi> . . . . Surely, I feel <title>"The Stranger at the Gate"</title> is your most representative work, altho there are several individual things in the other volumes I wouldn't want to lose. Some of those fiery little lyrics, for instance . . . But you've grown unquestionably &#8212; &amp;, please God, you're still growing. That's one of the things that make a reading of your stuff, actually thrilling . . . .But enough &#8212; I have forsworn superlatives for this week &#8212;  besides I'll think of your love for hyphens &#8212; &amp; damp my enthusiam!</p>
 
 <p>I envy you that mysterious
 
 <pb facs="nei.j4a.3.16-20_0002"/>
 <fw type="curatorial">17</fw>
 
-  possession of epical material which is "truly American" &amp; yet not Indian. What the devil can it be? And where (outside of Alaska or the Central American <emph><hi rend="underline">Mayas</hi></emph>) did you get it? I'm willing to wager it's cut out of different cloth than <hi rend="underline"><title>"The Death of Ag<del>g</del>rip<del>p</del>ina"</title></hi> &#8212; <unclear>Eh</unclear>?</p>
+possession of epical material which is "truly American" &amp; yet not Indian. What the devil can it be? And where (outside of Alaska or the Central American <hi rend="underline">Mayas</hi>) did you get it? I'm willing to wager it's cut out of different cloth than <hi rend="underline"><title>"The Death of Ag<del>g</del>rip<del>p</del>ina"</title></hi> &#8212; Eh?</p>
 
-<p>By the bye, I sent your volume to a friend of mine in England who amuses himself by doing occasional reviews. In his last letter he complained of the puerile way "we Americans" handled sex. He cited, among many scornful quotations, the imitative verse of <hi rend="caps">G. S.</hi> Viereck, the piffling pomposity of Cale Young Rice &amp; a few others . . . So I sent him one of your books as a counter-blast. I hope he finds the sincerity in it that I'm sure 
+<p>By the bye, I sent your volume to a friend of mine in England who amuses himself by doing occasional reviews. In his last letter he complained of the puerile way "we Americans" handled sex. He cited, among many scornful quotations, the imitative verse of G. S. Viereck, the piffling pomposity of Cale Young Rice &amp; a few others . . . So I sent him one of your books as a counter-blast. I hope he finds the sincerity in it that I'm sure 
 
 <pb facs="nei.j4a.3.16-20_0003"/>
  <fw type="curatorial">18</fw>
 
-  is there.</p>
+is there.</p>
 
 <p>I'm sending under separate cover a few recent copies of <hi rend="underline"><title>"The Masses"</title></hi> of which I am one of the least efficient editors. It may provoke but I'm certain it will interest you. If the art features in particular seem<del><unclear>s</unclear></del> wantonly 'raw' &amp; purposely crude, do not think it is done for the mere fun of shocking (in itself a rather fascinating pastime). They are (as the magazine itself is) a protest against the merely prettifying sort of stuff that fills the usual magazine &#8212; it is in the nature of an antidote to Harrisonfisherized art, &amp; ditto literature. We hope to make it the <hi rend="underline"><title>"Simplicissimus"</title></hi> of these broad (in area) states! With which ambitious &amp; rhetorical climax I can do no more
 
 <pb facs="nei.j4a.3.16-20_0004"/>
 <fw type="curatorial">19</fw>
 
-  than sign myself</p>
+than sign myself</p>
 <closer>
 <salute>Yours for the revolution,</salute>
 
@@ -148,12 +158,12 @@
 
 <address>
 <addrLine>231 West 97 St.</addrLine>
-<addrLine><hi rend="underline"><hi rend="caps">N.Y.C.</hi></hi></addrLine>
+<addrLine><hi rend="underline">N.Y.C.</hi></addrLine>
 </address>
 </closer>
 
 <postscript>
-<opener><hi rend="caps"><hi rend="double underline">P.</hi> S.</hi></opener>
+<opener><hi rend="double underline">P.</hi> S.</opener>
 
 <p>I am enclosing a few recent clippings that Burrelle insists on sending me (for $5 &#8212; per year!) I wish I had some better examples to send but it's always the weaker things that keep on getting quoted &#8212; <foreign>nichtwahr</foreign>?</p>
 
@@ -169,7 +179,7 @@
 
 <fw type="curatorial">20</fw>
 
-<note type="recipient">Louis Untermeyer (Reveals his bad disposition &amp; rather mean nature even while we were still friends</note>
+<note type="Neihardt">Louis Untermeyer (Reveals his bad disposition &amp; rather mean nature even while we were still friends</note>
 
 <ab type="postmark">NEW YORK, N Y. SEP 15 12 PM 1913 STA. H.</ab>
 <figure>
@@ -179,7 +189,7 @@
 
 <ab type="address">
 <address>
-<addrLine>John <hi rend="caps">G.</hi> Neihardt, Esq.</addrLine>
+<addrLine>John G. Neihardt, Esq.</addrLine>
 <addrLine>Bancroft,</addrLine>
 <addrLine>Nebraska.</addrLine>
 </address>
