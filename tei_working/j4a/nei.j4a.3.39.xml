@@ -6,7 +6,7 @@
 <fileDesc>
 <titleStmt>
 <title type="main">Letter from Upton Sinclair to John G. Neihardt, August 10, 1914</title>
-<author>Neihardt, John Gneisenau, 1881-1973</author>
+<author>Sinclair, Upton, 1878-1968</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
 <editionStmt>
@@ -41,7 +41,7 @@
 
 <sourceDesc>
 <bibl>
-<author>Neihardt, John Gneisenau, 1881-1973</author>
+<author>Sinclair, Upton, 1878-1968</author>
 <title level="m" type="main">Letter from Upton Sinclair to John G. Neihardt</title>
 <date when="1914-08-10">August 10, 1914</date>
 <extent>1 page</extent>
@@ -77,16 +77,19 @@
 <keywords scheme="lcsh" n="places">
 <term></term>
 </keywords>
+<keywords scheme="lcsh" n="works">
+<term>The Smart Set</term>
+</keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName></persName>
-<placeName></placeName>
-<date when="1900"/>
+<persName ref="http://viaf.org/viaf/32002923">Sinclair, Upton, 1878-1968</persName>
+<placeName ref="http://www.geonames.org/5114221">Croton-on-Hudson (N. Y.)</placeName>
+<date when="1914-08-10"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName></placeName>
+<placeName ref="http://www.geonames.org/5128581">New York City (N.Y.)</placeName>
 </correspAction>
 </correspDesc>
 <particDesc><person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person></particDesc>
@@ -110,19 +113,19 @@
 
 <fw type="curatorial">39</fw>
 <fw type="letterhead">
-<hi rend="caps">
+
   UPTON SINCLAIR
 <lb/>
   CROTON-ON-HUDSON, N. Y. 
 <lb/>
-  TELEPHONE: CROTON 85</hi></fw>
+  TELEPHONE: CROTON 85</fw>
 <opener>
  <dateline>August 10, 1914</dateline>
 
 <address>
-<addrLine>Mr. John <hi rend="caps">G.</hi> Neihardt</addrLine>
+<addrLine>Mr. John G. Neihardt</addrLine>
 <addrLine>c/o The Smart Set</addrLine>
-<addrLine>New York, <hi rend="caps">N. Y.</hi></addrLine>
+<addrLine>New York, N. Y.</addrLine>
 </address>
 
 <salute>Dear Sir: &#8212;</salute>
