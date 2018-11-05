@@ -1,27 +1,163 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 17
-SUPERINTENDENT PUBLIC INSTRUCTION
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.33.17">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Eldon Cunningham to John G. Neihardt, April 3, 1969</title>
+<author>Cunninghma, Eldon</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.33.17</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Eldon Cunningham to John G. Neihardt, April 3, 1969</title>
+<date when="1969-04-03">April 3, 1969</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Cunningham, Eldon P.</persName>
+<placeName ref="http://www.geonames.org/5069297">Grand Island (Neb.)</placeName>
+<date when="1969-04-03"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.33.17.001" />
+<fw type="curatorial">17</fw>
+<note type="curatorial"></note>
+
+<fw type="letterhead">SUPERINTENDENT PUBLIC INSTRUCTION
 HALL COUNTY
 GRAND ISLAND, NEBRASKA
 ELDON P. CUNNINGHAM, SUPERINTENDENT 
-MRS. ELNORA M. WOODS, SECRETARY
-April 3, 1969
+MRS. ELNORA M. WOODS, SECRETARY</fw>
 
-Mr. John G. Neihardt
-c/o J. D. Young
-5835 Vine Street
-Lincoln, Nebraska 68500
+<opener>
+<dateline>April 3, 1969
+</dateline>
+<address>
+<addrLine>Mr. John G. Neihardt</addrLine>
+<addrLine>c/o J. D. Young</addrLine>
+<addrLine>5835 Vine Street</addrLine>
+<addrLine>Lincoln, Nebraska 68500</addrLine>
+</address>
+<salute>Dear Mr. Neihardt:</salute>
+</opener>
 
-Dear Mr. Neihardt:
 <p>Enclosed are two pictures taken at Stuhr Museum after the play "800 Rubles".</p>
+
 <p>Would there be any possiblity of your coming out to the Halsey National Forest, Halsey, Nebraska on either May 26 p.m., 27 or 28 a.m.?</p>
+
 <p>The District IV County Superintendents Association has a meeting there on these days and we are look-ing for program material.</p>
+
 <p>If you could come what would the fee be?</p>
-Sincerely yours,
+
+<closer>
+<salute>Sincerely yours,</salute>
 <signed>Eldon Cunningham</signed>
-Eldon Cunningham
+<fw type="authorial">Eldon Cunningham
 County Superintendent
 Court House
-Grand Island, Nebraska 68801
-EC:ew
-Enclosure
+Grand Island, Nebraska 68801</fw>
+<note>EC:ew
+Enclosure</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

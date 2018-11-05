@@ -1,15 +1,152 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 22
-April 27, 1969
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-Dear John,
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.33.22.23">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Lucile Folse Aly to John G. Neihardt, April 27, 1969</title>
+<author>Aly, Lucile Folse</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.33.22.23</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Lucile Folse Aly to John G. Neihardt, April 27, 1969</title>
+<date when="1969-04-27">April 27, 1969</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="http://viaf.org/viaf/50467731">Aly, Lucile Folse, 1913-</persName>
+<placeName></placeName>
+<date when="1969-04-27"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.33.22.23.001" />
+<fw type="curatorial">22</fw>
+<note type="curatorial"></note>
+
+<opener>
+<dateline>April 27, 1969
+</dateline>
+<salute>Dear John,</salute>
+</opener>
+
 <p>I've just finished revision on another chapter, and here is a progress report: I will be able to get the manuscript in the mail to you about Friday, I think. It won't have the bibliography, because I've still got to fine-tooth-comb that, but it will have all the chapters and the title pages; I'm putting a quotation on each one, and I hope you'll let me know if you think some other lines would be better. There is also a quotation on the division pages between the three parts.</p>
-<p>I think I can get away on June 6 to fly to Nebraska; I don't have reservations yet, so I'll have to let you know definitely. I think I ought not to stay with the Youngs; it's really an imposition, kind as Mrs. Yound is about it, because I'll want to work at night after we put in the days, and I don't think she should add an extra to her household anyway while you're all getting ready for a trip. But for at least three days we'll have all the time you feel like putting in.</p>
-<p>I am <underline>so glad</underline> about your eyes! It's wonderful to be seeing better, I'm sure, and I'm looking forward very much to your seeing me!! And my seeing you. We'll have a lot to talk about. I thoroughly enjoyed Mr. Summer-field. He was here for an institute or some such, and I went to the dinner given by the director, and met him there. I worried a little about my social behavior afterward, because he was the guest of honor, and once the magic name <underline>Neihardt</underline> was spoken we sort of put our heads together for the whole evening, and I thought I had rather monopolized him. But I wanted to hear about you and the hospital stay, and he wanted to know <underline>all</underline> about you and your life and your family and your work. He's a delightful person, and I enjoyed hearing him describe you with an audience of children. I've seen this myself, but it's interesting to see the look I'm sure is on my face watching you appear on his!</p>
-Page 23
+
+<p>I think I can get away on June 6 to fly to Nebraska; I don't have reservations yet, so I'll have
+to let you know definitely. I think I ought not to stay with the Youngs; it's really an imposition, kind as Mrs. Yound is about it, because I'll want to work at night after we put in the days, and I don't think she should add an extra to her household anyway while you're all getting ready for a trip. But for at least three days we'll have all the time you feel like putting in.</p>
+
+<p>I am <hi rend="underline">so glad</hi> about your eyes! It's wonderful to be seeing better, I'm sure, and I'm looking forward very much to your seeing me!! And my seeing you. We'll have a lot to talk about. I thoroughly enjoyed Mr. Summer-field. He was here for an institute or some such, and I went to the dinner given by the director, and met him there. I worried a little about my social behavior afterward, because he was the guest of honor, and once the magic name <hi rend="underline">Neihardt</hi> was spoken we sort of put our heads together for the whole evening, and I thought I had rather monopolized him. But I wanted to hear about you and the hospital stay, and he wanted to know <hi rend="underline">all</hi> about you and your life and your family and your work. He's a delightful person, and I enjoyed hearing him describe you with an audience of children. I've seen this myself, but it's interesting to see the look I'm sure is on my face watching you appear on his!</p>
+
+<fw type="curatorial">23</fw>
 <p>I want to assure you too that you are quite right about Sigurd; I have gone carefully through the manuscript and deleted anything that could possibly give him a bad moment. Actually I have always admired Sigurd and sypathized with him very much; he should have been a concert planist, but who could be in the thirities unless he was subsidized pretty grandly? I think he managed with great courage to surmount the frustration of knowing you have talent and not being allowed by circumstances to use it. The years with you would be golden years for anybody, and I'm glad he has them to remember. You must have had a wonderful time batting around together. I was glad to hear that he is better; he certainly has an indomitable spirit-- and I know how he came by that!</p>
+
 <p>We are all well and busy. I am living in my study except for the classes I have to teach. This term I have two very pleasant black students, and I hope for no fireworks. I have some real reservations about bringing disadvantaged students to the university whether they are qualified and motivated to learn or not. I can't see these people who want to play along and still get credit for classes they don't attend. We haven't had riots yet, but we still may--these are chancey times on campuses.</p>
+
 <p>Stewart sends love. He is on cloud 27 (way above 9!) and is now set for next year, with a teaching assistanceship here in the history de-partment for the year, with luck he can finish his MA before service. Susan will be out ot visit us for part of the summer, and they will be married early in September in New Jersey. It's easy to marry sons--all I have to do is buy a new dress and get there!</p>
-Love form Bower and Jingle too. Please give mine to the Youngs,
-and a lot is for you.
-<signed>Lucile  </signed>(<gap reason="cut off"/> me!)
+
+<closer>
+<salute>Love form Bower and Jingle too. Please give mine to the Youngs,
+and a lot is for you.</salute>
+<signed></signed><signed>Lucile  </signed>(<gap reason="cut off"/> me!)<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
