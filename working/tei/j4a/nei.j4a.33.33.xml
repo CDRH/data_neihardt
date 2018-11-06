@@ -1,6 +1,136 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 33
-PRINCETON
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.33.33">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Stewart Folse ALy to John G. Neihardt, June 11, 1969</title>
+<author>Aly, Stewart Folse</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.33.33</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Stewart Folse ALy to John G. Neihardt, June 11, 1969</title>
+<date when="1969-06-11">June 11, 1969</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Aly, Stewart Folse</persName>
+<placeName ref="http://www.geonames.org/5102922/princeton.html">Princeton (N.J.)</placeName>
+<date when="1969-06-11"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.33.33.001" />
+<fw type="curatorial">33</fw>
+<note type="curatorial"></note>
+
+<opener>
+<address>
+<addrLine>
+314 1903 Hall</addrLine>
+<addrLine>Princeton University</addrLine>
+<addrLine>Princeton, N.J.</addrLine>
+<addrLine>Stewart Aly_</addrLine>
+<addrLine>6-11-69</addrLine>
+</address>
+<dateline>
+</dateline>
+<salute></salute>
+</opener>
 
 <p>The Class of 1969
 of 
@@ -10,18 +140,23 @@ Commencement Exercises
 Tuesday morning, June tenth
 Princeton, New Jersey</p>
 
-Stewart Folse Aly
+<figure type="stamp"><ab>6c FRANKLIN G. ROOSEVELT U.S. POSTAGE</ab></figure>
+<figure type="stamp"><ab>Ink Stamp: PRINCETON, NJ  JUN 9 PM 1969 08540</ab></figure>
 
-314 1903 Hall
-Princeton University
-Princeton, N.J.
-Stewart Aly_
-6-11-69
-
-Dr. John G. Neihardt
+<note>Dr. John G. Neihardt
 5835 Vine St.
 Lincoln, Nebraska
-            68505
+            68505</note>
 
-Ink Stamp: PRINCETON, NJ  JUN 9 PM 1969 08540
-Stamp: 6c FRANKLIN G. ROOSEVELT U.S. POSTAGE
+<closer>
+<salute></salute>
+<signed>Stewart Folse Aly</signed>
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

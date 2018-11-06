@@ -1,14 +1,155 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 31
-May 19, 1969
-Dear Mr. Neihardt:
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.33.31">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Dorothy C. Meade to John G. Neihardt, May 19, 1969</title>
+<author>Meade, Dorothy C.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.33.31</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Dorothy C. Meade to John G. Neihardt, May 19, 1969</title>
+<date when="1969-05-19">May 19, 1969</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Meade, Dorothy C. </persName>
+<placeName></placeName>
+<date when="1969-05-19"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.33.31.001" />
+<fw type="curatorial">31</fw>
+<note type="curatorial"></note>
+
+<opener>
+<dateline>May 19, 1969
+</dateline>
+<salute>Dear Mr. Neihardt:</salute>
+</opener>
+
 <p>What a warm and delightful gesture it was on your part, to autograph the volumes of your works for me, and send them off, apparently the moment I had a desire to have them! I feel rather as if a genii had responded to the rubbed lamp!</p>
+
 <p>These books will be a treasure to me and to my husband always, and our bibliophile children will view them with envy. I can't tahnk you enough for the warm autographs.</p>
-<p>My own response, I note by the date on the parcel, is tardy to the point that <underline>no</underline> one would imagine a genii to be involvedl. However, the Canadian mails are in a rather deplorable state at the present time, and much mail, particularly any class other than first class, is slowed unbelievably. In fact, there are dark suspicions that some lower-class mail simply gets chucked, though I suppose that doesn't happen, really.</p>
+
+<p>My own response, I note by the date on the parcel, is tardy to the point that <hi
+rend="underline">no</hi> one would imagine a genii to be involvedl. However, the Canadian mails are in a rather deplorable state at the present time, and much mail, particularly any class other than first class, is slowed unbelievably. In fact, there are dark suspicions that some lower-class mail simply gets chucked, though I suppose that doesn't happen, really.</p>
+
 <p>At any rate, your parcel was very slow in reaching me, according to the date on the original postmark, and one therefore feels particularly grateful that the books arrived in perfect condition. Ordinarily, much delay means much damage...but as I said, Canadian mails are far from ordinary, at present!</p>
+
 <p>I have been deep into Song of the Indian Wars, since these volumes came, and enjoying the familiar savor; and impatiently peeking into the others as well. This time, though, I am going to try to apply self-discipline enough to read them sequentially, instead of here and there in gulps.</p>
+
 <p>Tomorrow I am going for a visit with mother, although I will be back by the week-end. We now have good air service between Calgary and the west coast via Spokane, and one spur goes on down to Pullman, so it is quick, and a really inspiring trip over the high mountains.</p>
+
 <p>I have often thought, looking down on that mountain range, that the edges of the high ridges resemble the cutting edge of a flaked flint spear, or series of spears, lying on edge - greatly magnified. Ant's eye view.</p>
+
 <p>Many tahnks again and good wishes for the smooth progress of your present literary effort.</p>
-Yours,
+
+<closer>
+<salute>Yours,</salute>
 <signed>Dorothy C. Meade</signed>
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
