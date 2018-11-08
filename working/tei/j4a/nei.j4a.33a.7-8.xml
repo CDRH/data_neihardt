@@ -1,29 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 7 
-University of Missouri - Rolla
-SIGILL UNIVERSITATIS MISSOURIEN MDCCCXXXIX
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.33a.7.8">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Jean Walker (Dr.) to John G. Neihardt, July 28, 1969</title>
+<author>Walker, Jean (Dr.)</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.33a.7.8</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Jean Walker (Dr.) to John G. Neihardt, July 28, 1969</title>
+<date when="1969-07-28">July 28, 1969</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term>Columbia (Mo.)</term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Walker, Jean</persName>
+<placeName></placeName>
+<date when="1900"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/4381982">Columbia (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.33a.7.8.001" />
+<fw type="curatorial">7</fw>
+<note type="curatorial"></note>
+
+<fw type="letterhead"><figure type="stamp"><ab>SIGILL UNIVERSITATIS MISSOURIEN MDCCCXXXIX</ab></figure>University of Missouri - Rolla
 DEPARTMENT OF HUMANITIES
 G -3 Rolla Building                         Telephone
-Rolla, Mo. 65401                            314 364-2998
-July 28, 1969
+Rolla, Mo. 65401                            314 364-2998</fw>
 
-Dr. John G. Neihardt
-c/o Mrs. Hilda Petri
-221 West Brandon Road
-Columbia, Missouri 65201
+<opener>
+<dateline>July 28, 1969
+</dateline>
+<address>
+<addrLine>Dr. John G. Neihardt</addrLine>
+<addrLine>c/o Mrs. Hilda Petri</addrLine>
+<addrLine>221 West Brandon Road</addrLine>
+<addrLine>Columbia, Missouri 65201</addrLine>
+</address>
+<salute>Dear Dr. Neihardt:</salute>
+</opener>
 
-Dear Dr. Neihardt:
-<p>The Literary Landmarks Committee of the Missouri Association of Teachers of English (M.A.T.E.) is embarking upon a project of collecting biographical data concerning Missouri writers. Eventually we hope to get such information more centralized and more systematic for the use of scholars and others interested. We hope as well to mark out and protect certain literary locations scattered over our state before they vanish. As an initial step, we plan to publish an edition this fall, composed of biographies of some 50 writers, in a special volume of the M.A.T.E. <underline>Bulletin</underline>. We would like to request two favors of you at this time.</p>
+<p>The Literary Landmarks Committee of the Missouri Association of Teachers of English (M.A.T.E.) is
+embarking upon a project of collecting biographical data concerning Missouri writers. Eventually we
+hope to get such information more centralized and more systematic for the use of scholars and others
+interested. We hope as well to mark out and protect certain literary locations scattered over our
+state before they vanish. As an initial step, we plan to publish an edition this fall, composed of
+biographies of some 50 writers, in a special volume of the M.A.T.E. <hi rend="underline">Bulletin</hi>. We would like to request two favors of you at this time.</p>
+
 <p>First, we would like a biographical sketch of your life of about 600 words. We wish to emphasize the following areas: (1) birthplace and date, (2) emphasis on association with Missouri, (3) complete listing of writings and dates, and (4) sources of biographical data. We would be delighted if you would help us either by writing your biographical sketch or by furnish-ing the data with which we can work.</p>
+
 <p>Secondly, we would like to have a preface for the edition, perhaps in the form of a brief endorsement of thsi project, from one of our notable writers. We would be delighted if you feel that this project is worthwhile and would write a brief letter commending the project. (I would be happy to furnish further information about the project, our plans, and our hopes for the coming years if you need more data.)</p>
+
 <p>I was in Columbia last Wednesday and Thursday and talked briefly to your daughter, Mrs. Petri. However, I had to leave Thursday afternoon and felt I shouldn't disturb you on your first day back in Columbia. It was much to my regret to return without seeing you. I can make another trip to Columbia if you would rather have me explain this project in person.</p>
-Page 8
-- Page 2 -
+
+<fw type="curatorial">8</fw>
+<fw type="authorial">- Page 2 -</fw>
+
 <p>We realize, Dr. Neihardt, that you are more than a Missouri writer - you belong to the entire Midwest, at least, and perhaps to the nation at large. However, we Missourians feel we have a strong claim to you because of your long and close association with our state. (Our project is not limited to the native-born; we shall include writers importantly associated with Missouri.)</p>
+
 <p>Thank you for your time and consideration. May I hear from you soon?</p>
-Sincerely yours,
+
+<closer>
+<salute>Sincerely yours,</salute>
 <signed>Jean Walker</signed>
-Jean Walker (Dr.)
+<note>Jean Walker (Dr.)
 Assistant Professor of English
 JW/df
-Enclosure
+Enclosure</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

@@ -1,13 +1,151 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 12 
-September 19 1969
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-Dear John,
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.33a.12">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Lucile Folse Aly to John G. Neihardt, September 19, 1969</title>
+<author>Aly, Lucile F.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.33a.12</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Lucile Folse Aly to John G. Neihardt, July 19, 1969</title>
+<date when="1969-09-19">September 19, 1969</date>
+<extent>1 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term>Glass, Hugh</term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="http://viaf.org/viaf/50467731">Aly, Lucile Folse, 1913-</persName>
+<placeName></placeName>
+<date when="1969-09-19"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.33a.12.001" />
+<fw type="curatorial">12</fw>
+<note type="curatorial"></note>
+
+<opener>
+<dateline>September 19 1969
+</dateline>
+<salute>Dear John,</salute>
+</opener>
+
 <p>No, I haven't died--just been spinning to fast to stop for letters. Also we have just been to New Jersey to see Stewart married, as he was a week ago with quite some ceremony and much wining and dining. He and Susan are back from their honeymoon, temporarily with us until they locate an apartment. This summer we had nine people in the house from the first of June till the middle of August, and assorted additions to the household from time to time. For five days there were fourteen people, and even so I was able to work most of every day. We have taken over the custody of one of our grandchildren, so now we are again a family of three. This all took some doing, but you will be happy to know that most of the footnotes are checked and ready for the typist. I want you to see them with the copy--in the final check I have had to make some corrections. The general goings on interfered with letters, as you can see, because I thought getting the work done was urgent. Bower ran the household for me most of the time; I deserted and went to the library every day.</p>
+
 <p>As you know, I got the corrected manuscript (before footnote check) off to Hilda, and I have just had a lovely letter from her about it. She says the person you are emerges, and that is one thing I really worked for. She will send detailed comments later, but her first impression was good. Also I've had a letter from Stanley Smith about his plans--I suppose you have too. I am writing him; I don't know how much help I can be to him, but I think he does have a fine set of materials for a thesis, and I'm gald he is going to school again. The more writing about you the better, and I think he will do some, more than the thesis, I mean.</p>
+
 <p>When I checked the footnotes I found that I had to make corrections on some details; these do not appear on the manuscript I sent Hilda, but they will be on the copy I send to you with all the footnotes. For example, the doctorate Will Cather was given not at Nebraska; it was Creighton, I took the whole reference out--after all, this book is not about Willa Cather; it's about you; and when she got her degree or where is not important. Also the Roger Sergel Review of Hugh Glass is not in the Yale Review; I combed every issue it could possibly be in and it wasn't there. That was a week's job, but I am determined that this book shall be right, and I finally hunted it down through a reference in Poetry to Sergel as living in Iowa City. On a hunch I checked the Midland, and that's where the review is. I couldn't find of Sergel review of Friends as all; I checked every publication I could think of. There were other things like that, and I'm catching them. If a footnote says something is somewhere, it's got to be there. I'm reading all the microfilm stuff again, and it is exacting--hard on the eyes.</p>
+
 <p>In that East we took time to work in the Yale Library, and in the Congressional Library, just to be sure I have caught everything. Fay dirt at the Congressional Library--did you know you wrote a letter to Theodore Roosevelt in 1916 spelling out your political views? You did--and old Teddy saved it! I shall work it in somewhere. Also the Holm manuscript is there, in the F.D.R. collection. I looked at the Edwim Markham papers, but there were no references to your work, He was a rather sad figure; in fact the more I have seen of the letters of other poets, the more I see how remarkable your life is.</p>
+
 <p>I can't give you a definite date to expect the full and corrected manuscript, but I am working on it day and night, and it will be as soon as possible.</p>
+
 <p>Love from us all including the new Mrs. Stewart Aly.</p>
+
+<closer>
+<salute></salute>
 <signed>Love, 
 Lucile</signed>
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

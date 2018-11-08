@@ -1,27 +1,165 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 4
-UNITED WE STAND DIVIDED WE FALL
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.33a.4">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Mareta Beatrice Williams to John G. Neihardt, July 14, 1969</title>
+<author>Williams, Mareta B.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.33a.4</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Mareta Beatrice Williams to John G. Neihardt, July 14, 1969</title>
+<date when="1969-07-14">July 14, 1969</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Williams, Mareta B.</persName>
+<placeName ref="http://www.geonames.org/4409896">Springfield (Mo.)</placeName>
+<date when="1969-07-14"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.33a.4.001" />
+<fw type="curatorial">4</fw>
+<note type="curatorial"></note>
+
+<fw type="letterhead"><figure type="stamp"><ab>UNITED WE STAND DIVIDED WE FALL
 SALUS POPULI SUPREMA LEXESTO
-MOCCCXX
-
-SOUTHWEST MISSOURI 
+MOCCCXX</ab></figure>SOUTHWEST MISSOURI 
 STATE COLLEGE
-SPRINGFIELD 65802
-14 July 1969
-
-Mr. John G. Neihardt
-Columbia, Missouri
-
-Dear Mr. Neihardt,
+SPRINGFIELD 65802 </fw>
+<opener>
+<dateline>14 July 1969
+</dateline>
+<fw type="authorial">Mr. John G. Neihardt
+Columbia, Missouri</fw>
+<salute>Dear Mr. Neihardt,</salute>
+</opener>
 
 <p>I remember with a great deal of pleasure the time you came to our college for a writer's workshop.</p>
-<p>I do not know whether you are aware that Missouri Association of Teachers of English is working on a Literary Landmarks Project. We are trying to gain recognition for Missouri writers--those who were born here and those who are associated with the state by their residence of writings. Since Missouri Writers' Day is in October, we plan to publish a special edition of the MATE <underline>Bulletin</underline> which will include about fifty biographies. Of course your biography will be included. These will have to be brief--possibly 340 or 350 words. The data will include the writer's association with Missouri and his principal works. I'll included a mimeographed sheet which will give you an idea.</p>
-<p>Will you send me what information you would like to have in your biography for this <underline>Bulletin</underline>?</p>
+
+<p>I do not know whether you are aware that Missouri Association of Teachers of English is working
+on a Literary Landmarks Project. We are trying to gain recognition for Missouri writers--those who
+were born here and those who are associated with the state by their residence of writings. Since
+Missouri Writers' Day is in October, we plan to publish a special edition of the MATE
+<hi rend="underline">Bulletin</hi> which will include about fifty biographies. Of course your biography will be included. These will have to be brief--possibly 340 or 350 words. The data will include the writer's association with Missouri and his principal works. I'll included a mimeographed sheet which will give you an idea.</p>
+
+<p>Will you send me what information you would like to have in your biography for this
+<hi rend="underline">Bulletin</hi>?</p>
+
 <p>I also think it would be very special if you would consent to write a short foreword or kind of salute to Missouri Writers for my introductory page.</p>
+
 <p>We desire to place a bronze marker on houses where writers have lived. You former home at Branson will be included if we can obtain money for this phase of our project.</p>
+
 <p>I realize we have a tremendous undertaking before us, but I am happy to have some very competent and enthusiastic people on my committee.</p>
+
 <p>May I hear from you at your earliest convenience?</p>
-Sincerely,
+
+<closer>
+<salute>Sincerely,</salute>
 <signed>Mareta Beatrice Williams</signed>
-Mareta Beatrice Williams
-Chairman, Literary Landmarks Committee of Missouri
+<note>Mareta Beatrice Williams
+Chairman, Literary Landmarks Committee of Missouri</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

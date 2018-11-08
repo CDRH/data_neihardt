@@ -1,22 +1,155 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 1
-SOUTH DAKOTA STATE UNIVERSITY
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.33a.1.3">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Dexter Martin to John G. Neihardt, July 8th, 1969</title>
+<author>Martin, Dexter</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.33a.1.3</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Dexter Martin to John G. Neihardt, July 8th, 1969</title>
+<date when="1969-07-18">July 8th, 1969</date>
+<extent>3 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term>Black Elk, 1863-1950</term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term>Black Elk Speaks</term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Martin, Dexter</persName>
+<placeName ref="http://www.geonames.org/5226534">Brookings (S.D.)</placeName>
+<date when="1969-07-08"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.33a.1.3.001" />
+<fw type="curatorial">1</fw>
+<note type="curatorial"></note>
+
+<fw type="letterhead">SOUTH DAKOTA STATE UNIVERSITY
 BROOKINGS, SOUTH DAKOTA 57006
 College of Arts and Sciences
-ENGLISH DEPARTMENT
-July 8, 1969
+ENGLISH DEPARTMENT</fw>
+<opener>
+<dateline>July 8, 1969
+</dateline>
+<salute>Dear Mr. Neihardt:</salute>
+</opener>
 
-Dear Mr. Neihardt:
 <p>Here are some flowers which have some of the spirit of your writings. You can just leave the vase behind when you go.</p>
-<p>And here is some wisdom from Black Elk, and a poem of yours, which I'll be distrubting to the audience tomorrow night before I read from <underline>Black Elk Speaks</underline>. Friday morning I'll be discussing the psychic phenomena in it, and other aspects.</p>
-<p>But I realize that you may not feel like attending either of my meetings. You'll remain one of my few <underline>living</underline> heros, anyway.</p>
-Yours,
+
+<p>And here is some wisdom from Black Elk, and a poem of yours, which I'll be distrubting to the
+audience tomorrow night before I read from <hi rend="underline">Black Elk Speaks</hi>. Friday morning I'll be discussing the psychic phenomena in it, and other aspects.</p>
+
+<p>But I realize that you may not feel like attending either of my meetings. You'll remain one of my
+few <hi rend="underline">living</hi> heros, anyway.</p>
+
+<closer>
+<salute>Yours,</salute>
 <signed>Dexter Martin</signed>
-Dexter Martin
+<note>Dexter Martin
 Assistant Professor of English
 Hope we can talk for a few minutes!
-A land-grant university serving South Dakotans through Teaching-Research-Extension
-Page 2
+A land-grant university serving South Dakotans through Teaching-Research-Extension</note>
+</closer>
+
+</div1>
+
+<div1 type="letter">
+
+<fw type="curatorial">2</fw>
 <p>Black Elk speaks (from the book by that name, as told through John G. Neihardt):
 1. Who see the Morning Star shall se more, for he shall be wise.
 2. ...our thoughts sould rise high as the eagles do.
@@ -41,16 +174,16 @@ Page 2
 21. The day of the sun has been my strength.
     The path of the moon shall be my robe.
 22. ...to see the greenness of the world, the wideness of the sacred day the colors of the earth, and to set these in (our) minds.</p>
-Page 3
-- 2 -
+<fw type="curatorial">3</fw>
+<fw type="authorial">- 2 -</fw>
 <p>23. ...the mystery and power of things.
 24. ...the source of life and the mystery of growing.
 25. I could see that the (Whites) did not care for each other the way our people did before the nation's hoop was broken. They would take everything from each other if they could, and so there were some who had more of everything than they could use, while crowds of people had nothing at all and maybe were starving.
 26. It is hard to follow one great vision in this world of darkness and of many changing shadows.
 27. ...the beauty and the strangeness of the earth....
 28. The good road and the road of difficulties you have made to cross; and where they cross, the place is holy.</p>
-ENVOI
-John G. Neihardt
+<fw type="authorial">ENVOI
+John G. Neihardt</fw>
 <lg><l>Oh seek me not within a tomb;</l>
 <l>Thou shalt not find me in the clay!</l>
 <l>I pierce a little wall of gloom</l>
@@ -64,7 +197,7 @@ John G. Neihardt
 <l>Not Death can sheathe me in a shroud;</l>
 <l>A joy-sword whetted keen with pain,</l>
 <l>I join the armies of the Cloud,</l>
-<l>The Lightning and the Rain</l>.
+<l>The Lightning and the Rain</l>
 
 <l>Oh subtle in the sap athrill,</l>
 <l>Athletic in the glad uplift,</l>
@@ -75,3 +208,10 @@ John G. Neihardt
 <l>As rain and Ocean, breath and Air; </l>
 <l>And Oh, the luring thought of it</l>
 <l>Is prayer!</l></lg>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

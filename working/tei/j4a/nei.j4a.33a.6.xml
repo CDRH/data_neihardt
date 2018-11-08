@@ -1,11 +1,136 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 6
-Columbia, mo.
-Saturday, July 19, 1969
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-Dear Gaki,
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.33a.6">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Meadows to John G. Neihardt, July 19, 1969</title>
+<author>Meadows</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.33a.6</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Meadows to John G. Neihardt, July 19, 1969</title>
+<date when="1969-07-19">July 19, 1969</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term>Cox, William Edward</term>
+<term>Rhine, J. B. (Joseph Banks), 1895-1980</term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term>Hugh Glass</term>
+<term>The World of Ted Serios</term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Meadows</persName>
+<placeName ref="http://www.geonames.org/4381982">Columbia (Mo.)</placeName>
+<date when="1969-07-19"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.33a.6.001" />
+<fw type="curatorial">6</fw>
+<note type="curatorial"></note>
+
+<opener>
+<fw type="authorial">Columbia, mo.</fw>
+<dateline>Saturday, July 19, 1969
+</dateline>
+<salute>Dear Gaki,</salute>
+</opener>
+
 <p>I'm sorry we have been so remiss in our letter writing. It's been so hot here that we haven't felt very much like doing anything.</p>
+
 <p>Alice tells us that you are planning to publish the first book as a separate volume. We are glad to here that. I think it will be better all around. When will it be out? Sometime this fall, I hope. It would make a good Christmas gift. There are several people we would like to give one to if it's out in time.</p>
+
 <p>I recently made a discovery concerning the Bison edition of your lyrics. The entire stanza of "April the Maiden" is omitted. This is the stanza:
 
 <lg><l>Sensing the northbound Wonder</l>
@@ -14,8 +139,24 @@ Dear Gaki,
 <l>The river yearns for the sea.</l></lg>
 
 Isn't this a reprint from the earlier edition of the collected poems? If so, I wonder if that stanza was left out of that edition too. That is a fine stanza and I hate for it to have been omitted. Be sure and notify the publisher so that it can be corrected in the next edition.</p>
-<p>By the way, did you have that "not" changed to "nor" in the new edition of the Cycle? It's in the second line of page 244 of <underline>Hugh Glass</underline>.</p>
+<p>By the way, did you have that "not" changed to "nor" in the new edition of the Cycle? It's in the
+second line of page 244 of <hi rend="underline">Hugh Glass</hi>.</p>
+
 <p>Some friends of ours lived last year in Tarkio, Mo. which is near the Mo./Neb. border. They visited us for a while today and mentioned that they saw your instructional television show. They really thought it was wonderful. They didn't think the person who interviewed you was too good, but they said that this might have been that you could see the program down here.</p>
+
 <p>Perhaps Tom has told you of the visit to Mr. W.E. Cox of the FRNM. He visited both here and in Cape Girardeau. If you have your copy of The World of Ted Serios there, you might look at the footnote on page 110. It tells a little about Mr. Cox. Mr. Cox used to be a magician and conjurer years ago. He did a few tricks for us, but is rather out of practice from nor habing proformed for so long. I gather that Dr. Rhine has Cox going about visiting some of the people who make paranormal claims. His experience in both sleight of hand in and parapsychology should make him admirably suited to the task of of uncovering fraud.</p>
+
 <p>Mr. Cox visited us here in Columbia three times. The first time was Sunday. June 29. Earlier that day he had intercepted Alice as she was waiting between planes in Kansas City, and had talked with her a while. He then came on to Columbia. All we did that day was talk with him and and answer his questions. As we talked we drove over to Fulton to see the Christopher Wren churh of which Mr. Cox had heard. </p>
-Meadows, p.1 only
+
+<closer>
+<salute>Meadows, p.1 only</salute>
+<signed></signed>
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
