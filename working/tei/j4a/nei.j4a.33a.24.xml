@@ -1,24 +1,158 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 24
-UNITED WE STAND DIVIDED WE FALL
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.33a.24">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Mareta Beatrice Williams to John G. Neihardt, October 15, 1969</title>
+<author>Williams, Beatrice W.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.33a.24</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Mareta Beatrice Williams to John G. Neihardt, October 15, 1969</title>
+<date when="1969-10-15">October 15, 1969</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Williams, Mareta B.</persName>
+<placeName ref="http://www.geonames.org/4409896">Springfield (Mo.)</placeName>
+<date when="1969-10-15"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.33a.24.001" />
+<fw type="curatorial">24</fw>
+<note type="curatorial"></note>
+
+<fw type="letterhead"><figure type="stamp"><ab>UNITED WE STAND DIVIDED WE FALL
 SALUS POPULI SUPREMA LEXESTO
-MDCCCXX
+MDCCCXX</ab></figure>
 SOUTHWEST MISSOURI
 STATE COLLEGE
-SPRINGFIELD 68802
-15
+SPRINGFIELD 68802</fw>
+<opener>
+<dateline>15
 OCT
 1969
+</dateline>
+<address>
+<addrLine>Mr. John G. Neihardt</addrLine>
+<addrLine>Lincoln, Nebraska</addrLine>
+</address>
+<salute>Dear Mr. Neihardt:</salute>
+</opener>
 
-Mr. John G. Neihardt
-Lincoln, Nebraska
+<p>On behalf of the Missouri Association of Teachers of English, I want to express my deep
+appreciation to you for writing the introduction to our special <hi rend="underline">Bulletin</hi> of Missouri Writers.</p>
 
-Dear Mr. Neihardt:
-<p>On behalf of the Missouri Association of Teachers of English, I want to express my deep appreciation to you for writing the introduction to our special <underline>Bulletin</underline> of Missouri Writers.</p>
 <p>I shall send you a copy as soon as it is published. I hope to have it done for our meeting in St. Louis when the State Teachers Association meets on November 6 and 7. However, it will all depend on the printer, and we may have to wait until a later date.</p>
+
 <p>I sincerely hope you are recovering satisfactorily from your eye surgery.</p>
-Sincerely, 
+
+<closer>
+<salute>Sincerely,</salute>
 <signed>Mareta B. Williams</signed>
-Mareta Beatrice Williams
-Chairman of Literary Landmarks Committee
-llll East Normal
+<note type="authorial">Mareta Beatrice Williams
+Chairman of Literary Landmarks Committee</note>
+<note type="authorial">llll East Normal</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

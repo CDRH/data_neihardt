@@ -1,25 +1,156 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 28
-Joint Collection
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.33a.28">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Nancy C. Prewitt to John G. Neihardt, October 28, 1969</title>
+<author>Prewitt, Nancy C.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.33a.28</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Nancy C. Prewitt to John G. Neihardt, October 28, 1969</title>
+<date when="1969-10-28"></date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Prewitt, Nancy C.</persName>
+<placeName ref="http://www.geonames.org/4381982">Columbia (Mo.)</placeName>
+<date when="1969-10-28"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.33a.28.001" />
+<fw type="curatorial">28</fw>
+<note type="curatorial"></note>
+
+<fw type="letterhead">Joint Collection
 WESTERN HISTORICAL MANUSCRIPT COLLECTION
 STATE HISTORICAL SOCIETY MANUSCRIPTS
 UNIVERSITY OF MISSOURI LIBRARY  COLUMBIA, MISSOURI
 Richard S. Browniee
 Director
 Nancy C. Prewitt
-Asst. Director
+Asst. Director</fw>
+<opener>
+<dateline>October 28, 1969
+</dateline>
+<address>
+<addrLine>Mr. John Neihardt</addrLine>
+<addrLine>5835 Vine Street</addrLine>
+<addrLine>Lincoln, Nebraska</addrLine>
+</address>
+<salute>Dear Mr. Neihardt:</salute>
+</opener>
 
-October 28, 1969
-Mr. John G. Neihardt
-5835 Vine Street
-Lincoln, Nebraska 68505
-
-Dear Mr. Neihardt:
 <p>Enclosed are the xerox copies of items chosen by you and Mrs. Boring on Saturday. The charge for these is $12.70. Added to the $2.60 for Friday's xeroxing, the total charge is $15.30, payable to the University of Missouri.</p>
-Sincerely,
-Nancy C Prewitt
-(Mrs.) Nancy C. Prewitt
-Pd:,
-11-2-69
-NCP/nr
-enclosures
+
+<closer>
+<salute>Sincerely,</salute>
+<signed>Nancy C Prewitt</signed>
+<note type="authorial">(Mrs.) Nancy C. Prewitt</note>
+<note type="authorial">Pd:,
+11-2-69</note>
+<note type="authorial">NCP/nr enclosures</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

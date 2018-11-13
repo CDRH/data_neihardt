@@ -1,17 +1,155 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 27
-XEROX
-DATE <underline>October 27, 1969</underline>
-FOR: <underline>John G. Neihardt</underline>
-NO. OF COPIES: one<underline></underline>
-FROM: <underline>Neihardt Papers</underline>
-<underline>127</underline> PAGES <underline>clippings</underline> INCLUSIVE
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.X.X">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Document from University of Missouri to John G. Neihardt, October 27, 1969</title>
+<author>University of Missouri</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.33a.27</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Document from University of Missouri to John G. Neihardt, October 27, 1969</title>
+<date when="1969-10-27">October 27, 1969</date>
+<extent>1 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>University of Missouri</persName>
+<placeName></placeName>
+<date when="1969-10-27"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="document">
+
+<pb facs="nei.j4a.33a.27.001" />
+<fw type="curatorial">27</fw>
+<note type="curatorial"></note>
+
+<opener>
+<dateline>
+</dateline>
+<salute></salute>
+</opener>
+
+<fw type="curatorial">27</fw>
+<ab>XEROX
+DATE <hi rend="underline">October 27, 1969</hi>
+FOR: <hi rend="underline">John G. Neihardt</hi>
+NO. OF COPIES: one<hi rend="underline"></hi>
+FROM: <hi rend="underline">Neihardt Papers</hi>
+<hi rend="underline">127</hi> PAGES <hi rend="underline">clippings</hi> INCLUSIVE
 I.D.O.:____
 CASH:____  RECEIVED BY___
-CHARGE: <underline>$12.70</underline>
+CHARGE: <hi rend="underline">$12.70</hi>
 Pd.,
 11-2-69
 Please make check payable to University of Missouri
 PATRON'S SIGNATURE_____
 COST
-$12.70
+$12.70</ab>
+
+<closer>
+<salute></salute>
+<signed></signed>
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
