@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.33a.33">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.34.2.4">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Frank P. Piskor to John G. Neihardt, December 18, 1969</title>
-<author>Piskor, Frank P.</author>
+<title type="main">Letter from Mrs. William Schuette to John G. Neihardt, Febuary 4, 1970</title>
+<author>Mrs. Schuette, William</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
 <editionStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4a.33a.33</idno>
+<idno>nei.j4a.34.2.4</idno>
 <availability>
 <p></p>
 </availability>
@@ -42,9 +42,9 @@
 <sourceDesc>
 <bibl>
 <author></author>
-<title level="m" type="main">Letter from Frank P. Piskor to John G. Neihardt, December 18, 1969</title>
-<date when="1969-12-18">December 18, 1969</date>
-<extent>1 page</extent>
+<title level="m" type="main">>Letter from Mrs. William Schuette to John G. Neihardt, Febuary 4, 1970</title>
+<date when="1970-02-04">Febuary 4, 1970</date>
+<extent>pages</extent>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -83,18 +83,18 @@
 <term></term>
 </keywords>
 <keywords scheme="original" n="works">
-<term>The Divine Enchantment</term>
+<term></term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName ref="http://viaf.org/viaf/57967790">Piskor, Frank Peter</persName>
-<placeName ref="http://www.geonames.org/5111484">Canton (N.Y.)</placeName>
-<date when="1969-12-18"/>
+<persName>Mrs. Schuette, William</persName>
+<placeName ref="http://www.geonames.org/5065525">Chapman (Neb.)</placeName>
+<date when="1970-02-04"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+<placeName></placeName>
 </correspAction>
 </correspDesc>
 <particDesc>
@@ -114,41 +114,64 @@
 
 <div1 type="letter">
 
-<pb facs="nei.j4a.33a.33.001" />
-<fw type="curatorial">33</fw>
+<pb facs="nei.j4a.34.2.4.001" />
+<fw type="curatorial">2</fw>
 <note type="curatorial"></note>
 
-<fw type="letterhead">ST. LAWERENCE UNIVERSITY
-CANTON, NEW YORK 13617
-FRANK P. PISKOR 
-PRESIDENT
-TELEPHONE (315) 379-5892</fw>
+<fw type="letterhead">MRS. WILLIAM SCHUETTE
+ROUTE
+CHAPMAN, NEBRASKA 68827
+</fw>
 <opener>
-<dateline>December 18, 1969
+<dateline>Feb. 4, 1970
 </dateline>
-<address>
-<addrLine>Mr. John Neihardt</addrLine>
-<addrLine>c/o Mrs. Julius D. Young</addrLine>
-<addrLine>5835 Vine Street</addrLine>
-<addrLine>Lincoln, Nebraska 63505</addrLine>
-</address>
-<salute>Dear John:</salute>
+<note type="authorial">Ans.
+2/9/71</note>
+<salute>
+Dear Mr. Neihardt,</salute>
 </opener>
 
-<p>The "Divine Enchantment" and your very lovely letter arrived safetly, and we are most grateful to you for it.</p>
+<p>Our "Lutheran Church Women Executive Board wish to congratulate you upon your recent birthday. We
+also say "thank you" for the Contributions you have made in our state. We feel that you have influenced many lives.</p>
 
-<p>I looked forward to the building of the colleciton here, and will make it a personal project. In due course there will be publicity about it, and I shall try to keep you advised.</p>
+<p>Many of us saw you on television and felt you gave some very good answers to the questions that were asked of you.</p>
 
-<p>Have a wonderful Chrsitmas, and I look forward to continuing our growing association during 1970.</p>
+<p>Again we say,</p>
 
-<p>Kind regards.</p>
+<note type="curatorial">3</note>
+<p>"thank you" and may you have many happy days in the future.</p>
 
 <closer>
-<salute>Cordially,</salute>
-<signed>Frank</signed>
-<note type="authorial">Frank P. Piskor
-President</note>
-<note type="authorial">ak</note>
+<salute>Sincerely,</salute>
+<signed>Mrs. William Schuette</signed>
+<note type="authorial">Chapman, Nebr.
+Route Box 55</note>
+
+<fw type="curatorial">4</fw>
+
+<fw type="letterhead">Nebraska Lutheran Church Women
+of The 
+Lutheran Church In America
+Executive Board</fw>
+
+<fw>Peggy Nelson (Mrs. Harvey) Potter
+Anita Regler (Mrs. Jerry) Nebr. City
+Betty Heier (Mrs. Darrel) Wayne
+Lorraine Setterlund (Mrs. H.V.) Omaha
+Ruth H. Rustine (Mrs. DA) Lincoln
+Andy Grimm (Mrs. Arthur) Chappell
+Adeline Bernhardson Pender, Nebraska
+Amy Stran Holdrege, Nebr.
+Nadine Meier (Mrs. Eldon) Nickerson, Nebr.
+Lois Bernson (Mrs. Meloin) Dakota City, Nebr.
+Helire Gross (Mrs. Cash) Rising CIty, Nebr.
+Alta Vaudenberge (Mrs. Kenneth) West Point, Nebr.
+Caroline High, Bertrand, Nebr.
+Donna Anderson (Mrs. Richard) - Stromburg, Nebr.
+Dorothy Decker (Mrs. Edgar) Lincoln, Nebr.
+Lenous Schuette (Mrs. William) Chapman, Nebr.
+Louise Vanzogo - Omaha, Nebr.
+Evely Larson Hastings, Nebr.</fw>
 </closer>
 
 </div1>
