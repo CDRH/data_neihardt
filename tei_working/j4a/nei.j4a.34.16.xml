@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.34.16">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Robert S. Leaf to John G. Neihardt, May 8, 1970</title>
+<author>Leaf, Robert S.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.34.16</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Robert S. Leaf to John G. Neihardt, May 8, 1970</title>
+<date when="1970-05-08">May 8, 1970</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term>Three Friends</term>
+<term>Eagle Voice</term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Leaf, Robert S.</persName>
+<placeName></placeName>
+<date when="1970-05-08"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.34.16.001" />
+<fw type="curatorial">16</fw>
+<note type="curatorial"></note>
+
+<opener>
+<address>
+<addrLine>3 Fursecroft</addrLine>
+<addrLine>George Street </addrLine>
+<addrLine>London W.l.</addrLine>
+</address>
+<address>
+<addrLine>Dr. John Neihardt</addrLine>
+<addrLine>5835 Vine Street,</addrLine>
+<addrLine>Lincoln, Nebraska,</addrLine>
+<addrLine>U.S.A.
+</addrLine>
+</address>
+<dateline>May 8, 1970
+</dateline>
+<salute>Dear Dr. Neihardt,</salute>
+</opener>
+
+<p>I was a little surprised at your letter. You should discuss this with Hilda. We returned the rights to all your works except Three Friends and some sections of Eagle Voice in December 1968. This was signed by Mr. Pennington (see attached). We even in this letter offered to consider relinquishing his rights on that. We both wanted you to be protected as I stated in my letter. So since then you and Hilda were free to carry on any negotiations you wanted and please feel free to do so.</p>
+
+<p>You mentioned a check in your letter. It was not enclosed. Please cancel it as this is yours regardless. That was part of the deal.</p>
+
+<p>I am sending Hilda a copy of this letter and I would appreciate it if she wrote me saying that she received it and has the corresondence referred to and is aware of our letter of December 27th, 1968.</p>
+
+<p>I am looking forward to your autobiography. It should be exciting. I shall be in the U.S. sometime this Fall and will call you or Hilda to say hello. I am sorry for the confusion and hope this clarifies everything to your satisfaction.</p>
+
+<p>Regards from Stuart and Adele,</p>
+
+<closer>
+<salute>Fondly,</salute>
+<signed>R</signed>
+<note type="authorial">Robert S. Leaf</note>
+<note type="authorial">
+c.c. Hilda Petri
+Enclosure</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
