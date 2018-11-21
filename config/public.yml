@@ -1,7 +1,10 @@
 default:
-  es_type: neihardt
+  collection: neihardt
   collection_desc: Neihardt Across the Spectrum
-  es_type: neihardt
   solr_core: neihardt
-  tei_solr_xsl: collections/neihardt/scripts/nonapi_neihardt2solr.xsl
-
+  tei_solr_xsl: scripts/nonapi_neihardt2solr.xsl
+  threads: 20
+development:
+  solr_path: https://cdrhdev1.unl.edu/solr
+production:
+  solr_path: https://cors1601.unl.edu/solr
