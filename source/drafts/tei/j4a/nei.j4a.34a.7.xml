@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.34a.4">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.34a.7">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Milfred G. Park to John G. Neihardt, July 27, 1970</title>
-<author>Park, Milfred G.</author>
-<principal>Gossin, Pamela</principal>
+<title type="main">Letter from Maxime Kessinger to John G. Neihardt</title>
+<author></author>
+<principal></principal>
 </titleStmt>
 <editionStmt>
 <edition>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4a.34a.4</idno>
+<idno>nei.j4a.34a.7</idno>
 <availability>
 <p></p>
 </availability>
@@ -42,9 +42,9 @@
 <sourceDesc>
 <bibl>
 <author></author>
-<title level="m" type="main">Letter from Milfred G. Park to John G. Neihardt, July 27, 1970</title>
-<date when="1970-07-27"></date>
-<extent>2 pages</extent>
+<title level="m" type="main">Letter from Maxime Kessinger to John G. Neihardt</title>
+<date when="1900"></date>
+<extent>1 page</extent>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -79,7 +79,7 @@
 <term></term>
 </keywords>
 <keywords scheme="original" n="places">
-<term>Bancroft (Neb.)</term>
+<term></term>
 <term></term>
 </keywords>
 <keywords scheme="original" n="works">
@@ -88,13 +88,13 @@
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Park, Milfred G.</persName>
-<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
-<date when="1970-07-27"/>
+<persName>Kessinger, Maxime</persName>
+<placeName ref="http://www.geonames.org/5063451">Bancroft (Neb.)</placeName>
+<date when="1900"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+<placeName></placeName>
 </correspAction>
 </correspDesc>
 <particDesc>
@@ -114,35 +114,27 @@
 
 <div1 type="letter">
 
-<pb facs="nei.j4a.34a.4.001" />
-<fw type="curatorial">4</fw>
+<pb facs="nei.j4a.34a.6.001" />
+<fw type="curatorial">6</fw>
 <note type="curatorial"></note>
 
 <opener>
-<address>
-<addrLine>Lincoln, Nebr.</addrLine>
-<addrLine>Dr. John Neihardt</addrLine>
-<addrLine>Lincoln, Nebr.</addrLine>
-</address>
-<dateline>July 27, '70
+<dateline>
 </dateline>
-<salute>Dear Friend-</salute>
+<salute></salute>
 </opener>
 
-<p>Reading yesterday of the dedication of your memorial for next Sunday - prompts me to add my bit.</p>
-
-<p>My family came from N.E. Pennsylvania in 1880 and settle in Bancroft at that time here were fine families only.</p>
-
-<p>My sister and I were both born in Bancroft, I in 1885 and my sister twelve years later. We knew your mother and sisters Lulu and Grace real well, and when you say you received your "spiritual beginning" there I can attest to the fact on your dear mother and sisters believed so simplicitly in you and your future.</p>
-
-<p>A little personal thing means lots to us - too - the fact that in 1900 (approximately) my Father gave that ground to the City of Bancroft for a park - He had owned a member of acres called the "Park addition" and he thought part of it would be a nice gift to Bancroft. She was not-wealthy just public spirited and I am so glad he had a part (<unclear/>) in honoring you - his hame was F. H. Park.</p>
+<p>The enclosed sheet is a message I recieved and asked to deliver to Dr. Neihardt when he is in Bancroft.</p>
 
 <closer>
-<salute>With best wishes,</salute>
-<signed>Mrs. R. F. Frerichsen
-(<unclear>Milifred</unclear> G. Park)</signed>
-<note type="authorial">601 S. 18th Apt. 406
-Lincoln, Nebr.</note>
+<salute>All good wishes</salute>
+<signed>Maxime Kessinger</signed>
+<note type="authorial">(Mrs Alvin "
+member of the 
+Board of Directors
+John G. Neihardt Foundation
+Bancroft. Nebr
+68004</note>
 </closer>
 
 </div1>

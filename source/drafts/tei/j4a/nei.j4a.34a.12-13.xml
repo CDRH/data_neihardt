@@ -1,26 +1,159 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 12
-UNIVERSITY OF SOUTH DAKOTA
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.34a.12.13">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John R. Milton to John G. Neihardt, August 18, 1970</title>
+<author>Milton, John R.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.34a.12.13</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from John R. Milton to John G. Neihardt, August 18, 1970</title>
+<date when="1970-08-13">August 18, 1970</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term>Ben Black Elk</term>
+<term>Black Elk, 1863-1950</term>
+<term>Manfred, Frederick Feikema, 1912-1994</term>
+</keywords>
+<keywords scheme="original" n="places">
+<term>Bancroft (Neb.)</term>
+<term>Vermillion (S.D.)</term>
+<term>Albuquerque (N.M.)</term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="http://viaf.org/viaf/109173665">Milton, John R., 1924-1995</persName>
+<placeName ref="http://www.geonames.org/5232592">Vermillion (S.D.)</placeName>
+<date when="1970-08-18"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5063451">Bancroft (Neb.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.34a.12.13.001" />
+<fw type="curatorial">12</fw>
+<note type="curatorial"></note>
+
+<fw type="letterhead">UNIVERSITY OF SOUTH DAKOTA
 VERITAS
 VERMILLION
-57069
+57069</fw>
+<opener>
+<dateline>August 18, 1970
+</dateline>
+<address>
+<addrLine>Dr. John G. Neihardt</addrLine>
+<addrLine>Bancroft, Nebraska</addrLine>
+</address>
+<salute>Dear John:
+</salute>
+</opener>
 
-August 18, 1970
-
-Dr. John G. Neihardt
-Bancroft, Nebraska
-
-Dear John:
 <p>It has been so long since we last talked that I hardly dare use your first name. I wanted to see you at Bancroft on your special day earlier this month, but I was in Rapid City speaking to a group of aspiring writers. While there, I did have a chance to talk to Ben Black Elk, and we reminisced over the day all three of us were together in Vermillion, which must be seven years ago now. Too long.</p>
+
 <p>I have two things to ask you. Do you know where I might get a photograph, or a copy of one, or a realistic drawing of Black Elk, Ben's father? A small movie company in Albuquerque, run by a friend of mine, is making a documentary which may include Black Elk to some degree. I'm uncertain of the film, but I believe it is to be on "trails." Both old and modern. Indian trails, jet trails, and so on. They would like an old photo, or a copy. Where would I look?</p>
+
 <p>The other matter concerns the video tapes you made here in Vermillion. These and some I made with western writers have been of concern to me because of the inadequate storage facilities at KUSD-TV. I have taken most of them home, where I know they will be safe. But it also occurs to me that some day we might like to publish some of the material on these tapes. We have already started to do so with a few of the conversations I had with western writers. But we have discovered, of course, that the University has never made any arrangements, such as getting permission, releases. I have set about obtaining releases. In the case of Frederick Manfred there were all kinds of stipulations. The others are simply releasing all rights to us, with no restrictions. I have not listened to your tapes for five or six years, and I have nothing specific in mind. What I would like, if you are agreeable, is a release from you, so that if we ever do want to publish some of that material we will feel free to do so. Normally we are strictly a non-profit publisher, of course. In fact, we seem to lose money on most things, as university presses are supposed to do. But if you are willing to give us permission to publish, you might want to add some kind of restriction so that if, by chance, we did manage to show a profit on something of yours, a royalty would be paid to you or your family.</p>
+
 <p>We can have the agreement drawn up here, but I would be pleased to hear from you and to know how you feel about this and what specific instructions you would have in case we do draw up an agreement.</p>
+
 <p>And, needless to say, I would enjoy visiting with you again if we could arrange it.</p>
-Sincerely, 
+
+<closer>
+<salute>Sincerely, </salute>
 <signed>John</signed>
-John R. Milton
-Page 13
-Waiting for letter from Milton to Hilda
+<note type="authorial">John R. Milton</note>
+</closer>
+
+<fw type="curatorial">13</fw>
+<fw>Waiting for letter from Milton to Hilda
 Sept. 3, 1970
 J.G.N.
 <gap reason="cutoff"/>
@@ -42,4 +175,11 @@ for her_There will
 be word directed to you <unclear/>
 Maybe the tapes he has
 clears up part of mystery 
-of Vermillion tapes
+of Vermillion tapes</fw>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
