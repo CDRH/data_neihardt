@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.32.9">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Eleanor Jerry to John G. Neihardt</title>
+<author>Eleanor Jerry</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.32.9</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Eleanor Jerry</author>
+<title level="m" type="main">Letter from Eleanor Jerry to John G. Neihardt</title>
+<date when="1968-03-11">March 11, 1968</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term>Bullock, Marie, 1911-1986</term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term>Cycle of the West</term>
+<term>Lyric and Dramatic Poems</term>
+<term>Black Elk Speaks</term>
+<term>River and I</term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Jerry, Eleanor</persName>
+<placeName ref="http://www.geonames.org/5128581">New York City (N.Y.)</placeName>
+<date when="1968-03-11"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/4381982">Columbia (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.32.9.001" />
+<fw type="curatorial">1</fw>
+<note type="curatorial">1</note>
+<fw type="letterhead">THE ACADEMY OF AMERICAN POETS<lb/>
+THE ACADEMY OF AMERICAN POETS FOUNDED 1934</fw>
+<opener>
+<dateline>March 11, 1968
+</dateline>
+<address><addrLine>1078 MADISON AVENUE NEW YOURK, N.Y. 10028</addrLine>   
+<addrLine>YUkon 8-6783</addrLine></address>
+Professor John G. Neihardt
+Skyrim Farm
+Route No. 7
+<salute>Dear Professor Neihardt,</salute>
+</opener>
+<note type="curatorial">page 9</note>
+
+<p>In Mrs. Bullock's absence from the city I want you to know that we have received <hi rend="underline">Cycle of the West</hi>, <hi rend="underline">Lyric and Dramatic Poems</hi>, <hi rend="underline">>Black Elk Speaks</hi>and <hi rend="underline">River and I</hi>.</p>
+
+<p>I shall keep these books for her on her return and know that she will be most interested in seeing them. </p>
+
+<closer>
+<salute>Sincerely</salute>
+<signed>Eleanor Jerry</signed>
+<note>Secretary 
+to Mrs. Bullock</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
+
+
+
+

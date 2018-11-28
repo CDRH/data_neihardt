@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.32a.6a">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Arthur Ernst to John G Neihardt, August 3,1968</title>
+<author>Ernst, Arthur</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.32a.6a</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Arthur Ernst to John G Neihardt, August 3,1968</title>
+<date when="1968-08-03">August 3, 1968</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term>Lincoln (Neb.)</term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term>Black Elks Prayer</term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Ernst, Arthur</persName>
+<placeName>Fairbury, (Neb.)</placeName>
+<date when="1968-08-03"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.X.X.001" />
+<fw type="curatorial">6a</fw>
+<note type="curatorial"></note>
+
+<fw type="letterhead">FAIRBURY UNITED METHODIST CHURCH
+6th and E Streets Box 423 Fairbury, Nebraska 68352
+<hi rend="italics">Nebraska Conference</hi>
+MINISTER
+A. O. Ernest
+608 G Street
+Fairbury, Nebraska 68352
+Home Telephone 729-2511
+<hi rend="italics">Geneva District</hi>
+ASSOCIATE MINISTER
+D. G. Williams
+806 4th Street
+Fairbury, Nebraska 68352
+Home Telephone 729-6295
+Church Office Telephone 729-2247</fw>
+
+<opener>
+<dateline>August 3,1968
+</dateline>
+<salute>Dear Gaki:</salute>
+</opener>
+
+<p>We are still basking in the enjoyment of your visit. I have had dozens of very favorable comments and you won the hearts of my people and all those who met you. I gave copies of Black Elks Prayer to the Knocke's who took us to Rock Creek Station and to some others who helped us. (such as the Nuckalls)</p>
+
+<p>I know the people eageraly await the enjoyment of reading your books. The Nuckalls have offered
+to sell the remaining books at their Newspaper office and ran a 2 column add (free) concerning them.
+They are the people that took you to the motel and who wrote the fine articles about you. Another
+picture of you and the children came out in this<hi rend="crossed">m</hi> mornings paper, and I am sending it to you and the youngs. I shall read the letter of thanks that you and the Youngs wrote to us to the congregation this Sunday morning. </p>
+
+<p>I am also writing to Hilda this morning. We hope to visit Columbia the last of this month.</p>
+
+<p>I don't know when we will be in Lincoln--probably within a week. We will drop by to say "Hi." Our regards to you and your adopted grandparentws--the Youngs. </p>
+
+<p>Thanks again for your wonderful visit, address, and for your friendship.</p>
+
+<closer>
+<salute>
+With love and affection,</salute>
+<signed>Art</signed>
+<note>A. O. Ernest</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

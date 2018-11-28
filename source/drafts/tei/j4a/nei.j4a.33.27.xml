@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.33.27">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Marion Marsh Brown to John G. Neihardt, May 17, 1969</title>
+<author>Brown, Marion Marsh</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.33.27</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Marion March Brown to John G. Neihardt, May 17, 1969</title>
+<date when="1969-05-17">May 17, 1969</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term>The Silent Storm</term>
+<term>The Many Faces of Willa Cather</term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="http://viaf.org/viaf/18514164">Brown, Marion Marsh</persName>
+<placeName ref="http://www.geonames.org/5074472">Omaha (Neb.)</placeName>
+<date when="1969-05-17"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.33.27.001" />
+<fw type="curatorial"></fw>
+<note type="curatorial"></note>
+
+
+<opener>
+<address>
+<addrLine>2615 No. 52 St.</addrLine>
+<addrLine>Omaha, Nebr. 68104</addrLine>
+</address>
+<dateline>May 17, 1969
+</dateline>
+<address>
+<addrLine>Dr. John G. Neihardt</addrLine>
+<addrLine>5835 Vine St.</addrLine>
+<addrLine>Lincoln, Nebr. 68505</addrLine>
+</address>
+<salute>Dear Dr. Neihardt:</salute>
+</opener>
+
+<p>As I told you following the luncheon of the Nebraska Writers' Guild at Hastings recently, it was, as always, a delightful and inspiring experience to hear you. I believe I first heard you speak and read your poetry when I was fifteen--close to forty-five years ago; then, and each time I have heard you since, it has been a most rewarding experience. So, of course, has been the reading and teaching of your poetry over the years.</p>
+
+<p>You suggested that we might exchange one of your books (I have all of yours, thanks), so I am sending you <hi rend="underline">The Silent Storm</hi>, a book I wrote in collaboration with Ruth Crone. Although it was written for young readers, my editor says it is "for young people from nine to ninety," so you qualify. I hope you will enjoy it.</p>
+
+<p>I have published ten books, and number eleven, <hi rend="underline">The Many Faces of Willa Cather</hi> is in production at Scribner's. This is biographical in lnature and is for an adult audience.</p>
+
+<p>Since visiting with you briefly two weeks ago, I have been wondering whether or not you have anyone working on a biography of John G. Neihardt? If not, I should certainly like to talk to you about doing it. I can think of no writing pro-ject to which I could turn with more enthusiasm.</p>
+
+<closer>
+<salute>Sincerely yours,</salute>
+<signed>Marion March Brown</signed>
+<note>(Mrs. Gilbert S. Brown)</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

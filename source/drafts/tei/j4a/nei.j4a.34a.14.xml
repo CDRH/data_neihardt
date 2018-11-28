@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.34a.14">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Edwin R. Bingham to John G. Neihardt, August 18, 1970</title>
+<author>Bingham, Edwin R.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.34a.14</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Edwin R. Bingham to John G. Neihardt, August 18, 1970</title>
+<date when="1970-08-18"></date>
+<extent>1 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term>Robert V. Hine</term>
+<term>William Morrow</term>
+<term>Aly, Lucile Folse, 1913-</term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term>The West: Readings on the American Frontier</term>
+<term>Black Elk Speaks</term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Bingham, Edwin R.</persName>
+<placeName ref="http://www.geonames.org/5725846">Eugene (Or.)</placeName>
+<date when="1970-08-18"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/4381982">Columbia (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.34a.14.001" />
+<fw type="curatorial">14</fw>
+<note type="curatorial"></note>
+
+<fw type="letterhead">UNIVERSITY OF OREGON
+Department of History
+COLLEGE OF LIBERAL ARTS
+EUGENE, OREGON 97403
+telephone (code 503) 342-1411</fw>
+
+<opener>
+<dateline>18 August 1970
+</dateline>
+<address>
+<addrLine>Mr. John G. Neihardt</addrLine>
+<addrLine>Skyrim Farm</addrLine>
+<addrLine>Route 6</addrLine>
+<addrLine>Columbia, Missouri</addrLine>
+</address>
+<salute>
+Dear Mr. Neihardt:</salute>
+</opener>
+
+<p>Professor Robert V. Hine of the University of California at Riverside and I are putting together
+a book of short interpretive essays backed up by selected readings which we call "The West: Readings
+on the American Frontier" to be published this winter by Little, Brown and Company. For our chapter
+dealing with violence and lawlessness on the frontier we should like to include chapter XXIV, "The
+Butchering at Wounded Kneee" from your book <hi rend="underline">Black Elk Speaks</hi>. We made our initial request to your publisher, William Morrow and Company and were informed that all publication rights rest with you. We would be most grateful for permission to reprint that chapter under circumstnaces that you deem appropriate. We would of course acknoledge permission to use this material with a credit line in the proper place in our book.</p>
+
+<p>I see Lucille Aly from time to time and recently learned that her biography of you is now in press. I look forward to reading it. I also recall with pleasure meeting and chatting with you in Mrs. Aly's home several years ago.</p>
+
+<p>I hope this request will not inconvenience you unduly.</p>
+
+<p>Every good wish to you.</p>
+
+<closer>
+<salute>Sincerely yours,</salute>
+<signed>Edwin R. Bingham</signed>
+<note type="authorial">Edwin R. Bingham
+Professor of history</note>
+<note type="authorial">ERB:bb</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

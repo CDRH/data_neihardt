@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.32a.36">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Wilhelm A. Lerner to John G. Neihardt, November 25, 1968</title>
+<author>Lerner, Wilhelm A.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.32a.36</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Wilhelm A. Lerner to John G. Neihardt, November 25, 1968</title>
+<date when="1968-11-25">November 25, 1968</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term>Gingles, Nellie</term>
+<term>Lerner, Anton</term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term>Song of Hugh Glass</term>
+<term>Little Bull</term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Lerner, Wilhelm A.</persName>
+<placeName ref="http://www.geonames.org/5697939">North Platte (Neb.)</placeName>
+<date when="1968-11-25"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5063451">Bancroft (Neb.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.32a.36.001" />
+<fw type="curatorial">36</fw>
+<note type="curatorial"></note>
+
+<fw type="curatorial">THE CODY ELEMENTARY SCHOOL
+2000 West Second Street
+W.A. Lerner      Tel. 532-1883
+Principal        North Platte, Nebr.,</fw>
+
+<opener>
+<dateline>November 25, 1968
+</dateline>
+<address>
+<addrLine>Dr. John G. Neihardt</addrLine>
+<addrLine>Poet Laureate, State of Nebraska</addrLine>
+<addrLine>Bancroft, Nebraska</addrLine>
+</address>
+<salute>Dear. Dr. Neihardt:</salute>
+</opener>
+
+<p>The exellent article in the November 24th issure of the World Herald brought back memories of the English classes at Wayne High School.</p>
+
+<p>Our English classes read with much interest the "Song of Hugh Glass" and our teacher, Miss Nellie Gingles, especially had every boy "experiencing" the role of Hugh Glass..This was in the early 1920's.</p>
+
+<p>I was born and raised in Wayne and my father, Anton Lerner, was a forty year employee(1885-1925) of the Weber Brothers Flour Mill. Father once told me about your "official" bell ringing duties at the Wayne Normal College.</p>
+
+<p>Later, when attending Wayne State it was my pleasure to hear you speak to an assembly in the old administration building auditorium. It seems as but yesterday that I felt the warmth of the handclasp of "Little Bull". (Buffalo? M.M.Y-)</p> 
+
+<p>May the every watchful Messiah grant you continued keeness of mind and physical stamina.</p>
+
+<closer>
+<salute>Respectfully yours,</salute>
+<signed>W A Lerner</signed>
+<note>Wilhelm A. Lerner
+Principal, Cody Elementary</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

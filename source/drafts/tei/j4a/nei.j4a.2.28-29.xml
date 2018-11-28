@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.2.28-29">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Cale Young Rice to John G. Neihardt, June 22, 1912</title>
+<author>Rice, Cale Young, 1872-1943</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.2.28-29</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Rice, Cale Young, 1872-1943</author>
+<title level="m" type="main">Letter from Cale Young Rice to John G. Neihardt</title>
+<date when="1912-06-22">June 22, 1912</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p>Spaces added after punctuation.</p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Kennerley, Mitchell, 1878-1950</term>
+<term>Browning, Robert, 1812-1889</term>
+<term>Rice, Alice Hegan, 1870-1942</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="http://viaf.org/viaf/45777111">Rice, Cale Young, 1872-1943</persName>
+<placeName ref="http://www.geonames.org/4299276">Louisville (Ky.)</placeName>
+<date when="1912-06-22"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Neihardt, John Gneisenau</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Review; Additional Encoding</change>
+<change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.2.28-29_0001" />
+
+<fw type="curatorial">28</fw>
+
+<fw type="letterhead">
+1444 ST. JAMES COURT
+<lb/>
+   LOUISVILLE, KY.
+</fw>
+<opener>
+<dateline>June 22, 1912</dateline>
+
+<salute>Dear Neihardt:</salute>
+</opener>
+<p>I am not <choice><sic>surprized</sic><corr>surprised</corr></choice> that you are having a provoking time with <choice><sic>Kennerly</sic><corr>Kennerley</corr></choice>. He is a small Englishman with a very large consciousness of himself and his race, was my thought on meeting him once. Small in size, I mean, for he has a cleverness<add>. T</add><del>t</del>hough I doubt if it <add>is</add> broadly based, or soundly; unless a cool, or seemingly cool, egotism is sufficient for a foundation for such intellectuality as he gives the impression of believing himself to possess. I too have had my my <del><unclear/>ound</del><add>round</add> with with publishing difficulties, as I will tell you in<del>d</del>detail some day.</p>
+
+<p>But as you say Browning's line is the right gospel, though <add>'</add>welcom<del>e</del>ing each rebu<del>s</del><add>f</add>f<add>.'</add> when one is on the ragged edge, gets rather trying when the rebuffs turn up too often. I hope that one concerned with the subsistence problem may not trouble you much longer. I have had to sweep many devils out of my house, but not that one for <add>a</add> very long <del>at a</del> time. A year or two of <del>e</del><add>t</add>eaching, till my people realized it was poetry or bust with me, and it was out for good, I hope.</p>
+
+<p>As for the matter of faith, not to have it is to go<del/> against the current of life, which is upward, no matter from whence it comes or whither it goes. So it is as wise to trust it is forced upon us by some real economy, not by our mere fatuity..</p>
+<closer>
+<salute>Many good wishes to you,</salute>
+
+<signed>Cale Young Rice</signed>
+</closer>
+
+<note type="authorial">(over)</note>
+
+<pb facs="nei.j4a.2.28-29_0002"/>
+<fw type="curatorial">29</fw>
+
+<postscript>
+<p>Am sending you the photo of myself. Mrs. Rice's is not yet ready. It's soiled and no doubt will be more so when your paper is through with the plate-making; but you might suggest to them to return it to me &#8212; if it's worth sending.</p>
+
+<p>And, by the way, when your article appears send me a copy by letter mail, or it may not be forwarded to me.</p>
+</postscript>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
+

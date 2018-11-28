@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.34.2.4">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Mrs. William Schuette to John G. Neihardt, Febuary 4, 1970</title>
+<author>Mrs. Schuette, William</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.34.2.4</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">>Letter from Mrs. William Schuette to John G. Neihardt, Febuary 4, 1970</title>
+<date when="1970-02-04">Febuary 4, 1970</date>
+<extent>pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Mrs. Schuette, William</persName>
+<placeName ref="http://www.geonames.org/5065525">Chapman (Neb.)</placeName>
+<date when="1970-02-04"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.34.2.4.001" />
+<fw type="curatorial">2</fw>
+<note type="curatorial"></note>
+
+<fw type="letterhead">MRS. WILLIAM SCHUETTE
+ROUTE
+CHAPMAN, NEBRASKA 68827
+</fw>
+<opener>
+<dateline>Feb. 4, 1970
+</dateline>
+<note type="authorial">Ans.
+2/9/71</note>
+<salute>
+Dear Mr. Neihardt,</salute>
+</opener>
+
+<p>Our "Lutheran Church Women Executive Board wish to congratulate you upon your recent birthday. We
+also say "thank you" for the Contributions you have made in our state. We feel that you have influenced many lives.</p>
+
+<p>Many of us saw you on television and felt you gave some very good answers to the questions that were asked of you.</p>
+
+<p>Again we say,</p>
+
+<note type="curatorial">3</note>
+<p>"thank you" and may you have many happy days in the future.</p>
+
+<closer>
+<salute>Sincerely,</salute>
+<signed>Mrs. William Schuette</signed>
+<note type="authorial">Chapman, Nebr.
+Route Box 55</note>
+
+<fw type="curatorial">4</fw>
+
+<fw type="letterhead">Nebraska Lutheran Church Women
+of The 
+Lutheran Church In America
+Executive Board</fw>
+
+<fw>Peggy Nelson (Mrs. Harvey) Potter
+Anita Regler (Mrs. Jerry) Nebr. City
+Betty Heier (Mrs. Darrel) Wayne
+Lorraine Setterlund (Mrs. H.V.) Omaha
+Ruth H. Rustine (Mrs. DA) Lincoln
+Andy Grimm (Mrs. Arthur) Chappell
+Adeline Bernhardson Pender, Nebraska
+Amy Stran Holdrege, Nebr.
+Nadine Meier (Mrs. Eldon) Nickerson, Nebr.
+Lois Bernson (Mrs. Meloin) Dakota City, Nebr.
+Helire Gross (Mrs. Cash) Rising CIty, Nebr.
+Alta Vaudenberge (Mrs. Kenneth) West Point, Nebr.
+Caroline High, Bertrand, Nebr.
+Donna Anderson (Mrs. Richard) - Stromburg, Nebr.
+Dorothy Decker (Mrs. Edgar) Lincoln, Nebr.
+Lenous Schuette (Mrs. William) Chapman, Nebr.
+Louise Vanzogo - Omaha, Nebr.
+Evely Larson Hastings, Nebr.</fw>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

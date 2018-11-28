@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.2.7-9">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from George Buchanan to John G. Neihardt, September 20, 1911</title>
+<author>Buchanan, George</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.2.7-9</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Neihardt, John Gneisenau, 1881-1973</author>
+<title level="m" type="main">Letter from George Buchanan to John G. Neihardt</title>
+<date when="1911-09-20">September 20, 1911</date>
+<extent>4 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Kelly, Florence Finch, 1858-1939</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="works">
+<term>Emerson's Wife: and Other Western Stories</term>
+<term>The New York Times</term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Buchanan, George</persName>
+<placeName ref="http://www.geonames.org/5128581">New York City (N.Y.)</placeName>
+<date when="1911-09-20"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Review; Additional Encoding</change>
+<change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.2.7-9_0001" />
+
+<fw type="letterhead">
+The New York Times
+<lb/>
+Times Square<lb/>
+
+OFFICE OF
+<lb/>
+THE EDITOR OF
+<lb/>
+THE BOOK REVIEW
+</fw>
+
+<opener>
+<dateline>20 Septr 1911</dateline>
+
+<salute>Dear Mr. Neihardt:</salute>
+</opener>
+<p>It is quite too bad if the brief note (the wording of which I confess having <unclear/>) I sent you in reference to "Emerson's Wife" should lead you to believe that I sought to impose restrictions of any kind upon you. My sole interest was to inform you of the authorship. If my note was so unfortunately worded as
+
+<pb facs="nei.j4a.2.7-9_0002"/>
+<fw type="curatorial">8</fw>
+
+to suggest a favorable review against your judgement I am very sorry. I should much appreciate a note from you which will give the text of my letter. I have never sought to suggest, ever, that a reviewer should go wide of his frank opinion in the matter of a book. Books that are sent to you or to any other reviewer are sent to provoke the reviewer's candid view; the <title>Review</title> will print no
+
+<pb facs="nei.j4a.2.7-9_0003a"/>
+<fw type="curatorial">9</fw>
+
+other kind. The last book of Mrs. Kelly's <unclear/> in the <title>Review</title> was criticized unsparingly, so you are the entire independence of our publication. There have been several instances in which I had preferred that a book be praised but the review sent in was far from favorable to it &#8212; yet the review was published just as written. I feel it no <unclear/> of which to say to a reviewer,
+
+<pb facs="nei.j4a.2.7-9_0003b"/>
+
+"I hope you can praise this book" or "I should like to read a favorable review of this if it be possible to write it," where it is my intention to publish the review <hi rend="underline">whatever</hi> opinion it expresses. When I write you at any time about a book, do not construe it as filtering your hand in any way. Books sent you are, as you know, to be reviewed as you see fit.</p>
+<closer>
+   <salute>Very truly yours</salute>
+
+   <signed>George Buchanan <unclear/></signed>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

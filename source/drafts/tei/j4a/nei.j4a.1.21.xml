@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.1.21">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Caspar Whitney to John G. Neihardt, March 23, 1908</title>
+<author>Whitney, Caspar, 1862?-1929</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.1.21</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Whitney, Caspar, 1862?-1929</author>
+<title level="m" type="main">Letter from Caspar Whitney to John G. Neihardt</title>
+<date when="1908-03-23">March 23, 1908</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>University of Missouri, Western Historical Manuscripts Collection</repository>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>A Bundle of Myrrh</term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="http://viaf.org/viaf/53124866">Whitney, Caspar, 1862?-1929</persName>
+<placeName ref="http://www.geonames.org/5128581">New York City (N.Y.)</placeName>
+<date when="1908-03-23"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Review, Additional Encoding</change>
+<change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.1.21" />
+
+<fw type="curatorial">21</fw> 
+
+<fw type="letterhead">
+THE
+<lb/>
+   OUTING MAGAZINE
+<lb/>
+  Edited by
+<lb/>  
+CASPAR WHITNEY
+<lb/>
+35 AND 37 W. 31ST STREET
+<lb/>
+   NEW YORK
+</fw>
+<note>W/D</note>
+<opener>
+ <dateline>March 23, 1908.</dateline>
+
+
+<salute>My dear Mr. Niehardt:</salute>
+</opener>
+<p>I am sending through this mail a copy of "A Bundle of Myrrh", which I ask you to autograph and return to me. I want to put it in my library.</p>
+
+<p>I am not, as a rule, a reader of verse, but I must say I have read this little book of yours from cover to cover, &#8212; and that isn't merely polite language but the actual fact. There is a real feeling in your verse and a thought, and that's more than I can say for most of the modern verse.</p>
+<closer>
+
+<salute>Sincerely,</salute>
+
+<signed>Caspar Whitney</signed>
+
+
+
+<address>
+<addrLine>Jno. G. Niehardt, Esq.,</addrLine>
+<addrLine>Bancroft, Nebraska.</addrLine>
+</address>
+</closer>
+
+<note type="curatorial">WESTERN HISTORICAL MANUSCRIPTS COLLECTION
+<lb/>
+UNIVERSITY OF MISSOURI
+<lb/>
+COLUMBIA, MO.</note>
+
+<fw type="letterhead">Printing and Manufacturing Plant, and Subscription Offices at Deposit, N. Y.</fw>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.32a.29.20">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from James S. Harris to John G Neihardt, September 30, 1968</title>
+<author>Harris, James S.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.32a.19.20</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from James S. Harris to John G Neihardt, September 30, 1968</title>
+<date when="1968-09-30">September 30, 1968</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term>Mitchell, Don R.</term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Harris, James S.</persName>
+<placeName ref="http://www.geonames.org/4305974/richmond.html">Richmond (K.Y.)</placeName>
+<date when="1968-09-30"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/4381982">Columbia (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.32a.19.20.001" />
+<fw type="curatorial">19</fw>
+<note type="curatorial"></note>
+
+<note><hi rend="underline">Ans</hi>
+10/17/68</note>
+
+<fw type="letterhead">EASTERN KENTUCKY UNIVERSITY
+Richmond, Kentucky 40475
+OFFICE OF ACADEMIC AFFAIRS
+<hi rend="italics">Division of Instructional Service</hi></fw>
+
+<opener>
+<dateline>September 30, 1968
+</dateline>
+<address>
+<addrLine>Dr. John G. Neihardt</addrLine>
+<addrLine>R. D. #7</addrLine>
+<addrLine>University of Missouri</addrLine>
+<addrLine>Columbia, Missouri 65201</addrLine>
+</address>
+<salute>Dear Dr. Neihardt:</salute>
+</opener>
+
+
+<p>Eastern Kentucky University, in an attempt to acquaint its teaching staff with advantages and limitations of closed-circuit television, is offering this fall an Instructional Television course designed for the faculty. In order to show what other institutions are accomplishing, we should like to show representative samples of college level courses to this class. Mr. Don R. Mitchell, Associate Director of Instructional Television at the University of Missouri has informed us that it would be necessary for us to obtain your permission in order that we view the materials we requested from him. If you will please grant us your approval so that he may ship the tape to us, we should appreciate your cooperation. The tape we are interested in seeing is the lesson fo:
+English 279 Epic America
+Thank you for your consideration of this matter.</p>
+
+<closer>
+<salute>Cordially,
+</salute>
+<signed>James S. Harris</signed>
+<note>James S. Harris
+Director</note>
+<note>JSH/klm
+Note to Nereze -M.M.Y
+1. Write Don. R. Mitchell, Associate Director of Instructional Television at <unclear>Uni of MO</unclear>
+2. Inform them of Twilight of the Sioux</note>
+</closer>
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

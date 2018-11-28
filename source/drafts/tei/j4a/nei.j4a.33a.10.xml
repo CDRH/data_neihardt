@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.33a.10">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from J.B. Rhine to John G. Neihardt, August 19, 1969</title>
+<author>Rhine, J.B.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.33a.10</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from J.B. Rhine to John G. Neihardt, August 19, 1969</title>
+<date when="1969-08-19">August 19, 1969</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term>Cycle of the West</term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="http://viaf.org/viaf/57445782">Rhine, J. B. (Joseph Banks), 1895-1980</persName>
+<placeName ref="http://www.geonames.org/4464368">Durham (N.C.)</placeName>
+<date when="1969-08-19"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.33a.10.001" />
+<fw type="curatorial">10</fw>
+<note type="curatorial"></note>
+
+<fw type="letterhead">FRNM
+Foundation for Research on the Nature of Man
+THE NATURE FOR PARAPSYCHOLOGY
+PARAPSYCHOLOGY PRESS
+BOX 6847, COLLEGE STATION
+DURHAM, N.C. 277708</fw>
+
+<opener>
+<dateline>August 19, 1969
+</dateline>
+<address>
+<addrLine>Dr. John Neihardt</addrLine>
+<addrLine>5835 Vine Street</addrLine>
+<addrLine>Lincoln</addrLine>
+<addrLine>Nebraska  68505</addrLine>
+</address>
+<salute>Dear Dr. Neihardt:</salute>
+</opener>
+
+<p>I am greatly enjoying your <hi rend="underline">Cycle of the West</hi>. I am surely proud to know the author of this great work as well as I do, and with time I will improve the acquaintance I hope.</p>
+
+<p>How is your present undertaking progressing? I hope it is keeping you both healthy and happy.</p>
+
+<p>I have a little exchange with Tom, some of it through our mutual friend, Mr. William Edward Cox, who visited Missouri recently and made contact with Tom and Joe.</p>
+
+<p>The summer is a busy time for us. People are coming in now for the Meeting that will take place at the end of the month.</p>
+
+<p>Kind regards.</p>
+
+<closer>
+<salute>Sincerely yours,</salute>
+<signed>J B Rhine</signed>
+<fw type="authorial">J.B. Rhine</fw>
+<fw type="authorial">f/</fw>
+<note type="authorial">402 BUCHANAN         FOUNDATION HOUSE          TEL. (919) 688-8241</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

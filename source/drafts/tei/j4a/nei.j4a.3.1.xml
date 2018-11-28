@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.3.1">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from H. L. Mencken to John G. Neihardt, March 25, 1913</title>
+<author>Mencken, H.L. (Henry Louis), 1880-1956</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.3.1</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Mencken, H.L. (Henry Louis), 1880-1956</author>
+<title level="m" type="main">Letter from H. L. Mencken to John G. Neihardt</title>
+<date when="1917-03-13">March 13, 1917</date>
+<extent>1 page, plus envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="http://viaf.org/viaf/76330588">Mencken, H.L. (Henry Louis), 1880-1956</persName>
+<placeName ref="http://www.geonames.org/4347778">Baltimore (Md.)</placeName>
+<date when="1917-03-13"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5037649">Minneapolis (Minn.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Review; Additional Encoding</change>
+<change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.3.1a" />
+
+<note type="curatorial">203 Neihardt Collection</note>
+<fw type="curatorial">1</fw>
+
+<fw type="letterhead">
+H. L. MENCKEN
+<lb/>
+ 1524 HOLLINS ST.
+<lb/>
+ BALTIMORE.
+</fw>
+
+<opener>
+<dateline>March 25th.</dateline>
+
+
+<salute>My dear Neihardt: &#8212;</salute>
+</opener>
+<p>A pleasure, believe me!</p>
+
+<closer>
+<salute>Ever,</salute>
+
+<signed>H. L. Mencken.</signed>
+</closer>
+
+</div1>
+
+
+<div1 type="envelope">
+
+<pb facs="nei.j4a.3.1b"/>
+
+<ab type="return">
+H. L. MENCKEN
+<lb/>
+  1524 HOLLINS ST.
+<lb/>
+  BALTIMORE.
+</ab>
+
+<ab type="postmark">BALTIMORE, MD. MAR 26 <unclear>1</unclear>030AM 1913
+  2 D</ab>
+<figure>
+<figDesc>2 Cent Stamp</figDesc>
+<p>U.S.POSTAGE 2 CENTS 2</p>
+</figure>
+
+<ab type="address">
+<address>
+<addrLine>John G. Neihardt,</addrLine>
+<addrLine>The <hi rend="underline"><title>Journal</title></hi>,</addrLine>
+<addrLine>Minneapolis, Minn.</addrLine>
+</address>
+</ab>
+
+<note type="curatorial">Found in <hi rend="underline">H. L. Mencken</hi> &#8212; Roscoe, O'Sullivan and Henderson NY Alfred A. Knopf 1920</note>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

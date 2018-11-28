@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.33a.30">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Gilbert Lueninghoener to John G. Neihardt, November 18, 1969</title>
+<author>Lueninghoener, Gilbert</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.33a.30</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Gilbert Lueninghoener to John G. Neihardt, November 18, 1969</title>
+<date when="1969-11-08"></date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Lueninghoener, Gilbert</persName>
+<placeName ref="http://www.geonames.org/5068725">Fremont (Neb.)</placeName>
+<date when="1969-11-08"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.33a.30.001" />
+<fw type="curatorial">30</fw>
+<note type="curatorial"></note>
+
+<fw type="letterhead">MIDLAND LUTHERAN COLLEGE
+FREMONT, NEBRASKA 68025
+OFFICES OF ADMINISTRATION</fw>
+
+<opener>
+<dateline>November 18, 1969
+</dateline>
+<address>
+<addrLine>Mr. John Neihardt</addrLine>
+<addrLine>and
+Mr. and Mrs. Julius D. Young</addrLine>
+<addrLine>5835 Vine Street</addrLine>
+<addrLine>Lincoln, Nebraska</addrLine>
+</address>
+<salute>Dear Dr. Neihardt:</salute>
+</opener>
+
+<p>We wish to thank you very much for the personally autographed books which you sent. We consider ourselves to be fortunate indeed to be the recipients of the treasured volumes.  We aremost grateful for your thoughtfulness and we are honored to be worthy of these fine books.</p>
+
+<p>In all the years I have been here at Midland College I have never seen anyone given the ovation that was given at the convocation of November 5. What shall one say, or what can one say better than was expressed by the audience.</p>
+
+<p>We shall aways remember the day spent with you with much pleasure.</p>
+
+<closer>
+<salute>Sincerely,</salute>
+<signed>Gilbert Lueninghoener</signed>
+<note type="authorial">Gilbert Lueninghoener
+Director of the Planetarium
+and Observatory</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

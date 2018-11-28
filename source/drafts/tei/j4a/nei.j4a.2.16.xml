@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.2.16">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Hamilton W. Mabie to John G. Neihardt, March 6, 1912</title>
+<author>Mabie, Hamilton Wright, 1846-1916</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2013</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.2.16</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Mabie, Hamilton Wright, 1846-1916</author>
+<title level="m" type="main">Letter from Hamilton W. Mabie to John G. Neihardt</title>
+<date when="1912-03-06">March 6, 1912</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McDonald Collection</repository>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="works">
+<term>The Stranger at the Gate</term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="http://viaf.org/viaf/59153744">Mabie, Hamilton Wright, 1846-1916</persName>
+<placeName ref="http://www.geonames.org/5128581">New York City (N.Y.)</placeName>
+<date when="1912-03-06"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5063451">Bancroft (Neb.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc><person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person></particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Review; Additional Encoding</change>
+<change when="2015"><name xml:id="swa">Adrales, Samantha W.</name> Initial Encoding</change>
+<change when="2011"><name xml:id="az">Zeljkovic, Arman</name> Proofreading</change>
+<change when="2011"><name xml:id="ep">Pedigo, Erin</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.2.16" />
+
+<note type="curatorial">I. McDonald Collection</note>
+
+<fw type="curatorial">16</fw>
+
+<opener>
+THE OUTLOOK
+<lb/>
+287 Fourth Avenue
+<lb/>
+New York.
+<lb/>
+
+Editorial Rooms.
+<lb/>
+  
+_______
+
+<dateline>March 6, 1912</dateline>
+<salute>My dear Mr. Neihardt:</salute>
+</opener>
+<p>I have read the slender volume, "The Stranger at the Gate" with a great deal of interest and satisfaction; and I am very grateful to you for sending me a copy. The work is well worth while, and I shall take early occasion to say. There is nothing commonplace, either in the thought or the expression; and from time to time one comes upon surprises which evidence the presence of the real thing. Your later verse seems to me to show a decided advance over the earlier work, and is very cheerful reading to one who is anxious for the immediate future of American poetry.</p>
+<closer>
+<salute>Sincerely yours,</salute>
+
+<signed>Hamilton W. Mabie</signed> 
+
+<address>
+<addrLine>Mr. John G. Neihardt,</addrLine>
+<addrLine>Bancroft, Nebraska.</addrLine>
+</address>
+</closer>
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

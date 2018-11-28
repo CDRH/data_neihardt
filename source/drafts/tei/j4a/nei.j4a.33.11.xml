@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.33.11">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Bower Aly to John G. Neihardt, February 17, 1969</title>
+<author>Aly, Bower</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.X.X</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Bower Aly to John G. Neihardt, February 17, 1969</title>
+<date when="1969-02-17">February 17, 1969</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="http://viaf.org/viaf/111613405">Aly, Bower, 1903-1977</persName>
+<placeName ref="http://www.geonames.org/5725846">Eugene (Or.)</placeName>
+<date when="1969-02-17"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.33.11.001" />
+<fw type="curatorial">11</fw>
+<note type="curatorial"></note>
+
+<opener>
+<address>
+<addrLine>1138 Twenty-Second Avenue East</addrLine>
+<addrLine>Eugene, Oregon 97403</addrLine>
+</address>
+<dateline>February 19, 1969
+</dateline>
+<salute>Dear John:</salute>
+</opener>
+
+<p>Lucile will write you shortly. Meanwhile she has commissioned me to answer your letter of February 8.</p>
+
+<p>Lucile had never lived with death before, and the experience as witness to her father's slow disintegration form the sentient person she had known and loved to a non-sentient mass of protoplasm (as happens in the advanced stages of Parkinson's disease, with successive strokes) was most traumatic. Happily she is now herself again. She has followed my advice--the practice I have employed in my own death-caused traumas--namely, to use work as therapy. She has been hard at work on the Neihardt biography.</p>
+
+<p>If her progress seems slow it is because she is a perfectionist. No detail concerning her poet is too trivial not to warrant discovering, in the letters or elsewhere, what the facts are. Every word must count, must be weighed and measured. The chapters I have read give me leave to say that it will be a great book, worthy of the great subject, if all the chapters measure up to the ones I have read. Moreover, I believe it will represent a contribution to criticism as well as to the Neihardt biography. I believe the lady has some insightfulness that will do credit to both of you.</p>
+
+<p>I think sometimes that her experience in writing the critical-rhetorical-biographical study is
+perh(pa)s not entirely unlike your own in writing the ten or twenty lines a day. Nothing less than
+<hi rend="underline">being right</hi> will satisfy her.</p>
+
+<p>If I knew how, I would pass my own special resolution addressed to the legislature of my native state, honoring the legislators for their perspieacity in passing the resolution. They did themselves proud and in honoring you did even more honor to themselves.</p>
+
+<p>Naturally we<hi rend="line"/>are pleased that you have both eyes restored. But take care of them!</p>
+
+<p>Stewart will graduate from Princeton in June. We plan to go East for the event, and time permitting I hope we may be able to stope in Missouri for a day. If so, I trust we will see you in fine fettle.</p>
+
+<closer>
+<salute>Sincerely and affectionately, as ever,</salute>
+<signed>Bower</signed>
+<note>B.A.</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

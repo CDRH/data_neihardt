@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.33a.5">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Lucile Folse Aly to John G. Neihardt, July 19, 1969</title>
+<author>Aly, Lucile F.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.33a.5</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Lucile Folse Aly to John G. Neihardt, July 19, 1969</title>
+<date when="1969-07-19">July 19, 1969</date>
+<extent>1 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="http://viaf.org/viaf/50467731">Aly, Lucile Folse, 1913-</persName>
+<placeName></placeName>
+<date when="1969-07-19"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.33a.5.001" />
+<fw type="curatorial">5</fw>
+<note type="curatorial"></note>
+
+<opener>
+<dateline>July 19, 1969
+</dateline>
+<salute>Dear John,</salute>
+</opener>
+
+<p>We are held up by car trouble and didn't get home till later than we hoped--a hawk flew into the headlights and pulled loose the connections, and we developed a vapour lock in the old car going through the mountains. But we finally made it. I called Hilda from Kansas City, and I have just written to Ollie, so they will get the manuscript as soon as I can get it off.</p>
+
+<p>It was wonderful to see you, and we got quite a bit done. There is never time enough, but we
+talked about the questions we needed to take up. I will be working mornings in the library carrel
+where there is, praise the Lord, <hi rend="underline">no telephone</hi>. Everything should move quickly now, and I will get the final chapter to you as soon as possible.</p>
+
+<p>How was the convention in Salt Lake? I hope the trip was not too warm; the desert can be pretty devastating. You must tell me about the exhibits; did you show the jade? If so, I want to know what people said about it. It is beautiful--the stones and the work.</p>
+
+<p>The copies of <hi rend="underline">Present-Day American Literature</hi> articles arrived, and I am most grateful. I should have a bill, however. I will write to Florence, because I want to bear the costs unless you have an arrangement for free copies.</p>
+
+<p>Bower sends his regards and a pat for Jacques; he is busy on a book and a houseful of grandchildren and dogs. Stewart is here with his fiancee, who is a delightful girl, and Charley's wife, Mina is here too. They are all running things for me so I can work, and they all send love to you. So do I--much love. I am not entirely happy to be finishing this book; I would be really unhappy if I didn't have plans for others about you. I've become a critic with a message.</p>
+
+<closer>
+<salute>Love,</salute>
+<signed>Lucile</signed>
+<note type="authorial">P.S. I'm enclosing the pictures of Muskie and ALys. Tell Myrtle I'll write soon.</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
