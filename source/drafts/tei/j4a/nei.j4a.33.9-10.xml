@@ -1,37 +1,159 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 9
-THE STATE OF COLORADO
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.33.9.">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Milford E Shields to John G. Neihardt, February 13, 1969</title>
+<author>Sheilds, Milford E.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.33.9</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Milford E Shields to John G. Neihardt, February 13, 1969</title>
+<date when="1900">February 13, 1969</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Sheilds, Milford E.</persName>
+<placeName ref="http://www.geonames.org/5420241/durango.html">Durango, (Colorado)</placeName>
+<date when="1900"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.33.9.001" />
+<fw type="curatorial">9</fw>
+<note type="curatorial"></note>
+
+<fw type="letterhead">THE STATE OF COLORADO
 POET LAUREATE
 MILFORD E. SHIELDS
 P.O. BOX 1217
 DURANGO, COLORADO, U.S.A.
-81301
+81301</fw>
+<opener>
+<dateline>February 13, 1969
+</dateline>
+<address>
+<addrLine>Dr. John G. Neihardt</addrLine>
+<addrLine>Poet Laureate of Nebraska</addrLine>
+<addrLine>5835 Vine Street</addrLine>
+<addrLine>Lincoln, Nebraska 68505</addrLine>
+</address>
+<salute>Dear Dr. Neihardt:</salute>
+</opener>
 
-February 13, 1969
-Dr. John G. Neihardt
-Poet Laureate of Nebraska
-5835 Vine Street
-Lincoln, Nebraska 68505
-
-Dear Dr. Neihardt:
 <p>I have been inspired by reading the digest of your lecture on creatice writing. I only wish we could have more such masterpieces of literature.</p>
+
 <p>And your educational hour on T.V. withMr. Ron Hull most surely brought the flowering of poetry again to the cultural plains of your great State and its neighbors. I can sense the lyric fragrance from here. Surely, the spirit of the world is the better for your leavening.</p>
+
 <p>It was my humble pleasure to read my 14th annual poem to my Colorado Legislature when I was in Denver last month. It seems that all men are thirsting for the "infinite sweetness."</p>
+
 <p>It is my prayer that good health and inspiraiton may long continue your life of "revelation and dedication."</p>
-Sincerely yours,
+
+<closer>
+<salute>Sincerely yours,</salute>
 <signed>Milford E Shields</signed>
-Milford E. 
+<note>Milford E. 
+</note>
+</closer>
 
-Page 10
-5835 Vine Street 
-Lincoln, Nebraska 68505
-February 21, 1969
+</div1>
+</body>
 
-Dear Dr. Shields,
-<p>You are a dear, generous-hearted man to write me as you do, and I can assure you that your kindness makes me happy.</p>
-<p>I note what you say about reading your fourteenth annual poem to the Colorado Legislature, and I do wish you would send me a copy of that poem.</p>
-<p>I have been having a happy time this winter working on my so-called autobiography--so called because I do not know what else to call it! The title is "The Old Man Remembers." I have thirty-seven thousand words written and I should be trhough with the task during this year.</p>
-<p>Be sure that I think of you with a warm heart.</p>
-Your friend,
-John G. Neihardt
-JGN:fmb
+<back></back>
+</text>
+</TEI>
