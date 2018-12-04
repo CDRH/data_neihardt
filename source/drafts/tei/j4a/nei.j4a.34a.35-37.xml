@@ -1,27 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 35
-EARL THOMPSON
-CHALET LES FRAQSSES
-1882-BARBOLUESAZ-GRYON
-SWITZERLAND
-DEC 18, 1970
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-Dear Dr. Neihardt;
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.34a.35.37">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Earl Thompson to John G. Neihardt, Dec 18, 1970</title>
+<author>Thompson, Earl</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.34a.35.37</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Earl Thompson to John G. Neihardt, Dec 18, 1970</title>
+<date when="1970-12-18"></date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term>Hitler, Adolf, 1889-1945</term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Thompson, Earl</persName>
+<placeName ref="http://www.geonames.org/2658434">Switzerland</placeName>
+<date when="1970-12-18"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.34a.35.37.001" />
+<fw type="curatorial">35</fw>
+<note type="curatorial"></note>
+
+<opener>
+<address>
+<addrLine>Earl Thompson</addrLine>
+<addrLine>CHALET LES FRAQSSES</addrLine>
+<addrLine>1882-BARBOLUESAZ-GRYON</addrLine>
+<addrLine>SWITZERLAND</addrLine>
+</address>
+<dateline>DEC 18, 1970
+</dateline>
+<salute>Dear Dr. Neihardt;</salute>
+</opener>
+
 <p>Here we are in the Chalet of a Baron of all Belgains, on a sunny <unclear>alpin balcon</unclear>, overlooking practically everything. -Except to wish you once more a joyious and satisfying season. I only wish you were here to sit by the fire and gaze out at a Christmas Card seem that would be carry if it were not real. And perhaps life a small glass of the local wine, as delightful as sunshine.</p>
+
 <p>I hope you have received a copy of my book by now. Though I am reluctant for you to read it. It is not heroic. For I do not come from heroic people. We on the wrong side a <sic>Culoden</sic> Moor and on the wrong side at Shiloh and we are on the wrong side again. We were for the Indian, the working man, the black and the widows + orphans before this was even the flare of movements that burn brightly until Judeo-Christain  <unclear>passion wanes</unclear> or wants to kill <unclear>somebody</unclear> - preferably by remote control,</p>
-Page 36
-2.
+
+<fw type="curatorial">36</fw>
+<fw type="authorial">2</fw>
 <p>So, we were always on the wrong side - barbarian and losers to great quaking christians like Nixon and all his righteous brothers.</p>
+
 <p>I keep hearing Gustav Krupp tell his son Alfried: "We've hired Hitler."</p>
+
 <p>I don't expect my book to be like for the right reasons anywhere but in <sic>Scandanovia</sic> + perhaps The Netherlands. Consequently, I have a contract which permits me to handle all rights to my work in those countries.</p>
+
 <p>Were in Switzerland to ski, and look for a place to establish another permenant base. They killed all the fish in Lake Tahoe. Colorado, Nevada, + New Mexico are radioactive. Everytime I publically protest some outrage, a deadfaced man who looks like an assistant secretary of defense snaps my photo for some great cross-reference somewhere of folks to be scooped up - just in case - when and if. I cannont live with the rage such thinking excites in me. Nor is writing a satisfying outlet for me. Less than 5% of Americans really read. Line up those who do, willing to see my side, and its <sic>Culoden</sic> all over again.</p>
-* "Arms of Krupp" William Manchester.
-Page 37
-3.
+
+
+<fw type="authorial">* "Arms of Krupp" William Manchester.</fw>
+<fw type="curatorial">37</fw>
+<fw type="authorial">3</fw>
 <p>So, I'll talk to the Swedes. They straight away treat me like a citizen. It is a very good feeling that.</p>
+
 <p>Got a new pair of French skis which immediately expressed their Gallic character by being totally unforgiving of slovenly techingue by pitching me headlong over the tri-color little cocks on the tips and bashing my left shin with a hard sharp edge.</p>
+
 <p>The Dr. says after he draws off the fluid collected in a painful great bust. I could be skiing again by Christmas or perhaps New Years. "Anyway, there is no snow!" he explains agreeably. The consider nothing under a meter anything but a heavy frost. And the discoloration of my limb ought to be completely gone by April. If I had broken it, I'd be 50 pages into my next book by now. I think my editor sees a witch.</p>
+
 <p>I do wish you could spend some time in these mountains with us. Think we can sleep 14. If you are up to the trip come along.</p>
+
 <p>Jedediah doesn't talk a hell of a lot. But when he does, he means for you to listen, serious little fellow. May be well <unclear/></p>
-Fondest regards
-Deanne, John, Jamie + Jed.    Earl
+
+<closer>
+<salute>Fondest regards</salute>
+<signed>Deanne, John, Jamie + Jed.    Earl</signed>
+<note type="authorial">Earl Thompson</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
