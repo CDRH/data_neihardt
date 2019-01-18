@@ -1,19 +1,152 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 30
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-5662 Waterman Blvd.
-St. Louis, Mo.
-63112
-March 6, 1971
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.35.30">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Jim Tibensky to John G. Neihardt, March 6, 1971</title>
+<author>Tbensky, Jim</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.35.30</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
 
-Dear Dr. Neihardt, Mr. &Mrs. Young,
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Jim Tibensky to John G. Neihardt, March 6, 1971</title>
+<date when="1971-03-06">March 6, 1971</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term>Black Elk</term>
+<term>When The Tree Flowered</term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Tibensky, Jim</persName>
+<placeName ref="http://www.geonames.org/4407066">St. Louis (Mo.)</placeName>
+<date when="1971-03-06"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.35.30.001" />
+<fw type="curatorial">30</fw>
+<note type="curatorial"></note>
+
+<opener>
+<address>
+<addrLine>5662 Waterman Blvd.</addrLine>
+<addrLine>St. Louis, Mo.</addrLine>
+<addrLine>63112</addrLine>
+</address>
+<dateline>March 6, 1971
+</dateline>
+<salute>Dear Dr. Neihardt, Mr. Mrs. Young,</salute>
+</opener>
+
 <p>Thank you for writing and telling me about the Dick Caveet special. If you find out exactly when it will be, please let me know. Cavett's show comes on here in St. Louis at midnight, so it would be very hard for me to watch every night for the special. Some of the people in my course on Indians mentioned that Cavett said he would be having a program with one of the most interesting people he has ever met. I'm really looking forward to it.</p>
 <p>I hope that you have heard from John Collier Jr. by now. I'm sure that  he has gotten my letter.</p>
-<p>Almost everyone in my Indians class has already read <underline>Black Elk</underline> on their own, but none of them have heard of <underline>When the Tree Flowered</underline>. Needless to say, I have recommended it to them.</p>
+<p>Almost everyone in my Indians class has already read <hi rend="underline">Black Elk</hi> on their
+own, but none of them have heard of <hi rend="underline">When the Tree Flowered</hi>. Needless to say, I have recommended it to them.</p>
 <p>I was just thinking...... if you don't hear from Collier soon you could try reaching him care of the Field Museum of Natural History, Chicago. If he isn't there I'm sure they will forward your message to him. As far as I know, he's still there as Curator of Ethnology of something similar to that.</p>
 <p>I hope this letter finds all of you in good health and in peace.</p>
-Love,
-<signed>Jim Tibensky</signed>
 
-Ans. 3/15/71
-dictated
+<closer>
+<salute>Love,</salute>
+<signed>Jim Tibensky</signed>
+<note type="authorial">Ans. 3/15/71
+dictated</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
