@@ -1,14 +1,151 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 39
-19 March 1971
-5730 Lee Boulevard
-Downers Grove 60516
-<underline>Illinois</underline>
-Dear Poet Laureate
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.35.39">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Virgina Marie Bucher to John G. Neihardt, March 19, 1971</title>
+<author>Bucher, Virginia M</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.35.39</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Virgina Marie Bucher to John G. Neihardt, March 19, 1971</title>
+<date when="1971-03-19">March 19, 1971</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term>Ogallala (Ne.)</term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Bucher, Virginia M.</persName>
+<placeName ref="http://www.geonames.org/4896861">Illinois</placeName>
+<date when="1971-03-19"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.35.39.001" />
+<fw type="curatorial">39</fw>
+<note type="curatorial"></note>
+
+<opener>
+<address>
+<addrLine>19 March 1971</addrLine>
+<addrLine>5730 Lee Boulevard</addrLine>
+<addrLine>Downers Grove 60516</addrLine>
+<addrLine><hi rend="underline">Illinois</hi></addrLine>
+</address>
+<dateline>
+</dateline>
+<salute>Dear Poet Laureate</salute>
+</opener>
+
 <p>May I share my fondest wishes for your personal thoughts in including me in the mailing list for your recording - "the wonder of it all."</p>
 <p>When the record was recieved I left it for a Sunday morning hearing in my home - which is my church - and I have never spent a more lovely communion with my family.</p>
-<p>Afterwards I gave it to your cousin, John Culler, and he enjoyed it in the reminder of the Sunday, March 14<underline>th</underline>, here in Belmont; a still unicorporated area under township government, sir.</p>
+<p>Afterwards I gave it to your cousin, John Culler, and he enjoyed it in the reminder of the Sunday, March 14<hi rend="underline">th</hi>, here in Belmont; a still unicorporated area under township government, sir.</p>
 <p>I wish your recording could be in every secondary school in the county; and certainly in every library in the land...and world.</p>
 <p>I cannot thank you enough for producing sounds and words that so well convey my own closest feeling for life; for the dear Indians; and for the tender expression of prayer eternal.</p>
 <p>I am partial to Ogallala, Nebraska - least now I know all of Nebraska lies a favorite son who is truly a shining sun forever, most sincerely</p>
-Virginia Marie Bucher
+
+<closer>
+<salute>Virginia Marie Bucher</salute>
+<signed></signed>
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>Bucher
