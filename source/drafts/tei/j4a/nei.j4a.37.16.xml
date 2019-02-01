@@ -1,21 +1,158 @@
 <?xml version="1.0" encoding="UTF-8"?>
-ans 1-29-73
-DONIPHAN PUBLIC SCHOOLS 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.37.16">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Caroline Green to John G. Neihardt, January 26, 1973</title>
+<author>Green, Caroline</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.X.X</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Caroline Green to John G. Neihardt, January 26, 1973</title>
+<date when="1973-01-26">January 26, 1973</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term>All Is But a Beginning</term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Green, Caroline</persName>
+<placeName ref="http://www.geonames.org/5067077/doniphan.html">Doniphan (Neb.)</placeName>
+<date when="1973-01-26"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.37.16.001" />
+<fw type="curatorial">16</fw>
+<note type="curatorial"></note>
+
+<note>ans 1-29-73</note>
+<fw type="letterhead">DONIPHAN PUBLIC SCHOOLS 
 DISTRICT 26
 Office of the Superintendent 
 TELEPHONE 845-2291
-DONIPHAN, NEBRASKA 68832
-16
-January 26, 1973
-Dr. John G. Neihardt
-c/o Mr. & Mrs. Julius D. Young 
-5835 Vine Street 
-Lincoln, Nebraska 68505
-Dear Dr. Neihardt,
-Once again we would like to do your one-act play, "800 Rubles," for speech contests and would appreciate your permission to present it. Also, could you tell us the amount of royalty and to whom the check should be sent? None of my catalogs list this play. 
-Enjoyed your latest book "All Is But a Beginning" so much, es-pecially the way you met your wife. Also brought back many happy memories of my own childhood.
-A belated "Happy Birthday" and "Many Happy Returns."
-With warmest wishes,
-Caroline Green 
-Caroline Green 
-Speech Director
+DONIPHAN, NEBRASKA 68832</fw>
+<opener>
+<dateline>January 26, 1973
+</dateline>
+<address>
+<addrLine>Dr. John G. Neihardt</addrLine>
+<addrLine>c/o Mr. Mrs. Julius D. Young </addrLine>
+<addrLine>5835 Vine Street </addrLine>
+<addrLine>Lincoln, Nebraska 68505</addrLine>
+</address>
+<salute>Dear Dr. Neihardt,</salute>
+</opener>
+
+<p>Once again we would like to do your one-act play, "800 Rubles," for speech contests and would appreciate your permission to present it. Also, could you tell us the amount of royalty and to whom the check should be sent? None of my catalogs list this play.</p>
+
+<p>Enjoyed your latest book "All Is But a Beginning" so much, es-pecially the way you met your wife. Also brought back many happy memories of my own childhood.</p>
+
+<p>A belated "Happy Birthday" and "Many Happy Returns."</p>
+
+<closer>
+<salute>With warmest wishes,</salute>
+<signed>Caroline Green </signed>
+<note>Caroline Green 
+Speech Director</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
