@@ -1,16 +1,145 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 43
-Pender, Nebr. 
-March 27, 1971
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-Dear Dr. Neihardt,
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.35.43">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Russel Schweers to John G. Neihardt, March 27, 1971</title>
+<author>Schweers Russel</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.35.43</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Russel Schweers to John G. Neihardt, March 27, 1971</title>
+<date when="1971-03-27">March 27, 1971</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term>Beatrice (Neb) </term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Schweers, Russel</persName>
+<placeName ref="http://www.geonames.org/5074969">Pender (Neb.)</placeName>
+<date when="1971-03-27"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.35.43.001" />
+<fw type="curatorial">43</fw>
+<note type="curatorial"></note>
+
+<opener>
+<note type="authorial">Pender, Nebr.</note>
+<dateline>March 27, 1971
+</dateline>
+<salute>Dear Dr. Neihardt,</salute>
+</opener>
+
 <p>On May 3, our EP Chapter of P.E.O. of Wisner, Nebr.. is going to the P.E.O. Home at Beatric, Nebr. I will be giving a program for the aged residence there. It will be about your works Dr. Neihardt, and also I will show some slides of the restoration at Bancroft and also the prayer garden.</p>
 <p>We were wondering if it would be possible for you, and ancompanion if you wish, to join us that day to visit with the residence there and recite some of your poetry.</p>
 <p>We could pick you up at your residence shortly after 12 noon and drive to Beatrice. We will have a program and a short meeting, and lunch. I'm sure we could have you home by 5 p.m.</p>
 <p>It would be a thrill for all of us Dr. Neihardt if you could find the time to join us. I will be awaiting your reply.</p>
-Sincerely yours,
+<closer>
+<salute>Sincerely yours,</salute>
 <signed>Mrs. Russell Schweers</signed>
-Mrs. Russell Schweers
-Pender, Nebr. 68047
+<note type="authorial">Mrs. Russell Schweers
+Pender, Nebr. 68047</note>
+<note>declined</note>
+</closer>
 
-declined
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
