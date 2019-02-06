@@ -1,22 +1,162 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 11
-New
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.35a.11">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Fred L. Lee to John G. Neihardt, April 21 1971</title>
+<author>Lee, Fred L.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.35a.11</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Fred L. Lee to John G. Neihardt, April 21 1971</title>
+<date when="1971-04-21">April 21, 1971</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="viaf.org/viaf/33504398">Lee, Fred L.</persName>
+<placeName ref="http://www.geonames.org/4393217">Kansas City (Mo.)</placeName>
+<date when="1971-04-21"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.35a.11.001" />
+<fw type="curatorial">11</fw>
+<note type="curatorial"></note>
+
+<fw type="letterhead">New
 WU
 WESTERN UNION
-Telegram
-da, 22op
-da, 2458
+Telegram</fw>
+<note>da, 22op
+da, 2458</note>
+<opener>
+<address>
+<addrLine>816A CST APR 21 71 MA020 KA126
+</addrLine>
+<addrLine>K LLA011 NO CGN PDF KANSAS CITY MO 21 636A CST
+</addrLine>
+<addrLine>JOHN G NEIHARDT,DLY 75
+</addrLine>
+<addrLine>5835 VINE ST LINCOLN NEBR
+</addrLine>
+</address>
+<dateline>
+</dateline>
+<salute></salute>
+</opener>
 
-816A CST APR 21 71 MA020 KA126
-K LLA011 NO CGN PDF KANSAS CITY MO 21 636A CST
-JOHN G NEIHARDT,DLY 75
-5835 VINE ST LINCOLN NEBR
 <p>PETRARCH HELD THE TITLE FOR 33 YEARS TENNYSON HELD THE TITLE FOR 42 YEARS AND NOW NEIHARDT HOLDS THE TITLE OF POET LAUREATE FOR 50 GOING ON TO HIS 51ST YEAR WE IN KANSAS CITY SALUTE YOU. JOHN G NEIHARDT NOW MORE THAN EVER BELONGS TO THE AGES. MAY APRIL 21ST 1971 BE AN EXCEPTIONALLY GOOD DAY FOR YOU ONE FILLED WITH MUCH HAPPINESS AND JUBILATION AFFECTIONATE THOUGHTS ALWAYS</p>
-FRED L LEE
-<underline>22 42 50 51 21ST 1971.</underline> (809)
-<unclear/><line/><unclear/><underline>Young</underline>
-<unclear/><underline>Hn</underline> AT <underline>128p</underline> FOR <underline>Marl</underline>
-<unclear/> <line/>
-4669573
+
+<closer>
+<salute></salute>
+<signed>FRED L LEE</signed>
+<hi rend="underline">22 42 50 51 21ST 1971.</hi> (809)
+<unclear/> <hi rend="line"/><unclear/><hi rend="underline">Young</hi>
+<unclear/><hi rend="underline">Hn</hi> AT <hi rend="underline">128p</hi> FOR <hi rend="underline">Marl</hi>
+<unclear/><hi rend="line"/>
+<note>4669573
 Ansd
-4-23-'71
+4-23-'71</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

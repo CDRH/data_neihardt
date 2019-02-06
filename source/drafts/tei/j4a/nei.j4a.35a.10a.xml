@@ -1,25 +1,159 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 10a
-Wayne State College
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.35a.10a">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from W.A. Brandenburg to John G. Neihardt, April 14, 1971</title>
+<author>Brandenburg, W.A.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.35a.10a</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from W.A. Brandenburg to John G. Neihardt, April 14, 1971</title>
+<date when="1971-04-14">April 14, 1971</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term>Black Elk's Prayer</term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Brandenburg, William A.</persName>
+<placeName ref="http://www.geonames.org/5081454">Wayne (Neb.)</placeName>
+<date when="1971-04-14"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.35a.10a.001" />
+<fw type="curatorial">10a</fw>
+<note type="curatorial"></note>
+
+<fw type="letterheader">Wayne State College
 Wayne, Nebraska 68787
 
 WAYNE STATE COLLEGE WAYNE, NEBRASKA M.M.C. 1891-1910 FOUNDED 1910
 W.A. Brandenburg
     President
+</fw>
+<opener>
+<dateline>April 14, 1971
+</dateline>
+<address>
+<addrLine>Dr. John G. Neihardt
+</addrLine>
+<addrLine>5835 Vine Street
+</addrLine>
+<addrLine>Lincoln, Nebraska 68505
+</addrLine>
+</address>
+<salute>Dear Dr. Neihardt:
+</salute>
+</opener>
 
-April 14, 1971
-
-Dr. John G. Neihardt
-5835 Vine Street
-Lincoln, Nebraska 68505
-
-Dear Dr. Neihardt:
 <p>"Great" is the word for your performance in Wayne. Very many people have told me yours was the greatest commencement "speech" they have heard.</p>
 <p>It was gracious of you to permit the filming for our documentary, and to add Black Elk's Prayer later.</p>
 <p>All best wishes from your Alma Mater.</p>
-Sincerely,
-<signed>W. A. Brandenburg (H)</signed>
-W. A. Brandenburg
 
-WAB:sat
-(Dictated but not read)
+<closer>
+<salute>Sincerely</salute>
+<signed>W. A. Brandenburg (H)</signed>
+<note>W. A. Brandenburg</note>
+<note>WAB:sat
+(Dictated but not read)</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

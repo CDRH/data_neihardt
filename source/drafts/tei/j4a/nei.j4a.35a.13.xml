@@ -1,16 +1,155 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 13
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-Mrs. Edward R. Levy
-12288 Prinster
-St. Louis, Mo. 63141
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.35a.13">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from NaOma Levy to John G. Neihardt, April 27, 1971</title>
+<author>Levy, NaOma</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.35a.13</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
 
-April 27, 1971
+<notesStmt><note></note></notesStmt>
 
-Dear Dr. Neihardt,
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from NaOma Levy to John G. Neihardt, April 27, 1971</title>
+<date when="1971-04-27">April 27, 1971</date>
+<extent>pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term>Cycle of the West</term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Levy, NaOma</persName>
+<placeName ref="http://www.geonames.org/4407066">St. Louis (Mo.)</placeName>
+<date when="1971-04-27"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.35a.13.001" />
+<fw type="curatorial">13</fw>
+<note type="curatorial"></note>
+
+<opener>
+<address>
+<addrLine>Mrs. Edward R. Levy
+</addrLine>
+<addrLine>12288 Prinster
+</addrLine>
+<addrLine>St. Louis, Mo. 63141
+</addrLine>
+</address>
+<dateline>April 27, 1971
+</dateline>
+<salute>Dear Dr. Neihardt,
+</salute>
+</opener>
+
 <p>What a thrill is was for me to see you again after so many years. Your appearance on the Dick Cavett Show was a sincere pleasure.</p>
-<p>I attended the University of Missouri form 1954-1958. The absolute highlight of my entire college career was the semester (spring '58) I took your course, "Epoch America." I treasure your inscription in my copy of <underline>Cycle of the West</underline>.</p>
+<p>I attended the University of Missouri form 1954-1958. The absolute highlight of my entire college
+career was the semester (spring '58) I took your course, "Epoch America." I treasure your
+inscription in my copy of <hi rend="underline">Cycle of the West</hi>.</p>
 <p>For many years I taught fifth grade. I never missed a year of reading some of your work to my students.</p>
 <p>God bless you.</p>
-Most sincerely,
-NaOma Levy
+
+<closer>
+<salute>Most sincerely,
+</salute>
+<signed>NaOma Levy</signed>
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
