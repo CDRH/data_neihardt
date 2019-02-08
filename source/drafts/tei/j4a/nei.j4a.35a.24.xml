@@ -1,23 +1,156 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 24
-THE UNIVERSITY OF NEBRASKA
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.35a.24">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Bruce H. Nicoll to John G. Neihardt, April 28, 1971</title>
+<author>Nicoll, Bruce H.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.35a.24</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Bruce H. Nicoll to John G. Neihardt, April 28, 1971</title>
+<date when="1971-04-28">April 28, 1971</date>
+<extent>pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term>Crazy Horse, approximately 1842-1877</term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="https://viaf.org/viaf/311317741">Nicoll, Bruce Hilton (1912- )</persName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+<date when="1971-04-28"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName><persName></persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.35a.24.001" />
+<fw type="curatorial">24</fw>
+<note type="curatorial"></note>
+
+<fw type="letterhead">THE UNIVERSITY OF NEBRASKA
 LINCOLN, NEBRASKA 68508
 
 OFFICE OF THE DIRECTOR
-UNIVERSITY OF NEBRASKA PRESS
+UNIVERSITY OF NEBRASKA PRESS</fw>
+<opener>
+<dateline>April 28, 1971
+</dateline>
+<address>
+<addrLine>Dr. John G. Neihardt</addrLine>
+<addrLine>5835 Vine Street</addrLine>
+<addrLine>Lincoln, Nebraska 68505</addrLine> 
+</address>
+<salute>Dear Dr. Neihardt:
+</salute>
+</opener>
 
-April 28, 1971
-
-Dr. John G. Neihardt
-5835 Vine Street
-Lincoln, Nebraska 68505
-
-Dear Dr. Neihardt:
 <p>Your broadcast on Channel 7 last night was truly magnificent. I was especially emotionally inspired listening to your description of the agony of Crazy Horse. You are a wonderful man Dr. Neihardt and I am so pleased that our country now has a star in the firmament of American literature who grows in brilliance each passing day.</p>
-Cordially,
-UNIVERSITY OF NEBRSKA PRESS
-Bruce
-Bruce H. Nicoll
+
+<closer>
+<salute>Cordially,</salute>
+<signed>UNIVERSITY OF NEBRSKA PRESS
+Bruce</signed>
+<note>Bruce H. Nicoll
 Director
 
-BHN:ks
+BHN:ks</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
