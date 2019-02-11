@@ -1,20 +1,150 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 28
-107 Taft Avenue
-El Cajon, Calif. 92020
-April 28, 1971
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-Dr. John G. Neihardt
-Omaha
-Nebraska 68501
-c/o Postmaster
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.35a.28.29">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Ruth Beasley Schram to John G. Neihardt, April 28, 1971</title>
+<author>Schram, Ruth B.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.35a.29</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
 
-Dear Dr. Neihardt,
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Ruth Beasley Schram to John G. Neihardt, April 28, 1971</title>
+<date when="1971-04-28">April 28, 1971</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Schram, Ruth Beasley</persName>
+<placeName ref="http://www.geonames.org/5345529">El Cajon (Calif.)</placeName>
+<date when="1971-04-28"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5074472">Omaha (Neb.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.35a.28.29.001" />
+<fw type="curatorial">28</fw>
+<note type="curatorial"></note>
+
+<opener>
+<address>
+<addrLine>107 Taft Avenue
+</addrLine>
+<addrLine>El Cajon, Calif. 92020
+</addrLine>
+</address>
+<dateline>April 28, 1971
+</dateline>
+<address>
+<addrLine>Dr. John G. Neihardt
+</addrLine>
+<addrLine>Omaha</addrLine>
+<addrLine>Nebraska 68501
+</addrLine>
+<addrLine>c/o Postmaster
+</addrLine>
+</address>
+<salute>Dear Dr. Neihardt,</salute>
+</opener>
+
+
 <p>I watched the Dick Cavett program last night and was so impressed by your knowledge and love of the Indians. Bless you for taking the time to share your feelings with millions of your fellow Americans. I was so moved by your poem about Chief Crazy Horse!</p>
-2.
+<fw type="authorial">2</fw>
 <p>I've always had a latent interest in the Indians as I have been told that my father was born on an Indian Reservation and that his mother was half Indian. My father has been dead for 19 years this June 26th and I'm sorry I never questioned him while he was still alive about his birth and boyhood. He was born on June 23, 1892, 2 1/2 miles Southwest of Tekamah, Burt County, Nebraska. Yesterday I was looking on my Road Atlas and did not find any Indian Reservation shown in that area now. I thought perhaps you might be able to tell me</p>
-Page 29
-3.
+<fw type="curatorial">20</fw>
+<fw type="authorial">3</fw>
 <p>the name of the reservation and what tribe of Indiana they were, when they closed the reservation, etc. Any information you can furnish me will be most deeply appreciated.</p>
 <p>My father's name was Lorenao James Beasley and his parents were Samuel Beasley born 6-27-1851 in Haron, Indiana and his mother was Gertee (Gerty?) May Sheems Beasley born 11-11-187-67 in Newton, Jasper County, Iowa. After the death of Samuel Beasley she married Tony Bausch.</p>
 <p>My father had the following Sisters and Brothers:
@@ -22,13 +152,23 @@ Maudie May Beasley 3-13-1888
             Banner Bo, Neb.
 Samuel B., Jr. 2-9-90
             Burt Co., Neb.</p>
-4.
+<fw type="authorial">4</fw>
 <p>Jesse G. 5-10-95 Burt Co., Neb.
 Jennie Alice B. 3-1-98 " " "
 Rania B. 9-28-1900 Thurston Co, Neb.
 Nancy Ammon B. 6-25-1904 Linton, Ind.</p>
 <p>Have you written an autobiography? If not, you should consider doing so immedialety. That a wealth of knowledge and experiences you have to pass on to future generations!</p>
 <p>If you can be of any help to me, I'd be most grateful.</p>
-Sincerely,
-Ruth Beasley Schram
-(Mrs. Orville R. Schram)
+
+<closer>
+<salute>Sincerely,</salute>
+<signed>Ruth Beasley Schram</signed>
+<note>(Mrs. Orville R. Schram)</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
