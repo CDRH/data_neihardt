@@ -1,22 +1,154 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 40
-April 29, 1971
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-Dr. John G. Neihardt
-University of Nebraska
-Lincoln, Nebraska
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.35a.40.41">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Grace C. Cook to John G. Neihardt, April 29, 1971</title>
+<author>Cook, Grace C.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.35a.40.41</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
 
-Dear Dr. Neihardt:
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Grace C. Cook to John G. Neihardt, April 29, 1971</title>
+<date when="1971-04-29">April 29, 1971</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Cook, Grace C.</persName>
+<placeName ref="http://www.geonames.org/4926563">South Bend (Ind.)</placeName>
+<date when="1971-04-29"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.35a.40.41.001" />
+<fw type="curatorial">40</fw>
+<note type="curatorial"></note>
+
+<opener>
+<dateline>April 29, 1971
+</dateline>
+<address>
+<addrLine>Dr. John G. Neihardt</addrLine>
+<addrLine>University of Nebraska</addrLine>
+<addrLine>Lincoln, Nebraska</addrLine>
+</address>
+<salute>Dear Dr. Neihardt:</salute>
+</opener>
+
 <p>Your appearance on the Dick Cavett television show, April 27th, was a thrilling experience for me. I loved every word you spoke. When you chuckled I chuckled.</p>
 <p>I felt excitement when you said "Forward is the direction." In fact, I jotted down several of your sayings. I could not help but feel your great spiritual power.</p>
 <p>You see, I have a lively interest in you because in March I did a program on you for a few friends.</p>
 <p>I am hoping that the story of your life will come out in book form. Want, so much, to have the privilege of owning and cherishing that book.</p>
 
-Page 41
+<fw type="curatorial">41</fw>
+
 <p>Mrs. Neihardt must have been an exectionally talented artist. The great Rodin accepted only the potentially great. I keep wondering if she might have known Malvina Hoffman, who was also a student of the master.</p>
 <p>Thank you for the many hours of reading pleasure that you have given to me.</p>
-Sincerely
-(Mrs.) Grace C. Cook
-206 E Marion 
+
+<closer>
+<salute>Sincerely</salute>
+<signed>(Mrs.) Grace C. Cook</signed>
+<note>206 E Marion 
 South Bend
-Indiana 46601
+Indiana 46601</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

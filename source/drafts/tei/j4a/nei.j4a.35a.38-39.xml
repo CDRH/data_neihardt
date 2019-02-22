@@ -1,22 +1,155 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 38
-April 29, 1971
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-Dr. John G. Neihardt
-c/o Nebraska State Historical Society
-Lincoln, Nebraska 68509
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.35a.38.39">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from James H. Mitchell to John G. Neihardt, April 29, 1971</title>
+<author>Mitchell James H.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.35a.38.39</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
 
-Dear Dr. Neihardt,
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from James H. Mitchell to John G. Neihardt, April 29, 1971</title>
+<date when="1971-04-29">April 29, 1971</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term>Sandoz, Maria</term>
+<term>Cather, Willa</term>
+<term>Eiseley, Loren</term>
+</keywords>
+<keywords scheme="original" n="works">
+<term>Black Elk Speaks</term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Mitchell, James H.</persName>
+<placeName ref="http://www.geonames.org/5347903">Felton (Calif.)</placeName>
+<date when="1971-04-29"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.35a.37.001" />
+<fw type="curatorial">37</fw>
+<note type="curatorial"></note>
+
+<opener>
+<dateline>April 29, 1971
+</dateline>
+<address>
+<addrLine>Dr. John G. Neihardt</addrLine>
+<addrLine>c/o Nebraska State Historical Society</addrLine>
+<addrLine>Lincoln, Nebraska 68509</addrLine>
+</address>
+<salute>Dear Dr. Neihardt,</salute>
+</opener>
+
 <p>Many lives are richer because of your appearance on the Dick Cavett Show, April 27th.</p>
 <p>Being a product of the Nebraska Sand Hills, I was returned to my own <unclear/> yesterdays.</p>
 <p>I purchased 'Black Elk Speaks' on the following morning and devoured it immediately. It now rests on my shelf beside Maria Sandoz, Willa Cather and Loren Eisely. Your other works will soon join them.</p>
 <p>This brief encounter with John Neihardt has recalled the fragrance of wild roses and the tastes of choke, sand + ground chrries. I used to eat the bulb of a small, lavender flower. It had a nut-like quality and a taste somewhat like a potato. Could this have been the 'turnip' of the Plains Indian?</p>
 <p>As a boy, I spent many hours picking arrowheads from a sandy lakebed on the ranch. I tried to imagine that departed culture that had camped on that deported lake. Your book</p>
 
-Page 39
+<fw type="curatorial">39</fw>
+
 <p>has made them live, again for me</p>
 <p>As a guilt-ridden Wasichu, I thank you for your great efforts to preserve something of that once strong and beautiful race of men.</p>
-Sincerely,
-James H. Mitchell 
-8010 Newton Drive
-Felton, CA 95018 
+
+<closer>
+<salute>Sincerely,</salute>
+<signed>James H. Mitchell </signed>
+<note>8010 Newton Drive
+Felton, CA 95018</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

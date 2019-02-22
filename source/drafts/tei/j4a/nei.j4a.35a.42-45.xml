@@ -1,35 +1,181 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 42
-April 29, 1971
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-Dear Dr. Neihardt
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.35a.42.45">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from J.M. McLhett to John G. Neihardt, April 29, 1971</title>
+<author>Mclhett, J.M.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.35a.42.45</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from J.M. McLhett to John G. Neihardt, April 29, 1971</title>
+<date when="1971-04-29">April 29, 1971</date>
+<extent>4 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term>Lincoln (NE)</term>
+<term>Omaha (NE)</term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>J. M. McLhett</persName>
+<placeName ref="http://www.geonames.org/5045360">St. Paul (Minn.)</placeName>
+<date when="1971-04-29"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.35a.42.45.001" />
+<fw type="curatorial">42</fw>
+<note type="curatorial"></note>
+
+<opener>
+<dateline>April 29, 1971
+</dateline>
+<salute>Dear Dr. Neihardt</salute>
+</opener>
+
 <p>I have long been an admirer of yours and espouse also your wonderful <sic>philosophys</sic>.</p>
 <p>After viewing the taped television interview of your appearance on the Dick Cavett Show I was prompted to write you and say how very enjoyable the program was.</p>
 <p>I have sympathized with the American Indian and the problems he has endured. I support two Indian Mission <sic>Charitys</sic> and have friends who are Sioux and were</p>
 
-Page 43
+<fw type="curatorial">43</fw>
 <p>reared on the Rosebed Reservation, so I am aware of the plight, social and economic of the people. Through your works you give respect that is due this great race of people.</p>
 <p>It is rightfully so you are the Poet laureate of Nebraska for indeed your presence in this world enriches it. Your legacy of works are for all generations and far reaching. I might add I have relatives residing on Morrill Avenue and frequently visit Lincoln and Omaha and feel</p>
- 
-Page 44
+
+<fw type="curatorial">44</fw>
 <p>very much "at home" in you lovely State.</p>
 <p>Thank you again Dr. <sic>Niehardt</sic> for your literary endowments and your <sic>philosophys</sic> which elevate mankind and this world in which we live. We can always hope mankind will someday walk the road of peace and live as brothers.</p>
 <p>Wakon Tanka must be most pleased with your works in behalf of His People. He has taught you to walk the soft earth; sweetened your heart, filled you with light and given you</p>
 
 <note>the rest of the letter is missing</note>
 
-Page 45
-Mrs. J. M. McLhett
-1173 Ashland Ave
-De Paul Minn. 
-55104
+<closer>
+<salute></salute>
+<signed></signed>
+<note></note>
+</closer>
 
-4-30-71
+</div1>
 
-Mr John Neihardt
-55550 Street
-Lincoln Nebraska
-68510
+<div1 type="envelope">
+<fw type="curatorial">45</fw>
+<ab type="address">
+<address>
+<addrLine>Mrs. J. M. McLhett</addrLine>
+<addrLine>1173 Ashland Ave</addrLine>
+<addrLine>De Paul Minn. </addrLine>
+<addrLine>55104</addrLine>
+</address>
+</ab>
 
-Ink Stamp: U.S. POSTAL SERVICE MN 55084 PM 28 APR 1971
-Stamp: EISENHOWER USA 6c
+<note>4-30-71</note>
+
+<ab type="return">
+<address>
+<addrLine>Mr John Neihardt</addrLine>
+<addrLine>55550 Street</addrLine>
+<addrLine>Lincoln Nebraska</addrLine>
+<addrLine>68510</addrLine>
+</address>
+</ab>
+
+<figure type="stamp"><ab>Ink Stamp: U.S. POSTAL SERVICE MN 55084 PM 28 APR 1971</ab></figure>
+<figure type="stamp"><ab>Stamp: EISENHOWER USA 6c</ab></figure>
+</div1>
+
+
+</body>
+
+<back></back>
+</text>
+</TEI>

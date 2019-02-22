@@ -1,17 +1,153 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 45a
-April 29, 1971
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-Dear Dr. Neihardt,
-<p>We stayed up until Midnight Tuesday Night watching our favorite star on the <underline>Dick Cavett Show</underline>. And as always he was and still is the best. We also have your new album, <underline>The Wonder of it All</underline>. I am so grateful for it. And a friend sent me the lonely article which the Star carried March 7, 1971.</p>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.35a.45a.45b">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Barbara J Daniel to John G. Neihardt, April 29, 1971</title>
+<author>Daniel, Barbara J.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.35a.45a.45b</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Barbara J Daniel to John G. Neihardt, April 29, 1971</title>
+<date when="1971-04-29">April 29, 1971</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term>The Wonder of it All</term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Daniel, Barbara J.</persName>
+<placeName></placeName>
+<date when="1971-04-29"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.35a.45a.45b.001" />
+<fw type="curatorial">45a</fw>
+<note type="curatorial"></note>
+
+<opener>
+<dateline>April 29, 1971
+</dateline>
+<salute>Dear Dr. Neihardt,</salute>
+</opener>
+
+<p>We stayed up until Midnight Tuesday Night watching our favorite star on the <hi rend="underline">Dick Cavett Show</hi>. And as always he was and still is the best. We also have your new album, <hi rend="underline">The Wonder of it All</hi>. I am so grateful for it. And a friend sent me the lonely article which the Star carried March 7, 1971.</p>
+
 <p>We are happy to know that you are well and happy, and think of you so many times.</p>
-<p>I haven't heard from Mrs. Young in a long time. I do hope they are fine. Did she recieve my last letter with the scarf? The mail was sort of messed up at the time so I'm not sure if she ever received it.</p>
-<p>April is almost gone again, but after the nice rain it sung with your <underline>April Theology</underline>.</p>
 
-Page 45b
+<p>I haven't heard from Mrs. Young in a long time. I do hope they are fine. Did she recieve my last letter with the scarf? The mail was sort of messed up at the time so I'm not sure if she ever received it.</p>
+
+<p>April is almost gone again, but after the nice rain it sung with your <hi rend="underline">April Theology</hi>.</p>
+
+<fw type="curatorial">45b</fw>
+
 <p>Even I was inspired to write my first April poem. I will enclose it for you. Bless your heart for making me to see; and now David my son is busy writing. He has had all the wonderful training from his school, that I wasn't fortunate to receive at that age, therefore he can handle the art technically.</p>
+
 <p>I trust you stay well, and may the best be yours and your family.</p>
-Sincerely,
-Barbara J Daniel
-P.S.
-<p>The wind was very bad for several days here, and I became quite depressed, until one day I began to listen and <unclear/>. Then I saw and heard April Coming.</p>
+
+<closer>
+<salute>Sincerely,</salute>
+<signed>Barbara J Daniel</signed>
+<note>P.S.
+<p>The wind was very bad for several days here, and I became quite depressed, until one day I began to listen and <unclear/>. Then I saw and heard April Coming.</p></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

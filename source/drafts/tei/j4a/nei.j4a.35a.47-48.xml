@@ -1,17 +1,148 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 47
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-May 1, 1971
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.35a.47.48">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Betty Clair to John G. Neihardt, May 1 1971</title>
+<author>Clair, Betty</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.35a.47.48</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
 
-Dear Mr. Neihardt-
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Betty Clair to John G. Neihardt, May 1 1971</title>
+<date when="1971-05-01">May 1, 1971</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term>Black Elk Speaks</term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Clair, Betty</persName>
+<placeName ref="http://www.geonames.org/5392567/san-rafael.html">San Rafael (Calif.)</placeName>
+<date when="1971-05-01"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.35a.47.48.001" />
+<fw type="curatorial">47</fw>
+<note type="curatorial"></note>
+
+<opener>
+<dateline>May 1, 1971
+</dateline>
+<salute>Dear Mr. Neihardt-</salute>
+</opener>
+
 <p>It is with great pleasure that I write to you and thank you from my soul for having read. Your book "Black Elk Speaks." Three years ago while in Montana I saw this book of yours at the Browning Indiana Museum and it seemed to "glow" so I bought it and read it on my way back to California. I know almost immediately why the book beckoned after the first three pages and I thnak God for having been exposed to the soul of the American Indian as never before in my life.</p>
 
-Page 48
+<fw type="curatorial">48</fw>
+
 <p>Over the past few years I've often wondered about you adn was rewarded which I heard you on the Dick Cavett T.V. show the other night.</p>
 <p>Your spiritual awareness and <unclear>atonement</unclear> is like a beautiful beacon light in a darkened world. May it long shine into the lives of many.</p>
 <p>You spoke on "The death of Crazy Horse". Is this in print and if so where could I obtain a copy?</p>
 <p>May the Great Spirit of the Universe continue to bless and inspire you in this life and the life ahead.</p>
-God love you,
-Betty Clair
-371 Irevin St
-San Rafael, Ca 94901
+
+<closer>
+<salute>God love you,</salute>
+<signed>Betty Clair</signed>
+<note>371 Irevin St
+San Rafael, Ca 94901</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
