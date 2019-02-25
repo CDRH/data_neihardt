@@ -1,13 +1,132 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 65
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-LONNIE T. VANDERVEER
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.35a.65">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Lonnie and Lonnie Vanderveer to John G. Neihardt, May 16, 1971</title>
+<author>Vanderveer, Lonnie</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.35a.65</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Lonnie and Lonnie Vanderveer to John G. Neihardt, May 16, 1971</title>
+<date when="1971-05-16">May 16, 1971</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Vanderveer, Lonnie</persName>
+<placeName ref="http://www.geonames.org/5359488/inglewood.html">Inglewood (Calif.)</placeName>
+<date when="1971-05-16"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.35a.65.001" />
+<fw type="curatorial">65</fw>
+<note type="curatorial"></note>
+
+<fw type="letterhead">LONNIE T. VANDERVEER
 521 WEST 64th PLACE
-INGLEWOOD, CALIFORNIA 90302
+INGLEWOOD, CALIFORNIA 90302</fw>
+<opener>
+<dateline>May 16, 1971
+</dateline>
+<salute>Dear Dr. Neihardt, Julius and Mrs. Young: (And Jacguot)</salute>
+</opener>
 
-May 16, 1971
-
-Dear Dr. Neihardt, Julius and Mrs. Young: (And Jacguot)
 <p>If all you people like each other to the extent that you can spend weeks together in the Black Hills---with a honeymoon, too---I assume it's alright to write one letter for all three.</p>
 <p>Thanks! to all of you. To you, Dr. Neihardt, for giving NOla and me the thrill of meeting and talkin with you on the very day we and millions more watched you on the Dick Cavett show. (We saw it on an excellent TV in a motel in Beatrice).</p>
 <p>And to you, the Youngs, for being so charming and entertaining! Your interest and trouble in getting all the material to me are deeply appreciated. Now, I feel that I have enough information to hold a semi-intelligent (on my part) conversation with my Nebraska friends.</p>
@@ -24,6 +143,17 @@ BLACK ELK'S PRAYER (On cardboard and I'll frame this)</p>
 <p>That's not much, but it is a start. I'm sending an order to the University Press. Also, writing to Bison Courier for "Homestead Years."</p>
 <p>I haven't said much to Nola yet, but I think my '72 trip will be to the Black Hills. And, Julius, I may call on you to help me plan the route. Just a few marks on a map?</p>
 <p>Last week, just after we returned from Kansas and Oklahoma, I called Eva Weaver and had a good talk with her. She seemed to be such a nice lady. Nola and I will have to see her in person. She thanked me for calling her and you for telling me about her. She sends her love and best/wishes.</p>
-Sincerely, and again---THANKS FOR EVERY THING!
+
+<closer>
+<salute>Sincerely, and again---THANKS FOR EVERY THING!</salute>
 <signed>Lonnie</signed>
 Lonnie and Nola Vanderveer
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

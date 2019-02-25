@@ -1,22 +1,151 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 64
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-JOSLYN ART MUSEUM
-May 14, 1971
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.35a.64">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Mildred Goosman to John G. Neihardt, May 14, 1971</title>
+<author>Goosman, Mildred</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.35a.64</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
 
-Dr. John G. Neihardt
-5835 Vine Street
-Lincoln, Nebraska 68505
+<notesStmt><note></note></notesStmt>
 
-Dear Dr. Neihardt:
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Mildred Goosman to John G. Neihardt, May 14, 1971</title>
+<date when="1971-05-14">May 14, 1971</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Goosman, Mildred</persName>
+<placeName></placeName>
+<date when="1971-05-14"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.35a.64.001" />
+<fw type="curatorial">64</fw>
+<note type="curatorial"></note>
+
+<fw type="letterhead">JOSLYN ART MUSEUM</fw>
+<opener>
+<dateline>May 14, 1971
+</dateline>
+<address>
+<addrLine>Dr. John G. Neihardt</addrLine>
+<addrLine>5835 Vine Street</addrLine>
+<addrLine>Lincoln, Nebraska 68505</addrLine>
+</address>
+<salute>Dear Dr. Neihardt:</salute>
+</opener>
+
 <p>I have just received in the mail a reprint of the Honorable Charles Thone's resolution entered Wednesday, April 21, 1971, in the Congressional Record. This is indeed a fitting commendation to mark your fiftieth anniversary as Poet Laureate of Nebraska. You have brought honor to all of us and glorified our State.</p>
 <p>Not being a stay-up-late person, I had never heard a Dick Cavett Show before watching his interview with you. While it is always a privilege to hear again your readings and reminiscences, my greatest pleasure was watching Cavett's delight of discovery. You were a new sun on his horizon, and was he basking!</p>
 <p>Congratulations on all the well-deserved honors.</p>
-Sincerely,
-Mildred Goosman
-(Miss) Mildred Goosman
-Curator, Western Colleciton
 
-<p>Give the Youngs my best regards. I'm looking forward to my trip to Lincoln June 7th.</p>
+<closer>
+<salute>Sincerely,</salute>
+<signed>Mildred Goosman</signed>
+<note>(Miss) Mildred Goosman
+Curator, Western Colleciton</note>
+<note type="authorial">Give the Youngs my best regards. I'm looking forward to my trip to Lincoln June 7th.</note>
+<note>DODGE AT 24TH       OMAHA, NEBRASKA 68102       402-342-3996</note>
+</closer>
 
-DODGE AT 24TH       OMAHA, NEBRASKA 68102       402-342-3996
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

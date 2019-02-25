@@ -1,19 +1,152 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 54 
-May 3, 1971
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-Dr. John G. Neihardt
-c/o Mr. Dick Cavett
-ABC, New York
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.35a.54">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Jean E. Banning to John G. Neihardt, May 3, 1971</title>
+<author>Banning, Jean E.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.35a.54</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
 
-Dear Dr. Neihardt,
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Jean E. Banning to John G. Neihardt, May 3, 1971</title>
+<date when="1971-05-03">May 5, 1971</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Banning, Jean E.</persName>
+<placeName ref="http://www.geonames.org/5327490/belvedere.html">Belvedere (CA)</placeName>
+<date when="1971-05-03"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.35a.54.001" />
+<fw type="curatorial">54</fw>
+<note type="curatorial"></note>
+
+<opener>
+<dateline>May 3, 1971
+</dateline>
+<address>
+<addrLine>Dr. John G. Neihardt</addrLine>
+<addrLine>c/o Mr. Dick Cavett</addrLine>
+<addrLine>ABC, New York</addrLine>
+</address>
+<salute>Dear Dr. Neihardt,</salute>
+</opener>
+
 <p>We enjoyed your show last week very much with Mr. Cavett. My Mother was born at Ft. Robinson and knew of Crazy Horse and Gen. Custer.</p>
-<p>You spoke of belonging to the Omaha of Indian Wars. Perhaps you knew my grandfather, Col. Charles Taylor, of the 9<underline>th</underline> Cavalry. Red Cloud surrendered to him and he was a friend of Bill Cody's and Calamity Jane's.</p>
+<p>You spoke of belonging to the Omaha of Indian Wars. Perhaps you knew my grandfather, Col. Charles
+Taylor, of the 9<hi rend="underline">th</hi> Cavalry. Red Cloud surrendered to him and he was a friend of Bill Cody's and Calamity Jane's.</p>
 <p>My husband and I send money whenever we can to the Red Cloud Indian School in Pine Ridge, South Dakota as a token for the great wrong done to the American Indians. Their language and their religion is indeed noble and I hope can be <unclear>perserved</unclear>.</p>
 <p>If you have time, I would love to hear from you, and especially if you remember my grandfather, Col. Taylor.</p>
-Cordially,
-(Mrs.) Jean E. Bann<gap reason="cut off"/>
-(Banning)
-7 Tamalpais Ave,
+
+<closer>
+<salute>Cordially,</salute>
+<signed>(Mrs.) Jean E. Bann<gap reason="cut off"/>
+(Banning)</signed>
+<note>7 Tamalpais Ave,
 Belvedere, Calif. 94<gap reason="cut off"/>
-94920
+94920</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

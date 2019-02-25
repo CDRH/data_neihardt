@@ -1,23 +1,153 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 55
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-5 May '71
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.35a.55.57">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Martha Oder Horan to John G. Neihardt, May 5, 1971</title>
+<author>Horan, Martha Oder</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.35a.55.57</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
 
-Dear Dr. Neihardt,
-<p>It was wo<underline>nde</underline>rful to see you on the Dick Cavett show recently! And how we enjoyed listening to you read again. I am wondering whether there are available records of you reading your works? We would certainly like to have them, and I am going to check the bookstore about it next time we are home. Your words do sing from the pages, but nothing can match that special pleasure of listening to you read them.</p>
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Martha Oder Horan to John G. Neihardt, May 5, 1971</title>
+<date when="1971-05-05">May 5, 1971</date>
+<extent>3 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Horan, Martha Oder</persName>
+<placeName ref="http://www.geonames.org/4903780/normal.html">Normal (IL)</placeName>
+<date when="1971-05-05"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.35a.55.57.001" />
+<fw type="curatorial">55</fw>
+<note type="curatorial"></note>
+
+<opener>
+<dateline>5 May '71
+</dateline>
+<salute>Dear Dr. Neihardt,</salute>
+</opener>
+
+<p>It was wo<hi rend="underline">nde</hi>rful to see you on the Dick Cavett show recently! And how we enjoyed listening to you read again. I am wondering whether there are available records of you reading your works? We would certainly like to have them, and I am going to check the bookstore about it next time we are home. Your words do sing from the pages, but nothing can match that special pleasure of listening to you read them.</p>
 <p>We miss our visits with you when we are in Columbia. Mother + Daddy are still on the farm</p>
 
-Page 56
-2
+<fw type="curatorial">56</fw>
+<fw type="authorial">2</fw>
 <p>and we get back as often as we can to see them. This is our third year at Illinois State University. Last <unclear>face</unclear> we bought a home here -- a big old house on an acre and a quarter less than a mile from the campus. We enjoy all the space.</p>
 <p>Joe is writing a book to be published by Dadel - Mead. He just returned from Denver where he headed a panel and presented a paper at the Convention of the American Society for Public Administration. He was recently named to the <unclear>Worden</unclear> Systems Interagency Advisory Commision in Washington, D.C.,</p>
 
-Page 57
+<fw type="curatorial">57</fw>
 <p>which promises some interesting assignments for him.</p>
 <p>Our boys are 12 and 6 now and both attend the University school here.</p>
 <p>Joe joins me in sending warmest regards.</p>
-Sincerely,
-Martha Oder Horan
-(Mrs. Joseph C. Horan)
+
+<closer>
+<salute>Sincerely,</salute>
+<signed>Martha Oder Horan</signed>
+<note>(Mrs. Joseph C. Horan)
 1008 Broadway
-Normal, Ill. 61761
+Normal, Ill. 61761</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

@@ -1,7 +1,126 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 63
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-LINCOLN 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.35a.63">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Betty B Lewis and Lois A. Hegstorm to John G. Neihardt, May 13, 1971</title>
+<author>Lewis, Betty B.</author>
+<author>Hegstormn, Lois A.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.35a.63</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Betty B Lewis and Lois A. Hegstorm to John G. Neihardt, May 13, 1971</title>
+<date when="1971-05-13">May 13, 1971</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Lois, Hegstorm A.</persName>
+<persName>Lewis, Betty B.</persName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+<date when="1971-05-13"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.35a.63.001" />
+<fw type="curatorial">63</fw>
+<note type="curatorial"></note>
+
+<fw type="letterhead">LINCOLN 
 PUBLIC SCHOOLS
 JOHN PRASCH, SUPERINTENDENT
 
@@ -19,21 +138,34 @@ AREA CODE 402
 MAILING ADDRESS:
 RUTH PYRTLE SCHOOL 
 721 SO. COTTONWOOD
-LINCOLN, NEBRASKA 68510
+LINCOLN, NEBRASKA 68510</fw>
+<opener>
+<dateline>May 13, 1971
+</dateline>
+<address>
+<addrLine>Dr. John Neihardt</addrLine>
+<addrLine>5835 Vine</addrLine>
+<addrLine>Lincoln, Nebraska</addrLine>
+</address>
+<salute>Dear Dr. Neihardt,</salute>
+</opener>
 
-May 13, 1971
-
-Dr. John Neihardt
-5835 Vine
-Lincoln, Nebraska
-
-Dear Dr. Neihardt,
 <p>Your personal visit to Pyrtle School was a memorable experience for us and the Primary 3 pupils. Your rapport with children is outstanding.</p>
 <p>Thank you for taking time in your busy schedule to talk to the children. The books which you autographed are a valuable addition to our media center.</p>
-Sincerely,
+
+<closer>
+<salute>Sincerely,</salute>
 <signed>Betty B Lewis</signed>
 Betty B. Lewis
 Media Specialist
 <signed>Lois A. Hegstrom</signed>
-Lois A. Hegstrom
-Principal
+<note>Lois A. Hegstrom
+Principal</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

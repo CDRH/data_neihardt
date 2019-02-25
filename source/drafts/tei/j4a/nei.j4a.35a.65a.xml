@@ -1,23 +1,152 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 65a
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-U
-SD
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.35a.65a">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John Milton to John G. Neihardt, May 24, 1971</title>
+<author>Milton, John</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.35a.65a</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
 
-May 24, 1971
+<notesStmt><note></note></notesStmt>
 
-Dear Mr. Neihardt,
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from John Milton to John G. Neihardt, May 24, 1971</title>
+<date when="1971-05-24">May 24, 1971</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="http://viaf.org/viaf/17226855">Milton, John, 1608-1674</persName>
+<placeName ref="http://www.geonames.org/5232592">Vermillion (S.D.)</placeName>
+<date when="1971-05-24"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.35a.65a.001" />
+<fw type="curatorial">65a</fw>
+<note type="curatorial"></note>
+
+<fw type="letterhead">U
+SD</fw>
+<opener>
+<dateline>May 24, 1971
+</dateline>
+<salute>Dear Mr. Neihardt,</salute>
+</opener>
+
 <p>This year I am president of the Western Literature Association, and one of my privileges (there aren't really very many) is to nominate a distinguished writer of the West for "Honorary Life Membership" in the Association. Usually this person attends the annual meeting and speaks to the group at luncheon one day. I have nominated you, and the Executive Board has approved.</p>
 <p>I hope that you will accept this honorary membership. It isn't a big thing, but it is all that we have at our disposal to use for honoring writers who have contributed a great deal to literature, especially literature of the American West.</p>
 <p>Will you let me know the following as soon as possible:
 1. Will you accept the honorary membership?
 2. Would you be able to give a short (say thirty minutes) talk to the Association members at a luncheon honoring you on October 9, this year, at Red Cloud, Nebraska? If my information is correct, you have been Poet Laureate of Nebraska for fifty years, as of this year. It seems extremely fitting that we should be having our annual meeting in your country.
-3. If yes to the above, cold I persuade you to talk on something that could later be published in the Association's journal? (<underline>Western American Literature</underline> is its name.) Perhaps something on the epics you have written.</p>
+3. If yes to the above, cold I persuade you to talk on something that could later be published in
+the Association's journal? (<hi rend="underline">Western American Literature</hi> is its name.) Perhaps something on the epics you have written.</p>
 <p>I will be very pleased, personally, if you can accept this invitation. It is too long since I saw you last, when you were parrying my questions on television with questions of your own.</p>
-Cordially,
+
+<closer>
+<salute>Cordially,</salute>
 <signed>John</signed>
 John Milton
-
-Dr. John Milton
+<note>Dr. John Milton
 English Dept.  
-THE UNIVERSITY OF SOUTH DAKOTA VERMILLION, SOUTH DAKOTA 57069
+THE UNIVERSITY OF SOUTH DAKOTA VERMILLION, SOUTH DAKOTA 57069</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

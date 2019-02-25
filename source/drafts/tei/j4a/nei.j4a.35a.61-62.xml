@@ -1,36 +1,170 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 61
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-May 11, 1971
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.35a.61.62">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Jane Van Camp to John G. Neihardt, May 11, 1971</title>
+<author>Camp, Jane Van</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.35a.61.62</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
 
-Dear Mr. Neihardt,
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Jane Van Camp to John G. Neihardt, May 11, 1971</title>
+<date when="1971-05-11">May 11, 1971</date>
+<extent>pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term>Black Elk Speaks</term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Camp, Jane Van</persName>
+<placeName ref="http://www.geonames.org/5401143/tarzana.html">Tarzana (CA)</placeName>
+<date when="1971-05-11"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/4393217">Kansas City (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.35a.61.62.001" />
+<fw type="curatorial">61</fw>
+<note type="curatorial"></note>
+
+<opener>
+<dateline>May 11, 1971
+</dateline>
+<salute>Dear Mr. Neihardt,</salute>
+</opener>
+
 <p>I have just finished reading "Black Elk Speaks" which filled me with inexplicable pain and sorrow for the people of the Indian Nations. I feel great pity for my own forefathers who had a part in the butchering and herdings of the people! How could the conquering (European) people have felt so compelled to come into a land which was at peace and harmony (except, perhaps, warring nations), and take it upon themselves to very nearly rub out an entire people? This is entirely beyong my comprehension as a human being. I so have one question: What can I do besides treat others as relatives? It's too late for feelings of guilt, and all that is in guilt by proxy in a way since I had nothing to do with the course of History. I wish I could change History (to relieve my guilt I suppose) but that is a selfish wish.</p>
 <p>I saw you speak on the "Dick Cavett Show" recently, and recite the tales of the Indian wars, and I plan on reading your collected works. Also, I would consider it an honor if you would correspond with me from time to time.</p>
 <p>Knowing you are a very busy man, and appreciating the fact that you've even read this letter, I remain thirsty for knowledge of the truths you hold.</p>
-Sincerely 
-Jane Van Camp
 
-5929 Melvin Avenue
-Tarzana, Calif 91336
+<closer>
+<salute>Sincerely</salute>
+<signed>Jane Van Camp</signed>
+<note>5929 Melvin Avenue
+Tarzana, Calif 91336</note>
+</closer>
 
-Page 62
+</div1>
 
-Jane Van Camp
-5929 Melvin Avenue
-Tarzana, Calif 91356
+<div1 type="letter">
 
-<crossed>Park College
-Parkville, Mo.</crossed>
+<fw type="curatorial">62</fw>
+<ab type="address">
+<address>
+<addrLine>Jane Van Camp</addrLine>
+<addrLine>5929 Melvin Avenue</addrLine>
+<addrLine>Tarzana, Calif 91356</addrLine>
+</address></ab>
 
-<crossed>Mr. John G. Neihardt
+<fw><hi rend="crpssed">Park College
+Parkville, Mo.</hi>
+
+<hi rend="crossed">Mr. John G. Neihardt
 c/o University of Missouri English Dep
 5100 Rock Hill Road
-Kansas City, Missouri</crossed>
+Kansas City, Missouri</hi></fw>
 
-FORWARD ->
+<note type="authorial">FORWARD -></note>
 
-c/o Hilda Pet<gap reason="cut off"/> 
+<fw>c/o Hilda Pet<gap reason="cut off"/> 
 221 W. Brand <gap reason="cut off"/>
-Columbia, Mo.
+Columbia, Mo.</fw>
 
-Ink Stamp: BEVERLY HILLS. CA 2A PM 11 MAY 1971
+<figure type="stamp"><ab>Ink Stamp: BEVERLY HILLS. CA 2A PM 11 MAY 1971</ab></figure>
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

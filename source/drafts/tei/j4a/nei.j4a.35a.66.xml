@@ -1,6 +1,124 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 66
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.35a.66">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Elsie Sailors to John G. Neihardt, May 26, 1971</title>
+<author>Sailors, Elsie</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.35a.66</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Elsie Sailors to John G. Neihardt, May 26, 1971</title>
+<date when="1971-05-26">May 26, 1971</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Sailors, Elsie</persName>
+<placeName></placeName>
+<date when="1971-05-26"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.35a.66.001" />
+<fw type="curatorial">66</fw>
+<note type="curatorial"></note>
+
+<fw type="letterhead">
 NEBRASKA STATE HISTORICAL SOCIETY 1878
 
 EXECUTIVE BOARD
@@ -38,18 +156,31 @@ ALTON W. WILHELMS, PRESIDENT OF
 THE NEBRASKA PRESS ASSOCIATION
 
 1500 R STREET
-LINCOLN, NEBRASKA 68508
+LINCOLN, NEBRASKA 68508</fw>
+<opener>
+<dateline>May 26,1971
+</dateline>
+<address>
+<addrLine>Dr. John G. Neihardt</addrLine>
+<addrLine>5835 Vine Street</addrLine>
+<addrLine>Lincoln, Nebraska 68505</addrLine>
+</address>
+<salute>Dear Dr.Neihardt;</salute>
+</opener>
 
-May 26,1971
-
-Dr. Neihardt
-5835 Vine
-Lincoln,Nebraska 68505
-
-Dear Dr.Neihardt;
 <p>I am writing to ask you if, in the month of September, you may be able to come to the Nebraska State Historical Society and speak to a small group of ladies who are training for their volunteer duties here as guides.On September the 15th at 9:30,there will be ten ladies coming to the Society to learn about the early Indians in this area and we would be most indebted to you if you might be able to spend an hour here telling you interesting accounts on this subject. All Wednesdays in September will be spent in preparation for the fall school term.If there is another Wednesday in Spetember that would be more suitable for you,please indicate and we would be willing to make adjustments to accommodate you as we would be most anxious to have you.</p>
-Sincerely,
-Mrs. Elsie Sailors
-Curator of Education
+
+<closer>
+<salute>Sincerely,</salute>
+<signed>Mrs. Elsie Sailors</signed>
+<note>Curator of Education
 Nebraska State Historical Society
-Telephon no. 432-2793
+Telephon no. 432-2793</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
