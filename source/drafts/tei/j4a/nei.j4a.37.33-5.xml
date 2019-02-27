@@ -1,25 +1,165 @@
 <?xml version="1.0" encoding="UTF-8"?>
-104 w 3rd st. 
-ans. 5/9/73
-Villisca, Iowa
-Feb. 18, 1973
-33
-Mr. John G. Neihardt
-Dear Sir,
-I do not know where you are living at present; so I am sending this in care of Julius D. Young whom I knew in college. I know he will forward it. 
-I have just finished reading your 1881-1901 autobiography and am looking forward to the next portion. In fact I was the first person to check in from our public library. One of my friends, I'm sure, will be the second. She lived in Omaha during her school years and heard you when you spoke at the school she attended.
-This was my former home, and I am now in my sixth year of retirement from the high school here. 
-In 1911 we moved to Wayne, Nebr. where my father became 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-2
-editor of "The Nebraska Democrat." 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.37.33.35">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Lila M. Gardner to John G. Neihardt, February 18, 1973</title>
+<author>Gardner, Lila M.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.37.33.35</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Lila M. Gardner to John G. Neihardt, February 18, 1973</title>
+<date when="1973-02-18">February 18, 1973</date>
+<extent>3 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term>The Song of Hugh GLass</term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Gardener, Lila M.</persName>
+<placeName ref="http://www.geonames.org/4880228">Villisca (Iowa)</placeName>
+<date when="1973-02-18"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.37.33.35.001" />
+<fw type="curatorial">33</fw>
+<note type="curatorial"></note>
+
+<opener>
+<address>
+<addrLine>104 w 3rd st.</addrLine>
+<note>ans. 5/9/73</note>
+<addrLine>Villisca, Iowa</addrLine>
+<addrLine>Mr. John G. Neihardt</addrLine>
+</address>
+<dateline>Feb. 18, 1973
+</dateline>
+<salute>Mr. John G. Neihardt</salute>
+<salute>Dear Sir,</salute>
+</opener>
+
+<p>I do not know where you are living at present; so I am sending this in care of Julius D. Young whom I knew in college. I know he will forward it. 
+I have just finished reading your 1881-1901 autobiography and am looking forward to the next portion. In fact I was the first person to check in from our public library. One of my friends, I'm sure, will be the second. She lived in Omaha during her school years and heard you when you spoke at the school she attended.</p>
+
+<p>This was my former home, and I am now in my sixth year of retirement from the high school here. 
+In 1911 we moved to Wayne, Nebr. where my father became </p>
+
+<fw type="authorial">2</fw>
+
+<p>editor of "The Nebraska Democrat." 
 Your book brought back many memories. Yes, Charlotte White was quite a personality and often 34
 dropped in at the office to visit with my father. 
-I first heard of you when my freshman English teacher, Mrs. M.A. Phillips, read us "The Song of Hugh Glass." The crowd on a broken leg and his suffering for water impressed me so that after class, I asked permission to stop at a fountain for a drink of water - his thirst rubbed off on me! 
-I majored in English, having all my classes under Dr. House. Mary was a special friend. Her first year of teaching was in Mobesly, Mo. (if I have the correct
+I first heard of you when my freshman English teacher, Mrs. M.A. Phillips, read us "The Song of Hugh Glass." The crowd on a broken leg and his suffering for water impressed me so that after class, I asked permission to stop at a fountain for a drink of water - his thirst rubbed off on me! </p>
 
-3
-memory) where she lived with your mother. She wrote me 35 she would be home christmas and wanted me to meet her at the station. When we arrived at her home, we knocked. I said to Mrs. House when she came, that I'd like her to meet a friend. We <unclear/> in. Mary had gained weight, and her face was very plump. Mrs. House shook hands with her and said she was glad to meet a friend of Lila's. That was too much for Mary, who gave a "giggle" which her mother recognized. All she could say was "Why, Mary House." 
-Pardon me for my reminiscence. Again, let me say how much I enjoyed your new book. 
-Sincerely,
-Lila M. Gardner 
+<p>I majored in English, having all my classes under Dr. House. Mary was a special friend. Her first year of teaching was in Mobesly, Mo. (if I have the correct</p>
+
+<fw type="authorial">3</fw>
+
+<p>memory) where she lived with your mother. She wrote me 35 she would be home christmas and wanted me to meet her at the station. When we arrived at her home, we knocked. I said to Mrs. House when she came, that I'd like her to meet a friend. We <unclear/> in. Mary had gained weight, and her face was very plump. Mrs. House shook hands with her and said she was glad to meet a friend of Lila's. That was too much for Mary, who gave a "giggle" which her mother recognized. All she could say was "Why, Mary House." </p>
+
+<p>Pardon me for my reminiscence. Again, let me say how much I enjoyed your new book.</p>
+<closer>
+<salute>Sincerely,</salute>
+<signed>Lila M. Gardner</signed>
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

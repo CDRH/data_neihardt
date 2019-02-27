@@ -1,42 +1,186 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 70
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-MCO
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.35a.70.71">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Margaret C. Oestreich to John G. Neihardt, June 24th, 1971</title>
+<author>Oestrich, Margaret C.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.35a.70.71</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
 
-425. GEORGE H. OESTREICH
-53 HILLCREST DRIVE
-UPPER SADDLE RIVER
-NEW JERSEY 07458
+<notesStmt><note></note></notesStmt>
 
-June 24,th 1971
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Margaret C. Oestreich to John G. Neihardt, June 24th, 1971</title>
+<date when="1971-06-24"></date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term>Clark, Ernest</term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Oestrich, Margaret C.</persName>
+<placeName ref="http://www.geonames.org/5101760">New Jersey</placeName>
+<date when="1971-06-24"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.35a.70.71.001" />
+<fw type="curatorial">70</fw>
+<note type="curatorial"></note>
+
+<fw type="letterhead">MCO</fw>
+<opener>
+<address>
+<addrLine>425. GEORGE H. OESTREICH</addrLine>
+<addrLine>53 HILLCREST DRIVE</addrLine>
+<addrLine>UPPER SADDLE RIVER</addrLine>
+<addrLine>NEW JERSEY 07458</addrLine>
+</address>
+<dateline>June 24,th 1971
 Midsummer's Day
+</dateline>
+<salute>Dear Dr/ Neihardt,</salute>
+</opener>
 
-Dear Dr/ Neihardt,
-<p> I was happy to read <added>in New Yorker 6/5/71</added> about your interview on the Dick Cavett show, but sorry I did not hear you and see you. What a thrilling fact that so many, many did listen and fell under your sway. They will be very thrilled to have The Cycle in their hands. Perhaps most of them had already read it or knew it well.</p>
+<p> I was happy to read <note>in New Yorker 6/5/71</note> about your interview on the Dick Cavett show, but sorry I did not hear you and see you. What a thrilling fact that so many, many did listen and fell under your sway. They will be very thrilled to have The Cycle in their hands. Perhaps most of them had already read it or knew it well.</p>
 <p>Your good record as a letter writer has lately somewhat fallen from a remembered high. I trust you are all right, that your eyes have been restored, and that your autobiography is soon to be published. I keep in touch with</p>
 
-Page 71
+<fw type="curatorial">71</fw>
 <p>The Bookstore at the University of Missouri about yours and the biography you told me was due soon.</p>
 <p>I had a delightgul winter in St. Petersburg Beach, Florida and reached home on May 7th. Since then, as you can guess, the garden has had lots of attentioh and every few days produces another studnning beauty spot. The clematis vines now now show fuchia blooms about 6" in diameter, with six petals, and purple ones with four petals, about 4" D. Near them are pansies, verbena, violas, petunias of many related colors. Zinneas abound, and will soon be in bloom.</p>
 <p>My brother, Ernest Clark, the eldest of us, came from Los Angeles on June 2nd to attend his 50th at Rutgers. We have had many with family gatherings since he arrived with 26 of us due to gather in our Club in The Poconos for the coming weekend. There will be eight children under five, the children of four married neices and nephews, children of my brother John and my sister Harriet! (Club only about 100 mi. W.)</p>
 <p>All preps are being made carefully chiefly to permit my brother, Ernest, to cope altho' lam with arthritis.</p>
 <p>I am Nebraska is proud of Mr. Dick Cavett. I hope to hear the interview repeated.</p>
-Yours most cordially,
-Margaret C. Oestreich
-<p>P.S. Have just had my first <unclear>divvy</unclear> "session" of this season! It felt - great.</p>
 
-Youngtown, Arizona 
-May 2nd
-Dear Cousin John,
+<closer>
+<salute>Yours most cordially,</salute>
+<signed>Margaret C. Oestreich</signed>
+<note><p>P.S. Have just had my first <unclear>divvy</unclear> "session" of this season! It felt - great.</p></note>
+</closer>
+
+</div1>
+
+<div1 type="letter">
+<opener>
+<address>
+<addrLine>Youngtown, Arizona </addrLine>
+</address>
+<dateline>May 2nd</dateline>
+<salute>Dear Cousin John,</salute>
+</opener>
+
 <p>A friend of ours heard your interview on The Dick <sic>Cavitts</sic> Show last week and enjoyed it as much - happening to be an admirer of yours and has some of your writings - "A Cycle of the West" among them.</p>
-<p>I was so sorry to miss it but we were happy to hear you are well - keeping on with your writing and living with your good friends - The J. D. Youngs of Lincoln. My husband, Christian, will be 92 yrs. old in August, we lost our oldest son Ron last Dec, 58 yrs old. The other son Phil is 56 - in business in Los Angeles. I had my 80<underline>th</underline> birthday Feb. 25th.</p>
+<p>I was so sorry to miss it but we were happy to hear you are well - keeping on with your writing
+and living with your good friends - The J. D. Youngs of Lincoln. My husband, Christian, will be 92
+yrs. old in August, we lost our oldest son Ron last Dec, 58 yrs old. The other son Phil is 56 - in
+business in Los Angeles. I had my 80<hi rend="underline">th</hi> birthday Feb. 25th.</p>
 <p>We keep quite well - husband in a wheel chair - the past year I had a serious operation</p>
-Page 70
+<fw type="curatorial">70</fw>
 <p>adn a cataract operation but pray to hoipe will to vare for Chris so he can remain at home. Should you ever take a try out this way. Make our home your stopping place.</p>
 <p><unclear>With much love</unclear> to you and your dear friends.</p>
-Your cousin
-Myrtle W.
 
-C. W. Woodword
-111287 Connecticut Ave.
-Youngtown, Ariz 85363
+<closer>
+<salute>Your cousin</salute>
+<signed>Myrtle W.</signed>
+<address>
+<addrLine>C. W. Woodword</addrLine>
+<addrLine>111287 Connecticut Ave.</addrLine>
+<addrLine>Youngtown, Ariz 85363</addrLine>
+</address>
+</closer>
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
