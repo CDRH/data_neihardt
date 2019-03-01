@@ -1,31 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?>
-12
-Sept. 13, 1973
-ans. 9-17-73
-University of Missouri - Columbia
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.37b.12.13">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Bob Dyer to John G. Neihardt, September 13, 1973</title>
+<author>Dyer, Bob</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.37b.12.13</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Bob Dyer to John G. Neihardt, September 13, 1973</title>
+<date when="1973-09-13">September 13, 1973</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Dyer, Robert L.</persName>
+<placeName ref="http://www.geonames.org/4381982">Columbia (Mo.)</placeName>
+<date when="1973-09-13"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.37b.12.13.001" />
+<fw type="curatorial">12</fw>
+<note type="curatorial"></note>
+
+<opener>
+<dateline>Sept. 13, 1973
+</dateline>
+<note>ans. 9-17-73</note>
+<fw type="letterhead">University of Missouri - Columbia
 <figure/> 
-231 Arts & Science 
+231 Arts Science 
 Columbia, Mo. 65201
 COLLEGE OF ARTS AND SCIENCE 
 Department of English
 Telephone
-Area 314 449-9756
-Dear Dr. Neihardt,
-i want to thank you again for your patience and cooperation during the filming we did of you this past August in Bancroft. We are now working on the editing of the film (a job that will probably take several months) and so far it looks like we got some fine stuff. 
-I know that you feel you weren't as much up for the filming as you would like to have been, but we find that the three sequences we filmed with you are very good. 
-We were also grateful for the cooperation and friendliness of the Youngs and all the people involved with the Neihardt Foundation in Bancroft as well as the people who took us to that beautiful place on the Missouri River near Decatur where we filmed the first sequence. 
-As I said, we are now editing the film and we are finding a few places here and ther where we would like to insert reading from some of your poetry and prose. I had thought that some of the existing tapes of your reading might contain the poems and prose passages we were interested in, but so far I have not found that what I am looking for on either the <del/> tapes that Hilda has or the tapes in the Neihardt Collection in Western Manuscripts.
-There are some portions of the video tapes used in the Epic America class here at the University of Missouri that I think we could use the audio portions of, and if you are agreeable I would like to ask your permission to make audio tapes from four of these video tapes. The four I have in mind are 1. the General Introduction tape, 2. the tape on Black Elk, 3. the Introduction to the Indian Wars tape, and 4. the first tape in the series of reading from the Songs of the Indian Wars. 
-I have spoken to Don Mitchell, the man in charge of these video tapes here at the University of Missouri, and he said he would be happy to make the audio tapes I have mentioned so long as he has written permission from you. 
-Therefore, I am enclosing a letter granting permission for making these recordings, and if this meets with your approval just sign the letter and return it to me. I enclose a self-addressed stamped envelope for your convenience. 
-<del/> I hope that <del/> it will be possible to see you again some-time soon and perhaps we could even do a bit more taping of some brief readings if you are feeling up to it and happen to be down here in the next two or three months. 
-2
+Area 314 449-9756</fw>
+<salute>Dear Dr. Neihardt,</salute>
+</opener>
 
-13
-Thank you aagain for your patience and cooperation with this project. I hope this letter finds you in good health and good spirits. 
-Sincerely, 
-Bob Dyer
-Bob Dyer 
+<p>i want to thank you again for your patience and cooperation during the filming we did of you this past August in Bancroft. We are now working on the editing of the film (a job that will probably take several months) and so far it looks like we got some fine stuff.</p>
+
+<p>I know that you feel you weren't as much up for the filming as you would like to have been, but we find that the three sequences we filmed with you are very good.</p>
+
+<p>We were also grateful for the cooperation and friendliness of the Youngs and all the people involved with the Neihardt Foundation in Bancroft as well as the people who took us to that beautiful place on the Missouri River near Decatur where we filmed the first sequence.</p>
+
+<p>As I said, we are now editing the film and we are finding a few places here and ther where we would like to insert reading from some of your poetry and prose. I had thought that some of the existing tapes of your reading might contain the poems and prose passages we were interested in, but so far I have not found that what I am looking for on either the <del/> tapes that Hilda has or the tapes in the Neihardt Collection in Western Manuscripts.</p>
+
+<p>There are some portions of the video tapes used in the Epic America class here at the University of Missouri that I think we could use the audio portions of, and if you are agreeable I would like to ask your permission to make audio tapes from four of these video tapes. The four I have in mind are 1. the General Introduction tape, 2. the tape on Black Elk, 3. the Introduction to the Indian Wars tape, and 4. the first tape in the series of reading from the Songs of the Indian Wars.</p>
+
+<p>I have spoken to Don Mitchell, the man in charge of these video tapes here at the University of Missouri, and he said he would be happy to make the audio tapes I have mentioned so long as he has written permission from you.</p>
+
+<p>Therefore, I am enclosing a letter granting permission for making these recordings, and if this meets with your approval just sign the letter and return it to me. I enclose a self-addressed stamped envelope for your convenience.</p>
+
+<p><del/> I hope that <del/> it will be possible to see you again some-time soon and perhaps we could even do a bit more taping of some brief readings if you are feeling up to it and happen to be down here in the next two or three months.</p>
+
+<fw type="authorial">2</fw>
+<fw type="curatorial">13</fw>
+
+<p>Thank you aagain for your patience and cooperation with this project. I hope this letter finds you in good health and good spirits. </p>
+
+
+<closer>
+<salute>Sincerely,</salute>
+<signed>Bob Dyer</signed>
+<note>Bob Dyer 
 303 Arts and Science Bldg.
 University of Missouri-Columbia
-Columbia, Missouri 65201
+Columbia, Missouri 65201</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
