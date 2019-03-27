@@ -1,16 +1,149 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Missouri Collection 
-ST. LOUIS, MO
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.8.12">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Alice Culler Neihardt, Feb 13, 2019</title>
+<author>Neihardt, John G.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.8.12</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from John G. Neihardt to Alice Culler Neihardt, Feb 13, 2019</title>
+<date when="1929-02-13">February 13, 1929</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/4407066">St. Louis (Mo.)</placeName>
+<date when="1929-02-13"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Alice Culler</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Alice Culler</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.8.12.001" />
+<fw type="curatorial">12</fw>
+<note type="curatorial"></note>
+
+<fw type="letterhead">ST. LOUIS, MO</fw>
+<opener>
+<dateline>
 Feb. 13, 20, 27 
-12
 Wednesday.
 Feb. 7, 1929
-Dear Mamma:
-I'm astonished to note how many days have passed since I received your fine long letter. I'm wondering now if this cold weather has done you any harm. Are you all right? How's the final? 
+</dateline>
+<salute>Dear Mamma:</salute>
+</opener>
+
+<p>I'm astonished to note how many days have passed since I received your fine long letter. I'm wondering now if this cold weather has done you any harm. Are you all right? How's the final? 
 We have a new plan. We are taking a bigger and better house on the first of the month, and there'll be a room for you whenever you think you'd like to come up. All of us want you. You will certainly be here when Enid graduates. All this is <del/> up to you. 
 This doesn't mean that I won't be in Branson with you at all. It's likely I may for a while, if things should work out that way. I know that nothing can be done during February and March, so I'm just staying on here. About April things will begin to change. I seem to see some pretty good signs already. I don't think I'll be on the Post after April, and it's likely that I'll be off some time during April. 
 Now here is something important, Mamma. Please call up the best rental agent in Branson and the best in Hollister and list our place for rent. Do this as soon as you can. You may get advice from the agent as to waht ought to be asked for the place. I want to hold the property until the boom is on down there. The work on the dam is to begin in March, I understand, and there will be 3,000 men working on the job. We both ought to be able to sell, led want you to put your money into a home again, and if it shouldn't be enough, I could pay the rest. You must keep a home of your own. It's important to rent our place as soon as possible, and this is a good time of year. We are paying only $60 for a house that locks <del/> to be worth $25 per month. The difference is only $192 per year, and that isn't worth worrying about. It's a bully place - on the N. W. corner of Clay and Way - big yard for the kids and fine trees and the interior of the hosue is dandy. It's an old time place built honestly and with plenty of room. Fine neighborhood. You'll enjoy being there with us. 
-I must hurry to get work. Endless love, 
-<del/> Jno. 
-There is every reason for all of us to be very hopeful and happy. Things look good. 
-have another invitation to be guests at a ^big dinner at teh Fifth Ave. Hotel, N.Y., in March, won't go. 
+I must hurry to get work. </p>
+
+<closer>
+<salute>Endless love,</salute>
+<signed><del/> Jno. </signed>
+<note>There is every reason for all of us to be very hopeful and happy. Things look good. 
+have another invitation to be guests at a ^big dinner at teh Fifth Ave. Hotel, N.Y., in March, won't go. </note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
