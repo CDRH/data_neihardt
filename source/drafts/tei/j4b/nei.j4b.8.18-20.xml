@@ -1,24 +1,171 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Missouri Collection 
-18
-March 29, 1929
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.8.18.20">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Alice Culler Neihardt, March 29, 1929</title>
+<author>Neihardt, John G.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.8.18.20</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from John G. Neihardt to Alice Culler Neihardt, March 29, 1929</title>
+<date when="1929-11-08">March 29, 1929</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/4407066">St. Louis (Mo.)</placeName>
+<date when="1929-03-29"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Alice Culler</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Alice Culler</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.8.18.20.001" />
+<fw type="curatorial">18</fw>
+<note type="curatorial"></note>
+
+<fw type="curatorial">St. Louis, Mo. 
+Missouri Collection </fw>
+<opener>
+<dateline>March 29, 1929
 Friday.
-Dear Mamma:
-I know you are right in what you say about me in your <del/> fine letter just received. It is largely because I can see so much at time s - far beyond people I meet - that I chafe and feel trapped in my blind moments. I remeber and it is like homesickness. Just the same, this is nothing to mourn over, and it will work cut in a remarkable way yet. 
+</dateline>
+<salute>Dear Mamma:</salute>
+<note></note>
+</opener>
+
+<p>I know you are right in what you say about me in your <del/> fine letter just received. It is largely because I can see so much at time s - far beyond people I meet - that I chafe and feel trapped in my blind moments. I remeber and it is like homesickness. Just the same, this is nothing to mourn over, and it will work cut in a remarkable way yet. 
 I have just received a wonderful letter form Thomas S. Jones, Jr. He is, without doubt, the most constantly and deeply inspired poet in America, and his work, which I have admired for 20 years, is all of exquisite spiritual quality. I met two of his friends in New York - both men of high attain-ments - and they told me much of his strange experiences. He is a powerful redium, it seems <del/>. I have not time now to tell you the sort of thing that occurs to him and has since 1918. He writes me that I have had more to do with the forming of his life than any other poet. Says too that all his friends know he regards me as a "Power in our life and in the spiritual development of America". He is a sort of recluse though he lives in New York. He has sensed me and I him at this distance. 
 <unclear/> 
-Remember, all this is whispered to my mother, and is not boasting J.N. 
+Remember, all this is whispered to my mother, and is not boasting J.N. </p>
 
-19
-<unclear/> times - far beyond people I meet - that I chafe and feel trapped in my blind moments. I remember and it is like homesickness. Just the same, this is nothing to mourn over, and it will work out in a remarkable way yet. 
+<fw type="curatorial">19</fw>
+<p><unclear/> times - far beyond people I meet - that I chafe and feel trapped in my blind moments. I remember and it is like homesickness. Just the same, this is nothing to mourn over, and it will work out in a remarkable way yet. 
 I have just recieved a wonderful letter from Thomas S. Jones,Jr. He is, without doubt, the msot constantly and deeply inspired poet in America, and his work, which I have admired for 20 years, is all of exquisite spiritual quality. I met two of his friends in New York - both men of high attain-ments - and they told me much of his strange experiences. He is a powerful medium, it seems <del/>. I have not time now to tell you the sort of thing that occurs to him ad has since 1918. He writes me that I have had more to do with the forming of his life than any other poet. Says too that all his friends know he regards me as a "Power in our life and in the spiritual development of America". He is a sort of recluse though he lives in New York. he has sensed me and I him at this distance. 
 <del/> 
 You must not feel, Mamma, that you are in any sense at all a burden on me. I am beginning to wish I had done and coudl do very very much more for you. I am grateful to know that after all the hard years you are steadily attaining more wisdom and insight. It is a genuine triumph, the only significant triumph possible, I have no doubt. Yes, outdoors is the place for you. Often when I see a few trees alone and a little grass that flash of understanding comes. But it can't stay long in such conditions as I live in. I don't mean at home. Home is more harmonious than ever. and we have no real trouble of any sort. Sig and I are genuine friends and will be more so. 
-Remember, all this is whispered to my mother, and 
+Remember, all this is whispered to my mother, and</p>
 
-20
-It's the same with the others.
-I think it a very good idea to have the fences taken down in front - where the badge is - and the metal gate put up. Both gates. Will you look into this for me and see what it will cost? I'd like to have it done any time. That will make a difference. I forget whether or not you have the iron gete, but I seem to remember that you have. If not, of course that must go in too at the same time. I'll send money for this when you tell me how much. You must not be cramped for money in doing the little things around your place that would give you pleasure. Tell me about such things. 
-Endless love, 
-Jno
-Mona's mother arrived last evening. She's considerably older and not happy at all, but she doesn't talk unhappiness. She's a lovable woman - still wrong in ways no doubt - who isn't? but her meanings, I think are all good. Anyway, I made her feel welcome, and shall keep on doing so. 
+<fw type="curatorial">20</fw>
+
+<p>It's the same with the others.
+I think it a very good idea to have the fences taken down in front - where the badge is - and the metal gate put up. Both gates. Will you look into this for me and see what it will cost? I'd like to have it done any time. That will make a difference. I forget whether or not you have the iron gete, but I seem to remember that you have. If not, of course that must go in too at the same time. I'll send money for this when you tell me how much. You must not be cramped for money in doing the little things around your place that would give you pleasure. Tell me about such things.</p>
+
+<closer>
+<salute>Endless love,</salute>
+<signed>Jno </signed>
+<note>Mona's mother arrived last evening. She's considerably older and not happy at all, but she doesn't talk unhappiness. She's a lovable woman - still wrong in ways no doubt - who isn't? but her meanings, I think are all good. Anyway, I made her feel welcome, and shall keep on doing so. 
+</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
+
+
+
+
+
+ 
+
+
+ 
+ 
+

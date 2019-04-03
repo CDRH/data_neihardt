@@ -1,32 +1,140 @@
 <?xml version="1.0" encoding="UTF-8"?>
-22
-Fine Collection 
-677 
-SAINT LOUIS, MO JUL 15 10-AM5 1929 
-22
-<unclear/>
-Miss Enid Neihardt
-Box 255.
-Branson,
-Mo. 
-Neihardt
-507 Marshloley.
-Kirkwood.
-Mo
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-23
-Darling Enid:
-I stopped the washing mashine while I read your letter, so that I might feel and hear you! 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.8.22.26">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Alice Culler Neihardt to Enid Neihardt, July 15, 1929</title>
+<author>Neihardt, Alice Culler</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.8.22.26</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Alice Culler Neihardt to Enid Neihardt</title>
+<date when="1929-07-15">July 15, 1929</date>
+<extent>5 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Alice Culler</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+<date when="1900"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Enid</persName>
+<placeName ref="http://www.geonames.org/4407066">St. Louis (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Enid</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.8.22.26.001" />
+<fw type="curatorial">23</fw>
+<note type="curatorial"></note>
+
+<opener>
+<dateline>
+</dateline>
+<salute>Darling Enid:</salute>
+</opener>
+
+<p>I stopped the washing mashine while I read your letter, so that I might feel and hear you! 
 Good! I am glad you are having regular <unclear/>.
 I spose to Daddy just now, and he said 
 1
 2.
 I speak so <unclear/> about you, He has just returned from his vacation Daddy expects to <unclear/> 3 weeks off, beginning August 7th. I wish you might begin working in August. 
 Sig was deligh-ted with your bully let her, and when I asked him 
-2
+2</p>
 
-24
-3
+<fw type="curatorial">24</fw>
+<p>3
 for it he said: "Child is just reading it!" 
 I have been so happy over a new bust I have made of Daddy It really is good. Daddy likes it too. Ill cart it this week. 
 yes Enid dear, I am getting a rest-I sake
@@ -34,24 +142,64 @@ yes Enid dear, I am getting a rest-I sake
 4
 a bath in the tub every day and a short map and that is dandy for me. 
 I do hope you are really helping Grand-ma. She should not have much to do, if you are trying to save her. Think of it all the time dear.
-1
+1</p>
 
-25
-5
+<fw type="curatorial">25</fw>
+<p>5
 we looked at an other piece of property near <unclear/> - but so amke a long story short, she owner only wants $45000 as for it!!!!
 We have just about decided to return to Branson next year.
 Sig and you can be in 
 5
 6
 Springfield, returning Branson every weekend. We'll have a real horse and that will be dan-dy for you, won't it? Sig thinks now he wants to get his aviation Grainny in the arury; that will be so much bet-ter, and cheaper for Dad-dy. He is now saying
-6
+6</p>
 
-26
+<fw type="curatorial">26</fw>
+<p>26
 7
-& training course in mechanics that will enable him to earn some money this winter and after one years work he can get his Goverment license. that will wear a lot more than if he had just finished High School.
+&amp; training course in mechanics that will enable him to earn some money this winter and after one years work he can get his Goverment license. that will wear a lot more than if he had just finished High School.
 Tell the little girls 
 8
 I lvoe them a lot and wish they'd write and tell Grandma I do so hope she is better now.
-Grandma should be with us next <unclear/>. 
-Oceans of love
-from Mamma.
+Grandma should be with us next <unclear/>. </p>
+
+<closer>
+<salute>Oceans of love</salute>
+<signed>from Mamma.</signed>
+<note></note>
+</closer>
+
+</div1>
+
+<div1 type="envelope">
+
+<fw type="curatorial">22
+Fine Collection 
+677 22</fw>
+
+<figure type="stamp"><ab>SAINT LOUIS, MO JUL 15 10-AM5 1929</ab></figure>
+
+<ab>
+<address>
+<addrLine>Miss Enid Neihardt</addrLine>
+<addrLine>Box 255.</addrLine>
+<addrLine>Branson,
+Mo. </addrLine>
+</address>
+</ab>
+
+<ab>
+<address>
+<addrLine>Neihardt</addrLine>
+<addrLine>507 Marshloley.</addrLine>
+<addrLine>Branson,
+Kirkwood.
+Mo</addrLine>
+</address>
+</ab>
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
