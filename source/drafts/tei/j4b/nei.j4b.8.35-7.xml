@@ -1,35 +1,207 @@
 <?xml version="1.0" encoding="UTF-8"?>
-35
-Fink Collection July 30, 1929
-678
-Neihardt 
-507 North 
-Clay Ave
-Kirkwood, Mo. 
-SAINTLOUIS,MO.11 AUG 1 630PM 1929
-ADDRESS YOUR MAIL TO STREET AND NUMBER <FIGURE/> 
-Miss Enid Neihardt. 
-Box 255.
-Janey County. 
-Branson, Mo.
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-July 30th
-Enid Darling: 
-Today I did quit a lot of sculping, surely the house all through, dampened all the starched clothes I washed yesterday took a big bath and a short nap, and now am waiting for Daddy. There are 3 battles on the ice for him, and some Swiss cheese. in the little glass box in the landry - and when he 
-1
-36
-arrives he will call "Hello and then collect hiercrack-ers and cheese and sit down so a meal in the Kitchen, where I will join him - and the first thing I will say is I had a nice letter from "Enot" and "Hiddy" today! Are the Flyers still up"?... I know it by heart, you see and thought you might enjoy thinking about this at about 4 o'clock every day! I sent this Hays one 
-2
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.35.37">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Alice Culler Neihardt to Enid Neihardt, July 30th 1929</title>
+<author>Neihardt, Alice Culler</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.35.37</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
 
-of your photoo. She will appre-ciate it I know. Please give my love to Mrs Garner when next you see her. Did they not raise watermelons this year? 
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Alice Culler Neihardt to Enid Neihardt, July 22nd 1929</title>
+<date when="1929-07-30">July 30, 1929</date>
+<extent>3 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Alice Culler</persName>
+<placeName ref="http://www.geonames.org/4393739">Kirkwood (Mo.)</placeName>
+<date when="1929-07-30"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Enid</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Enid</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="envelope">
+
+<pb facs="nei.j4b.8.35.37.001" />
+<fw type="curatorial">35</fw>
+<note type="curatorial">Fink Collection July 30, 1929
+678</note>
+
+<ab type="return">
+<address>
+<addrLine>Neihardt</addrLine>
+<addrLine>507 North Clay</addrLine>
+<addrLine>Kirkwood,
+Mo.</addrLine>
+</address>
+</ab>
+
+<figure type="stamp"><ab>SAINTLOUIS,MO.11 AUG 1 630PM 1929
+ADDRESS YOUR MAIL TO STREET AND NUMBER</ab></figure>
+<ab type="address">
+<address>
+<addrLine>Miss Enid Neihardt</addrLine>
+<addrLine>Box 255.</addrLine>
+<addrLine>Branson,
+Mo.</addrLine>
+<addrLine>Janey County. </addrLine>
+</address>
+</ab>
+
+
+</div1> 
+
+<div1 type="letter">
+<opener>
+<dateline>July 30th
+</dateline>
+<salute>Enid Darling: </salute>
+</opener>
+
+<p>Today I did quit a lot of sculping, surely the house all through, dampened all the starched clothes I washed yesterday took a big bath and a short nap, and now am waiting for Daddy. There are 3 battles on the ice for him, and some Swiss cheese. in the little glass box in the landry - and when he </p>
+
+<fw type="curatorial">1</fw>
+<fw type="curatorial">36</fw>
+<p>arrives he will call "Hello and then collect hiercrack-ers and cheese and sit down so a meal in
+the Kitchen, where I will join him - and the first thing I will say is I had a nice letter from "Enot" and "Hiddy" today! Are the Flyers still up"?... I know it by heart, you see and thought you might enjoy thinking about this at about 4 o'clock every day! I sent this Hays one</p>
+
+<fw type="curatorial">2</fw>
+
+<fw type="curatorial">37</fw>
+<p>of your photoo. She will appre-ciate it I know. Please give my love to Mrs Garner when next you see her. Did they not raise watermelons this year? 
 You had that had hot spell just when we were having one - and the nights would have been <del>unbarable</del> unbearable if we had not used the porch upstairs to sleep out on. 
-Sig sleeps out with Chick Wheeler every night.-Don't 
-3
-37
-you want me to send you some change of clothes?
+Sig sleeps out with Chick Wheeler every night.-Don't </p>
+
+<p>you want me to send you some change of clothes?
 I'll be glad to, if you want them. 
-There is no news so I will Kiss you good bye
-Loving you a lot
-Mamma. Mamma???
-are there 2 Mis in Darling, I am just now send-ing this news less letter, Aug. 1st, 2,'oclock and write it goes <unclear/> birthday package - by Parcel's Post so look for it.
-as always Mama. 
+There is no news so I will Kiss you good bye</p>
+
+
+<fw type="curatorial">3</fw>
+<fw type="curatorial">3</fw>
+
+<p>are remaining in the sky! 
+Did you see Mr Kennemore? 
+Tell Hilda she ought to read the Kite load and make a number of the kites - Daddy says he thinks Mr More</p>
+
+<fw type="curatorial">4</fw>
+
+<fw type="authorial">5</fw>
+<p>will help her. As I sit here; the perspira-tion is running down me like a shower-bath
+It is very, very lot, and so snuggy. 
+Mrs Holson just now came - she said she had not gone to your gradu</p>
+<fw type="curatorial">33</fw>
+<p>ation because they had lot Jackie, and had been busting nearly all that after noon for him all over Kirkwood - when she finally found him they were too tired <unclear/> do any thing else!
+She is just the same and so nice. </p>
+
+
+<p>Jack Wheeler is in Kansas City.-
+I got some <unclear/> for voice and Piano. I will love so pley with you.- Safer Sig is home and tying the "Evening Star" I'll go down and by my part.-</p>
+<fw type="curatorial">7</fw>
+
+<closer>
+<fw type="authorial">34</fw>
+<salute>Loving you a lot</salute>
+<signed>Mamma. Mamma???</signed>
+<note type="authorial">are there 2 Mis in Darling, I am just now send-ing this news less letter, Aug. 1st, 2,'oclock and write it goes <unclear/> birthday package - by Parcel's Post so look for it.
+as always Mama.</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

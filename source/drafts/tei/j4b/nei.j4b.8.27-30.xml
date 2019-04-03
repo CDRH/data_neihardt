@@ -1,44 +1,196 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Finne Collection 675
-July 22nd 
-Darling Enid
-Yesterday I sent you the bottle of Blandex you <unclear/>. I hope it is packed well enough to reach you un-broken The Druggist packed it for me.
-Daddy is feeling so much better, and is happier than usual
-1
-2
-27
-He says he wrote you about the business plan he has for him and you in Branson. Go to it darling, it may save us all yet! 
-I wish I had some news - but there is none - I am glad you are practicing. You and I shoudl do a lot together in the future - Daddy would like that so well. - 
-2
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-pieces 3
-What does your friend play? 
-Have you finished Harry Richmond, and "All's quiet on the Western Front"? Will send you something else when you are ready:
-Tell Grandma that I am sending her quar-terly today. 
-3
-4
-28
-All of us are much excited over the endur-ance test that is going on over Saubert field. The Pilot's wife cooks a hot breakfast for him every morning at 3 o'clock and it is let down to him from the refueling plane. Today at 2 o'clock this plane will have won the longest endurance flight so far - this is 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.27.30">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Alice Culler Neihardt to Enid Neihardt, July 22nd 1929</title>
+<author>Neihardt, Alice Culler</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.27.30</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
 
-5
-the 10th day! I can hardly wait to hear the whistles and <unclear/> blowing and screaming as 2.30, when it will be certian that P. Briere and "Red" Jackson will have won for St Louis! There is "Sindy"-and now again 2 St Louis new-foremost in Aviation! I am quite thrilled, and am all 
-29
-SAINT LOUIS, MO 11 JUL23 730PM 1929
-5
-Miss Enid Neihardt
-Box 255.
-Branson,
-Mo. 
-Teney Coorn
+<notesStmt><note></note></notesStmt>
 
-6
-She since imagining my self in Mrs O'Brien place! God! What prayer she has been praying, and what breaks she has been cooking, for the greatest and dearest man in the world So her! 
-Goodbye now darling! 
-Love, dreams of it,
-from 
-Mamma 
-Neihardt 
-507 North Clay 
-Kirkwood,
-Mo.
-30
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Alice Culler Neihardt to Enid Neihardt, July 22nd 1929</title>
+<date when="1929-07-22">July 22, 1929</date>
+<extent>4 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Alice Culler</persName>
+<placeName ref="http://www.geonames.org/4393739">Kirkwood (Mo.)</placeName>
+<date when="1929-07-22"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Enid</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Enid</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.8.27.30.001" />
+<fw type="curatorial">27</fw>
+<note type="curatorial">Finne Collection 675</note>
+
+<opener>
+<dateline>July 22nd
+</dateline>
+<salute>Darling Enid</salute>
+</opener>
+
+<p>Yesterday I sent you the bottle of Blandex you <unclear/>. I hope it is packed well enough to reach you un-broken The Druggist packed it for me.
+Daddy is feeling so much better, and is happier than usual</p>
+
+<fw type="curatorial">1</fw>
+
+<fw type="authorial">2</fw>
+<p>He says he wrote you about the business plan he has for him and you in Branson. Go to it darling, it may save us all yet! 
+I wish I had some news - but there is none - I am glad you are practicing. You and I shoudl do a lot together in the future - Daddy would like that so well. - </p>
+
+<fw type="curatorial">2</fw>
+<p>pieces <fw type="authorial">3</fw>
+What does your friend play? </p>
+
+<p>Have you finished Harry Richmond, and "All's quiet on the Western Front"? Will send you something else when you are ready:
+Tell Grandma that I am sending her quar-terly today.</p>
+
+<fw type="curatorial">3</fw>
+
+<fw type="authorial">4</fw>
+<fw type="curatorial">28</fw>
+
+<p>All of us are much excited over the endur-ance test that is going on over Saubert field. The Pilot's wife cooks a hot breakfast for him every morning at 3 o'clock and it is let down to him from the refueling plane. Today at 2 o'clock this plane will have won the longest endurance flight so far - this is </p>
+
+<fw type="authorial">5</fw>
+<p>the 10th day! I can hardly wait to hear the whistles and <unclear/> blowing and screaming as 2.30, when it will be certian that P. Briere and "Red" Jackson will have won for St Louis! There is "Sindy"-and now again 2 St Louis new-foremost in Aviation! I am quite thrilled, and am all</p>
+
+<fw type="authorial">6</fw>
+<p>She since imagining my self in Mrs O'Brien place! God! What prayer she has been praying, and what breaks she has been cooking, for the greatest and dearest man in the world So her! </p>
+<closer>
+<salute>Goodbye now darling!
+Love, dreams of it,</salute>
+<signed>from 
+Mamma</signed>
+<note></note>
+</closer>
+
+</div1>
+<div1 type="letter">
+
+<fw type="curatorial">29</fw>
+<ab type="postmark">SAINT LOUIS, MO 11 JUL23 730PM 1929</ab>
+<ab type="address">
+<address>
+<addrLine>Miss Enid Neihardt</addrLine>
+<addrLine>Box 255.</addrLine>
+<addrLine>Branson,
+Mo.</addrLine>
+</address>
+</ab>
+
+<note>Teney Coorn</note>
+<ab type="return">
+<address>
+<addrLine>Neihardt</addrLine>
+<addrLine>507 North Clay</addrLine>
+<addrLine>Kirkwood,
+Mo.</addrLine>
+</address>
+</ab>
+
+<fw type="curatorial">30</fw>
+
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
