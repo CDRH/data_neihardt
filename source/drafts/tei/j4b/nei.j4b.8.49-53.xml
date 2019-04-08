@@ -1,24 +1,170 @@
 <?xml version="1.0" encoding="UTF-8"?>
-46 Piper Collection Aug. 12, 1929 48
-<figure/> WABRANSON AUC AUG 14 L-PM 1929 1909 MO. 
-UNITEDSTATESPOSTAGE <FIGURE/> 2CENTS2
-Miss Mildred Piper 
-<del>Wayne State Normal Wayne Neb.</del>
-1921 Villa Ave
-Sioux City, Iowa 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-50
-Aug. 12-1929
-My Dear "little girl"-
-As usual I am belated and nearly cooked with the heat - which has hardly let up since the foruth of July - and our grass trees and garden has been parched and dried up until last Thursday when we had a Terrific Electric stom - and one again on both Friday and Saturday. Everything is reeking with Moisture and the Sun shining, it seems, as it never did before making us all feel like we had just Emerged from a Turkish bath. - Now if this picture does not enlist your sympathy and also your charity for what I know is plain bad manners in not acknowledgeing the lovely, book containing the picture of Neihardt
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.49.53">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Alice Culler Neihardt to Mildred Piper, August 12th, 1929</title>
+<author>Neihardt, Alice Culler</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.49.53</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
 
-50
-Hall, I will write you a worse picture tho next time.- then too I ahve been very busy - have had a family all Summer or at least since the 8th of June. - I went to Kirkwood to see enid Graduate and returned iwth Hidla and Alice in three weeks later Enid came, so I have had the three girls John will drive down tomorrow and stay until the 1st of Sip. when the will return with the girls and oh I'll be all alone again - but maybe for not very long. - I am planning on a trip this fall, - I want to go to see Lulu for a little while before the cold weatehr, and then to St Louis to be with them <del>a</del> I mean John and Mona, maybe will stay there until Christmas, my Sister in Palo Alto California wants me 
+<notesStmt><note></note></notesStmt>
 
-2
-to spend the winter. with them of course this 
-52
-is nothing sure but it can de-velop if I want it to.-When the time comes for me to leave home I always get cold feet and End up by putting up my pretty heater and warning my toes by it.-I can get so interested in rug making that but for the fire building would be perfectly content to stay alone all winter again.- Mona is not coming this time with John she was here in May. When they came to take me to Kirkwood for the commencement Exercizes. And Sigurd is in Aviation School at Lambert field and some one really ougth to be home,- I am disappointed that you could not drive down here-can't you come this fall Amy 
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Alice Culler Neihardt to Mildred Piper, August 12th, 1929</title>
+<date when="1929-08-12">August 12th, 1929</date>
+<extent>5 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
 
-53
-way?-The book let is beautiful and I was so glad to get it.-How do they sell? I should like to buy two of them one for Each of the girls I wish you could see Hilda now - she is quite tall - Is Daddy's own girl in her books. She has read this summer <unclear/> memorabelia of Socrates. <del>This summer</del> and all her other reading and and Mental work is on a par with that.- She swims and dives like a boy.-Alice swims as well adn they hike over these hills like boys Alice is a darling and reads all the timeline let her.-Enid is the prettiest thing and graduated with splendid grades finishing a Stenagrapher's <unclear/> at the same time.-Sigurd will not set the world on fire with his grades but is fine on the Prana and is making good in the Aviation School - I msut close by thinking you again for the book and say I love you always, lovingly Alice M. Neihardt 
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Alice Culler</persName>
+<placeName></placeName>
+<date when="1929-08-12"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Piper, Mildred</persName>
+<placeName ref="http://www.geonames.org/4876523">Sioux City (Iowa)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Piper, Mildred</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="envelope">
+
+<pb facs="nei.j4b.49.53.001" />
+<fw type="curatorial">49</fw>
+<note type="curatorial"></note>
+
+<note type="curatorial">46 Piper Collection Aug. 12, 1929 48</note>
+<figure type="stamp"><ab>WABRANSON AUC AUG 14 L-PM 1929 1909 MO. 
+UNITEDSTATESPOSTAGE </ab></figure>
+<figure type="stamp"><ab>2CENTS2</ab></figure>
+
+<ab>
+<address>
+<addrLine>Miss Mildred Piper</addrLine>
+<addrLine><del>Wayne State Normal Wayne Neb.</del></addrLine>
+<addrLine>1921 Villa Ave</addrLine>
+<addrLine>Sioux City, Iowa</addrLine>
+</address>
+</ab>
+</div1>
+
+<div1 type="letter">
+
+
+<fw type="curatorial">50</fw>
+<opener>
+<dateline>Aug. 12-1929
+</dateline>
+<salute>My Dear "little girl"-</salute>
+</opener>
+
+<p>As usual I am belated and nearly cooked with the heat - which has hardly let up since the foruth of July - and our grass trees and garden has been parched and dried up until last Thursday when we had a Terrific Electric stom - and one again on both Friday and Saturday. Everything is reeking with Moisture and the Sun shining, it seems, as it never did before making us all feel like we had just Emerged from a Turkish bath. - Now if this picture does not enlist your sympathy and also your charity for what I know is plain bad manners in not acknowledgeing the lovely, book containing the picture of Neihardt</p>
+
+<fw type="curatorial">50</fw>
+<p>Hall, I will write you a worse picture tho next time.- then too I ahve been very busy - have had a family all Summer or at least since the 8th of June. - I went to Kirkwood to see enid Graduate and returned iwth Hidla and Alice in three weeks later Enid came, so I have had the three girls John will drive down tomorrow and stay until the 1st of Sip. when the will return with the girls and oh I'll be all alone again - but maybe for not very long. - I am planning on a trip this fall, - I want to go to see Lulu for a little while before the cold weatehr, and then to St Louis to be with them <del>a</del> I mean John and Mona, maybe will stay there until Christmas, my Sister in Palo Alto California wants me </p>
+
+<fw type="authorial">2</fw>
+<fw type="curatorial">52</fw>
+<p>to spend the winter. with them of course this 
+
+is nothing sure but it can de-velop if I want it to.-When the time comes for me to leave home I always get cold feet and End up by putting up my pretty heater and warning my toes by it.-I can get so interested in rug making that but for the fire building would be perfectly content to stay alone all winter again.- Mona is not coming this time with John she was here in May. When they came to take me to Kirkwood for the commencement Exercizes. And Sigurd is in Aviation School at Lambert field and some one really ougth to be home,- I am disappointed that you could not drive down here-can't you come this fall Amy </p>
+
+<fw type="curatorial">53</fw>
+<p>way?-The book let is beautiful and I was so glad to get it.-How do they sell? I should like to buy two of them one for Each of the girls I wish you could see Hilda now - she is quite tall - Is Daddy's own girl in her books. She has read this summer <unclear/> memorabelia of Socrates. <del>This summer</del> and all her other reading and and Mental work is on a par with that.- She swims and dives like a boy.-Alice swims as well adn they hike over these hills like boys Alice is a darling and reads all the timeline let her.-Enid is the prettiest thing and graduated with splendid grades finishing a Stenagrapher's <unclear/> at the same time.-Sigurd will not set the world on fire with his grades but is fine on the Prana and is making good in the Aviation School - I msut close by thinking you again for the book and say I love you always, lovingly</p>
+<closer>
+<salute>Alice M. Neihardt </salute>
+<signed></signed>
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
