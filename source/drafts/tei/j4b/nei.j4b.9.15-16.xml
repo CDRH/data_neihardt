@@ -1,28 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?>
-15
-4
-Petri Collection 
-T.S. Jones. G. 
-Hillcrest St. 
-N.Y.C.-
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.9.15.16">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Thomas S. Jones to Hilda Neihardt, November 24, 1930</title>
+<author>Jones, Thomas S.</author>
+<principal>Gossin Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.9.15.16</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Thomas S. Jones to Hilda Neihardt, November 24, 1930</title>
+<date when="1930-11-24">November 24, 1930</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="http://viaf.org/viaf/75907568">Jones, Thomas S. (Thomas Samuel), 1882-1932</persName>
+<placeName ref="http://www.geonames.org/5128581">New York City (N.Y.)</placeName>
+<date when="1930-11-24"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Hilda</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Hilda</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="envelope">
+
+<fw type="curatorial">Petri Collection</fw>
+<fw type="curatorial">15</fw>             
+<fw type="curatorial">4</fw>   
+<ab type="return">
+<address>
+<addrLine>T.S. Jones. G.</addrLine> 
+<addrLine>Hillcrest St.</addrLine> 
+<addrLine>N.Y.C.-</addrLine>
+</address>
+</ab> 
+                
+<ab type="postmark">
 NEW YORK, N.Y. STA J-2 NOV24 2-PM 1930
-ADDRESS YOUR MAIL TO STREET AND NUMBER 
-UNITEDSTATESPOSTAGE <FIGURE/> 2CENTS2
-Hilda Neihardt
-Branson, 
-Mo.-.
-to Hilda Neihardt - with every good wish - 
+</ab>
+                
+<figure type="stamp">
+<ab>ADDRESS YOUR MAIL TO STREET AND NUMBER 
+UNITEDSTATESPOSTAGE <figure><ab>2CENTS2</ab></figure></ab>
+</figure>
+                
+
+
+<ab type="address">
+<address>
+<addrLine>Hilda Neihardt</addrLine> 
+<addrLine>Branson, Mo.-.</addrLine>
+</address> 
+</ab> 
+                 
+<p>to Hilda Neihardt - with every good wish - 
 Nothing is judged according to its size,-
 Between the great, the small, Love sets no bar, 
 And in the violets purple <unclear/> lies
 All the immortal yonder a star.
-Thomas <unclear/>: 6. 
+Thomas <unclear/>: 6. </p>
 
-16. 
-for Hilda Neihardt-
-<figure/> 
-Saint Christopher
-CARRY me, hermit, to the further shore."
+</div1>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.9.15.16.001" />
+<fw type="curatorial">16</fw>
+<note type="curatorial"></note>
+
+<opener>
+<dateline>
+</dateline>
+<salute>for Hilda Neihardt-</salute>
+</opener>
+
+<fw type="letterhead">Saint Christopher</fw>
+
+<p>CARRY me, hermit, to the further shore."
 He hears; his huge limbs struggle, then grow slack
 For fear to leap the torrent, swift and black, 
 With crushing load grown heavier than before;
@@ -35,7 +179,18 @@ Into soft earth along the water's edge,
 And from the ragged cloud the moon rides free;
 But no Child stand upon the reedy brink,-
 Only a Voice breathes through the bending sedge, 
-"Keep thou the ford and carry men to Me."
-THOMAS S. JONES, JR.
-S.G.J.
-November 24, 1930-
+"Keep thou the ford and carry men to Me."</p>
+
+<closer>
+<salute></salute>
+<signed>THOMAS S. JONES, JR.
+S.G.J.</signed>
+<note>November 24, 1930-</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
