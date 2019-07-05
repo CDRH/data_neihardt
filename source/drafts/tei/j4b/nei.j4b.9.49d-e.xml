@@ -1,14 +1,149 @@
 <?xml version="1.0" encoding="UTF-8"?>
-49d
-SIGURD NEIHARDT COLLECTION M. DEC. 22, 1931
-Dear Sigurd,
-Naturally I am disappointed you are not to come. I had looked forward to meeting you and hea-ring you so confidently that spring seems a long ways off. I know it isn't and I will be just as glad to see you then. The work at the college is over for two weeks but private pupils informed me they were willing ot take through vacation. I don't feel quite that way and have decided I will run off to Chicago for a few days between Christmas and New Years. To tell the truth I am tired. 
-I played Monday night four Chopin Mazurkas, a Noctur-n, Etude, Berceuse adn Polonaise-Fantasie after giving a talk on him. It is so easy to talk about those one loves I had no trouble. The Steinway grand had a lovely tone but was quite heavy. I fear the last few pages 7th Polmain were not as clear as I play them on my own piano. And something funny happened, that neve-r happened before, some perspiration dropped into my eye and blinded me. 
-You will have late one of my Studies for a Christ-
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-49e
-was present. I thought I had a copy, a new one upstairs but found I did not, so will have to order one for you. 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.49d.e">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Maxine M. Neihardt to Sigurd Neihardt, December 22, 1931</title>
+<author>Neihardt, Maxine M. </author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.9.49d.e</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Maxine M. Neihardt to Sigurd Neihardt, December 22, 1931</title>
+<date when="1931-12-22">December 22, 1931</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Maxine M.</persName>
+<placeName></placeName>
+<date when="1931-12-22"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Sigurd</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Sigurd</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.9.49d.e.001" />
+<fw type="curatorial">49d</fw>
+<note type="curatorial">SIGURD NEIHARDT COLLECTION M. DEC. 22, 1931</note>
+
+<opener>
+<dateline>
+</dateline>
+<salute>Dear Sigurd,</salute>
+</opener>
+
+<p>Naturally I am disappointed you are not to come. I had looked forward to meeting you and hea-ring you so confidently that spring seems a long ways off. I know it isn't and I will be just as glad to see you then. The work at the college is over for two weeks but private pupils informed me they were willing ot take through vacation. I don't feel quite that way and have decided I will run off to Chicago for a few days between Christmas and New Years. To tell the truth I am tired. 
+I played Monday night four Chopin Mazurkas, a Noctur-n, Etude, Berceuse adn Polonaise-Fantasie after giving a talk on him. It is so easy to talk about those one loves I had no trouble. The Steinway grand had a lovely tone but was quite heavy. I fear the last few pages 7th Polmain were not as clear as I play them on my own piano. And something funny happened, that neve-r happened before, some perspiration dropped into my eye and blinded me. 
+You will have late one of my Studies for a Christ-</p>
+
+<fw type="curatorial">49e</fw>
+
+<p>was present. I thought I had a copy, a new one upstairs but found I did not, so will have to order one for you. 
 You are some speedster! To St Louis and back in one day! I can not drive slowly; it is not that I want to go fast but my car wont go slow. O yeah! If my stocks will go up I will get one of the new Fords. I saw a deluxe sedan in Chicago last week and water-ed at the mouth.
-May this find you all well and ready for a joyous Christmas. I would I could be with you too. Extend my wishes to your parents and sisters and give the former my love. I wonder if ate will let our paths cross this year. Think of me as ever our friend, affectionately,
-Ho,e Wed. P.M. 
-Nei. 
+May this find you all well and ready for a joyous Christmas. I would I could be with you too. Extend my wishes to your parents and sisters and give the former my love. I wonder if ate will let our paths cross this year.</p>
+
+<closer>
+<salute>Think of me as ever our friend, affectionately,</salute>
+<signed>Ho,e Wed. P.M. 
+Nei. </signed>
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
