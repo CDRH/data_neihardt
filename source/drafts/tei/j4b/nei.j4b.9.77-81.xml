@@ -1,42 +1,186 @@
 <?xml version="1.0" encoding="UTF-8"?>
-77
-K.C. MO. 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.77.81">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Sigurd Neihardt to Maxine M. Neihardt, February 28, 1932</title>
+<author>Neihardt, Sigurd</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.9.77.81</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Sigurd Neihardt to Maxine M. Neihardt, February 28, 1932</title>
+<date when="1932-02-28">February 28, 1932</date>
+<extent>5 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Sigurd</persName>
+<placeName ref="http://www.geonames.org/4393217">Kansas City (Mo.)</placeName>
+<date when="1932-02-28"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Maxine M.</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Maxine M.</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2019"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.9.77.81.001" />
+<fw type="curatorial">77</fw>
+<note type="curatorial"></note>
+
+<opener>
+<dateline>K.C. MO. 
 Sat. Eve! 
 8:00
-Dear Max, 
-Made the trip in good shape, so I guess every-thing's going O.K. 
+</dateline>
+<salute>Dear Max,</salute>
+</opener>
+
+<p>Made the trip in good shape, so I guess every-thing's going O.K. 
 It took 6 hours of driv-ing time, as I figured! You know - I guessed the six hours! Not such a wild guess? 
-Well, all I can say is the usual thing: I miss you something awful! Gosh, I do not know of anything I'd rather do than to think of you!! Unless it would be to see you! 
+Well, all I can say is the usual thing: I miss you something awful! Gosh, I do not know of anything I'd rather do than to think of you!! Unless it would be to see you!</p>
 
-78
--2-
-I escaped the derned old "reporters"-so I'd have a chance to write you! 
+<fw type="curatorial">78</fw>
+<fw type="authorial">-2-</fw>
+
+<p>I escaped the derned old "reporters"-so I'd have a chance to write you! 
 You probably know how boresome it is in a strange envir-onment to have some monkey ask a lot of questions! 
-Went thru Butler & Adrian this afternoon! Seems like quite a nice country around Butler! 
-Dr. Barris Jenkins is a fine fellow! But his pet, "Bulldog", has been playing awfully 
+Went thru Butler &amp; Adrian this afternoon! Seems like quite a nice country around Butler! 
+Dr. Barris Jenkins is a fine fellow! But his pet, "Bulldog", has been playing awfully </p>
 
-79
--3-
-rough with me! I've never seen a more playful dog! 
+<fw type="curatorial">79</fw>
+<fw type="authorial">-3-</fw>
+
+<p>rough with me! I've never seen a more playful dog! 
 Probably will be at Branson by Monday evening! 
 K.C. isn't seemingly very far away from you my dear, but it is a long ways when I think about how we averaged 46 m.p.h for 6 solid hours of running time! 
-I just love you so much that it gives me a heartache to go away from you!! You are so dear & 
+I just love you so much that it gives me a heartache to go away from you!! You are so dear &amp;</p>
 
-80
--4-
-sweet that I'd like to be hugging you all the time (ambitious, eh?) Impossible? Well quite so! Therefore I just have to "make hay when the sun does shine"!
+<fw type="curatorial">80</fw>
+<fw type="authorial">-4-</fw>
+
+<p>sweet that I'd like to be hugging you all the time (ambitious, eh?) Impossible? Well quite so! Therefore I just have to "make hay when the sun does shine"!
 I'd better hush up 'til I see you, you darling!! 
-Always remember, my sweety - that I love you more than words can express! 
-With Love - 
-Always,
-Your Sig. 
-P.S. 
+Always remember, my sweety - that I love you more than words can express! </p>
+<closer>
+<salute>With Love - 
+Always,</salute>
+<signed>Your Sig. </signed>
+<note>P.S. 
 I like adjectives, (so you have noticed) 
-SN. 
+SN. </note>
+</closer>
 
-81
-UNITEDSTATESPOSTAGE <FIGURE/> WASHINGTON 2CENTS2
-KANSAS CITY FEB 28 6 PM 3 1932 MO. 
-Miss Maxine Melton, 
-Branson, Missouri 
-MM. 
+</div1>
+
+<div1 type="envelope">
+<fw type="curatorial">81</fw>
+
+<ab type="postmark">KANSAS CITY FEB 28 6 PM 3 1932 MO.</ab>
+
+<figure type="stamp"><ab>UNITEDSTATESPOSTAGE  WASHINGTON 2CENTS2</ab></figure>
+
+<ab type="return">
+<address>
+<addrLine>Miss Maxine Melton, </addrLine>
+<addrLine>Branson, Missouri </addrLine>
+</address>
+</ab>
+
+<fw type="authorial">MM.</fw>
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
