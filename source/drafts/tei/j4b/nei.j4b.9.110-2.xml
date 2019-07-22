@@ -1,26 +1,165 @@
 <?xml version="1.0" encoding="UTF-8"?>
-1103
-On post cards a person can't say hat they want to! Isn't it true? 
-Wednesday Nite Springfield Mo.
-My sweetheart--
-I'm awfully crowded for time, but just couldn't bear it to not drop you a few lines from here! Oh, please remember how endlessly I love you, & that it will always be this way! 
-I love you more all the time!
-Well, my dear, sweet girl a few words is better than nothing, at least! So I feel happy to have found even a few minutes in which to send you my love & appreciation
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-111
-for your goodness! I am so terribly lovesick for you! 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.9.110.112">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Sigurd Neihardt to Maxine M. Neihardt, October 13, 1932</title>
+<author>Neihardt, Sigurd</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&amp;#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.9.110.112</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Sigurd Neihardt to Maxine M. Neihardt, October 13, 1932</title>
+<date when="1932-10-13">October 13, 1932</date>
+<extent>pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Sigurd</persName>
+<placeName ref="http://www.geonames.org/4409896">Springfield (Mo.)</placeName>
+<date when="1932-10-13"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Maxine M.</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Maxine M.</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2019"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.9.110.112.001" />
+<fw type="curatorial">1103</fw>
+<note type="authorial">On post cards a person can't say hat they want to! Isn't it true? </note>
+
+<opener>
+<dateline>Wednesday Nite Springfield Mo.
+</dateline>
+<salute>My sweetheart--</salute>
+</opener>
+
+<p>I'm awfully crowded for time, but just couldn't bear it to not drop you a few lines from here! Oh, please remember how endlessly I love you, &amp; that it will always be this way! 
+I love you more all the time!
+Well, my dear, sweet girl a few words is better than nothing, at least! So I feel happy to have found even a few minutes in which to send you my love &amp; appreciation</p>
+
+<fw type="curatorial">111</fw>
+<p>for your goodness! I am so terribly lovesick for you! 
 Please take care of yourself! 
 No doubt we're both wishing for Nov. 1st to come along!
 I got along very successfully in Springfield! 
 I bet it was 'cause my sweety held her thumbs! 
-Be happy & of course know that I love no girl but you! 
-I'm being careful & all is well! 
-Endless Love, 
-Your Sig. 
+Be happy &amp; of course know that I love no girl but you! 
+I'm being careful &amp; all is well!</p>
 
-112
-SPRINGFIELD OCT 13 330 PM 1932 MO. 
-UNITEDSTATESPOSTAGE <FIGURE/> WASHINGTON 3CENTS3
-Miss Maxine Melton, 
-Branson, 
-Missouri. 
+<closer>
+<salute>Endless Love,</salute>
+<signed>Your Sig.</signed>
+<note></note>
+</closer>
+
+</div1>
+<div1 type="curatorial">
+<fw type="curatorial">112</fw>
+<ab type="postmark">SPRINGFIELD OCT 13 330 PM 1932 MO.</ab>
+
+<figure type="stamp"><ab>UNITEDSTATESPOSTAGE <figure><ab> WASHINGTON 3CENTS3</ab></figure></ab></figure>
+
+<ab type="address">
+<address>
+<addrLine>Miss Maxine Melton,</addrLine>
+<addrLine>Branson
+Missouri</addrLine>
+</address>
+</ab>
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
