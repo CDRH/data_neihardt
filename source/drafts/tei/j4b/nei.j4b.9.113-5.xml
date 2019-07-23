@@ -1,28 +1,170 @@
 <?xml version="1.0" encoding="UTF-8"?>
-1-13 108
-Fink Collection ? [Oct. 17, 1932]
-<figure/> 
-    <del>HOTEL ST. CHARLES ST. CHARLES, MO.</del>
-Miss Enid Neihardt
-Branson, 
-Mo. 
-Taney Co. 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-114 107
-SOUTHEAST MISSOURI'S MOST BEAUTIFUL HOTEL IN THE HEAR TOF THE GREAT WASHINGTON AVE. WHOLESALE & RETAIL DISTRICT A REAL HOTEL FOR EVERYONE 
-<FIGURE/> <FIGURE/> <FIGURE/> 
-HOTEL MARQUETTE CAPE GIRARDEAU, MO. HOTEL MARQUETTE 16TH & WASHINGTON ST. LOUIS, MO. HOTEL ST. CHARLES ST. CHARLES, MO. 
-Monday A.M. 
-ST. CHARLES, MO. 193 
-Dear Enat:
-Right on the job, as usual, weren't you? The letters arrived yesterday, & your good letter with them. This is only by way of showy that I was good to hear from you. There isn't much to tell that would be of interest there. Crowds do the same thing I've come to expect: Lindenwood was perhaps a bit more pleasing. Fine crowd, and a fine institution. A group of students came over from Harri Teachers College, St. Louis, and another from <unclear/> College to hear me. 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.9.113.115">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Enid Neihardt, October 17, 1932</title>
+<author>Neihardt, John G. </author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&amp;#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.9.113.115</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
 
-115 108
-SOUTHEAST MISSOURI'S MOST BEAUTIFUL HOTEL IN THE HEAR TOF THE GREAT WASHINGTON AVE. WHOLESALE & RETAIL DISTRICT A REAL HOTEL FOR EVERYONE 
-<FIGURE/> <FIGURE/> <FIGURE/> 
-HOTEL MARQUETTE CAPE GIRARDEAU, MO. HOTEL MARQUETTE 16TH & WASHINGTON ST. LOUIS, MO. HOTEL ST. CHARLES ST. CHARLES, MO. 
--2-
-ST. CHARLES, MO. 193 
-I do hope you received my letter mailed in St. Louis with Johnson, Inc. stationary, and that you have deposited $100 & sent the little as I instructed. I know well that if you rec'd the letter, the rest is certainly done! You will, of course, keep this for a surprise. 
-Tell Hiddy & Alice hello T many kisses!! 
-Gosh, if Mrs. Bayleo sees anything like the truth of what will be we are in for a heavy rain of money as a result of Black Elk Speaks! I got something for you too - I mena you personally- 
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from John G. Neihardt to Enid Neihardt, October 17, 1932</title>
+<date when="1932-10-17">October 17, 1932</date>
+<extent>pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term>Black Elk Speaks</term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/4406831">St. Charles County (Mo.)</placeName>
+<date when="1932-10-17"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Enid</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Enid</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="envelope">
+
+<pb facs="nei.j4b.9.113.115.001" />
+<fw type="curatorial">1-13 108</fw>
+<note type="curatorial">Fink Collection ? [Oct. 17, 1932]</note>
+
+<figure><ab> 
+    <del>HOTEL ST. CHARLES ST. CHARLES, MO.</del></ab></figure>
+
+<ab type="address">
+<address>
+<addrLine>Miss Enid Neihardt</addrLine>
+<addrLine>Branson, 
+Mo. </addrLine>
+</address>
+</ab>
+
+<note type="authorial">Taney Co.</note>
+</div1>
+
+<div1 type="letter">
+<fw type="curatorial">114 107</fw>
+<fw type="letterhead">SOUTHEAST MISSOURI'S MOST BEAUTIFUL HOTEL IN THE HEAR TOF THE GREAT WASHINGTON AVE. WHOLESALE &amp; RETAIL DISTRICT A REAL HOTEL FOR EVERYONE 
+
+HOTEL MARQUETTE CAPE GIRARDEAU, MO. HOTEL MARQUETTE 16TH &amp; WASHINGTON ST. LOUIS, MO. HOTEL ST. CHARLES ST. CHARLES, MO. </fw>
+<opener>
+<dateline>Monday A.M. 
+ST. CHARLES, MO. 193
+</dateline>
+<salute>Dear Enat:</salute>
+</opener>
+
+<p>Right on the job, as usual, weren't you? The letters arrived yesterday, &amp; your good letter with them. This is only by way of showy that I was good to hear from you. There isn't much to tell that would be of interest there. Crowds do the same thing I've come to expect: Lindenwood was perhaps a bit more pleasing. Fine crowd, and a fine institution. A group of students came over from Harri Teachers College, St. Louis, and another from <unclear/> College to hear me.</p>
+
+<fw type="curatorial">115 108</fw>
+<fw type="letterhead">SOUTHEAST MISSOURI'S MOST BEAUTIFUL HOTEL IN THE HEAR TOF THE GREAT WASHINGTON AVE. WHOLESALE &amp; RETAIL DISTRICT A REAL HOTEL FOR EVERYONE 
+
+HOTEL MARQUETTE CAPE GIRARDEAU, MO. HOTEL MARQUETTE 16TH &amp; WASHINGTON ST. LOUIS, MO. HOTEL ST. CHARLES ST. CHARLES, MO. </fw>
+
+<fw type="curatorial">-2-
+ST. CHARLES, MO. 193</fw>
+<p>I do hope you received my letter mailed in St. Louis with Johnson, Inc. stationary, and that you have deposited $100 &amp; sent the little as I instructed. I know well that if you rec'd the letter, the rest is certainly done! You will, of course, keep this for a surprise. 
+Tell Hiddy &amp; Alice hello T many kisses!! 
+Gosh, if Mrs. Bayleo sees anything like the truth of what will be we are in for a heavy rain of money as a result of Black Elk Speaks! I got something for you too - I mena you personally- </p>
+<closer>
+<salute></salute>
+<signed></signed>
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

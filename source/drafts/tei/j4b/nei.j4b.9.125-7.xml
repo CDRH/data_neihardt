@@ -1,38 +1,180 @@
 <?xml version="1.0" encoding="UTF-8"?>
-125
-Rates $1.50 up Most MOdern Hotel in Central Missouri 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.125.127">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Sigurd Neihardt to Maxine M. Neihardt, October 18, 1932</title>
+<author>Neihardt, Sigurd</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&amp;amp;#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.125.127</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Sigurd Neihardt to Maxine M. Neihardt, October 18, 1932</title>
+<date when="1932-10-17">October 18, 1932</date>
+<extent>3 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Sigurd</persName>
+<placeName ref="http://www.geonames.org/4387496">Fulton (Mo.)</placeName>
+<date when="1932-10-17"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Maxine M. </persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Maxine M.</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.9.125.127.001" />
+<fw type="curatorial">125</fw>
+<note type="curatorial"></note>
+
+<fw type="letterhead">Rates $1.50 up Most MOdern Hotel in Central Missouri 
 7:00 A.M. Seminole Hotel 
 The best place to live
-Fulton, Missouri 
-10-18-'32.
-Sweetheart,
-Here I am, up early again & will answer a few questions which I have neglected to!
-I played the Ab-valse, two Larks, ^do Song without words - at Springfield! 
-Here in Fulton it was a hard job to keep the girls off of me! I sat at the piano & they flocked a round requesting certain numbers etc! til I tho't I'd die! (Girls and boy's school you know.) I had a 10 ft. 5-in. Baldwin Concert Grand - brand new & I did better'n ever before! H. Yandell was there had a nice time with him - and other fellows! 
+Fulton, Missouri</fw>
+<opener>
+<dateline>10-18-'32
+</dateline>
+<salute>Sweetheart,</salute>
+</opener>
 
-126
-Rates $1.50 up Most Modern Hotel in Central Missouri 
+<p>JHere I am, up early again &amp; will answer a few questions which I have neglected to!
+I played the Ab-valse, two Larks, ^do Song without words - at Springfield! 
+Here in Fulton it was a hard job to keep the girls off of me! I sat at the piano &amp; they flocked a round requesting certain numbers etc! til I tho't I'd die! (Girls and boy's school you know.) I had a 10 ft. 5-in. Baldwin Concert Grand - brand new &amp; I did better'n ever before! H. Yandell was there had a nice time with him - and other fellows! </p>
+
+<fw type="curatorial">126</fw>
+<fw type="letterhead">Rates $1.50 up Most Modern Hotel in Central Missouri 
 Seminole Hotel 
 The best place to live 
-Fulton, Missouri 
--2-
-Pres. Cockrell's son is a very fine fellow & is so genuinely interested in everything! You know how I mean!
+Fulton, Missouri </fw>
+<fw type="authorial">-2-</fw>
+
+<p>Pres. Cockrell's son is a very fine fellow &amp; is so genuinely interested in everything! You know how I mean!
 Certainly had a big success here at Fulton - large crowd!
-This is a letter to let you know what is ahead of me today! Have been asked so kindly by Miss Burr & the girls to play more, for them at 1000 A.M; so will have to do so!
+This is a letter to let you know what is ahead of me today! Have been asked so kindly by Miss Burr &amp; the girls to play more, for them at 1000 A.M; so will have to do so!
 Really haven't the time cause I must be in K.C. no by 3:00 P.M. C? 
-Gee! What a day! 
+Gee! What a day! </p>
 
-I'll be glad when I get to the place where I'll receive another sweet letter from you - my dear girl!! Please forgive me for not being able to get out & see the moon at 8:55-9:05 - because I've been occupied at those hours - & much against my desire! Hope your father is better, & that you are taking care of yourself! 
-Has Curran had a spell of strength & being up & around yet - as the medium told me? 
-No missin' of kisses - even in the dark, sweet girl-'cause we've become "accurate"! Ha! Ha! 
-I love you always, & am miserable without you, 
-Your Sig. 
-JOHN G. NEIHARDT CENTER 
+<p>I'll be glad when I get to the place where I'll receive another sweet letter from you - my dear girl!! Please forgive me for not being able to get out &amp; see the moon at 8:55-9:05 - because I've been occupied at those hours - &amp; much against my desire! Hope your father is better, &amp; that you are taking care of yourself! 
+Has Curran had a spell of strength &amp; being up &amp; around yet - as the medium told me? 
+No missin' of kisses - even in the dark, sweet girl-'cause we've become "accurate"! Ha! Ha! </p>
 
-127 
-SEMINOLE HOTEL 
-FULTON, MISSOURI 
-FULTON, MO. OCT 18 330 PM 1932
-UNITEDSTATESPOSTAGE THEOLYMPIAD-LOSANGELES 1932. 3CENTS3 
-Miss Maxine Melton, 
-Branson, Missouri. 
+
+<closer>
+<salute>I love you always, &amp; am miserable without you, </salute>
+<signed>Your Sig. </signed>
+<fw type="curatorial">JOHN G. NEIHARDT CENTER </fw>
+</closer>
+
+</div1>
+<div1 type="envelope">
+<fw type="curatorial">127
+</fw>
+<fw type="letterhead">SEMINOLE HOTEL 
+FULTON, MISSOURI</fw>
+<ab type="postmark">FULTON, MO. OCT 18 330 PM 1932 </ab>
+<figure type="stamp"><ab>UNITEDSTATESPOSTAGE THEOLYMPIAD-LOSANGELES 1932.<figure><ab> 3CENTS3 </ab></figure></ab></figure>
+
+<ab type="address">
+<address>
+<addrLine>Miss Maxine Melton,</addrLine>
+<addrLine>Branson, 
+Missouri. </addrLine>
+</address>
+
+</ab>
+</div1>
+</body>
+<back></back>
+</text>
+</TEI>

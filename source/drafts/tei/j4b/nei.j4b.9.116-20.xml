@@ -1,53 +1,197 @@
 <?xml version="1.0" encoding="UTF-8"?>
-116
-Rates $1.50 up Most Modern Hotel in Central Missouri 
-Seminole Hotel
-The best place to live - Isn't either! 
-Fulton, Missouri 
-Mon. 10-17-'32.
-My sweetheart-
-Just rec'd your letter from Miss Burr at Fulton. you dear girl, - nobody in this world means more to me than you! Your sweetness & true - ness is impossible for me to credit (merit rather) too highly! 
-there was a place on the sched. which was too close to a next place & this woudl leave out necessity of mailing to St. Charles!
-So close to eachother you know! 
-Left St. Charles this A.Sn. & am in Fulton this A.M. Also! 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-117
-Rates $1.50 up Most Modern Hotel in Central Missouri 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.116.120">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Sigurd Neihardt to Maxine M. Neihardt, October 17, 1932</title>
+<author>Neihardt, Sigurd</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&amp;#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.116.120</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Sigurd Neihardt to Maxine M. Neihardt, October 17, 1932</title>
+<date when="1932-10-17">October 17, 1932</date>
+<extent>5 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Sigurd</persName>
+<placeName ref="http://www.geonames.org/4387496">Fulton (Mo.)</placeName>
+<date when="1932-10-17"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Maxine M. </persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Maxine M.</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.9.116.120.001" />
+<fw type="curatorial">116</fw>
+<note type="curatorial"></note>
+
+<fw type="letterhead">Rates $1.50 up Most Modern Hotel in Central Missouri 
+Seminole Hotel
+The best place to live <note type="authorial">- Isn't either! </note>
+Fulton, Missouri </fw>
+<opener>
+<dateline>Mon. 10-17-'32.
+</dateline>
+<salute>My sweetheart-</salute>
+</opener>
+
+<p>Just rec'd your letter from Miss Burr at Fulton. you dear girl, - nobody in this world means more to me than you! Your sweetness &amp; true - ness is impossible for me to credit (merit rather) too highly! 
+there was a place on the sched. which was too close to a next place &amp; this woudl leave out necessity of mailing to St. Charles!
+So close to eachother you know! 
+Left St. Charles this A.Sn. &amp; am in Fulton this A.M. Also!</p>
+
+<fw type="curatorial">117</fw>
+<fw type="letterhead">Rates $1.50 up Most Modern Hotel in Central Missouri 
 Seminole Hotel 
 The best place to live 
-Fulton, Missouri 
--2-
-you can never tell where I am going to be one hour to the next'n! C? 
-Sure am going to have a lot of hard work in the next two wks., but honey I'm feeling excellent physically! Have to fix up the Auburn water pump by installing a new pump shaft! 
-The shaft is worn & causes "wear in excess" on the packing! 
-Sounds "greeky" ?? I-bet-U! Anyway this has to be remedied at K.C. by M.M's boy friend! 
+Fulton, Missouri </fw>
+<fw type="authorial">-2-</fw>
 
-118
-Rates $1.50 up Most Modern in Central Missouri 
+<p>you can never tell where I am going to be one hour to the next'n! C? 
+Sure am going to have a lot of hard work in the next two wks., but honey I'm feeling excellent physically! Have to fix up the Auburn water pump by installing a new pump shaft! 
+The shaft is worn &amp; causes "wear in excess" on the packing! 
+Sounds "greeky" ?? I-bet-U! Anyway this has to be remedied at K.C. by M.M's boy friend!</p>
+
+<fw type="curatorial">118</fw>
+<fw type="letterhead">Rates $1.50 up Most Modern in Central Missouri 
 Seminole Hotel 
 The best place to live
-Fulton, Missouri 
--3-
-"M.M." better tell "S.N." to be good boy & fix it! Sweet, loving girl - I am terribly unhappy without my sweetheart along! It won't always be this way - 'cause we'll not be separated always! What did we get that divorce for anyway? Ha! Ha! You are away & so am I; nevertheless our love for eachother is true & honest!
-Our mutual tho'ts are the strong point holding us together!
-I'll always love my dear girl, & she may feel safe at all times in feeling that the more girls I see - the more I'll 
+Fulton, Missouri </fw>
+<fw type="authorial">-3-</fw>
 
-119
-Rates $1.50 up Most Modern Hotel in Central Missouri 
+<p>"M.M." better tell "S.N." to be good boy &amp; fix it! Sweet, loving girl - I am terribly unhappy without my sweetheart along! It won't always be this way - 'cause we'll not be separated always! What did we get that divorce for anyway? Ha! Ha! You are away &amp; so am I; nevertheless our love for eachother is true &amp; honest!
+Our mutual tho'ts are the strong point holding us together!
+I'll always love my dear girl, &amp; she may feel safe at all times in feeling that the more girls I see - the more I'll </p>
+
+<fw type="curatorial">119</fw>
+<fw type="letterhead">Rates $1.50 up Most Modern Hotel in Central Missouri 
 Seminole Hotel 
 The best place to live 
-Fulton, Missouri 
--4-
-love her! Speaking of you, & no one else! I'm glad that you & Enid have had a good time or two together! Here's for more of them 'til I get back! It will then be up to "us" ^ahem!! to once more think up things to do! Eh? Must close, and look forward to your next letter - & in the meantime read the two which I have rec'd! 
-Always know that I love you dear! It means happiness in life for me - the fact tha tyou love me! 
-Always Love,
-Your Sig. 
+Fulton, Missouri </fw>
+<fw type="authorial">-4-</fw>
 
-120
-SEMINOLE HOTEL 
-FULTON, MISSOURI 
-FULTON, MO OCT17 5-PM 1932 
-UNITEDSTATESPOSTAGE <FIGURE/> WASHINGTON 3CENTS3
-Miss Maxine Melton, 
-Branson, 
-Missouri. 
+<p>love her! Speaking of you, &amp; no one else! I'm glad that you &amp; Enid have had a good time or two together! Here's for more of them 'til I get back! It will then be up to "us" ^ahem!! to once more think up things to do! Eh? Must close, and look forward to your next letter - &amp; in the meantime read the two which I have rec'd! 
+Always know that I love you dear! It means happiness in life for me - the fact tha tyou love me! </p>
+
+
+<closer>
+<salute>Always Love,</salute>
+<signed>Your Sig.</signed>
+<note></note>
+</closer>
+
+</div1>
+<div1 type="envelope">
+<fw type="curatorial">
+</fw>
+<fw type="letterhead">SEMINOLE HOTEL 
+FULTON, MISSOURI</fw>
+<ab type="postmark">FULTON, MO OCT17 5-PM 1932 </ab>
+<figure type="stamp"><ab>UNITEDSTATESPOSTAGE <figure><ab> WASHINGTON 3CENTS3</ab></figure></ab></figure>
+
+<ab type="address">
+<address>
+<addrLine>Miss Maxine Melton,</addrLine>
+<addrLine>Branson, 
+Missouri. </addrLine>
+</address>
+
+</ab>
+</div1>
+</body>
+<back></back>
+</text>
+</TEI>
