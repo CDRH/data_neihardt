@@ -1,41 +1,180 @@
 <?xml version="1.0" encoding="UTF-8"?>
-142
-Mon. Nite 10 min. til 9:00 I'll be with you in concentrated tho't til 9:05 Love, Sig 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.9.142.144">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Sigurd Neihardt to Maxine M. Neihardt, October 24th, 1932</title>
+<author>Neihardt, Sigurd</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&amp;#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.9.142.144</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Sigurd Neihardt to Maxine M. Neihardt, October 24th, 1932</title>
+<date when="1932-10-24">October 24th, 1932</date>
+<extent>3 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Sigurd</persName>
+<placeName ref="http://www.geonames.org/5074472">Omaha (Neb.)</placeName>
+<date when="1932-10-24"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Maxine M.</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Maxine M.</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2019"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.9.142.144.001" />
+<fw type="curatorial">142</fw>
+<note type="curatorial"></note>
+
+<opener>
+<dateline>Mon. Nite 10 min. til 9:00 I'll be with you in concentrated tho't til 9:05 Love, Sig 
 Oct. 24th, '32,
 5116 Cass, 
 Omaha Nebraska. 
-My sweetheart, 
-I'm just back from the funeral, & am so lonesome for you! I love you, & am to the place now where I cna't be happy! I must see you soon, or else I don't know what! I love you so!!! I believe you have or shoudl have rec'd my letter from Ashland Nebr. stating that I had to favor the Leslies by making 
-(over) 
--2-
-it possible for them to attend the funeral of an old friend of theirs! 
-I was in a miserable state of mind - missing you, sweetheart, & having to (of all conceivable things) attend a funeral on top of the way I was feeling anyway - was most awful! I do believe that you love me! I should, & also feel safe in doing so! 
-What hurts, my dear girl, is that as soon as I get home I'll have to get ready 
+</dateline>
+<salute>My sweetheart, </salute>
+</opener>
 
--3-
-to go away on another trip! Being that I am a year & a month or so form being independent, I just have to contribute my help to Dad! 
+<p>I'm just back from the funeral, &amp; am so lonesome for you! I love you, &amp; am to the place now where I cna't be happy! I must see you soon, or else I don't know what! I love you so!!! I believe you have or shoudl have rec'd my letter from Ashland Nebr. stating that I had to favor the Leslies by making
+(over)</p>
+
+<fw type="authorial">-2-</fw>
+<p>it possible for them to attend the funeral of an old friend of theirs! 
+I was in a miserable state of mind - missing you, sweetheart, &amp; having to (of all conceivable things) attend a funeral on top of the way I was feeling anyway - was most awful! I do believe that you love me! I should, &amp; also feel safe in doing so! 
+What hurts, my dear girl, is that as soon as I get home I'll have to get ready</p>
+
+<fw type="authorial">-3-</fw>
+<p>to go away on another trip! Being that I am a year &amp; a month or so form being independent, I just have to contribute my help to Dad! 
 Seems awful, but things will change! 
-I feel that you love me & care to stick with me, & that is a huge help-I'll shout! 
-This trip after I see you will be only a few days, but the way I feel now, & having missed ^you for so long a time - I can hardly feel like I will be in the mood to go! 
-Sweetheart, please remember at all times that I love you as I do no one else & you are my ideal of sweetness & sincerity! With all the love in the world fo rmy sweet girl, I'll say goodnight! 
+I feel that you love me &amp; care to stick with me, &amp; that is a huge help-I'll shout! 
+This trip after I see you will be only a few days, but the way I feel now, &amp; having missed ^you for so long a time - I can hardly feel like I will be in the mood to go! 
+Sweetheart, please remember at all times that I love you as I do no one else &amp; you are my ideal of sweetness &amp; sincerity! With all the love in the world fo rmy sweet girl, I'll say goodnight! 
 Bless your heart!! 
-Please be sure that I hear from you again soon, at the next place! 
-P.S. I can hardly wait to see you! 
-Sig. 
-P.S. May get a job here yet! Can't say for sure now! 
-JOHN G. NEIHARDT 
+Please be sure that I hear from you again soon, at the next place!</p>
 
--2-
-Just another note - It is 9:00 straight up now, & I am thinking of my sweetheart, & of what she may be doing! 
-Seems to me that I can see you sitting in a rocking chair near a standing lamp & you too are thinking & wondering if I am in tho't with you at the same time! 
+
+<closer>
+<salute>P.S. I can hardly wait to see you!</salute>
+<signed>Sig.</signed>
+<note>P.S. May get a job here yet! Can't say for sure now! 
+JOHN G. NEIHARDT</note>
+<note>-2-
+Just another note - It is 9:00 straight up now, &amp; I am thinking of my sweetheart, &amp; of what she may be doing! 
+Seems to me that I can see you sitting in a rocking chair near a standing lamp &amp; you too are thinking &amp; wondering if I am in tho't with you at the same time! 
 Love Always;
-My heart aches for you dear, 
+My heart aches for you dear
 Sig. 
-143
+143,</note>
+</closer>
 
-144
-OMAHA, NEBR. OCT 25 3 PM 1932 BURLINGTON STA. 
-UNITEDSTATESPOSTAGE <FIGURE/> WASHINGTON 3CENTS3
-Miss Maxine Melton, 
+</div1>
+<div1 type="envelope">
+<fw type="curatorial">144</fw>
+<ab type="postmark">OMAHA, NEBR. OCT 25 3 PM 1932 BURLINGTON STA.</ab>
+<figure type="stamp"><ab>UNITEDSTATESPOSTAGE</ab><figure><ab>WASHINGTON 3CENTS3</ab></figure></figure>
+<ab type="address">
+<address>
+<addrLine>Miss Maxine Melton,</addrLine>
+<addrLine> 
 Branson,
-Missouri. 
+Missouri. </addrLine>
+</address>
+</ab>
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
