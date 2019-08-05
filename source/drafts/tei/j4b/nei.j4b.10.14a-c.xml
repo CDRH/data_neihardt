@@ -1,21 +1,162 @@
 <?xml version="1.0" encoding="UTF-8"?>
-14a
-Dear Sigurd, 
-Naturally I am disappointed you are not to come. I had looked forward to meeting you and hea-ring you so confidently that spring seems a long ways off. i know it isn't and I will be just as glad to see you then. The work at the college is over for two weeks but private pupils informed me they were willing ot take through vacation. I dont feel quite that way and have decided I will run off to Chicago for a few days between Christmas and New Years. To tell the truth I am tired. 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.14a.c">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Noble Wickham to Sigurd Neihardt, December 20, 1933</title>
+<author>Wickham, Noble</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.10.14.a.c</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Noble Wickham to Sigurd Neihardt, December 20, 1933</title>
+<date when="1933-12-20">December 20, 1933</date>
+<extent>3 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="http://viaf.org/viaf/70955955">Kreider, Noble W. (Noble Wickham)</persName>
+<placeName></placeName>
+<date when="1933-12-20"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Sigurd</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Sigurd</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2019"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.10.14a.c.001" />
+<fw type="curatorial">14a</fw>
+<note type="curatorial"></note>
+
+<opener>
+<dateline>Dear Sigurd,
+</dateline>
+<salute></salute>
+</opener>
+
+<p>Naturally I am disappointed you are not to come. I had looked forward to meeting you and hea-ring you so confidently that spring seems a long ways off. i know it isn't and I will be just as glad to see you then. The work at the college is over for two weeks but private pupils informed me they were willing ot take through vacation. I dont feel quite that way and have decided I will run off to Chicago for a few days between Christmas and New Years. To tell the truth I am tired. 
 I played Monday night four Chopin Mazurkas, a Noctur-n, Etude, Berceuse and Polonaise-Fantasie after giving a talk on him. It is so easy to talk about those one loves I had no trouble. The Steinway grand had a lovely tone but was quite heavy. I fear the last few pages J.T. Polmain were not as clear as I play them on my own piano. And something funny happened, that neve-r happened before, some perspiration dropped into my eye and blinded me. 
-You will have late one of my Studies for a Christ-
+You will have late one of my Studies for a Christ-</p>
 
-14b
-<unclear/> present. I thought I had a copy, a new one upstairs but found I did not, so will have to order one for you. 
+<fw type="curatorial">14b</fw>
+<p><unclear/> present. I thought I had a copy, a new one upstairs but found I did not, so will have to order one for you. 
 You are some speedster! To St Louis and back in one day! I can not drive slowly; it is not that I want to go fast but my car wont go slow. O yeah! If my stocks will go up I will get one of the new Fords. I saw a de-luxe sedan in Chicago last week and water-ed at the mouth. 
-May this find you all well and ready for a joyous Christmas. I would I could be with you too. Extend my wishes to your parents and sisters and give the former my love. I wonder if Fate will let our paths cross this year, Think of me as ever your friend, 
-affectionately,
-Ho, e Wed. P.M. 
-N.U. 
+May this find you all well and ready for a joyous Christmas. I would I could be with you too. Extend my wishes to your parents and sisters and give the former my love. I wonder if Fate will let our paths cross this year, Think of me as ever your friend, </p>
 
-14c 
-GOSHEN DEC 20 7 <UNCLEAR/> 1933 MO 
-U.S.POSTAGE CENTURY CHICAGO OF PROGRESS 1833 <FIGURE/> IIIFEDERAL BUILDING CENTSIII
-Mr Sigurd Neihardt,
-Branson, 
-Mo. 
+<closer>
+<salute>affectionately,</salute>
+<signed>Ho, e Wed. P.M. 
+N.U.</signed>
+<note></note>
+</closer>
+
+</div1>
+<div1 type="envelope">
+<fw type="curatorial">14c</fw>
+<ab type="postmark">GOSHEN DEC 20 7 <unclear> 1933 MO </unclear></ab>
+
+<figure type="stamp"><ab>U.S.POSTAGE CENTURY CHICAGO OF PROGRESS 1833 <figure><ab> IIIFEDERAL BUILDING CENTSIII</ab></figure></ab></figure>
+
+<ab type="address">
+<address>
+<addrLine>Mr Sigurd Neihardt,</addrLine>
+<addrLine>Branson, 
+Mo.</addrLine>
+</address>
+</ab>
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
