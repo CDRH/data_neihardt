@@ -1,33 +1,170 @@
 <?xml version="1.0" encoding="UTF-8"?>
-22
-11
-ST. LOUIS POST-DISPATCH 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.22.27">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Hilda Neihardt, January 19, 1934</title>
+<author>Neihardt, John G.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.10.22.27</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from John G. Neihardt to Hilda Neihardt, January 19, 1934</title>
+<date when="1934-01-19">January 19, 1934</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term>Neihardt, Sigurd</term>
+<term>Neihardt, Enid</term>
+<term>Sullenger, Marie</term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+<date when="1934-01-13"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Petri, Hilda Neihardt</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Petri, Hilda Neihardt</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name>Carney, Mary Jo.</name> Transcription</change>
+<change when="2019"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.10.22.27.001" />
+<fw type="curatorial">22</fw>
+<note type="curatorial">11</note>
+
+<fw type="letterhead">ST. LOUIS POST-DISPATCH 
 "Of Making Many Books" 
-<figure/> JOHN G. NEIHARDT <figure/> 
-BRANSON, MISSOURI 
-Jan. 19th 34
-My own darling Hilda:
-It makes me feel so heavy heart-ed not to ahve you here this weekend. The fact is I had just $4.00 to go on when Daddy left an this week end when the chicque came after paying up everything and sending you #7, Dad dy $4, I have just $2. left to go on till next weekend, or until Daddy gets home. So you see I coudl not - even pay your way once, to say nothing of doing so twice or having Clarita come of course I am not telling you this to make you
+<figure><ab> JOHN G. NEIHARDT</ab></figure>
+BRANSON, MISSOURI</fw>
+<opener>
+<dateline>Jan. 19th 34 
+</dateline>
+<salute>My own darling Hilda:</salute>
+</opener>
 
-<unclear/>, because I can run a bill at Yandell's for 23
+<p>
+It makes me feel so heavy heart-ed not to ahve you here this weekend. The fact is I had just $4.00 to go on when Daddy left an this week end when the chicque came after paying up everything and sending you #7, Dad dy $4, I have just $2. left to go on till next weekend, or until Daddy gets home. So you see I coudl not - even pay your way once, to say nothing of doing so twice or having Clarita come of course I am not telling you this to make you</p>
+
+<p><unclear/>, because I can run a bill at Yandell's for 23
 all we need - but it is good for you to know just how things are. 
-Daddy has always gonoe on trips to make money for us - during these trips he has always been entertained in the highest society, he has gone to the swellest places, and then when he has returned to his family we have heard about all the wonderful doings at which he was honored and have "skimped" along until the next trip. But we have always gotten along, he has always taken care of us. We have never lived on the level that we might be expected to be living on, considering Daddy's position. It is queer, but all things considered, it is doubtless alright. You must not feel shabby, or go without your 
+Daddy has always gonoe on trips to make money for us - during these trips he has always been entertained in the highest society, he has gone to the swellest places, and then when he has returned to his family we have heard about all the wonderful doings at which he was honored and have "skimped" along until the next trip. But we have always gotten along, he has always taken care of us. We have never lived on the level that we might be expected to be living on, considering Daddy's position. It is queer, but all things considered, it is doubtless alright. You must not feel shabby, or go without your </p>
 
-26
-lunches darling girl. Daddy does not want you to do that - and the thought of it makes me feel sick all through. 
-This evening I have <del>invited</del> helped Enid and Sigurd entertain. They are playing cards, but Sigurd and Latchy are having a good time with each other while the rest play cards. "The rest" are Don, Bruce, Tramckie, Marie Sullenger, Max, 
+<fw type="curatorial">26</fw>
+<p>lunches darling girl. Daddy does not want you to do that - and the thought of it makes me feel sick all through. 
+This evening I have <del>invited</del> helped Enid and Sigurd entertain. They are playing cards, but Sigurd and Latchy are having a good time with each other while the rest play cards. "The rest" are Don, Bruce, Tramckie, Marie Sullenger, Max,</p>
 
-25
-Enid and Baxe Tiffany. 
+<fw type="curatorial">25</fw>
+<p>Enid and Baxe Tiffany. 
 I hear Sigurd showing Latchy his Algebra! Did Daddy tell you about Latchy doing so well with his studies? Mrs Carliss is so happy over it. And -I- is thanks to the way Daddy helped him approach the problems. - Oh, I do wish you were here. 
-Today I sent you your dress shortened - I like it very much dear and it is a very good buy. Now do as well with your shoes.-It is start ing to rain - I am afraid that means goodbye 
+Today I sent you your dress shortened - I like it very much dear and it is a very good buy. Now do as well with your shoes.-It is start ing to rain - I am afraid that means goodbye</p>
 
-26
-to your bike ride. 
+<fw type="curatorial">26</fw>
+<p>to your bike ride. 
 I hope your cold is better - Enid has one also, and it is going toward her ears from her throat. 
-Alice sold her white hens today: 42 pounds at 8 cents a pound - besides she had $1.00 and 14 cents from eggs, total $4.50. how she is tryign to sell her 3 white roosters, and one lady, Mrs Hull, has almost decided to take two 
+Alice sold her white hens today: 42 pounds at 8 cents a pound - besides she had $1.00 and 14 cents from eggs, total $4.50. how she is tryign to sell her 3 white roosters, and one lady, Mrs Hull, has almost decided to take two</p>
 
-27
-of them for $2.50. If she does Alice will have $7.00 and one more rooster to sell to Mrs Daniels who wants one. She wants to buy a thorough bred puppy with her money. That won't have so many legs to get into mischief with over at Grandma's as have a dozen hens! 
-Am sending you Daddy's letter to us-keep it for me. Loads of Love to you dear form your 
-old "Mutter". 
+<fw type="curatorial">27</fw>
+
+<p>of them for $2.50. If she does Alice will have $7.00 and one more rooster to sell to Mrs Daniels who wants one. She wants to buy a thorough bred puppy with her money. That won't have so many legs to get into mischief with over at Grandma's as have a dozen hens! 
+Am sending you Daddy's letter to us-keep it for me.</p>
+<closer>
+<salute>Loads of Love to you dear form your 
+old "Mutter". </salute>
+<signed>Daddy</signed>
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI> 
