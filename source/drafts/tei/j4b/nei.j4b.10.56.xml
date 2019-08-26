@@ -1,24 +1,171 @@
 <?xml version="1.0" encoding="UTF-8"?>
-24 56
-Petri Collection 
-ST. LOUIS POST-DISPATCH 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.10.56">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Hilda Neihardt, May 19, 1934</title>
+<author>Neihardt John G.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.10.56</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from John G. Neihardt to Hilda Neihardt, May 19, 1934</title>
+<date when="1934-05-19">May 19, 1934</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+<date when="1934-05-19"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Hilda</persName>
+<placeName ref="http://www.geonames.org/4409896">Springfield (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Hilda</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2019"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.10.53.001" />
+<fw type="curatorial">56</fw>
+<note type="curatorial">24 56
+Petri Collection</note>
+
+<fw type="letterhead">ST. LOUIS POST-DISPATCH 
 "Of Making Many Books" 
-<figure/> JOHN G. NEIHARDT <figure/> 
-BRANSON, MISSOURI 
-Dear Hiddy: 
-Here it is! 
-School will soon be over now, and that will be bully. Nothing new here. 
-Endless love 
-Dad 
-hardt 
+<figure/> JOHN G. NEIHARDT 
+BRANSON, MISSOURI<figure/> </fw>
+<opener>
+<dateline>
+</dateline>
+<salute>Dear Hiddy:</salute>
+</opener>
+
+<p>Here it is! 
+School will soon be over now, and that will be bully. Nothing new here.</p>
+
+<closer>
+<salute>Endless love </salute>
+<signed>Dad</signed>
+<note></note>
+</closer>
+
+</div1>
+<div1 type="envelope">
+<fw type="curatorial"></fw>
+<fw>hardt 
 ranson
-mo 
-Special Delivery 
-BRANSON MAY 19 2-PM 1934 MO. 
-UNITEDSTATESPOSTAGE SPECIAL DELIVERY <FIGURE/> 10CENTS10 
-UNITEDSTATESPOTAGE <FIGURE/> 3CENTS3 
-Fee claimed at Springfield, MO. 
-Miss Hilda Neihardt 
-767 East Elm St. 
-Springfield 
-<del/> Missouri 
+mo </fw>
+
+<fw>Special Delivery</fw>
+<ab type="postmark">BRANSON MAY 19 2-PM 1934 MO.</ab>
+
+<figure type="stamp"><ab>UNITEDSTATESPOSTAGE 3CENTS3</ab></figure>
+
+<figure type="stamp"><ab>UNITEDSTATESPOSTAGE SPECIAL DELIVERY 10CENTS10 </ab></figure>
+<ab type="address">
+
+<fw>Fee claimed at Springfield, MO.</fw>
+<address>
+<addrLine>Miss Hilda Neihardt</addrLine>
+<addrLine>767 East Elm St.,</addrLine>
+<addrLine>Springfield, <del/> Missouri </addrLine>
+</address>
+</ab>
+</div1>
+
+</body>
+
+<back></back>
+</text>
+</TEI>
