@@ -1,15 +1,146 @@
 <?xml version="1.0" encoding="UTF-8"?>
-5
-23 Mc Donald Collection 
-ST. LOUIS POST-DISPATCH 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.11.5">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Lulu McDonald, January 9, 1935</title>
+<author>Neihardt, John G.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.11.5</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from John G. Neihardt to Lulu McDonald, January 9, 1935</title>
+<date when="1935-01-09">January 9, 1935</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+<date when="1935-01-09"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>McDonald, Lulu</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>McDonald, Lulu</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2019"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.11.5.001" />
+<fw type="curatorial">5</fw>
+<note type="curatorial">23 Mc Donald Collection</note>
+
+<fw type="letterhead">ST. LOUIS POST-DISPATCH 
 "Of Making Many Books" 
-<figure/> JOHN G. NEIHARDT <figure/> 
-BRANSON, MISSOURI 
-Wednesday Noon. [January 9, 1935] probably 
-Dear Lulu: 
-This letter of Grandma's was written more than <del>nobody</del> a week ago, but she has asked me to send it. She held it because she expected to see you soon. 
+JOHN G. NEIHARDT 
+BRANSON, MISSOURI </fw>
+<opener>
+<dateline>Wednesday Noon. [January 9, 1935] probably
+</dateline>
+<salute>Dear Lulu:</salute>
+</opener>
+
+<p>This letter of Grandma's was written more than <del>nobody</del> a week ago, but she has asked me to send it. She held it because she expected to see you soon. 
 She is not improving, and can't improve for long. You will come anyway. Better before than after. 
-I do hope I can fill my two weeks' engagement at the municipal University of Omaha, Jan 25 to Feb 8th. The money will be needed. I was hit unmercifully a month or six weeks ago. I don't care - am glad I coudl do as I did - but I do hope I can have the 4 or 5 hundred from Omaha for what is about to happen. 
-With Love, 
-Jno. 
-Enid is working for the Frank a Minsey Co., owner of the N.Y. Sun. Got her job through old Bob Davis. Bully! 
+I do hope I can fill my two weeks' engagement at the municipal University of Omaha, Jan 25 to Feb 8th. The money will be needed. I was hit unmercifully a month or six weeks ago. I don't care - am glad I coudl do as I did - but I do hope I can have the 4 or 5 hundred from Omaha for what is about to happen.</p>
+
+<closer>
+<salute>With Love,</salute>
+<signed>Jno.</signed>
+<note>Enid is working for the Frank a Minsey Co., owner of the N.Y. Sun. Got her job through old Bob Davis. Bully! </note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

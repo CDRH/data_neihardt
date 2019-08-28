@@ -1,32 +1,168 @@
 <?xml version="1.0" encoding="UTF-8"?>
-6
-Fink Collection 
-11
-Neihardt Branson 
-BRANSON JAN 18 7-AM 1935 MO. 
-UNITED STATES POSTAGE <FIGURE/> 3CENTS3 
-Miss Enid Neihardt 
-Hotel Somerset.
-(Suite 118)
-150 West 47th St. 
-N.Y. New York City. 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-Monday <unclear/> 
-Monday afternoon 7 
-Dear Enid: 
-Oh, you cannot know just how happy, I was to hear of your leaving for New York I certainly haze your like your works. You should be very happy there and accomplished worthwhile things. You must write me soon, and tell me all about everything 
-I don't seem to have done anything that woudl be of interest to anyone other than myself. You know I spoke of Betty Klander, the girl who recently came from Germany, when I was home? Well, I have become better acquainted with her, and I surely do like her. Mary ho went home this week-end, so I had Betty come and stay with me. Then yesterday, Sunday, I was at her place for dinner and supper. She and her 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.11.6.8">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Hilda Neihardt to Enid Neihardt, January 18, 1935</title>
+<author>Neihardt, Hilda</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.11.6.8</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
 
-8
-and have several rooms in a private home down town. They surely are nice, and I had a fine time with them. 
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Hilda Neihardt to Enid Neihardt, January 18, 1935</title>
+<date when="1935-06-01">January 18, 1935</date>
+<extent>3 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Hilda</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+<date when="1935-01-18"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Enid</persName>
+<placeName ref="http://www.geonames.org/5128581">New York City (N.Y.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Enid</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2019"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="envelope">
+<fw>Neihardt Branson</fw>
+<ab type="postmark">BRANSON JAN 18 7-AM 1935 MO.</ab>
+
+<figure type="stamp"><ab>UNITED STATES POSTAGE 3CENTS3</ab></figure>
+
+<ab type="address">
+<address>
+<addrLine>Miss Enid Neihardt</addrLine>
+<addrLine>Hotel Somerset.</addrLine>
+<addrLine>(Suite 118)</addrLine>
+<addrLine>150 West 47th St.</addrLine>
+<addrLine>N.Y. New York City.</addrLine>
+</address>
+</ab>
+</div1>
+<div1 type="letter">
+
+<pb facs="nei.j4b.11.6.8.001" />
+<fw type="curatorial">6</fw>
+<note type="curatorial">Fink Collection 11</note>
+
+<opener>
+<dateline>Monday <unclear/> 
+Monday afternoon 7
+</dateline>
+<salute>Dear Enid:</salute>
+</opener>
+
+<p>Oh, you cannot know just how happy, I was to hear of your leaving for New York I certainly haze your like your works. You should be very happy there and accomplished worthwhile things. You must write me soon, and tell me all about everything 
+I don't seem to have done anything that woudl be of interest to anyone other than myself. You know I spoke of Betty Klander, the girl who recently came from Germany, when I was home? Well, I have become better acquainted with her, and I surely do like her. Mary ho went home this week-end, so I had Betty come and stay with me. Then yesterday, Sunday, I was at her place for dinner and supper. She and her </p>
+
+<fw type="curatorial">8</fw>
+<p>and have several rooms in a private home down town. They surely are nice, and I had a fine time with them. 
 I have my schedule Jan next semester tentatively arranged. Here it is: 
 German IV - 9:10 - schemed Famous Americans 10:10-Lewis (!!!) 
 Recent World History
 Survey of Eng. Lit. - 11:10-<unclear/> French II - 1:10 - Chateauncy Journalism II 1:10 Amen. 
 The conflict between French and Journalism I probably shall not take Survey Eng. Lit. This is really quite a good schedule. 
-You must write me, for I am eager to hear of all you do. 
-Loads of love, 
-Hilda. 
-S 
+You must write me, for I am eager to hear of all you do.</p>
+
+<closer>
+<salute>Loads of love,</salute>
+<signed>Hilda.</signed>
+<note>S 
 P.S. Tell Amama 
-"Hello" 
+"Hello"</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

@@ -1,12 +1,143 @@
 <?xml version="1.0" encoding="UTF-8"?>
-1
-27 Petri Collection 
-Tues. A.M. 
-Dear Hiddy: 
-Mama and I think you decided right on the matter of the library job I wanted to leave it to you, and feet sure you'd reach the right conclusion I know you'd not shirk if a real opportunity to help should occur. 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.11.1">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Hilda Neihardt</title>
+<author>Neihardt, John G.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.11.1</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from John G. Neihardt to Hilda Neihardt</title>
+<date when="1900"></date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+<date when="1900"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, John G.</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John G.</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2019"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.11.1.001" />
+<fw type="curatorial">1</fw>
+<note type="curatorial">27 Petri Collection</note>
+
+<opener>
+<dateline>Tues. A.M.
+</dateline>
+<salute>Dear Hiddy:</salute>
+</opener>
+
+<p>Mama and I think you decided right on the matter of the library job I wanted to leave it to you, and feet sure you'd reach the right conclusion I know you'd not shirk if a real opportunity to help should occur. 
 That's bully about the second talk on John G.! I wish I could hear you making sucha  talk. 
-Hiddy, it would be better to postpone the visit of lurs. It. and Mrs. S until next week, But I'd like to make it definite that you <unclear/> will came down a week form this Friday. do that all right? It will be bully to have them. 
-Endless love 
-Dad 
-P.S. no doubt you rec'd the money on Saturday, I mailed it Friday afternoon. 
-P.P.S. Gesellschaft <unclear/> sein worden gehabthaben gott in Hinnuel and so weiter! 
+Hiddy, it would be better to postpone the visit of lurs. It. and Mrs. S until next week, But I'd like to make it definite that you <unclear/> will came down a week form this Friday. do that all right? It will be bully to have them.</p>
+
+<closer>
+<salute>Endless love</salute>
+<signed>Dad</signed>
+<note>P.S. no doubt you rec'd the money on Saturday, I mailed it Friday afternoon.</note>
+<note>P.P.S. Gesellschaft <unclear/> sein worden gehabthaben gott in Hinnuel and so weiter!</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
