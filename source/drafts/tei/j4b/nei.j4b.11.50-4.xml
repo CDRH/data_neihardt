@@ -1,33 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?>
-50
-18 Fink Collection 
-BRANSON FEB 7 3-PM 1935 MO. 
-Miss Enid Neihardt 
-New York City 
-N.Y. 
-Suite 118 
-Hotel <del>Wellin</del>
-Somerset 
-130 West 47th St. 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-51
-Thursday.
-My own dearest Enid.
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.11.50.54">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Mona Martinsen Neihardt to Enid Neihardt, February 7, 1935</title>
+<author>Neihardt, Mona Martinsen</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.11.50.54</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Mona Martinsen Neihardt to Enid Neihardt, February 7, 1935</title>
+<date when="1935-02-07">February 7, 1935</date>
+<extent>4 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term>Kansas City (Mo.)</term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Mona Martinsen</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+<date when="1935-02-07"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt,Enid</persName>
+<placeName ref="http://www.geonames.org/5128581">New York City (N.Y.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt ,Enid</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="envelope">
+<fw type="curatorial">50</fw>
+<fw>18 Fink Collection</fw>
+<ab type="postmark">BRANSON FEB 7 3-PM 1935 MO.</ab>
+
+<ab type="address">
+<address>
+<addrLine>Miss Enid Neihardt</addrLine>
+<addrLine>New York City</addrLine>
+<addrLine>N.Y.</addrLine>
+<addrLine>Suite 118</addrLine>
+<addrLine>Hotel <del>Wellin</del></addrLine>
+<addrLine>Somerset</addrLine>
+<addrLine>130 West 47th St.</addrLine>
+</address>
+</ab>
+</div1>
+<div1 type="letter">
+
+<pb facs="nei.j4b.11.50.54.001" />
+<fw type="curatorial">51</fw>
+<note type="curatorial"></note>
+
+<opener>
+<dateline>Thursday.
+</dateline>
+<salute></salute>
+</opener>
+
+<p>My own dearest Enid.
 Yesterday at 10 minutes to twelve o'clock Grandma passed out. I have the pleasure of remembering that I was up with her the very last night - and that she knew me before she died and the belief that she will come back to me when she gets ready - All this is real to me - the fact that Grandma is leaving her property to "the girls" who this and that - is real to every one else - and so everything is O.K. 
-The consciousness that 
+The consciousness that </p>
 
-52
-things were not as she wanted at the last was torture to Grandma-too bad - but that is all over now - and I feel very much re-lieved. Last night I slept well - for the first time in weeks. 
+<fw type="curatorial">52</fw>
+<p>things were not as she wanted at the last was torture to Grandma-too bad - but that is all over now - and I feel very much re-lieved. Last night I slept well - for the first time in weeks. 
 You shoudl see how beauti-ful Grandma looks in her last resting place - She is having every-thing done just as she wanted - Lu is even more "thingy" than Grandma-
-Daddy is going ot meet us in Kansas City where the creamtion will take place - Sigurd will drive us up in the 
+Daddy is going ot meet us in Kansas City where the creamtion will take place - Sigurd will drive us up in the </p>
 
-53
-Packard. 
+<fw type="curatorial">53</fw>
+<p>Packard. 
 Grandma's <del>remains</del> <unclear/> stands in her front room, under her double windows that over look her rock garden. 
 Alice is at home, not want-ing to go to school - and I am writing to you my own dear, dear Enid. 
-Daddy said he had had 2 dear letters from you - I wish he could circle the job you spoke of for you in Omaha for next year - however you are getting an education where you are, and an experience which will in every way benefit you. Be- 
+Daddy said he had had 2 dear letters from you - I wish he could circle the job you spoke of for you in Omaha for next year - however you are getting an education where you are, and an experience which will in every way benefit you. Be</p>
 
-54
-sides you have still to meet Bob Davis - who may change the whole outfool there at Munsey's for you - So do your best and all else will come. 
-My own dearest Enid I love you deeply and sin-cerely, to say nothing of lov-ing you as a Mother alone loves her babies - 
-Mama. 
+<fw type="curatorial">54</fw>
+<p>sides you have still to meet Bob Davis - who may change the whole outfool there at Munsey's for you - So do your best and all else will come. 
+My own dearest Enid I love you deeply and sin-cerely, to say nothing of lov-ing you as a Mother alone loves her babies - </p>
+<closer>
+<salute></salute>
+<signed>Mama.</signed>
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
