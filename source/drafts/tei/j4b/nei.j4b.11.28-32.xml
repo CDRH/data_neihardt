@@ -1,31 +1,174 @@
 <?xml version="1.0" encoding="UTF-8"?>
-28
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.11.28.32">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Mona Neihardt Martinsen to Enid Neihardt, January 31, 1935</title>
+<author>Martinsen, Mona Neihardt</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.11.28.32</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Mona Neihardt Martinsen to Enid Neihardt, January 31, 1935</title>
+<date when="1935-01-31">January 21, 1935</date>
+<extent>5 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Martinsen, Mona Neihardt</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+<date when="1935-01-30"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Enid</persName>
+<placeName ref="http://www.geonames.org/5128581">New York City (N.Y.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Enid</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="envelope">
+<fw type="curatorial">28
 Fink Collection 
-13
-Neihardt Branson Mo. 
-BRANSON JAN 31 7-AM 1935 MO. 
-UNITED STATES POSTAGE <FIGURE/> 3CENTS3 
-Miss Enid Neihardt. 
-Suite 118
-Hotel Somerset.
-150 West 47th St. 
-New York City 
-N.Y. 
+13</fw>
+<fw>Neihardt Branson Mo.</fw>
+<ab type="postmark">BRANSON JAN 31 7-AM 1935 MO.</ab>
 
-29 
-<del>Tuesday</del>
+<figure type="stamp"><ab>UNITED STATES POSTAGE 3CENTS3</ab></figure>
+
+<ab type="address">
+<address>
+<addrLine>Miss Enid Neihardt.</addrLine>
+<addrLine>Suite 118</addrLine>
+<addrLine>Hotel Somerset.</addrLine>
+<addrLine>150 West 47th St.</addrLine>
+<addrLine>New York City</addrLine>
+<addrLine>N.Y.</addrLine>
+</address>
+</ab>
+</div1>
+<div1 type="letter">
+
+<pb facs="nei.j4b.11.28.32.001" />
+<fw type="curatorial"></fw>
+<note type="curatorial">29</note>
+
+<opener>
+<dateline><del>Tuesday</del>
 Wednesday
-My own dearest Enid: 
-Yesterday I recieved your good letter - and I cannot tell you how happy it made me. I do so hope you will write me again before Sunday and tell me about Amama's birthday. 
-We are having a dreadful time here with Grandma who seems out of her mind, and today she turned against Aunt Lu who has been doing every thing in the world to make her comfortable. And keep her house work going - I am glad Daddy is not here for if he were he coudl not work - and there would be one more person to be considered. I am so grateful that you can remember Grandma standing on her porch waving 
+</dateline>
+<salute>My own dearest Enid:</salute>
+</opener>
 
-30
-to you when you went away, and that you are not here to see her go down - It is truly pitiful. It is her Life long habit of self pity that is playing the devil now. Dr Mitchell told aunt Lu not to let her "get her goat" and he is keeping her slightly doped to make it possible to handle her. This condition may last quite a while for her sake as well as all of ours I do wish she coudl go soon - but one thing is certain: She can never be up again. Daddy is earning the money to take care of her cremation, and I don't doubt he will be back here long before she passes out. I am staying with Grandma to right while aunt Lu goes to the show to get a little change - poor thing she is too tired to sleep. Enid dear, I sent Amama 
+<p>Yesterday I recieved your good letter - and I cannot tell you how happy it made me. I do so hope you will write me again before Sunday and tell me about Amama's birthday. 
+We are having a dreadful time here with Grandma who seems out of her mind, and today she turned against Aunt Lu who has been doing every thing in the world to make her comfortable. And keep her house work going - I am glad Daddy is not here for if he were he coudl not work - and there would be one more person to be considered. I am so grateful that you can remember Grandma standing on her porch waving</p>
 
-31
-the 2 Ozark Babies I owe her, also the little paper weight which is yours - I packed all 3 pieces in one box and ad-dressed it to Amama - but of course the paper weight of Daddy and me is yours. I shoudl ahve cast my new Ozark Baby today bus Grandma's spell interfered and I am hoping to have good sense enough tomorrow to cast it. It is certain one must have Peace of Mind ot create anything with! 
-I am glad you see Daddy's great work the way you do, dear - you are cer-tainly not mistaken - And your expres-sions of love for us are precious to me beyond all knowing - you are and al-ways have been my dear dear good 
+<fw type="curatorial">30</fw>
+<p>to you when you went away, and that you are not here to see her go down - It is truly pitiful. It is her Life long habit of self pity that is playing the devil now. Dr Mitchell told aunt Lu not to let her "get her goat" and he is keeping her slightly doped to make it possible to handle her. This condition may last quite a while for her sake as well as all of ours I do wish she coudl go soon - but one thing is certain: She can never be up again. Daddy is earning the money to take care of her cremation, and I don't doubt he will be back here long before she passes out. I am staying with Grandma to right while aunt Lu goes to the show to get a little change - poor thing she is too tired to sleep. Enid dear, I sent Amama</p>
 
-32
-girl! As for the medimur's prophecy - do not worry about it at all - just do your very best at Mursey's - and you will be rewarded. Be sure to save $5.00 a week dear - that is the very best thing you can possibly do, no matter what may be in store for you. I am so anxious to know more about your self. How is your new dress made? 
-Please tell me at what store you bought the <del>Knitting</del> crochet cotton (black, and red) you left here, and also the pink gir-dle which you left here. I'd liek to return these items and cannot find them in the catalogues.-I'm not surprised at Mary - I don't think I like her either. She is not quite sincere to say the least. This is a hurried note - but it carries so very much love to my Mammie & to my darling Enid. Mama. 
+<fw type="curatorial">31</fw>
+<p>the 2 Ozark Babies I owe her, also the little paper weight which is yours - I packed all 3 pieces in one box and ad-dressed it to Amama - but of course the paper weight of Daddy and me is yours. I shoudl ahve cast my new Ozark Baby today bus Grandma's spell interfered and I am hoping to have good sense enough tomorrow to cast it. It is certain one must have Peace of Mind ot create anything with! 
+I am glad you see Daddy's great work the way you do, dear - you are cer-tainly not mistaken - And your expres-sions of love for us are precious to me beyond all knowing - you are and al-ways have been my dear dear good</p>
+
+<fw type="curatorial">32</fw>
+<p>girl! As for the medimur's prophecy - do not worry about it at all - just do your very best at Mursey's - and you will be rewarded. Be sure to save $5.00 a week dear - that is the very best thing you can possibly do, no matter what may be in store for you. I am so anxious to know more about your self. How is your new dress made? 
+Please tell me at what store you bought the <del>Knitting</del> crochet cotton (black, and red) you
+left here, and also the pink gir-dle which you left here. I'd liek to return these items and cannot
+find them in the catalogues.-I'm not surprised at Mary - I don't think I like her either. She is not
+quite sincere to say the least. This is a hurried note - but it carries so very much love to my
+Mammie &amp; to my darling Enid.</p>
+<closer>
+<salute></salute>
+<signed>Mama.</signed>
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
