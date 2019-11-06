@@ -1,36 +1,180 @@
 <?xml version="1.0" encoding="UTF-8"?>
-25
-Fink Collection 
-OMAHA.NEBRASKA JAN30 10 AM 1935 BURLINGTON STA. 
-UNITED STATES POSTAGE <FIGURE/> 3CENTS3 
-Miss Enid Neihardt 
-Hotel Somerset 
-150 West 47th St., 
-New York city 
-Suite #118 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-26 
-<figure/> H.B. PAYNE, PRESIDENT E.M. SLATER, VICE-PRES. 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.11.25.27">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Enid Neihardt, January 30, 1935</title>
+<author>Neihardt, John G.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.11.25.27</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from John G. Neihardt to Enid Neihardt, January 30, 1935</title>
+<date when="1935-01-30">January 30, 1935</date>
+<extent>3 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5074472">Omaha (Neb.)</placeName>
+<date when="1935-01-30"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Enid</persName>
+<placeName ref="http://www.geonames.org/5128581">New York City (N.Y.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Enid</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="envelope">
+
+<pb facs="nei.j4b.11.25.27.001" />
+<fw type="curatorial">25</fw>
+<note type="curatorial">Fink Collection </note>
+
+<ab type="postmark">OMAHA.NEBRASKA JAN30 10 AM 1935 BURLINGTON STA.</ab>
+<figure type="stamp"><ab>UNITED STATES POSTAGE 3CENTS3</ab> </figure>
+
+<ab>
+<address>
+<addrLine>Miss Enid Neihardt.</addrLine>
+<addrLine>Hotel Somerset.</addrLine>
+<addrLine>Suite 118.</addrLine>
+<addrLine>150 West 47th St.</addrLine>
+<addrLine>New York City.</addrLine>
+</address>
+</ab>
+</div1>
+
+<div1 type="letter">
+<fw type="curatorial">26</fw>
+<fw type="letterhead"><figure/> H.B. PAYNE, PRESIDENT E.M. SLATER, VICE-PRES. 
 150 RESTFUL ROOMS AT REASONABLE RATES 
 HOTEL WELLINGTON
 ON DIRECT CAR LINES FROM ALL STATIONS 
 FARNAM AT EIGHTEENTH 
-OMAHA 
-Dear Enat: Tues. Eve. 
-I was delighted to find your dear letter here when I got back from a strennous day of talking. I'm so happy to know that you are happy, sweet, good Enat! Isn't it all wonderful! You see, yoru worth does matter. I'm eager to hear much more. 
-Things go wonderfully well here The Joslyn Memorial affair was just about perfect in response, & the University lectures are going over finely: Perfect attention & response. I'm doing some good here. So many come to me & seem to get something. 
-Dr Sealock, the Pres., will drive me to Wayne on Saturday to see Hiddy. Isn't that bully? 
-Enat, there'll be a job open here - secretary to the Pres.-
+OMAHA</fw>
+<opener>
+<dateline>Tues. Eve.
+</dateline>
+<salute>Dear Enat:</salute>
+</opener>
 
-27
-    <figure/> H.B. PAYNE, PRESIDENT E.M. SLATER, VICE-PRES. 
-    150 RESTFUL ROOMS AT REASONABLE RATES 
-    HOTEL WELLINGTON
-    ON DIRECT CAR LINES FROM ALL STATIONS 
-    FARNAM AT EIGHTEENTH 
-    OMAHA 
-at the end of this year. Think of it! I think I could laud it for you, & you'd be fine. But your chaver is better, perhaps, where you are, altho'this is a good inhibition an unusual one, & will soon have one million cash to use for new buildings & campus. I think New York is bet for you now. But had you failed to land there, this chance would have been <del>of</del> excellent. 
-I'm run ragged - need sleech - and am writing this like a whirlwind. But I love you, good, dear, & very able Girl! 
-Write me when you can 
-Dad 
-Love to Amama, the Good Fairy. 
+<p>I was delighted to find your dear letter here when I got back from a strennous day of talking. I'm so happy to know that you are happy, sweet, good Enat! Isn't it all wonderful! You see, yoru worth does matter. I'm eager to hear much more. 
+Things go wonderfully well here The Joslyn Memorial affair was just about perfect in response, &amp;
+the University lectures are going over finely: Perfect attention &amp; response. I'm doing some good
+here. So many come to me &amp; seem to get something. 
+Dr Sealock, the Pres., will drive me to Wayne on Saturday to see Hiddy. Isn't that bully? 
+Enat, there'll be a job open here - secretary to the Pres.-</p>
+
+<fw type="curatorial">27</fw>
+<fw type="letterhead"><figure/> H.B. PAYNE, PRESIDENT E.M. SLATER, VICE-PRES. 
+150 RESTFUL ROOMS AT REASONABLE RATES 
+HOTEL WELLINGTON
+ON DIRECT CAR LINES FROM ALL STATIONS 
+FARNAM AT EIGHTEENTH 
+OMAHA</fw>
+
+<p>at the end of this year. Think of it! I think I could laud it for you, &amp; you'd be fine. But
+your chaver is better, perhaps, where you are, altho'this is a good inhibition an unusual one, &amp;
+will soon have one million cash to use for new buildings &amp; campus. I think New York is bet for you now. But had you failed to land there, this chance would have been <del>of</del> excellent. 
+I'm run ragged - need sleech - and am writing this like a whirlwind. But I love you, good, dear,
+&amp; very able Girl! </p>
+<closer>
+<salute>Write me when you can</salute>
+<signed>Dad</signed>
+<note>Love to Amama, the Good Fairy.</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
