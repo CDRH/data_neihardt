@@ -1,53 +1,194 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Feb. 14, 1935 
-Fink Collection 
-21
-67
-BRANSON FEB 15 3-PM 1935 MO. 
-UNITEDSTATESPOSTAGE <FIGURE/> WASHINGTON 3CENTS3
-Miss Enid Neihardt 
-Suite 118 
-150 West 47th St. 
-Hotel Somerset
-New York City 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-68
-Feb. 14, 1935 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.11.67.75">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Mona Martinsen Neihardt to Enid Neihardt, February 14, 1935</title>
+<author>Neihardt, Mona Martinsen</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.11.67.75</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Mona Martinsen Neihardt to Enid Neihardt, February 14, 1935</title>
+<date when="1935-02-14">February 14, 1935</date>
+<extent>pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Mona Martinsen</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+<date when="1935-02-14"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Enid</persName>
+<placeName ref="http://www.geonames.org/5128581">New York City (N.Y.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Enid</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name>Carney, Mary Jo</name>Transcription</change>
+<change when="2019"><name>Hasan, Sara</name>Initial Encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="envelope">
+<fw>Feb. 14, 1935 
+Fink Collection 
+21</fw>
+
+<fw>67</fw>
+<ab type="postmark">BRANSON FEB 15 3-PM 1935 MO.</ab>
+<figure type="stamp"><ab>UNITEDSTATESPOSTAGE WASHINGTON 3CENTS3</ab></figure>
+
+<ab type="address">
+<address>
+<addrLine>Miss Enid Neihardt</addrLine>
+<addrLine>Suite 118 </addrLine>
+<addrLine>150 West 47th St.</addrLine>
+<addrLine>Hotel Somerset</addrLine>
+<addrLine>New York City</addrLine>
+</address>
+</ab>
+</div1>
+<div1 type="letter">
+
+<pb facs="nei.j4b.11.67.75.001" />
+<fw type="curatorial">68</fw>
+<note type="curatorial"></note>
+
+<opener>
+<dateline>Feb. 14, 1935
 Branson, Mo 
 Thursday:
-Darling Enid: 
-Your good letter was so welcome - I know you don't quite realize how much your letters mean to me. 
+</dateline>
+<salute>Darling Enid:</salute>
+</opener>
+
+<p>Your good letter was so welcome - I know you don't quite realize how much your letters mean to me. 
 I feel completely used up - and must be quick a while before I will be my self again. 
-Aunt Lu is leaving to-day-we have had the nicest 
+Aunt Lu is leaving to-day-we have had the nicest </p>
 
-69
-possible relations - and we are both glad. 
-Daddy did not want anything - and I did not expect anything so was very much thrilled with the many things Lu saw fit to give me of Mothers'. We have her big overstuffed chair in our front room, and standing under the standing lamp it adds greatly to my own personal pleasure and comfort. I think Dan. 
+<fw type="curatorial">69</fw>
+<p>possible relations - and we are both glad. 
+Daddy did not want anything - and I did not expect anything so was very much thrilled with the many things Lu saw fit to give me of Mothers'. We have her big overstuffed chair in our front room, and standing under the standing lamp it adds greatly to my own personal pleasure and comfort. I think Dan.</p>
 
-70 
-dy sees Grandma, for he jumps suddenly and barks and looks at the chair - where there seems to be no possible rea-son for this! 
-The property next door is now divided off by a fence (as it should always leave been and the little gate is taken away - Mr and Mrs Shahaw from across the street are moving in as reuters and care-takers for Lu and Grace, who 
+<fw type="curatorial">70</fw>
+<p>dy sees Grandma, for he jumps suddenly and barks and looks at the chair - where there seems to be no possible rea-son for this! 
+The property next door is now divided off by a fence (as it should always leave been and the little gate is taken away - Mr and Mrs Shahaw from across the street are moving in as reuters and care-takers for Lu and Grace, who</p>
 
-71
-are now the joint owners. 
-If times are good they may sell - and make a good profit on their money of long ago = $100. per cent profit on all they ever gave their mother - and Daddy and I have given all we have given - not only our money - but 25 years of our lives - to be discredited and misunderstood. We could 
+<fw type="curatorial">71</fw>
+<p>are now the joint owners. 
+If times are good they may sell - and make a good profit on their money of long ago = $100. per cent profit on all they ever gave their mother - and Daddy and I have given all we have given - not only our money - but 25 years of our lives - to be discredited and misunderstood. We could</p>
 
-not have done otherwise - and they cannot under - stand - they must inter pret in terms of their own consciousness, which, mean ing to be fair - is really very unfair - 
-I my self am very much relieved - and if I am not too old - I will make good yet - But Enid Dear don't do as I 
+<p>not have done otherwise - and they cannot under - stand - they must inter pret in terms of their own consciousness, which, mean ing to be fair - is really very unfair - 
+I my self am very much relieved - and if I am not too old - I will make good yet - But Enid Dear don't do as I</p>
 
-72
-have done - No! Do better! 
+<fw type="curatorial">72</fw>
+<p>have done - No! Do better! 
 Miss Bennet keeps asking about you dear, also Mrs Breeden and Mrs Spurlock. Write them if only a card. 
-How fine that you are getting an education now and learning many things of value to you ^for all your future life - instead of being here, dragging 
+How fine that you are getting an education now and learning many things of value to you ^for all your future life - instead of being here, dragging</p>
 
-73
-through a sad and sordid business with me! I am all through with it now - and so glad you were not here! 
-When you feel lonely or discouraged, remember that you are not cut off from us, but as Daddy said: you are going to School, and more than paying your way, besides you are filling Amama's life with interest too - and that is worthwhile for you both.-
+<fw type="curatorial">73</fw>
+<p>through a sad and sordid business with me! I am all through with it now - and so glad you were not here! 
+When you feel lonely or discouraged, remember that you are not cut off from us, but as Daddy said: you are going to School, and more than paying your way, besides you are filling Amama's life with interest too - and that is worthwhile for you both.-</p>
 
-74
-Daddy seems absolutely cer-tain that you can get a secretarial job in Omaha by Fall - so climb as high as you can in your present work - for God's sake don't lose interest in it until something else devel-ops. I feel that Bob Davis will make a great difference to you when you see him. I don't doubt the gentle-man for whom you write letters, is essentially not 
+<fw type="curatorial">74</fw>
+<p>Daddy seems absolutely cer-tain that you can get a secretarial job in Omaha by Fall - so climb as
+high as you can in your present work - for God's sake don't lose interest in it until something else devel-ops. I feel that Bob Davis will make a great difference to you when you see him. I don't doubt the gentle-man for whom you write letters, is essentially not </p>
 
-75
-any better informed than Ike Thompson - and there are few you will write for that compare in any sense to Daddy. 
-Loads of love, my own dear, dear girlie, from Mama. 
-It is Spring here! Our pasture is all harrowed up and Daddy is about to sow Orchard grass and oats in it! 
+<fw type="curatorial">
+75</fw>
+
+<p>any better informed than Ike Thompson - and there are few you will write for that compare in any sense to Daddy. </p>
+<closer>
+<salute>Loads of love, my own dear, dear girlie,</salute>
+<signed> from Mama.</signed>
+<note>It is Spring here! Our pasture is all harrowed up and Daddy is about to sow Orchard grass and oats in it!</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
