@@ -1,34 +1,175 @@
 <?xml version="1.0" encoding="UTF-8"?>
-83
-22 Fink Collection 
-BRANSON FEB26 3-PM 1935 MO. 
-UNITED STATES POSTAGE <FIGURE/> 3CENTS3
-Miss Enid Neihardt. 
-Suite 118 
-Hotel Somerset. 
-150 West 47th St. 
-New York City 
-N.Y. 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-Feb 25th 35 
-84
-My own darling girlie:
-It was so thrilling to receive an extra letter from you - and then the wonderful nut head and Stollen! I like them, especially the nut head - many thanks dear, it made you and Amama seem so near, to be eating of the very some bread and cake that you were enjoying! I suppose it really is not so far to New York - just a matter of a few dol lars.-I am enclosing the Express receipt which I re ceived when I sent Amamma the last Ozark Babies you see it should have cost only 60 odd cents I don't see how they dared charge $2.00 and soem - Can Amamma not get refund from Express Co? She might try any way.-
-Yesterday was Sunday and Daddy had Sig drive him up to Jefferson City where we had an engagement to read to the Lincoln University there - They got back home before midnight! That 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.11.83.87">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Mona Neihardt Martinsen to Enid Neihardt, February 25, 1935</title>
+<author>Martinsen, Neihardt Mona</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.11.83.87</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
 
-85
-quite a feat was it not? 
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Mona Neihardt Martinsen to Enid Neihardt, February 25, 1935</title>
+<date when="1935-02-25">February 2, 1935</date>
+<extent>4 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term>Neihardt, Maxine Melton</term>
+<term>Neihardt, Sigurd</term>
+</keywords>
+<keywords scheme="original" n="places">
+<term>Omaha NE</term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Martinsen Mona</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson, MO</placeName>
+<date when="19350-02-25"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Enid</persName>
+<placeName ref="http://www.geonames.org/5128581">New York City (N.Y.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Enid</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name>Carney, Mary Jo.</name> Transcription</change>
+<change when="2019"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="envelope">
+
+<pb facs="nei.j4b.11.83.87.001" />
+<fw type="curatorial">83</fw>
+<note type="curatorial">22 Fink Collection</note>
+
+<ab type="postmark">BRANSON FEB26 3-PM 1935 MO.</ab>
+<figure type="stamp"><ab>UNITED STATES POSTAGE 3CENTS3</ab></figure>
+
+<ab type="address">
+<address>
+<addrLine>Miss Enid Neihardt. </addrLine>
+<addrLine>Suite 118</addrLine>
+<addrLine>Hotel Somerset.</addrLine>
+<addrLine>150 West 47th St.</addrLine>
+<addrLine>New York City 
+N.Y.</addrLine>
+</address>
+</ab>
+</div1>
+
+<div1 type="letter">
+<opener>
+<dateline>Feb 25th 35
+</dateline>
+<fw type="curatorial">84</fw>
+<salute>My own darling girlie:</salute>
+</opener>
+
+<p>It was so thrilling to receive an extra letter from you - and then the wonderful nut head and Stollen! I like them, especially the nut head - many thanks dear, it made you and Amama seem so near, to be eating of the very some bread and cake that you were enjoying! I suppose it really is not so far to New York - just a matter of a few dol lars.-I am enclosing the Express receipt which I re ceived when I sent Amamma the last Ozark Babies you see it should have cost only 60 odd cents I don't see how they dared charge $2.00 and soem - Can Amamma not get refund from Express Co? She might try any way.-
+Yesterday was Sunday and Daddy had Sig drive him up to Jefferson City where we had an engagement to read to the Lincoln University there - They got back home before midnight! That </p>
+
+<fw type="curatorial">85</fw>
+<p>quite a feat was it not? 
 Daddy just now saw Mr Owen down town and he read the part out of your letter in which you mentioned him. He said "I'll certainly do that"!-
 The Study Club is aobut to pass judgement upon the best Short Story written by Highschool kids. I was asked to help, and so I got Daddy in-terested and I am so happy about it as I believe he will do a lot of good. <del>For</del> There are about 6 or 8 very unusual attempts among the store's sub-mitted. Daddy is going to talk to the youngsters each one individually and that will result in help ing the sincere ones a whole lot. He is really sur-prised at some of these stories being as good as they are! As some of these stories being as good as they are! There are 3 kids from Branson high whom Mr Wallace (who is head of the English Dept.) is going to send up here tomorrow afternoon for Daddy to interview about 40 minutes apart - won't that be interesting? 
 Be sure and tell me if you want your suit and that pretty evening dress. 
-I forgot to say that Maxine ate dinner with Alice and me yesterday noon in Daddy's and Sig's absence and slept in our big bed in what is now the guest room. 
+I forgot to say that Maxine ate dinner with Alice and me yesterday noon in Daddy's and Sig's absence and slept in our big bed in what is now the guest room.</p>
 
-86
-when Daddy came home in the night he got in bed <unclear/> me, and Sig crawled in bed with Maxine - so we were all together here - excepting you and Hilda. I just ache for moer news from Hilda - Her letters are". so unsatisfactory - but I do know she is doing well in her studies, and since she is no longer working on the relief work - she has time to walk and roller skate. 
-We are hoping Mr Sealock and his wife will come down here some time this Spring or Summer, and that we can give them a good time and become let-ter acquainted - Then we can know something more definite about your secretary job - and also there may be something for Sigurd in the wya of Piano teaching as this Municipal University is just beginning and they have not gotten their Bldgs even as yet - they expect to in the Fall - I don't see why there is not the best chance there in the world for both you and Sigurd through Daddy, whom they want back again next year. If you and Sig were both settled in Omaha - how wonderful that woudl be for us "Old Folks". It would not be hard to run up and see you, or for you to 
+<fw type="curatorial">86</fw>
+<p>when Daddy came home in the night he got in bed <unclear/> me, and Sig crawled in bed with Maxine - so we were all together here - excepting you and Hilda. I just ache for moer news from Hilda - Her letters are". so unsatisfactory - but I do know she is doing well in her studies, and since she is no longer working on the relief work - she has time to walk and roller skate. 
+We are hoping Mr Sealock and his wife will come down here some time this Spring or Summer, and that we can give them a good time and become let-ter acquainted - Then we can know something more definite about your secretary job - and also there may be something for Sigurd in the wya of Piano teaching as this Municipal University is just beginning and they have not gotten their Bldgs even as yet - they expect to in the Fall - I don't see why there is not the best chance there in the world for both you and Sigurd through Daddy, whom they want back again next year. If you and Sig were both settled in Omaha - how wonderful that woudl be for us "Old Folks". It would not be hard to run up and see you, or for you to </p>
 
-87 
-down and see us once in a while! - Yes dear, you must be getting to feel quite normal now in your work - and don't doubt that a promotion will come sooner than you think - for things will happen when Bob Davis gets back, and he is told how well you have been doing where you were put. He knows you are capable of a higher position and he will think you showed yourself a good sport by fitting in where they placed you. - Mr Harine and Harold returned form Arizona a few days ago I have not had a visit with her since Grandma passing - 
+<fw type="curatorial">87</fw>
+<p>down and see us once in a while! - Yes dear, you must be getting to feel quite normal now in your work - and don't doubt that a promotion will come sooner than you think - for things will happen when Bob Davis gets back, and he is told how well you have been doing where you were put. He knows you are capable of a higher position and he will think you showed yourself a good sport by fitting in where they placed you. - Mr Harine and Harold returned form Arizona a few days ago I have not had a visit with her since Grandma passing - 
 What do you mean about Amama! Wanting to travel some more? has she made any plans? I hope you are not worrying aobut anything, and not telling me, are you dear? 
 I just read Edna Ferber's "Come and yet it 
-It is well done, but I do not care for it; I'll send it shortly to Amama and you - will see if we have any Lewissons also - Loads of Love to my own Enid from Mama 
+It is well done, but I do not care for it; I'll send it shortly to Amama and you - will see if we have any Lewissons also - </p>
+<closer>
+<salute>Loads of Love to my own Enid </salute>
+<signed>from Mama </signed>
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
