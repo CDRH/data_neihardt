@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<<<<<<< HEAD
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.X.X">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title type="main"></title>
-<author></author>
-<principal></principal>
-=======
+
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.11.88.89">
 <teiHeader>
 <fileDesc>
@@ -17,7 +10,6 @@
 <title type="main">Letter from Mrs. Mahnkey to Mona Martinsen Neihardt, March 1, 1935</title>
 <author>Mahnkey</author>
 <principal>Gossin, Pamela</principal>
->>>>>>> d8ce3a0a71513c91a308a65c8487d48c2e2965b4
 </titleStmt>
 <editionStmt>
 <edition>
@@ -41,11 +33,8 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<<<<<<< HEAD
-<idno>nei.j4a.X.X</idno>
-=======
+
 <idno>nei.j4b.11.88.89</idno>
->>>>>>> d8ce3a0a71513c91a308a65c8487d48c2e2965b4
 <availability>
 <p></p>
 </availability>
@@ -56,15 +45,9 @@
 <sourceDesc>
 <bibl>
 <author></author>
-<<<<<<< HEAD
-<title level="m" type="main"></title>
-<date when="1900"></date>
-<extent>pages</extent>
-=======
 <title level="m" type="main">Letter from Mrs. Mahnkey to Mona Martinsen Neihardt, March 1, 1935</title>
 <date when="1935-03-01">March 1, 1935</date>
 <extent>2 pages</extent>
->>>>>>> d8ce3a0a71513c91a308a65c8487d48c2e2965b4
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -96,17 +79,14 @@
 <term></term>
 </keywords>
 <keywords scheme="original" n="people">
-<<<<<<< HEAD
 <term></term>
 </keywords>
 <keywords scheme="original" n="places">
 <term></term>
-=======
 <term>Neihardt, Sigurd</term>
 </keywords>
 <keywords scheme="original" n="places">
 <term>New York City</term>
->>>>>>> d8ce3a0a71513c91a308a65c8487d48c2e2965b4
 <term></term>
 </keywords>
 <keywords scheme="original" n="works">
@@ -115,40 +95,28 @@
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<<<<<<< HEAD
-<persName></persName>
+<persName>Mrs. Mahnkey</persName>
 <placeName></placeName>
-<date when="1900"/>
+<date when="1958-01-03"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-=======
-<persName>Mrs. Mahnkey</persName>
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
 <placeName></placeName>
 <date when="1935-03-01"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName>Neihardt, Mona Martinsen</persName>
->>>>>>> d8ce3a0a71513c91a308a65c8487d48c2e2965b4
 <placeName></placeName>
 </correspAction>
 </correspDesc>
 <particDesc>
-<<<<<<< HEAD
-<person role="recipient"><persName></persName></person>
-=======
 <person role="recipient"><persName>Neihardt, Mona Martinsen</persName></person>
->>>>>>> d8ce3a0a71513c91a308a65c8487d48c2e2965b4
 </particDesc>
 </profileDesc>
 
 <revisionDesc>
-<<<<<<< HEAD
-<change when="2018"><name></name> </change>
-=======
-<change when="2018"><name>Carney, Mary Jo</name> Transcription</change>
-<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
->>>>>>> d8ce3a0a71513c91a308a65c8487d48c2e2965b4
+<change when="2020"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2020"><name>Hasan, Sara</name> Initial encoding</change>
 
 </revisionDesc>
 </teiHeader>
@@ -157,24 +125,19 @@
 <body>
 
 <div1 type="letter">
-
-<<<<<<< HEAD
-<pb facs="nei.j4a.X.X.001" />
+<pb facs="nei.j4b.11.88.89.001" />
 <fw type="curatorial"></fw>
 <note type="curatorial"></note>
 
 <opener>
 <dateline>
 </dateline>
-<salute></salute>
+<salute>Mrs. Mahnskey was a well-known and much loved old - timer of the Branson Country. Suite a poet too. Note the refers to the burning of the Messiah MS, J.W. </salute>
 </opener>
 
-<?xml version="1.0" encoding="UTF-8"?>
-Mrs. Mahnskey was a well-known and much loved old - timer of the Branson Country. Suite a poet too. Note the refers to the burning of the Messiah MS, J.W. 
-=======
+
 <pb facs="nei.j4b.11.88.89.001" />
 <note>Mrs. Mahnskey was a well-known and much loved old - timer of the Branson Country. Suite a poet too. Note the refers to the burning of the Messiah MS, J.W. 
->>>>>>> d8ce3a0a71513c91a308a65c8487d48c2e2965b4
 Refers To 
 My MOther 
 J.N. </note>
