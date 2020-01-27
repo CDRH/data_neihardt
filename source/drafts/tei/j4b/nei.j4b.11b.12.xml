@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.11b.6.7">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.11b.12">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Mona Martinsen Neihardt to Enid, Hilda, Sigurd, and Alice, Neihardt,
-June 16, 1935</title>
-<author>Neihardt, Mona Martinsen</author>
+<title type="main">Letter from John G. Neihardt to Hilda Neihardt</title>
+<author>Neihardt, John G.</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
 <editionStmt>
@@ -32,7 +31,7 @@ June 16, 1935</title>
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4b.11b.6.7</idno>
+<idno>nei.j4b.11b.12</idno>
 <availability>
 <p></p>
 </availability>
@@ -43,10 +42,9 @@ June 16, 1935</title>
 <sourceDesc>
 <bibl>
 <author></author>
-<title level="m" type="main">Letter from Mona Martinsen Neihardt to Enid, Hilda, Sigurd, and Alice, Neihardt,
-June 16, 1935</title>
-<date when="1935-06-16">June 16th, 1935</date>
-<extent>2 pages</extent>
+<title level="m" type="main">Letter from John G. Neihardt to Hilda Neihardt</title>
+<date when="1900"></date>
+<extent>1 page</extent>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -81,7 +79,7 @@ June 16, 1935</title>
 <term></term>
 </keywords>
 <keywords scheme="original" n="places">
-<term>Kansas City (Mo.)</term>
+<term></term>
 <term></term>
 </keywords>
 <keywords scheme="original" n="works">
@@ -90,22 +88,16 @@ June 16, 1935</title>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Neihardt, Mona Martinsen</persName>
-<placeName ref="http://www.geonames.org/4393217">Kansas City (Mo.)</placeName>
-<date when="1935-06-16"/>
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5081454">Wayne (Neb.)</placeName>
+<date when="1900"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Neihardt, Enid</persName>
-<persName>Neihardt, Alice</persName>
-<persName>Neihardt, Sigurd</persName>
 <persName>Neihardt, Hilda</persName>
-<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+<placeName></placeName>
 </correspAction>
 </correspDesc>
 <particDesc>
-<person role="recipient"><persName>Neihardt, Enid</persName></person>
-<person role="recipient"><persName>Neihardt, Alice</persName></person>
-<person role="recipient"><persName>Neihardt, Sigurd</persName></person>
 <person role="recipient"><persName>Neihardt, Hilda</persName></person>
 </particDesc>
 </profileDesc>
@@ -120,46 +112,30 @@ June 16, 1935</title>
 <text>
 <body>
 
-<div1 type="envelope">
+<div1 type="letter">
 
-<pb facs="nei.j4b.6.7.001" />
-<fw type="curatorial">6
-Fink Collection 
-50</fw>
+<pb facs="nei.j4b.11b.12.001" />
+<fw type="curatorial">12</fw>
 <note type="curatorial"></note>
 
-<fw>Neihardt Branson.</fw>
-<fw>costs less to than any we have wonderful <unclear/> </fw>
-
-<ab type="postmark">KANSAS CITY JUN 16 7 PM 1935 MO.</ab>
-
-<ab>
-<address>
-<addrLine>The Misses Neiahrdt</addrLine>
-<addrLine>Mrs Sigurd Neihardt.</addrLine>
-<addrLine>Branson.
-Mo.</addrLine>
-<addrLine>Taney County.</addrLine>
-</address>
-</ab>
-</div1>
-
-<div1 type="letter">
-<fw type="curatorial">7</fw>
+<fw type="letterhead">NEBRASKA STATE TEACHERS COLLEGE 
+U.S. CONN, PRESIDENT
+WAYNE, NEBRASKA 
+EXECUTIVE SECRETARY
+ELVA B. MILLER</fw>
 <opener>
 <dateline>
 </dateline>
-<salute>Darlings all 4!</salute>
+<salute>Dear Hiddy:</salute>
 </opener>
 
-<p>It is 4, 10 and I am sitting in our car beside a used car Dealer on Troost in Kansas City. Sig and Daddy are look ing at a number of things, among them and Austin, which is ador-able and very economical as a means of transpor tation- It seems it 
-costs less to run an Austin than any big car!
-We have stopped at a wonderful fruit and vegetable marked and have bought: Beans, onions, cherries, turnips, tomatoes and Beets - all for 75 cts. Will I have fun cook ing these things? 
-I love you dear dear kids -</p>
+<p>You &amp; <unclear/> for having the dentist do your work is good. Yes, I know you want to help. I
+don't like the nerve fo a man who will take a human being's time &amp; attention for $3.50 a week.
+Try it awhile, &amp; go ahead with the teeth of the man seems to knwo what to do. </p>
 
 <closer>
-<salute>Write every little thing you think or do to your old Mother.</salute>
-<signed></signed>
+<salute>Endless love </salute>
+<signed>Dad</signed>
 <note></note>
 </closer>
 
