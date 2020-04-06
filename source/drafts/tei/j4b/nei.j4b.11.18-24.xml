@@ -1,49 +1,186 @@
 <?xml version="1.0" encoding="UTF-8"?>
-18
-Fink Collection 
-15
-From Neihardt Branson, Mo. 
-BRANSON JAN 24 3-PM 1935 MO. 
-UNITED STATES POSTAGE <FIGURE/> 3CENTS3 
-Miss Enid Neihardt. 
-<unclear/> Mrs A.E. Martinsen . 
-Hotel Somerset.
-Suite 118. 
-150 West 47th St. 
-New York City. 
-N.Y. 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-19
-Wednesday 
-P.M. 
-My own dearest Enid: 
-It was so wonderful to receive your good letter today (I looked for it yesterday.) 
-I know just how wonderful Amama is to you - and what a privilege it is for you to be with her - and I would not worry about having some time later to be with out her protection, because by the time that comes to pass, you will have made connections and will think little of having to be on your own. I am so grate-ful and glad that you two dear ones are to-gether - and I feel certain that Amama will "stay put this Winter or maybe longer.
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.11.18.24">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Mona Martinsen Neihardt to Enid Neihardt, January 24, 1935</title>
+<author>Neihardt, Martinsen Mona</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.11.18.24</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
 
-2.20
-Daddy is leaving for Omaha tomorrow, Thursday; his address is: Dr. J.G.h. Room 543. Hotel Wellington, 18th "S Farnam, Omaha Neb. he is leaving by train in the after-noon. We have been having a real cold spell and it has been quite uncomfortable the sink out let in the Kitchen is frozen up, and I have to carry out all our kitchen water! Since you left, I have closed off the back room upstairs. Daddy and I sleep in the big front room and Alice has the little room. I still feel lost, Enid darling, but the thought of making my owrk count, so that I can come to see you in New York spurrs me on to work, and then I forget! Work is the greatest blessing in human life. There are many others of course - but work is the greatest, and next comes sleep! 
-Grandma is getting very close to 
+<notesStmt><note></note></notesStmt>
 
-21
-3 
-the last great sleep! Indeed it is very impres-sive and sad to hear her speak with great effort now, as she lies on her back in bed. She aske dme to be sure and tell you that she thinks of you so much of the time! She has the little blanket you retired to her over her bed and she strokes it gently with her hand and says:"This covered our Enid, didn't it? Oh I want her to know that I think of her so much, so much, yes tell her Mona for me!"-You have no idea how much she has failed this week. She hardly looks like herself anymore - And now Daddy must leave - and no one can say how long she will go on breathing - I am hoping she will live till Daddy yet back - for he has to go to get the money to attend to her very last needs on this Earth! Please share all this with Amama
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Mona Martinsen Neihardt to Enid Neihardt, January 24, 1935</title>
+<date when="1935-01-24">January 24, 1935</date>
+<extent>6 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
 
-4
-22
-and tell her that Aunt Lu is here taking entire charge of Mother at her hosue - but of course you will understand that it is quite impossible to have peace of mind unde the present circumstances, which however are not going to be lasting. The paper weight and the 2 Ozark Babies are leaving this week, so you may expect them, and if broken be sure and keep wrappings so that I can get a refund. I am hoping to get $25.00 for the relief of Mary Houses' baby which arrived broken. 
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Martinsen Mona</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+<date when="1935-01-24"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Enid</persName>
+<placeName ref="http://www.geonames.org/5128581">New York City (N.Y.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Enid</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="envelope">
+
+<pb facs="nei.j4b.11.18.24.001" />
+<fw type="curatorial">18</fw>
+<note type="curatorial">Fink Collection 
+15</note>
+
+<fw>From Neihardt Branson, Mo.</fw>
+
+<ab type="postmark">BRANSON JAN 24 3-PM 1935 MO.</ab>
+<figure type="stamp"><ab>UNITED STATES POSTAGE 3CENTS3 </ab></figure>
+<ab>
+<address>
+<addrLine>Miss Enid Neihardt.</addrLine>
+<addrLine><unclear/> Mrs A.E. Martinsen .</addrLine>
+<addrLine>Hotel Somerset.</addrLine>
+<addrLine>Suite 118.</addrLine>
+<addrLine>150 West 47th St.</addrLine>
+<addrLine>New York City. 
+N.Y. </addrLine>
+</address>
+</ab>
+
+
+</div1>
+
+<div1 type="letter">
+<fw type="curatorial">19</fw>
+<opener>
+<dateline>Wednesday 
+P.M.
+</dateline>
+<salute>My own dearest Enid:</salute>
+</opener>
+
+<p>It was so wonderful to receive your good letter today (I looked for it yesterday.) 
+I know just how wonderful Amama is to you - and what a privilege it is for you to be with her - and I would not worry about having some time later to be with out her protection, because by the time that comes to pass, you will have made connections and will think little of having to be on your own. I am so grate-ful and glad that you two dear ones are to-gether - and I feel certain that Amama will "stay put this Winter or maybe longer.</p>
+
+<fw type="authorial">2</fw><fw type="curatorial">20</fw>
+<p>Daddy is leaving for Omaha tomorrow, Thursday; his address is: Dr. J.G.h. Room 543. Hotel Wellington, 18th "S Farnam, Omaha Neb. he is leaving by train in the after-noon. We have been having a real cold spell and it has been quite uncomfortable the sink out let in the Kitchen is frozen up, and I have to carry out all our kitchen water! Since you left, I have closed off the back room upstairs. Daddy and I sleep in the big front room and Alice has the little room. I still feel lost, Enid darling, but the thought of making my owrk count, so that I can come to see you in New York spurrs me on to work, and then I forget! Work is the greatest blessing in human life. There are many others of course - but work is the greatest, and next comes sleep! 
+Grandma is getting very close to </p>
+
+<fw type="authorial">3</fw><fw type="curatorial">21</fw>
+
+<p>the last great sleep! Indeed it is very impres-sive and sad to hear her speak with great effort now, as she lies on her back in bed. She aske dme to be sure and tell you that she thinks of you so much of the time! She has the little blanket you retired to her over her bed and she strokes it gently with her hand and says:"This covered our Enid, didn't it? Oh I want her to know that I think of her so much, so much, yes tell her Mona for me!"-You have no idea how much she has failed this week. She hardly looks like herself anymore - And now Daddy must leave - and no one can say how long she will go on breathing - I am hoping she will live till Daddy yet back - for he has to go to get the money to attend to her very last needs on this Earth! Please share all this with Amama</p>
+
+<fw type="authorial">4</fw><fw type="curatorial">22</fw>
+<p>and tell her that Aunt Lu is here taking entire charge of Mother at her hosue - but of course you will understand that it is quite impossible to have peace of mind unde the present circumstances, which however are not going to be lasting. The paper weight and the 2 Ozark Babies are leaving this week, so you may expect them, and if broken be sure and keep wrappings so that I can get a refund. I am hoping to get $25.00 for the relief of Mary Houses' baby which arrived broken. 
 Let Mary call on you first - if she does not, leave her alone - I have written to her, and it is her duty. 
-Enid, tell me please in your next, whe-ther you got through your "time" this month as you expected to - Did you start work after it was all over? Please tell me. - You will remember that I worry about such things! 
+Enid, tell me please in your next, whe-ther you got through your "time" this month as you expected to - Did you start work after it was all over? Please tell me. - You will remember that I worry about such things! </p>
 
-23
-5
-Daddy does not want you to return any money - I am so glad you can have a fair start. Your dress sounds sensible and pretty and Oh, I am so glad Amamma is knitting you a sweater, that will be lovely! Also I am happy over your wool underwear, and last but not least over your curls - you know that was what I wanted you to do. I never liked that hard roll at the back! 
+<fw type="authorial">5</fw><fw type="curatorial">23</fw>
+<p>Daddy does not want you to return any money - I am so glad you can have a fair start. Your dress sounds sensible and pretty and Oh, I am so glad Amamma is knitting you a sweater, that will be lovely! Also I am happy over your wool underwear, and last but not least over your curls - you know that was what I wanted you to do. I never liked that hard roll at the back! 
 When you go to the Public Li-brary you can think of Auntie Grace in such a building! Be sure to write to her very soon. 
-Sig and Max are back form St Louis they had a good time, staying at Holsens.' who were so <del>you</del> kind to them. Sig bought a new car, a Willis ^8 and is only $240 in debt now! but he has a really good
+Sig and Max are back form St Louis they had a good time, staying at Holsens.' who were so <del>you</del> kind to them. Sig bought a new car, a Willis ^8 and is only $240 in debt now! but he has a really good</p>
 
-24
-6
-car and perfect engine. He is so worried how ever that it is pitiful - why does he do such thigns? I do hope he will come out of it O.K. and the worst that can happen is that he will loose his car. - So I suppose that will be alright too in the long run. - Max has a new long green coat which Sig bought her up there - Do write to them dear. 
+<fw type="authorial">6</fw><fw type="curatorial">24</fw>
+<p>car and perfect engine. He is so worried how ever that it is pitiful - why does he do such thigns? I do hope he will come out of it O.K. and the worst that can happen is that he will loose his car. - So I suppose that will be alright too in the long run. - Max has a new long green coat which Sig bought her up there - Do write to them dear. 
 I'll be looking for a letter from you next Wednesday - you won't miss - I know! 
-Yes dear the important thing for you, is to be your own dependable, useful tactful self at Muusey's; the rest will follow.- Much much love as always to my one and only Enid 
-from Mama. 
-Kitty sleeps on your clothes!  
+Yes dear the important thing for you, is to be your own dependable, useful tactful self at Muusey's; the rest will follow.</p>
+<closer>
+<salute>- Much much love as always to my one and only Enid </salute>
+<signed>from Mama.</signed>
+<note>Kitty sleeps on your clothes! </note>
+</closer>
+ 
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

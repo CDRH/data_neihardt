@@ -1,22 +1,162 @@
 <?xml version="1.0" encoding="UTF-8"?>
-15
-36
-Petri Collection 
-After 5 days, return to
-Neihardt 
-................................
-BRANSON, MO. 
-BRANSON FEB28 2-PM 1934 MO. 
-UNITEDSTATESPOSTAGE <FIGURE/> 3CENTS3
-Miss Hilda Neihardt 
-767 East Elm St., 
-Springfield, 
-Missouri 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-37
-Tuesday Evening. 
-Dear Hiddy: 
-Your letter is sensible. I supposed that perhaps Cralle knew of a situation existing among the students, and based my hope on supposition. I knew from my talk with the book store man that Springfrield doesn't read much, but I had no thought of the general public. Your plan for trying the scheme at Mrs. Henderson's is all right, especially isnce I feel that she will enjoy looking the books over & reading some of them. I really expect very little from the general public-hardly enough to justify the effort; but I"m for your trying. Here's another idea: could you sell to the lending libraries now in operation? Find out if <unclear/>. 
-We'll be coming after you soon. This will reach you on Thursday. I don't promise that we'll be there Friday; but it is probable. The car is in fine shape. 
-Endless love, old kid! 
-Daddy 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.10.36.37">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Hilda Neihardt, February 28, 1934</title>
+<author>Neihardt, John G.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&amp;amp;amp;#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.10.36.37</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from John G. Neihardt to Hilda Neihardt, February 28, 1934</title>
+<date when="1934-02-02">February 28, 1934</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+<date when="1934-02-28"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Petri, Hilda Neihardt</persName>
+<placeName ref="http://www.geonames.org/4409896">Springfield (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Petri, Hilda Neihardt</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name>Carney, Mary Jo.</name> Transcription</change>
+<change when="2019"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="envelope">
+
+<pb facs="nei.j4b.10.36.37.001" />
+<fw type="curatorial">36</fw>
+<note type="curatorial">15 Petri Collection </note>
+
+<fw>After 5 days, return to
+...................................
+Neihardt 
+BRANSON, MO.</fw>
+
+<ab type="postmark">BRANSON FEB28 2-PM 1934 MO.</ab>
+
+<figure type="stamp"><ab>UNITEDSTATESPOSTAGE 3CENTS3</ab></figure>
+
+<ab type="address">
+<address>
+<addrLine>Miss Hilda Neihardt</addrLine>
+<addrLine>767 East Elm Street</addrLine>
+<addrLine>Springfield, Missouri</addrLine>
+</address>
+</ab>
+
+</div1>
+
+<div1 type="letter">
+<fw type="curatorial">37</fw>
+<opener>
+<dateline>Tuesday Evening.
+</dateline>
+<salute>Dear Hiddy:</salute>
+</opener>
+
+<p>Your letter is sensible. I supposed that perhaps Cralle knew of a situation existing among the students, and based my hope on supposition. I knew from my talk with the book store man that Springfrield doesn't read much, but I had no thought of the general public. Your plan for trying the scheme at Mrs. Henderson's is all right, especially isnce I feel that she will enjoy looking the books over &amp; reading some of them. I really expect very little from the general public-hardly enough to justify the effort; but I"m for your trying. Here's another idea: could you sell to the lending libraries now in operation? Find out if <unclear/>. 
+We'll be coming after you soon. This will reach you on Thursday. I don't promise that we'll be there Friday; but it is probable. The car is in fine shape.</p>
+
+<closer>
+<salute>Endless love, old kid!</salute>
+<signed>Daddy</signed>
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

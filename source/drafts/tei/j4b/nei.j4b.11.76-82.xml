@@ -1,43 +1,181 @@
 <?xml version="1.0" encoding="UTF-8"?>
-76 
-23 Fink Collection Feb. 21
-dear dear 
-BRANSON FEB22 7-AM 1935 MO. 
-Miss Enid Neihardt 
-Hotel Somerset. 
-Suite 118 
-150 West 47th St. 
-N.Y. New York City 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-77
-Feb 21st 35
-My own dearest Enid: 
-So much has happened - and Daddy and I are well started on our new life - It really does all seems wonderful, with you children started on your various ways - no one here to stop us from going as we wish - I mean Grandma no longer to be considered-
-Daddy bought a new carpet for our living room and it is gorgeous - a warm, living red. I covered the furni-ture in "natural," a light tan, have pillows to harmonize - the wall re dabbled in the tan 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.11.76.82">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Mona Neihardt Martinsen to Enid Neihardt, February 21, 1935</title>
+<author>Martinsen, Neihardt Mona</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.11.76.82</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
 
-78
-2
-and everything else goes in so beautifully. The curtains very sheer and gold colored - our fern is very strange and big and shows off in the brass gardenier we bought for Grandma years ago - Daddy and I both love the place now - it looks so different. Next thing we will be looking for you to come Home on your way to Omaha! Won't that be marvelous!! Enid tell me if you want me to send you the rug Grandma left for you? Or shall I just keep it here? Of course it will be yours any time you have a place for it. I have laid it in a secluded place in our front room, where it is not walked on any to speak of - your dishes are in 
+<notesStmt><note></note></notesStmt>
 
-79
-3
-our clima closet - ready for you at any time. 
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Mona Neihardt Martinsen to Enid Neihardt, February 21, 1935</title>
+<date when="1935-02-21">February 21, 1935</date>
+<extent>6 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Martinsen Mona</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson, MO</placeName>
+<date when="1935-02-21"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Enid</persName>
+<placeName ref="http://www.geonames.org/5128581">New York City (N.Y.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Enid</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name>Carney, Mary Jo.</name> Transcription</change>
+<change when="2019"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="envelope">
+
+<pb facs="nei.j4b.11.76.82.001" />
+<fw type="curatorial">76</fw>
+<note type="curatorial">23 Fink Collection Feb. 21</note>
+<fw>dear dear </fw>
+
+<ab type="postmark">BRANSON FEB22 7-AM 1935 MO.</ab>
+
+<ab type="address">
+<address>
+<addrLine>Miss Enid Neihardt</addrLine>
+<addrLine>Hotel Somerset.</addrLine>
+<addrLine>Suite 118</addrLine>
+<addrLine>150 West 47th St.</addrLine>
+<addrLine>N.Y. New York City </addrLine>
+</address>
+</ab>
+</div1>
+
+<div1 type="letter">
+<fw type="curatorial">77</fw>
+<opener>
+<dateline>Feb 21st 35
+</dateline>
+<salute>My own dearest Enid:</salute>
+</opener>
+
+<p>So much has happened - and Daddy and I are well started on our new life - It really does all seems wonderful, with you children started on your various ways - no one here to stop us from going as we wish - I mean Grandma no longer to be considered-
+Daddy bought a new carpet for our living room and it is gorgeous - a warm, living red. I covered the furni-ture in "natural," a light tan, have pillows to harmonize - the wall re dabbled in the tan</p>
+
+<fw type="curatorial">78</fw>
+<fw type="authorial">2</fw>
+<p>and everything else goes in so beautifully. The curtains very sheer and gold colored - our fern is very strange and big and shows off in the brass gardenier we bought for Grandma years ago - Daddy and I both love the place now - it looks so different. Next thing we will be looking for you to come Home on your way to Omaha! Won't that be marvelous!! Enid tell me if you want me to send you the rug Grandma left for you? Or shall I just keep it here? Of course it will be yours any time you have a place for it. I have laid it in a secluded place in our front room, where it is not walked on any to speak of - your dishes are in</p>
+
+<fw type="curatorial">79</fw>
+<fw type="authorial">3</fw>
+<p>our clima closet - ready for you at any time. 
 I am so anxious to hear of your meeting Bob Davis....!
 Don't forget to love Amama a whole lot for yourself as well as for me. She and I both live on affection.-
 I'll send some books right soon. 
 We are going to Marvel Came Saturday next - and the week after we will drive to Springfield - It seems so grand to be able to come and go without having to "re-port". We saw "It's a Gift" last night. No plot or invention at all - but Oh how funny Fields makes everything!! I laughed and laughed! 
-I have an A number one 
+I have an A number one </p>
 
-80
-stand on Mr <unclear/> - but have almost no pictures. Daddy is oging to drive me over to the S of O when Mr Good talks at chapel - we dont' know when it will be! I have the tiny baby on the stump in plaster now - and will finish it soon - so much fine work to be done! Tell Amama I did send that last package Express, In-sured - Why did it cost - so much ? 
-Also say that I certainly do not want her to knit that suit for me now - It is not fair at all - I'm glad you are sending <unclear/> the sweater.-Can you use an <unclear/> dress? You know the one I have had here in a box - It is size 16 and would fit you - it is too short for me. Also tell me if you want your blue and white Spring Suit? I am glad you are getting plump - I always 
-
-5 81
-did when Amama fed me! You cannot afford to be thin. 
+<fw type="curatorial">80</fw>
+<p>stand on Mr <unclear/> - but have almost no pictures. Daddy is oging to drive me over to the S of O when Mr Good talks at chapel - we dont' know when it will be! I have the tiny baby on the stump in plaster now - and will finish it soon - so much fine work to be done! Tell Amama I did send that last package Express, In-sured - Why did it cost - so much ? 
+Also say that I certainly do not want her to knit that suit for me now - It is not fair at all - I'm glad you are sending <unclear/> the sweater.-Can you use an <unclear/> dress? You know the one I have had here in a box - It is size 16 and would fit you - it is too short for me. Also tell me if you want your blue and white Spring Suit? I am glad you are getting plump - I always </p>
+<fw type="authorial">5</fw>
+<fw type="curatorial">81</fw>
+<p>did when Amama fed me! You cannot afford to be thin. 
 You are you - and cannot be spoiled by contact with modern America that I know! Mrs Wilson says to tell you that she is still jumping up and down with joy at your being away from here! - Miss Bennet keeps asking all about you. She has found out old stringy Ike - and has made him a proposition so work 3 days a week at present salary or quit the first of March! Roland Fletcher married Aera Pemberton - and what next? Poor Vera - she surely married a O. 
-Max had the then but is better now - Both are getting along just fine in ev-ery way. Sig may lose his car but 
+Max had the then but is better now - Both are getting along just fine in ev-ery way. Sig may lose his car but</p>
 
-82
-<del>but</del> what is the difference? It's all in a life time - and what counts is that they are both sensible and so happy together. - I am making a Presbyterian code would you like one? I'd like to send you one. 
-Loads of Love to my own dear dear Enid from 
-Mama. 
+<fw type="curatorial">82</fw>
+<p><del>but</del> what is the difference? It's all in a life time - and what counts is that they are both sensible and so happy together. - I am making a Presbyterian code would you like one? I'd like to send you one. </p>
+<closer>
+<salute>Loads of Love to my own dear dear Enid from </salute>
+<signed>Mama.</signed>
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

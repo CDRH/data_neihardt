@@ -1,23 +1,164 @@
 <?xml version="1.0" encoding="UTF-8"?>
-9 
-18
-Petri Collection 
-ST. LOUIS POST-DISPATCH 
-"Of Making Many Books"
-<figure/> JOHN G. NEIHARDT <figure/> 
-BRANSON, MISSOURI 
-Monday 
-Dear Hiddy:
-Here are $4 more ^for the things you need. I am leaving this evening for Mineapolis, and will be gone until Sunday, Jan 28th. 
-Endless love, Hiddy! 
-Daddy. 
-After 5 days, return to 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.10.18">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Hilda Neihardt, January 15, 1934</title>
+<author>Neihardt, John G.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.10.18</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from John G. Neihardt to Hilda Neihardt, January 15, 1934</title>
+<date when="1934-01-15">January 15, 1934</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+<date when="1934-01-15"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Petri, Hilda Neihardt</persName>
+<placeName ref="http://www.geonames.org/4409896">Springfield (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Petri, Hilda Neihardt</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name>Carney, Mary Jo.</name> Transcription</change>
+<change when="2019"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.10.18.001" />
+<fw type="curatorial">18</fw>
+<note type="curatorial">9 Petri Collection</note>
+
+<fw type="letterhead">ST. LOUIS POST-DISPATCH 
+"Of Making Many Books" 
+<figure><ab> JOHN G. NEIHARDT</ab></figure>
+BRANSON, MISSOURI</fw>
+<opener>
+<dateline>Monday
+</dateline>
+<salute>Dear Hiddy:</salute>
+</opener>
+
+<p>Here are $4 more ^for the things you need. I am leaving this evening for Mineapolis, and will be gone until Sunday, Jan 28th.</p>
+
+<closer>
+<salute>Endless love, Hiddy!</salute>
+<signed>Daddy.</signed>
+<note></note>
+</closer>
+
+</div1>
+
+<div1 type="envelope">
+<fw>After 5 days, return to 
 Neihardt 
-............................
-BRANSON, MO. 
-NEWPORT&CARTH T222 JAN '5 1934 
-UNITEDSTATESPOSTAGERMS3CENTS3
-Miss Hilda Neihardt 
-767 East Elm St., 
-Springfield 
-Mo. 
+.............................
+BRANSON, MO. </fw>
+
+<ab type="postmark">NEWPORT&amp;CARTH T222 JAN '5 1934</ab>
+
+<figure type="stamp"><ab>UNITEDSTATESPOSTAGERMS3CENTS3</ab></figure>
+
+<ab type="return">
+<address>
+<addrLine>Miss Hilda Neihardt</addrLine>
+<addrLine>767 East Elm St</addrLine>
+<addrLine>Springfield,
+Mo.</addrLine>
+</address>
+</ab>
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI> 

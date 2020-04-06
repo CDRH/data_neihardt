@@ -1,23 +1,157 @@
 <?xml version="1.0" encoding="UTF-8"?>
-0a
-Some letterhead! eh? 
-Sig <del>JOHN</del> G. NEIHARDT 
-BRANSON, MISSOURI 
-Mon-Nite. 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.10.0a">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Sigurd Neihardt to Maxine M. Neihardt, January 2nd, 1933</title>
+<author>Neihardt, Sigurd</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&amp;#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.10.0a</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Sigurd Neihardt to Maxine M. Neihardt, January 2nd, 1933</title>
+<date when="1933-01-02">January 2nd, 1933</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Sigurd</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+<date when="1933-01-02"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Maxine M.</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Maxine M.</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2019"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.10.0a.001" />
+<fw type="curatorial">0a</fw>
+<note type="authorial">Some letterhead! eh?</note>
+<fw type="letterhead">Sig <del>JOHN</del> G. NEIHARDT 
+BRANSON, MISSOURI </fw>
+
+<opener>
+<dateline>Mon-Nite. 
 Jan. 2, '33 7:40 P.M. 
-My sweetheart-
-Here I am - sitting here, missing you so terribly! Your dear picture is before me, however, and it does sure make a difference. 
+</dateline>
+<salute>My sweetheart-</salute>
+</opener>
+
+<p>Here I am - sitting here, missing you so terribly! Your dear picture is before me, however, and it does sure make a difference. 
 i am so glad you like my pciture, as it is characteristic, even tho' it may be a little light in color. 
-I couldn't do without your sweet picture - now that I have it, & where I can always see it I know we have come closer ^than ever in our love and understanding of each other. 
+I couldn't do without your sweet picture - now that I have it, &amp; where I can always see it I know we have come closer ^than ever in our love and understanding of each other. 
 Darlin', I know how much it means to me - to have your true love. there-fore I can understand exactly how both of us feel. Nearly how, anyway. It is all so wonderful. There coudln't possibly be anything finer. 
 You are the "bracer" and happiness to me that I cannot describe in any other way than to say: I lvoe you endlessly and will not limit the extent to which I will go for the benefit of 
-(over) 
+(over) </p>
 
-making you happy & keeping you that way. 
-I never have been able to figure out how I ever was lucky enough to have you come into my life & make me so happy & grateful for the wonderful things there really are in this life. 
+<p>
+making you happy &amp; keeping you that way. 
+I never have been able to figure out how I ever was lucky enough to have you come into my life &amp; make me so happy &amp; grateful for the wonderful things there really are in this life. 
 You dear, sweet girl, you have been so patient, and true to me, that I know things were meant to be as they are; otherwise we would never have found each other at the time we did, which ws so necessary. 
 I can't imagine even, what would have happened if I hadn't been so lucky as to meet you when I did. 
-Sweet girl, I am so tired and sleepy (feel fine tho') and must get a good rest so that I can hone those Auburn cylinders in the morning. Paul call it ^a "Blonde" 'stead of ^an "Auburn" car. he is such a good fellow & I'm glad to have a chance to be with him. 
+Sweet girl, I am so tired and sleepy (feel fine tho') and must get a good rest so that I can hone those Auburn cylinders in the morning. Paul call it ^a "Blonde" 'stead of ^an "Auburn" car. he is such a good fellow &amp; I'm glad to have a chance to be with him. 
 I wanted to see you this evening, dear, but I was all "dirty" and in a hurry to get my duties (chores) done up. 
-Will see you Tues. nite tho' & am so glad, darlin'. 
-I love you always, Sig. 
+Will see you Tues. nite tho' &amp; am so glad, darlin'. </p>
+
+<closer>
+<salute>I love you always,</salute>
+<signed>Sig.</signed>
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

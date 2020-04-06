@@ -1,21 +1,163 @@
 <?xml version="1.0" encoding="UTF-8"?>
-128 
-THIS SPACE FOR WRITING MESSAGES 
-10-10-'32
-Manhattan, Kan. 
-Dearest Max, 
-Am in such an awful rush - this this "excuse" for a letter! Card's ^are no good! Had tiresome trip yesterday from Fulton MO. to man-hattan via K.C. Mo. an average of 58 m.p.h. y, was a "have-to" case, & was very cautious: no more speedin' like that thank goodness! I love & miss you always, Sig. 
-MANHATTAN OCT 20 1030AM 1932 KANS. 
-C.BT. AMERICAN ART COLORED <FIGURE/> T CHICAGO 
-POST CARD 
-THIS SPACE FOR ADDRESS ONLY 
-UNITEDSTATESPOSTAGE <FIGURE/> FRANKLIN 1CENT1
-Miss Maxine Melton, 
-Branson,
-Missouri. 
-JOHN G. NEIHARDT CENTER 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-POYNTZ AVENUE, MANHATTAN, KANSAS 
-<FIGURE/> 
-BRANSON, MO. OCT 21 1932 
-4240-29
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.9.128">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Postcard from Sigurd Neihardt to Maxine M. Neihardt, October 10, 1932</title>
+<author>Neihardt, Sigurd</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&amp;#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.9.128</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Postcard from Sigurd Neihardt to Maxine M. Neihardt, October 10, 1932</title>
+<date when="1932-10-10">October 10, 1932</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Sigurd</persName>
+<placeName ref="http://www.geonames.org/4274994">Manhattan (Kan.)</placeName>
+<date when="1932-10-10"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Maxine M. </persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Maxine M. </persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="postcard">
+
+<pb facs="nei.j4b.9.128.001" />
+<fw type="curatorial">128</fw>
+<note type="authorial">THIS SPACE FOR WRITING MESSAGES </note>
+
+<opener>
+<dateline>10-10-'32
+Manhattan, Kan. 
+</dateline>
+<salute>Dearest Max,</salute>
+</opener>
+
+<p>Am in such an awful rush - this this "excuse" for a letter! Card's ^are no good! Had tiresome trip yesterday from Fulton MO. to man-hattan via K.C. Mo. an average of 58 m.p.h. y, was a "have-to" case, &amp; was very cautious: no more speedin' like that thank goodness! </p>
+
+<ab type="postmark">MANHATTAN OCT 20 1030AM 1932 KANS.</ab>
+<fw>C.BT. AMERICAN ART COLORED <figure><ab> T CHICAGO </ab></figure></fw>
+
+<fw>POST CARD 
+THIS SPACE FOR ADDRESS ONLY </fw>
+
+<figure type="stamp"><ab>UNITEDSTATESPOSTAGE <figure><ab> FRANKLIN 1CENT1</ab></figure></ab></figure>
+
+<ab>
+<address>
+<addrLine>Miss Maxine Melton,</addrLine>
+<addrLine>Branson, 
+Missouri. </addrLine>
+</address>
+</ab>
+<fw>JOHN G. NEIHARDT CENTER</fw>
+
+<ab type="postmark">BRANSON, MO. OCT 21 1932 </ab>
+<fw>POYNTZ AVENUE, MANHATTAN, KANSAS </fw>
+<figure></figure>
+<fw>
+4240-29</fw>
+<closer>
+<salute>I love &amp; miss you always, </salute>
+<signed>Sig. </signed>
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

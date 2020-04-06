@@ -1,40 +1,203 @@
 <?xml version="1.0" encoding="UTF-8"?>
-8
-Petri Collection 
-13
-ST. LOUIS POST-DISPATCH 
-"Of Making Many Books" 
-<figure/> JOHN G. NEIHARDT <figure/> 
-pm Branson Dec 10 1933
-BRANSON, MISSOURI 
-December 10 
-1 9 3 3 
-Dear Hiddy: 
-That was a bully letter. 
-I am sure you were headed in the right direction, even though you could not clearly see your way, in your comment on Cralle's attitudes. 
-What he says of proof is essentially sophistry. The conception of proof involves a definite conception of truth. His statement reveals no definition of the term truth. If it be supposed that somehow there is a universally valid truth, then he is right becaus no man can know such truth. But all the truth we can have, being limited as we are, is of a relative nature--relative to human experience. Such truth can be proved; for it is a matter of abiding relation-ships in human experience. 
-The value of Spengler's Decline of the West does not depend upon the provable validity of the thesis he elaborates, but upon the light that is generated in the intellectual process of elaborating the thesis. I told Cralle this when I urged that he read the work. Just to follow a powerful and richly furnished mind in a great intellectual adventure is an extremely valuable experience. 
-As for his limitation of interest to the period in which he and his immediate offspring shall live, he is fundamentally mistaken, and the mistake grows out of the individualistic conception of life which is central in our present time-mood. To discuss social problems from the viewpoint of individualism involves an obvious contradiction! In discussing social problems 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-14
-ST. LOUIS POST-DISPATCH 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.10.11.12">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Hilda Neihardt, December 10, 1933</title>
+<author>Neihardt, John G.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&amp;#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.10.13.14</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from John G. Neihardt to Hilda Neihardt, November 4th, 1933</title>
+<date when="1933-12-10">December 10th, 1933</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+<date when="1933-11-04"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Petri, Hilda Neihardt</persName>
+<placeName ref="http://www.geonames.org/4409896">Springfield (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Petri, Hilda Neihardt</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2019"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+
+
+<div1 type="letter">
+<fw type="curatorial">8
+Petri Collection 
+13</fw>
+<fw type="letterhead">ST. LOUIS POST-DISPATCH 
 "Of Making Many Books" 
-<figure/> JOHN G. NEIHARDT <figure/> 
-BRANSON, MISSOURI 
--2-
-the individual must be regarded as merely a transient mani-festation of the continuing social stream. The race endures, not the individual. Social problems are therefore precisely time problems; and the individualist is hopelessly provincial in the time sense. Wisdom of any sort emerges only when the self is lost in the greatest thing the self can concieve, and no one can be wise in his approach to social problems so long as he is unable to feel the continuing life of the race as being, in the last analysis, all that can give the slightest significance to his own brief fussing about on this planet. 
-But Cralle is quite able to raise great questions, and he is therefore an excellent teacher for you. 
-The Post-Dispatch is bent on having me there to write editorials. I have replied that everything depends upon the liberality of the offer they can make. 
-The State College at Moorhead, Minnesota, which is one with Fargo, N. D., has offered me $200.00 for alecture on January 17, and will help me get other engagements. The Auburn is now being re-ducoed. 
-Alice and I got a big duck on the Boswell pond yesterday! 
-Love always, 
-Dad 
-After 5 days, return to
+<figure><ab>JOHN G. NEIHARDT</ab></figure>
+pm Branson Dec 10 1933
+BRANSON, MISSOURI </fw>
+<opener>
+<dateline>December 10 
+1 9 3 3 
+</dateline>
+<salute>Dear Hiddy:</salute>
+</opener>
+
+<p>That was a bully letter.</p>
+
+<p> 
+I am sure you were headed in the right direction, even though you could not clearly see your way, in
+your comment on Cralle's attitudes.</p>
+ 
+<p>What he says of proof is essentially sophistry. The conception of proof involves a definite conception of truth. His statement reveals no definition of the term truth. If it be supposed that somehow there is a universally valid truth, then he is right becaus no man can know such truth. But all the truth we can have, being limited as we are, is of a relative nature--relative to human experience. Such truth can be proved; for it is a matter of abiding relation-ships in human experience. </p>
+
+<p>The value of Spengler's Decline of the West does not depend upon the provable validity of the
+thesis he elaborates, but upon the light that is generated in the intellectual process of elaborating the thesis. I told Cralle this when I urged that he read the work. Just to follow a powerful and richly furnished mind in a great intellectual adventure is an extremely valuable experience. </p>
+
+<p>As for his limitation of interest to the period in which he and his immediate offspring shall live, he is fundamentally mistaken, and the mistake grows out of the individualistic conception of life which is central in our present time-mood. To discuss social problems from the viewpoint of individualism involves an obvious contradiction! In discussing social problems </p>
+
+<fw type="curatorial">14</fw>
+<fw type="letterhead">ST. LOUIS POST-DISPATCH 
+"Of Making Many Books" 
+<figure><ab>JOHN G. NEIHARDT</ab></figure>
+pm Branson Dec 10 1933
+BRANSON, MISSOURI </fw>
+<fw type="authorial">-2-</fw>
+
+<p>the individual must be regarded as merely a transient mani-festation of the continuing social stream. The race endures, not the individual. Social problems are therefore precisely time problems; and the individualist is hopelessly provincial in the time sense. Wisdom of any sort emerges only when the self is lost in the greatest thing the self can concieve, and no one can be wise in his approach to social problems so long as he is unable to feel the continuing life of the race as being, in the last analysis, all that can give the slightest significance to his own brief fussing about on this planet.</p>
+
+<p>But Cralle is quite able to raise great questions, and he is therefore an excellent teacher for you.</p>
+
+<p>The Post-Dispatch is bent on having me there to write editorials. I have replied that everything depends upon the liberality of the offer they can make.</p>
+
+<p>The State College at Moorhead, Minnesota, which is one with Fargo, N. D., has offered me $200.00 for alecture on January 17, and will help me get other engagements.</p>
+
+<p>The Auburn is now being re-ducoed.</p>
+
+<p>Alice and I got a big duck on the Boswell pond yesterday!</p>
+<closer>
+<salute>Love always,  </salute>
+<signed>Dad</signed>
+<note></note>
+</closer>
+
+</div1>
+
+<div1 type="envelope">
+
+<pb facs="nei.j4b.10.11.12.001" />
+<fw type="curatorial">11</fw>
+<note type="curatorial">7 Petri Collection 11</note>
+
+<fw>After 5 days, return to 
 J.C. Neihardt 
-................
-BRANSON, MO. 
-BRANSON DEC 10 4-PM 1933 MO. 
-UNITEDSTATESPOSTAGE <FIGURE/> 3CENTS3
-Miss Hilda Neihardt 
-767 East Elm Street 
-Springfield, Missouri 
+..............................
+BRANSON, MO.
+</fw>
+
+<ab type="postmark">BRANSON DEC 10 4-PM 1933 MO. </ab>
+
+<figure type="stamp"><ab>UNITEDSTATESPOSTAGE SPECIAL DELIVERY <figure><ab> 10TENCENTS10</ab></figure></ab></figure>
+
+<figure type="stamp"><ab>UNITEDSTATESPOSTAGE <figure><ab> 3CENTS3</ab></figure></ab></figure>
+
+<ab type="address">
+<address>
+<addrLine>Miss Hilda Neihardt </addrLine>
+<addrLine>767 East Eden St.,</addrLine>
+<addrLine>Springfield, Missouri </addrLine>
+</address>
+</ab>
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

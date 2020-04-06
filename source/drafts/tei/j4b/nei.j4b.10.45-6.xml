@@ -1,25 +1,170 @@
 <?xml version="1.0" encoding="UTF-8"?>
-April 1934
-45
-Darling Hilda: 
-Daddy says to tell you that he will come to Springfield to get you and Elanita tomorrow as usual. 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.10.45.46">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Mona Neihardt to Hilda Neihardt, April, 1934</title>
+<author>Neihardt, Mona</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&amp;amp;amp;amp;#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.10.44</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Mona Neihardt to Hilda Neihardt, April, 1934</title>
+<date when="1934-04">April, 1934</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Mona Martinsen</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+<date when="1934-03-24"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Petri, Hilda Neihardt</persName>
+<placeName ref="http://www.geonames.org/4409896">Springfield (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Petri, Hilda Neihardt</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name>Carney, Mary Jo.</name> Transcription</change>
+<change when="2019"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+<pb facs="nei.j4b.10.38.39.001" />
+<fw type="curatorial"></fw>
+<note type="curatorial"></note>
+<fw type="curatorial">45</fw>
+<opener>
+<dateline>April 1934
+</dateline>
+<salute>Darling Hilda: </salute>
+</opener>
+
+<p>Daddy says to tell you that he will come to Springfield to get you and Elanita tomorrow as usual. 
 Too bad this letter had to go so late. 
 I am afraid to drive up as I <del>all</del> always get the headache and I don't want to be sick this time when you girls are home. 
-Love as always darling - 
-Mamma. 
+</p>
 
-20
-46 Petri Collection 
-After 5 days, return to 
+<closer>
+<salute>Love as always darling - </salute>
+<signed>Mamma. </signed>
+<note></note>
+</closer>
+
+</div1>
+
+<div1 type="envelope">
+
+<fw type="curatorial">20</fw>
+<fw type="curatorial">46 Petri Collection</fw>
+<fw>After 5 days, return to
+...................................
 Neihardt 
-.............................
-BRANSON, MO. 
-UNITEDSTATESPOSTAGE SPECIAL DELIVERY <FIGURE/> 10TENCENTS10
-UNITEDSTATESPOSTAGE <FIGURE/> 3CENTS3 
-8
-Fee claimed at 
-Springfield, Mo. 
-Miss Hiddy Neihardt 
-767 East Elm St., 
-Springfield, 
-Mo. 
+BRANSON, MO.</fw>
+
+
+<figure type="stamp"><ab>SPECIAL DELIVERY UNITEDSTATESPOSTAGE 10TENCENTS10</ab></figure>
+
+<figure type="stamp"><ab>UNITEDSTATESPOSTAGE 3CENTS3</ab></figure>
+
+<ab type="address">
+<address>
+<addrLine>Miss Hilda Neihardt</addrLine>
+<addrLine>767 East Elm Street</addrLine>
+<addrLine>Springfield, Missouri</addrLine>
+</address>
+</ab>
+
+<fw>Special Delive</fw>
+<fw>Fee claimed at 
+Springfield, Mo.</fw>
+</div1>
+
+</body>
+
+<back></back>
+</text>
+</TEI>

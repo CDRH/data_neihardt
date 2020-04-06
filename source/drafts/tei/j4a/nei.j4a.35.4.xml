@@ -1,23 +1,159 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 4
-University of Missouri
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.35.4">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Elmer Ellis to John G. Neihardt to, January 11, 1971</title>
+<author></author>
+<principal></principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.35.4</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Elmer Ellis to John G. Neihardt to, January 11, 1971</title>
+<date when="1971-01-11"></date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term>Cycle of the West</term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="http://viaf.org/viaf/77930588">Ellis, Elmer, 1901-1989</persName>
+<placeName ref="http://www.geonames.org/4381982">Columbia (Mo.)</placeName>
+<date when="1971-01-11"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.35.4.001" />
+<fw type="curatorial">4</fw>
+<note type="curatorial"></note>
+
+<fw type="letterhead">University of Missouri
 COLUMBIA KANSAS CITY ROLLA ST. LOUIS
 
 OFFICE OF THE PRESIDENT EMERITUS
 323 Jesse Hall, Columbia 65201
-Area 314 449-9232
+Area 314 449-9232</fw>
+<opener>
+<dateline>January 11, 1971
+</dateline>
+<address>
+<addrLine>Dear John Neihardt</addrLine>
+<addrLine>5835 Vine Street</addrLine>
+<addrLine>Lincoln, Nebraska 68505</addrLine>
+</address>
+<salute>Dear John:</salute>
+</opener>
 
-January 11, 1971
+<p>I want to express my unhappiness in not being able to attend the birthday party you had and I am
+afraid many were unable to attend because of the weather. In my case, I was at Norfolk, Virginia,
+trying to help a fairly new university there get on its feet. I also want to thank you tremendously
+for that Christmas present. While I had read all of the <hi rend="underline">Cycle of the West</hi> and had some of the early volumes, I did not have the complete set and I am certainly glad to have them. The other volume I had overlooked and had not read. I shall do so with great interest.</p>
 
-Dear John Neihardt
-5835 Vine Street
-Lincoln, Nebraska 68505
+<p>I do have a few extra copies of my <hi rend="underline">Senator Tellor</hi> which I published a long time ago. I am going to send you a copy.</p>
 
-Dear John:
-<p>I want to express my unhappiness in not being able to attend the birthday party you had and I am afraid many were unable to attend because of the weather. In my case, I was at Norfolk, Virginia, trying to help a fairly new university there get on its feet. I also want to thank you tremendously for that Christmas present. While I had read all of the <underline>Cycle of the West</underline> and had some of the early volumes, I did not have the complete set and I am certainly glad to have them. The other volume I had overlooked and had not read. I shall do so with great interest.</p>
-<p>I do have a few extra copies of my <underline>Senator Tellor</underline> which I published a long time ago. I am going to send you a copy.</p>
 <p>We were particularly pleased with your inscription with the two book to us.</p>
-Cordially and best wishes,
+
+<closer>
+<salute>Cordially and best wishes,</salute>
 <signed>Elmer + Ruth</signed>
-ELMER ELLIS
-EE:ds
+<note type="authorial">ELMER ELLIS</note>
+<note type="authorial">EE:ds</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

@@ -1,19 +1,152 @@
 <?xml version="1.0" encoding="UTF-8"?>
-ST. LOUIS POST-DISPATCH 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.8.10.11">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Alice Culler Neihardt, Feb 1929</title>
+<author>Neihardt, John G.</author>
+<principal>Gpssin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.8.10.11</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from John G. Neihardt to Alice Culler Neihardt, Feb 1929</title>
+<date when="1929-02">Feb 2019</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/4407066">St. Louis (Mo.)</placeName>
+<date when="1929-02"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Alice Culler</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Alice Culler</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.8.10.11.001" />
+<fw type="curatorial">10</fw>
+<note type="curatorial"></note>
+
+<fw type="letterhead">ST. LOUIS POST-DISPATCH 
 EDITORIAL DEPARTMENT 
-Missouri Collection 
-ST. LOUIS, MO 10
-Saturday. 
+Missouri Collection ST. LOUIS, MO 10</fw>
+<opener>
+<dateline>Saturday. 
 [Feb. 1929 possibly 9]
 1929
-Dear Mamma:
-I'm in quite a quandry as to what I should do about taking Macmillan's advice to quit here and devote all my time to finishing the MESSIAH. I think I told you of my talk with Latham. The point is that Robinson has now been put over big, and Latham said "It is your turn next". I am just about convinced that I have been deliberately held back for Robinson, but he is 11 years older than I. Mona has suggested that I go down there with you for some time and write there. That might be a good thing to do, but I don't see clear yet. The medium - a fine one who told all about the New York affair before I went - says I shoudl stop here right away and finish that thing I have started, that it will raise me "high" and that afterward I will keep on "going higher and higher", and that what I do will grow long after I'm gone. Whether she knows anything or not, I think it will be just about that way. Once they get one of my books put over big, the whole tremendous volume of my stuff will come into action. I want you to stay to see that, and I doubt if it will be long. I want you to stay to see that, and I doubt if it will be long. It could well be within three years. The medium says it will start early next year. There can be no doubt but that Macmillans - the whole organization - <del/> have <unclear/> belief in me, from Brett, the president, down. It is in their interest now to make me a big seller, and it's practically impossible to put over more than one poet at the same time. The idea is to get one of the big book clubs to buy my next book for its members. The Book of the Month Club has 70,000 members, and 
+</dateline>
+<salute>Dear Mamma:</salute>
+</opener>
 
-11
-<unclear/> an initial distribution of a book means 2 or 3 times as big a sale on that book, while it would start all my other books going strong. 
+<p>I'm in quite a quandry as to what I should do about taking Macmillan's advice to quit here and devote all my time to finishing the MESSIAH. I think I told you of my talk with Latham. The point is that Robinson has now been put over big, and Latham said "It is your turn next". I am just about convinced that I have been deliberately held back for Robinson, but he is 11 years older than I. Mona has suggested that I go down there with you for some time and write there. That might be a good thing to do, but I don't see clear yet. The medium - a fine one who told all about the New York affair before I went - says I shoudl stop here right away and finish that thing I have started, that it will raise me "high" and that afterward I will keep on "going higher and higher", and that what I do will grow long after I'm gone. Whether she knows anything or not, I think it will be just about that way. Once they get one of my books put over big, the whole tremendous volume of my stuff will come into action. I want you to stay to see that, and I doubt if it will be long. I want you to stay to see that, and I doubt if it will be long. It could well be within three years. The medium says it will start early next year. There can be no doubt but that Macmillans - the whole organization - <del/> have <unclear/> belief in me, from Brett, the president, down. It is in their interest now to make me a big seller, and it's practically impossible to put over more than one poet at the same time. The idea is to get one of the big book clubs to buy my next book for its members. The Book of the Month Club has 70,000 members, and</p>
+
+<fw type="curatorial">11</fw>
+
+<p><unclear/> an initial distribution of a book means 2 or 3 times as big a sale on that book, while it would start all my other books going strong. 
 I know something is brewing, but I can't quite get at it. All the mediums have been telling me the same ting for a year. Schmidt first said it in springfield, and at Branson he said a lot more in the same direction. 
 How are you enjoying the cold weather? How about your coal? Be sure to let me know when you read something or have a bill to pay. 
-Anna Hempstend Branch sent you a collection of her mother songs, and she autographed the most beautiful of those for you. I will send the poems when I get home. 
-With endless love, 
-Jno. 
-Please quit us per request of McMillan's 
+Anna Hempstend Branch sent you a collection of her mother songs, and she autographed the most beautiful of those for you. I will send the poems when I get home.</p>
+
+<closer>
+<salute>With endless love,</salute>
+<signed>Jno.</signed>
+<note>Please quit us per request of McMillan's </note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

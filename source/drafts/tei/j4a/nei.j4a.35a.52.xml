@@ -1,12 +1,12 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.33.13a">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.35a.52">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Bruce H. Nicoll to John G. Neihardt, February 24, 1969</title>
-<author>Nicoll, Bruce H.</author>
+<title type="main">Letter from James Tibensky to John G. Neihardt, May 3 1971</title>
+<author>Tibensky, James</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
 <editionStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4a.33.13a</idno>
+<idno>nei.j4a.35a.52</idno>
 <availability>
 <p></p>
 </availability>
@@ -42,8 +42,8 @@
 <sourceDesc>
 <bibl>
 <author></author>
-<title level="m" type="main">Letter from Bruce H. Nicoll to John G. Neihardt, February 24, 1969</title>
-<date when="1969-02-24">February 24, 1969</date>
+<title level="m" type="main">Letter from James Tibensky to John G. Neihardt, May 3 1971</title>
+<date when="1971-05-03">May 3 1971</date>
 <extent>1 page</extent>
 </bibl>
 <msDesc>
@@ -83,15 +83,14 @@
 <term></term>
 </keywords>
 <keywords scheme="original" n="works">
-<term>The Song of the Indian Wars</term>
-<term>The Old Man Remembers</term>
+<term></term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName ref="https://viaf.org/viaf/311317741">Nicoll, Bruce Hilton (1912- )</persName>
-<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
-<date when="1969-02-24"/>
+<persName>Tibensky, James</persName>
+<placeName></placeName>
+<date when="1900"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
@@ -115,43 +114,58 @@
 
 <div1 type="letter">
 
-<pb facs="nei.j4a.33.13a.001" />
-<fw type="curatorial">13a</fw>
+<pb facs="nei.j4a.35a.52.001" />
+<fw type="curatorial">52</fw>
 <note type="curatorial"></note>
 
-<fw type="letterhead">THE UNIVERSITY OF NEBRASKA
-LINCOLN, NEBRASKA 68508
-OFFICE OF THE DIRECTOR 
-UNIVERSITY OF NEBRASKA PRESS</fw>
-
 <opener>
-<dateline>February 24, 1969
+<dateline>May 3 1971
 </dateline>
-<address>
-<addrLine>Dr. John G. Neihardt</addrLine>
-<addrLine>5835 Vine Street</addrLine>
-<addrLine>Lincoln, Nebraska 69505</addrLine>
-</address>
-<salute>Dear Dr. Neihardt:</salute>
+<salute>Dear Dr. Neihardt,</salute>
 </opener>
 
-<p>Whenever it is convenient, please send along the copy correcting several lines in "The Song of the Indian Wars". This way we will have copy in the office ready when we plan another reprint.</p>
-
-<p>I am anxiously looking forward to "The Old Man Remembers".</p>
-
-<p>Have you heard anything lately form Oregon and your biographer?</p>
-
+<p>Just a quick note to say how much I enjoyed the Dick Cavette show April 27. It was like being there with you again. Many of my students saw it and learned from it also. I was happy to see my bracelet too!</p>
+<p>I got married yesterday! We were married in Washington U.'s chapel. My new wife is named Gail. She + I both worked at the Chicago Indian Center, which is where we met. The maid of honor was the youth worker from the Center, and two of the quests were Sioux.</p>
+<p>My parents say the TV special and enjoyed it. It was really a great show.</p>
+<p>Regards to the Youngs. I hope you are all well and at least half as happy as I am right now.</p>
 
 <closer>
-<salute>Cordially,</salute>
-<signed>UNIVERSITY OF NEBRASKA PRESS
-Bruce</signed>
-<note>Bruce H. Nicoll
-Director</note>
-<fw type="authorial">BHN:mj</fw>
-<note>possible word written by Neihardt, pointed out by unclear in letter</note>
+<salute>Love,</salute>
+<signed>Jim Tibensky</signed>
+<note></note>
 </closer>
 
+</div1>
+
+<div1 type="envelope">
+
+<ab type="return">
+<address>
+<addrLine>JAMES TIBENSKY
+</addrLine>
+<addrLine>5662 WATERMAN AV
+</addrLine>
+<addrLine>SAINT LOUIS MO 63112
+</addrLine>
+</address>
+</ab>
+
+<note>Wrote Gaki <unclear/> after his marriage!</note>
+
+<ab type="address">
+<address>
+<addrLine>Dr. John Neihardt
+</addrLine>
+<addrLine>5835 Vine Street
+</addrLine>
+<addrLine>Lincoln, Nebraska
+</addrLine>
+<addrLine>68505</addrLine>
+</address>
+</ab>
+
+<figure type="stamp"><ab>Ink Stamp: SAINT LOUIS MO IA -PM 3 MAY 1971</ab></figure>
+<figure type="stamp"><ab>Stamp:  UNITED STATES  ALWAYS USE ZIP CODE  AMERICA'S WOOL</ab></figure>
 </div1>
 </body>
 

@@ -1,29 +1,169 @@
 <?xml version="1.0" encoding="UTF-8"?>
-60
-Fink Collection 
-32
-Tuesday:
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.11b.60.63">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Mona Martinsen Neihardt to Alice, Hilda, Enid, and Sigurd Neihardt,
+July 2, 1935</title>
+<author>Neihardt, Mona Martinsen</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.11b.60.63</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Mona Martinsen Neihardt to Alice, Hilda, Enid, and Sigurd Neihardt,
+July 2, 1935</title>
+<date when="1935-07-02">July 2, 1935</date>
+<extent>pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term>Neihardt Maxine Melton</term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term>The Messiah</term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Mona Martinsen</persName>
+<placeName></placeName>
+<date when="1935-07-02"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Alice</persName>
+<persName>Neihardt, Enid</persName>
+<persName>Neihardt, Hilda</persName>
+<persName>Neihardt, Sigurd</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Alice</persName></person>
+<person role="recipient"><persName>Neihardt, Enid</persName></person>
+<person role="recipient"><persName>Neihardt, Hilda</persName></person>
+<person role="recipient"><persName>Neihardt, Sigurd</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2020"><name>Carney, Mary Jo.</name> Transcription</change>
+<change when="2020"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.11b.60.63.001" />
+<fw type="curatorial">60</fw>
+<note type="curatorial">Fink Collection 
+32</note>
+
+<opener>
+<dateline>Tuesday:
 [July 2, 1935]
-Dearest Children: 
-I just have to keep talking to you! 
+</dateline>
+<salute>Dearest Children: </salute>
+</opener>
+
+<p>I just have to keep talking to you! 
 It seems so wrong for Sig ^you Sig and Max to plan to go any where else than home to us, until Sig can do better. Daddys says: "they should be at home, don't you remember how nice it was when they were there? We hated to see them go - and now that the Messiah will be finished it would be foolish for them not to be there." Sig, dear boy, as to your 
-Piano. Try placing it in an empty house that is easy to get to! I would suggest try-ing the house on the corner between Mr Melton's and Roy's Store - that is where your first Piano came from, and the place always seems sort of sacred to me... It stood vacant when we left; find out who has it for rent and ask if you migth place your grand piano in it while 
+Piano. Try placing it in an empty house that is easy to get to! I would suggest try-ing the house on the corner between Mr Melton's and Roy's Store - that is where your first Piano came from, and the place always seems sort of sacred to me... It stood vacant when we left; find out who has it for rent and ask if you migth place your grand piano in it while </p>
 
-61
-it stands empty. Pay 1 or 2 dollars for the privilege - I am sure you can do this.- If however I should be mistaken, bring your Piano home, have the driver back up from be-hind our cave straight to the back door of my studio, which is the big-gest door to our house, and place the piano right in the middle of the floor of my studio. There you can practice every morning without bothering any body - and Daddy will not hear it enough to be a nuissance to him in his work. 
-Then you can feel at peace - and Maxie can take her time to get well and then, when you are ready, you can both decide to move whereever it seems best. Please don't feel 
+<fw type="curatorial">61</fw>
+<p>it stands empty. Pay 1 or 2 dollars for the privilege - I am sure you can do this.- If however I should be mistaken, bring your Piano home, have the driver back up from be-hind our cave straight to the back door of my studio, which is the big-gest door to our house, and place the piano right in the middle of the floor of my studio. There you can practice every morning without bothering any body - and Daddy will not hear it enough to be a nuissance to him in his work. 
+Then you can feel at peace - and Maxie can take her time to get well and then, when you are ready, you can both decide to move whereever it seems best. Please don't feel </p>
 
-62
-Sigurd Neihardt Collection 
-[1935]
-rushed - and do what you can to help Daddy to help you. Since Daddy wants to hold you up till you can get on your feet, it seems right that we should all be together, which is bound to cut down expenses for him. 
+<fw type="curatorial">62</fw>
+<fw>Sigurd Neihardt Collection 
+[1935]</fw>
+<p>rushed - and do what you can to help Daddy to help you. Since Daddy wants to hold you up till you can get on your feet, it seems right that we should all be together, which is bound to cut down expenses for him. 
 Daddy is the best daddy that ever lived, and I do believe it: He is the greatest pack of all time. 
 I love to think of all 
 of you dear children together to come back to. I think it will take Daddy another week to finish the Messiah What a Religion is in this grand poem! 
-I'll be with you the night of the 5th at Harrison - I know you will do wonders - and wish I might know all about it. What you are 
+I'll be with you the night of the 5th at Harrison - I know you will do wonders - and wish I might know all about it. What you are</p>
 
-63
-going to play and whether or not Maxine can be there - also whether you are going to stay over night. Be sure and tell Daddy if you need more money. Tell him just how you stand, he wants you to do so, and he will never fail you. 
-Max dear, I did a good big wash ing this morning: 2 blankets, 3 pillow cases, 2 dresses, 1 night gown 1 pair pajammas, 2 shirts, 2 socks, 2 hose 2 handkerchiefs 4 napkins, 1 dish towel and long set of underwear - now how's that? I sleep and rest nearly all the time unless I am writing home or walk-ing about - also have been to 4 good movies - Tonight is Bank night and we go of course!!
-Loads of Love 
-Mom. 
+<fw type="curatorial">63</fw>
+<p>going to play and whether or not Maxine can be there - also whether you are going to stay over night. Be sure and tell Daddy if you need more money. Tell him just how you stand, he wants you to do so, and he will never fail you. 
+Max dear, I did a good big wash ing this morning: 2 blankets, 3 pillow cases, 2 dresses, 1 night gown 1 pair pajammas, 2 shirts, 2 socks, 2 hose 2 handkerchiefs 4 napkins, 1 dish towel and long set of underwear - now how's that? I sleep and rest nearly all the time unless I am writing home or walk-ing about - also have been to 4 good movies - Tonight is Bank night and we go of course!!</p>
+
+<closer>
+<salute>Loads of Love</salute>
+<signed>Mom.</signed>
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

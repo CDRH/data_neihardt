@@ -1,21 +1,169 @@
 <?xml version="1.0" encoding="UTF-8"?>
-45 Piper Collection Feb. 14, 1929 
-13
-Box 255 
-Branson
-Mo. 
-BRANSON FEB 14 1-PM 1929 MO. 
-UNITEDSTATESPOSTAGE <FIGURE/> 2CENTS2
-Miss Mildred Piper 
-Wayne State Normal 
-Wayne Nebr. 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-14
-Thursday
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.13.15">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Alice Culler Neihardt to Mildred Piper February 14, 1929</title>
+<author>Neihardt, Alice Culler</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.13.15</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Alice Culler Neihardt to Mildred Piper February 14, 1929</title>
+<date when="1929-02-14">February 14, 1929</date>
+<extent>3 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Alice Culler</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+<date when="1929-02-14"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Piper, Mildred</persName>
+<placeName ref="http://www.geonames.org/5081454">Wayne (Neb.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Alice Culler</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.13.15.001" />
+<fw type="curatorial">14</fw>
+<note type="curatorial"></note>
+
+<opener>
+<dateline>Thursday
 Feb.-14-1929
-My dear little girl-
-Your letter should have been answered days ago-but I have been laboring under a heavy claim of the Flee and not until this morning have I felt the least desire to write to Even you-It was so lovely of you to tell me all about the lovely New building-but you did not say it was named Neihardt, and did they have a program? I was so sorry John could not be there-But he was a guest of the Poetry Society of New York City for a whole week, a great triumph for him-they have at last "let down the bars"- They have had to face the fact 
+</dateline>
+<salute>My dear little girl-</salute>
+</opener>
 
-15
-that all good things are not East of the Mississippi river.-It was a great success for John in many ways - they were jjust "bowled over" figuratively speaking when he <del>he</del> read to <unclear/> 
-He met celebrities from England and all the best in the East. I was so happy that at last John is one of them by their own acknowledgement-but he would have been happy to be in Wayne-I recieved the package and it is such a body one-just the things I need.-Have just finished a wool rug made from wool rugs and some yarn. for in front of my fireplace, very pretty.-the months are going fast sock it will be time to pack your car and start for the Ozarks-I hope you can manage to be here when John and Mona have their vocation here. love to you dear little girl-lovingly Alice Neihardt 
+<p>Your letter should have been answered days ago-but I have been laboring under a heavy claim of the Flee and not until this morning have I felt the least desire to write to Even you-It was so lovely of you to tell me all about the lovely New building-but you did not say it was named Neihardt, and did they have a program? I was so sorry John could not be there-But he was a guest of the Poetry Society of New York City for a whole week, a great triumph for him-they have at last "let down the bars"- They have had to face the fact</p>
+
+<fw type="curatorial">15</fw>
+<p>that all good things are not East of the Mississippi river.-It was a great success for John in many ways - they were jjust "bowled over" figuratively speaking when he <del>he</del> read to <unclear/> 
+He met celebrities from England and all the best in the East. I was so happy that at last John is one of them by their own acknowledgement-but he would have been happy to be in Wayne-I recieved the package and it is such a body one-just the things I need.-Have just finished a wool rug made from wool rugs and some yarn. for in front of my fireplace, very pretty.-the months are going fast sock it will be time to pack your car and start for the Ozarks-I hope you can manage to be here when John and Mona have their vocation here. love to you dear little girl</p>
+
+<closer>
+<salute>-lovingly</salute>
+<signed>Alice Neihardt </signed>
+<note></note>
+</closer>
+
+</div1>
+<div1 type="envelope">
+
+<note type="curatorial">45 Piper Collection Feb. 14, 1929 
+13</note>
+
+<ab>
+<address>
+<addrLine>Box 255</addrLine>
+<addrLine>Branson</addrLine>
+<addrLine>Mo.</addrLine>
+</address>
+</ab>
+
+<figure type="stamp"><ab>BRANSON FEB 14 1-PM 1929 MO. 
+UNITEDSTATESPOSTAGE  2CENTS2</ab></figure>
+
+<ab>
+<address>
+<addrLine>Miss Mildred Piper</addrLine>
+<addrLine>Wayne State Normal</addrLine>
+<addrLine>Wayne Nebr.</addrLine>
+</address>
+</ab>
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

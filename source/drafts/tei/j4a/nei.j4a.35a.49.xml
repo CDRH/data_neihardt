@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.35a.49">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John L. Casteel to John G. Neihardt, May 1, 1971</title>
+<author>Casteel, John L.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.35a.49</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from John L. Casteel to John G. Neihardt, May 1, 1971</title>
+<date when="1971-05-01">May 5 1971</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term>Black Elk, 1863-1950</term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Casteel, John L.</persName>
+<placeName ref="http://www.geonames.org/4843079/simsbury.html">Simsbury (CT)</placeName>
+<date when="1971-05-01"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.35a.49.001" />
+<fw type="curatorial">49</fw>
+<note type="curatorial"></note>
+
+<opener>
+<address>
+<addrLine>John L. Casteel</addrLine>
+<addrLine>482 Bushy Hill Road</addrLine>
+<addrLine>Simsbury, Conn. 06070</addrLine>
+</address>
+<dateline>May 1, 1971
+</dateline>
+<salute>Dear Dr. Neihardt:</salute>
+</opener>
+
+<p>What a moving and happy thing it was to hear and see you on the Dick Cavett show this past week. It was a cause for personal satisfaction to see you so well and so much alive and so ready in response. But it was also a great thing to have you before us as one who has entered so deeply and knowingly into the heritage of our land, and who has saved and made memorable for us such a significant part of our experience in America. And how right and fitting that you should be very much alive with us as we are beginning to recover that part of our past, rather than our doing it sometime after you were no longer here.</p>
+<p>When Dick Cavett said that he was "thrilled" to be talking to you, who had known men who had had a part in the Custer battle, I felt he was speaking for many of us,--a sort of "Did you see Shelley plain?"</p>
+<p>The discussion of Black Elk sent me back to my copy--one of the first edition, I think,--and the carbon of the <sic>ltter</sic> I had written you when I first read it, and your gracious reply. I found in it, also, the review by Stanley Vestal, and your <sic>genersou</sic> reply in the Saturday Review, and then his more temprate review in the Nation. Well, it is wonderful to have all this coming into its own--and to know that you are able to see all this coming about.</p>
+<p>In your recent letter, you mentioned the album of your readings. May I ask who has produced it and where it might be obtainable?</p>
+<p>Many the Cirlce stay unbroken for you, and the Mysterious One favor you!</p>
+
+<closer>
+<salute>Yours sincerely,</salute>
+<signed>John L. Casteel</signed>
+<note>John L. Casteel</note>
+<note>Dr. John G. Neihardt
+5835 Vine Street
+Lincoln, Nebraska 68505</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

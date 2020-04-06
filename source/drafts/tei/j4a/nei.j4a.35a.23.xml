@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.33.7">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.35a.23">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Phydella Hogan to John G. Neihardt, January 23, 1969</title>
-<author>Hogan, Phydella</author>
+<title type="main">Letter from Lyn Hall Walker to John G. Neihardt, April 28, 1971</title>
+<author>Walker, Lyn H.</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
 <editionStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4a.33.7</idno>
+<idno>nei.j4a.35a.23</idno>
 <availability>
 <p></p>
 </availability>
@@ -42,8 +42,8 @@
 <sourceDesc>
 <bibl>
 <author></author>
-<title level="m" type="main">Letter from Phydella Hogan to John G. Neihardt, January 23, 1969</title>
-<date when="1969-01-23">January 23, 1969</date>
+<title level="m" type="main">Letter from Lyn Hall Walker to John G. Neihardt, April 28, 1971</title>
+<date when="1971-04-28">April 28, 1971</date>
 <extent>1 page</extent>
 </bibl>
 <msDesc>
@@ -83,14 +83,14 @@
 <term></term>
 </keywords>
 <keywords scheme="original" n="works">
-<term>CYCLE</term>
+<term></term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName ref="https://viaf.org/viaf/50884752">Hogan, Phydella</persName>
-<placeName></placeName>
-<date when="1969-01-23"/>
+<persName>Walker, Lyn Hall</persName>
+<placeName ref="http://www.geonames.org/4395052">Liberty (Mo.)</placeName>
+<date when="1971-04-28"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
@@ -106,6 +106,7 @@
 <change when="2018"><name>Morrison, Ashley</name> Transcription</change>
 <change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
 
+
 </revisionDesc>
 </teiHeader>
 
@@ -114,31 +115,26 @@
 
 <div1 type="letter">
 
-<pb facs="nei.j4a.33.7.001" />
-<fw type="curatorial">7</fw>
+<pb facs="nei.j4a.35a.23.001" />
+<fw type="curatorial">23</fw>
 <note type="curatorial"></note>
 
+<fw type="letterhead">WILLIAM JEWELL COLLEGE
+LIBERTY, MISSOURI 64068</fw>
 <opener>
-<dateline>1-23-69
+<dateline>April 28, 1971
 </dateline>
 <salute>Dear Dr. Neihardt,</salute>
 </opener>
 
-<p>This is not a bid for continued correspondence but I certainly want to thank you for your courteous reply to my other letter. Mrs. Young had also written to me while you were in the hospital and I had not actually expected an answer from either of you. I know your time must be very limited. I do wish it was possible to visit you personally and perhaps it might be at some time.</p>
-
-<p>I want to thank you especially for explaining the verse form used in the CYCLE. I don't see how it would permit itself being read without the proper pauses, the lines fall so naturally into place but the rhyming of each two lines had me puzzled as I was under the impression that this was what a couplet was. I knew that all the other couplet type poems I had read would not have done for an epic poem; the choppy sound would have become monotonous in the extreme. I know when a poem sounds right--at least I think I do--but my education is sadly lacking as to the whys and wherefores that make it right. And no matter what technique you used I still feel it must be very difficult to use that rhyme throughout such long poetry.</p>
-
-<p>Also I could never sustain the proper rhythm for so long. You are absolutely right about it adding to the meaning of the lines. At least it does for me.</p>
-
-<p>I have been trying to write poetry at odd moments --very odd ones-- for several years and if I should ever come close to doing one I felt was really good I would be as happy as I have ever hoped to be. You are right in another thing, you did write your poetry for me.</p>
-
-<p>Thank you again and God bless you.</p>
+<p>Haywood, my parents and I wanted to let you know how much pleasure your T.V. interview with Dick <sic>Cavatt</sic> gave us. We had been looking forward to it since February when Hilda was in Kansas City and told us that it has been taped...Of course, we knew that it would be delightful but it even exceeded our expectations.</p>
+<p>Moreover, it came at just exactly the right time. I had spent all day Tuesday grading freshman research papers. Basically because of the tremendous problem of plagiarism, this is a difficult and discouraging task for me. And even at the time for your program to begin I was still angry. But you calmed me and made me feel good again with your comment: "It takes courage to be good." I had never thought of it that way.</p>
+<p>Thank you for that for a perfect evening.</p>
 
 <closer>
-<salute>Sincerely,</salute>
-<signed>Phydella Hogan</signed>
-<note>Phydella Hogan
-no address</note>
+<salute>Fondly,</salute>
+<signed>Lyn</signed>
+<note>Lyn Hall Walker</note>
 </closer>
 
 </div1>

@@ -1,51 +1,192 @@
 <?xml version="1.0" encoding="UTF-8"?>
-69
-OPPOSITE UNION STATION ALL OUTSIDE ROOMS 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.69.71">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Sigurd Neihardt to Maxine M. Neihardt, February 15, 1932</title>
+<author>Neihardt, Sigurd</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&amp;#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.69.71</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Sigurd Neihardt to Maxine M. Neihardt, February 15, 1932</title>
+<date when="1932-02-15">February 15, 1932</date>
+<extent>3 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Sigurd</persName>
+<placeName ref="http://www.geonames.org/4398730">Moberly (Mo.)</placeName>
+<date when="1932-02-05"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Maxine M.</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Maxine M.</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2019"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.9.69.71.001" />
+<fw type="curatorial">69</fw>
+<note type="curatorial"></note>
+
+<fw type="letterhead">OPPOSITE UNION STATION ALL OUTSIDE ROOMS 
 ALL NEW FURNISHINGS PRIVATE BATHS 
-<FIGURE/>
 HOTEL RANDOLPH 
 EUROPEAN PLAN 
 A GOOD HOTEL IN A GOOD CITY 
 LADIES RECEPTION PARLORS 
 MOBERLY, MO. 
 "GREG" MEADOR
-PROPRIETOR 
-NOT SO LARGE BUT JUST AS GOOD 
-Dear Max,
-Loafin' aroun' here in Moberly now - to kill time! 
-Went thru mark Twain's home & cave etc, also saw his monument overlooking the Mississippi River! 
-The car is running beautifully, & very comfortable too! In spite of teh engine being more powerful, it gives more gas & oil mileage! 
+PROPRIETOR
+<add>NOT SO LARGE BUT JUST AS GOOD</add>
+</fw>
 
-70 
-OPPOSITE UNION STATION ALL OUTSIDE ROOMS 
+<opener>
+<dateline>
+</dateline>
+<salute>Dear Max,</salute>
+</opener>
+
+<p>Loafin' aroun' here in Moberly now - to kill time! 
+Went thru mark Twain's home &amp; cave etc, also saw his monument overlooking the Mississippi River! 
+The car is running beautifully, &amp; very comfortable too! In spite of teh engine being more powerful, it gives more gas &amp; oil mileage!</p>
+
+<fw type="curatorial">70</fw>
+<fw type="letterhead">OPPOSITE UNION STATION ALL OUTSIDE ROOMS 
 ALL NEW FURNISHINGS PRIVATE BATHS 
-    <FIGURE/>
     HOTEL RANDOLPH 
     EUROPEAN PLAN 
     A GOOD HOTEL IN A GOOD CITY 
     LADIES RECEPTION PARLORS 
     MOBERLY, MO. 
     "GREG" MEADOR
-    PROPRIETOR 
-    NOT SO LARGE BUT JUST AS GOOD 
-Hannibal is surely an old place, and how! Was interesting to see S.L. Clemen's name in the cave high up in the top of a pass! I don't know of anything to write so I'll stop! I have missed you something terrible! Saw a few good shows different places, & did wish for you! 
+    PROPRIETOR</fw>
+    <ab>NOT SO LARGE BUT JUST AS GOOD </ab>
+
+<p>Hannibal is surely an old place, and how! Was interesting to see S.L. Clemen's name in the cave high up in the top of a pass! I don't know of anything to write so I'll stop! I have missed you something terrible! Saw a few good shows different places, &amp; did wish for you! 
 I played really well at Lindenwood for a change! 
 (over) 
 
-I'm just now starting to feel like myself! Getting ready to go to Sedalia & kill more time! Next program is at Warrensburg Wed. Nite! Then - home we go! With all kindest tho'ts 
-Love to you, 
-your S.N. 
-JOHN G. NEIHARDT CENTER 
+I'm just now starting to feel like myself! Getting ready to go to Sedalia &amp; kill more time! Next program is at Warrensburg Wed. Nite! Then - home we go! With all kindest tho'ts </p>
+<closer>
+<salute>Love to you,</salute>
+<signed>your S.N.</signed>
+<fw type="curatorial">JOHN G. NEIHARDT CENTER</fw>
+</closer>
 
-71
-RETURN IN 5 DAYS 
-<FIGURE/> 
-Hotel Randolph 
+</div1>
+<div1 type="envelope">
+<fw type="curatorial">71</fw>
+
+<note>RETURN IN 5 DAYS</note>
+
+<figure><ab>Hotel Randolph 
 European - Modern 
 OPPOSITE UNION STATION 
-MOBERLY, MO. 
-MOBERLY FEB 15 1030AM 1932 MO. 
-UNITEDSTATESPOSTAGE <FIGURE/> WASHINGTON 2CENTS2 
-Miss Maxine Melton, 
-Branson, Missouri. 
-<figure/>
+MOBERLY, MO.</ab></figure>
+
+<ab type="postmark">MOBERLY FEB 15 1030AM 1932 MO.</ab>
+
+<figure type="stamp"><ab>UNITEDSTATESPOSTAGE <figure><ab> WASHINGTON 2CENTS2</ab> </figure> </ab></figure>
+
+<ab type="return">
+<address>
+<addrLine>Miss Maxine Melton,</addrLine>
+<addrLine>Branson, Missouri.</addrLine>
+</address>
+</ab>
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

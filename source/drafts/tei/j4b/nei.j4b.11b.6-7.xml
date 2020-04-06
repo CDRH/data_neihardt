@@ -1,19 +1,171 @@
 <?xml version="1.0" encoding="UTF-8"?>
-6
-Fink Collection 
-50
-Neihardt Branson. 
-costs less to than any we have wonderful <unclear/> 
-KANSAS CITY JUN 16 7 PM 1935 MO. 
-The Misses Neiahrdt 
-Mrs Sigurd Neihardt.
-Branson.
-Mo. 
-Taney County. 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-7
-Darlings all 4!
-It is 4, 10 and I am sitting in our car beside a used car Dealer on Troost in Kansas City. Sig and Daddy are look ing at a number of things, among them and Austin, which is ador-able and very economical as a means of transpor tation- It seems it 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.11b.6.7">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Mona Martinsen Neihardt to Enid, Hilda, Sigurd, and Alice, Neihardt,
+June 16, 1935</title>
+<author>Neihardt, Mona Martinsen</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2020</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.11b.6.7</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Mona Martinsen Neihardt to Enid, Hilda, Sigurd, and Alice, Neihardt,
+June 16, 1935</title>
+<date when="1935-06-16">June 16th, 1935</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term>Kansas City (Mo.)</term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Mona Martinsen</persName>
+<placeName ref="http://www.geonames.org/4393217">Kansas City (Mo.)</placeName>
+<date when="1935-06-16"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Enid</persName>
+<persName>Neihardt, Alice</persName>
+<persName>Neihardt, Sigurd</persName>
+<persName>Neihardt, Hilda</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Enid</persName></person>
+<person role="recipient"><persName>Neihardt, Alice</persName></person>
+<person role="recipient"><persName>Neihardt, Sigurd</persName></person>
+<person role="recipient"><persName>Neihardt, Hilda</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2020"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2020"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="envelope">
+
+<pb facs="nei.j4b.6.7.001" />
+<fw type="curatorial">6
+Fink Collection 
+50</fw>
+<note type="curatorial"></note>
+
+<fw>Neihardt Branson.</fw>
+<fw>costs less to than any we have wonderful <unclear/> </fw>
+
+<ab type="postmark">KANSAS CITY JUN 16 7 PM 1935 MO.</ab>
+
+<ab>
+<address>
+<addrLine>The Misses Neiahrdt</addrLine>
+<addrLine>Mrs Sigurd Neihardt.</addrLine>
+<addrLine>Branson.
+Mo.</addrLine>
+<addrLine>Taney County.</addrLine>
+</address>
+</ab>
+</div1>
+
+<div1 type="letter">
+<fw type="curatorial">7</fw>
+<opener>
+<dateline>
+</dateline>
+<salute>Darlings all 4!</salute>
+</opener>
+
+<p>It is 4, 10 and I am sitting in our car beside a used car Dealer on Troost in Kansas City. Sig and Daddy are look ing at a number of things, among them and Austin, which is ador-able and very economical as a means of transpor tation- It seems it 
 costs less to run an Austin than any big car!
 We have stopped at a wonderful fruit and vegetable marked and have bought: Beans, onions, cherries, turnips, tomatoes and Beets - all for 75 cts. Will I have fun cook ing these things? 
-I love you dear dear kids - Write every little thing you think or do to your old Mother. 
+I love you dear dear kids -</p>
+
+<closer>
+<salute>Write every little thing you think or do to your old Mother.</salute>
+<signed></signed>
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

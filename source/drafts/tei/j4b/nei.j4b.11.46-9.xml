@@ -1,28 +1,188 @@
 <?xml version="1.0" encoding="UTF-8"?>
-46
-Fink Collection 
-17 
-Neihardt Branson Mo. 
-OMAHA, NEBR. FEB 5, 4PM 1935 BURLINGTON ST. 
-UNITEDSTATES <FIGURE/> 3CENTS3 
-Miss Enid Neihardt 
-Hotel Somerset 
-150 West 47th St., 
-New York City 
-Suite #118
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-47
-Tuesday A.M. 
-Dearest Enat:
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.11.46.49">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Enid Neihardt, February 5, 1935</title>
+<author>Neihardt, John G.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.11.46.49</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from John G. Neihardt to Enid Neihardt, February 5, 1935</title>
+<date when="1935-02-05">February 5, 1935</date>
+<extent>pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5074472">Omaha (Neb.)</placeName>
+<date when="1935-02-05"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Enid</persName>
+<placeName ref="http://www.geonames.org/5128581">New York City (N.Y.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Enid</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="envelope">
+<fw type="curatorial">46</fw>
+<fw type="curatorial">Fink Collection 
+17</fw>
+
+<fw>Neihardt Branson Mo.</fw>
+<ab type="postmark">OMAHA, NEBR. FEB 5, 4PM 1935 BURLINGTON ST.</ab>
+<figure type="stamp"><ab>UNITEDSTATES 3CENTS3</ab></figure>
+
+<ab type="address">
+<address>
+<addrLine>Miss Enid Neihardt</addrLine>
+<addrLine>Hotel Somerset</addrLine>
+<addrLine>150 West 47th St.,</addrLine>
+<addrLine>New York City</addrLine>
+<addrLine>Suite #118</addrLine>
+</address>
+</ab>
+</div1>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.11.46.49.001" />
+<fw type="curatorial">47</fw>
+<note type="curatorial"></note>
+
+<opener>
+<dateline>Tuesday A.M.
+</dateline>
+<salute>Dearest Enat:</salute>
+</opener>
+
+<p>
 I'm so grateful for those two letters out of your heart. I'm run raggd here and am very eary, but I want to write something without any more delay. 
-First, I must say that Dr. Sealock's secretary will quit at the end of this year, as I think I wrote you, she is now married & plans to being raising a family after this year. A sensible, planning young woman, certainly. I will try for the job, & Sealock is very much a friend, so is Mrs. S, It could possibly be landed. But listen to this, dearest and one of the best of all Girls! Think of your present general situation like this: YOu are not definitely cut off from all that is dear to you, nothing is cut off. Your ships are not burned behind you. This si not hte beginning of a strange new life by yoruself. You are only away going to school, just as Hiddy is. Yours is an educational institution as mu9ch as hers, & it is bigger, more complex. I do not think you will necessarily stay in the 
+First, I must say that Dr. Sealock's secretary will quit at the end of this year, as I think I wrote
+you, she is now married &amp; plans to being raising a family after this year. A sensible, planning
+young woman, certainly. I will try for the job, &amp; Sealock is very much a friend, so is Mrs. S,
+It could possibly be landed. But listen to this, dearest and one of the best of all Girls! Think of
+your present general situation like this: YOu are not definitely cut off from all that is dear to
+you, nothing is cut off. Your ships are not burned behind you. This si not hte beginning of a
+strange new life by yoruself. You are only away going to school, just as Hiddy is. Yours is an educational institution as mu9ch as hers, &amp; it is bigger, more complex. I do not think you will necessarily stay in the </p>
 
-48
-2-
-East; but you are gaining & shall gain a breadth of view & understanding in addition to practice in your work that will make you far moe valuable, tha's all you are there for. It is temporary, consider it so & learn & give yourself up to the wood of the lpace. See all you can, hear all you can, make it your business to use New York as a big college If you stay next year, I think Hiddy will be with you going to Columbia University. You can have a kitchenette apartment & what times you'd have together! She could go there as well as anywhere else. You are not going to be cut off in anyway, Right now, dearest girl, you are "closer to us than breathing." Believe that life is good, because it just is. I know it is and do not forget that good & beautiful things are ahead. 
+<fw type="curatorial">48</fw>
+<fw type="authorial">2-</fw>
 
-49
+<p>
+East; but you are gaining &amp; shall gain a breadth of view &amp; understanding in addition to
+practice in your work that will make you far moe valuable, tha's all you are there for. It is
+temporary, consider it so &amp; learn &amp; give yourself up to the wood of the lpace. See all you
+can, hear all you can, make it your business to use New York as a big college If you stay next year,
+I think Hiddy will be with you going to Columbia University. You can have a kitchenette apartment
+&amp; what times you'd have together! She could go there as well as anywhere else. You are not going
+to be cut off in anyway, Right now, dearest girl, you are "closer to us than breathing." Believe
+that life is good, because it just is. I know it is and do not forget that good &amp; beautiful things are ahead. </p>
+
+<fw type="curatorial">49</fw>
+<p>
 for you. I think you will swing back to our West, but New York is your college now, and to think, Enot, you are paying your own way in the big school! You must set aside a certain reasonable amount to be spent for seeing good plays. You should hear some opera see art galleries. Try not to miss the more important things in New York. 
-You have not yet met Dave's, & how fine that will be & how different it will make you feel, and you haven't yet met any of the people, I know, when I get home I'll write letters to some people for you. Lackam is in England or you would have seen him by now. 
-I feel what you feel so deeply I love you, dear. 
-Your Dad 
+You have not yet met Dave's, &amp; how fine that will be &amp; how different it will make you feel, and you haven't yet met any of the people, I know, when I get home I'll write letters to some people for you. Lackam is in England or you would have seen him by now. 
+I feel what you feel so deeply  </p>
+
+<closer>
+<salute>I love you, dear.</salute>
+<signed>Your Dad </signed>
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

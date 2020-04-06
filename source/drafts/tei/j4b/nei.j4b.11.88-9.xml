@@ -1,19 +1,165 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Mrs. Mahnskey was a well-known and much loved old - timer of the Branson Country. Suite a poet too. Note the refers to the burning of the Messiah MS, J.W. 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.11.88.89">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Mrs. Mahnkey to Mona Martinsen Neihardt, March 1, 1935</title>
+<author>Mahnkey</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+
+<idno>nei.j4b.11.88.89</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Mrs. Mahnkey to Mona Martinsen Neihardt, March 1, 1935</title>
+<date when="1935-03-01">March 1, 1935</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term>Neihardt, Sigurd</term>
+</keywords>
+<keywords scheme="original" n="places">
+<term>New York City</term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Mrs. Mahnkey</persName>
+<placeName></placeName>
+<date when="1958-01-03"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+<date when="1935-03-01"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Mona Martinsen</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Mona Martinsen</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2020"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2020"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+<pb facs="nei.j4b.11.88.89.001" />
+<fw type="curatorial"></fw>
+<note type="curatorial"></note>
+
+<opener>
+<dateline>
+</dateline>
+<salute>Mrs. Mahnskey was a well-known and much loved old - timer of the Branson Country. Suite a poet too. Note the refers to the burning of the Messiah MS, J.W. </salute>
+</opener>
+
+
+<pb facs="nei.j4b.11.88.89.001" />
+<note>Mrs. Mahnskey was a well-known and much loved old - timer of the Branson Country. Suite a poet too. Note the refers to the burning of the Messiah MS, J.W. 
 Refers To 
 My MOther 
-J.N. 
+J.N. </note>
+<fw type="curatorial"></fw>
+<note type="curatorial">8 Neihardt Collection 88</note>
 
-8 Neihardt Collection 88
-Oasis Mo. March 1, 1935.
-Mrs.Neihardt, dear friend. 
-When I read in Branson paegr of Mr.Sigurd's marriage, and then of Miss Enid going to New York, I thought, O how lonely they will be, and now, with the little mother gone away, it will be real lonliness. 
-How beautifully she lived, in her little flowery house, and how happy are we for knowing her, and how happy you can be who did so much, I think of her so often, with her pretty blue coat, and her dainty little gloves, and her inspiring little ways. She was a real companion. and has left an influence that shall be everlasting. 
-I gireved over the loss of the manuscript,and thought how gallantly he bore his loss. Maybe in going into it again. he will be inspired to some thing else, for in my humble little work, I see that very frequently if I go back and re-read some thing I wrote maybe a long time ago, it opnes a little door out into a fresh and lovely garden. 
-It was such a pleasure to hear you play,and another ish granted,one number was the most beautiful thing I ever heard, I am speaking of the last club meeting I attend.When Miss Palmer lectured, and you played. This selection had a sort of running trill,simply heart breakingly sweet,wish I had known the name. 
-Some day you will be coming out,wish you could come and camp in the little shack that was made form teh old,old black smith shop,there is a little out door rock oven,very crude,where happy people have cooked happy meals,and Mr.Neihardt will feel the strange presence of the hills and the water, and walking along the haunted lane,may hear the ghost!That would be a new and impressive series of Ozark stories, to make a study of the h'anted lanes,and hollers. the ghost in this lane is phantom horse hoofs,galloping,galloping,my little daughter heard it, and old timers say it has been heard before. 
-I'm sorry that I cant stop this,without my bad habit of sticking in a home made poem, but my friends are kind,and display much fortitude,an forgive me.This one is about your playing. Sincerely,Mrs.Nahnkey. 
-Magic.
+<opener>
+<dateline>Oasis Mo. March 1, 1935.
+</dateline>
+<salute>Mrs.Neihardt, dear friend.</salute>
+</opener>
+
+<p>When I read in Branson paegr of Mr.Sigurd's marriage, and then of Miss Enid going to New York, I thought, O how lonely they will be, and now, with the little mother gone away, it will be real lonliness. 
+How beautifully she lived, in her little flowery house, and how happy are we for knowing her, and how happy you can be who did so much, I think of her so often, with her pretty blue coat, and her dainty little gloves, and her inspiring little ways. She was a real companion. and has left an influence that shall be everlasting.</p>
+
+<p>I gireved over the loss of the manuscript,and thought how gallantly he bore his loss. Maybe in going into it again. he will be inspired to some thing else, for in my humble little work, I see that very frequently if I go back and re-read some thing I wrote maybe a long time ago, it opnes a little door out into a fresh and lovely garden. 
+It was such a pleasure to hear you play,and another ish granted,one number was the most beautiful thing I ever heard, I am speaking of the last club meeting I attend.When Miss Palmer lectured, and you played. This selection had a sort of running trill,simply heart breakingly sweet,wish I had known the name.</p>
+
+<p>Some day you will be coming out,wish you could come and camp in the little shack that was made form teh old,old black smith shop,there is a little out door rock oven,very crude,where happy people have cooked happy meals,and Mr.Neihardt will feel the strange presence of the hills and the water, and walking along the haunted lane,may hear the ghost!That would be a new and impressive series of Ozark stories, to make a study of the h'anted lanes,and hollers. the ghost in this lane is phantom horse hoofs,galloping,galloping,my little daughter heard it, and old timers say it has been heard before. 
+I'm sorry that I cant stop this,without my bad habit of sticking in a home made poem, but my friends are kind,and display much fortitude,an forgive me.This one is about your playing. </p>
+
+<p>Magic.
 O Miss Mona,go get your fiddle 
 I'm curious to hear you play 
 Fer never sich singin' come from a fiddle
@@ -26,10 +172,10 @@ O Miss Mona,is that a fiddle-
 It speaks witha  silver tongue 
 An' here they come laughin' to take me a-dancin'
 The lads that I danced with when young.
-(over) 
+(over) </p>
 
-89
-April's Restrictions.
+<fw type="curatorial">89</fw>
+<p>April's Restrictions.
 I can milk a cow
 I can knit a sock
 I can thread bright daisies 
@@ -41,6 +187,24 @@ While others are at play.
 But I can not keep form weeping 
 When I hear the whip-poor-will and April rains are reaching down 
 To kiss the daffodil.
-I love this one! 
+ </p>
+
+<note> 
+I love this one!
 Jno. N. 
-1-3-1958 
+1-3-1958 </note>
+<closer>
+<salute>Sincerely,Mrs.Nahnkey.</salute>
+<signed></signed>
+<note></note>
+</closer>
+
+</div1>
+<div1 type="poem">
+<l></l>
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

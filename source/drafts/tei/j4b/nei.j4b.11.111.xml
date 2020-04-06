@@ -1,19 +1,161 @@
 <?xml version="1.0" encoding="UTF-8"?>
-111
-Fink Collection 
-28
-Dear Enot:
-Your fine long letter - such a dear one!- Came after I mailed mine. This is to be just a note to say that I think it better for me to write Sealock. So don't write him, and I will today, 
-Endless love 
-Dad 
-I've gone over your latest copy of the Messiah. It's beautifully done & with surprisingly few errors. Latham seems determined to visit me here. He says, too, that he will get in touch with you - wants to know you. 
-Dad 
-Neihardt 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.11.111">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Enid Neihardt, March 21, 1935</title>
+<author>Neihart, John G.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2020</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.11.111</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">>Letter from John G. Neihardt to Enid Neihardt, March 21, 1935</title>
+<date when="1935-03-21">March 21, 1935</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term>Messiah</term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+<date when="1935-03-21"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Enid</persName>
+<placeName ref="http://www.geonames.org/5128581">New York City (N.Y.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Enid</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2020"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2020"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.11.111.001" />
+<fw type="curatorial">111</fw>
+<note type="curatorial">Fink Collection 
+28</note>
+
+<opener>
+<dateline>
+</dateline>
+<salute>Dear Enot:</salute>
+</opener>
+
+<p>Your fine long letter - such a dear one!- Came after I mailed mine. This is to be just a note to say that I think it better for me to write Sealock. So don't write him, and I will today, </p>
+
+<closer>
+<salute>Endless love</salute>
+<signed>Dad</signed>
+<note>I've gone over your latest copy of the Messiah. It's beautifully done &amp; with surprisingly few errors. Latham seems determined to visit me here. He says, too, that he will get in touch with you - wants to know you.
+
+Dad  </note>
+</closer>
+
+</div1>
+<div1 type="envelope">
+<fw>Neihardt 
 Branson 
-Mo 
-BRANSON MAR 21 3-PM 1935 MO. 
-UNITEDSTATESPOSTAGE <FIGURE/> 3CENTS3
-Miss Enid Neihardt 
-Hotel Somerset 
-150 West 47th St. 
-New York City 
+Mo</fw>
+
+<ab type="postmark">BRANSON MAR 21 3-PM 1935 MO.</ab>
+
+<figure type="stamp"><ab>UNITEDSTATESPOSTAGE 3CENTS3</ab></figure>
+
+<ab type="return">
+<address>
+<addrLine>Miss Enid Neihardt </addrLine>  
+<addrLine>Hotel Somerset</addrLine>
+<addrLine>150 West 47th St.</addrLine>
+<addrLine>New York City </addrLine>
+</address>
+</ab> 
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

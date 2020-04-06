@@ -1,30 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?>
-223 House Collection 58
-Aug 23rd, 1934
-My dear Dr House:
-John has just todl me that it does not seem right for me to ask so much money for my work on his monument. Also he is afriad it may em-barass you. 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.58.60">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Dr. J.T. House to Mona M. Neihardt, August 25, 1934</title>
+<author>Dr. J.T. House</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.58.60</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Dr. House to Mona M. Neihardt, August 25, 1934</title>
+<date when="1934-08-25">August 25, 1934</date>
+<extent>3 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Dr. J.T. House</persName>
+<placeName></placeName>
+<date when="1930-08-25"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Mona Martinsen</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Mona Martinsen</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2019"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.10.58.60.001" />
+<fw type="curatorial">223 House Collection 58</fw>
+<note type="curatorial"></note>
+
+<opener>
+<dateline>Aug 23rd, 1934 
+</dateline>
+<salute>My dear Dr House:</salute>
+</opener>
+
+<p>John has just todl me that it does not seem right for me to ask so much money for my work on his monument. Also he is afriad it may em-barass you. 
 Now that he has stated it all so clearly I see too that the whole thing looks wrong. 
 I want therefore to ask you to please drop the matter, temporarily at least. 
-Besides the above, I am suffering with severe headaches which I should outgrow in the 
+Besides the above, I am suffering with severe headaches which I should outgrow in the </p>
 
-59
-course of a few years. Then may be the time will be ripe for your plan. In the meanwhile I hope you have not lost sleep over the affair. We will always deeply appreciate your wonder-ful interest in John and his work. 
+<fw type="curatorial">59</fw>
+
+<p>course of a few years. Then may be the time will be ripe for your plan. In the meanwhile I hope you have not lost sleep over the affair. We will always deeply appreciate your wonder-ful interest in John and his work. 
 With kindest thoughts 
-Mona Neihardt. 
+Mona Neihardt.</p>
+<closer>
+<salute></salute>
+<signed></signed>
+<note></note>
+</closer>
 
-60
-Neihardt 
+</div1>
+<div1 type="envelope">
+<fw type="curatorial">60</fw>
+<fw>Neihardt 
 Branson, 
-Mo. 
-COLLECT PARK AUG 28 3 PM 1934 MO. 
-BRANSON AUG 24 3-PM 1934 MO. 
-MONTAO AUG3 9AM 
-UNTIEDSTAES <FIGURE/> WASHIGNOTN 3CENT
-Dr. J. T. House. 
-<del>New River State College</del>
-<del>College Park</del>
-311 West 23rd St. 
-<del>nd</del>
-New York <del>Montgomery</del>
-N.Y. 
-<del>West Virginia</del>
+Mo. </fw>
+
+<ab type="postmark">COLLECT PARK AUG 28 3 PM 1934 MO.</ab>
+<ab type="postmark">BRANSON AUG 24 3-PM 1934 MO.</ab>
+<ab type="postmark">MONTAO AUG3 9AM </ab>
+
+<figure type="stamp"><ab>UNTIEDSTAES WASHIGNOTN 3CENT</ab></figure>
+
+<ab type="address">
+<address>
+<addrLine>Dr. J. T. House.</addrLine>
+<addrLine><del>New River State College</del></addrLine>
+<addrLine><del>College Park</del></addrLine>
+<addrLine>311 West 23rd St.</addrLine>
+<addrLine><del>nd</del> New York <del>Montgomery</del>
+N.Y. </addrLine>
+<addrLine><del>West Virginia</del></addrLine>
+</address>
+</ab>
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

@@ -1,26 +1,180 @@
 <?xml version="1.0" encoding="UTF-8"?>
-64
-26 Petri Collection 
-NORFOLK JUL 3 3 PM 1935 NEBR. 
-UNITEDSTATESPOSTAGE <FIGURE/> 
-WASHINGTON 3CENTS3
-1 doz. eggs can tomatoes 10c mayonnaise 1 loaf bread 25c <unclear/> 
-Misses Neihardt 
-Branson,
-Missouri 
-Taney Co. 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-July 3 35 65
-Dearest Girls: 
-Everything going the best ever The climactic scene of the Messiah has me breathless. Mama's head of the is over. I asked the P-D for a vacation to begin next Monday & expect it to be granted. (With Jay of course, checks sent to you.) Have sent stuff for next Sunday, The two following Sundays should be empty needn't send any books tell further notice. I wish I could sneak up & hear Hiddy reading my stuff aloud! Of course I'm tickled to hear of it. Mama & I will have fried spring chicken tomorrow - bought a 2 1/2 eb fry for 11c a pound. Had fresh filet of haddock today for dinner - 13 c of a cob. 
-The weather here is bully - warm without heavy air. I get to working at 5:30 or 6:00 a.m & keep it going until 11. The afternoons are ages long. It's light still at 9 P.m here. 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.11b.64.66">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Alice, Hilda, and Enid Neihardt, July 3, 1935</title>
+<author>Neihardt, John G.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2020</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.11b.64.66</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from John G. Neihardt to Alice, Hilda, and Enid Neihardt, July 3, 1935</title>
+<date when="1935-07-03">July 3, 1935</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term>The Messiah</term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5073965">Norfolk (Neb.)</placeName>
+<date when="1935-07-03"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Alice</persName>
+<persName>Neihardt, Enid</persName>
+<persName>Neihardt, Hilda</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Alice</persName></person>
+<person role="recipient"><persName>Neihardt, Enid</persName></person>
+<person role="recipient"><persName>Neihardt, Hilda</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2020"><name>Carney, Mary Jo.</name> Transcription</change>
+<change when="2020"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="envelope">
+
+<pb facs="nei.j4b.11b.64.66.001" />
+<fw type="curatorial">64</fw>
+<note type="curatorial">26 Petri Collection </note>
+
+<ab type="postmark">NORFOLK JUL 3 3 PM 1935 NEBR.</ab>
+
+<ab type="stamp">UNITEDSTATESPOSTAGE
+WASHINGTON 3CENTS3</ab>
+
+<note type="authorial">1 doz. eggs can tomatoes 10c mayonnaise 1 loaf bread 25c <unclear/> </note>
+
+<ab type="address">
+<address>
+<addrLine>Misses Neihardt</addrLine>
+<addrLine>Branson,
+Missouri</addrLine>
+<addrLine>Taney Co.</addrLine>
+</address>
+</ab>
+</div1>
+
+<div1 type="letter">
+<opener>
+<dateline>July 3 35 65
+</dateline>
+<salute>Dearest Girls:</salute>
+</opener>
+
+<fw type="curatorial">65</fw>
+<p>Everything going the best ever The climactic scene of the Messiah has me breathless. Mama's head
+of the is over. I asked the P-D for a vacation to begin next Monday &amp; expect it to be granted.
+(With Jay of course, checks sent to you.) Have sent stuff for next Sunday, The two following Sundays
+should be empty needn't send any books tell further notice. I wish I could sneak up &amp; hear Hiddy
+reading my stuff aloud! Of course I'm tickled to hear of it. Mama &amp; I will have fried spring chicken tomorrow - bought a 2 1/2 eb fry for 11c a pound. Had fresh filet of haddock today for dinner - 13 c of a cob. 
+The weather here is bully - warm without heavy air. I get to working at 5:30 or 6:00 a.m &amp; keep it going until 11. The afternoons are ages long. It's light still at 9 P.m here. 
 Tom Mix's trains so here today. 
-We're not going. (over) 
+We're not going. (over)</p>
 
-66
-Thanks awfully for all your care in handling things, old Lady Enot. 
-Hiddy & Alice, I'm writing on the table where one ate last September, & I'm thinking very cowardly things about you Hug Dan and grunt fervently for me! 
+<fw type="authorial">66</fw>
+<p>Thanks awfully for all your care in handling things, old Lady Enot. 
+Hiddy &amp; Alice, I'm writing on the table where one ate last September, &amp; I'm thinking very cowardly things about you Hug Dan and grunt fervently for me! 
 Endless love
 Dad 
-Enot, how does the cash hold up? will you, by any chance, have a surplus this Friday? Did you have enough to go around last Friday? If you have more than you need & can spare five bucks, you could let me have as much - but only if you don't really need it. I have quite a nice little bunch of money, but like to feel good & safe at this distance from home plate. 
-Dad 
+Enot, how does the cash hold up? will you, by any chance, have a surplus this Friday? Did you have
+enough to go around last Friday? If you have more than you need &amp; can spare five bucks, you
+could let me have as much - but only if you don't really need it. I have quite a nice little bunch
+of money, but like to feel good &amp; safe at this distance from home plate. </p>
+
+<closer>
+<salute></salute>
+<signed>Dad</signed>
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

@@ -1,19 +1,155 @@
 <?xml version="1.0" encoding="UTF-8"?>
-38
-USD/S
-THE UNIVERSITY OF SOUTH DAKOTA AT SPRINGFIELD
-February 28, 1973
-Dr. John G. Neihardt
-5835 Vine Street 
-Lincoln, Nebraska 68505 
-Dear Dr. Neihardt, 
-Last fall when we contacted you about an appearance before our student body, you indicated through Mrs. Young that you might be up to it in the spring. Well, spring is nearly here, so we thought we would check with you ont he possibility of you paying us a visit and reading some of your work to our students; however, we do not want you to do so at the expense of your health. 
-USD/Springfield is about 230 miles from Lincoln, so travel arrangements should not be too difficult to work out. In fact, we could provide the transportation from Lincoln to Springfield and back again via college auto. 
-Late March or early April, or any time convenient for you would be suitable for a convocation date. Also, if you would consent to honor us with a visit, please indicate what type of honorarium (fee and expenses) you would need. 
-Thank you for your consideration. Regardless of the decision, it has been a joy to  correspond with you and Mrs. Young, and we wish you Godspeed and good health. 
-Sincerely,
-Milton Holtz 
-Milton E. Holtz, Chm. 
-Assembly & Program Committee 
-P.S. My home originally was near Beemer, Nebraska, and I still take the local paper. The Bancroft Blade is a part of the paper (several local papers have been con-solidated into one), so I have been able to   follow with great interest the restoration of your study in Bancroft, Nebraska. 
-SPRINGFIELD, SOUTH DAKOTA . 57062
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.37.38">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Milton E. Holtz to John G. Neihardt, February 28, 1973</title>
+<author>Holtz, Milton E.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.35a.37.38</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Milton E. Holtz to John G. Neihardt, February 28, 1973</title>
+<date when="1973-02-28">February 28, 1973</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Holtz, Milton E.</persName>
+<placeName ref="http://www.geonames.org/5232077">Springfield (SD)</placeName>
+<date when="1973-02-28"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.37.38.001" />
+<fw type="curatorial">38</fw>
+<note type="curatorial"></note>
+
+<fw type="letterhead">USD/S
+THE UNIVERSITY OF SOUTH DAKOTA AT SPRINGFIELD</fw>
+<opener>
+<dateline>February 28, 1973
+</dateline>
+<address>
+<addrLine>Dr. John G. Neihardt</addrLine>
+<addrLine>5835 Vine Street</addrLine>
+<addrLine>Lincoln, Nebraska 68505</addrLine>
+</address>
+<salute>Dear Dr. Neihardt, </salute>
+</opener>
+
+<p>Last fall when we contacted you about an appearance before our student body, you indicated through Mrs. Young that you might be up to it in the spring. Well, spring is nearly here, so we thought we would check with you ont he possibility of you paying us a visit and reading some of your work to our students; however, we do not want you to do so at the expense of your health.</p>
+
+<p>USD/Springfield is about 230 miles from Lincoln, so travel arrangements should not be too difficult to work out. In fact, we could provide the transportation from Lincoln to Springfield and back again via college auto.</p>
+
+<p>Late March or early April, or any time convenient for you would be suitable for a convocation date. Also, if you would consent to honor us with a visit, please indicate what type of honorarium (fee and expenses) you would need.</p>
+
+<p>Thank you for your consideration. Regardless of the decision, it has been a joy to  correspond with you and Mrs. Young, and we wish you Godspeed and good health. </p>
+
+<closer>
+<salute>Sincerely,</salute>
+<signed>Milton Holtz</signed>
+<note>Milton E. Holtz, Chm. 
+Assembly  Program Committee</note>
+<note type="authorial">P.S. My home originally was near Beemer, Nebraska, and I still take the local paper. The Bancroft Blade is a part of the paper (several local papers have been con-solidated into one), so I have been able to   follow with great interest the restoration of your study in Bancroft, Nebraska.</note>
+<fw type="footer">SPRINGFIELD, SOUTH DAKOTA . 57062</fw>
+</closer>
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

@@ -1,22 +1,160 @@
 <?xml version="1.0" encoding="UTF-8"?>
-49a
-Perhaps I have your name mispelled. 
-Also excuse the stationary.
-Aug. 17th - '31,
-Dear Maxine,
-I did not know whether or not it seemed very polite of me to pick you up this morning without even introducing myself to you! I didn't stop to think that you didn't know my name, as I had heard from Hilda that you & she knew each other in school! However, my name is Sigurd (or "Sig" for short)! 
-Now that I have graduated from Ranken Auto & School of Mech. Grades in St. Louis, 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-49b
--2- 
-I am back to the "old times" of good hard piano practice! Several years ago I was a pupil of Mrs. Hayes of the "S. of D" but since then I've sudied in SD. Louis under a pupil of Paderewki (I guess you know of him). Due to this, a fellow is more or less enslaved to regular practice, to keep from for - getting etc. <unclear/> before my afternoons as a rule are composed of practicing! (Not always but nearly always).
-I hope this letter doens't sound as if I were trying to impose on you! 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.49a.c">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Sigurd Neihardt to Maxine Melton Neihardt, August 17th, 1931</title>
+<author>Neihardt, Sigured</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.49a.c</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
 
-49c
--3-
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Sigurd Neihardt to Maxine Melton Neihardt, August 17th, 1931</title>
+<date when="1931-08-17">August 17th, 1931</date>
+<extent>3 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term>Branson (MO)</term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Sigurd</persName>
+<placeName></placeName>
+<date when="1931-08-17"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Maxine M.</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Maxine M</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.9.49a.c.001" />
+<fw type="curatorial">49a</fw>
+<note type="curatorial"></note>
+
+<opener>
+<note type="authorial">Perhaps I have your name mispelled. 
+Also excuse the stationary.</note>
+<dateline>Aug. 17th - '31,
+</dateline>
+<salute>Dear Maxine,</salute>
+</opener>
+
+<p>I did not know whether or not it seemed very polite of me to pick you up this morning without
+even introducing myself to you! I didn't stop to think that you didn't know my name, as I had heard
+from Hilda that you &amp; she knew each other in school! However, my name is Sigurd (or "Sig" for short)! 
+Now that I have graduated from Ranken Auto &amp; School of Mech. Grades in St. Louis,</p>
+
+<fw type="curatorial">49b</fw>
+<fw type="authorial">-2-</fw>
+
+<p>I am back to the "old times" of good hard piano practice! Several years ago I was a pupil of Mrs. Hayes of the "S. of D" but since then I've sudied in SD. Louis under a pupil of Paderewki (I guess you know of him). Due to this, a fellow is more or less enslaved to regular practice, to keep from for - getting etc. <unclear/> before my afternoons as a rule are composed of practicing! (Not always but nearly always).
+I hope this letter doens't sound as if I were trying to impose on you!</p>
+
+<fw type="curatorial">49c</fw>
+<fw type="authorial">-3-</fw>
+
+<p>
 I have heard many com-pliments about you being the msot polite operator we've had in Branson! This note is becoming too long, I'm sure! 
-I dont' want you to think that I'm "chasing" you as some fellows might do, but I just naturally have respect for a girl who is decent & so attractive I coudln't keep from noticing you! 
-Sincerely,
-Sig Neihardt.
-"Number Please" & "Thank you" 
-(Ha!Ha!) 
+I dont' want you to think that I'm "chasing" you as some fellows might do, but I just naturally have
+respect for a girl who is decent &amp; so attractive I coudln't keep from noticing you!</p>
+
+<closer>
+<salute>Sincerely,</salute>
+<signed>Sig Neihardt.</signed>
+<note>"Number Please" &amp; "Thank you" 
+(Ha!Ha!) </note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

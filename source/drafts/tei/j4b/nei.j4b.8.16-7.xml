@@ -1,18 +1,152 @@
 <?xml version="1.0" encoding="UTF-8"?>
-St. Louis, Mo. 
-Nov. 8, 1929
-Missouri Collection 
-16
-Dear Mamma: 
-[Branson, Mo.]
-I must tell you right away that our new address is 507 North Clay Ave.,Kirkwood. 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.8.16.17">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Alice Culler Neihardt, November 8th, 1929</title>
+<author>Neihardt, John G.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.8.16.17</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from John G. Neihardt to Alice Culler Neihardt, November 8th, 1929</title>
+<date when="1929-11-08">November 8th, 1929</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/4407066">St. Louis (Mo.)</placeName>
+<date when="1929-11-08"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Alice Culler</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Alice Culler</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.8.16.17.001" />
+<fw type="curatorial">16</fw>
+<note type="curatorial"></note>
+
+<fw type="curatorial">St. Louis, Mo. 
+Missouri Collection </fw>
+<opener>
+<dateline>Nov. 8, 1929
+</dateline>
+<salute>Dear Mamma:</salute>
+<note>[Branson, Mo.]</note>
+</opener>
+
+<p>I must tell you right away that our new address is 507 North Clay Ave.,Kirkwood. 
 It's a dandy place and we all feel much happier there. Mona bought two second hand rugs for very much less than they are worth-one 9 by 12 for the dining room and one 7 by 12 for the front room. The other rug goes in our bed room up stairs. The place really look good now. 
 Thompson wrote me and I replied. he will take charge <del/> keeping 5% of the rent for his trouble. That is all right, and he'll do a good job of looking after it too. I'm glad you don't have to bother with this. I do hope he may get a good tenant soon. That would bring our rent down to $35 per month-which is very small. 
-Mona has insisted upon my getting a beautiful second hand desk, and this morning I finally told her to phone for it. It is second hand, but locks new. It's a Colonial writing bureau within strong writing leaf that lets down. Made of mahogany, and is a beauty. It has lots of drawer and pigeon hole room. I can put all my valuable things in it - which was Mona's argument. Don't know when I'll need a desk, but surely I will sooner or later. Anyway, it's a beautiful piece of furniture and not too large to move around. The style is that which originated in Philadelphia in 1760. Marshall Field lists the desk at $125. 
-Endless love 
-Jno 
+Mona has insisted upon my getting a beautiful second hand desk, and this morning I finally told her to phone for it. It is second hand, but locks new. It's a Colonial writing bureau within strong writing leaf that lets down. Made of mahogany, and is a beauty. It has lots of drawer and pigeon hole room. I can put all my valuable things in it - which was Mona's argument. Don't know when I'll need a desk, but surely I will sooner or later. Anyway, it's a beautiful piece of furniture and not too large to move around. The style is that which originated in Philadelphia in 1760. Marshall Field lists the desk at $125.</p>
 
-<unclear/> Philadelphia in 1760. Marshall Field the desk at $125. 
-17
+<fw type="curatorial">17</fw>
+
+<p><unclear/> Philadelphia in 1760. Marshall Field the desk at $125. 
 As soon as I get through paying taxes, I'll get an honest to goodness dynamic speaker for you. That is your trouble, I'm pretty sure. The dynamic speakers are beautiful as furniture too, and you'll like the one I have my eye on. It looks something like this:
-scrollwork <del/> one silk <figure/> wood height about a foot 
+scrollwork <del/> one silk <figure/> wood height about a foot </p>
+
+<closer>
+<salute>Endless love </salute>
+<signed>Jno </signed>
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

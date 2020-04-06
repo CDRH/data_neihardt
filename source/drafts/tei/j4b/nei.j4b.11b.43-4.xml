@@ -1,23 +1,162 @@
 <?xml version="1.0" encoding="UTF-8"?>
-43
-Fink Collection 
-p.m. June 27, 1935
-Thurs. about noon 
-Norfolk, Nebr. 
-Dearest Girls:
-Bully letters, & we were made happy. It was a long wait for mail. Not much to say from here, & Mama has written, I notice I wrote for P-D Tues. and Wed. This morning I was up with the birds & at the Messiah again Broke through the wall in great hope, or maybe the wall just evaporated - at any rate, I'm close ot the finish & am grateful for the way the stuff develops.
--2-
-yes Enot I too am eager for that Salt Lake - Desert - Pyramid Lake - New Mexico trip. Great stuff to contemplate! I wish all of us could be together on that trip. 
-We're happy here. Mama has dove some plain & fancy sleeping that was certainly good for her. She doesn't weigh more than 2 or 3 hundred pounds yet, but she's doing well! 
-Can't tell where we're going next. Maybe Long Pine - but send mail to Norfolk 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-44
--3-
-until further notice - Great about Harrison! Hooray! I've written to Sig. & Max. 
-Yes, Hiddy, that doc is a picker, I fear. We can have your teeth fixed, & your history reading is worth a lot more than $3.50 a week. The unholy guts it takes to offer that! 
-Tell Dan, Alice, that I've met a lot of dogs - some of high degree, but most only dogs - and he's the loveliest of them all. 
--4-
-But he must it break any more laws & get arrested & woke his poor old Uncle pay fines. 
-Endless love 
-Dad. 
-Bully about the recommendation from Minsey's. That will help greatly. 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.11b.43.44">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Alice, Enid, and Hilda Neihardt, June 27, 1935</title>
+<author>Neihardt, John G.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.11b.43.44</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from John G. Neihardt to Alice, Enid, and Hilda Neihardt, June 27, 1935</title>
+<date when="1935-06-27">June 27 1935</date>
+<extent>pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term>New Mexico</term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5073965">Norfolk (Neb.)</placeName>
+<date when="1935-06-27"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Alice</persName>
+<persName>Neihardt, Enid</persName>
+<persName>Neihardt, Hilda</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Alice</persName></person>
+<person role="recipient"><persName>Neihardt, Enid</persName></person>
+<person role="recipient"><persName>Neihardt, Hilda</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2020"><name>Carney, Mary Jo.</name> Transcription</change>
+<change when="2020"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.11b.43.44.001" />
+<fw type="curatorial">Fink Collection </fw>
+<note type="curatorial"></note>
+
+<opener>
+<dateline>p.m. June 27, 1935
+Thurs. about noon
+</dateline>
+<fw>Norfolk, Nebr.</fw>
+<salute>Dearest Girls:</salute>
+</opener>
+
+<p>Bully letters, &amp; we were made happy. It was a long wait for mail. Not much to say from here,
+&amp; Mama has written, I notice I wrote for P-D Tues. and Wed. This morning I was up with the birds
+&amp; at the Messiah again Broke through the wall in great hope, or maybe the wall just evaporated -
+at any rate, I'm close ot the finish &amp; am grateful for the way the stuff develops.</p>
+
+<fw type="authorial">-2-</fw>
+<p>yes Enot I too am eager for that Salt Lake - Desert - Pyramid Lake - New Mexico trip. Great stuff to contemplate! I wish all of us could be together on that trip. 
+We're happy here. Mama has dove some plain &amp; fancy sleeping that was certainly good for her. She doesn't weigh more than 2 or 3 hundred pounds yet, but she's doing well! 
+Can't tell where we're going next. Maybe Long Pine - but send mail to Norfolk</p>
+
+<fw type="curatorial">44</fw>
+<fw type="authorial">-3-</fw>
+<p>until further notice - Great about Harrison! Hooray! I've written to Sig. &amp; Max. 
+Yes, Hiddy, that doc is a picker, I fear. We can have your teeth fixed, &amp; your history reading is worth a lot more than $3.50 a week. The unholy guts it takes to offer that! 
+Tell Dan, Alice, that I've met a lot of dogs - some of high degree, but most only dogs - and he's the loveliest of them all. </p>
+
+<fw type="curatorial">-4-</fw>
+<p>But he must it break any more laws &amp; get arrested &amp; woke his poor old Uncle pay fines. </p>
+<closer>
+<salute>Endless love</salute>
+<signed>Dad.</signed>
+<note>Bully about the recommendation from Minsey's. That will help greatly.</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

@@ -1,27 +1,168 @@
 <?xml version="1.0" encoding="UTF-8"?>
-86
-Auburn runs so wonderfully! 
-July 13th '32.
-Hiawatha Kans. 
-My dear, sweet girl, 
-This is where we decided to "put up" for the nite! Went to the show & missed you sweetheart - I could hardly enjoy it! 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.9.86.87">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Sigurd Neihardt to Maxine M. Neihardt, July 13, 1932</title>
+<author>Neihardt, Sigurd</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&amp;#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.9.86.87</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Sigurd Neihardt to Maxine M. Neihardt, July 13, 1932</title>
+<date when="1932-07-13">July 13, 1932</date>
+<extent>3 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Sigurd</persName>
+<placeName ref="http://www.geonames.org/4272873/">Hiawatha (KS)</placeName>
+<date when="1932-07-13"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Maxine M.</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Maxine M.</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2019"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.9.86.87.001" />
+<fw type="curatorial">86</fw>
+<note type="authorial">Auburn runs so wonderfully!</note>
+
+<opener>
+<dateline>July 13th '32.
+Hiawatha Kans.
+</dateline>
+<salute>My dear, sweet girl,</salute>
+</opener>
+
+<p>This is where we decided to "put up" for the nite! Went to the show &amp; missed you sweetheart - I could hardly enjoy it! 
 It's a heartache to be a - way from you, but I know that it is only a temporary one - thank heavens!
-I have more faith than ever in you dear, & I am sure that we both feel right about things at last! 
-Got your picture in my pocket book, & your sweet face makes me miss you more than before I looked at it!
-I must stop - sweetly, & mail this, 'cause dad is in a hurry to do somethin' or other! I will feel so much 
+I have more faith than ever in you dear, &amp; I am sure that we both feel right about things at last! 
+Got your picture in my pocket book, &amp; your sweet face makes me miss you more than before I looked at it!
+I must stop - sweetly, &amp; mail this, 'cause dad is in a hurry to do somethin' or other! I will feel so much 
 (over) 
+</p>
 
-relieved when I hear form my seet girl - at Omaha! 
+<p>relieved when I hear form my seet girl - at Omaha! 
 Be comfortable - 'cause it is so hot now! 
-In that note I dropped in your pkg - I wrote "be happy". I know you'll be happy - I know we're both happy about eachother. What I meant instead of that was - become-fortable! C? You blessed chile!! 
-Always Love,
-Your Sig. 
-P.S. 
-Going to bum aroun' in Nebraska City a while today - to kill "time"! Always remember - you dear girl that I love you & words can't express how I long for you to be with me in this beautiful country! 
-S.N. 
+In that note I dropped in your pkg - I wrote "be happy". I know you'll be happy - I know we're both happy about eachother. What I meant instead of that was - become-fortable! C? You blessed chile!! </p>
 
-87
-UNITEDSTATESPOSTAGE <FIGURE/> 1CENT1 
-UNITEDSTATESPOSTAGE <FIGURE/> 2CENTS2
-Miss Maxine Melton, 
-Branson, Missouri. 
+<closer>
+<salute>Always Love,</salute>
+<signed>Your Sig.</signed>
+<note>P.S. 
+Going to bum aroun' in Nebraska City a while today - to kill "time"! Always remember - you dear girl that I love you &amp; words can't express how I long for you to be with me in this beautiful country!
+S.N.</note>
+</closer>
+
+</div1>
+
+<div1 type="envelope">
+<fw type="curatorial">87</fw>
+
+<figure type="stamp"><ab>UNITEDSTATESPOSTAGE <figure><ab> 1CENT1</ab></figure> </ab></figure>
+
+<figure type="stamp"><ab>UNITEDSTATESPOSTAGE <figure><ab> 2CENTS2</ab></figure> </ab></figure>
+
+<ab type="address">
+<address>
+<addrLine>Miss Maxine Melton, </addrLine>
+<addrLine>Branson, Missouri.</addrLine>
+</address>
+</ab>
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

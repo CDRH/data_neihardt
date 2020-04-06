@@ -1,5 +1,124 @@
 <?xml version="1.0" encoding="UTF-8"?>
-UNIVERSITY OF OREGON <figure/> 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.37.35a">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Carl W. Carmichael to John G. Neihardt, February 22, 1973</title>
+<author>Carmichael, Carl W.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.37.35a</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Carl W. Carmichael to John G. Neihardt, February 22, 1973</title>
+<date when="1973-02-22">February 22, 1973</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term>Aly, Bower, 1903-1977</term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Carmichael, Carl W.</persName>
+<placeName ref="http://www.geonames.org/5725846">Eugene (Or.)</placeName>
+<date when="1973-02-22"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.37.35a.001" />
+<fw type="curatorial">35a</fw>
+<note type="curatorial"></note>
+
+<fw type="letterhead">UNIVERSITY OF OREGON <figure/> 
 35a
 Department of Speech 
 COLLEGE OF LIBERAL ARTS 
@@ -9,15 +128,33 @@ Communication Theory
 Broadcast Communication 
 Theatre
 EUGENE, OREGON 97403
-telephone (code 503) 686-4171
-February 22, 1973
-Mr. John Neihardt
-5853 Vine 
-Lincoln, Nebraska 68505 
-Dear Mr. Neihardt:
-As you may know, Bower Aly reached his 70th birthday on February 20, 1973, and retires from the University of Oregon faculty at the end of the current term. 
-We in the Department of Speech are holding a party in his honor on about March 20. 
-At that time we wish to present him a book of letters from his friends and academic colleagues. I am sure he numbers you among those persons and if you wish a letter from you to be included to me. I will make certain that your letter is put in his hands on that occasion. 
-Sincerely yours,
-Carl W. Carmichael
-Carl W. Carmichael, Head Department of Speech 
+telephone (code 503) 686-4171</fw>
+<opener>
+<dateline>February 22, 1973
+</dateline>
+<address>
+<addrLine>Mr. John Neihardt</addrLine>
+<addrLine>5835 Vine St. </addrLine>
+<addrLine>Lincoln, Nebraska</addrLine>
+</address>
+<salute>Dear Mr. Neihardt:</salute>
+</opener>
+
+<p>As you may know, Bower Aly reached his 70th birthday on February 20, 1973, and retires from the University of Oregon faculty at the end of the current term.</p>
+
+<p>We in the Department of Speech are holding a party in his honor on about March 20.</p>
+
+<p>At that time we wish to present him a book of letters from his friends and academic colleagues. I am sure he numbers you among those persons and if you wish a letter from you to be included to me. I will make certain that your letter is put in his hands on that occasion.</p>
+
+<closer>
+<salute>Sincerely yours,</salute>
+<signed>Carl W. Carmichael</signed>
+<note>Carl W. Carmichael, Head Department of Speech</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

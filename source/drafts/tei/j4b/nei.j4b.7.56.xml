@@ -1,15 +1,147 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Missouri Collection 56
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.56">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Alice Culler Neihardt, Dec 28, 1928</title>
+<author>Neihardt, John G.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.56</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from John G. Neihardt to Alice Culler Neihardt, Dec 31, 1928</title>
+<date when="1928-12-31">December 13, 1928</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/4407066">St. Louis (Mo.)</placeName>
+<date when="1928-12-28"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Alice Culler</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Alice Culler</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.7.56..001" />
+<fw type="curatorial">56</fw>
+<note type="curatorial"></note>
+
+<fw type="letterhead">Missouri Collection 54
 <figure/> DAILY SUNDAY 
 EDITORIAL DEPARTMENT 
 ST. LOUIS POST-DISPATCH 
 PUBLISHED BY THE PULITZER PUBLISHING CO. 
-ST. LOUIS, MO. 
-Dec. 31, 1928
-Monday. 
-Dear Mamma:
-Sigurd will play over KNOX next Saturday at 10:30 A.M. He is very anxious that you should hear him, and asked me to write you at once this morning. I suppose you get KNOX often, don't you? Do you know where to turn the dial to get it? 
-No more now. I'm rushed. 
-Endless love, 
-Jno. 
-Note that it is 10:30 in the forenoon. Better begin trying at 10:15 to be sure. 
+ST. LOUIS, MO. </fw>
+<opener>
+<dateline>Dec. 31, 1928.
+</dateline>
+<salute>Dear Mamma:</salute>
+</opener>
+
+<p>Sigurd will play over KNOX next Saturday at 10:30 A.M. He is very anxious that you should hear him, and asked me to write you at once this morning. I suppose you get KNOX often, don't you? Do you know where to turn the dial to get it? 
+No more now. I'm rushed. </p>
+
+<closer>
+<salute>Endless love,</salute>
+<signed>Jno</signed>
+<note>Note that it is 10:30 in the forenoon. Better begin trying at 10:15 to be sure.</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

@@ -1,82 +1,225 @@
 <?xml version="1.0" encoding="UTF-8"?>
-55
-Fink Collection 
-19 
-HOTEL WELLINGTON 
-MAIL 
-KANSAS FEB 8 830AM MO 
-<FIGURE/> 
-1935
-Miss Enid Neihardt 
-Somerset Hotel 
-150 West 47th St. 
-New York City 
-FARNAM AT EIGHTEENTH 
-OMAHA, U.S.A. 
-Suite #118
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.11.55.60">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Enid Neihardt, February 8, 1935</title>
+<author>Neihardt, John G.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&amp;#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.11.55.60</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from John G. Neihardt to Enid Neihardt, February 8, 1935</title>
+<date when="1935-02-08">Februay 8, 1935</date>
+<extent>5 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/4393217">Kansas City (Mo.)</placeName>
+<date when="1935-02-08"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt,Enid</persName>
+<placeName ref="http://www.geonames.org/5128581">New York City (N.Y.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt,Enid</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="envelope">
+<fw type="curatorial">55</fw>
+<fw>Fink Collection 
+19</fw>
+
+<fw>HOTEL WELLINGTON 
+MAIL </fw><figure><ab>FARNAM AT EIGHTEENTH 
+OMAHA, U.S.A.</ab></figure>
+<ab type="postmark">KANSAS FEB 8 830AM MO 1935</ab>
+
+<ab type="address">
+<address>
+<addrLine>Miss Enid Neihardt</addrLine>
+<addrLine>Somerset Hotel</addrLine>
+<addrLine>150 West 47th St.</addrLine>
+<addrLine>New York City</addrLine>
+<addrLine>Hotel <del>Wellin</del></addrLine>
+<addrLine>Somerset</addrLine>
+<addrLine>130 West 47th St.</addrLine>
+</address>
+</ab>
+
+<figure><ab>Suite #118
 AIR 
 NOTICE 
 LETTERS MAILED IN HOTEL ENVELOPES IF NOT DELIVERED WILL BE SENT TO TEH DEAD LETTER OFFICE UNLESS THE WRITER GIVES A RETURN ADDRESS 
 IF NOT DELIVERED IN 5 DAYS RETURN TO 
 Neihardt 
-Branson, Mo. 
-<figure/> 
+Branson, Mo.</ab></figure>
+<note></note>
+</div1>
+<div1 type="letter">
 
-56
-<figure/> H.B. PAYNE, PRESIDENT E.M. SLATER, VICE PRES. 
+<pb facs="nei.j4b.11.55.60.001" />
+<fw type="curatorial">
+56</fw>
+<note type="curatorial"></note>
+
+<fw type="letterhead"><figure/> H.B. PAYNE, PRESIDENT E.M. SLATER, VICE PRES. 
 150 RESTFUL ROOMS AT REASONABLE RATES 
 HOTEL WELLINGTON
 ON DIRECT CAR LINES FROM ALL STATIONS 
 FARNAM AT EIGHTEENTH
-OMAHA 
-Wed. Night 
-Dearest Enat:
-Grandma went away at noon today. I was out at Blair, Neb., talking to a state school convention when she died, & the wire reached me a half hour later when I was at lunch. At first I planned to leave at once for Branson, but a second wire asked me to meet Aunty Lu <del>and</del> & at K.C. where the body will be cremated: Before I left Branson I made all arrangements with Whelchel for this - at Grandma's request. So it is best for me to meet Aunty Lu at K.C. instead of going ot Branson first, where I could do no good at all, as all was arranged there. 
+OMAHA</fw>
+<opener>
+<dateline>Wed. Night
+</dateline>
+<salute>Dearest Enat:</salute>
+</opener>
 
-57
-<figure/> H.B. PAYNE, PRESIDENT E.M. SLATER, VICE PRES. 
+<p>Grandma went away at noon today. I was out at Blair, Neb., talking to a state school convention when she died, &amp; the wire reached me a half hour later when I was at lunch. At first I planned to leave at once for Branson, but a second wire asked me to meet Aunty Lu <del>and</del> &amp; at K.C. where the body will be cremated: Before I left Branson I made all arrangements with Whelchel for this - at Grandma's request. So it is best for me to meet Aunty Lu at K.C. instead of going ot Branson first, where I could do no good at all, as all was arranged there.</p>
+
+<fw type="curatorial">57</fw>
+<fw type="letterhead"><figure/> H.B. PAYNE, PRESIDENT E.M. SLATER, VICE PRES. 
 150 RESTFUL ROOMS AT REASONABLE RATES 
 HOTEL WELLINGTON
 ON DIRECT CAR LINES FROM ALL STATIONS 
 FARNAM AT EIGHTEENTH
-OMAHA 
--2-
-When I reached the city, the papers had the news of Grandma's death on the front page. Strange! All the Profs., many students and even the hotel people knew & were like brothers. Enat, people are good deep down outside - very good, that's the human truth. If they seem otherwise, it is because of some pathetic misunderstanding of some sort. 
-I shoudl be talking to a class in philosophy tonight - a picked group - but they let me off. I didn't ask to be let off. I could have talked well. I know Grandma is all right, & she should know that I know
+OMAHA</fw>
+<fw type="authorial">-2-</fw>
+<p>When I reached the city, the papers had the news of Grandma's death on the front page. Strange! All the Profs., many students and even the hotel people knew &amp; were like brothers. Enat, people are good deep down outside - very good, that's the human truth. If they seem otherwise, it is because of some pathetic misunderstanding of some sort. 
+I shoudl be talking to a class in philosophy tonight - a picked group - but they let me off. I didn't ask to be let off. I could have talked well. I know Grandma is all right, &amp; she should know that I know</p>
 
-58
-<figure/> H.B. PAYNE, PRESIDENT E.M. SLATER, VICE PRES. 
+<fw type="curatorial">58</fw>
+<fw type="letterhead"><figure/> H.B. PAYNE, PRESIDENT E.M. SLATER, VICE PRES. 
 150 RESTFUL ROOMS AT REASONABLE RATES 
 HOTEL WELLINGTON
 ON DIRECT CAR LINES FROM ALL STATIONS 
 FARNAM AT EIGHTEENTH
-OMAHA 
--3-
-Listen, Enot, old Lady! here is something for you. This evening Dr. Thompson, Dean of men at the U. of Omaha & my very old friend (we were together in our 20's) insisted on taking me to a show. He thought I'd better not sit around. He is a psychologist, & he understands. Well, just a half hour ago he said! "This daughter of yours in New York - does she want to stay there? "I said no, not necessarily. he then said he thought he'd be needing a secretary next year, & would be glad I have my daughter. This 
+OMAHA</fw>
+<fw type="authorial">-3-</fw>
 
-59
-<figure/> H.B. PAYNE, PRESIDENT E.M. SLATER, VICE PRES. 
+<p>Listen, Enot, old Lady! here is something for you. This evening Dr. Thompson, Dean of men at the U. of Omaha &amp; my very old friend (we were together in our 20's) insisted on taking me to a show. He thought I'd better not sit around. He is a psychologist, &amp; he understands. Well, just a half hour ago he said! "This daughter of yours in New York - does she want to stay there? "I said no, not necessarily. he then said he thought he'd be needing a secretary next year, &amp; would be glad I have my daughter. This </p>
+
+<fw type="curatorial">59</fw>
+<fw type="letterhead"><figure/> H.B. PAYNE, PRESIDENT E.M. SLATER, VICE PRES. 
 150 RESTFUL ROOMS AT REASONABLE RATES 
 HOTEL WELLINGTON
 ON DIRECT CAR LINES FROM ALL STATIONS 
 FARNAM AT EIGHTEENTH
-OMAHA 
--5-
-is in addition to the Presidents need of a Secretary next year. So, Enot, you are now going to school in New York, getting prestige & training for a good job out here. See? By gosh, <del>a</del> I'll land you a job here. The whole school is strange for your Dad, Enot. In spite of Grandma's going, your life is a happy one even now. Grandma was ripe fruit, <del/> and it is good to go when ripe. 
-Feel hopeful & eager to learn, old Lady! The outlook is fine for you. 
-I rec'd Amama's dear dear letter - good, great, 
+OMAHA</fw>
+<fw type="authorial">-5-</fw>
 
-60
-<figure/> H.B. PAYNE, PRESIDENT E.M. SLATER, VICE PRES. 
+<p>is in addition to the Presidents need of a Secretary next year. So, Enot, you are now going to school in New York, getting prestige &amp; training for a good job out here. See? By gosh, <del>a</del> I'll land you a job here. The whole school is strange for your Dad, Enot. In spite of Grandma's going, your life is a happy one even now. Grandma was ripe fruit, <del/> and it is good to go when ripe. 
+Feel hopeful &amp; eager to learn, old Lady! The outlook is fine for you. 
+I rec'd Amama's dear dear letter - good, great, </p>
+
+<fw type="curatorial">60</fw>
+<fw type="letterhead"><figure/> H.B. PAYNE, PRESIDENT E.M. SLATER, VICE PRES. 
 150 RESTFUL ROOMS AT REASONABLE RATES 
 HOTEL WELLINGTON
 ON DIRECT CAR LINES FROM ALL STATIONS 
 FARNAM AT EIGHTEENTH
-OMAHA 
-<unclear/> -5- 
-gray pussy cat as she calls herself, I heard & felt her purr 1500 miles away, & was glad you are lucky, Enot, to have her, as of course you know as well as I do - or better. No more now - but endless love. 
+OMAHA</fw>
+
+
+<p>gray pussy cat as she calls herself, I heard &amp; felt her purr 1500 miles away, &amp; was glad you are lucky, Enot, to have her, as of course you know as well as I do - or better. No more now - but endless love. 
 Dad. 
 Later 
-Have just seen Dr. Thompson again. He has spoken to Dr. Sealock of you. Sealock was interested & sympathetic & said "I think we can do that <del/> a little later on". he is strong format a wonderful man. 
-So be happy
-Dad 
+Have just seen Dr. Thompson again. He has spoken to Dr. Sealock of you. Sealock was interested &amp; sympathetic &amp; said "I think we can do that <del/> a little later on". he is strong format a wonderful man. </p>
+<closer>
+<salute>So be happy</salute>
+<signed>Dad</signed>
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

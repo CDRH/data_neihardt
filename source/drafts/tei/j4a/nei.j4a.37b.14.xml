@@ -1,24 +1,162 @@
 <?xml version="1.0" encoding="UTF-8"?>
-14
-THE UNIVERSITY OF NEBRASKA-LINCOLN
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.37b.14">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Georgia Glass to John G. Neihardt, September 20, 1973</title>
+<author>Glass, Georgia</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.37b.14</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Georgia Glass to John G. Neihardt, September 20, 1973</title>
+<date when="1973-09-20">September 20, 1973</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Glass, Georgia</persName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+<date when="1973-09-20"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.37b.14.001" />
+<fw type="curatorial">14</fw>
+<note type="curatorial"></note>
+
+<fw type="letterhead">THE UNIVERSITY OF NEBRASKA-LINCOLN
 LINCOLN, NEBRASKA 68508
 CATHER-POUND-NEIHARDT
-RESIDENCE HALL COMPLEX
-September 20,1973
-Dr. John G. Neihardt
-5835 Vine Street 
-Lincoln, Nebraska 68505
-Dear Dr. Neihardt:
-As you know the University of Nebraska Board of Regents has approved a proposal to re-name Women's Residence Halls, a residence on the UNL campus, the John G. Neihardt Residential Center.
-The students and staff of this residence hall are planning a Dedication Ceremony to be held in October and we would be highly honored if you would consent to be present. The date has been tentatively set for Sunday, October 21, at 3:00pm. Your presence, Dr. Neihardt, would make this a most meaningful and memorable occasion. 
-If it is possible for you to attend we hope you would consider taking a few moments to recite a selection of poetry. The date for the ceremony is not final and we would be more than happy to schedule the ceremony on a day that is more convenient for you. 
-The students at the University of Nebraska have a great deal of respect for  you and your accomplishments. We sincerely wish you can be with us and share the dedication of the John G. Neihardt Residential Center. 
-We will be anxiously awaiting a reply from you, Dr. Neihardt.
-Sincerely,
-Georgia Glass
-Georgia Glass
+RESIDENCE HALL COMPLEX</fw>
+<opener>
+<dateline>September 20,1973
+</dateline>
+<address>
+<addrLine>Dr. John G. Neihardt</addrLine>
+<addrLine>5835 Vine Street</addrLine>
+<addrLine>Lincoln, Nebraska 68505</addrLine>
+</address>
+<salute>Dear Dr. Neihardt:</salute>
+</opener>
+
+<p>As you know the University of Nebraska Board of Regents has approved a proposal to re-name Women's Residence Halls, a residence on the UNL campus, the John G. Neihardt Residential Center.</p>
+
+<p>The students and staff of this residence hall are planning a Dedication Ceremony to be held in October and we would be highly honored if you would consent to be present. The date has been tentatively set for Sunday, October 21, at 3:00pm. Your presence, Dr. Neihardt, would make this a most meaningful and memorable occasion. </p>
+
+<p>If it is possible for you to attend we hope you would consider taking a few moments to recite a selection of poetry. The date for the ceremony is not final and we would be more than happy to schedule the ceremony on a day that is more convenient for you.</p>
+
+<p>The students at the University of Nebraska have a great deal of respect for  you and your accomplishments. We sincerely wish you can be with us and share the dedication of the John G. Neihardt Residential Center.</p>
+
+<p>We will be anxiously awaiting a reply from you, Dr. Neihardt.</p>
+
+<closer>
+<salute>Sincerely,</salute>
+<signed>Georgia Glass</signed>
+<note>Georgia Glass
 Residence Director 
 540 N. 16th Street 
-Lincoln, Nebraska 68508
-THE UNIVERSITY OF NEBRASKA-LINCOLN THE UNIVERSITY OF NEBRASKA AT OMAHA 
-THE UNIVERISTY OF NEBRASKA MEDICAL CENTER
+Lincoln, Nebraska 68508</note>
+<note>THE UNIVERSITY OF NEBRASKA-LINCOLN THE UNIVERSITY OF NEBRASKA AT OMAHA 
+THE UNIVERISTY OF NEBRASKA MEDICAL CENTER</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

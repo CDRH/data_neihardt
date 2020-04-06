@@ -1,58 +1,203 @@
 <?xml version="1.0" encoding="UTF-8"?>
-9
-Fink Collection 
-14
-Neihardt Branson Mo. 
-BRANSON JAN 20 3-PM 1935 MO. 
-UNITED STATES POSTAGE <FIGURE/> 3CENTS3 
-Miss Enid Neihardt. 
-Suite 118
-Hotel Somerset. 
-150 West 47th Street. 
-New York City. 
-N.Y. 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-10
-Jan 19th 35.
-My own darling Enid girlie! 
-The finest thing that has happened to me for many years was your dear, happy letter! It lifted a load off of my foolish heart - and now I am cooking forward to a new letter from you on Tuesday next, and every follow-ing Tuesday, not? Those letters will be great sources of happiness to me - And now let me bring you up to date in <del>my</del> our home history! First we had a fire! Yes I mean it! A real fine with fire engine and a million
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.11.9.17">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Alice M. Neihardt to Enid Neihardt, January 19, 1935</title>
+<author>Neihardt, Alice M.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.11.9.17</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
 
-11
-2
-men, and water and smoke and black frost marks all through our house!! How did it happen? I was to sleep over at Grandmas' and it was about 7 oclock P.M. Daddy and Alice came over there to visit a while. Daddy left his standing lamp burning and came away never dreaming of trouble! He stayed about 20 minutes, there Grandma decided to take a bath, and Daddy went hom with Alice. In two more minutes Alice returned to tell me to call the Fire department, as our hosue was on fire! Well, I did - and then I rushed home. Daddy was calling out of lence blck smoke in his room for "water-quick, water" and did Alice 
+<notesStmt><note></note></notesStmt>
 
-12
-3
-and I get water?! <unclear/> the kitchen sink to him bucket after bucket - and then the Fire dep. took charge! Of course you can imagine Daddy groping in the dark for his Messiah manuscript! Well to make a long story short he saved the copies you had made but the last 250 lives were completely burnt-up, for they had not yet been copied by you, and we were lying on top of his desk where he had been writing. he was all but sick - I told him he would have no trouble getting them back - and this he has found to be true. Now Enid dear, he has written Mr Latham about 
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Hilda Neihardt to Enid Neihardt, January 19, 1935</title>
+<date when="1935-01-19">January 19, 1935</date>
+<extent>3 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
 
-13
-4
-our fire 
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Alice M.</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+<date when="1935-01-19"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Enid</persName>
+<placeName ref="http://www.geonames.org/5128581">New York City (N.Y.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Enid</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2019"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="envelope">
+<fw>Neihardt Branson</fw>
+<ab type="postmark">BRANSON JAN 20 3-PM 1935 MO.</ab>
+
+<figure type="stamp"><ab>UNITED STATES POSTAGE 3CENTS3</ab></figure>
+
+<ab type="address">
+<address>
+<addrLine>Miss Enid Neihardt</addrLine>
+<addrLine>Hotel Somerset.</addrLine>
+<addrLine>(Suite 118)</addrLine>
+<addrLine>150 West 47th St.</addrLine>
+<addrLine>N.Y. New York City.</addrLine>
+</address>
+</ab>
+</div1>
+<div1 type="letter">
+
+<pb facs="nei.j4b.11.9.17.001" />
+<fw type="curatorial">9</fw>
+<note type="curatorial">Fink Collection 
+14</note>
+
+<fw type="curatorial">10</fw>
+<opener>
+<dateline>Jan 19th 35.
+</dateline>
+<salute>My own darling Enid girlie!</salute>
+</opener>
+
+
+<p>The finest thing that has happened to me for many years was your dear, happy letter! It lifted a load off of my foolish heart - and now I am cooking forward to a new letter from you on Tuesday next, and every follow-ing Tuesday, not? Those letters will be great sources of happiness to me - And now let me bring you up to date in <del>my</del> our home history! First we had a fire! Yes I mean it! A real fine with fire engine and a million</p>
+
+<fw type="curatorial">11</fw>
+<fw type="authorial">2</fw>
+<p>men, and water and smoke and black frost marks all through our house!! How did it happen? I was to sleep over at Grandmas' and it was about 7 oclock P.M. Daddy and Alice came over there to visit a while. Daddy left his standing lamp burning and came away never dreaming of trouble! He stayed about 20 minutes, there Grandma decided to take a bath, and Daddy went hom with Alice. In two more minutes Alice returned to tell me to call the Fire department, as our hosue was on fire! Well, I did - and then I rushed home. Daddy was calling out of lence blck smoke in his room for "water-quick, water" and did Alice </p>
+
+<fw type="curatorial">12</fw>
+<fw type="authorial">3</fw>
+
+<p>and I get water?! <unclear/> the kitchen sink to him bucket after bucket - and then the Fire dep. took charge! Of course you can imagine Daddy groping in the dark for his Messiah manuscript! Well to make a long story short he saved the copies you had made but the last 250 lives were completely burnt-up, for they had not yet been copied by you, and we were lying on top of his desk where he had been writing. he was all but sick - I told him he would have no trouble getting them back - and this he has found to be true. Now Enid dear, he has written Mr Latham about</p>
+
+<fw type="curatorial">13</fw>
+<fw type="authorial">4</fw>
+
+<p>our fire 
 this, and is making the reason for post-poning the publication of the poem till the Fall. The fact is, it is a poor business move for anything to be published in the Spring, and Judge Vinsonhaler has told Daddy as much. So we are really glad to have so good an excuse to present to Mr Latham. However for your own peace of mind I am telling you, that Daddy rewrote all those 250 lives in less than 24 hours - from memory!! Is this not great? 
-Daddy and I both have written to Mr Latham, asking him to call upon Amama and you, and when he comes, remember that you must not know Daddy has already rewritten 
+Daddy and I both have written to Mr Latham, asking him to call upon Amama and you, and when he comes, remember that you must not know Daddy has already rewritten </p>
 
-14 
-5
-those lost times, will you? All you do know is that Daddy lost them in a fire since you left us! hot? 
+<fw type="curatorial">14</fw>
+<fw type="authorial">5</fw>
+<p>those lost times, will you? All you do know is that Daddy lost them in a fire since you left us! hot? 
 It seems the standing lamp fell over on to Daddy's desk top and papers there caught fire - the whole top of the desk with all those little drawers, all our receipts etc were just charcoal when the fire was out! 
 If Daddy had not returned home when he did, the cartridges in his drawer would have caught fire and there would have been such an explosion that nobody would have been able to enter the house! 
-Mr Thompson was right on the job, let me tell you! And we are 
+Mr Thompson was right on the job, let me tell you! And we are </p>
 
-15
-6
-so glad we had insurance on the house anyway! Of course we had no in-surance on the books. of which Daddy lost about $40.00 worth-nor on the desk! But the lower part of it was not hurt, and the cedar novelty man has it now, and is putitng a new top on it. The ceilings in Daddy's room and in the front room are going to be en-tirely redone, and a new fixture is going in to Daddy's room - all this for our Insurance! You can see Miss Bennet writing the letter about damages, can't you?! 
-Next I must tell you that Aunt Lu is here - we are all so 
+<fw type="curatorial">15</fw>
+<fw type="authorial">6</fw>
 
-16
-7
-glad and I am very much relieved. Now, what will happen next? Daddy leaves Thursday for Omaha by train. he will stay at Hotel Wel-lington in that city. I do hope Grandma waits till he gets back with the money he is going to need! Such is Life! 
+<p>so glad we had insurance on the house anyway! Of course we had no in-surance on the books. of which Daddy lost about $40.00 worth-nor on the desk! But the lower part of it was not hurt, and the cedar novelty man has it now, and is putitng a new top on it. The ceilings in Daddy's room and in the front room are going to be en-tirely redone, and a new fixture is going in to Daddy's room - all this for our Insurance! You can see Miss Bennet writing the letter about damages, can't you?! 
+Next I must tell you that Aunt Lu is here - we are all so</p>
+
+<fw type="curatorial">16</fw>
+<fw type="authorial">7</fw>
+
+<p>glad and I am very much relieved. Now, what will happen next? Daddy leaves Thursday for Omaha by train. he will stay at Hotel Wel-lington in that city. I do hope Grandma waits till he gets back with the money he is going to need! Such is Life! 
 Mr Prince has made the most beautiful hand decorated illumina-ted wall card of "Let me live out my years" and now he is working on the Easter Poem - Please tell Amama all about this wonderful old man. 
-The Lynch girls were so thrilled to hear form you - I read them from 
+The Lynch girls were so thrilled to hear form you - I read them from</p>
 
-17
-8
-your letter - and they send their love to you. Daddy and I drove otu there yesterday afternoon leaving Mrs. Patten with Grandma. 
+<fw type="curatorial">17</fw>
+<fw type="authorial">8</fw>
+<p>your letter - and they send their love to you. Daddy and I drove otu there yesterday afternoon leaving Mrs. Patten with Grandma. 
 Alice was invited to Cantwells! to a party this afternoon - She wore that bright blue silk dress that used to be Hilda's with the flowers on the sleeves. I washed it and made it up and it looks brand new. 
 I hope your box reached you O.K. Tell me! 
 Next I will send Amamma's baby and Doone's and your little best-paper weight. 
-I was so glad for news of Doone in your letter to - and for all close you told - Loads of Love to you both from Mama. 
+I was so glad for news of Doone in your letter to - and for all close you told - </p>
+<closer>
+<salute>Loads of Love to you both </salute>
+<signed>from Mama.</signed>
+<note>S 
+P.S. Tell Amama 
+"Hello"</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI> 

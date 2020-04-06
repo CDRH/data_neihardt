@@ -1,23 +1,154 @@
 <?xml version="1.0" encoding="UTF-8"?>
-53
-SIGURD NEIHARDT COLLECTION 
-M. Jan 4, 1932 
-noble kreider
-Dear Sig, 
-Many thanks for the copy of the Wars you so kindly sent me. I appreciate your thought and the inscription your father wrote in it. I shall in course of time send you anot-her copy as you requested. You will not care I am sure I wait till I have time in Chicago to go to Brentanos for one. I go to Chicago now to teach, having nine pupils there six hour lessons, one thre-quarters and two half-hour. 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.9.53.55">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Noble Kreider to Sigurd Neihardt, January 4, 1932</title>
+<author>Kreider, Noble</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.9.53.55</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Noble Kreider to Sigurd Neihardt, January 4, 1932</title>
+<date when="1932-01-04">January 4, 1932</date>
+<extent>3 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="http://viaf.org/viaf/70955955">Kreider, Noble W. (Noble Wickham)</persName>
+<placeName></placeName>
+<date when="1932-01-04"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Sigurd</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Sigurd</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.9.53.55.001" />
+<fw type="curatorial">53</fw>
+<note type="curatorial">SIGURD NEIHARDT COLLECTION </note>
+
+<opener>
+<dateline>M. Jan 4, 1932
+</dateline>
+<fw type="letterhead">noble kreider</fw>
+<salute>Dear Sig,</salute>
+</opener>
+
+<p>Many thanks for the copy of the Wars you so kindly sent me. I appreciate your thought and the inscription your father wrote in it. I shall in course of time send you anot-her copy as you requested. You will not care I am sure I wait till I have time in Chicago to go to Brentanos for one. I go to Chicago now to teach, having nine pupils there six hour lessons, one thre-quarters and two half-hour. 
 You see I am busy. I am sure I coudl have more but I feel this enough at present.
 I am ill, having a wretched cold. Providence in looking over His book discovered I had not ahd a cold for over a year and in case I should forget I am a mortal, having no ails, sent one to me. I haven't the slightest idea where i picke-d it up. I am confined to the house. Yesterday and this morning I have been spending with my lady not withstanding the cold(she acts like a C.S.) 
-and have another small work nearly finished, a Prelude again. I am so clsoe to it I cant tell you if it be good or not. One thing sure it is not in the class of the cheap which, thank God I am incapable. 
+and have another small work nearly finished, a Prelude again. I am so clsoe to it I cant tell you if it be good or not. One thing sure it is not in the class of the cheap which, thank God I am incapable. </p>
 
-54
-When I feel equal to do up the Waltz you shall have it. But I warn you you have seen nothing like it. A friend plays it(a pupil of Phillip) who todl me she always has to repeat it. I enjoy hearing her do it. 
-As far as I am concerned jazz does not exist. Being mortal and associating with others of my kind I must hear it at tim-es. I will confess I have listened <del>at times</del> with interest to the rhythm which at times is interesting. Melody does not exist in it; the whole thing is the very thing that an undevloped human(at times dogs) has, This is the reason it appeals to uncultivated people. could you get any uplift from reading Guest? the Duchess? or any of the writer-s the mob reads? I would say a "pupil of piano" might expect to get someplace by practising Jazz; but where? Surely not the place you would care to reach. Where woudl your father have gone had he chosen(he couldn't) to write jazz in verse? There apparently is only one chase in life, that of ifnding the greatest satisfaction, and each man goes after and fuller life and find it, some in drink and women any amusement that drives away thought; others in searching out beauty in temperance and thought. I will stop as I am no good making sermons; but I do feel keenly 
+<fw type="curatorial">54</fw>
+<p>When I feel equal to do up the Waltz you shall have it. But I warn you you have seen nothing like it. A friend plays it(a pupil of Phillip) who todl me she always has to repeat it. I enjoy hearing her do it. 
+As far as I am concerned jazz does not exist. Being mortal and associating with others of my kind I must hear it at tim-es. I will confess I have listened <del>at times</del> with interest to the rhythm which at times is interesting. Melody does not exist in it; the whole thing is the very thing that an undevloped human(at times dogs) has, This is the reason it appeals to uncultivated people. could you get any uplift from reading Guest? the Duchess? or any of the writer-s the mob reads? I would say a "pupil of piano" might expect to get someplace by practising Jazz; but where? Surely not the place you would care to reach. Where woudl your father have gone had he chosen(he couldn't) to write jazz in verse? There apparently is only one chase in life, that of ifnding the greatest satisfaction, and each man goes after and fuller life and find it, some in drink and women any amusement that drives away thought; others in searching out beauty in temperance and thought. I will stop as I am no good making sermons; but I do feel keenly </p>
 
-55
-an interest in telling young men a few things the extra yeras I have lived have brought me. But al lthis is platit-ude. If a man prefers jazz you have his spiritual status. You will find the Tausig you want in volume 981 Steingra ber Edition. If you have trouble egtting it let me know that I may order it for you. If you will play the Saint-Saens as it should be played you can make a tremendous effect with it. If you wnat brilliant things, egt the 4th Hungarian Rhapsod-y of Liszt, a good work. In the Tausig volume you will find his arrangement of Man lebt nu<del/> einmal a very good concett number. 
-I am glad you were liked even on the old upright. Have you seenthe collected Chopin letters? 
-Best wishes and love for you all, 
-your friend,
-Home, Monday Noon. 
-Nill. 
-How is your Grandmother? 
+<fw type="curatorial">55</fw>
+<p>an interest in telling young men a few things the extra yeras I have lived have brought me. But al lthis is platit-ude. If a man prefers jazz you have his spiritual status. You will find the Tausig you want in volume 981 Steingra ber Edition. If you have trouble egtting it let me know that I may order it for you. If you will play the Saint-Saens as it should be played you can make a tremendous effect with it. If you wnat brilliant things, egt the 4th Hungarian Rhapsod-y of Liszt, a good work. In the Tausig volume you will find his arrangement of Man lebt nu<del/> einmal a very good concett number. 
+I am glad you were liked even on the old upright. Have you seenthe collected Chopin letters? </p>
+
+<closer>
+<salute>Best wishes and love for you all, 
+your friend,</salute>
+<signed>Home, Monday Noon. 
+Nill. </signed>
+<note>How is your Grandmother? </note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

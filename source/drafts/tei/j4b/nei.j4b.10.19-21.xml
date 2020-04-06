@@ -1,38 +1,176 @@
 <?xml version="1.0" encoding="UTF-8"?>
-5 
-Neihardt Collection 
-19
-ABSOLUTELY FIREPROOF 
-<FIGURE/> Comstock Hotel 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.10.19.21">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Dear Ones, January 18, 1934</title>
+<author>Neihardt, John G.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&amp;#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.10.19.21</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from John G. Neihardt to Dear Ones, January 18, 1934</title>
+<date when="1934-01-18">January 18, 1934</date>
+<extent>pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5038108">Moorhead (Minn.)</placeName>
+<date when="1934-01-18"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Dear Ones</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Dear Ones</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name>Carney, Mary Jo.</name> Transcription</change>
+<change when="2019"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.10.19.21.001" />
+<fw type="curatorial">19</fw>
+<note type="curatorial">5</note>
+
+<fw type="letterhead">ABSOLUTELY FIREPROOF 
+Comstock Hotel 
 FRANK F. DUNLAP 
 PROPR. 
 Thursday, 8 a.m. 
-MOORHEAD, MINN. Jan 18 '34
-Dear Ones:
-Had a fine time yesterday in Minneapolis's. Everybody well there. Went to see A. J. Russell at the Journal. He, Neil & I had lunch together at Shicks. It was bully to feel old Russell again, & he was as glad as I. You will remember that my old boyhood pal, "Dick" Medical Sciences at the Minnesota University and one of the most distinguished <del>in</del> men in the medical world. Yesterday Mrs. Scammon called Lulu (after a deuce of a time tracing her) and invited all of us to <del/> dinner Sunday evening. It will be great to see old Dick again Good Lord! It will be hard to call him Doctor! I think I won't do it. Then Teena will have us to the Ritzy place of Minneapolis for another. 
+MOORHEAD, MINN. </fw>
+<opener>
+<dateline>Jan 18 '34
+</dateline>
+<salute>Dear Ones:</salute>
+</opener>
 
-20 
-(2) 
-ABSOLUTELY FIREPROOF 
-<FIGURE/> Comstock Hotel 
+<p>Had a fine time yesterday in Minneapolis's. Everybody well there. Went to see A. J. Russell at the Journal. He, Neil &amp; I had lunch together at Shicks. It was bully to feel old Russell again, &amp; he was as glad as I. You will remember that my old boyhood pal, "Dick" Medical Sciences at the Minnesota University and one of the most distinguished <del>in</del> men in the medical world. Yesterday Mrs. Scammon called Lulu (after a deuce of a time tracing her) and invited all of us to <del/> dinner Sunday evening. It will be great to see old Dick again Good Lord! It will be hard to call him Doctor! I think I won't do it. Then Teena will have us to the Ritzy place of Minneapolis for another. 
+</p>
+
+<fw type="curatorial">20</fw>
+<fw type="authorial">(2)</fw>
+<fw type="letterhead">ABSOLUTELY FIREPROOF 
+Comstock Hotel 
 FRANK F. DUNLAP 
 PROPR. 
-MOORHEAD, MINN._______________________
-eating Saturday evening. My coming to Moorhead was in the Minneapolis papers. 
-Last evening Lulu, the two boys & I went to the Orpheum to want for my 10:50 train to Moorhead - the saw & heard Kate Smith in person. Mona, she is a moose and sings like a lark with a powerful but clear & sweet & flexible voice. This seems impossible, I know But that noise we heard was certainly not Kate Smith. Everybody seems to love her - big fat, active thing with a warm heart. A bit coarse in action, but a wonderful voice. 
-I had a good night. Got here at 7:30 a.m. It's not cold here - just a bit nippy, although <del>I am</del> is is as far North as Duluth. This is the country where Mrs. Holsen grew up. The Red River is close. 
+Thursday, 8 a.m. 
+MOORHEAD, MINN._______________________ </fw>
 
-21
-(3) 
-ABSOLUTELY FIREPROOF 
-<FIGURE/> Comstock Hotel 
+<p>eating Saturday evening. My coming to Moorhead was in the Minneapolis papers. 
+Last evening Lulu, the two boys &amp; I went to the Orpheum to want for my 10:50 train to Moorhead - the saw &amp; heard Kate Smith in person. Mona, she is a moose and sings like a lark with a powerful but clear &amp; sweet &amp; flexible voice. This seems impossible, I know But that noise we heard was certainly not Kate Smith. Everybody seems to love her - big fat, active thing with a warm heart. A bit coarse in action, but a wonderful voice. 
+I had a good night. Got here at 7:30 a.m. It's not cold here - just a bit nippy, although <del>I am</del> is is as far North as Duluth. This is the country where Mrs. Holsen grew up. The Red River is close.</p>
+
+<fw type="curatorial">21</fw>
+<fw type="authorial">(3)</fw>
+<fw type="letterhead">ABSOLUTELY FIREPROOF 
+Comstock Hotel 
 FRANK F. DUNLAP 
 PROPR. 
-MOORHEAD, MINN._______________________
-Have just seen a Prof. from the College. Very nice & very cordial It's to be quite an affair, & has been armourred in the Fargo daily as "the oustanding event" of the <unclear/> season. I remarked that much would defend upon the quality of the rest of it! 
-By Donald & I are really good friends. He & I both know it without trying. They weren't that we drive up here in the answer & on up into the North Woods. We may, too. 
-I love this dry snappy air. It gives <unclear/> & is not at all hard to stand. Minneapolis was about the same as here. Snow all the way worth of Des Moines. 
-Endless love for all
-four of you
-Jno. 
-Dad. 
+Thursday, 8 a.m. 
+MOORHEAD, MINN._______________________ </fw>
+
+<p>Have just seen a Prof. from the College. Very nice &amp; very cordial It's to be quite an affair, &amp; has been armourred in the Fargo daily as "the oustanding event" of the <unclear/> season. I remarked that much would defend upon the quality of the rest of it! 
+By Donald &amp; I are really good friends. He &amp; I both know it without trying. They weren't that we drive up here in the answer &amp; on up into the North Woods. We may, too. 
+I love this dry snappy air. It gives <unclear/> &amp; is not at all hard to stand. Minneapolis was about the same as here. Snow all the way worth of Des Moines.</p>
+
+
+<closer>
+<salute>Endless love for all
+four of you</salute>
+<signed>Jno. 
+Dad.</signed>
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

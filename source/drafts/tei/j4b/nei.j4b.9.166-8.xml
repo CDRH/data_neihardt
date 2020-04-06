@@ -1,43 +1,187 @@
 <?xml version="1.0" encoding="UTF-8"?>
-166
-FIREPROOF EUROPEAN PLAN 
-<FIGURE/>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.9.166.168">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Sigurd Neihardt to Maxine M. Neihardt, October 29, 1932</title>
+<author>Neihardt, Sigurd</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&amp;#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.9.October 29, 1932</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Sigurd Neihardt to Maxine M. Neihardt, October 29, 1932</title>
+<date when="1932-10-29"></date>
+<extent>3 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Sigurd</persName>
+<placeName ref="http://www.geonames.org/5697383">McCook (Neb.)</placeName>
+<date when="1932-10-29"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Maxine M.</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Maxine M.</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2019"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.9.166.168.001" />
+<fw type="curatorial">166</fw>
+<note type="curatorial"></note>
+
+<opener>
+<fw type="letterhead">FIREPROOF EUROPEAN PLAN 
+<figure><ab>
     HOTEL KEYSTONE
-    <FIGURE/> K 
-    POLAND, MERRELL & STEPHENS
+    K</ab></figure>
+    POLAND, MERRELL &amp;amp; STEPHENS
     LESSEES
     C.B. STEPHENS, MGR. 
-    McCOOK, NEBRASKA 
-10-29-'32,
-Mc-Cook Neb. 
-Sweetheart, 
-Just have a minute or so this A.M. (8:30) in which to write you a few words! Please forgive me for the anger I ex-pressed in that last letter (Spec. Del.)! 
-I know you under-stand me, & can see that I am honest with you, & therefore it makes me mad for an "outsider" to talk about something untrue & 
+    McCOOK, NEBRASKA </fw>
+<dateline>10-29-'32,
+Mc-Cook Neb.
+</dateline>
+<salute>Sweetheart,</salute>
+</opener>
 
-167
-FIREPROOF EUROPEAN PLAN 
-    <FIGURE/>
+<p>Just have a minute or so this A.M. (8:30) in which to write you a few words! Please forgive me for the anger I ex-pressed in that last letter (Spec. Del.)! 
+I know you under-stand me, &amp; can see that I am honest with you, &amp; therefore it makes me mad for an "outsider" to talk about something untrue &amp; </p>
+
+<fw type="curatorial">167</fw>
+<fw type="letterhead">FIREPROOF EUROPEAN PLAN 
+<figure><ab>
     HOTEL KEYSTONE
-    <FIGURE/> K 
-    POLAND, MERRELL & STEPHENS
+    K</ab></figure>
+    POLAND, MERRELL &amp;amp; STEPHENS
     LESSEES
     C.B. STEPHENS, MGR. 
-    McCOOK, NEBRASKA 
--2-
-entirely "against my grain" 
-Perhaps (above) a word mispelled, but I am getting ready to play at the "Fox" Theatre, & have no time to correct it! 
-I love you, sweet girl; and it will be a pleasure almost difficult to believe when I see my sweetheart soon! 
-With endless love, 
-As ever, 
-Sig. 
+    McCOOK, NEBRASKA </fw>
+<fw type="authorial">-2-</fw>
 
-168
-After.........days, return to 
+<p>entirely "against my grain" 
+Perhaps (above) a word mispelled, but I am getting ready to play at the "Fox" Theatre, &amp; have no time to correct it! 
+I love you, sweet girl; and it will be a pleasure almost difficult to believe when I see my sweetheart soon! </p>
+
+
+<closer>
+<salute>With endless love, 
+As ever,</salute>
+<signed>Sig. </signed>
+<note></note>
+</closer>
+
+</div1>
+<div1 type="envelope">
+<fw type="curatorial">168</fw>
+
+<fw>After.........days, return to 
 .......................................
 .......................................
-McCOOK, NEBR. 
-McCOOK, NEBR. OCT28 1-PM 1932 
-UNITEDSTATESPOSTAGE <FIGURE/> 3CENTS3
-Miss Maxine Melton, 
-Branson, 
-Missouri. 
+McCOOK, NEBR. </fw>
+
+<ab type="postmark">McCOOK, NEBR. OCT28 1-PM 1932</ab>
+
+<figure type="stamp"><ab>UNITEDSTATESPOSTAGE <figure><ab> 3CENTS3</ab></figure></ab></figure>
+
+<ab type="address">
+<address>
+<addrLine>Miss Maxine Melton, </addrLine>
+<addrLine>Branson, 
+Missouri.</addrLine>
+</address>
+</ab>
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

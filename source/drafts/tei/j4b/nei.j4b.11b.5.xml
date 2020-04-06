@@ -1,12 +1,164 @@
 <?xml version="1.0" encoding="UTF-8"?>
-5
-Fink Collection 
-51
-OZARK JUN16 10-1935 THIS SIDE OF CARD IS FOR ADDRESS 
-UNITEDSTATESPOSTAGE <FIGURE/> ONECENT 1WASHINGTON1
-The Misses Neihardt 
-Branson 
-Mo 
-Ozark 
-Dearest children including Max we are sitting in the window of the Ozark Cafe waiting for "Hot Cakes" and coffee - It quit rain-ing at 8 o'clock and the Sun peep ed through the clouds at us! The car is running perfectly and we are all three as happy as can be - I'll never forget the sight of you 4 darlings like birdies in a nest calling out to us as we left. Mama is very rich and very fortunate and she loves you a lot
-Mother 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.11b.5">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Mona Martinsen Neihardt to Enid, Hilda, Sigurd, and Alice Neihardt,
+June 16, 1935 </title>
+<author>Neihardt, Martinsen Mona</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2020</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.X.X</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Mona Martinsen Neihardt to Enid, Hilda, Sigurd, and Alice Neihardt,
+June 16, 1935</title>
+<date when="1935-06-16">June 16, 1935</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Martinsen Mona</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+<date when="1935-06-16"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Enid</persName>
+<persName>Neihardt, Alice</persName>
+<persName>Neihardt, Sigurd</persName>
+<persName>Neihardt, Hilda</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Enid</persName></person>
+<person role="recipient"><persName>Neihardt, Alice</persName></person>
+<person role="recipient"><persName>Neihardt, Sigurd</persName></person>
+<person role="recipient"><persName>Neihardt, Hilda</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2020"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2020"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="envelope">
+
+<pb facs="nei.j4b.11b.5.001" />
+<fw type="curatorial"></fw>
+<note type="curatorial">Fink Collection 
+51></note>
+
+<ab type="postmark">OZARK JUN16 10-1935 THIS SIDE OF CARD IS FOR ADDRESS</ab>
+
+<figure type="stamp"><ab>UNITEDSTATESPOSTAGE ONECENT 1WASHINGTON1</ab></figure>
+
+<ab type="return">
+<address>
+<addrLine>The Misses Neihardt </addrLine>
+<addrLine>Branson 
+Mo</addrLine>
+</address>
+</ab>
+</div1>
+
+<div1 type="letter">
+<fw>Ozark</fw>
+<opener>
+<dateline>
+</dateline>
+<salute>Dearest children</salute>
+</opener>
+
+<p>including Max we are sitting in the window of the Ozark Cafe waiting for "Hot Cakes" and coffee - It quit rain-ing at 8 o'clock and the Sun peep ed through the clouds at us! The car is running perfectly and we are all three as happy as can be - I'll never forget the sight of you 4 darlings like birdies in a nest calling out to us as we left. Mama is very rich and very fortunate and she loves you a lot</p>
+
+<closer>
+<salute></salute>
+<signed>Mother </signed>
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
