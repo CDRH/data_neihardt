@@ -1,21 +1,157 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Neihardt Collection 
-9
-1936
-3
-ST. LOUIS POST-DISPATCH 
-EDITORIAL DEPARTMENT 
-Tues. Evening 
-Dearest Girl:
-Supper just finished. Rec'd your good letter an hour ago. 
-I wonder if I seem not ot be writing often enough. If so, you're in my round pretty often through the day, & I often wish you were here, my job requires a surprising amount of jumping around and fussing with details. It worries me, but it's not an unhappy weariness at all, I like it. I'm sure you'll liek the second logo better. I think ti is pretty good, and the third will be so good, I believe I have stocks of stuff all ready, could run two pages easily, wish I had two pages every week, may have them later on, of pubs, offer moe advertising. 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.X.X">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Alice Neihardt, 1936</title>
+<author>Neihardt, John G.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2020</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.12.3.4</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from John G. Neihardt to Alice Neihardt, 1936</title>
+<date when="1936">1936</date>
+<extent>pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term>Neihardt, Hilda</term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+<date when="1936"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Alice</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Alice</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2020"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2020"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.12.3.4.001" />
+<fw type="curatorial">Neihardt Collection</fw>
+<note type="curatorial">9</note>
+<fw type="curatorial">3</fw>
+
+<fw type="letterhead">ST. LOUIS POST-DISPATCH 
+EDITORIAL DEPARTMENT </fw>
+<opener>
+<dateline>Tues. Evening  1936
+</dateline>
+<salute>Dearest Girl:</salute>
+</opener>
+
+<p>Supper just finished. Rec'd your good letter an hour ago. 
+I wonder if I seem not ot be writing often enough. If so, you're in my round pretty often through
+the day, &amp; I often wish you were here, my job requires a surprising amount of jumping around and fussing with details. It worries me, but it's not an unhappy weariness at all, I like it. I'm sure you'll liek the second logo better. I think ti is pretty good, and the third will be so good, I believe I have stocks of stuff all ready, could run two pages easily, wish I had two pages every week, may have them later on, of pubs, offer moe advertising. 
 I will send you $25 this next week and, $20 regularly thereafter. If you can accumulate for something later 
 No, I dont' go on mediums either Don't want to plan on leaving Branson until I see a good reason. 
-(over) 
+(over) </p>
 
-4
-I must send Hiddy $25 extra this week. New term?, <unclear/>, though she doens't say. 
-<unclear/> today with the head of the "American Guile" for Mo., oversees the work in all the states. It's a cultural survey of America in 48 volumes being prepared by the govt. I'm advisor for Mo. & Neb., you may remember, Had nice time. It was at the May fair. 
-Golly, I wish the mediums prophecy were true! I do believe we'll be made to go to California sooner or later. They've all said that, & I feel it. I'm not so sure about prizes!! 
-Alice, old lady, write your Dad a good letter. I'm eager to hear from you. And I awnt to hear from Dandy Dad
-Endless love to both Jno. 
+<fw type="curatorial">4</fw>
+<p>I must send Hiddy $25 extra this week. New term?, <unclear/>, though she doens't say. 
+<unclear/> today with the head of the "American Guile" for Mo., oversees the work in all the states.
+It's a cultural survey of America in 48 volumes being prepared by the govt. I'm advisor for Mo.
+&amp; Neb., you may remember, Had nice time. It was at the May fair. 
+Golly, I wish the mediums prophecy were true! I do believe we'll be made to go to California sooner
+or later. They've all said that, &amp; I feel it. I'm not so sure about prizes!! 
+Alice, old lady, write your Dad a good letter. I'm eager to hear from you. And I awnt to hear from Dandy Dad</p>
+
+<closer>
+<salute>Endless love to both</salute>
+<signed>Jno.</signed>
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

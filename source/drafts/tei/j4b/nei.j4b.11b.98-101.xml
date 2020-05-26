@@ -1,38 +1,186 @@
 <?xml version="1.0" encoding="UTF-8"?>
-98
-Monday P.M. 
-Dearest Enid:
-WAs so glad to get your <unclear/> letter. 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.98.101">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Hilda Neihardt to Enid Neihardt, October 21, 1935</title>
+<author>Neihardt, Hilda</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2020</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.11b.98.101</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Hilda Neihardt to Enid Neihardt, October 21, 1935</title>
+<date when="1935-10-21">October 21, 1935</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term>Hugh M.</term>
+<term>Betty</term>
+<term>Frankie</term>
+<term>Alice Neihardt</term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Niehardt, Hilda</persName>
+<placeName ref="http://www.geonames.org/5081454">Wayne (Neb.)</placeName>
+<date when="1935-10-21"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Enid</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Enid</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2020"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2020"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.11b.98.101.001" />
+<fw type="curatorial">98</fw>
+<note type="curatorial"></note>
+
+<opener>
+<dateline>Monday P.M.
+</dateline>
+<salute>Dearest Enid:</salute>
+</opener>
+
+<p>WAs so glad to get your <unclear/> letter. 
 Oh, Enid, I was worried about the possible effects the Jake letter from Frankie to Betty, after I heard that F. was sort of - well, not so friendly as usual - so I told Betty not to answer. She was completely fooled, thouhg. It's too bad I told her, perhaps. 
-Of course I don't know Hugh M. at all - having seen him only once - but if you think he's as O.K. 
+Of course I don't know Hugh M. at all - having seen him only once - but if you think he's as O.K.</p>
 
-as he seems, I'd like very much to have him for a brother - in - law! 
+<p>as he seems, I'd like very much to have him for a brother - in - law! 
 I've had a few good times. We've had a hall dance on two or three, and they were quite enjoyable. I'm rather friendly witha  rather nice young man here. We, I believe, likes me a lot; I could never be more thana friend to him. 
-I'm give out with him several times. Saturday night Edith and I went to the dance down town. We had a very good time; in fact, we hat so much to leave that we got in 15 minute late. That's not going to be so very <unclear/> though. I shall probably go to the Homecoming from - 
+I'm give out with him several times. Saturday night Edith and I went to the dance down town. We had a very good time; in fact, we hat so much to leave that we got in 15 minute late. That's not going to be so very <unclear/> though. I shall probably go to the Homecoming from -</p>
 
-99
-unless Betty comes home then 
-If she does, I'll probably not go - for she won't be here long, and I'd hate to not get to see her ^except for a few minutes a maybe home. If I go, it will be nice. Perhaps I'll have a good time. I'll wear my evening gown. You don't know how hard it is for me to get other people to realize that I'm interested in anything other than studies. They out Hilda Neihardt on a sort of pedestal of scholarship & honor, am never dream that maybe she just an ordinary girl is many, most ways. 
+<fw type="curatorial">99</fw>
+<p>unless Betty comes home then 
+If she does, I'll probably not go - for she won't be here long, and I'd hate to not get to see her
+^except for a few minutes a maybe home. If I go, it will be nice. Perhaps I'll have a good time.
+I'll wear my evening gown. You don't know how hard it is for me to get other people to realize that
+I'm interested in anything other than studies. They out Hilda Neihardt on a sort of pedestal of
+scholarship &amp; honor, am never dream that maybe she just an ordinary girl is many, most ways. </p>
 
-For all my sins I've <unclear/> a cold as chastisement. A rather bad one, two, although not so bad as Alice's. Poor kid! I surely <unclear/> her! 
+<p>For all my sins I've <unclear/> a cold as chastisement. A rather bad one, two, although not so bad as Alice's. Poor kid! I surely <unclear/> her! 
 I had such an enjoyable time with the Conns!! I hated to see them leave this morning  - it's just like some of my our folks leaving! They asked about you - Said the political job turned out to be nothing. 
 I have to attend two meetings this afternoon. One is of the Y.M.CA. chairmen, the other of those in charge of Homecoming program. 
-Oh, it's cold and damp here! All the leaves are gone. Are they gone at home? Tell me, please. 
-JOHN G. NEIHARDT CENTER 
+Oh, it's cold and damp here! All the leaves are gone. Are they gone at home? Tell me, please. </p>
+<fw type="curatorial">JOHN G. NEIHARDT CENTER</fw>
 
-100 
-Friday Night I saw "Little America", a <unclear/> of Admiral Bird's visit to Little America. Quite a fine and worthwhile picture. 
-Well, old kid, write me - telling me all your troubles & joys. I was surprised - really - about Tracy. I didn't realize it was that had with him. 
-Have to dash off to those meetings now, or I'd write more. Oh, I'm so very busy!! 
-Plenty of Love, 
-Hilda
-P.S. Won't let anyone get the idea that I'm running dancing into the ground - I'm not 
+<fw type="curatorial">100</fw>
+<p>Friday Night I saw "Little America", a <unclear/> of Admiral Bird's visit to Little America. Quite a fine and worthwhile picture. 
+Well, old kid, write me - telling me all your troubles &amp; joys. I was surprised - really - about Tracy. I didn't realize it was that had with him. 
+Have to dash off to those meetings now, or I'd write more. Oh, I'm so very busy!!</p>
+<closer>
+<salute>Plenty of Love,</salute>
+<signed>Hilda</signed>
+<note>P.S. Won't let anyone get the idea that I'm running dancing into the ground - I'm not</note>
+</closer>
 
-101
-Hilda Neihardt 
-Wayne, Nebr. 
+</div1>
+<div1 type="envelope">
+<fw type="curatorial">101</fw>
+<ab type="address">
+<address>
+<addrLine>Hilda Neihardt </addrLine>
+<addrLine>Wayne, Nebr.</addrLine>
+</address></ab>
+<ab type="postmark">
 WAYNE, NEBR OCT 21 6-PM 1935
-UNITEDST <FIGURE/> 3
-Miss Enid Neihard
-Branson, 
-Missouri 
+</ab>
+<figure type="stamp"><ab>UNITEDST 3</ab></figure>
+
+<ab type="return">
+<address>
+<addrLine>Miss Enid Neihard</addrLine>
+<addrLine>Branson, 
+Missouri</addrLine>
+</address></ab>
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
