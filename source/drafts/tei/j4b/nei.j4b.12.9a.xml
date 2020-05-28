@@ -1,9 +1,126 @@
 <?xml version="1.0" encoding="UTF-8"?>
-9a
-GRAND PRIX PARIS, 1900
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.12.9a">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Sigurd Neihardt to Mona Martinsen Neihardt, March 27, 1936</title>
+<author>Neihardt, Sigurd</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.12.9a</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Sigurd Neihardt to Mona Martinsen Neihardt, March 27, 1936</title>
+<date when="1936-03-27">March 27, 1936</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term>Neihardt, Maxine Melton</term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Sigurd</persName>
+<placeName></placeName>
+<date when="1936-03-27"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Mona Martinsen</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Mona Martinsen</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2020"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2020"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.12.9a.001" />
+<fw type="curatorial">9a</fw>
+<note type="curatorial"></note>
+<fw type="letterhead">GRAND PRIX PARIS, 1900
 GRAND PRIZE ST. LOUIS, 1904 
 GRAND PRIZE, LONDON 1914
-<FIGURE/> 
+<figure><ab>piano with lotuses</ab></figure> 
 ESTABLISHED 1862
 THE BALDWIN PIANO COMPANY 
 INCORPORATED
@@ -12,21 +129,38 @@ SELLING DIVISIONS CINCINNATI, CHICAGO NEW YORK SAN FRANCISCO LOUISVILLE ST. LOUI
 WHOLESALE - RETAIL - EXPORT 
 MANUFACTURING PLANTS CINCINNATI CHICAGO CABLE ADDRESS - BALDWIN CO 
 LOUISVILLE 
-THIRD & BROADWAY 
-3-27-36,
+THIRD &amp; BROADWAY </fw>
+
+<opener>
+<dateline>3-27-36,
 at store 
 <del>Fri. A.M.</del>
-Dearest Mama,
-I got to the store earlier this morning than usual, & have been listening to the new & heavenly records of the Victor Record Co., & played by the marvelous newly developed electric record played. 
-When one is blue, he can listen to these heartbreaking & gorgeous recordings - & then realize strongly that regardless of the suffering a person goes thru there is this one thing that always makes it seem worthwhile! 
-Oh God! How I pray that I can soon send you one of these record playing attachments which hooks onto your radio - so you may hear with radio clearness the exquisite beauty that is in these new records, 
-(over) 
+</dateline>
+<salute>Dearest Mama,</salute>
+</opener>
 
-everytime Max & I listen to these things - I say to her there is no - one in this World who loves the true beauty any more than you, & <del>that</del> who deserves to have this pleasure, I have another sale on for today it seems evident.
-Must close for now, & always I love you & think of you plenty every day! 
-Please take care of yourself! 
-Endless love,
-Sig. 
-P.S. 
-Can't play for two wks yet! Think how I have suffered for the need of my hands! S.N. 
-JOHN G. NEIHARDT CENTER 
+<p>I got to the store earlier this morning than usual, &amp; have been listening to the new &amp;
+heavenly records of the Victor Record Co., &amp; played by the marvelous newly developed electric record played. 
+When one is blue, he can listen to these heartbreaking &amp; gorgeous recordings - &amp; then realize strongly that regardless of the suffering a person goes thru there is this one thing that always makes it seem worthwhile! 
+Oh God! How I pray that I can soon send you one of these record playing attachments which hooks onto your radio - so you may hear with radio clearness the exquisite beauty that is in these new records, 
+(over)</p>
+
+<p>everytime Max &amp; I listen to these things - I say to her there is no - one in this World who
+loves the true beauty any more than you, &amp; <del>that</del> who deserves to have this pleasure, I have another sale on for today it seems evident.
+Must close for now, &amp; always I love you &amp; think of you plenty every day! 
+Please take care of yourself!</p>
+
+<closer>
+<salute>Endless love,</salute>
+<signed>Sig.</signed>
+<note type="authorial">P.S. 
+Can't play for two wks yet! Think how I have suffered for the need of my hands! S.N.</note>
+<fw>JOHN G. NEIHARDT CENTER </fw>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
