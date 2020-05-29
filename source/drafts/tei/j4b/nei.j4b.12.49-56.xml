@@ -1,42 +1,175 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Neihardt Collection 
-12
-49
-Sunday 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.12.49.56">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Mona Martinsen Neihardt to John G. Neihardt, May 17, 1936</title>
+<author>Neihardt, Martinsen Mona</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2020</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.12.49.56</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Mona Martinsen Neihardt to John G. Neihardt, May 17, 1936</title>
+<date when="1936-05-17">May 17, 1936</date>
+<extent>7 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term>Jed Smith</term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Martinsen Mona</persName>
+<placeName></placeName>
+<date when="1936-05-17"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2020"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2020"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.12.49.46.001" />
+<fw type="curatorial">Neihardt Collection </fw>
+<note type="curatorial">12
+49</note>
+
+<opener>
+<dateline>Sunday 
 [May 17, 1936]
-Dearest:
-Your huge checque once more received with many, many thanks. Please do not send any more extra money now. You cannot pile up savings towards the writing of Jed Smith if you don't draw in a little now. You are so good to so many of us, and all of us are a part of me - I do realize all 
+</dateline>
+<salute>Dearest:</salute>
+</opener>
 
-50 
-this keenly - and don't want to be drawing unnecessarily upon you - dear good wonderful man of mine - I must say this again in my awkward way, which I fear does not really mean to you what I am trying to put into words. 
-Dr Statsney is here - Bless her sweet, good loving woman heart-! 
+<p>Your huge checque once more received with many, many thanks. Please do not send any more extra money now. You cannot pile up savings towards the writing of Jed Smith if you don't draw in a little now. You are so good to so many of us, and all of us are a part of me - I do realize all</p>
 
-51
-3
-Oh what a pity she cannot have a good man like you and kitchen to putter in! She is having a good time with flies resting and "palling" about. They have gone to Marvel Cave and left me to be quiet - Oh I needed it. Dr will stay till Thurs day if I'm good and let her "do house work and 
+<fw type="curatorial">50</fw>
+<p>this keenly - and don't want to be drawing unnecessarily upon you - dear good wonderful man of mine - I must say this again in my awkward way, which I fear does not really mean to you what I am trying to put into words. 
+Dr Statsney is here - Bless her sweet, good loving woman heart-!</p>
 
-52
-4
-be around in her Pajamas and do as she ^pleases"! You know how fine that is for all concerned! 
-I'm afraid I have a little more puss trying to break through - out it cannot be much more. I understand this, if not localized, becomes "Flebitis"- I remember hearing of that trouble. The whole thing is for 
+<fw type="curatorial">51</fw>
+<fw type="authorial">3</fw>
+<p>Oh what a pity she cannot have a good man like you and kitchen to putter in! She is having a good time with flies resting and "palling" about. They have gone to Marvel Cave and left me to be quiet - Oh I needed it. Dr will stay till Thurs day if I'm good and let her "do house work and </p>
 
-53
-5
-me to keep quiet and wait Dr Stassey says. 
-Tofu dear - I'm sorry if I did not get news to you about those gradu ation presents in time, but I feel certian Enid can get money back, or buy something that you really should have in exchange for these, which if they arrive here? Will re-
+<fw type="curatorial">52</fw>
+<fw type="authorial">4</fw>
+<p>be around in her Pajamas and do as she ^pleases"! You know how fine that is for all concerned! 
+I'm afraid I have a little more puss trying to break through - out it cannot be much more. I understand this, if not localized, becomes "Flebitis"- I remember hearing of that trouble. The whole thing is for</p>
 
-54 
-6
-turn at once.-
-Those posts are too fun-ny for words! They make you feel crazy as they now are - but I'll keep as Coffelt till he makes them right and won't pay him till he does, so I have the 4-5 dollars ahead which you sent for him. Don't you think a Horive far on top with trailing ride would be 
+<fw type="curatorial">53</fw>
+<fw type="authorial">5</fw>
+<p>me to keep quiet and wait Dr Stassey says. 
+Tofu dear - I'm sorry if I did not get news to you about those gradu ation presents in time, but I feel certian Enid can get money back, or buy something that you really should have in exchange for these, which if they arrive here? Will re-</p>
 
-55
-7
-a lovely finish? <del/>
+<fw type="curatorial">54</fw>
+<fw type="authorial">6</fw>
+<p>turn at once.-
+Those posts are too fun-ny for words! They make you feel crazy as they now are - but I'll keep as Coffelt till he makes them right and won't pay him till he does, so I have the 4-5 dollars ahead which you sent for him. Don't you think a Horive far on top with trailing ride would be</p>
+
+<fw type="curatorial">55</fw>
+<fw type="authorial">7</fw>
+<p>a lovely finish? <del/>
 I'll have one fastened on top if you think it would be the thing. I told him about the plumb - line Gee you should all the post now! = <figure/> ! I'm sure he will get some better stones now and do it right! I had to let him go ahead as I was not up. - 
-Please excuse this - I am no good yet - Dr. Statsney just loves 
+Please excuse this - I am no good yet - Dr. Statsney just loves</p>
 
-56
-8
-this peace and beauty. She wants to place to come down here and do her writing when he has her Insurance money which will be in about 3 years or 7 I think. She will then have 50 dollars a month. She is going to see about the possibility of staying at the Lynches. Must quit with end less Loads and loads of Love 
-Mona. 
+<fw type="curatorial">56</fw>
+<fw type="authorial">8</fw>
+<p>this peace and beauty. She wants to place to come down here and do her writing when he has her Insurance money which will be in about 3 years or 7 I think. She will then have 50 dollars a month. She is going to see about the possibility of staying at the Lynches. Must quit with end less</p>
+
+<closer>
+<salute>Loads and loads of Love</salute>
+<signed>Mona.</signed>
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

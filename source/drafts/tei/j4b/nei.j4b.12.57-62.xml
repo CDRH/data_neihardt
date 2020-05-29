@@ -1,34 +1,176 @@
 <?xml version="1.0" encoding="UTF-8"?>
-10 Neihardt Collection 
-57
-Neihardt Branson Mo. 
-BRANSON MAY 18 7-AM 1936 MO. 
-UNITEDSTATESPOSTAGE <FIGURE/> WASHINGTON 3CENTS3
-Dr John G. Neihardt 
-301 Ilene Apartments 
-5544 Pershing 
-St. Louis, 
-Mo. 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-58
-[May 18, 1936]
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.12.57.62">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Mona Martinsen Neihardt to John G. Neihardt, May 18, 1936</title>
+<author>Neihardt, Martinsen Mona</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2020</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.12.57.62</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Mona Martinsen Neihardt to John G. Neihardt, May 18, 1936</title>
+<date when="1936-05-18">May 18, 1936</date>
+<extent>5 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term>Blanche Jurca</term>
+<term>Dr. Statsney</term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Martinsen Mona</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+<date when="1936-05-18"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/4407066">St. Louis (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2020"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2020"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="envelope">
+
+<pb facs="nei.j4b.12.57.62.001" />
+<fw type="curatorial">10 Neihardt Collection</fw>
+<note type="curatorial">57</note>
+
+<fw>Neihardt Branson Mo.</fw>
+
+<ab type="postmark">BRANSON MAY 18 7-AM 1936 MO.</ab>
+
+<figure type="stamp"><ab>UNITEDSTATESPOSTAGE WASHINGTON 3CENTS3
+</ab></figure>
+
+<ab type="return">
+<address>
+<addrLine>Dr John G. Neihardt</addrLine>
+<addrLine>301 Ilene Apartments</addrLine>
+<addrLine>5544 Pershing</addrLine>
+<addrLine>St. Louis, 
+Mo.</addrLine>
+</address>
+</ab>
+</div1>
+
+<div1 type="letter">
+<fw type="curatorial">58</fw>
+<opener>
+<dateline>[May 18, 1936]
 Monday AM 
-My own Darling: 
-We have been talk-ing about you and your work so much, Dr Statsney and I that I feel like I had gotten hold of things right side up once more. Isn't it aw ful to be going round and round and some out no where?! 
-You dear dear wonderful Man - I do so want to be worthy of you that I do the very thing to make me less so, even, than I woudl naturally be - but if you just love me every 
+</dateline>
+<salute>My own Darling:</salute>
+</opener>
 
-59
-thing is fine! - 
-Dr Statsney's cousin is Blanche Jurca the <unclear/> actress who plays the main role in A Tale of Two Cities (Meme Le Targe) you will remember? Now John I think she is just the woman to do your Russian Peasant Mother in 8 Hundred Ru-bels, and I read that Poem to Dr Statsney yesterday so that she too is very 
+<p>We have been talk-ing about you and your work so much, Dr Statsney and I that I feel like I had gotten hold of things right side up once more. Isn't it aw ful to be going round and round and some out no where?! 
+You dear dear wonderful Man - I do so want to be worthy of you that I do the very thing to make me less so, even, than I woudl naturally be - but if you just love me every </p>
 
-60 
-anxious to have Blanche know it. She says Blanche is doing Radio work now and is just at a turn - ing point in her career. She loves poetry of course. Now won't you please write her something complimentary about her acting in A Tale of Two Cities and saying maybe that you believe she could do your Mother? Send this 
+<fw type="curatorial">59</fw>
+<p>thing is fine! - 
+Dr Statsney's cousin is Blanche Jurca the <unclear/> actress who plays the main role in A Tale of Two Cities (Meme Le Targe) you will remember? Now John I think she is just the woman to do your Russian Peasant Mother in 8 Hundred Ru-bels, and I read that Poem to Dr Statsney yesterday so that she too is very</p>
 
-61
-with a copy of Collected Poems to Dr Statsney or may I give her a copy from here! and Dr. S will write Blanche and send these to her. John, how wonderful if she'd read Eight Hun dred Rubels over the Radio on the national hook up?! I'm so eager for you to do this at once dear.. Send the note to Blanche 
+<fw type="curatorial">60</fw>
+<p>anxious to have Blanche know it. She says Blanche is doing Radio work now and is just at a turn - ing point in her career. She loves poetry of course. Now won't you please write her something complimentary about her acting in A Tale of Two Cities and saying maybe that you believe she could do your Mother? Send this </p>
 
-62
-with a letter to Dr Stats very right now, here. She is looking after me and may stal till Thursday - I hope so. She is having a real rest too. 
-I'm better - Loads of Love, Darling
-Mona. 
-P.S. Will <del>state</del> yet the house painted as soon as I can get Black burn M.. 
+<fw type="curatorial">61</fw>
+<p>with a copy of Collected Poems to Dr Statsney or may I give her a copy from here! and Dr. S will write Blanche and send these to her. John, how wonderful if she'd read Eight Hun dred Rubels over the Radio on the national hook up?! I'm so eager for you to do this at once dear.. Send the note to Blanche </p>
+
+<fw type="curatorial">62</fw>
+<p>with a letter to Dr Stats very right now, here. She is looking after me and may stal till Thursday - I hope so. She is having a real rest too. 
+I'm better -</p>
+<closer>
+<salute>Loads of Love, Darling</salute>
+<signed>Mona.</signed>
+<note>P.S. Will <del>state</del> yet the house painted as soon as I can get Black burn M.. </note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

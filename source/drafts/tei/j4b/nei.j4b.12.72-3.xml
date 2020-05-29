@@ -1,16 +1,149 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Petri Collection 
-Sunday afternoon 
-72
-72
-[May 24, 1936]
-Most dearly beloved of Mothers:I just received Mrs. Mitchell's kind telegram telling of your being taken to Springfield. At first I felt weak and knocked out by the news, but I have turned to the one Great Source of Power, and I know you will be allright, How many times have I prayed for you? - Money. It is wonderful that I shall soon be near you - it has seemed terrible to me that in the time when I could perhaps be of some comfort to you, I should be so far away. Oh, dearest Matteo, nothing in all the world could ever fill the place for me that you do, and since there in God in Heaven, in whom I have such absolute faith, I know you will be well and strong again soon For I have so many things planned that we are going to do together. Why I could not be the one to suffer, I do not know - I should so much Prefer it to be that way. <unclear/> goodness I shall soon be home. 
-What have I been doing? Oh, lots of things 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-73
-It has really been a busy time for me. But the end of school is always that way. It has not been such a busy tiem, however, that I coudl not stop often and think of you. Have you not known that I was thinking of you? You must have. 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.12.72.73">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Hilda Neihardt Petri to Mona Martinsen Neihardt, May 24, 1936</title>
+<author>Petri, Hilda Neihardt</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2020</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.12.72.73</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Hilda Neihardt Petri to Mona Martinsen Neihardt, May 24, 1936</title>
+<date when="1935-05-24">May 24, 1936</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term>Mrs. Mitchell</term>
+</keywords>
+<keywords scheme="original" n="places">
+<term>Springfield (Mo.)</term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Petri, Hilda Neihardt</persName>
+<placeName></placeName>
+<date when="1936-05-24"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Mona Martinsen</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Mona Martinsen</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2020"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2020"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.12.72.73.001" />
+<fw type="curatorial">Petri Collection</fw>
+<note type="curatorial">Sunday afternoon 
+72
+72</note>
+
+<opener>
+<dateline>[May 24, 1936]
+</dateline>
+<salute>Most dearly beloved of Mothers:</salute>
+</opener>
+
+<p>I just received Mrs. Mitchell's kind telegram telling of your being taken to Springfield. At first I felt weak and knocked out by the news, but I have turned to the one Great Source of Power, and I know you will be allright, How many times have I prayed for you? - Money. It is wonderful that I shall soon be near you - it has seemed terrible to me that in the time when I could perhaps be of some comfort to you, I should be so far away. Oh, dearest Matteo, nothing in all the world could ever fill the place for me that you do, and since there in God in Heaven, in whom I have such absolute faith, I know you will be well and strong again soon For I have so many things planned that we are going to do together. Why I could not be the one to suffer, I do not know - I should so much Prefer it to be that way. <unclear/> goodness I shall soon be home. 
+What have I been doing? Oh, lots of things </p>
+
+<fw type="curatorial">73</fw>
+<p>It has really been a busy time for me. But the end of school is always that way. It has not been such a busy tiem, however, that I coudl not stop often and think of you. Have you not known that I was thinking of you? You must have. 
 There is so little I can say, yet so much: I feel, so much I should want to say. I love you as I always have - with all my heart and soul. Nothing iwll be too much for me to do if I can but help you. <unclear/> it shall be all the rest of our lives together. May the Grace of God be near to you in this your time of trouble, that he may help the doctors in what they are doing. 
-With my whole being I long to be near you, to whisper perhaps same word of encouragement. And now, get well, be well and happy again for your sake and the sake of all of us who love, adore, and need you. 
-Your daughter, 
-Hilda 
-II 
+With my whole being I long to be near you, to whisper perhaps same word of encouragement. And now, get well, be well and happy again for your sake and the sake of all of us who love, adore, and need you.</p>
+
+<closer>
+<salute>Your daughter,</salute>
+<signed>Hilda 
+II </signed>
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
