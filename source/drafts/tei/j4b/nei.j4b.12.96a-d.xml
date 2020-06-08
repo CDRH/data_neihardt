@@ -1,53 +1,187 @@
 <?xml version="1.0" encoding="UTF-8"?>
-96a
-ST. LOUIS POST-DISPATCH 
-EDITORAL DEPARTMENT 
-St. Louis 
-Mo. 
-June 29th 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.12.96a.d">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Enid Neihardt to Mona Martinsen Neihardt, June 29, 1936</title>
+<author>Neihardt, Enid</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2020</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.12.96a.d</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Enid Neihardt to Mona Martinsen Neihardt, June 29, 1936</title>
+<date when="1936-06-29">June 29, 1936</date>
+<extent>4 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term>Neihardt, Alice</term>
+<term>Neihardt, Hilda</term>
+</keywords>
+<keywords scheme="original" n="places">
+<term>Springfield (Mo.)</term>
+<term>Virginia</term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Enid</persName>
+<placeName ref="http://www.geonames.org/4407066">St. Louis (Mo.)</placeName>
+<date when="1936-06-29"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Mona Martinsen</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Mona Martinsen</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2020"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2020"><name>Hasan, Sara</name> Initial encoding</change>
+
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.12.96a.d.001" />
+<fw type="letterhead">ST. LOUIS POST-DISPATCH 
+EDITORAL DEPARTMENT </fw>
+<note type="curatorial"></note>
+
+<fw>St. Louis 
+Mo.</fw>
+<opener>
+<dateline>June 29th 
 1936.
-Dearest Mama:-
-I was so excited when I came home to find the special delivery from you Saturday. Just ot please you, I immediately called Nel-son with a mind to having him to dinner yesterday noon with Dad and me; however there was no chance, as he was very quick to say he was busy but that he'd call me soon. You've gotten this thing a bit wrong, Mama, I believe. Im-mediately after the tea at Stoker's I called them up the following week, asking Mrs. Stoker and her beloved son to take a picnic dinner with me to take the Park, 
+</dateline>
+<salute>Dearest Mama:-</salute>
+</opener>
 
-2
-and I'm sorry to say, they had an excuse then too - and a good one! That, if yoiu'll recall was the weekend Dad was at Springfield with you while you were so very ill. All I ask, Mama, is that you'll please end your worry over my affairs at once, for I'll be all right - and to please you, I shall try again with the Stokers. I have no right to force them - and, knowing Mrs. Stoker as you should, what she says is very likely to be extremely exaggerated. This may be applied to Nelson's affairs. Why isn't it perfectly natural for him to perhaps be in love with someone? Certainly, one could never tell through Mrs. Stoker; as sweet as she is in so many ways, she surely wants to 
+<p>I was so excited when I came home to find the special delivery from you Saturday. Just ot please you, I immediately called Nel-son with a mind to having him to dinner yesterday noon with Dad and me; however there was no chance, as he was very quick to say he was busy but that he'd call me soon. You've gotten this thing a bit wrong, Mama, I believe. Im-mediately after the tea at Stoker's I called them up the following week, asking Mrs. Stoker and her beloved son to take a picnic dinner with me to take the Park,</p>
 
-96b
-ST. LOUIS POST-DISPATCH 
-EDITORIAL DEPARTMENT 
-3
-guide her son to suit her con-venience - and just now, between you and one, it seems to be her strong desire to marry us if at all possible! Well, Mama, you should know me well enough to know how I'd react to such things! 
-At any rate, Mama, I want you to know that I deeply and sincerely appreciate your true interest in my wel-fare; however, I feel you can't be me to that great extent of knowing what sort of a mate I desire. I also know that you want the best for me and know that I need to choose my own life partner. I shall continue to be nice to Stokers, for, quite 
+<fw type="authorial">2</fw>
+<p>and I'm sorry to say, they had an excuse then too - and a good one! That, if yoiu'll recall was the weekend Dad was at Springfield with you while you were so very ill. All I ask, Mama, is that you'll please end your worry over my affairs at once, for I'll be all right - and to please you, I shall try again with the Stokers. I have no right to force them - and, knowing Mrs. Stoker as you should, what she says is very likely to be extremely exaggerated. This may be applied to Nelson's affairs. Why isn't it perfectly natural for him to perhaps be in love with someone? Certainly, one could never tell through Mrs. Stoker; as sweet as she is in so many ways, she surely wants to</p>
 
-4
-frankly, I think a lot of their friendships. But, unless a drastic turn takes place, please stop thinking about any possible marital relation-ship; for, to tell the truth, I am not, as yet, ready to delve into the seas of matri-mony - no, not until I find him. - And, what's more, when I do find him, I'll know it! And, I fear that he and I'll be the only ones who will know and realize the deep love. Isn't that always the way with love? No one but the victims really appreciate the beauty of that great and marvellous ecstasy! I may be thirty when I marry, but I shall not be fooled - you under-stand this, I know. 
+<fw type="authorial">3</fw>
+<fw type="curatorial">96b</fw>
+<fw type="letterhead">ST. LOUIS POST-DISPATCH 
+EDITORIAL DEPARTMENT 3</fw>
+<p>guide her son to suit her con-venience - and just now, between you and one, it seems to be her strong desire to marry us if at all possible! Well, Mama, you should know me well enough to know how I'd react to such things! 
+At any rate, Mama, I want you to know that I deeply and sincerely appreciate your true interest in my wel-fare; however, I feel you can't be me to that great extent of knowing what sort of a mate I desire. I also know that you want the best for me and know that I need to choose my own life partner. I shall continue to be nice to Stokers, for, quite</p>
 
-96c
-ST. LOUIS POST-DISPATCH 
-EDITORIAL DEPARTMENT 
-5
-Another thing, Mama, of course the deepest happiness is gained through having a family; but, believe me, after seeing what I have, there won't necessarily be any for me unless I can marry someone who can afford them. Then, too, after all, even though no one desires to stop life - no one could love babies more than I do - isn't it a kinder thing consider ing what may come in the future, to hold back on mak-ing more sufferers? I see so many Mama, in this city who certainly would have been better off inborn! I'm sure you understand that I 
+<fw type ="authorial">4</fw>
+<p>frankly, I think a lot of their friendships. But, unless a drastic turn takes place, please stop thinking about any possible marital relation-ship; for, to tell the truth, I am not, as yet, ready to delve into the seas of matri-mony - no, not until I find him. - And, what's more, when I do find him, I'll know it! And, I fear that he and I'll be the only ones who will know and realize the deep love. Isn't that always the way with love? No one but the victims really appreciate the beauty of that great and marvellous ecstasy! I may be thirty when I marry, but I shall not be fooled - you under-stand this, I know. </p>
 
-6
-am not against families, but merely against more lives brought into a world where there doens't, for the present seem to be a chance for any but the minority. 
+<fw type="curatorial">96c</fw>
+<fw type="letterhead">ST. LOUIS POST-DISPATCH 
+EDITORIAL DEPARTMENT </fw>
+<fw type="authorial">5</fw>
+
+<p>Another thing, Mama, of course the deepest happiness is gained through having a family; but, believe me, after seeing what I have, there won't necessarily be any for me unless I can marry someone who can afford them. Then, too, after all, even though no one desires to stop life - no one could love babies more than I do - isn't it a kinder thing consider ing what may come in the future, to hold back on mak-ing more sufferers? I see so many Mama, in this city who certainly would have been better off inborn! I'm sure you understand that I</p>
+
+<fw type="authorial">6</fw>
+<p>am not against families, but merely against more lives brought into a world where there doens't, for the present seem to be a chance for any but the minority. 
 Well, no doubt I shall get married and have at least two - a boy and a girl -. At least if I held the selfish view, that's just what I'd do. I shan't have more than two, however, if I can help it. 
 So happy over Mrs. Wilson's interest in my quilt. Will be so happy to see it. 
-Yesterday, Dad and I went into the park, taking a lovely stroll in its natural beauty. It's such a help to us - rather breaks the monotony of city life. However, I, as well 
+Yesterday, Dad and I went into the park, taking a lovely stroll in its natural beauty. It's such a help to us - rather breaks the monotony of city life. However, I, as well</p>
+<fw type="curatorial">96d</fw>
+<fw type="letterhead">ST. LOUIS POST-DISPATCH 
+EDITORIAL DEPARTMENT </fw>
+<fw type="authorial">7</fw>
 
-96d
-ST. LOUIS POST-DISPATCH 
-EDITORIAL DEPARTMENT
-7
-as Dad, am so happy to be here with the good job. 
+<p>as Dad, am so happy to be here with the good job. 
 Must close, as I must go to the office now to get my Monday rush over! 
 Dad has gone down early. Will come home at noon to read a book to write a review on in the morning. 
 How are Hil and Lache coming along? Please give Lache my very kindest thoughts as well as those of Dad's. Won't you, Mama? I surely like the idea of Hil and Lache being together - both swell kids! 
-Loads of love to my only mother - and the best one on any earth! Enid Love in jobs to Hil & Al - Virginia, too! (over) 
+Loads of love to my only mother - and the best one on any earth! Enid Love in jobs to Hil &amp; Al -
+Virginia, too! (over) </p>
 
-8
-P.S.-
-Mama please don't feel blue over anything, will you? I like to think of you as the happy lady you always have been. Just keep up the good work - you're surely doing finely so far. I'm just afraid you'll get too fat! 
-Love in abundance. 
-Always, 
-Enid 
-<figure/> 
+<fw type="authorial">8</fw>
+<p>P.S.-
+Mama please don't feel blue over anything, will you? I like to think of you as the happy lady you always have been. Just keep up the good work - you're surely doing finely so far. I'm just afraid you'll get too fat!</p>
+<closer>
+<salute>Love in abundance.Always,</salute>
+<signed>Enid </signed>
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
