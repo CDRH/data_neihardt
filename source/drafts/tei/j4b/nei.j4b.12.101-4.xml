@@ -1,35 +1,179 @@
 <?xml version="1.0" encoding="UTF-8"?>
-101
-June 30, 1936 
-Neihardt Collection 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.12.101.104">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Mona Martinsen Neihardt to John G. Neihardt, June 30, 1936</title>
+<author>Neihardt, Mona Martinsen</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2020</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.12.101.104</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Mona Martinsen Neihardt to John G. Neihardt, June 30, 1936</title>
+<date when="1936-06-30">June 30, 1936</date>
+<extent>3 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Mona Martinsen</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+<date when="1936-06-30"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/4407066">St. Louis (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2020"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2020"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.12.101.104.001" />
+<fw type="curatorial">Neihardt Collection 
 Tuesday 
-23
-My own Darling
-I have hurt a very queer experience, though not a psychic one. Yesterday I asked Virginia to please let me see all the letters I had received at the Hospital, and she produced a drawerful. I started reading and began to learn many things that I did not know. First of all your great honor, dar ling Husband given by the Poetry Society! Three cheers for America's first Poet and thank God he is my dear husband! 
-Darling I am so happy and so grateful and so proud of you - not that this awarel could make me more so than I already was but it is wonderful that this world should know enough to give you what is coming to you. Next I learned from the dear little nard saying "with love and best wishes from John and Enid" that you dear ones had sent me flowers - I questioned Virginia about than - and she told me they were 
+23</fw>
+<note type="curatorial"></note>
 
-102
-pink carnation: my daddy's favorite color: How wonderful of you - and can you understand what happened to me that I could have for-gotten all this so com-pletely. For <del/> indeed I have no recollection what ever of them! Then I learned about Maxie coming to St Louis while Sig and you drove down to Spring-field to see me. Of which all I remember is your pained fare at a great 
-distance and vaguely Sigurd's presence - then seemingly many people who did not matter. I remember feeling that I was dropping dropping and that some how I coudl not make sense out of anything and any-way what did it make her...! John is this not strange? WAs it fever or ivers I really. already in another state? Why can I not remain her those flowers? Why could I not comprehend your honor? - Now I am 
+<opener>
+<dateline>June 30, 1936
+</dateline>
+<salute>My own Darling
+</salute>
+</opener>
 
-103
-strong & talking about myself but I had to say this to you, and ask you to explain it to me. Darling you did give us an unexpected thunder shower just before the cold spell - I knew your thunder beings! They made three thunder claps right over thsi house and then in teh middle of Sunshine and beat it rained - But what we need is a drencher. I'm almost glad I cannot see our yard and my garden it 
+<p>I have hurt a very queer experience, though not a psychic one. Yesterday I asked Virginia to please let me see all the letters I had received at the Hospital, and she produced a drawerful. I started reading and began to learn many things that I did not know. First of all your great honor, dar ling Husband given by the Poetry Society! Three cheers for America's first Poet and thank God he is my dear husband! 
+Darling I am so happy and so grateful and so proud of you - not that this awarel could make me more so than I already was but it is wonderful that this world should know enough to give you what is coming to you. Next I learned from the dear little nard saying "with love and best wishes from John and Enid" that you dear ones had sent me flowers - I questioned Virginia about than - and she told me they were</p>
+
+<fw type="curatorial">102</fw>
+<p>pink carnation: my daddy's favorite color: How wonderful of you - and can you understand what happened to me that I could have for-gotten all this so com-pletely. For <del/> indeed I have no recollection what ever of them! Then I learned about Maxie coming to St Louis while Sig and you drove down to Spring-field to see me. Of which all I remember is your pained fare at a great 
+distance and vaguely Sigurd's presence - then seemingly many people who did not matter. I remember feeling that I was dropping dropping and that some how I coudl not make sense out of anything and any-way what did it make her...! John is this not strange? WAs it fever or ivers I really. already in another state? Why can I not remain her those flowers? Why could I not comprehend your honor? - Now I am</p>
+
+<fw type="curatorial">103</fw>
+<p>strong &amp; talking about myself but I had to say this to you, and ask you to explain it to me. Darling you did give us an unexpected thunder shower just before the cold spell - I knew your thunder beings! They made three thunder claps right over thsi house and then in teh middle of Sunshine and beat it rained - But what we need is a drencher. I'm almost glad I cannot see our yard and my garden it 
 must look heartachy.-
 Hope you had Nelson for dinner Sunday.-
-Hilda is writing im-portant news about her future - Dear: sweet girl! Yes darling I too wish I might crawl in beside you - but how long will it be before I can go up stairs. I cannot stand as yet and my left & foot is still badly swollen and has to be kept high on pillows. 
-I have the best of meals - and cannot 
+Hilda is writing im-portant news about her future - Dear: sweet girl! Yes darling I too wish I might
+crawl in beside you - but how long will it be before I can go up stairs. I cannot stand as yet and
+my left &amp; foot is still badly swollen and has to be kept high on pillows. 
+I have the best of meals - and cannot</p>
 
-104
-sell you how wickedly luxurious I feel It makes my heart ache to slink of your having - to mend on old hat. For my sake buy your self a bran new good Panama. Hilda will not be able to have bree seeth fixed - she'll writes you so that will give you some unexpected cash. 
-Please send rain or we will be in a desert-
-Loads of Love 
-Mona. 
-Yes I heard the crazy democratic convention in Philadelphia too! 
-Mrs. John Neihardt
-Branson, Mo. 
-BRANSON JUN30 3-PM 1930 MO. 
-UNITEDSTATESPOSTAGE <FIGURE/> WASHINGTON 3CENTS3
-Mr. John Neihardt 
-5544 Pershing 
-St. Louis 
-Missouri 
+<fw type="curatorial">104</fw>
+<p>sell you how wickedly luxurious I feel It makes my heart ache to slink of your having - to mend on old hat. For my sake buy your self a bran new good Panama. Hilda will not be able to have bree seeth fixed - she'll writes you so that will give you some unexpected cash. 
+Please send rain or we will be in a desert-</p>
+
+<closer>
+<salute>Loads of Love </salute>
+<signed>Mona. </signed>
+<note>Yes I heard the crazy democratic convention in Philadelphia too!</note>
+</closer>
+
+</div1>
+<div1 type="envelope">
+<fw>Mrs. John Neihardt
+Branson, Mo</fw>
+
+<ab type="postmark">BRANSON JUN30 3-PM 1930 MO.</ab>
+
+<figure type="stamp"><ab>UNITEDSTATESPOSTAGE WASHINGTON 3CENTS3</ab></figure>
+
+<ab type="return">
+<address>
+<addrLine>Mr. John Neihardt</addrLine>
+<addrLine>5544 Pershing</addrLine>
+<addrLine>St. Louis 
+Missouri</addrLine>
+</address>
+</ab>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

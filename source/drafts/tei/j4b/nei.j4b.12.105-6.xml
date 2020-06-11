@@ -1,14 +1,150 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Neihardt Collection 
-July 1935 (?)
-43
-105
-Darling Enid-girlie:
-So many plans, you have - and I think any one is good - of course I'll be so very happy if you do come home you would enjoy any one of them. We had the pleasure to see your quilt, Mrs Wilson leroy it over - I think it exquisite I must yet to wear out a design for a quilt for each of you children - I do hope you will have a home some where - the way the world is changing I believe most young people will just be nomads. 
-Please dear, see if you can get a record or two 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-106
-of Lily Pons, or Nelson Eadey or <del>Lheuinne or</del> Jeanette Mac-Donald? There represent <del>s</del> our Idols at present - and <del/> we all think it far more enjoyable to listen to good records store to track on the Radio. I am writing this while Jazz is going on the Radio so you can un derstand why it looks this way - I don't want you to spend your money for these records but you can let us know about what they have up there, and how expensive they are - Virgi-nia is going to write you She is keeping the nurses cos-tumes. We have no rain as yet, but cooler today 
-I am forgetting to say some-thing I wanted to - but can't think of it - Loads of Love 
-always 
-Mama. 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.12.105.106">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Mona Martinsen Neihardt to Enid Neihardt, July 1935</title>
+<author>Neihardt, Mona Martinsen</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2020</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.12.105.106</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Mona Martinsen Neihardt to Enid Neihardt, July 1935</title>
+<date when="1935-07">July 1935</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term>Pons, Lily</term>
+<term>Eadey, Nelson</term>
+<term>Mac-Donald, Jeanette</term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt Mona Martinsen</persName>
+<placeName></placeName>
+<date when="1935-07"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Enid</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Enid</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2020"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2020"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.12.105.106.001" />
+<fw type="curatorial">Neihardt Collection 
+43
+105</fw>
+<note type="curatorial"></note>
+
+<opener>
+<dateline>July 1935 (?)
+</dateline>
+<salute>Darling Enid-girlie:</salute>
+</opener>
+
+<p>So many plans, you have - and I think any one is good - of course I'll be so very happy if you do come home you would enjoy any one of them. We had the pleasure to see your quilt, Mrs Wilson leroy it over - I think it exquisite I must yet to wear out a design for a quilt for each of you children - I do hope you will have a home some where - the way the world is changing I believe most young people will just be nomads. 
+Please dear, see if you can get a record or two</p>
+
+<fw type="curatorial">106</fw>
+<p>of Lily Pons, or Nelson Eadey or <del>Lheuinne or</del> Jeanette Mac-Donald? There represent <del>s</del> our Idols at present - and <del/> we all think it far more enjoyable to listen to good records store to track on the Radio. I am writing this while Jazz is going on the Radio so you can un derstand why it looks this way - I don't want you to spend your money for these records but you can let us know about what they have up there, and how expensive they are - Virgi-nia is going to write you She is keeping the nurses cos-tumes. We have no rain as yet, but cooler today 
+I am forgetting to say some-thing I wanted to - but can't think of it -</p>
+
+<closer>
+<salute>Loads of Love 
+always</salute>
+<signed>Mama.</signed>
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
