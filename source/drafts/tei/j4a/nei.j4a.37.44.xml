@@ -1,19 +1,155 @@
 <?xml version="1.0" encoding="UTF-8"?>
-44
-KNOX COLLEGE 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.37.44">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Douglas L. Wilson to John G. Neihardt, March 26, 1973</title>
+<author>Wilson, Douglas L.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.37.44</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Douglas L. Wilson to John G. Neihardt, March 26, 1973</title>
+<date when="1973-03-26">March 26, 1973</date>
+<extent>pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Wilson, Douglas L.</persName>
+<placeName ref="http://www.geonames.org/4893392">Galesburg (Ill.)</placeName>
+<date when="1973-03-26"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.37.44.001" />
+<fw type="curatorial">44</fw>
+<note type="curatorial"></note>
+
+<fw type="letterhead">KNOX COLLEGE 
 GALESBURG, ILLINOIS 61401
-Seymour Library 
-March 26, 1973
-Mr. John G. Neihardt
-5835 Vine Street 
-Lincoln, Nebraska 68505
-Dear Mr. Neihardt:
-We have located two additional items of correspondence between yourself and George Seymour and I am sending copies on for your use. Our archivist has already forwarded these, as well as all others, to the University of Missouri. I hoep they will be interesting and possibly useful. 
-I hope this finds you well and enjoying another Nebraska Spring. My parents, who live in Grand Island, are visiting and tell us that the remarkably mild winter we had this year in Illinois was not shared by Nebraskans. 
-My very best to you. 
-Sincerely,
-Douglas L. Wilson
-Director of the Library
-DLW/rh
+Seymour Library </fw>
+<opener>
+<dateline>March 26, 1973
+</dateline>
+<address>
+<addrLine>Mr. John Neihardt</addrLine>
+<addrLine>5835 Vine Street</addrLine>
+<addrLine>Lincoln, Nebraska 68505</addrLine>
+</address>
+<salute>Dear Mr. Neihardt:</salute>
+</opener>
+
+<p>We have located two additional items of correspondence between yourself and George Seymour and I am sending copies on for your use. Our archivist has already forwarded these, as well as all others, to the University of Missouri. I hoep they will be interesting and possibly useful.</p>
+
+<p>I hope this finds you well and enjoying another Nebraska Spring. My parents, who live in Grand Island, are visiting and tell us that the remarkably mild winter we had this year in Illinois was not shared by Nebraskans. </p>
+
+<closer>
+<salute>My very best to you.
+
+Sincerely,</salute>
+<signed>Douglas L. Wilson
+Director of the Library</signed>
+<note>DLW/rh
 Encs. 
-2
+2</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

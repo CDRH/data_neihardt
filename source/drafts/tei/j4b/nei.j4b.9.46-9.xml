@@ -1,23 +1,159 @@
 <?xml version="1.0" encoding="UTF-8"?>
-46
-6
-Neihardt Collections
-[34?] 
-Saturday
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.9.46.49">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from ? to Darlings, May 31, 1931</title>
+<author>?</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.9.46.49</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from ? to Darlings, May 31, 1931</title>
+<date when="1931-05-31">May 31, 1931</date>
+<extent>4 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>?</persName>
+<placeName></placeName>
+<date when="1931-05-13"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Darlings</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Darlings</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.9.46.49.001" />
+<fw type="curatorial">46</fw>
+<note type="curatorial">6</note>
+
+<fw type="curatorial">Neihardt Collections</fw>
+<fw type="curatorial">[34?]</fw>
+<opener>
+<dateline>Saturday
 [May 13, 1931]? 
-My own Darlings:
-Your good de-scription of the Indian "revel" was greedily devoured - Many thanks for the trouble you took to share that wonder-ful experience with me. 
+</dateline>
+<salute>My own Darlings:</salute>
+</opener>
+
+<p>Your good de-scription of the Indian "revel" was greedily devoured - Many thanks for the trouble you took to share that wonder-ful experience with me. 
 I would be so glad to hear from Enid and Hilda about their view of it! 
 I am every day afraid you have been hairing too cold a time to be truly pro-fitable - But I hope my fear is not founded on actu-al fact. 
-Day before yesterday Don Garner honked as he passed 
+Day before yesterday Don Garner honked as he passed </p>
 
-47
-by here, and who was sitting beside him but Howard!! He surely is acting the part of a yellow dog - Enid dear please do not take this wrong I want you to know the facts, good or bad, and not ride them from your own letter judgement. Keep your eyes open and don't let the need for a mate make you feel this boy is necessarily the right one. 
-He is playing upon your feelings and is not willing to do anything that is hard for himself. He is enlarging at home upon the hard place he is in due to the operation which was 
+<fw type="curatorial">47</fw>
 
-48
-not wholly successful - making his little sister feel sorry for him - so that he can enjoy some more months of <unclear/> worthless-ness- I think writing to you is all he is accomp-lishing. I hope you are not blidn to this?! I surely made him show up his true colors when I made him feel that he owed it ot you to educate himself so that you woudl not have to be ashamed of him in later years - now Howard does not like me, nor will he ever put himself out for any one. All is well if you can only realize this beofre it is too late! 
+<p>by here, and who was sitting beside him but Howard!! He surely is acting the part of a yellow dog - Enid dear please do not take this wrong I want you to know the facts, good or bad, and not ride them from your own letter judgement. Keep your eyes open and don't let the need for a mate make you feel this boy is necessarily the right one. 
+He is playing upon your feelings and is not willing to do anything that is hard for himself. He is enlarging at home upon the hard place he is in due to the operation which was </p>
 
-49
-Our house is terribly upset now owing to the fact that paint dries slowly these chilly damp days. 
-Your dispatch made me feel you were nearing the end of your trip - I hope you will take time to really enjoy the Black Hills etc. The grass in our pasture is so tall we have to have it cut. We have a godo man at 25 cents an hour. Combs remains away since he found I wanted him next to work out his debt. Your garden is ocming O.K, but not very slick. I am going to work in it this afternoon. The place looks like a bit of Heaven. I just mowed it again. 
+<fw type="curatorial">48</fw>
+
+<p>not wholly successful - making his little sister feel sorry for him - so that he can enjoy some more months of <unclear> worthless-ness- I think writing to you is all he is accomp-lishing. I hope you are not blidn to this?! I surely made him show up his true colors when I made him feel that he owed it ot you to educate himself so that you woudl not have to be ashamed of him in later years - now Howard does not like me, nor will he ever put himself out for any one. All is well if you can only realize this beofre it is too late! </unclear></p>
+
+<fw type="curatorial">49</fw>
+
+<p>Our house is terribly upset now owing to the fact that paint dries slowly these chilly damp days. 
+Your dispatch made me feel you were nearing the end of your trip - I hope you will take time to really enjoy the Black Hills etc. The grass in our pasture is so tall we have to have it cut. We have a godo man at 25 cents an hour. Combs remains away since he found I wanted him next to work out his debt. Your garden is ocming O.K, but not very slick. I am going to work in it this afternoon. The place looks like a bit of Heaven. I just mowed it again. </p>
+<closer>
+<salute></salute>
+<signed></signed>
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

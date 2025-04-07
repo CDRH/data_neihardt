@@ -1,20 +1,158 @@
 <?xml version="1.0" encoding="UTF-8"?>
-61
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.61.63">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Alice Culler Neihardt to Enid Neihardt, October 10, 1929</title>
+<author>Neihardt, Alice Culler</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.61.63</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Alice Culler Neihardt to Enid Neihardt, October 10, 1929</title>
+<date when="1929-10-20">October 10, 1929</date>
+<extent>3 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Alice Culler</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+<date when="1929-10-20"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Enid</persName>
+<placeName ref="http://www.geonames.org/4393739">Kirkwood (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Enid</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="envelope">
+
+<pb facs="nei.j4a.X.X.001" />
+<fw type="curatorial">61
 Fink Collection 
-5
-BRANSON OCT10 1-PM 1929 MO. 
-<FIGURE/> 2CENTS
-Miss Enid G. Neihardt 
-507 N. Clay Ave 
-kirkwood
-Mo. 
+5</fw>
+<note type="curatorial"></note>
 
-Thurs. Oct 10-1929 
-62
-My Dear Enid girl;
-I have owed you a letter so long, but not because I have not thot about you or that I do not love you just loads - Aunt Lora and Aunt Lee had such nice things to say about you and it made me so proud of you.-I think so much of your visit with me last Summer and oh how I wish I had Enjoyed it Ever More than I did.-But that is the way we always do-One of the best things we can learn is to appreciate the Now, I knew you were a dear girl and my very own Grandaughter-but some how we are took so much for granted - when Everything connected with our being together should have been 
+<figure type="stamp"><ab>BRANSON OCT10 1-PM 1929 MO.</ab></figure>
+<figure type="stamp"><ab>2CENTS</ab></figure>
+<ab>
+<address>
+<addrLine>Miss Enid Neihardt</addrLine>
+<addrLine>507 North Clay Ave</addrLine>
+<addrLine>Kirkwood
+Mo. </addrLine>
+</address>
+</ab>
+</div1>
 
-63
-been distinct and a part to be Enjoyed to the fullest.-I wonder so much if we will Ever be together again as we were last Summer.-well-however it may be I'll always Think of you as the dear Enid with her faults but so many more good traits that nothing but the good is left ^in my mind I wonder how you are getting along in your school.-Tell me all about it and what your plans are.-Oh it gives me a heart ache ^to Think of you and Sigurd starting on "Your own"-It means that the home will never be the same again, - Enid Dear you will be kind and thotful to Mama won't you? She needs your thotfullness. You will never know how much it means to her until you have a daughter and if you wait until then it will be too late.-And don't forget Daddy Either I jsut wnat to see all of you this morning.
-I love you Enid dear Just loads 
-Grandma 
+<div1 type="letter">
+<opener>
+<dateline>Thurs. Oct 10-1929 
+</dateline>
+<fw type="curatorial">62</fw>
+<salute>My Dear Enid girl;</salute>
+</opener>
+
+<p>I have owed you a letter so long, but not because I have not thot about you or that I do not love you just loads - Aunt Lora and Aunt Lee had such nice things to say about you and it made me so proud of you.-I think so much of your visit with me last Summer and oh how I wish I had Enjoyed it Ever More than I did.-But that is the way we always do-One of the best things we can learn is to appreciate the Now, I knew you were a dear girl and my very own Grandaughter-but some how we are took so much for granted - when Everything connected with our being together should have been </p>
+
+<fw type="curatorial">63</fw>
+<p>been distinct and a part to be Enjoyed to the fullest.-I wonder so much if we will Ever be together again as we were last Summer.-well-however it may be I'll always Think of you as the dear Enid with her faults but so many more good traits that nothing but the good is left ^in my mind I wonder how you are getting along in your school.-Tell me all about it and what your plans are.-Oh it gives me a heart ache ^to Think of you and Sigurd starting on "Your own"-It means that the home will never be the same again, - Enid Dear you will be kind and thotful to Mama won't you? She needs your thotfullness. You will never know how much it means to her until you have a daughter and if you wait until then it will be too late.-And don't forget Daddy Either I jsut wnat to see all of you this morning.</p>
+<closer>
+<salute>I love you Enid dear Just loads</salute>
+<signed>Grandma </signed>
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

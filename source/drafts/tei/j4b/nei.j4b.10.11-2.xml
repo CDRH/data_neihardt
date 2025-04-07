@@ -1,22 +1,165 @@
 <?xml version="1.0" encoding="UTF-8"?>
-7 Petri Collection 11
-After 5 days, return to 
-..............................
-MO. Special Delivery 
-BRANSON NOV 4 2-PM 1933 MO. 
-UNITEDSTATESPOSTAGE SPECIAL DELIVERY <FIGURE/> 10TENCENTS10
-UNITEDSTATESPOSTAGE <FIGURE/> 3CENTS3
-Miss Hilda Neihardt 
-767 East Eden St.,
-Springfield,
-Mo. 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-2
-Saturday
-Dear Hiddy:
-Here is a little money. 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.10.11.12">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Hilda Neihardt, November 4th, 1933</title>
+<author>Neihardt, John G.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&amp;#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.10.11.12</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from John G. Neihardt to Hilda Neihardt, November 4th, 1933</title>
+<date when="1933-11-04">November 4th, 1933</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+<date when="1933-11-04"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Petri, Hilda Neihardt</persName>
+<placeName ref="http://www.geonames.org/4409896">Springfield (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Petri, Hilda Neihardt</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2019"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="envelope">
+
+<pb facs="nei.j4b.10.11.12.001" />
+<fw type="curatorial">11</fw>
+<note type="curatorial">7 Petri Collection 11</note>
+
+<fw>After 5 days, return to 
+..............................
+MO. Special Delivery</fw>
+
+<ab type="postmark">BRANSON NOV 4 2-PM 1933 MO. </ab>
+
+<figure type="stamp"><ab>UNITEDSTATESPOSTAGE SPECIAL DELIVERY <figure><ab> 10TENCENTS10</ab></figure></ab></figure>
+
+<figure type="stamp"><ab>UNITEDSTATESPOSTAGE <figure><ab> 3CENTS3</ab></figure></ab></figure>
+
+<ab type="address">
+<address>
+<addrLine>Miss Hilda Neihardt </addrLine>
+<addrLine>767 East Eden St.,</addrLine>
+<addrLine>Springfield,
+Mo.</addrLine>
+</address>
+</ab>
+</div1>
+
+<div1 type="letter">
+<fw type="curatorial">2</fw>
+<opener>
+<dateline>Saturday
+</dateline>
+<salute>Dear Hiddy:</salute>
+</opener>
+
+<p>Here is a little money. 
 I'm wondering how you are spending this rainy weekend. Everything is going finely here. I'm making good headway on the "Song", Macmillans have asked for the opening pages to be used in a salesman's <unclear/>, and they are including the book in their Spring catalog. I think it will be ready! 
-Probably next week and Mama & I will prime up & spend the day with you - second hand stores, movies, etc. 
-Be happy - and be first in your classes as son as it can be managed. 
-Endless love 
-Daddy 
+Probably next week and Mama &amp; I will prime up &amp; spend the day with you - second hand stores, movies, etc. 
+Be happy - and be first in your classes as son as it can be managed. </p>
+
+<closer>
+<salute>Endless love </salute>
+<signed>Daddy</signed>
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

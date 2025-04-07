@@ -1,20 +1,158 @@
 <?xml version="1.0" encoding="UTF-8"?>
-26
-<figure/> <unclear/> Washburn University of Topeka 
-Department of American Citizenship
-February 5, 1973 
-Dr. John G. Neihardt 
-5835 Vine Street 
-Lincoln, Nebraska 68505
-Dear Dr. Neihardt,
-Although it has been a number of years since we have visited, I recall with pleasure our acquaintanceship. It will soon be six years since I left the Nebraska State Historical Society to teach at Washburn Univer-sity. I enjoy teaching as I enjoyed the Historical Society work. 
-My purpose in writing is this. One of my former students at Washburn is doing graduate work in history at Ft. Hays State College. He is writing his Master's thesis on "The Vision Quest of the Plains Indians." He and his professor chose the topic because of BLACK ELK SPEAKS. We were discussing the book several weeks ago at a Historical Society meeting and I offered to write to you on the young man's behalf. He would like to meet you and perhaps ask some questions about the book and about the reli-gious practices practices of the Indians. 
-If you have the time and are willing to do this, please let me know and I will bring the graduate student, Richard Knowland, and his professor, Leo Olivia, to Lincoln to see you. If it is agreeable with you to give this interview, a weekend would be the convenient time for us to come up. 
-Please write and let me know about this. If you can do it, it will be appreciated. I expect that you receive many such requests and I will understand if you cannot agree to them all. 
-Your friend, 
-Donald F. Danker 
-Donald F. Danker, Professor
-Department of History
-vw 
-Topeka, Kansas 66621 
-Area Code 913 235-5341
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.37.26">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Donald F. Danker to John G. Neihardt, February 5, 1973</title>
+<author>Danker, Donald F.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.37.26</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Donald F. Danker to John G. Neihardt, February 5, 1973</title>
+<date when="1973-02-05">February 2, 1973</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="http://viaf.org/viaf/78725958">Danker, Donald F. (Donald Floyd)</persName>
+<placeName ref="http://www.geonames.org/4280539">Topeka (Kan.)</placeName>
+<date when="1973-02-05"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.37.26.001" />
+<fw type="curatorial">26</fw>
+<note type="curatorial"></note>
+
+<fw type="letterhead"><figure/> <unclear/> Washburn University of Topeka 
+Department of American Citizenship</fw>
+<opener>
+<dateline>February 5, 1973
+</dateline>
+<address>
+<addrLine>Dr. John G. Neihardt</addrLine>
+<addrLine>5835 Vine Street </addrLine>
+<addrLine>Lincoln, Nebraska 68505</addrLine>
+</address>
+<salute>Dear Dr. Neihardt,</salute>
+</opener>
+
+<p>Although it has been a number of years since we have visited, I recall with pleasure our acquaintanceship. It will soon be six years since I left the Nebraska State Historical Society to teach at Washburn Univer-sity. I enjoy teaching as I enjoyed the Historical Society work.</p>
+
+<p>My purpose in writing is this. One of my former students at Washburn is doing graduate work in history at Ft. Hays State College. He is writing his Master's thesis on "The Vision Quest of the Plains Indians." He and his professor chose the topic because of BLACK ELK SPEAKS. We were discussing the book several weeks ago at a Historical Society meeting and I offered to write to you on the young man's behalf. He would like to meet you and perhaps ask some questions about the book and about the reli-gious practices practices of the Indians.</p>
+
+<p>If you have the time and are willing to do this, please let me know and I will bring the graduate student, Richard Knowland, and his professor, Leo Olivia, to Lincoln to see you. If it is agreeable with you to give this interview, a weekend would be the convenient time for us to come up. </p>
+
+<p>Please write and let me know about this. If you can do it, it will be appreciated. I expect that you receive many such requests and I will understand if you cannot agree to them all. </p>
+
+<closer>
+<salute>Your friend,</salute>
+<signed>Donald F. Danker 
+</signed>
+<note>Donald F. Danker, Professor
+Department of History</note>
+<note>vw </note>
+<note>Topeka, Kansas 66621 
+Area Code 913 235-5341</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

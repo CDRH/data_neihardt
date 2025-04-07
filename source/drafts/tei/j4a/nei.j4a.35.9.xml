@@ -1,22 +1,152 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 9
-DEPARTMENT OF MODERN LANGUAGES
-The Commonwealth of Massachusetts Southeastern Massachusetts University North Dartmouth, Massachusetts 02747
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-27 January 1971
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.35.9">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Melvin B. Yoken to John G. Neihardt, January 27 1971</title>
+<author>Yoken, Melvin B.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.35.9</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
 
-Mr. John G. Neihardt
-5835 Vine Street
-Lincoln, Nebraska 68505
+<notesStmt><note></note></notesStmt>
 
-My dear Mr. Neiahrdt:
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Melvin B. Yoken to John G. Neihardt, January 27 1971</title>
+<date when="1971-01-27">January 27 1971</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="http://viaf.org/viaf/56742154">Yoken, Melvin B.</persName>
+<placeName>North Dartmouth, Massachusetts</placeName>
+<date when="1971-01-27"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.35.9.001" />
+<fw type="curatorial">9</fw>
+<note type="curatorial"></note>
+
+<fw type="letterhead">DEPARTMENT OF MODERN LANGUAGES
+The Commonwealth of Massachusetts Southeastern Massachusetts University North Dartmouth, Massachusetts 02747</fw>
+<opener>
+<dateline>27 January 1971
+</dateline>
+<address>
+<addrLine>Mr. John G. Neihardt</addrLine>
+<addrLine>5835 Vine Street</addrLine>
+<addrLine>Lincoln, Nebraska 68505</addrLine> 
+</address>
+<salute>My dear Mr. Neiahrdt:</salute>
+</opener>
+
 <p>First of all, I would like to take this opportunity to wish you most sincerely (and belatedly!) a happy, healthy and prosperous 90th birthday. These are my heartfelt wishes, fervently held, almost beyond the power of words to express.</p>
 <p>Secondly, I am delighted--to put it mildly--at the thought of receiving your record on which you have recorded certain selections from your works. My younger brother, Steve, equally a longtime, enthusiastic reader of yours, will be just as happy to receive this record. Why? He has spent several days early in December 1970 reading and discussing several of your works with his students as he is a Reading-English specialist at a neighboring high school. The students were indeed receptive to your literary production and I am most certain they will be very happy to listen to the record...As you will note, I have gladly enclose a check for $5.75 to cover the cost of the record.</p>
 <p>Thirdly, I extend an invitation to you to be an honored guest of mine if and ever you get to this neck of the woods. Might this be a possibility? I sincerely hope so. It gets pretty rough in these parts at this time of the year but the spring, summer and fall are simply beautiful.</p>
 <p>Blessings on you, Mr. Neihardt. As you proceed with your future endeavors, you should know that you have both my deep appreciation and gratitude, for your entire literary production has served me and my entire family, as well, as a deep source of inspiration and enthusiasm. Godspeed for the months and years ahead.</p>
 <p>With my kindest personal regards and reiterated admiration, I am</p>
-Respectfully yours,
-<signed>Melvin B. Yoken</signed>
-Melvin B. Yoken
 
-Ans. 2/9/71
+<closer>
+<salute>Respectfully yours,</salute>
+<signed>Melvin B. Yoken</signed>
+<note type="authorial">Melvin B. Yoken</note>
+<note type="authorial">Ans. 2/9/71</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

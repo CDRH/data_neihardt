@@ -1,19 +1,152 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-48 Fink Collection - 1935 
-3
-June first:
-Enid, dearest girlie:
-It seems almost too good to be true, that I am to see you so soon. Of course everything is for the best - and you are coming home to the very best and finest and dearest Daddy in all the world - and all the rest of us as you know are so very happy that you are to be one of us again! 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.11.3.4">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Hilda Neihardt to Enid Neihardt, June 1st, 1935</title>
+<author>Neihardt, Hilda</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.11.3.4</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Hilda Neihardt to Enid Neihardt, June 1st, 1935</title>
+<date when="1935-06-01">June 1st, 1935</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Hilda</persName>
+<placeName></placeName>
+<date when="1935-06-01"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Enid</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Enid</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2019"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.11.3.4.001" />
+<fw type="curatorial">3</fw>
+<note type="curatorial">48 Fink Collection - 1935</note>
+
+<opener>
+<dateline>June first:
+</dateline>
+<salute>Enid, dearest girlie:</salute>
+</opener>
+
+<p>It seems almost too good to be true, that I am to see you so soon. Of course everything is for the best - and you are coming home to the very best and finest and dearest Daddy in all the world - and all the rest of us as you know are so very happy that you are to be one of us again! 
 You "schooling" has been splen-did, that I know, and you are better able to meet the future then you. 
 could have been, if Fate had not given you this chance to see an entirely different side of life.- you are going to be so awfully welcome! Now I am so awfully welcome! Now I am counting the days till you arrive! 
-We are looking for Uncle Jim and Aunt Lora for a visit, may be tomorrow, and I believe they will stay several days. The girls are all cleaning the house for me, getting dinner, mowing the grass and what not, as I am having one of my sweet headaches at pre-
+We are looking for Uncle Jim and Aunt Lora for a visit, may be tomorrow, and I believe they will stay several days. The girls are all cleaning the house for me, getting dinner, mowing the grass and what not, as I am having one of my sweet headaches at pre-</p>
 
-4
-I will be happy this summer, now then you are to be here - and can you help Daddy and me? I'll say you can - and I know you will. 
+<fw type="curatorial">4</fw>
+<p>I will be happy this summer, now then you are to be here - and can you help Daddy and me? I'll say you can - and I know you will. 
 We must get some sewing done for Hilda, I am hiring Franckie to come and do the part I am not good at, i.e. the cutting and fitting Daddy and I are supposed to leave for Nebraska about the 10th so be sure and get here before that, if possible. But any time you come is O.K. 
 Loads and Loads of love
 from Mama. 
 Tell Amama I'll do what shse says about her clothes - Have not yet received goods and patterns from her 
 sent - but it will pass - and I am not complaining for I have few of them now. 
-Kiss Amama for me and tell her it surely is wonderful to see the snaps of "our" home and of her standing near it - Is it possible that real people live in such prison houses? Yet one can do a heap of living behind those for-bidding looking walls,... Is that where Jackson used ot be our butter?? and where we lived when these came that terrible blizzard so that the basement was in complete darkness? Ask Amama please for me! Hilda 
+Kiss Amama for me and tell her it surely is wonderful to see the snaps of "our" home and of her standing near it - Is it possible that real people live in such prison houses? Yet one can do a heap of living behind those for-bidding looking walls,... Is that where Jackson used ot be our butter?? and where we lived when these came that terrible blizzard so that the basement was in complete darkness? Ask Amama please for me!</p>
+
+<closer>
+<salute></salute>
+<signed>Hilda</signed>
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

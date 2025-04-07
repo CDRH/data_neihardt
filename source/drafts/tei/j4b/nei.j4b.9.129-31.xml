@@ -1,25 +1,170 @@
 <?xml version="1.0" encoding="UTF-8"?>
-129
-10-20-'32
-Peru Nebr. 
-Sweet girl,
-Just rec'd your two letters 70 Pate! I was so happy to read ^more letters from you! Had no notion I'd receive two! You dear girl - I love you endlessly, & do know how you feel in regard to Curran!
-Please, sweetheart - in case a sudden & unexpected happen-ing should <del>pl</del> take place with him - I want you to 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-130
--2-
-remember & know that I am in deep sympathy with you & love you! 
-I do hope that my true love for you, der girl, will help to brace you up under those or any other circumstances! This is a rushed letter, but I am missing you so - that I could write a thousand letters without satisfying myself! 
-Always I love you, & your thoughtfulness in writing me is everything to me! 
-Always Love, Sig. 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.9.129.131">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Sigurd Neihardt to Maxine M. Neihardt. October 20, 1932</title>
+<author>Neihardt, Sigurd</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&amp;#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.9.129.131</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
 
-131
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Sigurd Neihardt to Maxine M. Neihardt. October 20, 1932</title>
+<date when="1932-10-20">October 20, 1932</date>
+<extent>3 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Sigurd</persName>
+<placeName ref="http://www.geonames.org/5075014">Peru (Neb.)</placeName>
+<date when="1932-10-20"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Maxine M.</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Maxine M.</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2019"><name>Hasan, Sara</name> Initial encoding</change>
+
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.9.129.131.001" />
+<fw type="curatorial">129</fw>
+<note type="curatorial"></note>
+
+<opener>
+<dateline>10-20-'32
+Peru Nebr.
+</dateline>
+<salute>Sweet girl,</salute>
+</opener>
+
+<p>Just rec'd your two letters 70 Pate! I was so happy to read ^more letters from you! Had no notion I'd receive two! You dear girl - I love you endlessly, &amp; do know how you feel in regard to Curran!
+Please, sweetheart - in case a sudden &amp; unexpected happen-ing should <del>pl</del> take place with him - I want you to</p>
+
+<fw type="curatorial">130</fw>
+<fw type="authorial">-2-</fw>
+
+<p>
+remember &amp; know that I am in deep sympathy with you &amp; love you! 
+I do hope that my true love for you, der girl, will help to brace you up under those or any other circumstances! This is a rushed letter, but I am missing you so - that I could write a thousand letters without satisfying myself! Always I love you, &amp; your thoughtfulness in writing me is everything to me!</p>
+<closer>
+<salute>Always Love,</salute>
+<signed> Sig.</signed>
+<note></note>
+</closer>
+
+</div1>
+
+<div1 type="envelope">
+<fw type="curatorial">131</fw>
+<fw>131
 After 5 days, return to 
 ...........................................
 ...........................................
 <del>PERU, NEBRASKA</del>
-PERU OCT 20 1932 9AM NEBR 
-UNITEDSTATESPOSTAGE <FIGURE/> 3CENTS3
-Miss Maxine Melton, 
-Branson, 
-Missouri 
+</fw>
+
+<ab type="postmark">PERU OCT 20 1932 9AM NEBR </ab>
+<figure type="stamp"><ab>UNITEDSTATESPOSTAGE <figure><ab>3CENTS3</ab></figure> </ab></figure>
+
+<ab type="address">
+<address>
+<addrLine>Miss Maxine Melton, </addrLine>
+<addrLine>Branson, 
+Missouri </addrLine>
+</address>
+</ab>
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

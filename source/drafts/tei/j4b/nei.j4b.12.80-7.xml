@@ -1,24 +1,156 @@
 <?xml version="1.0" encoding="UTF-8"?>
-80 
-Neihardt Collection 
-16
-AFTER 5 DAYS, RETURN TO 
-E.V. Neihardt 
-767 C. Elm 
-SPRINGFIELD, MO. 
-SPRINGFIELD JUN 61 830PM MO. 
-1936 
-UNITEDSTATESPOSTAGE <FIGURE/> WASHINGTON 3CENTS3 UNITEDSTATESPOSTAGE <FIGURE/> WASHINGTON 3CENTS3 UNITEDSTATESPOSTAGE <FIGURE/> WASHINGTON 3CENTS3 UNITEDSTATESPOSTAGE <FIGURE/> WASHINGTON 3CENTS3 UNITEDSTATESPOSTAGE <FIGURE/> WASHINGTON 3CENTS3
-Special Delivery 
-SA Mr. J. G. Neihardt 
-5544 Pershing 
-Special Delivery 
-St. Louis Missour 
-(301 Ilene Apts.) 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-81
-If this letter is badly written - lay it on my excite-ment over su-ing Mama. I can hardly get composed today! 
-SPRINGFIELD BAPTIST HOSPITAL 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.12.80.87">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Enid Neihardt to John G. Neihardt, June 6 1936</title>
+<author>Neihardt, Enid</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2020</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.12.80.87</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Enid Neihardt to John G. Neihardt, June 1936</title>
+<date when="1936-06-06">June 6 1936</date>
+<extent>7 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term>Branson (Mo.)</term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Enid</persName>
+<placeName ref="http://www.geonames.org/4409896">Springfield (Mo.)</placeName>
+<date when="1936-06-06"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/4407066">St. Louis (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2020"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2020"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="envelope">
+
+<pb facs="nei.j4b.12.80.87.001" />
+<fw type="curatorial">80 Neihardt Collection 
+16</fw>
+<fw>AFTER 5 DAYS, RETURN TO 
+E.V. Neihardt 
+767 C. Elm
+SPRINGFIELD, MO. </fw>
+
+<ab type="postmark"> 
+SPRINGFIELD JUN 61 830PM MO. 1936 </ab>
+<figure type="stamp"><ab>UNITEDSTATESPOSTAGE WASHINGTON 3CENTS3</ab></figure>
+<figure type="stamp"><ab>UNITEDSTATESPOSTAGE WASHINGTON 3CENTS3</ab></figure>
+<figure type="stamp"><ab>UNITEDSTATESPOSTAGE WASHINGTON 3CENTS3</ab></figure>
+<figure type="stamp"><ab>UNITEDSTATESPOSTAGE WASHINGTON 3CENTS3</ab></figure>
+
+<figure type="stamp"><ab>Special Delivery </ab></figure>
+
+<ab type="return">
+<address>
+<addrLine>SA Mr. J. G. Neihardt </addrLine>
+<addrLine>5544 Pershing</addrLine>
+<note>Special Delivery</note>
+<addrLine>St. Louis Missour </addrLine>
+<addrLine>
+(301 Ilene Apts.)</addrLine>
+</address>
+</ab>
+<note type="curatorial"></note>
+</div1>
+
+<div1 type="letter">
+<fw type="curatorial">81</fw>
+<opener>
+<note type="authorial">If this letter is badly written - lay it on my excite-ment over su-ing Mama. I can hardly get
+composed today! </note>
+
+<fw type="letterhead">SPRINGFIELD BAPTIST HOSPITAL 
 448-450 MARKET AVENUE 
 TELEPHONE 970 
 S.F. FREEMAN, M.D., PRESIDENT 
@@ -27,25 +159,32 @@ ROBERT GLYNN, M.D., SEX'Y-TREAS.
 ESSIE INGRAM, R.N. SUPT. 
 LIDA I. MCDOWELL, R.N., SUPT. OF NURSES 
 GLADYS SCRIVENER MAYDEN, BUSINESS MGR. 
-SPRINGFIELD, MO., June 6, 1936
-Dearest Dad:-
-Wanted to send you this special, because I cannot wiat to let you know how things stand, for some reason. 
-First of all, Mama isn't herself, quite naturally; and altho' she was happy to see me, she has a foreign look in her eyes - so much suffering she's been thru! She doesn't worry about anything but wanting to go back to Branson. But the doctor (Calloway) contradicted Glynn by saying that Mama should not go home yet but should "forget it." I think this is a most tact-less thing on the doctor's part. Now, the next "puzzle" is what in h------- should the kids do. They can't stay here forever this way and Mrs. Henderson positively won't listen to any 
-81
+SPRINGFIELD, MO., </fw>
+<dateline>June 6, 1936
+</dateline>
+<salute>Dearest Dad:-</salute>
+</opener>
 
-82
--2-
-sort of a settlment, however, Hil and Al have bought their meals out - only slept here, having been here since Wednesday. They must be in Branson - someone should be watching the place. But, here's the way it is - Mama's sick and abso-lutely not herself - begs for Hil & Al to be here with her not thinking, of course, why they should be home. Hilda has $36.00. She got the $15oo okay as well as all the other money. She hangs onto it very well. She can pay in Yandell out of that. Also, Hil will do all the things you asked her to. The reason I suggested her paying Yandell that way is that, after paying up the hospital, with the exception of the bill they sent us and which I have in the desk at the office, I have paid the following to date and have receipts for each: 
+<p>Wanted to send you this special, because I cannot wiat to let you know how things stand, for some reason. 
+First of all, Mama isn't herself, quite naturally; and altho' she was happy to see me, she has a foreign look in her eyes - so much suffering she's been thru! She doesn't worry about anything but wanting to go back to Branson. But the doctor (Calloway) contradicted Glynn by saying that Mama should not go home yet but should "forget it." I think this is a most tact-less thing on the doctor's part. Now, the next "puzzle" is what in h------- should the kids do. They can't stay here forever this way and Mrs. Henderson positively won't listen to any </p>
+
+<fw type="curatorial">81</fw>
+
+<fw type="curatorial">82</fw>
+<fw type="authorial">-2-</fw>
+<p>sort of a settlment, however, Hil and Al have bought their meals out - only slept here, having
+been here since Wednesday. They must be in Branson - someone should be watching the place. But,
+here's the way it is - Mama's sick and abso-lutely not herself - begs for Hil &amp; Al to be here with her not thinking, of course, why they should be home. Hilda has $36.00. She got the $15oo okay as well as all the other money. She hangs onto it very well. She can pay in Yandell out of that. Also, Hil will do all the things you asked her to. The reason I suggested her paying Yandell that way is that, after paying up the hospital, with the exception of the bill they sent us and which I have in the desk at the office, I have paid the following to date and have receipts for each: 
 2nd week (as per receipt) $39.05 pd. 
 (1st week not pd., as it's at office at P.D.) 
 you know the one told them we'd attend to at any mail.) 
 Both nurses pay for past wk. Total paid but today 
 84.00
 _______
-$123.05
+$123.05</p>
 
-83
-SPRINGFIELD BAPTIST HOSPITAL 
+<fw type="curatorial">83</fw>
+<fw type="letterhead">SPRINGFIELD BAPTIST HOSPITAL 
 448-450 MARKET AVENUE 
 TELEPHONE 970 
 S.F. FREEMAN, M.D., PRESIDENT 
@@ -53,20 +192,23 @@ ROBERT GLYNN, M.D., SEC'Y-TREAS.
 ESSIE INGRAM, R.N., SUPT. 
 LIDA I. MCDOWELL, R.N., SUPT. OF NURSES 
 GLADYS SCRIVENER MAYDEN, BUSINESS MGR. 
-SPRINGFIELD, MO.,__________________________193___
-3
-The Miss Andrews got serum out of the $15.00 you once sent her and has $4.40 left to use for incidentals and of which she'll keep track. Hil paid for the other serum shot, so that part's okay.
-Then, too, I got Miss Andrews' former week's receipt. I enclose them all. Now, I shall find out what the d-doctor's want. Oh, it's awful to get in a place where they can soak a person that way! I send this special because I that you coudl write Hil at once telling her waht she is to do about going home or staying here. It's up to you to lay down the law. They'd have to go home a few days before Mama at any rate. Person 
+SPRINGFIELD, MO.,__________________________193___</fw>
+<fw type="authorial">3</fw>
 
-84
--4- 
-ally, I think she'll be here just one more week. She's better - that's evident. She has suffered a lot - says right now that every breath's a battle. I think she's a lot better - on the upgrade altho' it did shock me to see her at first. 
+<p>The Miss Andrews got serum out of the $15.00 you once sent her and has $4.40 left to use for incidentals and of which she'll keep track. Hil paid for the other serum shot, so that part's okay.
+Then, too, I got Miss Andrews' former week's receipt. I enclose them all. Now, I shall find out what the d-doctor's want. Oh, it's awful to get in a place where they can soak a person that way! I send this special because I that you coudl write Hil at once telling her waht she is to do about going home or staying here. It's up to you to lay down the law. They'd have to go home a few days before Mama at any rate. Person </p>
+
+<fw type="curatorial">84</fw>
+<fw type="authorial">-4-</fw>
+<p>ally, I think she'll be here just one more week. She's better - that's evident. She has suffered a lot - says right now that every breath's a battle. I think she's a lot better - on the upgrade altho' it did shock me to see her at first. 
 It'd be $6/00 a day for Miss Andrews at Branson and her board. You see the hospital has been charging in for the nurse; board (note receipt). 
 I am going back to the hospital now and will see how much extra the doctors bills are at the hospital. I will then tell particulars. 
-It's so hard to know what for Hil & Al to do - someone should be here to see Mama now and then - what do you think? Maybe the kids should wait utnil she is about ready to go to Branson. Please write Hil here at Mrs. H's & tell her 
+It's so hard to know what for Hil &amp; Al to do - someone should be here to see Mama now and then -
+what do you think? Maybe the kids should wait utnil she is about ready to go to Branson. Please
+write Hil here at Mrs. H's &amp; tell her </p>
 
-85
-SPRINGFIELD BAPTIST HOSPITAL 
+<fw type="curatorial">85</fw>
+<fw type="letterhead">SPRINGFIELD BAPTIST HOSPITAL 
 448-450 MARKET AVENUE 
 TELEPHONE 970 
 S.F. FREEMAN, M.D., PRESIDENT 
@@ -74,25 +216,36 @@ ROBERT GLYNN, M.D., SEC'Y-TREAS.
 ESSIE INGRAM, R.N., SUPT. 
 LIDA I. MCDOWELL, R.N., SUPT. OF NURSES 
 GLADYS SCRIVENER MAYDEN, BUSINESS MGR. 
-SPRINGFIELD, MO.,__________________________193___
-5
-What she's to do.
-Madge is keeping Dandy. Just as a suggestion you could possibly write Sheehans to look after our place till Hil & Al can get there ______ just a few days before Mama goes there. I feel this is a good idea. Hil can pay Yandell's then. Won't hurt them to wait a week. How does this strike you? Mama would get hysterical, I fear, in her present frame of mind, without the kids in town - or someone near to her really. And, Hil can't run back and forth with Al, as she says, for it' s
+SPRINGFIELD, MO.,__________________________193___</fw>
+<fw type="authorial">5</fw>
 
-6
-too d-expensive. It all hands on when Mama gets better so she can be taken to Branson, as I see it. 
+<p>What she's to do.
+Madge is keeping Dandy. Just as a suggestion you could possibly write Sheehans to look after our
+place till Hil &amp; Al can get there ______ just a few days before Mama goes there. I feel this is a good idea. Hil can pay Yandell's then. Won't hurt them to wait a week. How does this strike you? Mama would get hysterical, I fear, in her present frame of mind, without the kids in town - or someone near to her really. And, Hil can't run back and forth with Al, as she says, for it' s</p>
+
+<fw type="authorial">6</fw>
+<p>too d-expensive. It all hands on when Mama gets better so she can be taken to Branson, as I see it. 
 Am writing this at Hendersons - Mrs. H - is out of town, but Mrs. Smith is here with the kids. 
 I know this won't beat me much in getting <del>home</del> to St. Louis, but I wanted you to hear the most important things right away. And that a special delivery might reach you early Sunday. 
 Be home late tomorrow night sometime. Want to see Mom is the morning before leaving for St. Louis, as I may not see her for some time. 
 'Scuse scribbling! 
-Next page will tell about doctors charges 
-Loads of love, 
-always, 
-enot 
-Be seeing you, Dad! 
-86
+Next page will tell about doctors charges </p>
+<closer>
+<salute>Loads of love, 
+always,</salute>
+<signed>enot 
+Be seeing you, Dad! </signed>
+<fw type="curatorial">86</fw>
+<note></note>
+</closer>
 
-87 
+</div1>
+<div1 type="document">
+<fw type="curatorial">
+87
+</fw>
+
+<fw type="letterhead">
 SPRINGFIELD BAPTIST HOSPITAL 
 448-450 MARKET AVENUE 
 TELEPHONE 970 
@@ -101,8 +254,15 @@ ROBERT GLYNN, M.D., SEC'Y-TREAS.
 ESSIE INGRAM, R.N., SUPT. 
 LIDA I. MCDOWELL, R.N., SUPT. OF NURSES 
 GLADYS SCRIVENER MAYDEN, BUSINESS MGR. 
-SPRINGFIELD, MO.,__________________________193___
-P.S. 
+SPRINGFIELD, MO.,__________________________193___</fw>
+
+<p>P.S. 
 DR.'s not here. We'll have to write them when I get back. 
 Enot. 
-Neihardt Collection 
+Neihardt Collection </p>
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

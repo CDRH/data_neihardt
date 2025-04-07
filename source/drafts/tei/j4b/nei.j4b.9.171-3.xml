@@ -1,19 +1,159 @@
 <?xml version="1.0" encoding="UTF-8"?>
-171 <del>62</del>
-54 Piper Collection 
-BRANSON DEC 28 2-PM 1932 MO. 
-UNITEDSTATESPOSTAGE <FIGURE/> WASHINGTON 3CENTS3
-Miss Mildred Piper 
-Wayne - State Normal 
-Nebr 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-Branson Mo. 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.9.171.173">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Alice M. Neihardt to Mildred Piper, December 27, 1932</title>
+<author>Neihardt, Alice M.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.9.171.173</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Alice M. Neihardt to Mildred Piper, December 27, 1932</title>
+<date when="1932-12-27">December 27, 1932</date>
+<extent>3 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Alice M.</persName>
+<placeName></placeName>
+<date when="1932-12-27"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Piper, Mildred</persName>
+<placeName ref="http://www.geonames.org/5081454">Wayne (Neb.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Piper, Mildred</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2019"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="envelope">
+
+<pb facs="nei.j4b.9.171.173.001" />
+<fw type="curatorial">171 <del>62</del></fw>
+<note type="curatorial">54 Piper Collection</note>
+
+<ab type="postmark">BRANSON DEC 28 2-PM 1932 MO.</ab>
+<figure type="stamp"><ab>UNITEDSTATESPOSTAGE <figure><ab> 3CENTS3</ab></figure></ab></figure>
+
+<ab type="address">
+<address>
+<addrLine>Miss Mildred Piper </addrLine>
+<addrLine>Wayne - State Normal </addrLine>
+<addrLine>Nebr </addrLine>
+</address>
+</ab>
+</div1>
+
+<div1 type="letter">
+<opener>
+<dateline>Branson Mo.
 172 63
 Dec 27-1932
-My Dear girl-
-Once more I am the recipient of a beautiful Christmas prestent from you, and I not one thing to your Except that I love you more and more.-I have been looking just lately over my first Editions of John's book Autographed to me and which I in turn will autograph to you.-now I have not set any time when I shall pass on but when one has just celebrated ones 74th birthday one feels it necessary to get ones house in order, I shall have a good time doing some stunts when I get over the Flu of which I have had quite an attack am feeling ^better today tho and hope I shall soon feel like working on my wall piece again But now before I get farther I want to say how beautiful the shall is - there is hardly an evening in all the Summer when 
+</dateline>
+<salute>My Dear girl-</salute>
+</opener>
 
-172 64
-shall like mine /would be incessantly - so which you coem down next summer, we will sit in my upholstered swing beside my fish pool and rock garden, - please don't make any other plans unless your mother needs you we will just go every where, John has a car and both Enid and Sigurd drive.- When John is in Wayne I can hardly wait to ahve him tell me all about you. He always ^says this "she is just as she always was a real lady"-He thinks I ought to know the rest but woman like, I want detail and John is not good on detail unless he is writing in a book. Dear girl I don't feel well enough to write letters and you know without me telling you that I love you and always wish you will 
-Many thanks for the beautiful - shall when you see me in my pale blue linen dress and my white shawl and white hair you will not think I looke so bad, I will surely try to write you a decent letter soon. Had a card from Mrs. Preston - lovingly
-Alice M. Neihardt 
+<p>Once more I am the recipient of a beautiful Christmas prestent from you, and I not one thing to your Except that I love you more and more.-I have been looking just lately over my first Editions of John's book Autographed to me and which I in turn will autograph to you.-now I have not set any time when I shall pass on but when one has just celebrated ones 74th birthday one feels it necessary to get ones house in order, I shall have a good time doing some stunts when I get over the Flu of which I have had quite an attack am feeling ^better today tho and hope I shall soon feel like working on my wall piece again But now before I get farther I want to say how beautiful the shall is - there is hardly an evening in all the Summer when </p>
+
+<fw type="curatorial">172 64</fw>
+<p>shall like mine /would be incessantly - so which you coem down next summer, we will sit in my upholstered swing beside my fish pool and rock garden, - please don't make any other plans unless your mother needs you we will just go every where, John has a car and both Enid and Sigurd drive.- When John is in Wayne I can hardly wait to ahve him tell me all about you. He always ^says this "she is just as she always was a real lady"-He thinks I ought to know the rest but woman like, I want detail and John is not good on detail unless he is writing in a book. Dear girl I don't feel well enough to write letters and you know without me telling you that I love you and always wish you will 
+Many thanks for the beautiful - shall when you see me in my pale blue linen dress and my white shawl and white hair you will not think I looke so bad, I will surely try to write you a decent letter soon. Had a card from Mrs. Preston </p>
+
+<closer>
+<salute>- lovingly</salute>
+<signed>Alice M. Neihardt</signed>
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI> 

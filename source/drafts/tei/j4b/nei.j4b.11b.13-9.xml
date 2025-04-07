@@ -1,42 +1,191 @@
 <?xml version="1.0" encoding="UTF-8"?>
-13
-52-53 Fink Collection June 22, 1935
-RETURN IN FIVE DAYS TO 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.11b.13.19">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Mona Martinsen Neihardt to Enid, Hilda, and Alice Neihardt, June 22,
+1935</title>
+<author>Neihardt, Martinsen Mona</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2020</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.11b.13.19</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Mona Martinsen Neihardt to Enid, Hilda, and Alice Neihardt, June 22,
+1935</title>
+<date when="1935-06-22"></date>
+<extent>6 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term>Jim MacKetham</term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5081454">Wayne (Neb.)</placeName>
+<date when="1935-06-22"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Enid</persName>
+<persName>Neihardt, Alice</persName>
+<persName>Neihardt, Hilda</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Enid</persName></person>
+<person role="recipient"><persName>Neihardt, Alice</persName></person>
+<person role="recipient"><persName>Neihardt, Hilda</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2020"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2020"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="envelope">
+
+<pb facs="nei.j4b.11b.13.19.001" />
+<fw type="curatorial">13</fw>
+<note type="curatorial">52-53 Fink Collection June 22, 1935</note>
+
+<fw>RETURN IN FIVE DAYS TO 
 NEBRASKA STATE TEACHERS COLLEGE 
-WAYNE, NEBRASKA 
-WAV WA <UNCLEAR/> 
-The Misses Neihardt 
-Branson 
-Taney County. Mo. 
-WINSIDE, NEBR. 
-Missent to............
+WAYNE, NEBRASKA</fw>
 
-14
-June 22nd 35
-Dearest Children:
-Enid girlie, your good letter was a relief to receive bringing news of your doings and feelings. Today is the great day here, and the Governor is to be present at 2 o'clock bringing with him an old time ac-quaintance of Daddys - a Jim MacKetham who is an influential wholesale dealer and assistant to the Governor; he is at present so buzy with the liquor fight that he needs a good dependable 
+<ab><unclear>WAV WA</unclear></ab>
 
-15
-secretary & stenographer - I spoke to Mrs Conn for you and she immediately told me the above - so today she will tell him about you as last week when he asked Dr Conn if he had someone, there seemed to be no one on land. So today will be most important in the development of things for the Neihardts.- If Mr Maskeechan should have found somebody - there is going to be a vacancy here helping Miss Piper, as she is book keeper and they need a stenographer and typist 
+<ab type="address">
+<address>
+<addrLine>The Misses Neihardt</addrLine>
+<addrLine>Branson</addrLine>
+<addrLine>Taney County. Mo.</addrLine>
+</address>
+</ab>
 
-16
-The one they have now leaves when Conns leave it seems. Now how would you like either of these jobs <del>or both</del> ?? Alice dear, your letter was so dear I am glad about your "Guinnys" and garden. 
-It is cold here, but clear today. Miss Piper has asked us to dinner. Hilda dear, I had a long talk with "Miss Fisch"-She's just the smae and will see you next year as she now lives in town. 
+<fw>WINSIDE, NEBR. 
+Missent to............</fw>
+</div1>
 
-17
-I have been in your room - and next year you are to have the room just like yours but on the other side - The 3 windows on the right! 
+<div1 type="letter">
+
+<fw type="curatorial">14</fw>
+<opener>
+<dateline>June 22nd 35
+</dateline>
+<salute>Dearest Children:</salute>
+</opener>
+
+<p>Enid girlie, your good letter was a relief to receive bringing news of your doings and feelings. Today is the great day here, and the Governor is to be present at 2 o'clock bringing with him an old time ac-quaintance of Daddys - a Jim MacKetham who is an influential wholesale dealer and assistant to the Governor; he is at present so buzy with the liquor fight that he needs a good dependable</p>
+
+<fw type="curatorial">15</fw>
+
+<p>secretary &amp; stenographer - I spoke to Mrs Conn for you and she immediately told me the above
+- so today she will tell him about you as last week when he asked Dr Conn if he had someone, there seemed to be no one on land. So today will be most important in the development of things for the Neihardts.- If Mr Maskeechan should have found somebody - there is going to be a vacancy here helping Miss Piper, as she is book keeper and they need a stenographer and typist</p>
+
+<fw type="curatorial">16</fw>
+<p>The one they have now leaves when Conns leave it seems. Now how would you like either of these jobs <del>or both</del> ?? Alice dear, your letter was so dear I am glad about your "Guinnys" and garden. 
+It is cold here, but clear today. Miss Piper has asked us to dinner. Hilda dear, I had a long talk with "Miss Fisch"-She's just the smae and will see you next year as she now lives in town.</p>
+
+<fw type="curatorial">17</fw>
+<p>I have been in your room - and next year you are to have the room just like yours but on the other side - The 3 windows on the right! 
 The type writer was taken downstairs and put away! I met Mrs Holmes I think Neihardt Hall a marvel of beauty! I met Prof. Beier (?) and Mary Lu and a number of other girls who love you - This is a wonderful place!! 
-Daddy says you should take chemis-try or something of that sort, and we 
+Daddy says you should take chemis-try or something of that sort, and we</p>
 
-18
-met the teacher - Mr Brock who seems very capable and very pleasant - He said he would like very much to have you in his class. Mr Bair said you had kept the characterization well in your translation, and you needed to do mor ein that way - I told him I hoped he woudl give you more to do! 
-We went to a cleer little play last night, and today we are to witness a parade and do a million pleasant
+<fw type="curatorial">18</fw>
+<p>met the teacher - Mr Brock who seems very capable and very pleasant - He said he would like very much to have you in his class. Mr Bair said you had kept the characterization well in your translation, and you needed to do mor ein that way - I told him I hoped he woudl give you more to do! 
+We went to a cleer little play last night, and today we are to witness a parade and do a million pleasant</p>
 
-19
-things - 
+<fw type="curatorial">19</fw>
+<p>things - 
 Tell me if you received all the cards etc that I have been send ing ? 
-No news from Chadrere yet. 
-Loads and loads of love 
-<unclear/> 
-Mother - 
+No news from Chadrere yet. </p>
+<closer>
+<salute>
+Loads and loads of love</salute>
+<signed><unclear/> 
+Mother -</signed>
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+</text>
+</TEI>
  

@@ -1,24 +1,165 @@
 <?xml version="1.0" encoding="UTF-8"?>
-34
-14 Petri Collection 
-fter 5 days, return to
-.................................
-Neihardt 
-BRANSON, MO. 
-BRANSON FEB 2 2-PM 1934 MO. 
-UNITEDSTATESPOSTAGE <FIGURE/> 3CENTS3
-Miss Hilda Neihardt, 
-767 East Elm St.,
-Springfield, Missouri. 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-35
-Friday, Feb 2. 
-Dear Hiddy: 
-I enclose seven bucks. Let me know how well you can really come out on $7 a week. 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.10.34.35">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Hilda Neihardt, February 2, 1934</title>
+<author>Neihardt, John G.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&amp;amp;#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.10.34.35</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from John G. Neihardt to Hilda Neihardt, February 2, 1934</title>
+<date when="1934-02-02">February 2, 1934</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+<date when="1934-02-02"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Petri, Hilda Neihardt</persName>
+<placeName ref="http://www.geonames.org/4409896">Springfield (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Petri, Hilda Neihardt</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name>Carney, Mary Jo.</name> Transcription</change>
+<change when="2019"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="envelope">
+
+<pb facs="nei.j4b.10.31.33.001" />
+<fw type="curatorial">34</fw>
+<note type="curatorial">14 Petri Collection </note>
+
+<fw>After 5 days, return to
+...................................
+Neihardt 
+BRANSON, MO.</fw>
+
+<ab type="postmark">BRANSON FEB 2 2-PM 1934 MO.</ab>
+
+<figure type="stamp"><ab>UNITEDSTATESP 3CENTS3</ab></figure>
+
+<ab type="address">
+<address>
+<addrLine>Miss Hilda Neihardt</addrLine>
+<addrLine>767 East Elm Street</addrLine>
+<addrLine>Springfield, Missouri</addrLine>
+</address>
+</ab>
+
+</div1>
+
+<div1 type="letter">
+<fw type="curatorial">35</fw>
+<opener>
+<dateline>Friday, Feb 2.
+</dateline>
+<salute>Dear Hiddy:</salute>
+</opener>
+
+<p>I enclose seven bucks. Let me know how well you can really come out on $7 a week. 
 I tried to plan a way to have you have this week end, but it seemed best to get you next Friday I let you go back on the train Saturday evening so you may count on it. The Auburn will be fixed again by that time. Did they tell you how the door got knocked off? Had to send to Auburn, Indiana, for new hinges. 
 I thought the Desk Sergeant would be nice to you. I'll bet he was tickled! It's a wonder some wise pedestrian didn't report you to. the police. That woudl have been a cark under the circumstances. 
-But wait until you see the new gun & holster. Good Lord! 
-Endless love,
-Dad 
-How much do you need for shoes? 
-Let me know at once. 
+But wait until you see the new gun &amp; holster. Good Lord! </p>
+
+<closer>
+<salute>Endless love,</salute>
+<signed>Dad</signed>
+<note>How much do you need for shoes? 
+Let me know at once.</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

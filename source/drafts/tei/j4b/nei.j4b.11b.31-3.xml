@@ -1,26 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?>
-31
-Fink Collection 
-57
-NORFOLK JUN 25 1230 PM 1935 NEBR. 
-<UNCLEAR/> 
-Miss Enid Neihardt
-Branson, 
-Missouri 
-Taney Co. 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-32
-Norfolk, Wed. noon. 
-Dear Enot:
-We're cut off from mail. My fault. I shoudl have realized that mail sent to Wayne could be forwarded more quickly than from Branson. But it's all right, & you will have sent more on here by the time this reaches you, 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.11b.31.33">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Enid Neihardt, June 25, 1935</title>
+<author>Neihardt, John G.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2020</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.11b.31.33</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from John G. Neihardt to Enid Neihardt, June 25, 1935</title>
+<date when="1935-06-25">June 25, 1935</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term>Neihardt, Sigurd</term>
+<term>Neihardt, Hilda</term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5073965">Norfolk (Neb.)</placeName>
+<date when="1935-06-25"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Enid</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Enid</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2020"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2020"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="envelope">
+
+<pb facs="nei.j4b.11b.31.33.001" />
+<fw type="curatorial">Fink Collection 
+57</fw>
+<note type="curatorial"></note>
+
+<ab type="postmark">NORFOLK JUN 25 1230 PM 1935 NEBR.</ab>
+
+<ab type="address">
+<address>
+<addrLine>Miss Enid Neihardt</addrLine>
+<addrLine>Branson, 
+Missouri</addrLine>
+<addrLine>Taney Co.</addrLine>
+</address>
+</ab>
+</div1>
+
+<div1 type="letter">
+<fw type="curatorial">32</fw>
+<opener>
+<dateline>Norfolk, Wed. noon.
+</dateline>
+<salute>Dear Enot:</salute>
+</opener>
+
+<p>We're cut off from mail. My fault. I shoudl have realized that mail sent to Wayne could be
+forwarded more quickly than from Branson. But it's all right, &amp; you will have sent more on here by the time this reaches you, 
 Please give Sig five bucks each Friday. I'm afraid you were crowded last week with two weeks grocery bill, But this week will be better. I found a Business College girl here to do my typewriting. Have more than another week's work being copied now Well work on Messiah tomorrow. 
-Hiddy, we heard such five things of you in all quarters at Wayne. Of course we knew it, but it was great to hear. Miss is a great woman I like her immensely. Dr. Russ said the Messiah gets better & better. 
-(over) 
+Hiddy, we heard such five things of you in all quarters at Wayne. Of course we knew it, but it was
+great to hear. Miss is a great woman I like her immensely. Dr. Russ said the Messiah gets better
+&amp; better. 
+(over) </p>
 
-33
-Wish we could have seen Bettie, It was good to see many Lu. Nice kid. So many nice kids up there.
-Alice, Old Lady, we'll get Mrs. Pat a blanket on the way back. Tell her she's a good girl. Tell Dan & Rusty that they aren't good girls at all, but the Uncle loves them anyway
+<fw type="curatorial">33</fw>
+<p>Wish we could have seen Bettie, It was good to see many Lu. Nice kid. So many nice kids up there.
+Alice, Old Lady, we'll get Mrs. Pat a blanket on the way back. Tell her she's a good girl. Tell Dan
+&amp; Rusty that they aren't good girls at all, but the Uncle loves them anyway
 It seems just yesterday that we three kids were living in this cabin.
 Don't know when we'll leave but mail sent here will reach us with little delay. Something queer about Chadron, but I think I'll hear soon. It's not like <unclear/> to put off a reply. I wonder if he sees a letter to BRanson I wrote him again Monday evening. 
-I'm eager to hear, Hiddy, what you've decided about the dentist you should have thsoe teeth fixed, but it gripes me to think of you giving your time for $3.50 a day See what he can do about your teeth & what it will cost. 
-Endless love to all three. Dad. 
+I'm eager to hear, Hiddy, what you've decided about the dentist you should have thsoe teeth fixed,
+but it gripes me to think of you giving your time for $3.50 a day See what he can do about your
+teeth &amp; what it will cost.</p>
+
+<closer>
+<salute>Endless love to all three.</salute>
+<signed>Dad.</signed>
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

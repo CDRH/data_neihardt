@@ -1,19 +1,163 @@
 <?xml version="1.0" encoding="UTF-8"?>
-61
-56 Piper Collection 
-UNITEDSTATESPOSTAGE <FIGURE/> WASHINGTON 3CENTS3 
-BRANSON SEP 2 3-PM 1934 M.O. 
-Miss Mildred Piper 
-Wayne State Normal 
-714 
-Wayne Nebr, 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-62 
-Branson Mo, 
-Sep. 12-1934 
-My Dear little girl;-
-For weeks I have been owing you this letter, when I know that Hilda was going to Wayne to school I was so happy even tho it takes her away from us-It was hard to see John and Alice come without her and she makes sucha  vacant place, But when I think that she is going to be there with you and with Dr & Mrs. Conn it much more than Lallance with my home sickness for Hilda. 
-Dear Miss Piper I am hoping you will look after Hilda just for old times sake, but I'm sure you will love her. She told her Daddy "I just love Miss Piper" and nwo if you see her do anything unlady like you will know how to reprove her that will not let her know - because she thinks you as we all do a paragon of gentleness and re finement. And now if you don't think 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.10.61.63">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Alice M. Neihardt to Mildred Piper, September 12, 1934</title>
+<author>Neihardt, Alice M.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.10.61.63</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
 
-63
-too hard a task, please let me know from time to time how she is getting along and just how she appeals to you, YOu know Hilda has always been the "apple of my Eye"-When you said to take care of her when you were living with one How little did we think that - you would cross each other's paths <del>in</del> again in the Wayne Colleges, I am so glad you can have an eye on her and tell her too when she is in any way unlady like, you see she has always been such a "Tom boy" and what would seem all right to us, might not to strangers, John and Alice got home yesterday morning and maybe we were not glad to see them. Alice started to school this morning, Oh how I wihs you could come home with Hilda when she come whenever that is, I do know tho that it will seem dreadfully long. - I have been sick for several weeks and up and down but feel that I am giving some love to you dear little girl-Alice M. Neihardt 
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Alice M. Neihardt to Mildred Piper, September 12, 1934</title>
+<date when="1934-09-12">September 12, 1934</date>
+<extent>3 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Alice M.</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+<date when="1934-09-12"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Piper, Mildred</persName>
+<placeName ref="http://www.geonames.org/5081454">Wayne (Neb.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Piper, Mildred</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2019"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="envelope">
+
+<pb facs="nei.j4b.10.61.63.001" />
+<fw type="curatorial">61</fw>
+<note type="curatorial">56 Piper Collection</note>
+
+<figure type="stamp"><ab>UNITEDSTATESPOSTAGE WASHINGTON 3CENTS3</ab></figure>
+<ab type="postmark">BRANSON SEP 2 3-PM 1934 M.O.</ab>
+
+<ab type="address">
+<address>
+<addrLine>Miss Mildred Piper</addrLine>
+<addrLine>Wayne State Normal</addrLine>
+<addrLine>714</addrLine>
+<addrLine>Wayne Nebr,</addrLine>
+</address>
+</ab>
+</div1>
+
+<div1 type="letter">
+<fw type="curatorial">62</fw>
+<opener>
+<dateline>Branson Mo, 
+Sep. 12-1934
+</dateline>
+<salute>My Dear little girl;-</salute>
+</opener>
+
+<p>For weeks I have been owing you this letter, when I know that Hilda was going to Wayne to school
+I was so happy even tho it takes her away from us-It was hard to see John and Alice come without her
+and she makes sucha  vacant place, But when I think that she is going to be there with you and with
+Dr &amp; Mrs. Conn it much more than Lallance with my home sickness for Hilda. 
+Dear Miss Piper I am hoping you will look after Hilda just for old times sake, but I'm sure you will love her. She told her Daddy "I just love Miss Piper" and nwo if you see her do anything unlady like you will know how to reprove her that will not let her know - because she thinks you as we all do a paragon of gentleness and re finement. And now if you don't think</p>
+
+<fw type="curatorial">63</fw>
+<p>too hard a task, please let me know from time to time how she is getting along and just how she appeals to you, YOu know Hilda has always been the "apple of my Eye"-When you said to take care of her when you were living with one How little did we think that - you would cross each other's paths <del>in</del> again in the Wayne Colleges, I am so glad you can have an eye on her and tell her too when she is in any way unlady like, you see she has always been such a "Tom boy" and what would seem all right to us, might not to strangers, John and Alice got home yesterday morning and maybe we were not glad to see them. Alice started to school this morning, Oh how I wihs you could come home with Hilda when she come whenever that is, I do know tho that it will seem dreadfully long. - I have been sick for several weeks and up and down but feel that I am giving some love to you dear little girl-</p>
+
+<closer>
+<salute></salute>
+<signed>Alice M. Neihardt</signed>
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

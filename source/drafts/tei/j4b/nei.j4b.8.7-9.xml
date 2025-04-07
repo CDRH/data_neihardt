@@ -1,27 +1,163 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Missouri Collection 
-[<del>Dec. 26 '28</del>]
-January 30, 1929
-7
-CHRISTODORA HOUSE 
-147 AVENUE B. NEW YORK, N.Y.
-TELEPHONE ALGONQUIN 8400
-Wednesday
-Dear Mama:
-The reception at Lady Speyer's last night was even more of a success than the Annual Dinner So many famous people in one <del/> relatively small <unclear/>! And five spirits too! I was The drawing card & my stunt really fowled them over. I was in fine shope & I talked 20 minutes before I read. They aren't used to a headlong torrent like that, & they sat like charmed birds. There was a genuine outburst of enthusiasm. After my stunt the whale party rushed to the dining room where a butler & four waiters crammed everybody witha  really wonderful suffer. We ate in a crowd standing up mostly. 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-8
--2-
-I'll try to name a few of the celebrities Padraic Column the Irish poet; Arthur Guterman, Kreynborg, <unclear/> Beynner. Edwin <unclear/>, Rose O'Neill, George Wharton Stork, Edward Davison, the British poet, Sylvia <unclear/> Warner, the British novelist; Mr. Filsinger, husband of Sara Teardale who is sick in bed & sent her regards), David Laurence, Leonora Speyer, Curtis Hidden Page, Miss La Folette etc. etc. Many others 
-It was a great triumph for me. Old Market am got up & said: "I think I have never been more deeply moved tahn by Neihardt's epic reading. He has done for the prairie what Hower did for I <unclear/>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.8.7.9">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Alice Culler Neihardt, January 30, 1929</title>
+<author>Neihardt, John G.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&amp;#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.8.7.9</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
 
-9
-CHRISTODORA HOUSE 
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from John G. Neihardt to Alice Culler Neihardt, January 30, 1929</title>
+<date when="1929-01-30">January 30, 1929</date>
+<extent>3 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5128581">New York City (N.Y.)</placeName>
+<date when="1929-01-30"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Alice Culler</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Alice Culler</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.8.7.9.001" />
+<fw type="curatorial">7</fw>
+<note type="curatorial">Missouri Collection</note>
+
+<fw type="letterhead">CHRISTODORA HOUSE 
 147 AVENUE B. NEW YORK, N.Y.
-TELEPHONE ALGONQUIN 8400
--3-
-all the guns jammed round me & expressed genuine enthusiasm for my "great work". 
+TELEPHONE ALGONQUIN 8400</fw>
+<opener>
+<dateline>[<del>Dec. 26 '28</del>]
+January 30, 1929 Wednesday
+</dateline>
+<salute>Dear Mama:</salute>
+</opener>
+
+<p>The reception at Lady Speyer's last night was even more of a success than the Annual Dinner So
+many famous people in one <del/> relatively small <unclear/>! And five spirits too! I was The
+drawing card &amp;amp; my stunt really fowled them over. I was in fine shope &amp;amp; I talked 20 minutes
+before I read. They aren't used to a headlong torrent like that, &amp;amp; they sat like charmed birds.
+There was a genuine outburst of enthusiasm. After my stunt the whale party rushed to the dining room
+where a butler &amp;amp; four waiters crammed everybody witha  really wonderful suffer. We ate in a crowd standing up mostly. </p>
+
+<fw type="curatorial">8</fw>
+<fw type="authorial">-2-</fw>
+<p>I'll try to name a few of the celebrities Padraic Column the Irish poet; Arthur Guterman, Kreynborg, <unclear/> Beynner. Edwin <unclear/>, Rose O'Neill, George Wharton Stork, Edward Davison, the British poet, Sylvia <unclear/> Warner, the British novelist; Mr. Filsinger, husband of Sara Teardale who is sick in bed &amp; sent her regards), David Laurence, Leonora Speyer, Curtis Hidden Page, Miss La Folette etc. etc. Many others 
+It was a great triumph for me. Old Market am got up &amp; said: "I think I have never been more deeply moved tahn by Neihardt's epic reading. He has done for the prairie what Hower did for I <unclear/></p>
+
+<fw type="curatorial">9</fw>
+<fw type="letterhead">CHRISTODORA HOUSE 
+147 AVENUE B. NEW YORK, N.Y.
+TELEPHONE ALGONQUIN 8400</fw>
+<fw type="authorial">-3-</fw>
+
+<p>all the guns jammed round me &amp; expressed genuine enthusiasm for my "great work". 
 Old Markham, the dear man, read a <unclear/> favorite of mine to the whole company just for me. 
-I wish you had been there, Mama.
-Endless love,
-Jno. 
+I wish you had been there, Mama.</p>
+<closer>
+<salute>Endless love,</salute>
+<signed>Jno.</signed>
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

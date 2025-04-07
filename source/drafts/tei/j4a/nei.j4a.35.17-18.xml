@@ -1,24 +1,156 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 17
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-Mrs. Harold G. Sandall
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.35.17.18">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Evelyn Sandall to John G. Neihardt, February 15, 1971</title>
+<author>Sandall, Evelyn</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.35.17.18</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Evelyn Sandall to John G. Neihardt, February 15, 1971</title>
+<date when="1971-02-15"></date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Sandall, Evelyn</persName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+<date when="1971-02-15"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.35.17.18.001" />
+<fw type="curatorial">17</fw>
+<note type="curatorial">Mrs. Harold G. Sandall
 2517 North 50th St.
-Lincoln, Nebraska 68504
-Febr. 15, 1971
+Lincoln, Nebraska 68504</note>
 
-Dr. John G. Neihardt
-Mr. + Mrs. Julius D. Young
-Lincoln, Nebr.
+<fw type="letterhead"></fw>
+<opener>
+<address>
+<addrLine>Dr. John G. Neihardt</addrLine>
+<addrLine>Mr. + Mrs. Julius D. Young</addrLine>
+<addrLine>Lincoln, Nebr.</addrLine>
+</address>
+<dateline>Febr 15. 1971
+</dateline>
+<salute>Dear Friends-</salute>
+</opener>
 
-Dear Friends-
 <p>Thanks, many times over, for yesterday's treasured hour at your house. The gracious welcome felt as warm as the glowing fire. Dr. Sandall and I learned so much from each one of you. It is indubitally true that the Poet makes all men see.</p>
 <p>WE appreciate your time and concern. Especially do we appreciate the autographs, Dr. Neihardt. Generations yet to be will honor these volumes!</p>
-Page 18
+
+<fw type="curatorial">18</fw>
 <p>I have sent a memo to the office regarding the painting and trust you will soon be hearing about it.</p>
 <p>Mr. Dalrymple, our Director, will be officially acknowledging the gift of Mr. House's "John G. Neihardt, Man and Poet" but I extend my personal gratitude also.</p>
 <p>We are so excited over the possiblity of the gift of "The Divine Enchantment," and would assure you that the Nebraska Author Collection is a permanent one.</p>
 <p>We are getting nearer and nearer a complete colleciton of our Laureate's works!</p>
 <p>Now we look foward to welcoming you in the McKelvie Room and introducing you to our distinguished Nebraska Authors.</p>
 <p>Dr. Sandall joins his gratitude with mine.</p>
-Sincerely yours,
-Evelyn Sandall
+<closer>
+<salute>Sincerely yours,</salute>
+<signed>Evelyn Sandall</signed>
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

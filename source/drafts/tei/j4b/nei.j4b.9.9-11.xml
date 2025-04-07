@@ -1,27 +1,171 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Fink Collection 
-681
-SAINT LOUIS, MO OCT22 10OPM 1930
-AIRMAIL <FIGURE/> SAVES TWO 
-Miss Enid Neihardt 
-Box 255
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-Janey. Count two. 9
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.9.11">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Alice Culler Neihardt to Enid Neihardt, October 22, 1930</title>
+<author>Neihardt, Alice Culler</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.9.11</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
 
-10
-Darling Enid: 
-I was so glad to hear from you, and so glad that you feel a change toward So and so. 
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Alice Culler Neihardt to Enid Neihardt, October 22, 1930</title>
+<date when="1930-10-22"></date>
+<extent>3 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Alice Culler</persName>
+<placeName></placeName>
+<date when="1930-10-22"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Enid</persName>
+<placeName ref="http://www.geonames.org/4407066">St. Louis (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Enid</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="envelope">
+
+<pb facs="nei.j4b.9.11.001" />
+<fw type="curatorial">Fink Collection 
+681</fw>
+<note type="curatorial"></note>
+
+<figure type="stamp"><ab>SAINT LOUIS, MO OCT22 10OPM 1930</ab></figure>
+<figure type="stamp"><ab>AIRMAIL  SAVES TWO </ab></figure>
+
+<ab>
+<address>
+<addrLine>Miss Enid Neihardt </addrLine>
+<addrLine>Box 255</addrLine>
+</address>
+</ab>
+
+<fw type="authorial">Janey. Count two. 9</fw>
+
+</div1>
+
+<div1 type="letter">
+
+<fw type="curatorial">10</fw>
+<opener>
+<dateline>
+</dateline>
+<salute>Darling Enid:</salute>
+</opener>
+
+<p>I was so glad to hear from you, and so glad that you feel a change toward So and so. 
 I am going to Mrs. Petersens' tonight, and hope to have some nice things to tell you.
 I am so sorry you did not heer from me today, this being your dear birthday. I can't 
 you a sweater, and gave it to Sigurd to mail Monday A.M. So you ought to have received it on your birthday today. 
-Tomorrow should be a fine work day for me. I am to meet in Jackson at 9 in the monring and then we are to finish up every thing. He has held me off for 2 days and I believe he has <unclear/> it to make time for the workman to get the <unclear/> re-paired. I many case I hope to settle tomorrow. You will not 
+Tomorrow should be a fine work day for me. I am to meet in Jackson at 9 in the monring and then we are to finish up every thing. He has held me off for 2 days and I believe he has <unclear/> it to make time for the workman to get the <unclear/> re-paired. I many case I hope to settle tomorrow. You will not </p>
 
-11
-bored for a long time after our things get down because...... you'll see why when I get there. 
+<fw type="curatorial">11</fw>
+
+<p>bored for a long time after our things get down because...... you'll see why when I get there. 
 I also sent you the goods to make the pennant. 
 I am enclosing the "dope" about Howard's violin. Please give it to him. 
 I feel too unsettled to write properly, but am thinking all the time of you all
 Give Grandma my love and tell her to be sure and have the mattress hauled up to her before we yet down. 
-Loads of love, my own dear dear big girl, 
-from Mamma.
-a big bug for Hilda and Alice. 
+Loads of love, my own dear dear big girl, </p>
+
+<closer>
+<salute>from Mamma.</salute>
+<signed>a big bug for Hilda and Alice.</signed>
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

@@ -1,30 +1,170 @@
 <?xml version="1.0" encoding="UTF-8"?>
-10 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.12.67.71">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Mona Martinsen Neihardt to Enid Neihardt, May 21, 1936</title>
+<author>Neihardt, Martinsen Mona</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2020</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.12.67.71</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Mona Martinsen Neihardt to Enid Neihardt, May 21, 1936</title>
+<date when="1936-05-21">May 21, 1936</date>
+<extent>4 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term>Mrs. Wilson</term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Martinsen Mona</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+<date when="1936-05-21"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Enid</persName>
+<placeName ref="http://www.geonames.org/4407066">St. Louis (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Enid</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2020"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2020"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="envelope">
+
+<pb facs="nei.j4b.12.67.71.001" />
+<fw type="curatorial">10 
 Fink Collection 
-67
-Neihardt Branson Mo 
-BRANSON MAY 21 3-PM 1936 MO. 
-UNITEDSTA <FIGURE/> 3WC
-Miss Enid Neihardt 
-301 Ilene Apa
-5544 Pershing A 
-St. Louis, 
-Mo. 
+67</fw>
+<note type="curatorial">Neihardt Branson Mo</note>
+<ab type="postmark">BRANSON MAY 21 3-PM 1936 MO.</ab>
 
-68
-Dearest Girlie:
-Mrs Wilson will do your quilt. It will cost you for wishing about 6 dollars. If you want it made standard size however you could let her add a white border strip in between the wide blue border you now have like this = <figure/> - then line the whole thing with white, and scallope the edge. She thinks a white shreud used would be prettier than blue and a white lining 
+<figure type="postmark"><ab>UNITEDSTA 3WC</ab></figure>
 
-69
-nicer than blue. I can buy the white material here if you decide on white. But if you want blue you'll have to buy it in St Louis. I'm sending you a sample of the blue in case you want that. She wants to quilt around your em-broidered flower designs, and then make a similar de sign on the plain squares with the quilting stitches Let me know at once and she'll have it well star
+<ab type="return">
+<address>
+<addrLine>Miss Enid Neihardt</addrLine>
+<addrLine>301 Ilene Apa</addrLine>
+<addrLine>5544 Pershing A</addrLine>
+<addrLine>St. Louis, 
+Mo.</addrLine>
+</address>
+</ab>
+</div1>
 
-70
-ted for you to see if you come down in about 2 weeks or so. Hilda is coming home for one week - and am I hap-py!!! She says she has been working a lot extra and is coming! Isn't it grand? 
+<div1 type="letter">
+<fw type="curatorial">68</fw>
+<opener>
+<dateline>Dearest Girlie:
+</dateline>
+<salute></salute>
+</opener>
+
+<p>Mrs Wilson will do your quilt. It will cost you for wishing about 6 dollars. If you want it made standard size however you could let her add a white border strip in between the wide blue border you now have like this = <figure/> - then line the whole thing with white, and scallope the edge. She thinks a white shreud used would be prettier than blue and a white lining </p>
+
+<fw type="curatorial">69</fw>
+<p>nicer than blue. I can buy the white material here if you decide on white. But if you want blue you'll have to buy it in St Louis. I'm sending you a sample of the blue in case you want that. She wants to quilt around your em-broidered flower designs, and then make a similar de sign on the plain squares with the quilting stitches Let me know at once and she'll have it well star</p>
+
+<fw type="curatorial">70</fw>
+<p>ted for you to see if you come down in about 2 weeks or so. Hilda is coming home for one week - and am I hap-py!!! She says she has been working a lot extra and is coming! Isn't it grand? 
 I'm so surprised at what you say about Nelson - I'm sure if I were you I'd go up in smoke! Maybe not! 
-I'll write Mrs S and
+I'll write Mrs S and</p>
 
-71
-let her do the suggesting she will! 
-I am so eager to get well I need to do so many things it makes me wretched to have to be this way. 
-Loads of love
-from Mama. 
+<fw type="curatorial">71</fw>
+<p>let her do the suggesting she will! 
+I am so eager to get well I need to do so many things it makes me wretched to have to be this way. </p>
+
+<closer>
+<salute>Loads of love</salute>
+<signed>from Mama.</signed>
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

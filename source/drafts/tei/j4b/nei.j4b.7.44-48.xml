@@ -1,6 +1,124 @@
 <?xml version="1.0" encoding="UTF-8"?>
-44
-Missouri Collection 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.7.44.48">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Alice Neihardt, November 13, 1928</title>
+<author>Neihardt, John G.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.7.44.48</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from John G. Neihardt to Alice Neihardt, November 13, 1928</title>
+<date when="1928-11-28">November 13 1928</date>
+<extent>5 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+<date when="1928-11-28"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Alice Culler</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Alice Culler</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.7.44.48.001" />
+<fw type="curatorial">44</fw>
+<note type="curatorial"></note>
+
+<fw type="letterhead">Missouri Collection 
 HOTEL STATLER BOSTON 
 1300 ROOMS, 1300 BATHS <figure/> 
 UNDER
@@ -8,30 +126,35 @@ SAME MANAGEMENT
 HOTELS STATLER
 BUFFALO, CLEVELAND
 DETROIT, ST. LOUIS
-<FIGURE/> 
 HOTEL BUFFALO
 BUFFALO
-<FIGURE/> 
 HOTEL 
 PENNSYLVANIA
 NEW YORK 
-Park Square at Arlington Street 
-Tuesday A.M. 
-Nov. 13 '28 
-Dear Mama:
-I arrived here last evening at 7:45 and had a good night's sleep. This morning I took a long walk - through Boston Common, fast old King's Church and the Old. State House to Fanevil Hall. The latter ("Cradle of American liberty") is a market & you can buy cheese there! 
+Park Square at Arlington Street </fw>
+<opener>
+<dateline>Tuesday A.M. 
+Nov. 13 '28
+</dateline>
+<salute>Dear Mama:</salute>
+</opener>
+
+<p>I arrived here last evening at 7:45 and had a good night's sleep. This morning I took a long walk - through Boston Common, fast old King's Church and the Old. State House to Fanevil Hall. The latter ("Cradle of American liberty") is a market  you can buy cheese there! 
 This is surely a beautiful <del/> city. 
-I read at Wellesley at 4:15 this afternoon & must <del/> go to a dinner afterwards. Wish I could dodge the dinner. 
-I notice that two of my stocks have gone up - one $10 a share & the 
-(over) 
+I read at Wellesley at 4:15 this afternoon  must <del/> go to a dinner afterwards. Wish I could dodge the dinner. 
+I notice that two of my stocks have gone up - one $10 a share  the 
+(over) </p>
 
-45
-(2)
-other a little more. I think I'll were an order to sell tomorrow. Hope today's market is strongly so that I may cash my profits of yesterday. All my stocks are up a bit, except one & it is a good stock, so I needn't worry. 
+<fw type="curatorial">45</fw>
+<fw type="authorial">(2)</fw>
+
+<p>other a little more. I think I'll were an order to sell tomorrow. Hope today's market is strongly so that I may cash my profits of yesterday. All my stocks are up a bit, except one  it is a good stock, so I needn't worry. 
 I hope Wellesley's crowd will come across as other crowds have done. Can't see why they should not. Perhaps I should have afternoon clothes, but I'll have to wear my new street suit, which is a very good one. 
-Statter Hotel has a radio in every room - rather nice. I heard a lot of jazz last night. There seemed to be nothing else on the air. Mama, how I wish I could be down there a week with you! I think we should fear to spend Xmas with you or at least the nearest Saturday
+Statter Hotel has a radio in every room - rather nice. I heard a lot of jazz last night. There seemed to be nothing else on the air. Mama, how I wish I could be down there a week with you! I think we should fear to spend Xmas with you or at least the nearest Saturday</p>
 
-46 
+<fw type="curatorial">46</fw>
+<fw type="authorial">(3)</fw>
+<fw type="letterhead">Missouri Collection 
 HOTEL STATLER BOSTON 
 1300 ROOMS, 1300 BATHS <figure/> 
 UNDER
@@ -39,45 +162,61 @@ SAME MANAGEMENT
 HOTELS STATLER
 BUFFALO, CLEVELAND
 DETROIT, ST. LOUIS
-<FIGURE/> 
 HOTEL BUFFALO
 BUFFALO
-<FIGURE/> 
 HOTEL 
 PENNSYLVANIA
 NEW YORK 
-Park Square at Arlington Street 
-(3)
-I'll not wake over $100 on this hard long journey, but, my salary goes on, so I'm ahead. 
-I came through Washington Philadelphia & New York yesterday. Had no time to stop at Washington. May stop in New York tomorrow & see Lotham of Macmillans. 
+Park Square at Arlington Street </fw>
+
+<p>I'll not wake over $100 on this hard long journey, but, my salary goes on, so I'm ahead. 
+I came through Washington Philadelphia  New York yesterday. Had no time to stop at Washington. May stop in New York tomorrow  see Lotham of Macmillans. 
 Johns wants me to go on at $110 per week. Said they had no change in mind, but didn't want to raise salary now. I think I could have gotten a raise if I had been like other people. 
 I do hope you are feeling well, Mama, and that you are reasonably happy. I want to live in Branson 
-(over)
+(over)</p>
 
-47
--4-
-again & finish my cycle & several other books-probably prose. The strenuous life in civilization isn't worth what it costs. Your life there is so much better. YOu are near the real things - the only real things. All I regret about your being there so that you must be above. That ought to be changed, & will be. 
-Mona has some bully work to exhibit, & I do hope she will get some satisfaction out of the exhibit, I want it to make her happier. 
-Endless love, Mama. 
-John 
+<fw type="curatorial">47</fw>
+<fw type="authorial">-4-</fw>
+<p>again &amp; finish my cycle &amp; several other books-probably prose. The strenuous life in civilization isn't worth what it costs. Your life there is so much better. YOu are near the real things - the only real things. All I regret about your being there so that you must be above. That ought to be changed, &amp; will be. 
+Mona has some bully work to exhibit, &amp; I do hope she will get some satisfaction out of the exhibit, I want it to make her happier. </p>
+<closer>
+<salute>Endless love, Mama.</salute>
+<signed>John</signed>
+<note></note>
+</closer>
 
-48
-Later. Wonderful reception at Wellesley. Also had successful <unclear/> with Macmillans - Brett, the president: Nelson, head of education department; <unclear/>, head of editorial dept. am to see Taulsersely in in Chicago soon Special plan to push school editions. 
--Jno 
-NOTICE 
+</div1>
+<div1 type="envelope">
+<fw type="curatorial">48</fw>
+<p>Later. Wonderful reception at Wellesley. Also had successful <unclear/> with Macmillans - Brett, the president: Nelson, head of education department; <unclear/>, head of editorial dept. am to see Taulsersely in in Chicago soon Special plan to push school editions. -Jno</p>
+
+<p>NOTICE 
 Letters mailed in hotel envelopes, if not delivered, are sent to the Dead Letter Office unless the writer gives a return address. 
 If not delivered in days, return to 
 Neihardt
 Post-Dispatch
-St. Louis.
-(2)
-HOTEL STATLER BOSTON 
+St. Louis.</p>
+
+<fw type="curatorial">(2)</fw>
+<fw type="letterhead">HOTEL STATLER BOSTON 
 1300 ROOMS, 13 BATHS 
 SAINT LOUIS NOV15 330PM 1928 
-AIRMAIL <FIGURE/> SAVES 
-UNITEDSTATESPOSTAGE <FIGURE/> 2CENTS2
-Mrs. Alice Neihardt
-Branson,
-Missouri 
-(Taney Co.) (over) 
+AIRMAIL  SAVES 
+UNITEDSTATESPOSTAGE  2CENTS2</fw>
 
+
+<ab type= "address">
+<address>
+<addrLine>Mrs. Alice Neihardt</addrLine>
+<addrLine>Branson,</addrLine>
+<addrLine>Missouri</addrLine>
+<addrLine>(Taney Co.) (over) </addrLine>
+</address>
+</ab>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

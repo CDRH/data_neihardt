@@ -1,14 +1,151 @@
 <?xml version="1.0" encoding="UTF-8"?>
-17
-January 28, 1973
-Dear John,
-I have been thinking of you intensely since i heard about Sigurd. I know your philosophy too well to think of you as crushed with grief. We have lost something in this world--Sigurd's music of the spheres and his bravery--but neither is really lost, because, as you say, it's a beginning, not an end. I am sure too that Sigurd's death must have been a release for him, and I believe far beyond any doubt that he is making music this minute that we might hear if we knew how to listen. I'm glad to have the clipping of your birthday report in the paper. Did you get my card? I hope it did get there--our mail service in Oregon is fouled up terribly since the snow storm in December on top of Christmas created such a backlog. I realized (horrors!) that I misquoted you--it's the humble wisdom that is wonder. Anyway, it's true. You point out wonder, and you demonstrate it. 
-I am enclosing a copy of my letter about the grant. I thought you might like to see it, and I am particularly happy about the third paragraph--that committee is made up of scientists who think literature is for the basically idle, and my department head is delighted that I got a good sized grant. I can now have the letters xeroxed so that in the editing I can work with the copies and not cause wear and tear on the originals. I'm having the copying done by the University library staff knows about valuable documents and knows also how to take care of them. The young man who assists me will work only in my library study, which he has the rare permission to use (the library is tough about faculty study rooms) so that the letters won't ahve to be moved around. He is a very happy young man, by the way--having a glorious discovery time with the letters. He is checking the copies to be sure the punctuation comes through clearly, and the new picture of Neihardt the man he is getting all but intoxicates him.  
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
--2-
-18
-I am also enclosing a copy of the news release about the grant that Bower asked our public relations office to send to the Nebraska papers. Somebody down there goofed about the publication; the letters won't come out in 1973 because the editing won't be done, finished, that is, this year. It should be ready to submit to a publisher next year, but I certainly didn't give them a date. The big trouble is going to be deciding which letters to use in the first edition; eventually I hope they will be published in toto, however, many volumes it takes. And I think they will. Someday your letters may be as famous as your epic; they're just as great.
-I will write Myrtle about the Foundation. Things sould as if they are moving, and I will tell her my tentative thoughts and hopes. Right now I am still waiting for word about the Biography; these things take time. I should hear before too long now. 
-We are very busy here, as you can tell. Bower is about to retire--at the end of this term, in fact, and plans to work on his Big Book on public speak-ing in America. He will be at the Smithsonian for a few weeks and then probbably at the Huntington. I hate to have him away, but he has been researching this book for years, and I'm glad he will be free of the committees and councils and staff meetings at last. Such time-consumers are now bugging me badly; I hate sitting for hours deciding about course titles and major programs when I want to work on Neihardt letters. Stewart is in Thailand, and we were VERY happy to hear that the cease fire was actually signed. He will not be released any sooner, but it's nice to have the guns turned off. Susan and little Charlie, the champion cookie-grabber of all time, will fly out next month to be with Stewart for the rest of his tour of duty. Susan will have to wash clothes by hand, but she thinks it won't be too much hardship if she can be with Stewart. Your Honorary Great-Grandson has some of the Neihardt siss-boom-ah. We all love you very much. You Man Neihardt! Jingle send flirtatious arfs at Jacquot.
-Love,
-Lucile  
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.37.17.18">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Lucile Folse Aly to John G. Neihardt, January 28, 1973</title>
+<author>Aly, Lucile Folse</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.37.17.18</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Lucile Folse Aly to John G. Neihardt, January 28, 1973</title>
+<date when="1973-01-28">January 28, 1973</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="http://viaf.org/viaf/50467731">Aly, Lucile Folse, 1913-</persName>
+<placeName></placeName>
+<date when="1973-01-28"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.37.17.18.001" />
+<fw type="curatorial">17</fw>
+<note type="curatorial"></note>
+
+<opener>
+<dateline>January 28, 1973
+</dateline>
+<salute>Dear John,</salute>
+</opener>
+
+<p>I have been thinking of you intensely since i heard about Sigurd. I know your philosophy too well to think of you as crushed with grief. We have lost something in this world--Sigurd's music of the spheres and his bravery--but neither is really lost, because, as you say, it's a beginning, not an end. I am sure too that Sigurd's death must have been a release for him, and I believe far beyond any doubt that he is making music this minute that we might hear if we knew how to listen. I'm glad to have the clipping of your birthday report in the paper. Did you get my card? I hope it did get there--our mail service in Oregon is fouled up terribly since the snow storm in December on top of Christmas created such a backlog. I realized (horrors!) that I misquoted you--it's the humble wisdom that is wonder. Anyway, it's true. You point out wonder, and you demonstrate it. </p>
+
+<p>I am enclosing a copy of my letter about the grant. I thought you might like to see it, and I am particularly happy about the third paragraph--that committee is made up of scientists who think literature is for the basically idle, and my department head is delighted that I got a good sized grant. I can now have the letters xeroxed so that in the editing I can work with the copies and not cause wear and tear on the originals. I'm having the copying done by the University library staff knows about valuable documents and knows also how to take care of them. The young man who assists me will work only in my library study, which he has the rare permission to use (the library is tough about faculty study rooms) so that the letters won't ahve to be moved around. He is a very happy young man, by the way--having a glorious discovery time with the letters. He is checking the copies to be sure the punctuation comes through clearly, and the new picture of Neihardt the man he is getting all but intoxicates him.  </p>
+
+<fw type="authorial">-2-</fw>
+<fw type="curatorial">18</fw>
+
+<p>I am also enclosing a copy of the news release about the grant that Bower asked our public relations office to send to the Nebraska papers. Somebody down there goofed about the publication; the letters won't come out in 1973 because the editing won't be done, finished, that is, this year. It should be ready to submit to a publisher next year, but I certainly didn't give them a date. The big trouble is going to be deciding which letters to use in the first edition; eventually I hope they will be published in toto, however, many volumes it takes. And I think they will. Someday your letters may be as famous as your epic; they're just as great.</p>
+
+<p>I will write Myrtle about the Foundation. Things sould as if they are moving, and I will tell her my tentative thoughts and hopes. Right now I am still waiting for word about the Biography; these things take time. I should hear before too long now. </p>
+
+<p>We are very busy here, as you can tell. Bower is about to retire--at the end of this term, in fact, and plans to work on his Big Book on public speak-ing in America. He will be at the Smithsonian for a few weeks and then probbably at the Huntington. I hate to have him away, but he has been researching this book for years, and I'm glad he will be free of the committees and councils and staff meetings at last. Such time-consumers are now bugging me badly; I hate sitting for hours deciding about course titles and major programs when I want to work on Neihardt letters. Stewart is in Thailand, and we were VERY happy to hear that the cease fire was actually signed. He will not be released any sooner, but it's nice to have the guns turned off. Susan and little Charlie, the champion cookie-grabber of all time, will fly out next month to be with Stewart for the rest of his tour of duty. Susan will have to wash clothes by hand, but she thinks it won't be too much hardship if she can be with Stewart. Your Honorary Great-Grandson has some of the Neihardt siss-boom-ah. We all love you very much. You Man Neihardt! Jingle send flirtatious arfs at Jacquot.</p>
+
+<closer>
+<salute>Love,</salute>
+<signed>Lucile</signed>
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

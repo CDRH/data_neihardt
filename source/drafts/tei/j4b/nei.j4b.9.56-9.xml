@@ -1,71 +1,221 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Zimmerman LithCincinnati0
-"SMILING SERVICE" Like the dickens! 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.X.X">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Sigurd Neihardt to Maxine M. Neihardt, February 11, 1932</title>
+<author>Neihardt, Sigurd</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&amp;#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.9.56.59</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Sigurd Neihardt to Maxine M. Neihardt, February 11, 1932</title>
+<date when="1932-02-11">February 11, 1932</date>
+<extent>pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Sigurd</persName>
+<placeName ref="http://www.geonames.org/4409896">Springfield (Mo.)</placeName>
+<date when="1932-02-11"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Maxine M.</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Maxine M.</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.9.56.59.001" />
+<fw type="curatorial">56</fw>
+<note type="curatorial"></note>
+
+<fw type="letterhead">Zimmerman LithCincinnati0
+"SMILING SERVICE" <note>Like the dickens!</note> 
 Ha! Ha!
 56
-HOTEL <FIGURE/> HOTEL 
+HOTEL  HOTEL 
 FIREPROOF MODERN 
 OZARKS CARL-LEON 
 SPRINGFIELD, MO. INDEPENDANCE, KS. 
 EVERY ROOM WITH BATH COMPLETELY REMODELED
-WRITTEN FROM 
-Springfield
+WRITTEN FROM</fw>
+<opener>
+<dateline>Springfield
 Feb. 11-32.
-Dear Maxine,
-Everything good so far, no trouble of any kind! 
-Just got back from Martin's, had a fine practice on the big 10 ft. Mason & Hamlin Grand! Was feeling kinda rotten for a short while today, but got osme syrup of Pepsin & feel like a million as the result! By the way, my dear, you can't imagine how it makes me like you all the better to see what good sense & judgement you have! From what you said about several things
+</dateline>
+<salute>Dear Maxine,</salute>
+</opener>
 
-57
-Zimmerman LithCincinnati0
+<p>Everything good so far, no trouble of any kind! 
+Just got back from Martin's, had a fine practice on the big 10 ft. Mason &amp; Hamlin Grand! Was feeling kinda rotten for a short while today, but got osme syrup of Pepsin &amp; feel like a million as the result! By the way, my dear, you can't imagine how it makes me like you all the better to see what good sense &amp; judgement you have! From what you said about several things</p>
+
+<fw type="curatorial">57</fw>
+<fw type="letterhead">Zimmerman LithCincinnati0
 "SMILING SERVICE" 
-HOTEL <FIGURE/> HOTEL 
+HOTEL  HOTEL 
 FIREPROOF MODERN 
 OZARKS CARL-LEON 
 SPRINGFIELD, MO. INDEPENDANCE, KS. 
 EVERY ROOM WITH BATH COMPLETELY REMODELED
-WRITTEN FROM 
--2-
-the last nite I was with you, I surely do think you are wise! (Perhaps you don't remmeber Ha! Ha!) In regard to what you said tho' about you not being an angel & that I don't know your faults as you yourself do is only partly right - because no one is an angel in all respects, but I can say for sure that your attitude & judgement are so sensible in every way, my dear! 
-Your being careful as to what opinion you form of a person is something I do admire in you I have lately felt it to be true of you! (over)
+WRITTEN FROM </fw>
 
-JOHN G. NEIHARDT CENTER 
-I hope that you'll get me right in what I was so anxious to impress on you - in regard to the last letter you rec'd from me! 
+<fw type="authorial">-2-</fw>
+
+<p>the last nite I was with you, I surely do think you are wise! (Perhaps you don't remmeber Ha! Ha!) In regard to what you said tho' about you not being an angel &amp; that I don't know your faults as you yourself do is only partly right - because no one is an angel in all respects, but I can say for sure that your attitude &amp; judgement are so sensible in every way, my dear! 
+Your being careful as to what opinion you form of a person is something I do admire in you I have lately felt it to be true of you! (over)</p>
+
+<fw type="curatorial">JOHN G. NEIHARDT CENTER </fw>
+<p>I hope that you'll get me right in what I was so anxious to impress on you - in regard to the last letter you rec'd from me! 
 I will write you from me! 
-I will write you from different places up the road & I miss you, you darling more than I can possibly say! 
+I will write you from different places up the road &amp; I miss you, you darling more than I can possibly say! 
 You are the dearest person I can imagine! 
-I will be so happy to hear from you & how you are! 
+I will be so happy to hear from you &amp; how you are! 
 Please let me know how your brother is making it! 
-I mailed you the schedule so you'll know what's what! Ha! Ha! Guess U have it! I will finish this Ms. after playing at the College so just a few hours & I'll 
+I mailed you the schedule so you'll know what's what! Ha! Ha! Guess U have it! I will finish this Ms. after playing at the College so just a few hours &amp; I'll</p>
 
-58
-Zimmerman LithCincinnati0
+<fw type="curatorial">58</fw>
+<fw type="letterhead">Zimmerman LithCincinnati0
 "SMILING SERVICE" 
-HOTEL <FIGURE/> HOTEL 
+HOTEL HOTEL 
     FIREPROOF MODERN 
     OZARKS CARL-LEON 
     SPRINGFIELD, MO. INDEPENDANCE, KS. 
     EVERY ROOM WITH BATH COMPLETELY REMODELED
-    WRITTEN FROM 
--3-
-Continue! 
-For the fear of not getting to mail this - I will close & let the "appearance" was at the College! A particular audience I expect to play for, so maybe you are "holdin' your thumbs" for me now you sweet girl! 
+    WRITTEN FROM</fw>
+
+<fw type="authorial">-3-</fw>
+<p>Continue! 
+For the fear of not getting to mail this - I will close &amp;amp; let the "appearance" was at the College! A particular audience I expect to play for, so maybe you are "holdin' your thumbs" for me now you sweet girl! 
 Will drive all day Fri. With little or no nites sleep preceeding us! 
 Maxine, you just can't imagine how wonderful it is to be with you, you just are the most 
 
 lovable person that could be in this world! I am in a pleasant mood-thinking of how sweet you are my dear. Thus I believe I'll play well for the gang! More good you are than you think! 
 "Well!" There are few of them around here tho'! 
 Must close,
-With love to you & Sincerely
+With love to you &amp; Sincerely
 your Sigurd
-JOHN G. NEIHARDT CENTER 
+JOHN G. NEIHARDT CENTER </p>
 
-HOTEL OZARKS 
-PEAN PLAN FIRE-PROOF 
-SPRINGFIELD FEB 11 10 PM 1932 MO. 
-UNITEDSTATESPOSTAGE <FIGURE/> WASHINGTON 2CENTS2
-DRED COMFORTABLE ROOMS WITH BATH ah-ha! <figure/> 
-SPRINGFIELD, MO. 
-Miss Maxine Melton, 
-Branson, Missouri. 
-59
-4
+<closer>
+<salute></salute>
+<signed></signed>
+<note></note>
+</closer>
+
+</div1>
+<div1 type="envelope">
+
+<figure type="stamp"><ab>HOTEL OZARKS 
+PEAN PLAN FIRE-PROOF
+DRED COMFORTABLE ROOMS WITH BATH </ab></figure>
+
+<ab type="postmark">SPRINGFIELD FEB 11 10 PM 1932 MO.</ab>
+
+<figure type="stamp"><ab>UNITEDSTATESPOSTAGE WASHINGTON 2CENTS2</ab></figure>
+
+<note type="authorial">ah-ha!</note>
+
+<ab type="address">
+<address>
+<addrLine>Miss Maxine Melton, </addrLine>
+<addrLine>Branson, Missouri.</addrLine>
+</address>
+</ab>
+
+<fw type="curatorial">59</fw>
+<fw type="curatorial">4</fw>
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

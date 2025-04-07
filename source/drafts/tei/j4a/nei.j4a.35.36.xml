@@ -1,20 +1,154 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 36
-Nebraska Council of Teachers of English
-ANDREWS HALL, LINCOLN, NEBRASKA 68508
-March 15, 1971
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-Dear Nebraska Writer:
-<p>On April 24, 1971, the Nebraska Council of Teachers of English plans to <underline>celebrate Nebraska Writers</underline> at its annual spring conference. We would like to have you with us on that day if it is possible for you to attend, for you are part of what helps to make Nebraska Number One.</p>
-<p>We have prepared a program that should be interesting not only to teachers of English but also to the writers of Nebraska. Dr. Ruth Crone, co-author with Marion Marsh Brown of <underline>Willa Cather: Her Life and Times</underline>, will be the keynote speaker. Dr. John G. Neihardt, poet laureate of Nebraska, is our honored luncheon speaker. We will also have members of the Omaha Writers Club as panelists. Mildred Bennett of Red Cloud will speak to us about Willa Cather and Mr. Robert Reilly will speak to us about the independent writer. Hopefully we will also be able to celebrate Mari Sandoz at a special session.</p>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.35.36">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Mary Adolorata Watson to John G. Neihardt, March 15, 1971</title>
+<author>Watson, Aldorata Mary</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.35.36</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Mary Adolorata Watson to John G. Neihardt, March 15, 1971</title>
+<date when="1971-03-15">March 15, 1971</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term>Brown, Marion Marsh</term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term>Willa Cather: Her Life and Times</term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Watson, Mary Adolorata</persName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+<date when="1971-03-15"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.35.36.001" />
+<fw type="curatorial">36</fw>
+<note type="curatorial"></note>
+
+<fw type="letterhead">Nebraska Council of Teachers of English
+ANDREWS HALL, LINCOLN, NEBRASKA 68508</fw>
+<opener>
+<dateline>March 15, 1971
+</dateline>
+<salute>Dear Nebraska Writer:</salute>
+</opener>
+
+<p>On April 24, 1971, the Nebraska Council of Teachers of English plans to <hi rend="underline">celebrate Nebraska
+Writers</hi> at its annual spring conference. We would like to have you with us on that day if it is possible for you to attend, for you are part of what helps to make Nebraska Number One.</p>
+<p>We have prepared a program that should be interesting not only to teachers of English but also to
+the writers of Nebraska. Dr. Ruth Crone, co-author with Marion Marsh Brown of <hi rend="underline">Willa Cather: Her
+Life and Times</hi>, will be the keynote speaker. Dr. John G. Neihardt, poet laureate of Nebraska, is our honored luncheon speaker. We will also have members of the Omaha Writers Club as panelists. Mildred Bennett of Red Cloud will speak to us about Willa Cather and Mr. Robert Reilly will speak to us about the independent writer. Hopefully we will also be able to celebrate Mari Sandoz at a special session.</p>
 <p>The meeting will be at the Conference Center of the University of Nebraska at Omaha form 8 a.m. to 2 p.m. Following the luncheon we would be glad to have the writers visit with teachers at will.</p>
 <p>If you can't attend, would you be willing to take time out to write a letter wishing success to this ambitious project? Thank you for your time and we hope we'll see you on April 24.</p>
-Sincerely,
-<signed>Sister Mary Adolorata Watson</signed>
-Sister Mary Adolorata Watson, OSM
-President
-Nebraska Council of Teachers of English
 
+<closer>
+<salute>Sincerely,</salute>
+<signed>Sister Mary Adolorata Watson</signed>
+<note>Sister Mary Adolorata Watson, OSM
+President
+Nebraska Council of Teachers of English</note>
+<note>
 Dear Dr. Neihardt,
-<p>Besides the Englsih teachers, we have writed Nebraska Writers' Guild Members and other Nebraska writers to hear your talk. Though you might like a copy of the letter.</p>
+Besides the Englsih teachers, we have writed Nebraska Writers' Guild Members and other Nebraska writers to hear your talk. Though you might like a copy of the letter.
 Sister Mary Adolorata
+</note>
+</closer>
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

@@ -1,25 +1,146 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 4a
-Nebraska Educational Television Network
-1600 R St., Lincoln, Nebraska 68508 PH. 402-472-3121
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-January 11, 1971
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.35.4a.4b">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Ron Hull to John G. Neihardt, January 11, 1971</title>
+<author>Hul, Ron</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.35.4a.4b</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
 
-Dr. John G. Neihardt
-% Mr. & Mrs. Julius D. Young
-5835 Vine Street
-Lincoln, Nebraska
+<notesStmt><note></note></notesStmt>
 
-Dear Friends:
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Ron Hull to John G. Neihardt, January 11, 1971</title>
+<date when="1971-01-11">January 11, 1971</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term>Maly, Shirley</term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="http://viaf.org/viaf/231993017">Hull, Ronald Eugene, 1930-</persName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+<date when="1971-01-11"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.35.4a.4b.001" />
+<fw type="curatorial">4a</fw>
+<note type="curatorial"></note>
+
+<fw type="letterhead">Nebraska Educational Television Network
+1600 R St., Lincoln, Nebraska 68508 PH. 402-472-3121</fw>
+<opener>
+<dateline>January 11, 1971
+</dateline>
+<address>
+<addrLine>Dear John Neihardt</addrLine>
+<addrLine>% Mr. Mrs. Julius D. Young</addrLine>
+<addrLine>5835 Vine Street</addrLine>
+<addrLine>Lincoln, Nebraska 68505</addrLine>
+</address>
+<salute>Dear Friends:</salute>
+</opener>
+
 <p>Enclosed are some letters of regret which Shirley Maly gave me at the dinner and which I intended to give to you Friday evening. Also enclosed is a telegram which arrived.</p>
 <p>I hope all of you enjoyed last Friday evening as much as we did. Thank you for everything.</p>
-Warmest and best regards,
+
+<closer>
+<salute>Warmest and best regards,</salute>
 <signed>Ron</signed>
-Ron Hull
-Prgram Manager
-
-RH/jw
-
+<note>Ron Hull
+Prgram Manager</note>
+<note type="authorial">RH/jw</note>
 KUON-TV Channel 12
 Lincoln-Omaha
 KLNE-TV Channel 3
@@ -41,19 +162,35 @@ KRNE-TV Channel 12
 Merriman
 KHNE-TV Channel 29
 Hastings
+</closer>
 
-Page 4b
-Nebraska Educational Television Network
-1600 R ST., LINCOLN, NEBRASKA 68508
+</div1>
+<div1 type="envelope">
 
-1-13-71
+<fw type="curatorial">4b</fw>
+<fw type="letterhead">Nebraska Educational Television Network
+1600 R ST., LINCOLN, NEBRASKA 68508</fw>
+<note type="authorial">1-13-71</note>
 
-Stamp: LINCOLN JAN 12 PM 1971 NE
-Ink Stamp: POSTAGE DUE  LINCOLN JAN 13'71 PO NEBR U.S. POSTAGE 12 P.B. METER 113179
+<figure type="stamp"><ab>Stamp: LINCOLN JAN 12 PM 1971 NE</ab></figure>
+<figure type="stamp"><ab>Ink Stamp: POSTAGE DUE  LINCOLN JAN 13'71 PO NEBR U.S. POSTAGE 12 P.B. METER 113179
+</ab></figure>
 
-Dr. John G. Neihardt
-%Mr. & Mrs. Julius D. Young
-5835 Vine Street
-Lincoln, Nebraska
+<ab type="return">
+<address>
+<addrLine>Dear John Neihardt</addrLine>
+<addrLine>% Mr. Mrs. Julius D. Young</addrLine>
+<addrLine>5835 Vine Street</addrLine>
+<addrLine>Lincoln, Nebraska 68505</addrLine>
+</address>
+</ab>
 
-POSTAGE DUE <underline>12</underline> Cents
+<ab type="postmark">POSTAGE DUE <hi rend="underline">12</hi> Cents</ab>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
+

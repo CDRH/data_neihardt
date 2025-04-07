@@ -1,22 +1,168 @@
 <?xml version="1.0" encoding="UTF-8"?>
-109
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.11.109.110">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Mona Martinsen Neihardt to Enid Neihardt, March 16, 1935</title>
+<author>Neihardt, Martinsen Mona</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.11.109.110</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Mona Martinsen Neihardt to Enid Neihardt, March 16, 1935</title>
+<date when="1935-03-16">March 16, 1935</date>
+<extent>pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term>Neihardt, Sigurd</term>
+<term>Neihardt, Maxine</term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Martinsen Mona</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+<date when="1935-03-16"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Enid</persName>
+<placeName ref="http://www.geonames.org/5128581">New York City (N.Y.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Enid</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2020"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2020"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="envelope">
+
+<pb facs="nei.j4b.11.109.110.001" />
+<fw type="curatorial">109
 Fink Collection 
 27 
-Mar. 16, 1935
-Neihardt 
-Branson. Mo. 
-BRANSON MAR 17 3-PM 1935 MO. 
-Miss Enid Neihardt 
-Suite 118 
-Hotel Somerset 
-150 West 47th St. 
-N.Y. New York City. 
-<figure/> 
+Mar. 16, 1935</fw>
+<note type="curatorial"></note>
 
-110
-Sunday: 
-Dearest Enid:
-There is not much to say, save that the flood has gone down, and Sigurd and Maxine are with us awaiting their new house to be made ready for them. Sig is waiting and has two jobs on now, which makes him feel fine. Maxine is dear - and such a help! She has copied the last part of the Messiah for Daddy too. 
-I thought you would like to see these snaps. You will recognize the pets! 
-Loads of love to you and to Amama 
-from Mama. 
+<fw>Neihardt 
+Branson. Mo.</fw>
+
+<ab type="postmark">
+BRANSON MAR 17 3-PM 1935 MO. 
+</ab>
+
+<ab type="return">
+<address>
+<addrLine>Miss Enid Neihardt </addrLine> 
+<addrLine>Suite 118</addrLine> 
+<addrLine>Hotel Somerset</addrLine>
+<addrLine>150 West 47th St.</addrLine>
+<addrLine>N.Y. New York City.</addrLine>
+</address>
+</ab> 
+
+<figure></figure>
+</div1>
+
+<div1 type="letter">
+<fw type="curatorial">110</fw>
+<opener>
+<dateline>Sunday:
+</dateline>
+<salute>Dearest Enid:</salute>
+</opener>
+
+<p>There is not much to say, save that the flood has gone down, and Sigurd and Maxine are with us awaiting their new house to be made ready for them. Sig is waiting and has two jobs on now, which makes him feel fine. Maxine is dear - and such a help! She has copied the last part of the Messiah for Daddy too. 
+I thought you would like to see these snaps. You will recognize the pets!</p>
+
+<closer>
+<salute>Loads of love to you and to Amama </salute>
+<signed>
+from Mama.</signed>
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

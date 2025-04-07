@@ -1,17 +1,152 @@
 <?xml version="1.0" encoding="UTF-8"?>
-15
-FORT HAYS KANSAS STATE COLLEGE 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.37b.15">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Leo E. Oliva to John G. Neihardt, October 29, 1973</title>
+<author>Oliva, Leo O.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.37b.15</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Leo E. Oliva to John G. Neihardt, October 29, 1973</title>
+<date when="1973-10-29"></date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term>All is But a Beginning</term>
+<term>When the Tree Flowered</term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="http://viaf.org/viaf/55480089">Oliva, Leo E.</persName>
+<placeName ref="http://www.geonames.org/4272782">Hays (KS)</placeName>
+<date when="1973-10-29"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.37b.15.001" />
+<fw type="curatorial">15</fw>
+<note type="curatorial"></note>
+
+<fw type="letterhead">FORT HAYS KANSAS STATE COLLEGE 
 HAYS, KANSAS 67601
 DEPARTMENT OF HISTORY 
-FORT HAYS <figure/> KANSAS STATE COLLEGE 
-October 29, 1973
-Dr. John G. Neihardt 
-5835 Vine Street 
-Lincoln, Nebraska 68505 
-Dear Dr. Neihardt,
-I have a very special favor to ask of you, and assuming you will do it have enclosed a copy of All Is But a Beginning for your inscription and return to me. I need it for a very special friend, Bonita Pabst. She is a Neihardt "lover" and I can think of nothing more special than this to give her. She and I are co-authoring a critical study of the Indian in American historical fiction (for which, incidentally, your When the Tree Flowered has served as an admirable model). I think she is a wakan person, and I've named her "White Buffalo Cow Woman." Would you be so kind as to inscribe this volume to Bonita, White Buffalo Cow Woman, with some special message? I will be forever grateful, and so will the lady. I've enclosed some money to cover costs of return. 
-How is the adult section of the autobiography progressing? Very well I hope. I have a good tape of our visit with you in May. I hope this finds you feeling well and in good spirits. 
-Many thanks for considering my request. With kind thoughts, I am 
-Sincerely yours, 
-Leo E. Oliva
-2
+FORT HAYS <figure/> KANSAS STATE COLLEGE </fw>
+<opener>
+<dateline>October 29, 1973
+</dateline>
+<address>
+<addrLine>Dr. John Neihardt</addrLine>
+<addrLine>5835 Vine Street</addrLine>
+<addrLine>Lincoln, Nebraska 68505</addrLine>
+</address>
+<salute>Dear Dr. Neihardt,</salute>
+</opener>
+
+<p>I have a very special favor to ask of you, and assuming you will do it have enclosed a copy of All Is But a Beginning for your inscription and return to me. I need it for a very special friend, Bonita Pabst. She is a Neihardt "lover" and I can think of nothing more special than this to give her. She and I are co-authoring a critical study of the Indian in American historical fiction (for which, incidentally, your When the Tree Flowered has served as an admirable model). I think she is a wakan person, and I've named her "White Buffalo Cow Woman." Would you be so kind as to inscribe this volume to Bonita, White Buffalo Cow Woman, with some special message? I will be forever grateful, and so will the lady. I've enclosed some money to cover costs of return.</p>
+
+<p>How is the adult section of the autobiography progressing? Very well I hope. I have a good tape of our visit with you in May. I hope this finds you feeling well and in good spirits. 
+Many thanks for considering my request. With kind thoughts, I am </p>
+<closer>
+<salute>Sincerely yours,</salute>
+<signed>Leo E. Oliva</signed>
+<note>2</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

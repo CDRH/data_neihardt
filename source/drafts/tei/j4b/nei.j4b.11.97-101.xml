@@ -1,32 +1,170 @@
 <?xml version="1.0" encoding="UTF-8"?>
-97 
-26 Fink Collection March 9 
-Neihardt, Branson. Mo. 
-BRANSON MAR 10 7-AM 1935 MO. 
-UNITED STATES POSTAGE <FIGURE/> 3CENTS3
-Miss Enid Neihardt.
-Suite 118
-Hotel Somerset 
-150 West 47th St. 
-N.Y. New York City 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-98
-March 9th 
-My own dearest girlie: 
-You are so good about writing and I am quite a pig - Daddy is oging to take us to teh show and I have a help hour in which to write you. Mrs. Gillespie was here yesterday with the wee Baby - and I can now do the little head with no further difficulties as is was quite good and now is entirely so. Must only finish it. Tell Amama Little Hope is to be done as soon as she tells me the size she wants. -Mr Good explained to Dad-dy today that he feels he would lose his power if he set R.M. Good up in any way - or allowed a picture to be taken or a portrait of any sort made of him - He knows the power comes from God and says his followers woudl lose fiath in him also if he were not the kind of a man that he is - seeding absolutely nothing for him - 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.11.97.101">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Mona Martinsen Neihardt to Enid Neihardt, March 9, 1935</title>
+<author>Neihardt, Martinsen Mona</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.11.97.101</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
 
-99
-self. It is worth a great great dela to meet such a man - Daddy says he is a saint and is genuinely impressed with him - However that means I must get another job some how and I believe I can do so, to take the place of this one. Miss Stratte wants me to do Mr "Cracked" or how do you spell the name? maybe Mr Leonard will think that a good plan - we'll see. Anyway it would be worse than treason to disregard Dr Good's wonderful attitude - it is so queer that nobody has understood him, till Daddy went to him. Everyone has said he does not htink himself good looking etc etc - but that was not it. Such are people - I feel more than ever worshipful towards this "Man of God" and so does Daddy. 
-Daddy has not been at all well - I have worried a bit, but feel that 
+<notesStmt><note></note></notesStmt>
 
-100 
-something bigger than he is will look after him! 
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Mona Martinsen Neihardt to Enid Neihardt, March 9, 1935</title>
+<date when="1935-03-09">March 9, 1935</date>
+<extent>4 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Martinsen Mona</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+<date when="1935-03-01"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Enid</persName>
+<placeName ref="http://www.geonames.org/5128581">New York City (N.Y.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Enid</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="envelope">
+<fw>Neihardt, Branson. Mo.</fw>
+<pb facs="nei.j4b.11.97.101.001" />
+<fw type="curatorial">97</fw>
+<note type="curatorial">26 Fink Collection March 9</note>
+
+<ab type="postmark">BRANSON MAR 10 7-AM 1935 MO.</ab>
+<figure type="stamp"><ab>UNITED STATES POSTAGE 3CENTS3</ab></figure>
+
+<ab type="address">
+<address>
+<addrLine>Miss Enid Neihardt.</addrLine>
+<addrLine>Suite 118</addrLine>
+<addrLine>Hotel Somerset</addrLine>
+<addrLine>150 West 47th St. </addrLine>
+<addrLine>N.Y. New York City</addrLine>
+</address>
+</ab>
+</div1>
+
+<div1 type="letter">
+<fw type="curatorial">98</fw>
+<opener>
+<dateline>March 9th
+</dateline>
+<salute>My own dearest girlie:</salute>
+</opener>
+
+<p>You are so good about writing and I am quite a pig - Daddy is oging to take us to teh show and I have a help hour in which to write you. Mrs. Gillespie was here yesterday with the wee Baby - and I can now do the little head with no further difficulties as is was quite good and now is entirely so. Must only finish it. Tell Amama Little Hope is to be done as soon as she tells me the size she wants. -Mr Good explained to Dad-dy today that he feels he would lose his power if he set R.M. Good up in any way - or allowed a picture to be taken or a portrait of any sort made of him - He knows the power comes from God and says his followers woudl lose fiath in him also if he were not the kind of a man that he is - seeding absolutely nothing for him - </p>
+
+<fw type="curatorial">99</fw>
+<p>self. It is worth a great great dela to meet such a man - Daddy says he is a saint and is genuinely impressed with him - However that means I must get another job some how and I believe I can do so, to take the place of this one. Miss Stratte wants me to do Mr "Cracked" or how do you spell the name? maybe Mr Leonard will think that a good plan - we'll see. Anyway it would be worse than treason to disregard Dr Good's wonderful attitude - it is so queer that nobody has understood him, till Daddy went to him. Everyone has said he does not htink himself good looking etc etc - but that was not it. Such are people - I feel more than ever worshipful towards this "Man of God" and so does Daddy. 
+Daddy has not been at all well - I have worried a bit, but feel that</p>
+
+<fw type="curatorial">100</fw>
+<p>something bigger than he is will look after him! 
 The medium in Springfield said that I woudl be successful in my work - I would make money in it - So here goes!... She said also that 2 of my daughters would be married one very soon after the other..... If that happens - Dad and I will take Alice and fly over to India! How does that sound? ? But I don't believe it! Daddy went to an Astrologer - Psychic - who told him a lot of things relative to hrs present state and his very wonderful development along spiritual lines-He said he saw "people. people. people." listening to him... 
-Daddy just went up to 
+Daddy just went up to </p>
 
-101
-St Louis to help Sig with his car deal - Poor kid, he has been and is so worried He has a good Olds mobile now and his payments are cut in 2 - Speedy is so nice now to Sig - and there is quite a bit of work. for him - but not enough. The kids are thinking of moving into a darling cottage up high over Hollister where rent is cheaper - I'd love to live there is I were Max-
-Loads of Love to you and Amama 
-from 
-Mama 
-I know you are happy and have every reason to be so - I am so grateful! 
+<fw type="curatorial">101</fw>
+<p>St Louis to help Sig with his car deal - Poor kid, he has been and is so worried He has a good Olds mobile now and his payments are cut in 2 - Speedy is so nice now to Sig - and there is quite a bit of work. for him - but not enough. The kids are thinking of moving into a darling cottage up high over Hollister where rent is cheaper - I'd love to live there is I were Max-
+</p>
+
+<closer>
+<salute>Loads of Love to you and Amama </salute>
+<signed>from 
+Mama </signed>
+<note>I know you are happy and have every reason to be so - I am so grateful!</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

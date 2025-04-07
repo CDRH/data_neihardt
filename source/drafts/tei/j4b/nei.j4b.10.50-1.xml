@@ -1,22 +1,161 @@
 <?xml version="1.0" encoding="UTF-8"?>
-252 rd Petri Collection 
-Neihardt 
-Branson 
-Mo. 
-UNITEDSTATES<FIGURE/> 3CENTS3
-Miss Hilda Neihardt 
-767 East Elm St., 
-Springfield 
-Mo. 
-50 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-51
-Thursday A.M. 
-Dear Hiddy: 
-Your letter received, and I hope you are the same. I take my pen in hard to say that you will know which letter this is by the fact that it talks about the library job. If it doesn't talk about that, then you will know it is some other letter & not this one. 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.10.50.51">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Hilda N. Petri</title>
+<author>Neihardt John G.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&amp;#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.10.50.51</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from John G. Neihardt to Hilda N. Petri</title>
+<date></date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+<date when="1934-04-18"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Petri, Hilda Neihardt</persName>
+<placeName ref="http://www.geonames.org/4409896">Springfield (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Petri, Hilda Neihardt</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2019"><name>Hasam, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="envelope">
+
+<pb facs="nei.j4b.10.50.51.001" />
+<fw type="curatorial">252 rd Petri Collection </fw>
+<note type="curatorial">50</note>
+
+<fw>Neihardt 
+Branson 
+Mo.</fw>
+
+<figure type="stamp"><ab>UNITEDSTATES 3CENTS3</ab></figure>
+
+<ab type="address">
+<address>
+<addrLine>Miss Hiddy Neihardt</addrLine>
+<addrLine>767 East Elm St.</addrLine>
+<addrLine>Springfield, 
+Mo.</addrLine>
+</address>
+</ab>
+</div1>
+
+<div1 type="letter">
+<fw type="curatorial">51</fw>
+<opener>
+<dateline>Thursday A.M.
+</dateline>
+<salute>Dear Hiddy:</salute>
+</opener>
+
+<p>Your letter received, and I hope you are the same. I take my pen in hard to say that you will know which letter this is by the fact that it talks about the library job. If it doesn't talk about that, then you will know it is some other letter &amp; not this one. 
 If the job will go a reasonable distance toward paying your expenses - you to be the judge of this - accept it, providing you really want to do so. If, by tkaing the job now you could be reasonably assured of having it next year also, then I would decide for it quickly. 
-This is all I can say with the facts I have, and you will be quite able to decide for yourself wtih the above in mind. You need not hesitate to above in mind. You need not hesitate to refuse if you see it that way. 
-Endless love 
-Daddy 
-The Black Hills possibility is to be remembered, of course
-mama is for this too. 
+This is all I can say with the facts I have, and you will be quite able to decide for yourself wtih the above in mind. You need not hesitate to above in mind. You need not hesitate to refuse if you see it that way.</p>
+
+<closer>
+<salute>Endless love</salute>
+<signed>Daddy</signed>
+<note>The Black Hills possibility is to be remembered, of course
+mama is for this too.</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

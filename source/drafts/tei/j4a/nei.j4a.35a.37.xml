@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.35a.37">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Mary B. Thompson to John G. Neihardt, April 29, 1971</title>
+<author>Thompson, Mary B.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.35a.37</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Mary B. Thompson to John G. Neihardt, April 29, 1971</title>
+<date when="1971-04-29">April 29, 1971</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term>Hogeboam, Amy</term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term>Black Elk Speaks</term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Thompson, Mary B.</persName>
+<placeName ref="http://www.geonames.org/4255864/clayton.html">Clayton (IN)</placeName>
+<date when="1971-04-29"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5128581">New York City (N.Y.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.35a.37.001" />
+<fw type="curatorial">37</fw>
+<note type="curatorial"></note>
+
+<fw type="letterhead">ISAAC E. LEWIS PRINCIPAL
+CHARITY RATCLIFF, SECRETARY
+
+JACK LIVINGSTON, VICE PRINCIPAL
+JUANITA STANLEY, CLERK-TREASURER
+
+<note><hi rend="crossed">SMB</hi>
+BEA - <gap reason="cutoff"/>
+RIGHTS ever sold
+on this title?
+
+Please return SMB</note>
+
+Cascade High School
+(HENDRICKS COUNTY)
+P.O. BOX H
+CLAYTON, INDIANA 46118
+539-6545</fw>
+
+<opener>
+<dateline>April 29, 1971
+</dateline>
+<address>
+<addrLine>Lothrop, Lee, and Stewart Company, Inc.</addrLine>
+<addrLine>419 Park Avenue, S.</addrLine>
+<addrLine>New York, New York</addrLine>
+</address>
+<salute>Gentlemen:
+</salute>
+</opener>
+
+<p>On the Dick Cavett show Tuesday night, April27 Dr Neihardt appeared and told of his book written many eyars ago entitled Black Elk Speaks. I have hunted for this title and finally found it in Standard Catalog published by Wilson - th 1947 volume. The reference there was to a short story in a volume by Amy Hogeboam entitled Boy's book of the "est published in 1946 by your compay/ -s this publication available or do you have another title that contains this story? Our eighth grade students have become interested in any Indian story that deals with the early west as well as those of a more recent period.</p>
+<p>I am enclosing a self addressed envelope.</p>
+
+<closer>
+<salute>Thanking you for your information,</salute>
+<signed>Mary B. Thompson</signed>
+<note>Mrs Mary B. Thompson, Librarian
+Cascade High School
+Box H
+Clayton, Indiana 46118</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

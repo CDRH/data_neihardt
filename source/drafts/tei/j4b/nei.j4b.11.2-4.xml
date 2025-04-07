@@ -1,21 +1,161 @@
 <?xml version="1.0" encoding="UTF-8"?>
-2
-57- Piper Collection 
-<del>58</del> 
-BRANSON JAN 2 3-PM 1935 MO. 
-UNITEDSTATESPOSTAGE <FIGURE/> WASHINGTON 3CENTS3 
-Miss Mildred Piper 
-Wayne State Normal 
-Wayne Nebraska 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-Jan. 1st 1935 
-3
-My Dear Miss Piper.-
-There is only one other girl I love so will as I do miss Piper and that is "My Hilda"-and just think there was no Xmas present ready for you. But dear girl I am having a picture of my pool with myself dabbling in it - See the one I <del>sent</del> gave to Hilda, you re to have one just like it - many thanks for my xmas gift-How many years you have remembered me, and dear girl how I do appreciate you, that-fullness. More than I can tell you.-Hilda is so happy there in school and she has so many nice things to say for you and about you, It is love by dear girl to have you interested in Hilda and the Comm to she speaks so lovely of - Hilda left yesterday for Wayne and was to meet the Comms in Omaha 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.11.2.4">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Alice M. Neihardt to Mildred Piper, January 1, 1935</title>
+<author>Neihardt, Alice M.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.11.2.4</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
 
-4
-way-
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Alice M. Neihardt to Mildred Piper, January 1, 1935</title>
+<date when="1935-01-01">January 1, 1935</date>
+<extent>3 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Alice M.</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+<date when="1935-01-01"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Piper, Mildred</persName>
+<placeName ref="http://www.geonames.org/5081454">Wayne (Neb.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Piper, Mildred</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2019"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="envelope">
+
+<pb facs="nei.j4b.11.2.4.001" />
+<fw type="curatorial">2</fw>
+<note type="curatorial">57- Piper Collection 
+<del>58</del></note>
+
+<figure type="stamp"><ab>UNITEDSTATESPOSTAGE WASHINGTON 3CENTS3</ab></figure>
+<ab type="postmark">BRANSON JAN 2 3-PM 1935 MO. </ab>
+
+<ab type="address">
+<address>
+<addrLine>Miss Mildred Piper</addrLine>
+<addrLine>Wayne State Normal</addrLine>
+<addrLine>Wayne Nebraska</addrLine>
+</address>
+</ab>
+</div1>
+
+<div1 type="letter">
+<fw type="curatorial">3</fw>
+<opener>
+<dateline>Jan. 1st 1935
+</dateline>
+<salute>My Dear Miss Piper.-</salute>
+</opener>
+
+
+<p>There is only one other girl I love so will as I do miss Piper and that is "My Hilda"-and just think there was no Xmas present ready for you. But dear girl I am having a picture of my pool with myself dabbling in it - See the one I <del>sent</del> gave to Hilda, you re to have one just like it - many thanks for my xmas gift-How many years you have remembered me, and dear girl how I do appreciate you, that-fullness. More than I can tell you.-Hilda is so happy there in school and she has so many nice things to say for you and about you, It is love by dear girl to have you interested in Hilda and the Comm to she speaks so lovely of - Hilda left yesterday for Wayne and was to meet the Comms in Omaha </p>
+
+<fw type="curatorial">4</fw>
+<p>way-
 I wish so many times I could see Wayne once more - and the good people I used to know, I get letters from some of them - but I'm not a very good correspondent as you will know. Remember to your mother. and dear little girl that I love so well I'm glad you have such a good position.-
-I am not well, and today I have such a back ache and I must say good bye with loads of love and best wishes. for the New Year many thanks dear girl for the lovely glased fruit the first I Ever had - I have looked at it longingly many times and admired it so thanks again.-Write when you feel like it 
-lovingly
-Alice M. Neihardt 
+I am not well, and today I have such a back ache and I must say good bye with loads of love and best wishes. for the New Year many thanks dear girl for the lovely glased fruit the first I Ever had - I have looked at it longingly many times and admired it so thanks again.-Write when you feel like it</p>
+
+<closer>
+<salute>lovingly</salute>
+<signed>Alice M. Neihardt</signed>
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

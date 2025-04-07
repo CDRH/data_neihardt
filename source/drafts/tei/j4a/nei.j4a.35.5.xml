@@ -1,11 +1,161 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 5
-January 13, 1971
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-Dear John,
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.35.5">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Lucile Folse Aly to John G. Neihardt, January 13, 1971</title>
+<author>Aly, Lucile F.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.35.5</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Lucile Folse Aly to John G. Neihardt, January 13, 1971</title>
+<date when="1971-01-13">January 13, 1971</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="http://viaf.org/viaf/50467731">Aly, Lucile Folse, 1913-</persName>
+<placeName></placeName>
+<date when="1971-01-13"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.35.5.001" />
+<fw type="curatorial">5</fw>
+<note type="curatorial"></note>
+
+<opener>
+<dateline>January 13, 1971
+</dateline>
+<salute>Dear John,</salute>
+</opener>
+
 <p>What wonderful news about you and all the celebrations! I am very happy for you, and I can make the comment that best sums up my feeling-- they do you simple justice! I wish I could have been there for the Birthday and for the doings in Columbia. We thought about you. In fact, we are pretty dazzled by you--wiser than the ages and younger than springtime at 90, and selling books faster than ever! You get more remarkable all the time.</p>
-<p>I want to tell you about the biography; I have waited because I wanted to get out of other problems, such as the book Bower and I did for McGraw-HIll (on rhetoric), before I put my mind on final editing. I am now ready to get at it, and the delay has been because of suggestions the reader's report set up. Mainly the reader thought the book should be shortened. You remember the Press people didn't want to at first, and neither did I, but after a good bit of thought I believe we are agreed that the book would gain by some tightening. It isn't as much a matter of drastic cutting as it sounds, because books generally gain from a tightening revision when the writer has had an interval away from the manuscript. I think you will like the result better, and it will sell better. The Press has to think of production costs wich push up the price, and I really think some telescoping will be a solid gain. I couldn't touch it till now--we were already committed to the rhetoric book, and fall term turned out to be pretty demanding in time and energy. But I am cleared for action on the final editing as of next week, and I will let you know as soon as the manuscript is in order. If Hilda has any small errors <sic>bo</sic> point out I would be glad to have them noted--I must catch <underline>everything</underline> in this. I don't think this final go-round will take much time, but I want to do it without rushing or feeling pressed. In a way, I'm glad I need to do it, because there was so much pressure from various things as I finished the manuscript I have never had the feeling that I could look it over with a fresh, unhurried view. This is too important a book to push too fast, for any reason whatever. I should tell you too that I intend to make all corrections on the full text and keep a copy to go into a library. I think it should be preserved without the tightening, for future use.</p>
+
+<p>I want to tell you about the biography; I have waited because I wanted to get out of other
+problems, such as the book Bower and I did for McGraw-HIll (on rhetoric), before I put my mind on
+final editing. I am now ready to get at it, and the delay has been because of suggestions the
+reader's report set up. Mainly the reader thought the book should be shortened. You remember the
+Press people didn't want to at first, and neither did I, but after a good bit of thought I believe
+we are agreed that the book would gain by some tightening. It isn't as much a matter of drastic
+cutting as it sounds, because books generally gain from a tightening revision when the writer has
+had an interval away from the manuscript. I think you will like the result better, and it will sell
+better. The Press has to think of production costs wich push up the price, and I really think some
+telescoping will be a solid gain. I couldn't touch it till now--we were already committed to the
+rhetoric book, and fall term turned out to be pretty demanding in time and energy. But I am cleared
+for action on the final editing as of next week, and I will let you know as soon as the manuscript
+is in order. If Hilda has any small errors <sic>bo</sic> point out I would be glad to have them
+noted--I must catch <hi rend="underline">everything</hi> in this. I don't think this final go-round will take much time, but I want to do it without rushing or feeling pressed. In a way, I'm glad I need to do it, because there was so much pressure from various things as I finished the manuscript I have never had the feeling that I could look it over with a fresh, unhurried view. This is too important a book to push too fast, for any reason whatever. I should tell you too that I intend to make all corrections on the full text and keep a copy to go into a library. I think it should be preserved without the tightening, for future use.</p>
+
 <p>Myrtle has sent me the TV pamphlet and the little booklet about you by Bess Eileen Day. Both are good to have--I like the picture on the front of the booklet very much; you look as if you are about to give an unexpected and witty answer to a question form the audience. I'm glad to hear that the library in Columbia and the town in general are doing right by you, and that Nebraska is keeping the cheering loud. It's all good news--send me more.</p>
+
 <p>Stewart and Susan have a fine boy--a great-grandson for your to be honorary to. He has the Aly appetite and lung power, the big thin Ward feet, and Bower's philosophical expression. He's a Wub--squunches down on your shoulder when you hold him and seems to melt into you, as you described Wubs as doing. I spent three days with Stewart and Susan just after Susan came out of the hospital--not because a nurse needs anybody else really, but a grandmother is always handy to assure a new mother that when a baby cries it isn't because she ahs done something wrong. I remember the feeling--I was sure Stewart would break in two or evaporate or something if I made a mistake. Babies actually are practically indestructable. And aren't they great?</p>
+
 <p>Write me again, now that the celebrations are over, and tell me all about it--what the people said, and all. We think about you, and I'll keep you up to date on my progress. Love from all of us--and take care of yourself!</p>
+
+<closer>
+<salute></salute>
 <signed>Lucile</signed>
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

@@ -1,21 +1,171 @@
 <?xml version="1.0" encoding="UTF-8"?>
-50
-52 Piper Collection 
-BRANSON DEC31 1-PM 1931 MO. 
-UNITEDSTATESPOSTAGE <FIGURE/> 1CENT1 UNITEDSTATESPOSTAGE <FIGURE/> 1CENT1 
-Miss Mildred Piper 
-Wayne State Normal 
-Wayne 
-Nebraska 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-51
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.9.50.52">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Alice M. Neihardt to Mildred Piper, December 31, 1931</title>
+<author>Neihardt, Alice M.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.9.50.52</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Alice M. Neihardt to Mildred Piper, December 31, 1931</title>
+<date when="1931-12-31">December 31, 1931</date>
+<extent>3 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Alice M.</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+<date when="1931-12-31"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Piper, Mildred</persName>
+<placeName ref="http://www.geonames.org/5081454">Wayne (Neb.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Piper, Mildred</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.9.50.52.001" />
+<fw type="curatorial">51</fw>
+<note type="curatorial"></note>
+
+<opener>
+<dateline>
 Branson MO
-Dec 31-1931 
-my Dear little girl-
-I can't begin to tell you how I appreciate your thotfulness to me, the lovely piece of pottery rests in front of me as I write this - It is just like you different but lovely, many thanks dear girl.-Our Christmas was all given away this year John asked Alice and Hilda if they would give their Christmas away they never hesitated to ans. yes. So the money we woudl have spent for them and Each other was spent for flour meat and potatoes, you never 
+Dec 31-1931
+</dateline>
+<salute>my Dear little girl-</salute>
+</opener>
 
-52
-saw happier children than they were when playing Santa Claus with their packages - But they had a Christmas box from Aunty Lulu and and Auntie Grace as always.-We had a Turkey and all the fixings - the day was so beautiful, just like May.-
-We have had no winter yet thunder storms and heavy rains instead of now, the snap dragons are still <unclear/> and so are the violets - I send to you dear girl loads of love with this little bunch of violet - may the New Year bring you all you are worthy of and that will be much. 
-Very lovingly 
-Alice Neihardt 
+<p>I can't begin to tell you how I appreciate your thotfulness to me, the lovely piece of pottery
+rests in front of me as I write this - It is just like you different but lovely, many thanks dear girl.-Our Christmas was all given away this year John asked Alice and Hilda if they would give their Christmas away they never hesitated to ans. yes. So the money we woudl have spent for them and Each other was spent for flour meat and potatoes, you never </p>
+
+<fw type="curatorial">52</fw>
+
+<p>saw happier children than they were when playing Santa Claus with their packages - But they had a Christmas box from Aunty Lulu and and Auntie Grace as always.-We had a Turkey and all the fixings - the day was so beautiful, just like May.-
+We have had no winter yet thunder storms and heavy rains instead of now, the snap dragons are still <unclear/> and so are the violets - I send to you dear girl loads of love with this little bunch of violet - may the New Year bring you all you are worthy of and that will be much. </p>
+
+<closer>
+<salute>Very lovingly </salute>
+<signed>Alice Neihardt</signed>
+<note></note>
+</closer>
+
+</div1>
+
+<div1 type="envelope">
+
+<fw type="curatorial">50</fw>
+
+<note>52</note>
+
+<fw type="curatorial">Piper Collection </fw>
+
+<ab type="postmark">BRANSON DEC31 1-PM 1931 MO.</ab>
+
+<ab type="stamp">UNITEDSTATESPOSTAGE <figure><ab> 1CENT1</ab> </figure> UNITEDSTATESPOSTAGE <figure>
+<ab>1CENT1</ab> </figure> </ab>
+
+<ab type="address">
+<address>
+<addrLine>Miss Mildred Piper</addrLine>
+<addrLine>Wayne State Normal </addrLine>
+<addrLine>Wayne 
+Nebraska</addrLine>
+</address>
+</ab>
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI> 

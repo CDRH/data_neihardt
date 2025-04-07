@@ -1,18 +1,159 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Piper Collection 
-pm Apr 4, 1931
-51
-44
-My Dear girl - 
-I am writing a hasty letter this morning; Just to say you will soon see John and Enid and Hilda, - dear Miss Piper you will be surprised to see your Hilda nearly grown, she is such a retiring reticent child Her daddy's on and you will understand her, I am saying this because you will have to meet her more than halfway - they are delighted that they are to see you and I can hardly contain myself.- I am still holding on to the thot that maybe you will come to see us this summer. I will surely write you a decent letter a little <unclear/> but dont wait just write and tell me you are coming. 
-I love you always, 
-a.m. Neihardt 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-45
-P.S.-
-If you have not already heard about John being in Wayne 7th Comms will tell you the particulars
-BRANSON APR'4 1-PM 1931 M.O. 
-UNITEDSTATESPOSTAGE <FIGURE/> 2CENTS2
-Miss Mildred Piper 
-Wayne State Normal 
-Wayne Nebr. 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.44.45">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Alice M. Neihardt to Mildred Piper, April 4, 1931</title>
+<author>Neihardt, Alice M. </author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.44.45</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Alice M. Neihardt to Mildred Piper, April 4, 1931</title>
+<date when="1931-04-04">April 4 1931</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Alice M.</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+<date when="1931-04-04"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Piper, Mildred</persName>
+<placeName ref="http://www.geonames.org/5081454">Wayne (Neb.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Milred, Piper</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.9.44.45.001" />
+<fw type="curatorial">44</fw>
+<note type="curatorial">51</note>
+<fw type="curatorial">Piper Collection</fw>
+<opener>
+<dateline>pm Apr 4, 1931
+</dateline>
+<salute>My Dear girl - </salute>
+</opener>
+
+<p>I am writing a hasty letter this morning; Just to say you will soon see John and Enid and Hilda, - dear Miss Piper you will be surprised to see your Hilda nearly grown, she is such a retiring reticent child Her daddy's on and you will understand her, I am saying this because you will have to meet her more than halfway - they are delighted that they are to see you and I can hardly contain myself.- I am still holding on to the thot that maybe you will come to see us this summer. I will surely write you a decent letter a little <unclear>but dont wait just write and tell me you are coming. 
+I love you always, </unclear> </p>
+
+<closer>
+<salute>a.m. Neihardt </salute>
+<signed></signed>
+<note></note>
+</closer>
+
+</div1>
+
+<div1 type="envelope">
+<fw type="curatorial">45</fw>
+<note type="curatorial">P.S.-
+If you have not already heard about John being in Wayne 7th Comms will tell you the particulars</note>
+
+<ab type="postmark">BRANSON APR'4 1-PM 1931 M.O. </ab>
+
+<figure type="stamp"><ab>UNITEDSTATESPOSTAGE  2CENTS2</ab></figure>
+
+<ab type="return">
+<address>
+<addrLine>Miss Mildred Piper</addrLine>
+<addrLine>Wayne State Normal</addrLine>
+<addrLine>Wayne Nebr. </addrLine>
+</address>
+</ab>
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

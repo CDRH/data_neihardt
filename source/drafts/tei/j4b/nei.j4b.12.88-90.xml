@@ -1,23 +1,163 @@
 <?xml version="1.0" encoding="UTF-8"?>
-[June 17, 1936]
-Neihardt Collection 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.12.88.90">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Alice and Hilda Neihardt, June 17, 1936</title>
+<author>Neihardt, John G.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2020</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.12.88.90</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from John G. Neihardt to Alice and Hilda Neihardt, June 17, 1936</title>
+<date when="1936-06-17">June 17, 1936</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/4407066">St. Louis (Mo.)</placeName>
+<date when="1936-06-17"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Alice</persName>
+<persName>Neihardt, Hilda</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Alice</persName></person>
+<person role="recipient"><persName>Neihardt, Hilda</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2020"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2020"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.12.88.90.001" />
+<fw type="curatorial">Neihardt Collection 
 17 
-88
-ST. LOUIS POST-DISPATCH 
-EDITORIAL DEPARTMENT 
+88</fw>
+<note type="curatorial"></note>
+
+<opener>
+<dateline>[June 17, 1936]
 Sunday Noon 
-Dearest Hiddy and Alice:
-I've just rec'd a long report from Enot by special delivery. She was eager to get news to me for decision before tomorrow, altho' she must be on the way back now. Good old Lady! 
+</dateline>
+<salute>Dearest Hiddy and Alice:</salute>
+<fw type="letterhead">ST. LOUIS POST-DISPATCH 
+EDITORIAL DEPARTMENT</fw>
+</opener>
+
+<p>I've just rec'd a long report from Enot by special delivery. She was eager to get news to me for decision before tomorrow, altho' she must be on the way back now. Good old Lady! 
 You are in a quandary for sure. There's only one right way at the moment. You two should stay at Mrs. Henderson's, maybe as much as a week more, than your board out. I want to pay Mrs. H if she will allow one the privilege. There's a good woman truly, as I knew before. 
-But this will be your job. Work on those doctors to get Mama back home, If it is physically feasible at all to get her home, she should be there. They cannot stop her to "forget about it". She may be silent, but the desire will be there as in a dream, and it can do her no good. Once at home, with a good nurse & you children to cheer her, she will get a strong lift - or at least it seems very reasonable that she will. 
-I don't care what it costs to help Mama out of her trouble - but I want it to be for Mama. 
+But this will be your job. Work on those doctors to get Mama back home, If it is physically feasible
+at all to get her home, she should be there. They cannot stop her to "forget about it". She may be
+silent, but the desire will be there as in a dream, and it can do her no good. Once at home, with a
+good nurse &amp; you children to cheer her, she will get a strong lift - or at least it seems very reasonable that she will. 
+I don't care what it costs to help Mama out of her trouble - but I want it to be for Mama.</p>
 
--2- 89
-ST. LOUIS POST-DISPATCH 
-EDITORIAL DEPARTMENT 
-I expect to spend all ^the cash I have and ^some more, and I'm thoroughly adjusted to <unclear/> idea of doing that; but I suspect postulates and undertakes for the same reason. So you are delegated to keep after those doctors - with tact, of <unclear/> they cannot but think of me as good pay - and I am. Do you think they would hold Art Combs wife overlong - or even long enough? I'm not better at all, kids - really not. I just want to be sensible and do the right thing for all of us; and I want Mama to be where she wants to be as soon as she can be taken there. 
-Don't worry, though. I can pay cash and It won't hurt our affairs long, I"m so deeply grateful that we actually have the money for this. I'll write Shahans to look after the peace. Is there a boy hired to wow? I understood so. You are all wonderful children, and Mama and I are extremely fortunate in having you. Love always, Dad. 
+<fw type="authorial">-2-</fw>
+<fw type="curatorial">89</fw>
+<fw type="letterhead">ST. LOUIS POST-DISPATCH 
+EDITORIAL DEPARTMENT </fw>
 
-90
-You'll need to hang on to the cash you have for your expenses, & I know you'll take care of it. You may go to an occasional movie, of course. More soon to be unhappy - it won't help. I'll take care of youdall's the idea bout taking Mama home is this. She wants, very naturally, upon having you two there. At home you'd be together. As for moving her, consider the easy riding of a an up-to-date ambulance, and the fact that I'd pay what it costs to drive slowly and carefully. Powl out to the docs that it is wrong to have the whole family 
-Lovex Dadx spent up like this if there is any way to make a sensible, coherent pattern out of this chaos. 
+<p>I expect to spend all ^the cash I have and ^some more, and I'm thoroughly adjusted to <unclear/> idea of doing that; but I suspect postulates and undertakes for the same reason. So you are delegated to keep after those doctors - with tact, of <unclear/> they cannot but think of me as good pay - and I am. Do you think they would hold Art Combs wife overlong - or even long enough? I'm not better at all, kids - really not. I just want to be sensible and do the right thing for all of us; and I want Mama to be where she wants to be as soon as she can be taken there. 
+Don't worry, though. I can pay cash and It won't hurt our affairs long, I"m so deeply grateful that we actually have the money for this. I'll write Shahans to look after the peace. Is there a boy hired to wow? I understood so. You are all wonderful children, and Mama and I are extremely fortunate in having you. Love always, Dad.</p>
+<fw type="curatorial">90</fw>
+
+<p>You'll need to hang on to the cash you have for your expenses, &amp; I know you'll take care of it. You may go to an occasional movie, of course. More soon to be unhappy - it won't help. I'll take care of youdall's the idea bout taking Mama home is this. She wants, very naturally, upon having you two there. At home you'd be together. As for moving her, consider the easy riding of a an up-to-date ambulance, and the fact that I'd pay what it costs to drive slowly and carefully. Powl out to the docs that it is wrong to have the whole family </p>
+<closer>
+<salute>Lovex Dadx</salute>
+<signed>spent up like this if there is any way to make a sensible, coherent pattern out of this chaos. </signed>
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI> 

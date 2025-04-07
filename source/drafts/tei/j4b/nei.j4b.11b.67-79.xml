@@ -1,74 +1,214 @@
 <?xml version="1.0" encoding="UTF-8"?>
-67
-Fink Collection July <del/> 17, 1935
-49
-NORFOLK JUL 8 3 PM 1935 NEBR. 
-<FIGURE/> 
-Miss Enid Neihardt 
-Branson,
-Mo.
-Taney County. 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-68 
-Norfolk, 
-Dearest Enid:
-Monday AM 
-Please don't feel blue - you are doing so much for us and no one could appreciate you more than we do. It is the heat that makes you feel the way you do - besides the present state in Sigurd's affairs, which, however, will not be lasting. Sig will make godo, and we must hold him up while he is gettin gon his feet. Enid dear about details, I want to say 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.11b.67.79">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Mona Martinsen Neihardt to Enid Neihardt, July 17, 1935</title>
+<author>Neihardt, Martinsen Mona</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2020</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.11b.67.69</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
 
-69
-2
-this: we do not owe a Feed bill - I remember distinctively Daddy paying it up in full and the man trying at the time to collect for acts that Dad had paid for. Dad told him that was a mistake and refused to pay for it - He said them that was alright, took the money for the last sack of oats - and that was to be all settled - now he comes back hoping we have forgotten - so just call him and tell 
+<notesStmt><note></note></notesStmt>
 
-70 
-3
-him that we <del/> positive by refuse to be treated that way, as I well remember the whole af-fair. There was a charge in men at the time I <del>f</del> believe and all they have to do is to look up their records or ask the men about it. 
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Mona Martinsen Neihardt to Enid Neihardt, July 17, 1935</title>
+<date when="1935-07-17">July 17, 1935</date>
+<extent>12 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term>Neihardt, Sigurd</term>
+<term>Neihardt, Maxine</term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt Martinsen Mona</persName>
+<placeName ref="http://www.geonames.org/5073965">Norfolk (Neb.)</placeName>
+<date when="1935-07-17"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Enid</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Enid</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2020"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2020"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="envelope">
+
+<pb facs="nei.j4b.11b.67.79.001" />
+<fw type="curatorial">Fink Collection July <del/> 17, 1935</fw>
+<note type="curatorial">49</note>
+
+<ab type="postmark">NORFOLK JUL 8 3 PM 1935 NEBR. </ab>
+
+
+<ab type="postmark">
+<address>
+<addrLine>Miss Enid Neihardt </addrLine>
+<addrLine>Branson,
+Mo.</addrLine>
+<addrLine>Taney County.</addrLine>
+</address>
+</ab>
+</div1>
+
+<div1 type="letter">
+<fw type="curatorial">68</fw>
+<fw>Norfolk,</fw>
+<opener>
+<dateline>Monday AM 
+</dateline>
+<salute>Dearest Enid:</salute>
+</opener>
+
+<p>Please don't feel blue - you are doing so much for us and no one could appreciate you more than we do. It is the heat that makes you feel the way you do - besides the present state in Sigurd's affairs, which, however, will not be lasting. Sig will make godo, and we must hold him up while he is gettin gon his feet. Enid dear about details, I want to say</p>
+
+<fw type="curatorial">69</fw>
+<fw type="authorial">2</fw>
+
+<p>this: we do not owe a Feed bill - I remember distinctively Daddy paying it up in full and the man trying at the time to collect for acts that Dad had paid for. Dad told him that was a mistake and refused to pay for it - He said them that was alright, took the money for the last sack of oats - and that was to be all settled - now he comes back hoping we have forgotten - so just call him and tell</p>
+
+<fw type="curatorial">70</fw>
+<fw type="authorial">3</fw>
+
+<p>him that we <del/> positive by refuse to be treated that way, as I well remember the whole af-fair. There was a charge in men at the time I <del>f</del> believe and all they have to do is to look up their records or ask the men about it. 
 Next the Baby bed - if it is in good condition why don't paint it. 
-Third the dog feed - Alice should cook up some mush 
+Third the dog feed - Alice should cook up some mush</p>
 
-71
-4
-every day and mix it with the canned dog feed so that it goes farther - and every once in a while get a 10 cent soup bone and cook it, then make mush of the broth - He does not need any dog feed while he is eating this. 
-I know how the groceries mount up and <del>then</del> there are five of you and the dog and cat. It si a good experience for you to be doing this, Enid 
+<fw type="curatorial">71</fw>
+<fw type="authorial">4</fw>
+<p>every day and mix it with the canned dog feed so that it goes farther - and every once in a while get a 10 cent soup bone and cook it, then make mush of the broth - He does not need any dog feed while he is eating this. 
+I know how the groceries mount up and <del>then</del> there are five of you and the dog and cat. It si a good experience for you to be doing this, Enid</p>
 
-72
-5
-darling aside from the fact that you are helping us, and that i feel so intense by grateful to you for all you are doing ad so does Daddy. - 
-I have been so sick nearly all of our stay here - My head got worse again and then I <del>try</del> tried taking a lot of Em pirin because I did not want to get down and be a nuissance to Daddy - and that seemed to upset my whole digestive 
+<fw type="curatorial">72</fw>
+<fw type="authorial">5</fw>
+<p>darling aside from the fact that you are helping us, and that i feel so intense by grateful to you for all you are doing ad so does Daddy. - 
+I have been so sick nearly all of our stay here - My head got worse again and then I <del>try</del> tried taking a lot of Em pirin because I did not want to get down and be a nuissance to Daddy - and that seemed to upset my whole digestive</p>
 
-73
-6
-system so that I was in for a lot of trouble generally - added to this I caught cold in this queer wind, causing neuralgia in my head and face - and the glare of this Prairie Sun just aobut tor-tured my eyes and head. So Daddy got me dark glasses and that helped - next I covered my poor silly old head up good an warm and Daddy gave me had wet rags to put over my forehead - so how I in all O.K. and I know letter  
+<fw type="curatorial">73</fw>
+<fw type="authorial">6</fw>
+<p>system so that I was in for a lot of trouble generally - added to this I caught cold in this queer wind, causing neuralgia in my head and face - and the glare of this Prairie Sun just aobut tor-tured my eyes and head. So Daddy got me dark glasses and that helped - next I covered my poor silly old head up good an warm and Daddy gave me had wet rags to put over my forehead - so how I in all O.K. and I know letter</p>
 
-74
-7
-how to protect myself against this climate. 
-However the important thing is the Messiah, and I have not interfered with it. Thank God. Daddy will, I believe, finish it today, and get it all typed tomorrow - then we may start towards Excelsior Springs, we may go to Omaha - So conti-nue sending mail here to Norfolk until you are other <del>unclear</del> wise advised. 
+<fw type="curatorial">74</fw>
+<fw type="authorial">7</fw>
+<p>how to protect myself against this climate. 
+However the important thing is the Messiah, and I have not interfered with it. Thank God. Daddy will, I believe, finish it today, and get it all typed tomorrow - then we may start towards Excelsior Springs, we may go to Omaha - So conti-nue sending mail here to Norfolk until you are other <del>unclear</del> wise advised.</p>
 
-75
-8
-Please tell Max I thank her for her letter and I perfect - by understand her attitude which is certainly right. I'll try to do all I can to assist her mother in the way she wants me to. I know the baby blan ket is beautiful and Max' writes: "I know Enid will never know how much I love it!" I'm so happy oer Sig's recital - I dreamed it was that way! I'll tell him 
+<fw type="curatorial">75</fw>
+<fw type="authorial">8</fw>
+<p>Please tell Max I thank her for her letter and I perfect - by understand her attitude which is certainly right. I'll try to do all I can to assist her mother in the way she wants me to. I know the baby blan ket is beautiful and Max' writes: "I know Enid will never know how much I love it!" I'm so happy oer Sig's recital - I dreamed it was that way! I'll tell him</p>
 
-76 
-9.
-about that! 
+<fw type="curatorial">76</fw>
+<fw type="authorial">9.</fw>
+<p>about that! 
 The Messiah is quite the greatest Poem in any lan-guage of all time - I tru-ly believe this - and just to think that Daddy actu-ally is dedicating it to me! I cannot get over the terrible thrill of it! 
-you will marvel at the close of the Poem - It is the great vision of Man coming through the despised - as it has 
+you will marvel at the close of the Poem - It is the great vision of Man coming through the despised - as it has</p>
 
-77
-10
-always done! And said in such unparalelled words of deepest mean - ing and full of pictures that one can never forget. 
+<fw type="curatorial">77</fw>
+<fw type="authorial">10</fw>
+<p>always done! And said in such unparalelled words of deepest mean - ing and full of pictures that one can never forget. 
 Indeed it is a great privilege to be here to virtues the last lines coming through - with such difficulty - and yet seeming ease! 
-It is now 11 o'clock and Daddy has been work ing in his work shop, 
+It is now 11 o'clock and Daddy has been work ing in his work shop,</p>
 
-78
-11
-the car for about 6 hours- since 5 A.M. - Then he will do no more till tomorrow morning with teh first twit ter of the birds, unless he fini-shes today, and I believe he will! - 
-I have done a wash-ing again this morning, I try to keep the little place nice and our clothes and bed-ding clean - but were so I rest most of the time, and am getting a lot of help out of it. 
+<fw type="curatorial">78</fw>
+<fw type="authorial">11</fw>
+<p>the car for about 6 hours- since 5 A.M. - Then he will do no more till tomorrow morning with teh first twit ter of the birds, unless he fini-shes today, and I believe he will! - 
+I have done a wash-ing again this morning, I try to keep the little place nice and our clothes and bed-ding clean - but were so I rest most of the time, and am getting a lot of help out of it.</p>
 
-79
-12
-Enid don't send money un-til you really are ahead of things there. We do not need it. Daddy will write you too about it. You cannot keep things up and do it on less than you have had I know all about it dear. 
-Loads of Love to my dearest and best of girls
-from 
-Mother.
-Why don't the other girls write? 
+<fw type="curatorial">79</fw>
+<fw type="authorial">12</fw>
+<p> 
+Enid don't send money un-til you really are ahead of things there. We do not need it. Daddy will write you too about it. You cannot keep things up and do it on less than you have had I know all about it dear.</p>
+<closer>
+<salute>Loads of Love to my dearest and best of girls</salute>
+<signed>from 
+Mother.</signed>
+<note>Why don't the other girls write? </note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

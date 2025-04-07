@@ -1,28 +1,180 @@
 <?xml version="1.0" encoding="UTF-8"?>
-[1935]
-29 Petri Collection 
-Mill - Bridge Cabin Camp. 
-Norfolk, Neb. Tues. Noon
-27
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.11b.27.30">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Hilda, Enid, and Alice Neihardt, June 25, 1935</title>
+<author>Neihardt, John G.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.11b.27.30</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from John G. Neihardt to Hilda, Enid, and Alice Neihardt, June 25, 1935</title>
+<date when="1935-06-25">June 25, 1935</date>
+<extent>3 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term>Wayne (Neb.)</term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5073965">Norfolk (Neb.)</placeName>
+<date when="1935-06-25"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Enid</persName>
+<persName>Neihardt, Alice</persName>
+<persName>Neihardt, Hilda</persName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Enid</persName></person>
+<person role="recipient"><persName>Neihardt, Alice</persName></person>
+<person role="recipient"><persName>Neihardt, Hilda</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2020"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2020"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.11b.27.30.001" />
+<fw type="curatorial">29 Petri Collection [1935]</fw>
+<fw>Mill - Bridge Cabin Camp.</fw>
+<note type="curatorial"></note>
+
+<opener>
+<dateline>Norfolk, Neb. Tues. Noon
 [<del>July</del> June 25, 1935]
-Dearest Girls: 
-Mama has told you that we reached here yesterday evening (or maybe she hasn't yet, but so it was.) On the way over we drove up from Harkins to where I taught school 37 and 36 years ago. We are in the cabin we occupied last fall & Mama is delighted with it. I don't know how long we'll stay here, but any mail sent here will reach us. I've written P-D stuff all morning & have more than enough already. 
-It was bully in Wayne, & Mama & I are very happy over it all. I had an auditorium full for the Messiah Friday at 9:30. Then I talked at Chapel at 10:45, not knowing in the least what i was going to say, and I was astonished at the result. Then on Saturday, I wrote you, the Governor failed us & I was asked to take his place making the main Jubilee speech. 
+</dateline>
+<fw type="curatorial">27
+</fw>
+<salute>Dearest Girls:</salute>
+</opener>
 
-28
-2-
-Then word came that he could come after all, & I was infinitely relieved. Then 1 hr. before the big affair, word came that the strike was an again in Omaha & the Governor was called there. .(He had reached West Point) Conn told me I'd have to give the address after all! Good gosh!- and only an hour to go! Well, I was going to do it, & I suppoose, could have; but so many people had speeches (each making perhaps a bit too much of his part.) I, of course, was held to the last, as that was, the Governor's peace. 
-Finally, when everyone was half dead with weariness, I learned ove rhte Conn & said: "Don't tell them I'm going to make a speech. Tell them I'll make a few remarks!" He let it go on that, & when 
+<p> 
+Mama has told you that we reached here yesterday evening (or maybe she hasn't yet, but so it was.)
+On the way over we drove up from Harkins to where I taught school 37 and 36 years ago. We are in the
+cabin we occupied last fall &amp; Mama is delighted with it. I don't know how long we'll stay here,
+but any mail sent here will reach us. I've written P-D stuff all morning &amp; have more than enough already. 
+It was bully in Wayne, &amp; Mama &amp; I are very happy over it all. I had an auditorium full for
+the Messiah Friday at 9:30. Then I talked at Chapel at 10:45, not knowing in the least what i was
+going to say, and I was astonished at the result. Then on Saturday, I wrote you, the Governor failed
+us &amp; I was asked to take his place making the main Jubilee speech.</p>
 
-29
-my time came I felt empty as a sack & all in. But something queer happened. When I got in front of the microphone soemthing came wide open in me & I was happy. I talked about 10 minutes, & I can't believe now that it was as all of them said. It was so early & felt so so sort of sweet & <unclear/> as it came out. The words were all there & they felt white. I don't want to seem to boast. It's just the opposite. I don't see how it was a tall. They wanted me to dictate it & have it copied. <unclear/> wanted it. But I really couldn't say & again. It's a queer thing. 
-Then Modnay at 10 I had a question - and - answer affair. They didn't question much. I got going on the social question, & <del/> 
+<fw type="curatorial">28</fw>
+<fw type="authorial">2-</fw>
 
-30
-at the end Conn was glad. And I spoke out boldly too, but certainly with no rancor. It can be done. And if it can be done to Conn's satisfaction, it can be done anywhere. 
+<p>Then word came that he could come after all, &amp; I was infinitely relieved. Then 1 hr. before
+the big affair, word came that the strike was an again in Omaha &amp; the Governor was called there.
+.(He had reached West Point) Conn told me I'd have to give the address after all! Good gosh!- and
+only an hour to go! Well, I was going to do it, &amp; I suppoose, could have; but so many people had speeches (each making perhaps a bit too much of his part.) I, of course, was held to the last, as that was, the Governor's peace. 
+Finally, when everyone was half dead with weariness, I learned ove rhte Conn &amp; said: "Don't tell
+them I'm going to make a speech. Tell them I'll make a few remarks!" He let it go on that, &amp; when </p>
+
+<fw type="curatorial">29</fw>
+<p>my time came I felt empty as a sack &amp; all in. But something queer happened. When I got in
+front of the microphone soemthing came wide open in me &amp; I was happy. I talked about 10 minutes,
+&amp; I can't believe now that it was as all of them said. It was so early &amp; felt so so sort of
+sweet &amp; <unclear/> as it came out. The words were all there &amp; they felt white. I don't want
+to seem to boast. It's just the opposite. I don't see how it was a tall. They wanted me to dictate
+it &amp; have it copied. <unclear/> wanted it. But I really couldn't say &amp; again. It's a queer thing. 
+Then Modnay at 10 I had a question - and - answer affair. They didn't question much. I got going on
+the social question, &amp; <del/></p>
+
+<fw type="curatorial">30</fw>
+<p>at the end Conn was glad. And I spoke out boldly too, but certainly with no rancor. It can be done. And if it can be done to Conn's satisfaction, it can be done anywhere. 
 Not one note of autogonism afterwards.
-We're happy, but we don't forget you girls. I do hope you can be reasonably happy there. 
-Endless love to all three of you 
-Dad. 
-Hiddy, I enclose a receipt for $75 deopsited to your account for next fall. They gave me $152.73 - all that was in the find! 
-Enid, the prospect for you - seems good, and I'm really hopeful. 
+We're happy, but we don't forget you girls. I do hope you can be reasonably happy there. </p>
+<closer>
+<salute>Endless love to all three of you </salute>
+<signed>Dad.</signed>
+<note type="authorial">>Hiddy, I enclose a receipt for $75 deopsited to your account for next fall. They gave me $152.73 - all that was in the find! 
+Enid, the prospect for you - seems good, and I'm really hopeful. </note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

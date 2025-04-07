@@ -1,46 +1,187 @@
 <?xml version="1.0" encoding="UTF-8"?>
-52 Fink Collection 
-63
-NORFOLK JUL 2 3 PM 1935 NEBR. 
-Miss Enid Neihardt.
-Branson. 
-Mo. 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-53
-Tuesday
-Dearest Children: 
-Just over a head-ache, and feeling extra "good" as a result - 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.11b.52.59">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Mona Martinsen Neihardt to Alice, Hilda, Enid Neihardt, July 2, 1935</title>
+<author>Neihardt, Mona Martinsen</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2020</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.11b.52.59</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Mona Martinsen Neihardt to Alice, Hilda, Enid Neihardt, July 2, 1935</title>
+<date when="1935-07-02"></date>
+<extent>7 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term>Neihardt, Sigurd</term>
+<term>Neihardt, Maxine</term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Mona Martinsen</persName>
+<placeName ref="http://www.geonames.org/5073965">Norfolk (Neb.)</placeName>
+<date when="1935-07-02"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Alice</persName>
+<persName>Neihardt, Enid</persName>
+<persName>Neihardt, Hilda</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Alice</persName></person>
+<person role="recipient"><persName>Neihardt, Enid</persName></person>
+<person role="recipient"><persName>Neihardt, Hilda</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2020"><name>Carney, Mary Jo.</name> Transcription</change>
+<change when="2020"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="envelope">
+
+<pb facs="nei.j4b.11b.52.59.001" />
+<fw type="curatorial">52 Fink Collection </fw>
+<note type="curatorial">63</note>
+
+<ab type="postmark">NORFOLK JUL 2 3 PM 1935 NEBR.</ab>
+<ab type="address">
+<address>
+<addrLine>Miss Enid Neihardt.</addrLine>
+<addrLine>Branson. Mo.</addrLine>
+</address>
+</ab>
+</div1>
+
+<div1 type="letter">
+<fw type="curatorial">53</fw>
+<opener>
+<dateline>Tuesday
+</dateline>
+<salute>Dearest Children: </salute>
+</opener>
+
+<p>Just over a head-ache, and feeling extra "good" as a result - 
 So interested in all you say - and so glad you are all well and happy and that the home is being kept as well. It will respond to your interest and bless those lovely lilies! 
 Let Mrs Shahan have several of the water hyacinths to 
 
-plant in her pool please, I promissed her. Did Miss Wilhite come after Zinnias for her mother? If not let her sake that bunch of plants that are so close together in the front bed (S.E.) Please tell me if the little blue border flowers you sent me, Enid, core up? If so they probably need skimming out, and you can trans-plant them clear around the side of the house. Alice dear, are the 
+plant in her pool please, I promissed her. Did Miss Wilhite come after Zinnias for her mother? If not let her sake that bunch of plants that are so close together in the front bed (S.E.) Please tell me if the little blue border flowers you sent me, Enid, core up? If so they probably need skimming out, and you can trans-plant them clear around the side of the house. Alice dear, are the </p>
 
-54
-<unclear/> blooming? You could encourage them a bit by loosening the earth around them with the gar-den fork. Also please pull out a lot of the poppies that are close to the ro-ses, will you dear? Is the sage grow ing pretty well? It is South of the East cross ways walk, opposite the rose Grand ma gave me. You might hoe around them and all the Zinnias. Tell Enid to give you a quarter for the job. Please see if our blue clema-tis is growing - you know, on the West by the walk. And please tell me what the Matrimony Vine is doing <del>of</del> over the front entrance? It probably needs fastening to the next cross piece of wood. 
-Enid dear, I am so sorry about Mrs Keeler - and here let me 
+<fw type="curatorial">54</fw>
+<p><unclear/> blooming? You could encourage them a bit by loosening the earth around them with the gar-den fork. Also please pull out a lot of the poppies that are close to the ro-ses, will you dear? Is the sage grow ing pretty well? It is South of the East cross ways walk, opposite the rose Grand ma gave me. You might hoe around them and all the Zinnias. Tell Enid to give you a quarter for the job. Please see if our blue clema-tis is growing - you know, on the West by the walk. And please tell me what the Matrimony Vine is doing <del>of</del> over the front entrance? It probably needs fastening to the next cross piece of wood. 
+Enid dear, I am so sorry about Mrs Keeler - and here let me </p>
 
-55
-give a bit of advice which may help you girls in some distant time when I am no longer with you in the flesh - : Don't ever quit being watch ful about preventing babies. I mean after you have your family, don't for-get to be afraid until you are all through with menstruations. If Mrs Keeler had not thought she was too old - she would not now be expecting a baby she cannot afford to have. Just so long as you can have monthlies you are in danger - and must 
+<fw type="curatorial">55</fw>
+<p>give a bit of advice which may help you girls in some distant time when I am no longer with you in the flesh - : Don't ever quit being watch ful about preventing babies. I mean after you have your family, don't for-get to be afraid until you are all through with menstruations. If Mrs Keeler had not thought she was too old - she would not now be expecting a baby she cannot afford to have. Just so long as you can have monthlies you are in danger - and must 
 take some precautions you took where you were still young. There is nothing like being an old fool - and some other un-born personality must pay for your folly. Life is queer - and what is good as one stage of the game, is bad at another, it would seem. I am so sorry for Alta Belle - 
-As for Maxine's not being with us at the birth of the first little Nei- 
+As for Maxine's not being with us at the birth of the first little Nei- </p>
 
-56
-hardt - the thought makes me sick - But Maxine knows that I want her, and she must be the one to decide where she wants to be the most. As I told her it will be a great disappoint ment to me not to have this wonderful event come to pass in our home, the home that some day will be the old Nei-hardt place - Maxine knows that her mother could stay 
-write her as much as she wished - but Maxine must be the one to decide, and I <unclear/> not want to make it hard for her either way she decides. I hope she will write me her self about it. Enid darling please give Hilda or Alice the commission to buy <del/> a new 10 cent brush and a small can of enamel, and paint the baby bed 
+<fw type="curatorial">56</fw>
+<p>hardt - the thought makes me sick - But Maxine knows that I want her, and she must be the one to decide where she wants to be the most. As I told her it will be a great disappoint ment to me not to have this wonderful event come to pass in our home, the home that some day will be the old Nei-hardt place - Maxine knows that her mother could stay 
+write her as much as she wished - but Maxine must be the one to decide, and I <unclear/> not want to make it hard for her either way she decides. I hope she will write me her self about it. Enid darling please give Hilda or Alice the commission to buy <del/> a new 10 cent brush and a small can of enamel, and paint the baby bed </p>
 
-57
-either light blue or ivory which ever Maxine prefers. And then, please look up a mattress in the Montgomery word catalogue that is just the size for the baby bed, and let me know the price, will you? Maybe you can start a find for buying that little mattress, by putting a small ammount aside for it each week - after next weeks' bills for the month are all out of the way?! 
+<fw type="curatorial">57</fw>
+<p>either light blue or ivory which ever Maxine prefers. And then, please look up a mattress in the Montgomery word catalogue that is just the size for the baby bed, and let me know the price, will you? Maybe you can start a find for buying that little mattress, by putting a small ammount aside for it each week - after next weeks' bills for the month are all out of the way?! 
 Enid, there is no man your size in Branson, so just keep plann ing to leave when you get a good chance. It looks to me like you would have a very good chance soon. 
-Hilda darling, I'm glad you liked the clipps - How are the dresses getting along? Please get Frankie to spend the day sewing with you right soon - I'm going to work for her to pay for this help 
+Hilda darling, I'm glad you liked the clipps - How are the dresses getting along? Please get Frankie to spend the day sewing with you right soon - I'm going to work for her to pay for this help</p>
 
-58 
-she is giving me - we have that all settled. 
+<fw type="curatorial">58</fw>
+<p>she is giving me - we have that all settled. 
 I believe it is getting late for that lace jacket I mentioned, but what do you think of a linen suit to go back to school in? Like the coat I sent you? See if they have them in Mont-gomery Ward's and compare their prices with Yandel's - I got a good suit here for $3.95 - Please look into this and let me know at once. 
 You might get 9 1/2 yards of goods to make the little woollen dress we planned to make from Frankie's pattern. Please don't let this lag-as it is getting nearer school time every minute, and there will be lots to do at the last minute any way. 
-Daddy is doing Post Dispatch work today. He got along well with the Messiah, and will continue tomorrow.
+Daddy is doing Post Dispatch work today. He got along well with the Messiah, and will continue tomorrow.</p>
 
-59
-we'll be here another week - but I think Daddy will finish the Messiah sooner - than he thinks.-
-It is not right for Sigurd to burden the Meltons - he should stay in our home till he can make a home for Max somewhere else. He and Max both know that we want him and Maxine to stay with us, if he decides to go home to her mother for her confinement, that is up to her, but Sigurd should remain with us still she can come back to him. 
-Loads of Love 
-from Mother.  
+<fw type="curatorial">59</fw>
+<p>we'll be here another week - but I think Daddy will finish the Messiah sooner - than he thinks.-
+It is not right for Sigurd to burden the Meltons - he should stay in our home till he can make a home for Max somewhere else. He and Max both know that we want him and Maxine to stay with us, if he decides to go home to her mother for her confinement, that is up to her, but Sigurd should remain with us still she can come back to him. </p>
+<closer>
+<salute>Loads of Love</salute>
+<signed>from Mother.</signed>
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>        

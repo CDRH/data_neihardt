@@ -1,22 +1,173 @@
 <?xml version="1.0" encoding="UTF-8"?>
-17
-Fink Collection 
-6
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.17.19">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Alice Neihardt to Enid G. Neihardt, December 6th, 1930</title>
+<author>Neihardt, Alice</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.17.19</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Alice Neihardt to Enid G. Neihardt, December 6th, 1930</title>
+<date when="1920-12-06">December 6th, 1930</date>
+<extent>3 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Alice Culler</persName>
+<placeName ref="http://www.geonames.org/4859343">Grinnell (Iowa)</placeName>
+<date when="1930-12-06"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Enid</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Enid</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="envelope">
+
+<fw type="curatorial">Fink Collection</fw>
+<fw type="curatorial">17</fw>             
+<fw type="curatorial">6</fw>   
+<ab type="return">
+<address>
+<addrLine>Miss Enid G. Neihardt </addrLine> 
+<addrLine>Branson
+MO. </addrLine> 
+</address>
+</ab> 
+                
+<ab type="postmark">
 GRINNELL DEC 6 1230PM 1930 IOWA
-Miss Enid G. Neihardt 
-Branson
-MO. 
-a.m. Neihardt
-1234 West St
-Grinnell
-Iowa.
+</ab>
+                
 
-18
-Sat. morning 
-Dear Enid-
-Recieved your note the right and the money order yesterday, many Thanks dear girl. Yes that was right but it was not the <del/> water it was for the light - there will be no water bill until next Spring when I get back to Branson.-Soon it will be christmas and as always I am not ready and of course heartachy. So Enid dear my christmas box to Branson will not litter up your house as burden the old ford. I had such a lovely letter from Sigurd this week. It made me feel happy - Enid have you people written to Auntie Lulu? She has been very sick  - a letter yesterday said she is better but still not well. 
+<ab type="address">
+<address>
+<addrLine>a.m. Neihardt</addrLine> 
+<addrLine>1234 West St</addrLine>
+<addrLine>Grinnell
+Iowa.</addrLine>
+</address> 
+</ab> 
+</div1>
 
-19
-told her I would go to her if she would let me but she had to tell me that it would bother Donald and she wants me to wait until she is well, of course I could not go under those conditions. I understand and it is all right - It is not that he doesn't want me, but an Extra one I would make him unsettled. I must do some other writing this morning and will just say I do love you Enid dear
-Grandma
-P.S. I have had just one letter from Daddy since I came here 
+<div1 type="letter">
+
+<pb facs="nei.j4b.17.19.001" />
+<fw type="curatorial">18</fw>
+<note type="curatorial"></note>
+
+<opener>
+<dateline>
+</dateline>
+<salute>Sat. morning 
+Dear Enid-</salute>
+</opener>
+
+<p>Recieved your note the right and the money order yesterday, many Thanks dear girl. Yes that was right but it was not the <del/> water it was for the light - there will be no water bill until next Spring when I get back to Branson.-Soon it will be christmas and as always I am not ready and of course heartachy. So Enid dear my christmas box to Branson will not litter up your house as burden the old ford. I had such a lovely letter from Sigurd this week. It made me feel happy - Enid have you people written to Auntie Lulu? She has been very sick  - a letter yesterday said she is better but still not well. </p>
+
+<fw type="curatorial">19</fw>
+
+<p>told her I would go to her if she would let me but she had to tell me that it would bother Donald and she wants me to wait until she is well, of course I could not go under those conditions. I understand and it is all right - It is not that he doesn't want me, but an Extra one I would make him unsettled. I must do some other writing this morning and will just say I do love you Enid dear</p>
+
+<closer>
+<salute>Grandma</salute>
+<signed>P.S. I have had just one letter from Daddy since I came here</signed>
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

@@ -1,16 +1,157 @@
 <?xml version="1.0" encoding="UTF-8"?>
-139
-Fink Collection 
-30
-Dear Enot:
-Please look in a city directory and see if you can locate John Myers O'Hara. If you can't find him, try to learn what firm took over the business of John Day Co., Pubs. 
-Let me know. 
-Love 
-Dad 
-UNITEDSTATESPO <FIGURE/> WASHINGTON 3CENTS
-NEWPORT MAR 128 1935 
-Miss Enid Neihardt 
-150 West 47th St., 
-New York
-Suite #118 
-Somerset Hotel 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.11.139">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Enid Neihardt, March 28, 1935</title>
+<author>Neihardt, John G.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2020</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.11.139</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from John G. Neihardt to Enid Neihardt, March 28, 1935</title>
+<date when="1935-03-28">March 28, 1935</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term>John Myers O'Hara</term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, John G.</persName>
+<placeName></placeName>
+<date when="1935-03-28"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Enid</persName>
+<placeName ref="http://www.geonames.org/5128581">New York City (N.Y.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Enid</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2020"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2020"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.11.139.001" />
+<fw type="curatorial">139</fw>
+<note type="curatorial">Fink Collection 
+30</note>
+
+<opener>
+<dateline>
+</dateline>
+<salute>Dear Enot:</salute>
+</opener>
+
+<p>Please look in a city directory and see if you can locate John Myers O'Hara. If you can't find him, try to learn what firm took over the business of John Day Co., Pubs. </p>
+
+<closer>
+<salute>Let me know. 
+Love </salute>
+<signed>Dad</signed>
+<note></note>
+</closer>
+
+</div1>
+<div1 type="letter">
+<figure type="stamp"><ab>UNITEDSTATESPO WASHINGTON 3CENTS</ab></figure>
+
+<ab type="postmark">NEWPORT MAR 128 1935</ab>
+
+<ab type="return">
+<address>
+<addrLine>Miss Enid Neihardt</addrLine>
+<addrLine>150 West 47th St.,</addrLine>
+<addrLine>New York</addrLine>
+<addrLine>Suite #118 </addrLine>
+<addrLine>Somerset Hotel</addrLine>
+</address>
+</ab>
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

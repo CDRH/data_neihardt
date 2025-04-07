@@ -1,40 +1,186 @@
 <?xml version="1.0" encoding="UTF-8"?>
-20 Neihardt 
-pm. June 29, 1936 
-97 
-<figure/> 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.12.97.100">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Mona Martinsen Neihardt to John G. Neihardt, June 29, 1936</title>
+<author>Neihardt, Mona Martinsen</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2020</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.12.97.100</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Mona Martinsen Neihardt to John G. Neihardt, June 29, 1936</title>
+<date when="1936-06-29">June 29, 1936</date>
+<extent>3 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term>Neihardt, Hilda</term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Mona Martinsen</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+<date when="1936-06-29"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/4407066">St. Louis (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2020"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2020"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.12.97.100.001" />
+<fw type="curatorial">20 Neihardt 
+97</fw>
+<note type="curatorial"></note>
+
+<fw type="letterhead"><figure/> 
 HOTEL ELDRIDGE, LAWRENCE KANSAS
 HOTEL STATS, KANSAS CITY, MO. 
 PEROSNAL DIRECTION OF W.G. HUTTSON 
-HOTEL STATS 
-12th and Wynadotte Kansas City, Mo. 
-Dearest Neihardt:When I think how much you've been doing for me the last mouth or so, I wonder how I can ever been <unclear/> of it - either to you or the children. And to think that there are weeks yet that I'll need the <unclear/>-. And all this money that was supposed to be to write "Jed into with is being Well to keep the same old girl going. And you, dear, need a summer suit badly I remember your saying before there was any sign of were having to go to the <unclear/> that
+HOTEL STATS </fw>
+<opener>
+<dateline>pm. June 29, 1936
+</dateline>
+<fw>12th and Wynadotte Kansas City, Mo.</fw>
+<salute>Dearest Neihardt:</salute>
+</opener>
+
+<p>When I think how much you've been doing for me the last mouth or so, I wonder how I can ever been <unclear/> of it - either to you or the children. And to think that there are weeks yet that I'll need the <unclear/>-. And all this money that was supposed to be to write "Jed into with is being Well to keep the same old girl going. And you, dear, need a summer suit badly I remember your saying before there was any sign of were having to go to the <unclear/> that
 Letter in Hilda's handwriting Just little after hours seen Illness 
-In the Service of Hospitality 
+In the Service of Hospitality </p>
 
-98
-you thought that now you could afford to get one, <unclear/> to wear and for my mental relief, We still owed the night nurse He, and she let me have the be you, which would have cost $2.50, for $2. Mis A. sent her the money out of hers. <unclear/> the agent $1.50 for necessary things for me to come home with out of her own money. Hilda had good screen doors put on our house, & if you could see the newly painted place now you wouldn't be disappointed in your home. It really is very neat and lovely. We painter did a good job of painting, another front really looks finished, I want to tell you about the dress you save me. It is the loveliest thing I've had in years but I don't believe I'll wear it until next year - maybe. 
+<fw type="curatorial">98</fw>
+<p>you thought that now you could afford to get one, <unclear/> to wear and for my mental relief, We
+still owed the night nurse He, and she let me have the be you, which would have cost $2.50, for $2.
+Mis A. sent her the money out of hers. <unclear/> the agent $1.50 for necessary things for me to
+come home with out of her own money. Hilda had good screen doors put on our house, &amp; if you could see the newly painted place now you wouldn't be disappointed in your home. It really is very neat and lovely. We painter did a good job of painting, another front really looks finished, I want to tell you about the dress you save me. It is the loveliest thing I've had in years but I don't believe I'll wear it until next year - maybe.</p>
 
-99
--2-
-    <figure/> 
+<fw type="curatorial">99</fw>
+<fw type="authorial">-2-</fw>
+<fw type="letterhead"> <figure/> 
     HOTEL ELDRIDGE, LAWRENCE KANSAS
     HOTEL STATS, KANSAS CITY, MO. 
     PEROSNAL DIRECTION OF W.G. HUTTSON 
     HOTEL STATS 
-    12th and Wynadotte Kansas City, Mo. 
-the children have been so good. Everything is so con-venient and so well-kept. Hilda's meals are so delicious that, I eat big Farmer's meals for dinner. Mat means I'm going to get well quickly and I'm not going to try to burn anything. It's so wonderful to be at home. It makes me so grateful to you that I have such a lovely home. I marvel how you keep hitting the ball with your beautiful graze. Won't forget that your letters are just eaten up. And Enid's are always a blessing too. I <unclear/> not to use that <unclear/> for the mattress, but to use it for 
-I'm the Silliest of Hospitality 
+    12th and Wynadotte Kansas City, Mo. </fw>
 
-100 
-expenses already on hand, After all I can visit a little longer to have our matress or fixed up. Hilda is writing this for me, so my conscience can be a little cleaner. She been a month since I've been able to write to you, but you know I've thought of you every day. All I want now is to live, to be worth all your sand-ness, 
-Mona
-<figure/> 
-G. Neihardt 
-Branson, Mo. 
-BRANSON JUN 29 7-AM 1936 MO. 
-UNITEDSTATESPOSTAGE <FIGURE/> WASHINGTON 3CENTS3
-Mr. John Neihardt 
-5544 Pershing St. Louis 
-Mo. 
-<figure/> 
+<p>the children have been so good. Everything is so con-venient and so well-kept. Hilda's meals are so delicious that, I eat big Farmer's meals for dinner. Mat means I'm going to get well quickly and I'm not going to try to burn anything. It's so wonderful to be at home. It makes me so grateful to you that I have such a lovely home. I marvel how you keep hitting the ball with your beautiful graze. Won't forget that your letters are just eaten up. And Enid's are always a blessing too. I <unclear/> not to use that <unclear/> for the mattress, but to use it for 
+I'm the Silliest of Hospitality</p>
+
+<fw type="curatorial">100</fw>
+<p>expenses already on hand, After all I can visit a little longer to have our matress or fixed up. Hilda is writing this for me, so my conscience can be a little cleaner. She been a month since I've been able to write to you, but you know I've thought of you every day. All I want now is to live, to be worth all your sand-ness, </p>
+
+<closer>
+<salute></salute>
+<signed>Mona</signed>
+<note></note>
+</closer>
+
+</div1>
+<div1 type="envelope">
+<fw>G. Neihardt 
+Branson, Mo. </fw>
+
+<ab type="postmark">BRANSON JUN 29 7-AM 1936 MO.</ab>
+
+<figure type="stamp"><ab>UNITEDSTATESPOSTAGE WASHINGTON 3CENTS3</ab></figure>
+
+<ab type="return">
+<address>
+<addrLine>Mr. John Neihardt </addrLine>
+<addrLine>5544 Pershing St. Louis 
+Mo.</addrLine>
+</address>
+</ab>
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

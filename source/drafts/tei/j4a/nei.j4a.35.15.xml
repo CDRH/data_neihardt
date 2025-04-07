@@ -1,24 +1,156 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 15
-THE UNIVERSITY OF NEBRASKA
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.35.15">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Virginia Faulkner to John G. Neihardt, February 10, 1971</title>
+<author>Faulkner, Virginia</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.35.15</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Virginia Faulkner to John G. Neihardt, February 10, 1971</title>
+<date when="1971-02-10">February 10, 1971</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="http://viaf.org/viaf/110894873">Faulkner, Virginia, 1913-1980</persName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+<date when="1971-02-10"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.35.15.001" />
+<fw type="curatorial">15</fw>
+<note type="curatorial"></note>
+
+<fw type="letterhead">THE UNIVERSITY OF NEBRASKA
 LINCOLN, NEBRASKA 68508
 
 EDITORIAL OFFICES
-UNIVERSITY OF NEBRASKA PRESS
+UNIVERSITY OF NEBRASKA PRESS</fw>
 
-February 10, 1971
+<opener>
+<dateline>February 10, 1971
+</dateline>
+<address>
+<addrLine>Dr. John G. Neihardt</addrLine>
+<addrLine>c/o Julius D. Young</addrLine>
+<addrLine>5835 Vine Street</addrLine>
+<addrLine>Lincoln, Nebraska 68505</addrLine>
+</address>
+<salute>Dear Dr. Neihardt:</salute>
+</opener>
 
-Dr. John G. Neihardt
-c/o Julius D. Young
-5835 Vine Street
-Lincoln, Nebraska 68505
-
-Dear Dr. Neihardt:
 <p>It was so good of you to send the record, which I shall value and enjoy--while recalling the occasions on which I have been fortunate enough to hear you reading your work in person.</p>
 <p>Thank you, too, for your January 11 note, which I apologize for not answering sooner. Needless to say, both Bernice and I have spoken many times of that memorable evening with you and Mr. and Mrs. Young, and we are hoping that it can be repeated, once winter is over.</p>
 <p>The BLACK ELK "explosion" rejoices all our hearts. I was looking at the sales record recently and I noticed that the sales for the fiscal year exceeded the total sales for all the seven years from the time we first published the book up to 1968. For the next year the sales were double that of the biggest preceding year; and this last year they jumped to over fifteen thousand. Let's hope the same kind of lightning strikes some more titles in the Neihardt canon.</p>
 <p>You asked about Professor Aly's biography. We sent her a lengthy critique from the outside reader some time back, and I assume she is working on revisions.</p>
 <p>Looking forward to seeing your forthcoming television program.</p>
-Yours ever,
-Virginia Faulkner
-VF:mh
+
+<closer>
+<salute>Yours ever,</salute>
+<signed>Virginia Faulkner</signed>
+<note>VF:mh</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

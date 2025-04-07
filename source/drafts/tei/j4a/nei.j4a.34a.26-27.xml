@@ -1,16 +1,147 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 26
-1336 S. 18th St
-Lincoln
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-Dear Dr. Neihardt,
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.34a.26.27">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Harold Clingerman to John G. Neihardt, September 29, 1970</title>
+<author>Clingerman, Harold</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.34a.26.27</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Harold Clingerman to John G. Neihardt</title>
+<date when="1970-09-29">September 29, 1970</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term>The Splendid Wayfaring</term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Clingerman, Harold</persName>
+<placeName></placeName>
+<date when="1970-09-29"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.34a.26.27.001" />
+<fw type="curatorial">26</fw>
+<note type="authorial">1336 S. 18th St
+Lincoln</note>
+
+<opener>
+<dateline>
+</dateline>
+<salute>Dear Dr. Neihardt,</salute>
+</opener>
+
 <p>My sincere thanks come for your remembering me with a first copy of THE SPLENDID WAYFARING.</p>
 <p>Ethel would have liked reading it with me, and <unclear>us</unclear> one would have been more appreciative of your writing.</p>
 <p>Now that she is gone I shall cherish</p>
-Page 27
+<fw type="curatorial">27</fw>
 <p>more than ever the delightful photograph I made of the two of you.</p>
 <p>I shall call you one day this fall, and perhaps we can have a quiet talk.</p>
-Gratefully yours,
-Harold Clingerman
-Twenty-ninth September
-Nineteen Seventy
+
+<closer>
+<salute>Gratefully yours,</salute>
+<signed>Harold Clingerman</signed>
+<note>Twenty-ninth September
+Nineteen Seventy</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

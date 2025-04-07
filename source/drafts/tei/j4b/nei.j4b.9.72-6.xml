@@ -1,59 +1,201 @@
 <?xml version="1.0" encoding="UTF-8"?>
-72
-European Plan Cafe In Connection 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.9.72.76">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Sigurd Neihardt to Maxine M. Neihardt, February 17, 1932</title>
+<author>Neihardt, Sigurd</author>
+<principal>Gossin Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&amp;#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.9.72.76</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Sigurd Neihardt to Maxine M. Neihardt, February 17, 1932</title>
+<date when="1932-02-17">February 17, 1932</date>
+<extent>5 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Sigurd</persName>
+<placeName ref="http://www.geonames.org/4408000">Sedalia (Mo.)</placeName>
+<date when="1932-02-17"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Maxine M.</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Maxine M.</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2019"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.9.72.76.001" />
+<fw type="curatorial">72</fw>
+<note type="curatorial"></note>
+
+<fw type="letterhead">European Plan Cafe In Connection 
 LA MOORE HOTEL 
-MARTIN & SHYRER, Proprietors 
-SEDALIA, MO., 
-February 16th <del>19</del> '92
-Excuse mistakes please! Hastily! S.N. 
-Dear Maxine,
-Rec'd your sweet letter here, & boy! I was glad to hear from you! It means so much, my dear!! 
+MARTIN &amp;amp; SHYRER, Proprietors 
+SEDALIA, MO.,</fw>
+<opener>
+<dateline>February 16th <del>19</del> '92
+</dateline>
+<note>Excuse mistakes please! Hastily! S.N. </note>
+<salute>Dear Maxine,</salute>
+</opener>
+
+<p>Rec'd your sweet letter here, &amp;amp; boy! I was glad to hear from you! It means so much, my dear!! 
 Don't suppose you have seen any snow yet in Branson. Lots of it up in this part of the state! Hannibal was just getting rid of a fairly heavy snow while we were there! 
 Just took in another show at the Sedalia Fox theater! It was quite good. 
-The Auburn is so muddy all over, but I'll not let 
+The Auburn is so muddy all over, but I'll not let</p>
 
-73
-European Plan Cafe In Connection 
+<fw type="curatorial">73</fw>
+<fw type="letterhead">European Plan Cafe In Connection 
 LA MOORE HOTEL 
-MARTIN & SHYRER, Proprietors 
-SEDALIA, MO., 19
-you see it 'til it's had a good shining! 
-I'm awfully sorry to hear the news of your brother! He has no doubt stood a whole lot! It'll be fine to have him with you when he is able! I have never seen a valentine with wording sufficient to use on you! "I love you" is a fact on my part, & don't think it would be so well accepted if in print! I'm anxious to return home, as I have not at all been feeling right! 
+MARTIN &amp;amp; SHYRER, Proprietors 
+SEDALIA, MO., 19</fw>
 
-74
-European Plan Cafe In Connection 
+<p>you see it 'til it's had a good shining! 
+I'm awfully sorry to hear the news of your brother! He has no doubt stood a whole lot! It'll be fine
+to have him with you when he is able! I have never seen a valentine with wording sufficient to use
+on you! "I love you" is a fact on my part, &amp;amp; don't think it would be so well accepted if in print! I'm anxious to return home, as I have not at all been feeling right!</p>
+
+<fw type="curatorial">74</fw>
+<fw type="letterhead">European Plan Cafe In Connection 
 LA MOORE HOTEL 
-MARTIN & SHYRER, Proprietors 
--3-
-SEDALIA, MO., 19
-I had indigestion when I left home & have not gotten entirely over it as yet!
-You know how nervousness whether one is conscious of its presence or not, will tend to effect a person! Playing so much, & with no practice in between is a "chancy" business-I'll admit it, & how!! I'm playing again Wed. Nite at Warrensburg! 
+MARTIN &amp;amp; SHYRER, Proprietors</fw>
+<fw type="authorial">-3-</fw>
+<fw>SEDALIA, MO., 19</fw>
+
+<p>I had indigestion when I left home &amp; have not gotten entirely over it as yet!
+You know how nervousness whether one is conscious of its presence or not, will tend to effect a person! Playing so much, &amp; with no practice in between is a "chancy" business-I'll admit it, &amp; how!! I'm playing again Wed. Nite at Warrensburg! 
 Thanks for so kindly wishin' is luck! Dad is good always in his readings! 
-We stored our car in a public garage at Moberly, & 
+We stored our car in a public garage at Moberly, &amp;</p>
 
-75
-European Plan Cafe In Connection 
+<fw type="curatorial">75</fw>
+<fw type="letterhead">European Plan Cafe In Connection 
 LA MOORE HOTEL 
-MARTIN & SHYRER, Proprietors 
--4-
-SEDALIA, MO., 19
-this outfit drained oil & gas out of our car for the purpose of making us refill before leaving! A dirty stunt, by golly! We have proof of it, by having close check on our instrument board! Those cheap monkey tricks go against the grain with me! 
+MARTIN &amp;amp; SHYRER, Proprietors</fw>
+<fw type="authorial">-4-</fw>
+<fw>SEDALIA, MO., 19</fw>
+
+<p>this outfit drained oil &amp; gas out of our car for the purpose of making us refill before leaving! A dirty stunt, by golly! We have proof of it, by having close check on our instrument board! Those cheap monkey tricks go against the grain with me! 
 So you missed me? Well! you couldn't have been as lonesome (or moreso) for me than I have been for you! You are the dearest girl in the world! It will be a pleasure
-(over)  
+(over)</p>
 
-to see you again, you dear sweet girl!! 
-I must close, & will be seeing you soon! 
-"'Til I see you"! 
-With Lots of Love, 
-Always
-"URE" Sigurd 
-JOHN G. NEIHARDT CENTER 
+<p>to see you again, you dear sweet girl!! 
+I must close, &amp; will be seeing you soon! 
+"'Til I see you"! </p>
 
-76
-<figure/> 
-La Moore Hotel 
+<closer>
+<salute>With Lots of Love,</salute>
+<signed>"URE" Sigurd</signed>
+<fw type="curatorial">JOHN G. NEIHARDT CENTER</fw>
+</closer>
+
+</div1>
+<div1 type="envelope">
+<fw type="curatorial">76</fw>
+<figure><ab>La Moore Hotel 
 and Cafe 
-SEDALIA, MISSOURI 
-SEDALIA, MO FEB17 11-AM 1932
-Miss Maxine Melton,
-Branson, Missouri. 
+SEDALIA, MISSOURI </ab></figure>
+
+<ab type="postmark">SEDALIA, MO FEB17 11-AM 1932</ab>
+
+<ab type="return">
+<address>
+<addrLine>Miss Maxine Melton,</addrLine>
+<addrLine>Branson, Missouri.</addrLine>
+</address>
+</ab>
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

@@ -1,80 +1,230 @@
 <?xml version="1.0" encoding="UTF-8"?>
-127
-Fink Collection March 28
-<figure/> NEW YORK, N.Y. 6 1935 MAR30 1230 PM 
-UNITEDSTATES <FIGURE/> WASHINGTON 3CENT
-E. Neihardt Suite #118 
-Hotel Somerset 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.11.127.138">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Enid Neihardt to John G. Neihardt and Mona Martinsen Neihardt, March
+28 1935</title>
+<author>Neihardt, Enid</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.11.127.138</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Enid Neihardt to John G. Neihardt and Mona Martinsen Neihardt, March
+28 1935</title>
+<date when="1935-03-28">March 28, 1935</date>
+<extent>11 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term>Bob Davis</term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Enid</persName>
+<placeName ref="http://www.geonames.org/5128581">New York City (N.Y.)</placeName>
+<date when="1935-03-28"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<persName>Neihardt, Martinsen Mona</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+<person role="recipient"><persName>Neihardt, Martinsen Mona</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2020"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2020"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="envelope">
+
+<pb facs="nei.j4b.11.127.138.001" />
+<fw type="curatorial">127</fw>
+<note type="curatorial">Fink Collection March 28</note>
+
+<figure type="postmark"><ab>NEW YORK, N.Y. 6 1935 MAR30 1230 PM 
+UNITEDSTATES </ab></figure>
+
+<figure type="stamp"><ab>WASHINGTON 3CENT</ab></figure>
+
+<fw>E. Neihardt Suite #118 </fw>
+
+<figure><ab>Hotel Somerset 
 150 West Fortyseventh Street
 New York 
-Dr. and Mrs. J.G. Neihardt 
-Box # 264 
-Branson 
-Missouri 
-Taney Co. 
+</ab></figure>
 
-128
-New York, N.Y. 
-March 28, 1935. 
-Dearest Mama & Dad: 
-Only this morning, Mrs. Word, in his gruff business manner, informed me that "Bob Davis returned yesterday and I told him you were here; he said just as soon as he has a little time he wants to have a little talk with you." 
-Then this afternoon,. Bob Davis called for me. I was of course thrilled, excited, etc.! I foudn Mrs. Davis to be a very sympathetic, human person who no doubt has great understanding in 
+<ab type="address">
+<address>
+<addrLine>Dr. and Mrs. J.G. Neihardt</addrLine>
+<addrLine>Box # 264</addrLine>
+<addrLine>Branson 
+Missouri</addrLine>
+<addrLine>Taney Co.</addrLine>
+</address>
+</ab>
+</div1>
 
-129
--2- 
-in many things. He was surely nice to me; and it was great to meet him, for Bob Davis is consider ed quite the "grand old gentleman" at Munsey's. Of course, he inquired all what you both, and said he was writing to Dad and wanted to see me first. he just returned from Mexico and is to be here four days after which time he will depart on another trip, to China this time; says he dots this to keep his column alive. 
+<div1 type="letter">
+<fw type="curatorial">128</fw>
+<opener>
+<fw>New York, N.Y.</fw>
+<dateline>March 28, 1935.
+</dateline>
+<salute>Dearest Mama &amp; Dad:</salute>
+</opener>
 
-130
--3-
-I told Mr. Davis about all tha tyou had ben do-ing in the writing you were to publish "The long of the Messiah" this fall, Dad. I also told him what you, Mama, were doing in the way of sculpture. He was very pleased to hear about everything. Mind you, this was a very short visit we had, about 15 minutes at the most. Mr. Davis wanted to know how I liked N.Y.C. and also how I liked the work I was doing. I told him I was enjoying the experience very much. Next time 
+<p>Only this morning, Mrs. Word, in his gruff business manner, informed me that "Bob Davis returned yesterday and I told him you were here; he said just as soon as he has a little time he wants to have a little talk with you." 
+Then this afternoon,. Bob Davis called for me. I was of course thrilled, excited, etc.! I foudn Mrs. Davis to be a very sympathetic, human person who no doubt has great understanding in </p>
 
-131
--4-
-I see Mr. Davis it may be much later in the years. He is gone most of the time, you know; travels 9 mo. and stays here only about 3 mo. of the year. When I told him i was so glad for his kindness in get ting this position, he said "That's nothing; forget it!" 
-When coming home at 5:30 p.m., I met Bob D. in the elevator and he had no umbrella, so I walked to the sub with him under my umbrella and he paid my fare. We 
+<fw type="curatorial">129</fw>
+<fw type="authorial">-2-</fw>
 
-132
--5-
-rode together to my stop at 47th. he then went on to 57th Street stop. Amama is going ot call him up tomorrow to try to get some tickets to some shows. 
+<p>in many things. He was surely nice to me; and it was great to meet him, for Bob Davis is consider ed quite the "grand old gentleman" at Munsey's. Of course, he inquired all what you both, and said he was writing to Dad and wanted to see me first. he just returned from Mexico and is to be here four days after which time he will depart on another trip, to China this time; says he dots this to keep his column alive.</p>
+
+<fw type="curatorial">130</fw>
+<fw type="authorial">-3-</fw>
+
+<p>I told Mr. Davis about all tha tyou had ben do-ing in the writing you were to publish "The long of the Messiah" this fall, Dad. I also told him what you, Mama, were doing in the way of sculpture. He was very pleased to hear about everything. Mind you, this was a very short visit we had, about 15 minutes at the most. Mr. Davis wanted to know how I liked N.Y.C. and also how I liked the work I was doing. I told him I was enjoying the experience very much. Next time</p>
+
+<fw type="curatorial">131</fw>
+<fw type="authorial">-4-</fw>
+<p>I see Mr. Davis it may be much later in the years. He is gone most of the time, you know; travels 9 mo. and stays here only about 3 mo. of the year. When I told him i was so glad for his kindness in get ting this position, he said "That's nothing; forget it!" 
+When coming home at 5:30 p.m., I met Bob D. in the elevator and he had no umbrella, so I walked to the sub with him under my umbrella and he paid my fare. We </p>
+
+<fw type="curatorial">132</fw>
+<fw type="authorial">-5-</fw>
+
+<p>rode together to my stop at 47th. he then went on to 57th Street stop. Amama is going ot call him up tomorrow to try to get some tickets to some shows. 
 Mr. Davis is quite stooped and is aged bodily, but is very strong in spirit. 
 More later this was just a Bob Davis letter! 
-Loads of love, Friday night has Enid just ar-rived in some way! I don't know how it ever went to fast but it did! So, I shall con-tinue my letter from now 
+Loads of love, Friday night has Enid just ar-rived in some way! I don't know how it ever went to fast but it did! So, I shall con-tinue my letter from now </p>
 
-133
--cont. page 6-
-Since that meeting, I've been thinking how very odd it is that I shoudl meet Mr. Davis in such an opportune manner! Just when stepping into the elevator. He was stepping in the moment I was, strange, for we both had been having a heavy day's work! Sometimes I work for a few minutes extra. Everything seemed to be set. Fate has a <del/> neat way! 
-Mr. Davis is just as I expected him to be - a very sweet old gentle-man; he is all I would 
+<fw type="curatorial">133</fw>
+<fw type="authorial">-cont. page 6-</fw>
+<p>Since that meeting, I've been thinking how very odd it is that I shoudl meet Mr. Davis in such an opportune manner! Just when stepping into the elevator. He was stepping in the moment I was, strange, for we both had been having a heavy day's work! Sometimes I work for a few minutes extra. Everything seemed to be set. Fate has a <del/> neat way! 
+Mr. Davis is just as I expected him to be - a very sweet old gentle-man; he is all I would </p>
 
-134
--7-
-expect an old man, of the finest type, to be like. You know how very much I ad-mire ^a fine old man! I feel that way about a fine old lady too, but they surely do not make very many fe-males with that certain quality for mellowing. 
-Dad, if you want to do something that I know will make B. Davis really happy, I do wish you'd write him a typical one of your let-ters! He's older, Dad! Told me he believed there's noth-ing he hasn't seen, or heard of, in this world - and then smiled a broad grin. Of course, 
+<fw type="curatorial">134</fw>
+<fw type="authorial">-7-</fw>
+<p>expect an old man, of the finest type, to be like. You know how very much I ad-mire ^a fine old man! I feel that way about a fine old lady too, but they surely do not make very many fe-males with that certain quality for mellowing. 
+Dad, if you want to do something that I know will make B. Davis really happy, I do wish you'd write him a typical one of your let-ters! He's older, Dad! Told me he believed there's noth-ing he hasn't seen, or heard of, in this world - and then smiled a broad grin. Of course,</p>
 
-135
--8-
-he didn't put it in the way that he had seen everything! 
+<fw type="curatorial">135</fw>
+<fw type="authorial">-8-</fw>
+<p>he didn't put it in the way that he had seen everything! 
 Tomorrow's Saturday once again. My last day to the dentist; that is, for awhile. 
 Worked hard today. Had a rush on - Mr. Passton tickles me sometimes; says ^things and ats, in such an excited way! Gets all through other about nothing at times. He's very pleasant to wrok with, tho', so I don't mind. 
-Mama, I got a navy blue shirt, $1/98 a navy blue purse, $100, and a pair of navy blue gloves 
+Mama, I got a navy blue shirt, $1/98 a navy blue purse, $100, and a pair of navy blue gloves</p>
 
-136
--9-
-for $1.00, making practically all of my spring accessories with the by exception of shoes and a hat, while I shall yet soon. Don't you think these navy blue accessories. Will decorate the blue suit well? I'll wear the skirt with the suit for a change when I get sick of the one that gall with the suit. I'll wait till I <del/> don my new spring clothes to go to meet Mr. Latham. I think it is very nice that he is very nice that he is to be your guest this summer awhile. I know 
-(I'm surely glad about his prospect)
+<fw type="curatorial">136</fw>
+<fw type="authorial">-9-</fw>
+<p>for $1.00, making practically all of my spring accessories with the by exception of shoes and a hat, while I shall yet soon. Don't you think these navy blue accessories. Will decorate the blue suit well? I'll wear the skirt with the suit for a change when I get sick of the one that gall with the suit. I'll wait till I <del/> don my new spring clothes to go to meet Mr. Latham. I think it is very nice that he is very nice that he is to be your guest this summer awhile. I know 
+(I'm surely glad about his prospect)</p>
 
-137
--10-
-I'll enjoy meeting Mr. Latham. I haven't heard from any others as yet, Dad. 
+<fw type="curatorial">137</fw>
+<fw type="authorial">-10-</fw>
+<p>I'll enjoy meeting Mr. Latham. I haven't heard from any others as yet, Dad. 
 When I came home, Dickie Martinsen was here, is I met him for the first time - he's very handsome and seem quite nice - doesn't look like his Dad tho' Amama says he looks like Grandfather Martinsen. 
 Nothing more to say now. Please write soon to me; I'm so happy when I get a letter with either one of your hand-writing! 
-Give all my love to Max & Sig and plenty to Alice.-The love to you two is always in a very special place alone! 
-Enid 
-(Enot) 
-Yes, I'll have a photo taken, Mom! I'm going to find out about my illumina-tions too! - yes I'll have a photo taken, Mom! I'm going to good out until my illumina-tions too! 
+Give all my love to Max &amp; Sig and plenty to Alice.-The love to you two is always in a very special place alone!</p>
+<closer>
+<salute></salute>
+<signed>Enid 
+(Enot)</signed>
+<note type="authorial">Yes, I'll have a photo taken, Mom! I'm going to find out about my illumina-tions too! - yes I'll have a photo taken, Mom! I'm going to good out until my illumina-tions too! </note>
 
-138
-P.S. - Dad, what do you think of the world's affairs now? Do you see war? I understand Lloyd's in London is betting seven to one that war will be in Europe before the end of ten months! Which do you think of Hitler? Looks like he means business, doesn't it? Hilly Long? 
+<fw type="curatorial">138</fw>
+<note>P.S. - Dad, what do you think of the world's affairs now? Do you see war? I understand Lloyd's in London is betting seven to one that war will be in Europe before the end of ten months! Which do you think of Hitler? Looks like he means business, doesn't it? Hilly Long? 
 Tell Al she may expect some Easter bunny from N.Y.C.! 
 Loads of that special love 
 {Enid Enot 
-Mama, I'll write Frankie; tell her will you? 
+Mama, I'll write Frankie; tell her will you?</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

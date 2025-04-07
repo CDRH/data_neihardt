@@ -1,26 +1,159 @@
 <?xml version="1.0" encoding="UTF-8"?>
-49h
-12-29-'31
-Branson, Mo. 
-Dear Maxine,
-Good for you! Havin' a good time? Well, I'm glad for you, as things are quite dull in this part of the state! 
-Dad & Hil & Al are goin' turkeyin' again & stay two days & nites! I must remain home & make up for lost practice time! Yes, I had a nice xmas, & ate n'ate 'til I'ze miserably full! Too bad! Such an appetite. I bet - U - it was as strong a one as yours?? Perhaps I shouldn't bet tho'! 
-Above all the other gifts I did appreciate yours, my dear! It is of use each day, & surely could not remind me of a dearer person than when it reminds me of you!"C?" Isn't it funny how little, words express to our estimation?? Glad you enjoyed the Harrison show! I bet it was funny! 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-49i
--2-
-You won't have the pleasure of "gettin'" me 'cause you hate to think of being so far away, for the same old thing I'ze thinkin'! But you won't be away very long; how-ever I wish you could be here New Year's Eve! 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.9.49h.j">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Sigurd Neihardt to  Maxine M. Neihardt, December 29, 1931</title>
+<author>Neihardt, Sigurd</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&amp;#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.9.49h.j</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Sigurd Neihardt to  Maxine M. Neihardt, December 29, 1931</title>
+<date when="1931-12-29">December 29, 1931</date>
+<extent>3 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Sigurd</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+<date when="1931-12-22"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Maxine M.</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Maxine M.</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.9.49h.j.001" />
+<fw type="curatorial">49h</fw>
+<note type="curatorial"></note>
+
+<opener>
+<dateline>12-29-'31
+Branson, Mo.
+</dateline>
+<salute>Dear Maxine,
+</salute>
+</opener>
+
+<p>Good for you! Havin' a good time? Well, I'm glad for you, as things are quite dull in this part of the state! 
+Dad &amp; Hil &amp; Al are goin' turkeyin' again &amp; stay two days &amp; nites! I must remain home &amp; make up for lost practice time! Yes, I had a nice xmas, &amp; ate n'ate 'til I'ze miserably full! Too bad! Such an appetite. I bet - U - it was as strong a one as yours?? Perhaps I shouldn't bet tho'! 
+Above all the other gifts I did appreciate yours, my dear! It is of use each day, &amp; surely could not remind me of a dearer person than when it reminds me of you!"C?" Isn't it funny how little, words express to our estimation?? Glad you enjoyed the Harrison show! I bet it was funny! </p>
+
+<fw type="curatorial">49i</fw>
+<fw type="authorial">-2-</fw>
+
+<p>You won't have the pleasure of "gettin'" me 'cause you hate to think of being so far away, for the same old thing I'ze thinkin'! But you won't be away very long; how-ever I wish you could be here New Year's Eve! 
 How far is it to Butler, anyway? I didn't ever dream it was so near the distance of K.C.! Well (a deep subject for me) I must close, and perhaps do some practicing, so enjoy yourself, old kid as  you don't get to elope often, bein' that you're in school! 
-Hopin' to hear form you maybe soon, or see'ya! Always your
-Sig 
-P.S. 
-Sweet dreams! 
-Two each nite! 
+Hopin' to hear form you maybe soon, or see'ya!</p>
 
-49j 
+<closer>
+<salute>Always your</salute>
+<signed>Si</signed>
+<note>P.S. 
+Sweet dreams! 
+Two each nite!</note>
+<note>
 Gee! Why? Auntie-Freezex 
 Cord's Rings!! 
-Ray-Day Pistons, P.C. Rings, Auberns & what HAV-U'S! Cylinders on this job are sure "oval," ask Paul! 
+Ray-Day Pistons, P.C. Rings, Auberns &amp;amp; what HAV-U'S! Cylinders on this job are sure "oval," ask Paul! 
 Miss Maxine Melton.
 Via Hil. 
-Jan 2
+Jan 2</note>
+</closer>
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

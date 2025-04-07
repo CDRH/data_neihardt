@@ -1,23 +1,153 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 41
-Wayne State College
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.35.41">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from W. A. Brandenburg to John G. Neihardt, March 25, 1971</title>
+<author>Brandenburg, William A.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.35.41</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from W. A. Brandenburg to John G. Neihardt, March 25, 1971</title>
+<date when="1971-03-25">March 25, 1971</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Brandenburg, William A.</persName>
+<placeName ref="http://www.geonames.org/5081454">Wayne (Neb.)</placeName>
+<date when="1971-03-25"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.35.41.001" />
+<fw type="curatorial">41</fw>
+<note type="curatorial"></note>
+
+<fw type="letterhead">Wayne State College
 Wayne, Nebraska 68787
 
 WAYNE STATE COLLEGE M.M.C 1891-1910 FOUNDED 1910 WAYNE, NEBRASKA
 W.A. Brandenburg 
-President
+President</fw>
+<opener>
+<dateline>March 25, 1971
+</dateline>
+<address>
+<addrLine>Dr. John G. Neihardt</addrLine>
+<addrLine>5835 Vine</addrLine>
+<addrLine>Lincoln, Nebraska</addrLine>
+</address>
+<salute>Dear Dr. Neihardt:</salute>
+</opener>
 
-March 25, 1971
-
-Dr. John G. Neihardt
-5835 Vine
-Lincoln, Nebraska
-
-Dear Dr. Neihardt:
 <p>Our department of Communication Arts is making a documentary motion picture of Wayne State College, principally special events of 1971. Learning that you will be here for commencement exercises on April 12, the photographer wishes to make a sound film of your poetry reading. There will be only one print and no commercial use will be made of it.</p>
 <p>If this does not meet with your approval please advise me, and we shall certainly understand.</p>
-Sincerely,
-<signed>W. A. Brandenburg</signed>
-W. A. Brandenburg
 
-WAB:sat
+<closer>
+<salute>Sincerely,</salute>
+<signed>W. A. Brandenburg</signed>
+<note type="curatorial">W. A. Brandenburg</note>
+<note type="curatorial">WAB:sat</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

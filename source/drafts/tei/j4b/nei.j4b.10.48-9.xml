@@ -1,24 +1,155 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Petri Collection 
-April 18, 1934 
-28
-48
-ST. LOUIS POST-DISPATCH 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.10.48.49">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Hilda N. Petri, April 18, 1934</title>
+<author>Neihardt John G.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.10.48.49</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from John G. Neihardt to Hilda N. Petri, April 18, 1934</title>
+<date when="1934-04-18">April 18, 1934</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term>On Our Way</term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+<date when="1934-04-18"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Petri, Hilda Neihardt</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Petri, Hilda Neihardt</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2019"><name>Hasam, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.10.48.49.001" />
+<fw type="curatorial">48</fw>
+<note type="curatorial">Petri Collection</note>
+<fw type="curatorial">28</fw>
+
+<fw type="letterhead">ST. LOUIS POST-DISPATCH 
 "Of Making Many Books" 
 <figure/> JOHN G. NEIHARDT <figure/> 
-BRANSON, MISSOURI 
-Dear Hiddy: 
-I had intended to write you sooner, but I've been more than ordinarily occupied with a review of Roosevelt's "On Our Way". It has been a hard job to tell the truth & still to be fair. I think I got a statement that will not seem foolish in 20 years. 
-Everything is going finely here. Mama was sick, & is feeling better now; and I'm not so much in the dark. There won't be anything wrong if I can keep it, you may be sure. 
+BRANSON, MISSOURI</fw>
+<opener>
+<dateline>April 18, 1934
+</dateline>
+<salute>Dear Hiddy:</salute>
+</opener>
+
+<p>I had intended to write you sooner, but I've been more than ordinarily occupied with a review of Roosevelt's "On Our Way". It has been a hard job to tell the truth &amp; still to be fair. I think I got a statement that will not seem foolish in 20 years. 
+Everything is going finely here. Mama was sick, &amp; is feeling better now; and I'm not so much in the dark. There won't be anything wrong if I can keep it, you may be sure. 
 We made the round trip to Springfield in 3 hrs including the stop there and a short one at Ozark. 
-Dr. Plank is here agian. The two had a big glorious talk past yesterday pm, & I had supper with him at the Malone. he will be here for dinner today & will leave tomorrow. He took the Messiah M S to read last night. 
+Dr. Plank is here agian. The two had a big glorious talk past yesterday pm, &amp; I had supper with him at the Malone. he will be here for dinner today &amp; will leave tomorrow. He took the Messiah M S to read last night. 
 Endless love, old kid! 
 Dad. 
 (over) 
-Your Leader editorial writer grows wilder & wilder like the flower in the song Good Lord! 
+Your Leader editorial writer grows wilder &amp; wilder like the flower in the song Good Lord!</p>
 
-44
-I'm really planning on the Black Hills. Hope it may prove possible, as I think it will, and <unclear/> just, as I think it may. 
-Dad
-Apr 18 
-1934 
+<fw type="curatorial">44</fw>
+<p>I'm really planning on the Black Hills. Hope it may prove possible, as I think it will, and <unclear/> just, as I think it may. </p>
+<closer>
+<salute></salute>
+<signed>Dad</signed>
+<note>Apr 18 
+1934 </note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

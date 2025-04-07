@@ -1,4 +1,123 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.8.44.48">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Alice Culler Neihardt to Enid Neihardt, August 5th 1929</title>
+<author>Neihardt, Alice Culler</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.8.44.48</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Alice Culler Neihardt to Enid Neihardt, August 5th 1929</title>
+<date when="1929-08-05">August 5th 1929</date>
+<extent>5 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Alice Culler</persName>
+<placeName ref="http://www.geonames.org/4393739">Kirkwood (Mo.)</placeName>
+<date when="1929-08-05"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Enid</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Enid</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.8.44.48.001" />
+<fw type="curatorial">44</fw>
+<note>taped on, not sure if it's an envelope or not
+
 Fine Collection August 5, 1929 44
 676
 After...........days, return to 
@@ -6,49 +125,68 @@ neihardt
 507 North Clay
 KIRKWOOD, MO. 
 SAINT LOUIS, MO.5 AUG 6 930 AM 1929
-ADYOUSTRENUM <FIGURE/>
+ADYOUSTRENUM 
 Miss E.V. Neihardt
 Box 255
 Branson, Mo. 
-Janay County. 
+Janay County.</note>
 
-August 5th ..29,
-Enid darling!
-Your dear letter just came and made me think of how many times you and I used to think the same thoughts For 9 had been planning to send a watermelon in the car!-But the Kroger man tells me they are high and the reason about over-so I don't know whether I can get one IV the time Daddy leaves here. - Thank 
-1
-2
-45
-God we have had a break in the weather and it is wonderful and cool. It was about necessary that it should become cooler for Daddy's dear dake. he has been coming out on the street car around 3 o'clock when his office as unbear-ably hot with its huge window exposed to the Sure!
-Enid dear, <unclear/> does love you, dear, 
-2
 
-3
-out you seemed to take her efforts to influence you to be more thought-ful of "me"! and more orderly in your house work, <unclear/> - and that disappointed her very much - However she has done many nice things for you, and if you love her enough, she will forget all that she disliked, and be ready to love you as always. She needs your love, my love everybody's love worse 
-7
-46 4 
-than any person I know, in spite of her material comforts - and Enid you can never love too much So don't <unclear/> about your.self, but just write her that you do hope she will have a lovely trip and that you love her, and hope she loves you too - and your<del>s</del> message will go right to a very lonesome, tender heart. 
-She wrote you and me about your photograph, 
+<opener>
+<dateline>August 5th ..29,
+</dateline>
+<salute>Enid darling!</salute>
+</opener>
 
-5
-Enid dear, and I did not tell you because I was afraid it might make you feel bad. She did not like it of you, said it did not do you justice, that it did not give a fair im-pression of you - so I sent her the front view instead and she liked it a lot bet-ter. So does Daddy, by the way I asked her to return the other picture, which she did and I have now sent it 
-5
-7
-6
-47
-to Mrs Hays.
+<p>Your dear letter just came and made me think of how many times you and I used to think the same thoughts For 9 had been planning to send a watermelon in the car!-But the Kroger man tells me they are high and the reason about over-so I don't know whether I can get one IV the time Daddy leaves here. - Thank</p>
+<fw type="curatorial">1</fw>
+
+<fw type="curatorial">45</fw>
+<fw type="authorial">2</fw>
+<p>God we have had a break in the weather and it is wonderful and cool. It was about necessary that it should become cooler for Daddy's dear dake. he has been coming out on the street car around 3 o'clock when his office as unbear-ably hot with its huge window exposed to the Sure!
+Enid dear, <unclear/> does love you, dear,</p>
+<fw type="curatorial">2</fw>
+
+<fw type="authorial">3</fw>
+
+<p>out you seemed to take her efforts to influence you to be more thought-ful of "me"! and more orderly in your house work, <unclear/> - and that disappointed her very much - However she has done many nice things for you, and if you love her enough, she will forget all that she disliked, and be ready to love you as always. She needs your love, my love everybody's love worse </p>
+<fw type="curatorial">7</fw>
+
+<fw type="curatorial">46</fw><fw type="authorial">4</fw>
+
+<p>than any person I know, in spite of her material comforts - and Enid you can never love too much So don't <unclear/> about your.self, but just write her that you do hope she will have a lovely trip and that you love her, and hope she loves you too - and your<del>s</del> message will go right to a very lonesome, tender heart. 
+She wrote you and me about your photograph, </p>
+
+<fw type="authorial">5</fw>
+<p>Enid dear, and I did not tell you because I was afraid it might make you feel bad. She did not like it of you, said it did not do you justice, that it did not give a fair im-pression of you - so I sent her the front view instead and she liked it a lot bet-ter. So does Daddy, by the way I asked her to return the other picture, which she did and I have now sent it </p>
+<fw type="curatorial">5</fw>
+<fw type="curatorial">7</fw>
+
+<fw type="curatorial">47</fw><fw type="authorial">6</fw>
+<p>to Mrs Hays.
 Do you want to give one to Mis Garner? I can get you an other front view if you want me to. 
 What did <unclear/> Lee say about your picture and hunt Grace?? 
-Daddy is sending Amamma some books to read on the steamer. He seemed to want to do this, and I am so 
-6
+Daddy is sending Amamma some books to read on the steamer. He seemed to want to do this, and I am so </p>
+<fw type="curatorial">6</fw>
 
-9
-glad. enid dear I am go-oing to get you to take care of Daddy's B.U.D.s and his 2 shirts <unclear/> turn down collars attached. you must rinse them out and keep one ready for him to put on every day, will you dear? They are better than the right detachable collars - and he looks nicer in them and feels easier - So please do 
-7
-8
-48
-not forget! 
-I am so anxious to hear how Alices' birthday <unclear/> turned out and all about her birthday. Will get a Brassiere, am sorry I forgot dear - 
-Loads of love 
-Mamma.
-<unclear/> dear we have not been surviving - nor anything else! 
-8
+<fw type="authorial">9</fw>
+<p>
+glad. enid dear I am go-oing to get you to take care of Daddy's B.U.D.s and his 2 shirts <unclear/> turn down collars attached. you must rinse them out and keep one ready for him to put on every day, will you dear? They are better than the right detachable collars - and he looks nicer in them and feels easier - So please do </p>
+<fw type="curatorial">7</fw>
+<fw type="authorial">8</fw>
+<fw type="curatorial">48</fw>
+<p>not forget! 
+I am so anxious to hear how Alices' birthday <unclear/> turned out and all about her birthday. Will get a Brassiere, am sorry I forgot dear - </p>
+<closer>
+<salute>Loads of love</salute>
+<signed>Mamma.</signed>
+<note type="authorial"><unclear/> dear we have not been surviving - nor anything else!</note>
+<fw type="curatorial">8</fw>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

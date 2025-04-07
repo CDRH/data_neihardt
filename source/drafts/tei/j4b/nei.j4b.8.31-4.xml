@@ -1,47 +1,184 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Fine Collection 
-July 26th 29
-680
-Darling Enid: 
-Your good letter to Daddy and me just same - I think you will always remember waht a nice since you had at Gran mas! This Summer. 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.31.34">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Alice Culler Neihardt to Enid Neihardt, July 26th 1929</title>
+<author>Neihardt, Alice Culler</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.31.34</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Alice Culler Neihardt to Enid Neihardt, July 22nd 1929</title>
+<date when="1929-07-26">July 26, 1929</date>
+<extent>4 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Alice Culler</persName>
+<placeName ref="http://www.geonames.org/4393739">Kirkwood (Mo.)</placeName>
+<date when="1929-07-26"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Enid</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Enid</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.8.31.34.001" />
+<fw type="curatorial">27</fw>
+<note type="curatorial">Fine Collection 680</note>
+
+<opener>
+<dateline>July 26th 29
+</dateline>
+<salute>Darling Enid:</salute>
+</opener>
+
+<p>Your good letter to Daddy and me just same - I think you will always remember waht a nice since you had at Gran mas! This Summer. 
 Too bad about Dolly!
-The endurance
-1
-31
-flyers are - still up and they say they will make it 500 hours before they quit they won the record last Tuesday - so please let out 3 cheers for Sambert Field men and St. Louis! 
-Famous Barr's store
-2 
+The endurance</p>
 
-3
-have promised to give each pilot $100.00 a day that they remain up after <unclear/> the rest - so I think the men have figured it is the best way they ever had to make $100. so a day - and they 
-3
-32
-are remaining in the sky! 
+<fw type="curatorial">1</fw>
+<fw type="curatorial">31</fw>
+<p>flyers are - still up and they say they will make it 500 hours before they quit they won the record last Tuesday - so please let out 3 cheers for Sambert Field men and St. Louis! 
+Famous Barr's store</p>
+
+<fw type="curatorial">2</fw>
+
+<fw type="authorial">3</fw>
+<p>have promised to give each pilot $100.00 a day that they remain up after <unclear/> the rest - so I think the men have figured it is the best way they ever had to make $100. so a day - and they </p>
+
+
+<fw type="curatorial">3</fw>
+<fw type="curatorial">32</fw>
+
+<p>are remaining in the sky! 
 Did you see Mr Kennemore? 
-Tell Hilda she ought to read the Kite load and make a number of the kites - Daddy says he thinks Mr More
-4
+Tell Hilda she ought to read the Kite load and make a number of the kites - Daddy says he thinks Mr More</p>
 
-5
-will help her. As I sit here; the perspira-tion is running down me like a shower-bath
+<fw type="curatorial">4</fw>
+
+<fw type="authorial">5</fw>
+<p>will help her. As I sit here; the perspira-tion is running down me like a shower-bath
 It is very, very lot, and so snuggy. 
-Mrs Holson just now came - she said she had not gone to your gradu
-5
-33
-ation because they had lot Jackie, and had been busting nearly all that after noon for him all over Kirkwood - when she finally found him they were too tired <unclear/> do any thing else!
-She is just the same and so nice. 
+Mrs Holson just now came - she said she had not gone to your gradu</p>
+<fw type="curatorial">33</fw>
+<p>ation because they had lot Jackie, and had been busting nearly all that after noon for him all over Kirkwood - when she finally found him they were too tired <unclear/> do any thing else!
+She is just the same and so nice. </p>
 
-Jack Wheeler is in Kansas City.-
-I got some <unclear/> for voice and Piano. I will love so pley with you.- Safer Sig is home and tying the "Evening Star" I'll go down and by my part.-
-7
-34
-Loads of love
-for 
-Mamma.
-After.........days, return to 
+
+<p>Jack Wheeler is in Kansas City.-
+I got some <unclear/> for voice and Piano. I will love so pley with you.- Safer Sig is home and tying the "Evening Star" I'll go down and by my part.-</p>
+<fw type="curatorial">7</fw>
+
+<closer>
+<fw type="authorial">34</fw>
+<salute>Loads of love</salute>
+<signed>for 
+Mamma.</signed>
+<note type="authorial">After.........days, return to 
 Neihardt 
 507 North Clay.
 KIRKWOOD, MO. 
 I
 Miss Enid Neihardt 
 Box 255
-<unclear/> Branson, M
+<unclear/> Branson, M</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

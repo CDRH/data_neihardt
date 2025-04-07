@@ -1,21 +1,163 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.10.15.16">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Alice Neihardt to Mildred Piper, January 9, 1934</title>
+<author>Neihardt, Alice</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.10.15.16</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Alice Neihardt to Mildred Piper, January 9, 1934</title>
+<date when="1934-01-09">January 9, 1934</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Alice</persName>
+<placeName ref="http://www.geonames.org/4859343">Grinnell (Iowa)</placeName>
+<date when="1934-01-09"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Piper, Mildred</persName>
+<placeName ref="http://www.geonames.org/5081454">Wayne (Neb.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Piper, Mildred</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2019"><name>Hasan, Sara</name> Initial encoding</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.10.15.16.001" />
+<fw type="curatorial"></fw>
+<note type="curatorial"></note>
+
+<opener>
+<dateline>
 Grinnell Iowa 
 Jan. 9-1934
-My Dear little girl;
-At least I am trying to answer your dear letter and acknowledging your lovely gift of those beauitful 'kerchiefs.-they had quite a time finding me.-first they went to Reed Springs Mo. and were sent from there to Branson and finally <del>follamede</del> folowed me here at my sisters where I am spending the winter - I came here the 15th of Nov. and Expect to stay until about the first of March.-I was os sorry, to hear of your father passing away, it pained me to think 
-15
-Indian Spies: and I, well I want you come to see me and incidentally the rest of them. Do you know it has been or will be 12 years next summer since you were at my house? Is there no way you could plan to bring your mother with you.- I did not hear from either miss Fish or Esther this christmas have always had cards or letters I heard from Mrs. Hard and the Martin girls and also from Mrs. Chas, Graft and Mrs. Phil Graff, oh how i would like to see them all again and you - Loads of love dear girl. 
-from one who always admires you immensely
-Alice Neihardt
+</dateline>
+<salute>My Dear little girl;</salute>
+</opener>
 
-55
-3
-GRINNELL JAN 5 1230PM 1934 IOWA 
-U.S.POSTAGE THREE CENTS NRA 3c <figure/>
-Miss Mildred Piper 
-Wayne State Normal 
-Wayne 
-Nebraska 
+<p>At least I am trying to answer your dear letter and acknowledging your lovely gift of those beauitful 'kerchiefs.-they had quite a time finding me.-first they went to Reed Springs Mo. and were sent from there to Branson and finally <del>follamede</del> folowed me here at my sisters where I am spending the winter - I came here the 15th of Nov. and Expect to stay until about the first of March.-I was os sorry, to hear of your father passing away, it pained me to think </p>
 
-16
-of your family being broken by death, but we can't expect to be exempt from death.-I think of that ordeal a great deal and am trying to have "my house in order" when I go. Have you thot that I am just turned 75-? I came up here where I wanted have no duties no expense - with all this comforts electricity can give with all its different developments and when I go home I hope I will feel better than when I came, all the later part of the summer I was very miserable but I think the change has been good for one and I am feeling much better.-I expect to see John the 18th of this month on his way to Fargo he will se Lulus then too, you would be surprised to see John's family now Sigurd and Enid groon, Hilda in college at Springfield Mo, Alice in the 7th grade all lovely children - Sigurd is teaching music at The "School of the Ozarks" Enid a see, for an insurance agent, Mona has just finished a bust of John. John is on the last stretch of the last part of his 
+<fw type="curatorial">15</fw>
+<p>Indian Spies: and I, well I want you come to see me and incidentally the rest of them. Do you know it has been or will be 12 years next summer since you were at my house? Is there no way you could plan to bring your mother with you.- I did not hear from either miss Fish or Esther this christmas have always had cards or letters I heard from Mrs. Hard and the Martin girls and also from Mrs. Chas, Graft and Mrs. Phil Graff, oh how i would like to see them all again and you - Loads of love dear girl. 
+from one who always admires you immensely</p>
+
+<fw type="curatorial">16</fw>
+<p>of your family being broken by death, but we can't expect to be exempt from death.-I think of that ordeal a great deal and am trying to have "my house in order" when I go. Have you thot that I am just turned 75-? I came up here where I wanted have no duties no expense - with all this comforts electricity can give with all its different developments and when I go home I hope I will feel better than when I came, all the later part of the summer I was very miserable but I think the change has been good for one and I am feeling much better.-I expect to see John the 18th of this month on his way to Fargo he will se Lulus then too, you would be surprised to see John's family now Sigurd and Enid groon, Hilda in college at Springfield Mo, Alice in the 7th grade all lovely children - Sigurd is teaching music at The "School of the Ozarks" Enid a see, for an insurance agent, Mona has just finished a bust of John. John is on the last stretch of the last part of his </p>
+<closer>
+<salute>Alice Neihardt</salute>
+<signed></signed>
+<note></note>
+</closer>
+
+</div1>
+<div1 type="envelope">
+<fw type="curatorial">55</fw>
+<fw type="curatorial">3</fw>
+
+<ab type="postmark">GRINNELL JAN 5 1230PM 1934 IOWA</ab>
+<figure><ab>U.S.POSTAGE THREE CENTS NRA 3c</ab></figure>
+
+<ab type="address">
+<address>
+<addrLine>Miss Mildred Piper</addrLine>
+<addrLine>Wayne State Normal </addrLine>
+<addrLine>Wayne 
+Nebraska</addrLine>
+</address>
+</ab>
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

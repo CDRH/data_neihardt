@@ -1,21 +1,153 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 40
-THE UNIVERSITY OF IOWA
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.35.40">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Robert F. Sayre to John G. Neihardt, March 19, 1971</title>
+<author>Fayre, Robert S.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.35.40</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Robert F. Sayre to John G. Neihardt, March 19, 1971</title>
+<date when="1971-03-19">March 19, 1971</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term>Black Elk Speaks</term>
+<term>The Education of Henry Adams</term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Sayre, Robert F.</persName>
+<placeName ref="http://www.geonames.org/4862034">Iowa City (Iowa)</placeName>
+<date when="1971-03-19"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.35.40.001" />
+<fw type="curatorial">40</fw>
+<note type="curatorial"></note>
+
+<fw type="letterhead">THE UNIVERSITY OF IOWA
 IOWA CITY, IOWA 52240
 FOUNDED 1847
+Department of English </fw>
+<opener>
+<dateline>March 19, 1971
+</dateline>
+<address>
+<addrLine>Mr. John G. Neihardt</addrLine>
+<addrLine>5835 Vine Street</addrLine>
+<addrLine>Lincoln, Nebraska 68505</addrLine> 
+</address>
+<salute>Dear Gaki:</salute>
+</opener>
 
-Department of English 
-March 19, 1971
-
-Mr. John G. Neihardt
-5835 Vine St.
-Lincoln, Nebraska 68505
-
-Dear Gaki:
-<p>Your wonderful letter came just the other day, and I have been delighting in it. I have shown it here to several close friends who are also admirers of <underline>Black Elk Speaks</underline>, and I also, this afternoon, mailed a copy of it to the editors of <underline>College English</underline>--not for publications, of course, but so that they might have delight from it too. You are a great teacher.</p>
+<p>Your wonderful letter came just the other day, and I have been delighting in it. I have shown it here to several close friends who are also admirers of <hi rend="underline">Black Elk Speaks</hi>, and I also, this afternoon, mailed a copy of it to the editors of <hi rend="underline">College English</hi>--not for publications, of course, but so that they might have delight from it too. You are a great teacher.</p>
 <p>The article has indeed been well-received, and a few days before your letter I had two letters about it from readers in other places. You know how gratifying this experience is.</p>
 <p>I am sorry not to have sent you an author's offprint yet. The offprints haven't come. But this makes me all the happier that four other copies have been sent to you by other people.</p>
-<p>My thanks again for your kindnesses last fall, and for the teachings <underline>Black Elk Speaks</underline> continues to radiate. You (and Black Elk) remind me of lines writtern by some one else whose writings have meant a great deal to me. "A parent gives life, but as parent, gives no more. A murderer takes life, but his deed stops there. A teacher affects eternity; he can never tell where his influence stops." (<underline>The Education of Henry Adams</underline>.)</p>
-Very sincerely,
+<p>My thanks again for your kindnesses last fall, and for the teachings <hi rend="underline">Black Elk Speaks</hi> continues to radiate. You (and Black Elk) remind me of lines writtern by some one else whose writings have meant a great deal to me. "A parent gives life, but as parent, gives no more. A murderer takes life, but his deed stops there. A teacher affects eternity; he can never tell where his influence stops." (<hi rend="underline">The Education of Henry Adams</hi>.)</p>
+
+<closer>
+<salute>Very sincerely,</salute>
 <signed>Bob Sayre</signed>
-Robert F. Sayre
+<note>Robert F. Sayre</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

@@ -1,40 +1,175 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Missouri Collection 
-[April 29, 1936] 
-37
-My own Darling: 
-My eye is so much better today, Monday A M - and I was afraid you'd worry if I sent the enclosed not so am adding this today and Mrs Miser promised to get it mailed so I can not walk because of <unclear/> swelling on my upper leg. It shows nothing on the surface but there is the swelling the size of an egg - and it aches and makes me feel weak.-I don't want to have Dr Mitchel because it is in such an embarassing place. Where 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-38
-the "groin" is! I feel sure it will get better, am using Mercury ointment Amoniated Mercury I mean Darling I'll be so very glad to have those new glasses - bows. Mine have been the cause of most of my troubles with my eye and with the boils and exlima behind my ears - I'll have no trouble getting my present lenses into the new bows, I know. Darling you should be here right now to hoe po-tatoes - they are up just lovely and I'll have to hoe them very soon! Maybe 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.12.37.43">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Mona Martinsen Neihardt to Darling, April 29, 1936</title>
+<author>Neihardt, Martinsen Mona</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.12.37.43</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
 
-39 
-I'll get Richard Greer to do so. He is going to do the work in the cellar after school, as Mr Swain has a big job again. Workmen are very busy in Branson, it is sur prising 
-I hear the Devine Lady Rose O'Neil is Home - I ought to have the Honor of meeting her! Mrs Spurlock asked me to let her take me to her - and I told her I'd love to - but not right away. She says in her article in the Kansas City Star that she intends to be a Tree Toad - I wish her all good luck - I just won-der how she'll go about it!! 
+<notesStmt><note></note></notesStmt>
 
-40
-I'm slowly clipping out Mr. Good. 
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Mona Martinsen Neihardt to Darling, April 29, 1936</title>
+<date when="1936-04-29">April 29, 1936</date>
+<extent>pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term>Greer, Richard</term>
+<term>Neihardt, Alice</term>
+</keywords>
+<keywords scheme="original" n="places">
+<term>Pittsburg (Kan.)</term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Martinsen Mona</persName>
+<placeName></placeName>
+<date when="1936-04-29"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Darling <note>The letter doesn't specifically say which daughter the letter is writtent to
+but it's either Hilda or Enid Neihardt</note></persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Darling</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2020"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2020"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.12.37.43.001" />
+<fw type="curatorial">Missouri Collection </fw>
+<note type="curatorial">37</note>
+
+<opener>
+<dateline>[April 29, 1936]
+</dateline>
+<salute>My own Darling:</salute>
+</opener>
+
+<p>My eye is so much better today, Monday A M - and I was afraid you'd worry if I sent the enclosed not so am adding this today and Mrs Miser promised to get it mailed so I can not walk because of <unclear/> swelling on my upper leg. It shows nothing on the surface but there is the swelling the size of an egg - and it aches and makes me feel weak.-I don't want to have Dr Mitchel because it is in such an embarassing place. Where</p>
+
+<fw type="curatorial">38</fw>
+<p>the "groin" is! I feel sure it will get better, am using Mercury ointment Amoniated Mercury I mean Darling I'll be so very glad to have those new glasses - bows. Mine have been the cause of most of my troubles with my eye and with the boils and exlima behind my ears - I'll have no trouble getting my present lenses into the new bows, I know. Darling you should be here right now to hoe po-tatoes - they are up just lovely and I'll have to hoe them very soon! Maybe </p>
+
+
+<fw type="curatorial">39</fw>
+<p>I'll get Richard Greer to do so. He is going to do the work in the cellar after school, as Mr Swain has a big job again. Workmen are very busy in Branson, it is sur prising 
+I hear the Devine Lady Rose O'Neil is Home - I ought to have the Honor of meeting her! Mrs Spurlock asked me to let her take me to her - and I told her I'd love to - but not right away. She says in her article in the Kansas City Star that she intends to be a Tree Toad - I wish her all good luck - I just won-der how she'll go about it!! </p>
+
+<fw type="curatorial">40</fw>
+<p>I'm slowly clipping out Mr. Good. 
 Yesterday Mrs. Greer took Alice and me with her family out to Sammy's Lookout for a sand which supper - I appreciate that very much. She told me among other things that Richard had told her all about Alice long before he had met you and that he felt very grateful to you for your interest in him. In fact she seemed very anxious to be friendly and I was very glad. She said too that Richard needed to make all the money he could on the side to help with his college education, which explains 
-why he has been at you to help me. He told me he always put the money in the <unclear/>. 
-The family is going to be at Pittsburgh Kansas, to make it financially possible for both boys to go to good schools They are going to Columbia to the Essay Contest next week I understand. 
+why he has been at you to help me. He told me he always put the money in the <unclear/>.</p> 
+
+<p>The family is going to be at Pittsburgh Kansas, to make it financially possible for both boys to go to good schools They are going to Columbia to the Essay Contest next week I understand. 
 Maxine writes how wonderful your help is for them, and how grateful she feels. -
-I am so happy about your Savings. account. John I'm afraid it is for expensive to put cat floors in here. I doubt whether it is really sensible. The floor we 
+I am so happy about your Savings. account. John I'm afraid it is for expensive to put cat floors in here. I doubt whether it is really sensible. The floor we </p>
 
-41
-now have must first be made to quit sagging. That is going to be my very next job - But to get someone to really do it is the difficulty. I'll go for that this week end. Him writing to Monty. Wards for information on flooring. I doubt if we can heat the prices here - at the other place, I think in Hollister. I foudn that I could beat Monty. Wards on their lawn mower price, when the shipping charges were ad-ded. They and the Mo. Jax make a lot of difference. After our floors are solid then I really believe a 
-good coat of varnish in suit any woman who is likely to want to live here. I really do. We have not had any varnish you know, just paint - used when I think of the dog, and the cat on oak floors I'm not so eager for them myself. A good job of varnishing his mask these floors easy to clean. They and that <unclear/>. John dear I'm so delighted with our coal stove now it acts entirely different - and it loads nice back in that space. The kitchen seems bigger. - I should be ashamed to write you such a scribbly letter - but I 
+<fw type="curatorial">41</fw>
+<p>now have must first be made to quit sagging. That is going to be my very next job - But to get someone to really do it is the difficulty. I'll go for that this week end. Him writing to Monty. Wards for information on flooring. I doubt if we can heat the prices here - at the other place, I think in Hollister. I foudn that I could beat Monty. Wards on their lawn mower price, when the shipping charges were ad-ded. They and the Mo. Jax make a lot of difference. After our floors are solid then I really believe a 
+good coat of varnish in suit any woman who is likely to want to live here. I really do. We have not had any varnish you know, just paint - used when I think of the dog, and the cat on oak floors I'm not so eager for them myself. A good job of varnishing his mask these floors easy to clean. They and that <unclear/>. John dear I'm so delighted with our coal stove now it acts entirely different - and it loads nice back in that space. The kitchen seems bigger. - I should be ashamed to write you such a scribbly letter - but I </p>
 
-42
-have to talk with you dear, and I feel so upset. I'm going to get some Cascara again and see if I can - not get my bowels to marking properly. I never eat at night any more I simply cannot get away with it. 
+<fw type="curatorial">42</fw>
+<p>have to talk with you dear, and I feel so upset. I'm going to get some Cascara again and see if I can - not get my bowels to marking properly. I never eat at night any more I simply cannot get away with it. 
 I'm so anxious for you to send Dr Mitchel some books, right soon, He really deserves this Kindness from you John dear. He looks dreadful. I'm so sor-ry! I told Mrs. Mitchel you were sending him same mysterious, and she was deligh-ted.-so please do dear! 
 I know how busy 
 you are - but if you can save a lot this year, you'll be able to write Jed Smith next year and be at Home, not? 
 I am wondering about Enid! I feel Hilda really could do your work this summer - but it may be that is a Wild Goose Chase, go-ing to yellowstone now! 
-Darling I'm so afraid you are working too hard, are you? Or are you still en joying the bustle? I wan ted to tell you how much I enjoyed your "The Woman Alive" article, when I re-ceived the <unclear/> you out from Mr Perlington! I real-
+Darling I'm so afraid you are working too hard, are you? Or are you still en joying the bustle? I wan ted to tell you how much I enjoyed your "The Woman Alive" article, when I re-ceived the <unclear/> you out from Mr Perlington! I real-</p>
 
-43
-ize how old fasioned I am whenever I have to follow the strain of thoughts that and a woman as one woman <unclear/> brings up - I always feel ashamed for her and her the rest of woman-kind-But luckily she is not the only kidn of woman alive! 
-I know I am not saying all I have been intending to say to you today but I must get this off-
-Alway with intense love and gratitude 
-your girl 
-Mona 
+<fw type="curatorial">43</fw>
+<p>ize how old fasioned I am whenever I have to follow the strain of thoughts that and a woman as one woman <unclear/> brings up - I always feel ashamed for her and her the rest of woman-kind-But luckily she is not the only kidn of woman alive! 
+I know I am not saying all I have been intending to say to you today but I must get this off-</p>
+<closer>
+<salute>Alway with intense love and gratitude 
+your girl</salute>
+<signed>Mona </signed>
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

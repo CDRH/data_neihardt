@@ -1,13 +1,155 @@
 <?xml version="1.0" encoding="UTF-8"?>
-49f
-<figure/> 
-Dear Sigurd,
-This is just a note to wish you all a Merry Christmas and that I might drop in for part of the day! I wonder if you are having weather that is far from what one generally thinks as common to this season. The thermometer stands in the forties this mornign and the robins song is all that lacks to make the illusion of spring complete. I have been practising this morning, working upon the Chopin E min Concerto(which was composed just one hundred years ago) and part of teh first movement of the Chopin cello Sonata, a difficult work with a vengeance. Schuster, the great Russian cellist and I want to play it. I found an extra copy of my second Waltz, a ve-ry short work, which I might send you; but I fear you could make little of it from the ms. However if you are willing to try reading it I willsend it along when I hear from you. 
-I am delighted to hear your father has a new work finished. What news that is!! I can hardly wait till i read it. Please ask him if he knows any way I cna get a first edition of the Wars? He wrote me asking, no I mean telling me he woudl send me a copy so I sent mine to a friend in Edinburgh and I have been unable to fine a first edition. This work is the only one of your father's I haven't in first edition. I am willing to buy it fi I coudl but find it. How do you like the Saint-Saens? Give my love to all and wishthem as I said above a Merr-y Christmas. Your friend,
-Home, Tuesday before Christmas. Nelly. 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-49g
-GOSHEN DEC 22 5PM 1931 IND. 
-Mr Sigurd Neihardt,
-Branson,
-Mo. 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.9.49f.g">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Nelly to Sigurd Neihardt, December 22, 1931</title>
+<author>Nelly</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.9.49f.g</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Nelly to Sigurd Neihardt, December 22, 1931</title>
+<date when="1931-12-22">December22, 1931</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Nelly</persName>
+<placeName></placeName>
+<date when="1931-12-22"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Sigurd</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Sigurd</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.9.49f.e.001" />
+<fw type="curatorial">49f</fw>
+<note type="curatorial"></note>
+
+<figure/> 
+<opener>
+<dateline>
+</dateline>
+<salute>Dear Sigurd,</salute>
+</opener>
+
+<p>This is just a note to wish you all a Merry Christmas and that I might drop in for part of the day! I wonder if you are having weather that is far from what one generally thinks as common to this season. The thermometer stands in the forties this mornign and the robins song is all that lacks to make the illusion of spring complete. I have been practising this morning, working upon the Chopin E min Concerto(which was composed just one hundred years ago) and part of teh first movement of the Chopin cello Sonata, a difficult work with a vengeance. Schuster, the great Russian cellist and I want to play it. I found an extra copy of my second Waltz, a ve-ry short work, which I might send you; but I fear you could make little of it from the ms. However if you are willing to try reading it I willsend it along when I hear from you. 
+I am delighted to hear your father has a new work finished. What news that is!! I can hardly wait till i read it. Please ask him if he knows any way I cna get a first edition of the Wars? He wrote me asking, no I mean telling me he woudl send me a copy so I sent mine to a friend in Edinburgh and I have been unable to fine a first edition. This work is the only one of your father's I haven't in first edition. I am willing to buy it fi I coudl but find it. How do you like the Saint-Saens? Give my love to all and wishthem as I said above a Merr-y Christmas.</p>
+
+<closer>
+<salute> Your friend,
+Home, Tuesday before Christmas.</salute>
+<signed>Nelly.</signed>
+<note></note>
+</closer>
+
+</div1>
+<fw type="curatorial">49g</fw>
+<div1 type="envelope">
+<ab type="postmark">GOSHEN DEC 22 5PM 1931 IND</ab>
+
+<ab type="address">
+<address>
+<addrLine>Mr Sigurd Neihardt,</addrLine>
+<addrLine>Branson,
+Mo. </addrLine>
+</address>
+</ab>
+</div1>
+
+</body>
+<back></back>
+</text>
+</TEI>

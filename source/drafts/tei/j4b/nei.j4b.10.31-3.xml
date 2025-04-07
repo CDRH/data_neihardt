@@ -1,37 +1,180 @@
 <?xml version="1.0" encoding="UTF-8"?>
-31
-13 
-Petri Collection 
-After 5 days, return to
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.10.31.33">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Hilda Neihardt, January 27, 1934</title>
+<author>Neihardt, John G.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&amp;#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.10.31.33</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from John G. Neihardt to Hilda Neihardt, January 27, 1934</title>
+<date when="1934-01-27">January 27, 1934</date>
+<extent>3 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+<date when="1934-01-27"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Petri, Hilda Neihardt</persName>
+<placeName ref="http://www.geonames.org/4409896">Springfield (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Petri, Hilda Neihardt</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name>Carney, Mary Jo.</name> Transcription</change>
+<change when="2019"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="envelope">
+
+<pb facs="nei.j4b.10.31.33.001" />
+<fw type="curatorial">31</fw>
+<note type="curatorial">13</note>
+
+<fw>Petri Collection</fw>
+<fw>After 5 days, return to
 ...................................
 John G. Neihardt 
-BRANSON, MO. 
-NEWPORT&CAR TH T222 JAN27 1934 R 
-UNITEDSTATESPOSTAGE SPECIAL DELIVERY RMS <FIGURE/> AT ANY UNITED STATES POST OFFICE <FIGURE/> 10TENCENTS10
-UNITEDSTATESP <FIGURE/> 3CENTS3 
-Miss Hilda Neihardt 
-767 East Elm Street 
-Springfield, Missouri 
-SPECIAL DELIVERY 
-4
-Free claimed at Springfield, Mo. 
+BRANSON, MO.</fw>
 
-32
-<unclear/> 
+<ab type="postmark">NEWPORT&amp;amp;CAR TH T222 JAN27 1934 R</ab>
+<figure type="stamp"><ab>UNITEDSTATESPOSTAGE SPECIAL DELIVERY RMS AT ANY UNITED STATES POST OFFICE</ab></figure>
+
+<figure type="stamp"><ab>10TENCENTS10</ab></figure>
+
+<figure type="stamp"><ab>UNITEDSTATESP 3CENTS3</ab></figure>
+
+<ab type="address">
+<address>
+<addrLine>Miss Hilda Neihardt</addrLine>
+<addrLine>767 East Elm Street</addrLine>
+<addrLine>Springfield, Missouri</addrLine>
+</address>
+</ab>
+
+<fw>SPECIAL DELIVERY</fw>
+<fw>Free claimed at Springfield, Mo.</fw>
+</div1>
+
+<div1 type="letter">
+<fw type="curatorial">32</fw>
+<fw type="letterhead"><unclear/> 
 ST. LOUIS POST-DISPATCH 
 "Of Making Many Books" 
 <figure/> JOHN G. NEIHARDT <figure/> 
-BRANSON, MISSOURI 
-Today, Present Year. 
-Dear Hiddy: 
-You see I'm back again. Arrived yesterday P.M. Had a fine time all the way, including 24 hrs in Grinnell. 
-Here is something that will interest you especially: I have Tacke's 45 S.A. Colt (nickle plated, <del/> pearl handled) and a Mexican holster and belt with silver buckle & silver medallions and studs all over it - the most gorgeous outfit I ever saw! You'll look fine in it: It's just the thing for you to wear to church! It's too beautiful to offend even a man of God. 
+BRANSON, MISSOURI </fw>
+<opener>
+<dateline>Today, Present Year.
+</dateline>
+<salute>Dear Hiddy:</salute>
+</opener>
+
+<p>You see I'm back again. Arrived yesterday P.M. Had a fine time all the way, including 24 hrs in Grinnell. 
+Here is something that will interest you especially: I have Tacke's 45 S.A. Colt (nickle plated, <del/> pearl handled) and a Mexican holster and belt with silver buckle &amp; silver medallions and studs all over it - the most gorgeous outfit I ever saw! You'll look fine in it: It's just the thing for you to wear to church! It's too beautiful to offend even a man of God. 
 Will enclose the needful mayuna herewith. 
 Endless love
 Dad 
-(over) 
+(over)</p>
 
-33
-Mrs. Markel was right about the disappointment which had just come to me - a very trivial one, but enough to make her statements remarkable. Sunday afternoon (just before you went to church) a man called on me at Aunt Lulu's. I had hoped that he would be worth knowing, & he was a well-meaning flop: I had forgotten this, but it happened. Mediums are an hysterical breed. Their "power" not know when they are rihgt and when wrong. As prophets they are, in general, for less dependable than many who have no such gift. Their phenomena, when proved by the event, merely serve to indicate that consciousness can somehow expand in what we call true and space. But one can lose nothing upon their statements, which too often are only a muttering in a phase of troubled sleep. 
-Dad 
-Dr. Schmitt came to me through a Minneapolis medium & said he ^only would me to know that he is living. He seemed clearly identified. 
+<fw type="curatorial">33</fw>
+<p>Mrs. Markel was right about the disappointment which had just come to me - a very trivial one, but enough to make her statements remarkable. Sunday afternoon (just before you went to church) a man called on me at Aunt Lulu's. I had hoped that he would be worth knowing, &amp; he was a well-meaning flop: I had forgotten this, but it happened. Mediums are an hysterical breed. Their "power" not know when they are rihgt and when wrong. As prophets they are, in general, for less dependable than many who have no such gift. Their phenomena, when proved by the event, merely serve to indicate that consciousness can somehow expand in what we call true and space. But one can lose nothing upon their statements, which too often are only a muttering in a phase of troubled sleep. </p>
+
+<closer>
+<salute></salute>
+<signed>Dad</signed>
+<note>Dr. Schmitt came to me through a Minneapolis medium &amp; said he ^only would me to know that he is living. He seemed clearly identified.</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

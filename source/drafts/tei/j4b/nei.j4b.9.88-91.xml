@@ -1,42 +1,190 @@
 <?xml version="1.0" encoding="UTF-8"?>
-88
-I envy the "Ice Cream" Wonderful stuff, if I could only be there with you & all! 
-Have a good time at conference 
-Wayne Nebraska,
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.9.88.91">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Sigurd Neihardt to Maxine M. Neihardt, July 16th, 1932</title>
+<author>Neihardt, Sigurd</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&amp;#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.9.88.91</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Sigurd Neihardt to Maxine M. Neihardt, July 16th, 1932</title>
+<date when="1932-07-16">July 16th, 1932</date>
+<extent>4 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Sigurd</persName>
+<placeName ref="http://www.geonames.org/5081454">Wayne (Neb.)</placeName>
+<date when="1932-07-16"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Maxine M.</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Maxine M.</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2019"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.9.88.91.001" />
+<fw type="curatorial">88</fw>
+<note type="curatorial">I envy the "Ice Cream" Wonderful stuff, if I could only be there with you
+&amp;amp; all! 
+Have a good time at conference </note>
+
+<opener>
+<dateline>Wayne Nebraska,
 July 11th 1932.
-Dearest- 
-I just rec'd your letter, & immediately upon arrival from Omaha here! 
-After reading your sweet letter & to see your dear picture in it - I just felt so happy that I didn't know what to do! 
+</dateline>
+<salute>Dearest-</salute>
+</opener>
+
+<p>I just rec'd your letter, &amp; immediately upon arrival from Omaha here! 
+After reading your sweet letter &amp; to see your dear picture in it - I just felt so happy that I didn't know what to do! 
 Sweetheart - I'm so glad to hear that you have been having a pleasant time with Enid! She does care so much for you! 
 You dear girl, I'm so sad over being away form you that at times I'm heartbroken! I can't help it - 'cause I do love you so endlessly! Bless your heart it means everything to me to know that you 
+</p>
 
-89
--2-
-are really missing me! It is all that I care to do in life - be abso-lutely true to you & be good to you! 
+<fw type="curatorial">89</fw>
+<fw type="authorial">-2-</fw>
+
+<p>are really missing me! It is all that I care to do in life - be abso-lutely true to you &amp; be good to you! 
 Chances for my getting a line - up on my work will soon "pop - up", as it coudl be no other way! 
-I have the highest type of influential friends of Dad's doin' their "darndest" & you know I have the ambition! Now to change the subject; Remember what I todl you about bein' able to feel every inch of a car while drivin'? 
-Well, today I was travel-ing at the rate of 50 m.p.h. & a "77" Ford pulled out of a blend road without watching his "Stop" sign! I only missed him an inch 
+I have the highest type of influential friends of Dad's doin' their "darndest" &amp; you know I have the ambition! Now to change the subject; Remember what I todl you about bein' able to feel every inch of a car while drivin'? 
+Well, today I was travel-ing at the rate of 50 m.p.h. &amp; a "77" Ford pulled out of a blend road without watching his "Stop" sign! I only missed him an inch 
 
-I believe, & it simply scared the liver out of Dad! You know how much closer a "scrape" seems when one is sitting on opposite side of the driver's seat, don't you! Blessed "chile", my "big fat gal" if you only were along with me I'd be happy! (Seriously menat tho'!) 
-This farm land is nothing but a rolling golden blanket of oats! Oh! So gorgeous! I am so sorry that I can't hurry home any faster, but take care of yourself dear! I want to be with you so much that I can hardly stand it times! I love you more all fo the time & always it will be so! You know it! 
+I believe, &amp; it simply scared the liver out of Dad! You know how much closer a "scrape" seems when one is sitting on opposite side of the driver's seat, don't you! Blessed "chile", my "big fat gal" if you only were along with me I'd be happy! (Seriously menat tho'!) 
+This farm land is nothing but a rolling golden blanket of oats! Oh! So gorgeous! I am so sorry that I can't hurry home any faster, but take care of yourself dear! I want to be with you so much that I can hardly stand it times! I love you more all fo the time &amp; always it will be so! You know it!</p>
 
-90
--3-
-Please don't miss writing if you can help it be-cause I look forward to the "next" with such anxiousness! 
-I love you sweetheart & the more I see of other people the ^more sad I feel on acc't of your absence! You are always with me tho' & I have perfect faith in you! I am so homesick for you, & your letters keep me happy-as nothing else will do! 
-Always love,
-Your Sig.
-Glad to hear of your being so anxious to practice! A "Missin'" occasionally won't hurt!
+<fw type="curatorial">90</fw>
+<fw type="authorial">-3-</fw>
+
+<p>Please don't miss writing if you can help it be-cause I look forward to the "next" with such anxiousness! 
+I love you sweetheart &amp; the more I see of other people the ^more sad I feel on acc't of your absence! You are always with me tho' &amp; I have perfect faith in you! I am so homesick for you, &amp; your letters keep me happy-as nothing else will do! </p>
+
+
+<closer>
+<salute>Always love,</salute>
+<signed>Your Sig.</signed>
+<note>Glad to hear of your being so anxious to practice! A "Missin'" occasionally won't hurt!
 P.S. 
-Glad you found the plan to work well! No flat tires so far & I'm 798 Mi. from my dear girl! Lots of carburetion trouble & ^hard "labor" as in the 120 sun the result - due to some bad gasoline we got somewhere! 
-S.N. 
+Glad you found the plan to work well! No flat tires so far &amp; I'm 798 Mi. from my dear girl! Lots of carburetion trouble &amp; ^hard "labor" as in the 120 sun the result - due to some bad gasoline we got somewhere! 
+S.N. </note>
+</closer>
 
-91
-29
-SPECIAL DELIVERY 
-WTYNH JUL18 10AM NEBR 
-UNITED STATES POSTAGE <FIGURE/> LINCOLN 3CENTS3 
-UNITED STATES POSTAGE SPECIAL DELIVERY AT ANY UNITED STATES POSTOFFICE <FIGURE/> 10TENCENTS10
-Miss Maxine Melton,
-Branson, Missouri. 
-Janey County. 
+</div1>
+
+<div1 type="envelope">
+<fw type="curatorial">91</fw>
+<note>29</note>
+<fw type="authorial">SPECIAL DELIVERY </fw>
+
+<ab type="postmark">WTYNH JUL18 10AM NEBR </ab>
+
+<figure type="stamp"><ab>UNITEDSTATESPOSTAGE <figure><ab> LINCOLN 3CENTS3 </ab></figure> </ab></figure>
+
+<figure type="stamp"><ab>UNITED STATES POSTAGE SPECIAL DELIVERY AT ANY UNITED STATES POSTOFFICE <figure><ab> 10TENCENTS10</ab></figure> </ab></figure>
+
+
+<ab type="address">
+<address>
+<addrLine>Miss Maxine Melton,</addrLine>
+<addrLine>Branson, Missouri.</addrLine>
+<addrLine>Janey County.</addrLine>
+</address>
+</ab>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

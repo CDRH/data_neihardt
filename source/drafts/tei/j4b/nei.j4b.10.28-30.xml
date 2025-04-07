@@ -1,50 +1,196 @@
 <?xml version="1.0" encoding="UTF-8"?>
-12 
-Petri Collection 
-28
-<figure/> 
-MPLS <UNCLEAR/> TR 2 JAN 23 1934 R.P.0. 3
-U.S. POSTAGE NRA <FIGURE/> 3 
-BREEN HOTEL 
-M.J. BREEN, MGR. 
-St. Cloud, Minn. 
-Miss Hilda Neihardt 
-767 Elm St., 
-Springfield, 
-Missouri 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-One of the Finest in the Northwest 175 Rooms Strictly Fireproof 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.10.28.30">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Hilda Neihardt, JAnuary 23, 1934</title>
+<author>Neihardt, John G.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&amp;#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.10.28.30</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from John G. Neihardt to Hilda Neihardt, JAnuary 23, 1934</title>
+<date when="1934-01-23">January 23, 1934</date>
+<extent>3 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5044407">St. Cloud (Minn.)</placeName>
+<date when="1934-01-23"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Petri, Hilda Neihardt</persName>
+<placeName ref="http://www.geonames.org/4409896">Springfield (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Petri, Hilda Neihardt</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Carney, Mary Jo.</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="envelope">
+
+<pb facs="nei.j4b.10.28.30.001" />
+<fw type="curatorial">28</fw>
+<note type="curatorial">12 
+Petri Collection</note>
+
+<ab type="postmark">MPLS <unclear> TR 2 JAN 23 1934 R.P.0. 3</unclear></ab>
+
+<figure type="stamp"><ab>U.S. POSTAGE NRA 3</ab></figure>
+
+<fw>BREEN HOTEL 
+M.J. BREEN, MGR. 
+St. Cloud, Minn.</fw>
+
+<ab type="address">
+<address>
+<addrLine>Miss Hilda Neihardt</addrLine>
+<addrLine>767 Elm St.,</addrLine>
+<addrLine>Springfield, 
+Missouri</addrLine>
+</address>
+</ab>
+</div1>
+
+<div1 type="letter">
+
+<fw type="letterhead">One of the Finest in the Northwest 175 Rooms Strictly Fireproof 
 <figure/> 
 BREEN HOTEL 
 H.J. BREEN, MGR. 
-St. Cloud, Minn. 
-29
-Jan 22 '34
-Dear Hiddy:
-Mama sent on your letter about the fix you have been in, and I'm more soryr than I can say, I can't see how it happened, unless my first letter containing money and map reach you - or maybe it was the second. 
-Anyway, I don't want it ot happen again! Surely there is no need of it, 
-I've had a very fine trip. Will read here tonight & catch the 5:50 tain for Minneapolis tomorrow morning, then take the 9:20 train from there for Grinnell. Will reach home Thursday. 
-(over) 
-One of the Finest in the Northwest 175 Rooms Strictly Fireproof 
-    <figure/> 
-    BREEN HOTEL 
-    H.J. BREEN, MGR. 
-    St. Cloud, Minn. 
-Hiddy, it's a shame you had to be chagrined for each of money! It mustnt be. Endless love, Dad. 
--3-
-P.S. 
-10:30 P.M. same day! 
-Am through here. Swede audience, or at least very largely swede. They fell for it as usual, & called me from behind the curtain when I had really quit. They are not so quoteably civilized here as in Moorehead - Fargo, but they are quite all right. 
-Hiddy, I've just read yoiur lette rover two glasses of beer after the show. It's a great letter, Old Kid! I needn't tell you how dear you are to me & how highly I appraise you. 
+St. Cloud, Minn. </fw>
+<fw type="curatorial">29</fw>
+<opener>
+<dateline>Jan 22 '34
+</dateline>
+<salute>Dear Hiddy:</salute>
+</opener>
 
-30
-I went into that place in Minneapolis & saw the <unclear/> with holster that was advertised. It is practically new - no sign of wear anywhere inside or outside. I wanted it a lot, but of course it would be foolish to buy it. 
+<p>Mama sent on your letter about the fix you have been in, and I'm more soryr than I can say, I can't see how it happened, unless my first letter containing money and map reach you - or maybe it was the second. 
+Anyway, I don't want it ot happen again! Surely there is no need of it, 
+I've had a very fine trip. Will read here tonight &amp; catch the 5:50 tain for Minneapolis tomorrow morning, then take the 9:20 train from there for Grinnell. Will reach home Thursday. 
+(over)</p>
+
+<fw type="curatorial">30</fw>
+<p>30
+I went into that place in Minneapolis &amp; saw the <unclear/> with holster that was advertised. It is practically new - no sign of wear anywhere inside or outside. I wanted it a lot, but of course it would be foolish to buy it. 
 The weather has been five up here - even at Moorhead what is as far worth as Duluth. I arrived for the January thaw. They have had 30 below at Moorhead 25 at Minneapolis
 Endless love, Hiddy, 
 Dad,
 Comradely greetings to Elanita! 
 2 
 I am really happy about much, and you are a large part of the muchness! 
-Had an ambrosial evening with Dr. Richard Scammon, Dean of Medical Sciences at U. of Minnesota. he is a very distinguished man. You know, he is my old "Dick"- one of my best boyhood chums, We were inseparable as she ages of 9 & 10. We got together in five shops. He & his son & their University crowd are flaming Reds. The song is leader of the Farmen Labor Party in Minnesota, & he is only 18! the kid is 5ft. 5 1/2 in tall & weighs 260 lbs, also, he has a brain big enough for a such a body. 
-I feel he will get killed early in teh inevitable row. But he will be heard from How they, & another Prof., did endorse my prophetic guesses. 
-(over) 
+Had an ambrosial evening with Dr. Richard Scammon, Dean of Medical Sciences at U. of Minnesota. he is a very distinguished man. You know, he is my old "Dick"- one of my best boyhood chums, We were inseparable as she ages of 9 &amp; 10. We got together in five shops. He &amp; his son &amp; their University crowd are flaming Reds. The song is leader of the Farmen Labor Party in Minnesota, &amp; he is only 18! the kid is 5ft. 5 1/2 in tall &amp; weighs 260 lbs, also, he has a brain big enough for a such a body. 
+I feel he will get killed early in teh inevitable row. But he will be heard from How they, &amp; another Prof., did endorse my prophetic guesses. 
+(over)</p>
+
+<fw type="letterhead">One of the Finest in the Northwest 175 Rooms Strictly Fireproof 
+<figure/> 
+BREEN HOTEL 
+H.J. BREEN, MGR. 
+St. Cloud, Minn. </fw>
+
+<fw type="authorial">-3-</fw>
+<p>P.S. 
+10:30 P.M. same day! 
+Am through here. Swede audience, or at least very largely swede. They fell for it as usual, &amp; called me from behind the curtain when I had really quit. They are not so quoteably civilized here as in Moorehead - Fargo, but they are quite all right. 
+Hiddy, I've just read yoiur lette rover two glasses of beer after the show. It's a great letter, Old Kid! I needn't tell you how dear you are to me &amp; how highly I appraise you.
+Hiddy, it's a shame you had to be chagrined for each of money! It mustnt be. </p>
+<closer>
+<salute>Endless love,</salute>
+<signed>Dad.</signed>
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

@@ -1,21 +1,151 @@
 <?xml version="1.0" encoding="UTF-8"?>
-12
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.12.14">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Anna Hempstead to Hilda Neihardt, November 18th 1930</title>
+<author>Hempstead, Anna</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.9.12.14</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Anna Hempstead to Hilda Neihardt, November 18th 1930</title>
+<date when="1930-11-18">Novemeber 18th, 1930</date>
+<extent>3 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="https://viaf.org/viaf/51292737">Branch, Anna Hempstead, 1875-1937</persName>
+<placeName ref="http://www.geonames.org/5128581">New York City (N.Y.)</placeName>
+<date when="1930-11-18"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Hilda</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Hilda</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="envelope">
+
+<pb facs="nei.j4b.12.14.001" />
+<fw type="curatorial">12
 2-
 3
-Petri Collection 
-W.H.B
-THE POETS' GUILD 
-CHRISTODORA HOUSE, 147 AVENUE B
-NEW YORK CITY 
-UNITEDSTATESPOSTAGE <FIGURE/> 2CENTS2
-NEW YORK, N.Y. NOV18 10-PM 1930
-TOMPKR
-Miss Hilda Neihardt
-Branson-
-Missouri -
+Petri Collection </fw>
 
-13
-EXECUTIVE COMMITTEE OF THE POETS' GUILD 
+<note type="authorial">W.H.B</note>
+
+<ab>
+<address>
+<addrLine>THE POETS' GUILD</addrLine>
+<addrLine>CHRISTODORA HOUSE, 147 AVENUE B</addrLine>
+<addrLine>NEW YORK CITY</addrLine>
+</address>
+</ab>
+
+<figure type="stamp"><ab>NEW YORK, N.Y. NOV18 10-PM 1930</ab></figure>
+<figure type="stamp"><ab>TOMPKR UNITEDSTATESPOSTAGE 2CENTS2</ab></figure>
+
+<ab>
+<address>
+<addrLine>Miss Hilda Neihardt</addrLine>
+<addrLine>Branson-
+Missouri -
+</addrLine>
+</address>
+</ab>
+</div1>
+
+<div1 type="letter">
+<fw type="curatorial">13</fw>
+<fw type="letterhead">EXECUTIVE COMMITTEE OF THE POETS' GUILD 
 WILLIAM ROSE BENET
 ANNA HEMPSTEAD BRANCH
 CURTIS HIDDEN PAGE 
@@ -40,13 +170,29 @@ DIRECTOR, FOREIGN LANGUAGE INFORMATION BUREAU
 MRS. SETH M. MILLIKEN 
 MRS. DWIGHT W. MORROW
 MRS. EDGERTON PARSONS
-MRS. J. ROSS STEVENSON 
-To Hilda Neihardt - <unclear/> from "te mont in the kitchen". 
-"god get to us to humble duty. Each act tent he will hav eus do I habed round with stongest beauty-
-GF his meanest chill he asks. 
-Terrific deer at comic tasks - Anna Hempsted Brand. 
+MRS. J. ROSS STEVENSON </fw>
+<opener>
+<dateline>
+</dateline>
+<salute>To Hilda Neihardt - </salute>
+</opener>
 
-14
+<p><unclear/> from "te mont in the kitchen". 
+"god get to us to humble duty. Each act tent he will hav eus do I habed round with stongest beauty-
+GF his meanest chill he asks. Terrific deer at comic tasks -</p>
+
+<closer>
+<salute></salute>
+<signed> Anna Hempsted Brand. </signed>
+<note>14
 Nov. 17-1930
 Dear Hilda,
-By the time you are an old lady what a wonderful collection you will have - I can just imagine you askign it to your grandchildren I try will say "6h grandma - to think you lived then"! thank you for you charming litter - Anna Hempsted Branch. 
+By the time you are an old lady what a wonderful collection you will have - I can just imagine you askign it to your grandchildren I try will say "6h grandma - to think you lived then"! thank you for you charming litter - Anna Hempsted Branch.</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

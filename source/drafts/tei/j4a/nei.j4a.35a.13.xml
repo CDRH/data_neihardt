@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.33.6">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.35a.13">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Frank P Piskor to John G. Neihardt, January 14, 1969</title>
-<author>Piskor, Frank P</author>
+<title type="main">Letter from NaOma Levy to John G. Neihardt, April 27, 1971</title>
+<author>Levy, NaOma</author>
 <principal>Gossin, Pamela</principal>
 </titleStmt>
 <editionStmt>
@@ -31,7 +31,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno>nei.j4a.33.6</idno>
+<idno>nei.j4a.35a.13</idno>
 <availability>
 <p></p>
 </availability>
@@ -42,9 +42,9 @@
 <sourceDesc>
 <bibl>
 <author></author>
-<title level="m" type="main">Letter from Frank P Piskor to John G. Neihardt, January 14, 1969</title>
-<date when="1969-01-14">January 14, 1969</date>
-<extent>1 page</extent>
+<title level="m" type="main">Letter from NaOma Levy to John G. Neihardt, April 27, 1971</title>
+<date when="1971-04-27">April 27, 1971</date>
+<extent>pages</extent>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -83,19 +83,18 @@
 <term></term>
 </keywords>
 <keywords scheme="original" n="works">
-<term>A BUNDLE OF MYRR</term>
-<term>DIVINE ENCHANTMENT</term>
+<term>Cycle of the West</term>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName ref="http://viaf.org/viaf/57967790">Piskor, Frank Peter</persName>
-<placeName ref="http://www.geonames.org/5140405">Syracuse (N.Y.)</placeName>
-<date when="1969-01-14"/>
+<persName>Levy, NaOma</persName>
+<placeName ref="http://www.geonames.org/4407066">St. Louis (Mo.)</placeName>
+<date when="1971-04-27"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
-<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+<placeName></placeName>
 </correspAction>
 </correspDesc>
 <particDesc>
@@ -115,38 +114,37 @@
 
 <div1 type="letter">
 
-<pb facs="nei.j4a.33.6.001" />
-<fw type="curatorial">6</fw>
+<pb facs="nei.j4a.35a.13.001" />
+<fw type="curatorial">13</fw>
 <note type="curatorial"></note>
 
-<fw type="letterhead">SYRACUSE UNIVERSITY
-VICE PRESIDENT FOR ACADEMIC AFFAIRS SYRACUSE, NEW YORK 13210
-TELEPHONE 315 476-5541 EXTENSION 2494</fw>
 <opener>
-<dateline>January 14, 1969
-</dateline>
 <address>
-<addrLine>Mr. John G. Neihardt</addrLine>
-<addrLine>5835 Vine Street</addrLine>
-<addrLine>Lincoln, Nebraska 68505</addrLine>
+<addrLine>Mrs. Edward R. Levy
+</addrLine>
+<addrLine>12288 Prinster
+</addrLine>
+<addrLine>St. Louis, Mo. 63141
+</addrLine>
 </address>
-<salute>Dear Mr. Neihardt:</salute>
+<dateline>April 27, 1971
+</dateline>
+<salute>Dear Dr. Neihardt,
+</salute>
 </opener>
 
-<p>How can we thank you for your generosity in sending on the DIVINE ENCHANTMENT for the Syracuse University Library and the Neihardt Collection. It is a real treasure and a high point in our academic year. Please accept our deep thanks and know that it is in the Arents Room, the Rare Book Room of the University.</p>
-
-<p>I am also sending on a xerox copy of A BUNDLE OF MYRR, which you permitted the Western Historical Manuscript Collection at the University of Missouri to release to us. Even though the xerox has your signature, I would like your special notation on the copy.</p>
-
-<p>Mrs. Young advises that your second operation is now behind you and that is a relief to all of us.</p>
-
-<p>Kindest personal regards.</p>
+<p>What a thrill is was for me to see you again after so many years. Your appearance on the Dick Cavett Show was a sincere pleasure.</p>
+<p>I attended the University of Missouri form 1954-1958. The absolute highlight of my entire college
+career was the semester (spring '58) I took your course, "Epoch America." I treasure your
+inscription in my copy of <hi rend="underline">Cycle of the West</hi>.</p>
+<p>For many years I taught fifth grade. I never missed a year of reading some of your work to my students.</p>
+<p>God bless you.</p>
 
 <closer>
-<salute>
-Sincerely,</salute>
-<signed>Frank P Piskor</signed>
-<note>Frank P. Piskor
-FPP:mb</note>
+<salute>Most sincerely,
+</salute>
+<signed>NaOma Levy</signed>
+<note></note>
 </closer>
 
 </div1>
@@ -155,4 +153,3 @@ FPP:mb</note>
 <back></back>
 </text>
 </TEI>
-

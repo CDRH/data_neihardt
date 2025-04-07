@@ -1,23 +1,163 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Missouri Collection 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.7.42.43">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Alice Culler Neihardt, November 10, 1928</title>
+<author>Neihardt, John G.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.7.42.43</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from John G. Neihardt to Alice Culler Neihardt, November 10,
+1928</title>
+<date when="1928-11-10">November 10, 1928</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/4815241">Montgomery (W. Va.)</placeName>
+<date when="1928-11-20"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Alice Culler</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Alice Culler</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4.7.42.43.001" />
+<fw type="curatorial">42</fw>
+<note type="curatorial"></note>
+
+<fw type="letterhead">Missouri Collection 
 42
 New River State School
 C. H. MARTIN, PRESIDENT 
 MONTGOMERY, WEST VA. 
 JULIUS TEMPLE HOUSE, HEAD 
 DEPARTMENT OF ENGLISH 
-EDITOR CURRENT AMERICAN LITERATURE 
-Saturday 
+EDITOR CURRENT AMERICAN LITERATURE </fw>
+<opener>
+<dateline>Saturday 
 [Nov. 10, 1928]
-Dear Mama: 
-Had a wonderful reception here last night. The crowd came from up & down the valley - some as far as 40 miles. Perfect attention and they would have listened an hour longer, the whole crowd stayed to shake hands. One professor said that only a band concert had ever held the people like that. 
-I'll go on from here to Washington D. C. & then to Boston <unclear/> new york. Will write you from Boston. 
-This is a beautiful country - like Branson, except that the hills are higher & steepes. 
-The Houses asked all about you & seemed really glad to hear. 
-Today I had dinner (at noon) away out on Paint Creek in the mountains. Rode four hours on the banks of the Ohrs yesterday on the way here from Cincinnati Washington D.C. is only 400 miles from here. 
+</dateline>
+<salute>Dear Mama:</salute>
+</opener>
 
-43
-you must remember the Coal War of West Va. 10 years ago, when Mother Love, was sent to fusion. Paint Creek is where that happened. Not much to say now, but I'll write again. 
-I love you always, Mamma. 
-John. 
-Milk 
+<p>Had a wonderful reception here last night. The crowd came from up &amp; down the valley - some as far as 40 miles. Perfect attention and they would have listened an hour longer, the whole crowd stayed to shake hands. One professor said that only a band concert had ever held the people like that.</p>
+
+<p>I'll go on from here to Washington D. C. &amp; then to Boston <unclear/> new york. Will write you from Boston.</p>
+
+<p>This is a beautiful country - like Branson, except that the hills are higher  steepes. 
+The Houses asked all about you  seemed really glad to hear.</p>
+
+<p>Today I had dinner (at noon) away out on Paint Creek in the mountains. Rode four hours on the banks of the Ohrs yesterday on the way here from Cincinnati Washington D.C. is only 400 miles from here. </p>
+
+<fw type="curatorial">43</fw>
+
+<p>you must remember the Coal War of West Va. 10 years ago, when Mother Love, was sent to fusion. Paint Creek is where that happened. Not much to say now, but I'll write again. </p>
+
+<closer>
+<salute>I love you always, Mamma</salute>
+<signed>. 
+John. </signed>
+<note>Milk</note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

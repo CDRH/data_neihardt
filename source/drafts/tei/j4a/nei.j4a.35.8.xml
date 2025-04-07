@@ -1,6 +1,125 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Page 8
-SHAWNEE MISSION SOUTH HIGH SCHOOL
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4a.35.8">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Donald E. Wilson and Kent Snyder to John G. Neihardt, January 21, 1971</title>
+<author>Wilson, Donald E., Snyder, Kent</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4a.35.8</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Donald E. Wilson to John G. Neihardt, January 21, 1971</title>
+<date when="1971-01-21">January 21, 1971</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Wilson, Donald E.</persName>
+<persName>Snyder, Kent</persName>
+<placeName>Shawnee Mission, Kansas</placeName>
+<date when="1971-01-21"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5072006">Lincoln (Neb.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, John Gneisenau, 1881-1973</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Morrison, Ashley</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4a.35.8.001" />
+<fw type="curatorial">8</fw>
+<note type="curatorial"></note>
+
+<fw type="letterhead">SHAWNEE MISSION SOUTH HIGH SCHOOL
 SHAWNEE MISSION PUBLIC SCHOOLS
 5800 WEST 107TH STREET
 SHAWNEE MISSION, KANSAS 66207
@@ -15,32 +134,43 @@ DONALD E. WILSON
 Vice-Principal
 JAMES A. MCCOY
 Administrative
-Assistant
+Assistant</fw>
+<opener>
+<dateline>January 21, 1971
+</dateline>
+<note type="authorial">Dr. John G. Neihardt
+Lincoln, Nebraska</note>
+<salute>Dear Dr. Neihardt:</salute>
+</opener>
 
-January 21, 1971
 
-Dr. John G. Neihardt
-Lincoln, Nebraska
-
-Dear Dr. Neihardt:
 <p>On behalf of Shawnee Mission South High School students and faculty, I am very pleased to extend a warm invitation for you to present readings from your poetry works before our student body (approximately 1200) at 1 p.m., February 3, at 5800 West 107th Street, Overland Park.</p>
 <p>We are deeply appreciative that Mr. Frank Szasz has been so helpful in arranging this unique opportunity for our high school English and social science students to listen to the reading of a distinguished poet.</p>
-<p>It is my understanding that the Kansas City <underline>Star Magazine</underline> will be photographing your presentation and the informal reception which the Shawnee Mission South Student Congress is planning following the assembly.</p>
-<p>I know that the young people will gain from your recitation; we look forward to having you as our guest.</p>
-<p>If there are friends in the Kansas City area to whom you wish me to extend a specail invitation to be with us at this time, please let me know. Let us hear from you if we can help in any way in your planning for this assembly.</p>
-Sincerely yours,
-<signed>Donald E. Wilson</signed>
-Donald E. Wilson
-Vice Principal
-<signed>Kent V. Snyder</signed>
-Kent Snyder
-Co-Chairman,
-Eisenhower Symposium
 
-cc
+<p>It is my understanding that the Kansas City <hi rend="underline">Star Magazine</hi> will be photographing your presentation and the informal reception which the Shawnee Mission South Student Congress is planning following the assembly.</p>
+
+<p>I know that the young people will gain from your recitation; we look forward to having you as our guest.</p>
+
+<p>If there are friends in the Kansas City area to whom you wish me to extend a specail invitation to be with us at this time, please let me know. Let us hear from you if we can help in any way in your planning for this assembly.</p>
+
+<closer>
+<salute>Sincerely yours,</salute>
+<signed>Donald E. Wilson</signed>
+<note>Donald E. Wilson
+Vice Principal</note>
+<signed>Kent V. Snyder</signed>
+<note>Co-Chairman,
+Eisenhower Symposium</note>
+<note type="authorial">cc
 cc-Frank Szasz
 Violet Van Zilen
 W. Johnson
-Kent Snyder
+Kent Snyder</note>
+</closer>
 
-ADMINISTRATION BUILDING 7235 ANTIOCH SHAWNEE MISSION, KANSAS 66204
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

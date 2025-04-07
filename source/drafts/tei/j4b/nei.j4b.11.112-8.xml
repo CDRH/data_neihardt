@@ -1,41 +1,185 @@
 <?xml version="1.0" encoding="UTF-8"?>
-112
-29 Fink Collection March 21 
-Neihardt Branson Mo. 
-BRANSON MAR 22 3-PM 1935 MO. 
-UNITEDSTATES <FIGURE/> 3CENTS3
-Miss Enid Neihardt 
-Suite 118
-150 West 47th St. 
-Hotel Somerset 
-N.Y. New York City 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-113
-March 21
-Dearest Enid: 
-So much I have to thank you for dear! The wonderful choco-lates which I am going to open Sunday! They will be a treat- Sigurd and Maxine are here with us while their plans for the future are maturing - and it is so very wonderful to have them. Maxine grows dearer and sweeter the better you run ber - and she has knew such a help to me as well as to Daddy. It looks as though Mr Gillespie might hire Sigurd as caretaker and general help in which case they will live in the 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.11.112.118">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Mona Martinsen Neihardt to Enid Neihardt, March 22, 1935</title>
+<author>Neihardt, Martinsen Mona</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2020</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.11.112.118</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
 
-lovely home that they have left while staying on their ranch - but this will not be decided till about Sun-day - So we will see what Fate has in store for them - and mean-while we are so happy they are here. Mr Latham shoudl get in touch with you soon - he is to come here on his trip West - how nice it will be to have him! Yes dear I'm so glad you are where you are - there is nothing for you here. The High-way is actually going in - they have put a big culvert right at our drive way! We hear and see absolutely nothing of Garners - 
+<notesStmt><note></note></notesStmt>
 
-114 
-<unclear/> Heavens. -Every one continues to be so interested in you and how you are liking N.Y. Dearie you must write to Francie, don't forget! People all around have bene so pleased to hear form you! - Don't be over anxious to get married, dearie - you think you are wasting years - but they are all to the good - for after all marriage is a state of being in prison and why go there when you can form your own character and be free to be yourself? You are only just beginning to do that! Go to the "Artists' League" the School I attended a few months. It is in the 50s, not far from you - and there you can find out about illumination, if they do not teach it, Go next weekend, and sell me what you have found out, will you? 
-I suppose you will be making some thing cute for Tritzie's Baby - and at the same time you might make some thing for Maxine who has ordered a boy on your birthday, and 
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Mona Martinsen Neihardt to Enid Neihardt, March 22, 1935</title>
+<date when="1935-03-22"></date>
+<extent>6 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
 
-115
-I have recorded the motion!! But don't tell till she herself writes you about it!- Daddy has made the "nozle" right in our Baby fountain and you should see how declara-tive and pretty it now is. ^shooting the water just right Also I am planning on irregular "woodsey" pool at the back - ground right below our "Kuoll." for water plants and baby fish etc I & will be lovely! The garden is so pretty - every thing leaping 
+</msDesc>
 
-116
-out, the Tarsythias are a golden blaze - and the pears are begin-ning to bloom! 
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term>Sigurd Neihardt</term>
+<term>Maxine Neihardt</term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Neihardt, Martinsen Mona</persName>
+<placeName ref="http://www.geonames.org/4378219">Branson (Mo.)</placeName>
+<date when="1935-03-22"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Enid</persName>
+<placeName ref="http://www.geonames.org/5128581">New York City (N.Y.)</placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Enid</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2020"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2020"><name>Hasan, Sara</name> Initial encoding</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="envelope">
+
+<pb facs="nei.j4b.11.112.118.001" />
+<fw type="curatorial">112</fw>
+<note type="curatorial">29 Fink Collection March 21</note>
+
+<fw>Neihardt Branson Mo.</fw>
+
+<ab type="postmark">BRANSON MAR 22 3-PM 1935 MO.</ab>
+
+<figure type="stamp"><ab>UNITEDSTATES 3CENTS3</ab></figure>
+
+<ab type="return">
+<address>
+<addrLine>Miss Enid Neihardt </addrLine>  
+<addrLine>Suite 118</addrLine>
+<addrLine>150 West 47th St.</addrLine>
+<addrLine>Hotel Somerset</addrLine>
+<addrLine>N.Y. New York City</addrLine>
+</address>
+</ab> 
+</div1>
+
+<div1 type="letter">
+<fw type="curatorial">113</fw>
+<opener>
+<dateline>March 21
+</dateline>
+<salute>Dearest Enid:</salute>
+</opener>
+
+<p>So much I have to thank you for dear! The wonderful choco-lates which I am going to open Sunday! They will be a treat- Sigurd and Maxine are here with us while their plans for the future are maturing - and it is so very wonderful to have them. Maxine grows dearer and sweeter the better you run ber - and she has knew such a help to me as well as to Daddy. It looks as though Mr Gillespie might hire Sigurd as caretaker and general help in which case they will live in the </p>
+
+<p>lovely home that they have left while staying on their ranch - but this will not be decided till about Sun-day - So we will see what Fate has in store for them - and mean-while we are so happy they are here. Mr Latham shoudl get in touch with you soon - he is to come here on his trip West - how nice it will be to have him! Yes dear I'm so glad you are where you are - there is nothing for you here. The High-way is actually going in - they have put a big culvert right at our drive way! We hear and see absolutely nothing of Garners -</p>
+
+<fw type="curatorial">114</fw>
+<p><unclear/> Heavens. -Every one continues to be so interested in you and how you are liking N.Y. Dearie you must write to Francie, don't forget! People all around have bene so pleased to hear form you! - Don't be over anxious to get married, dearie - you think you are wasting years - but they are all to the good - for after all marriage is a state of being in prison and why go there when you can form your own character and be free to be yourself? You are only just beginning to do that! Go to the "Artists' League" the School I attended a few months. It is in the 50s, not far from you - and there you can find out about illumination, if they do not teach it, Go next weekend, and sell me what you have found out, will you? 
+I suppose you will be making some thing cute for Tritzie's Baby - and at the same time you might make some thing for Maxine who has ordered a boy on your birthday, and</p>
+
+<fw type="curatorial">115</fw>
+<p>I have recorded the motion!! But don't tell till she herself writes you about it!- Daddy has made
+the "nozle" right in our Baby fountain and you should see how declara-tive and pretty it now is.
+^shooting the water just right Also I am planning on irregular "woodsey" pool at the back - ground
+right below our "Kuoll." for water plants and baby fish etc I &amp; will be lovely! The garden is so pretty - every thing leaping </p>
+
+<fw type="curatorial">116</fw>
+<p>out, the Tarsythias are a golden blaze - and the pears are begin-ning to bloom! 
 I am now painting the Ozark stump baby - and will send it this week. I wonder if Amamma will really like it - be sure and tell me just how it impresses you and her! 
 I do hope it reaches N.Y. in good condition, and will insure it for $100.00 if possible, as it would be a real tragedy to me were it broken. 
-Hidla sent me a little 
+Hidla sent me a little</p>
 
-117
-photograph of herself. It is sweet. but too old looking - 
+<fw type="curatorial">117</fw>
+<p>photograph of herself. It is sweet. but too old looking - 
 I wish you would have your picture taken for me - just a little one, and maybe you and Amama would have one taken together - that would be so wonderful - I don't mean an expensive one! There used to be places where you could have postcard pictures taken in New York - while you wait! 
-Did you see teh article in the March Cosmopolitan? quoting Bob Davis as sook, 
+Did you see teh article in the March Cosmopolitan? quoting Bob Davis as sook,</p>
 
-118
-along with other men of note who claim to know more about cooking than women!- You should read it -also the story by "Pearls. Buck" in the same issue: it is worth while, you should read it dear. 
-Be a good girl, kiss Amama for me, and find out. about illumination and em-broidery soon - Love, loads of it, 
-your old Mother. 
+<fw type="curatorial">118</fw>
+<p>along with other men of note who claim to know more about cooking than women!- You should read it -also the story by "Pearls. Buck" in the same issue: it is worth while, you should read it dear. 
+Be a good girl, kiss Amama for me, and find out. about illumination and em-broidery soon - </p>
+<closer>
+<salute>Love, loads of it,</salute>
+<signed>your old Mother.</signed>
+<note></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

@@ -1,23 +1,154 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Missouri Collection
-January 
-[Dec. 28, 1929]
-January 28, 1929
-5
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.j4b.5.6.X">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from John G. Neihardt to Alice Culler Neihardt, January 28, 1929</title>
+<author>Neihardt, John G.</author>
+<principal>Gossin, Pamela</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>The Papers of John G. Neihardt</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno>nei.j4b.5.6</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from John G. Neihardt to Alice Culler Neihardt, January 28, 1929</title>
+<date when="1929-01-28">January 28, 1929</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>John G. Neihardt Center Research Library, Aly Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Business</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="original" n="people">
+<term></term>
+</keywords>
+<keywords scheme="original" n="places">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="original" n="works">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="https://viaf.org/viaf/59087102">Neihardt, John Gneisenau, 1881-1973</persName>
+<placeName ref="http://www.geonames.org/5128581">New York City (N.Y.)</placeName>
+<date when="1929-01-28"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Neihardt, Alice Culler</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+<particDesc>
+<person role="recipient"><persName>Neihardt, Alice Culler</persName></person>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name>Carney, Mary Jo</name> Transcription</change>
+<change when="2018"><name>Hasan, Sara</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="nei.j4b.8.5.6.001" />
+<fw type="curatorial">5</fw>
+<note type="curatorial"></note>
+
+<fw type="letterhead">Missouri Collection
 CHRISTODORA HOUSE 
 147 AVENUE S. NEW YORK, N.Y.
 TELEPHONE ALGONQUIN 6400
-Monday Night 
-Dear Mama:
-Another big success! The reception this afternoon was a crush. People came who <del>was</del> board me at teh dinner & others who had been told about it. Such enthusiasm, and most all distinguished people. So many went on about my "marvelous way of reading" & I never had more appreciation from any audience. Mrs. Richard manifield <unclear/> was very enthusiastic 
-By the way, Lady Heath, the famous English aviatrix was in the audience at the Biltmore & raved about my stuff, I was 
+Monday Night</fw>
+<opener>
+<dateline>[Dec. 28, 1929]
+January 28, 1929
+</dateline>
+<salute>Dear Mama:</salute>
+</opener>
 
-6
-told today. 
+<p>Another big success! The reception this afternoon was a crush. People came who <del>was</del> board me at teh dinner &amp; others who had been told about it. Such enthusiasm, and most all distinguished people. So many went on about my "marvelous way of reading" &amp; I never had more appreciation from any audience. Mrs. Richard manifield <unclear/> was very enthusiastic 
+By the way, Lady Heath, the famous English aviatrix was in the audience at the Biltmore &amp; raved about my stuff, I was </p>
+
+<fw type="curatorial">6</fw>
+
+<p>told today. 
 I want you to feel what's going on here. 
-So many people are for me that I knew nothing about. 
-Endless love,
-Mama. 
-Jno. 
-Tomorrow evening the reception for me by Lady Speyer, wife of Sir Edgar Speyer.
-<unclear/>
+So many people are for me that I knew nothing about.</p>
+
+<closer>
+<salute>Endless love, Mama.</salute>
+<signed>Jno.</signed>
+<note>Tomorrow evening the reception for me by Lady Speyer, wife of Sir Edgar Speyer.
+<unclear/></note>
+</closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
