@@ -3,6 +3,7 @@ default:
   collection_desc: Neihardt Across the Spectrum
   solr_core: neihardt
   tei_solr_xsl: scripts/nonapi_neihardt2solr.xsl
+  tei_html_xsl: scripts/overrides/tei_to_html.xsl
   threads: 20
 development:
   solr_path: https://cdrhdev1.unl.edu/solr
